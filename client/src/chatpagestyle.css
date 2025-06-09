@@ -9,8 +9,8 @@
 
 
 .chat-page {
-    height: 1080px;
-    width: 1920px;
+    height: 100vh; /* Full viewport height */
+    width: 100vw; /* Full viewport width */
 }
 
 .chat-page .overlap {
@@ -21,27 +21,27 @@
 
 .chat-page .background {
     background-color: #00b55b29;
-    height: 1080px;
+    height: 100vh; /* Full viewport height */
     left: 0;
     position: absolute;
     top: 0;
-    width: 1920px;
+    width: 100vw; /* Full viewport width */
 }
 
 .chat-page .viper-art {
-    height: 973px;
-    left: 404px;
+    height: 90vh; /* Relative height */
+    left: 10vw; /* Adjust positioning */
     position: absolute;
     top: 0;
-    width: 1516px;
+    width: 80vw; /* Relative width */
 }
 
 .chat-page .input-field {
-    height: 106px;
-    left: 404px;
+    height: 10vh; /* Relative height */
+    left: 10vw; /* Adjust positioning */
     position: absolute;
-    top: 974px;
-    width: 1518px;
+    top: 90vh; /* Adjust positioning */
+    width: 80vw; /* Relative width */
 }
 
 .chat-page .overlap-group {
@@ -65,7 +65,7 @@
 .chat-page .text-wrapper {
     color: #292929;
     font-family: "Anonymous Pro-Regular", Helvetica;
-    font-size: 36px;
+    font-size: 2vw; /* Relative font size */
     font-weight: 400;
     left: 562px;
     letter-spacing: 0;
@@ -73,16 +73,16 @@
     opacity: 0.82;
     position: absolute;
     text-align: center;
-    top: 37px;
-    width: 393px;
+    top: 3vh; /* Adjust positioning */
+    width: 20vw; /* Relative width */
 }
 
 .chat-page .sidebar {
-    height: 1080px;
+    height: 100vh; /* Full viewport height */
     left: 0;
     position: absolute;
     top: 0;
-    width: 402px;
+    width: 20vw; /* Relative width */
 }
 
 .chat-page .div {
@@ -93,11 +93,11 @@
 }
 
 .chat-page .settings-UI {
-    height: 61px;
-    left: 6px;
+    height: 6vh; /* Relative height */
+    left: 1vw; /* Adjust positioning */
     position: absolute;
-    top: 1019px;
-    width: 183px;
+    top: 94vh; /* Adjust positioning */
+    width: 10vw; /* Relative width */
 }
 
 .chat-page .text-wrapper-2 {

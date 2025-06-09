@@ -14,8 +14,6 @@
     display: flex;
     flex-direction: column;
     justify-content: center;
-    height: 100vh; /* Full viewport height */
-    width: 100vw; /* Full viewport width */
     position: relative;
     text-align: center;
 }
@@ -78,7 +76,7 @@
 .home-page .welcome-to-sabine {
     color: transparent;
     font-family: "Michroma-Regular", Helvetica;
-    font-size: 96px;
+    font-size: 5vw; /* Relative font size */
     font-weight: 400;
     left: 350px;
     letter-spacing: 0;
@@ -86,8 +84,8 @@
     position: absolute;
     text-align: center;
     text-shadow: 10px 9px 0.6px #0000006b;
-    top: 0px;
-    width: 1504px;
+    top: 0; /* Adjust positioning */
+    width: 100%; /* Full width */
     align-self: center;
     
 }
@@ -126,7 +124,7 @@
     -webkit-text-stroke: 1px #000000;
     color: #ffffff;
     font-family: "Michroma-Regular", Helvetica;
-    font-size: 36px;
+    font-size: 2vw; /* Relative font size */
     font-weight: 400;
     left: 400px;
     letter-spacing: 0;
@@ -135,8 +133,8 @@
     position: absolute;
     text-align: center;
     text-shadow: 0px 4px 4px #0000006e;
-    top: 100px;
-    width: 100%;
+    top: 10vh; /* Adjust positioning */
+    width: 100%; /* Full width */
     
 }
 
@@ -155,9 +153,9 @@
 .home-page .input-field-container {
     display: flex;
     justify-content: center;
-    top: 60vh;
-    height: 100vh; /* Full viewport height */
-    width: 100vw; /* Full viewport width */
+    top: 60vh; /* Relative positioning */
+    height: auto; /* Adjust height */
+    width: 100%; /* Full width */
     position: relative; /* Ensure it takes the full space */
 }
 
@@ -169,8 +167,8 @@
 }
 
 .box {
-    height: 1080px;
-    width: 1920px;
+    height: 100vh; /* Full viewport height */
+    width: 100vw; /* Full viewport width */
 }
 
 .box .background-gradient {

@@ -1,14 +1,12 @@
-.box {
-    height: 1080px;
-    width: 1920px;
-}
+/* Adjusted to use relative units for viewport size */
+
 
 .box .background-gradient {
     background-blend-mode: color;
     background-color: #00b55b29;
-    height: 1080px;
+    height: 100vh;
     left: 0;
     position: fixed;
     top: 0;
-    width: 1920px;
+    width: 100vw;
 }
