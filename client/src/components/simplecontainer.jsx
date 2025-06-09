@@ -6,8 +6,14 @@ export default function SimpleContainer({ children }) {
   return (
     <React.Fragment>
       <CssBaseline />
-      <Container maxWidth="sm">
-        <Box sx={{ bgcolor: '#cfe8fc', height: '100vh' }}>{children}</Box>
+      <Container maxWidth={false} disableGutters>
+        <Box sx={{display: 'flex',
+                flexDirection: 'column', 
+                bgcolor: '#cfe8fc', 
+                height: '100vh', 
+                width: '100vw' }}>
+            {children}
+        </Box>
       </Container>
     </React.Fragment>
   );

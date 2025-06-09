@@ -5,6 +5,9 @@
     height: 106px;
     position: relative;
     width: 1066px;
+    justify-content: center;
+    align-items: center;
+    justify-self: center;
 }
 
 .input-field .text-wrapper {
@@ -12,12 +15,19 @@
     font-family: "Anonymous Pro-Regular", Helvetica;
     font-size: 36px;
     font-weight: 400;
-    left: 395px;
+
     letter-spacing: 0;
     line-height: normal;
     opacity: 0.82;
     position: absolute;
     text-align: center;
-    top: 36px;
+    width: '80vw';
+    max-width: 1066; 
+    margin: 5; 
+    padding: 2;
     white-space: nowrap;
+}
+
+#fullWidth {
+    border-color: 'white';
 }
