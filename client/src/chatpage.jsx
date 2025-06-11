@@ -1,77 +1,91 @@
-import React from "react";
+import React, { useState, useRef, useEffect } from "react";
 import "./chatpagestyle.css";
-import {ReactComponent as UserPFP} from "./img/user-profile-pic.svg";
-import {ReactComponent as ViperPFP} from "./img/viper-profile-pic.svg";
-import {ReactComponent as SettingsBtn} from "./img/settings-btn.svg";
+import { ReactComponent as UserPFP } from "./img/user-profile-pic.svg";
+import { ReactComponent as ViperPFP } from "./img/viper-profile-pic.svg";
+import { ReactComponent as SettingsBtn } from "./img/settings-btn.svg";
 
+
+//demo messages to simulate a chat history
+const demoMessages = [
+  { sender: "bot", text: "If you can clone KangKang, the best player in the world then create a team of 5 Kang Kangs. If not, consider Riehns, Valyn, Aspas, Nats, and Shanks.", time: "1:45AM 9/16/2024" },
+  { sender: "user", text: "You’re delusional.", time: "1:54AM 9/16/2024" },
+  { sender: "bot", text: "UUUHHHHHH you’re braindead", time: "1:57AM 9/16/2024" },
+  { sender: "bot", text: "track by track baby", time: "1:58AM 9/16/2024" },
+];
 
 export const ChatPage = () => {
-    return (
-        <div className="chat-page">
-            <div className="overlap">
-                <div className="background">
-                    <img src = {require("./img/viper-art.png")} className="viper-art" alt="Viper art" />
-                </div>
-                <div className="input-field">
-                    <div className="overlap-group">
-                        <div className="rectangle" />
-                        <div className="text-wrapper">ask a question</div>
-                    </div>
-                </div>
-                <div className="sidebar">
-                    <div className="div">
-                        <div className="settings-UI">
-                            <div className="text-wrapper-2">settings</div>
-                            <SettingsBtn  className="settings-button" alt="Settings button"/>
-                        </div>
-                        <div className="chat">
-                            <p className="p">who is the best initiator in NA?</p>
-                            <div className="chat-2" />
-                        </div>
-                        <div className="chat-3">
-                            <div className="text-wrapper-3">is yay washed?</div>
-                            <div className="chat-4" />
-                        </div>
-                        <div className="chat-5">
-                            <div className="chat-6" />
-                            <div className="text-wrapper-3">team builder</div>
-                        </div>
-                        <div className="text-wrapper-4">Chats</div>
-                    </div>
-                </div>
-                <div className="viper-message">
-                    <div className="overlap-2">
-                        <div className="message-bubble" />
-                        <p className="if-you-can-clone">
-                            If you can clone KangKang, the best player
-                            <br />
-                            in the world then create a team of 5<br />
-                            Kang Kangs. If not, consider Riehns,
-                            <br />
-                            Valyn, Aspas, Nats, and Shanks.
-                        </p>
-                    </div>
-                    <ViperPFP className="viper-profile-pic" alt="Viper profile pic" />
-                    <div className="text-wrapper-5">1:45AM 9/16/2024</div>
-                </div>
-                <div className="viper-message-2">
-                    <div className="overlap-3">
-                        <div className="message-bubble-2" />
-                        <div className="text-wrapper-6">UUUHHHHHH you’re braindead</div>
-                    </div>
-                    <ViperPFP className="img" alt="Viper profile pic"/>
-                    <div className="text-wrapper-7">1:57AM 9/16/2024</div>
-                </div>
-                <div className="user-message">
-                    <div className="overlap-4">
-                        <div className="message-bubble-3" />
-                        <div className="text-wrapper-8">You’re delusional.</div>
-                    </div>
-                    <UserPFP className="user-profile-pic" alt="User profile pic"/>
-                    <div className="text-wrapper-9">1:54AM 9/16/2024</div>
-                </div>
-            </div>
+  const [messages, setMessages] = useState(demoMessages);
+  const [input, setInput] = useState("");
+  const chatEndRef = useRef(null);
+
+  useEffect(() => {
+    chatEndRef.current?.scrollIntoView({ behavior: "smooth" });
+  }, [messages]);
+
+  const handleSend = (e) => {
+    e.preventDefault();
+    if (!input.trim()) return;
+    const date = new Date();
+    setMessages([...messages, { sender: "user", text: input, time: date.toLocaleString('en-US') }]);
+    setInput("");
+  };
+
+  return (
+    <div className="chat-gpt-layout">
+      <aside className="sidebar">
+        <div className="sidebar-header">
+          <span>Chats</span>
         </div>
-    );
-}
+        <div className="sidebar-chats">
+          <div className="sidebar-chat-item active">
+            <span>who is the best initiator in NA?</span>
+          </div>
+          <div className="sidebar-chat-item">
+            <span>is yay washed?</span>
+          </div>
+          <div className="sidebar-chat-item">
+            <span>team builder</span>
+          </div>
+        </div>
+        <div className="sidebar-settings">
+          <SettingsBtn className="settings-icon" />
+          <span>Settings</span>
+        </div>
+      </aside>
+      <main className="chat-main">
+        <div className="chat-messages">
+          {messages.map((msg, idx) => (
+            <div
+              key={idx}
+              className={`chat-message ${msg.sender === "user" ? "user" : "bot"}`}
+            >
+              {msg.sender === "bot" ? (
+                <ViperPFP className="chat-avatar" />
+              ) : (
+                <UserPFP className="chat-avatar" />
+              )}
+              <div className="chat-bubble">
+                <div className="chat-text">{msg.text}</div>
+                <div className="chat-time">{msg.time}</div>
+              </div>
+            </div>
+          ))}
+          <div ref={chatEndRef} />
+        </div>
+        <form className="chat-input-bar" onSubmit={handleSend}>
+          <input
+            className="chat-input"
+            type="text"
+            placeholder="Type your message..."
+            value={input}
+            onChange={e => setInput(e.target.value)}
+            autoFocus
+          />
+          <button className="send-btn" type="submit">Send</button>
+        </form>
+      </main>
+    </div>
+  );
+};
+
 export default ChatPage;
