@@ -3,7 +3,6 @@ import './homepagestyle.css';
 import { Link } from "react-router-dom";
 import BoxBasic from "./components/box";
 import SimpleContainer from "./components/simplecontainer";
-import Box from '@mui/material/Box';
 import FullWidthTextField from './components/textfield';
 
 export const HomePage = () => {
