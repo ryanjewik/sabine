@@ -1,6 +1,5 @@
 import React from 'react';
 import './homepagestyle.css';
-import { InputField } from "./inputfield";
 import { Link } from "react-router-dom";
 import BoxBasic from "./components/box";
 import SimpleContainer from "./components/simplecontainer";

@@ -4,7 +4,8 @@
     box-shadow: 5px 4px 4px #00000082;
     height: 106px;
     position: relative;
-    width: 1066px;
+    width: 85vw;
+    max-width: 1066px; 
     justify-content: center;
     align-items: center;
     justify-self: center;
