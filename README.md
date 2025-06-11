@@ -12,3 +12,8 @@ click launch, then studio
 click jupyterlabs on the left
 open a workspace (you might have to make one)
 go to terminal and clone repo into workspace
+
+cd into "flask-server"
+run "python server.py"
+cd into "client"
+run "npm start"
