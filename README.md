@@ -13,11 +13,11 @@ click jupyterlabs on the left
 open a workspace (you might have to make one)
 go to terminal and clone repo into workspace
 
-cd into "flask-server"
-run ".\venv\Scripts\activate"
-run "python server.py"
-cd into "client"
-run "npm start"
+1. cd into "flask-server"
+2. run ".\venv\Scripts\activate"
+3. run "python server.py"
+4. cd into "client"
+5. run "npm start"
 
 
 additional packages needed to install:
