@@ -17,3 +17,9 @@ cd into "flask-server"
 run "python server.py"
 cd into "client"
 run "npm start"
+
+
+additional packages needed to install:
+ - npm install axios
+ - npm install @mui/material @emotion/react @emotion/styled
+ - npm install @mui/material @mui/styled-engine-sc styled-components
