@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { useEffect } from 'react';
 import './homepagestyle.css';
 import { Link } from "react-router-dom";
 import BoxBasic from "./components/box";
@@ -6,6 +6,12 @@ import SimpleContainer from "./components/simplecontainer";
 import FullWidthTextField from './components/textfield';
 
 export const HomePage = () => {
+
+    useEffect(() => {
+        // This effect runs once when the component mounts
+        document.title = "Sabine - Home";
+    }, []);
+
     return (
         <SimpleContainer>
             <div className="home-page" style={{ display: 'grid', gridTemplateRows: '1fr 1fr', height: '100vh', backgroundImage: 'radial-gradient(circle,rgba(0, 255, 0, 0.63), #003300)' }}>

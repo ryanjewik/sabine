@@ -3,6 +3,7 @@ import "./chatpagestyle.css";
 import { ReactComponent as UserPFP } from "./img/user-profile-pic.svg";
 import { ReactComponent as ViperPFP } from "./img/viper-profile-pic.svg";
 import { ReactComponent as SettingsBtn } from "./img/settings-btn.svg";
+import axios from 'axios';
 
 /*
 //connect to mongoDB and fetch chat history
@@ -33,29 +34,55 @@ run().catch(console.dir);
 
 
 
-//demo messages to simulate a chat history
-const demoMessages = [
-  { sender: "bot", text: "If you can clone KangKang, the best player in the world then create a team of 5 Kang Kangs. If not, consider Riehns, Valyn, Aspas, Nats, and Shanks.", time: "1:45AM 9/16/2024" },
-  { sender: "user", text: "You’re delusional.", time: "1:54AM 9/16/2024" },
-  { sender: "bot", text: "UUUHHHHHH you’re braindead", time: "1:57AM 9/16/2024" },
-  { sender: "bot", text: "track by track baby", time: "1:58AM 9/16/2024" },
-];
-
 export const ChatPage = () => {
-  const [messages, setMessages] = useState(demoMessages);
+  const [messages, setMessages] = useState([]); // Start empty, will fetch from backend
   const [input, setInput] = useState("");
   const chatEndRef = useRef(null);
+
+  // Fetch messages from backend on mount
+  useEffect(() => {
+    const fetchMessages = async () => {
+      try {
+        const res = await axios.get('http://localhost:5000/get_messages');
+        if (res.data && res.data.messages) {
+          setMessages(res.data.messages);
+        }
+      } catch (err) {
+        console.error('Failed to fetch messages:', err);
+      }
+    };
+    fetchMessages();
+  }, []);
 
   useEffect(() => {
     chatEndRef.current?.scrollIntoView({ behavior: "smooth" });
   }, [messages]);
 
-  const handleSend = (e) => {
-    e.preventDefault();
+  const handleSend = async (event) => {
+    console.log('handleSend called'); // Debug: function called
+    if (event) event.preventDefault();
     if (!input.trim()) return;
+    
     const date = new Date();
-    setMessages([...messages, { sender: "user", text: input, time: date.toLocaleString('en-US') }]);
-    setInput("");
+    try {
+      await axios.post('http://localhost:5000/save_input', { input: input, sender: "user", timestamp: date.toLocaleString('en-US') });
+      console.log('Message saved to backend:', input); // Success log
+      setMessages([...messages, { sender: "user", text: input, timestamp: date.toLocaleString('en-US') }]);
+      setInput("");
+    } catch (error) {
+      console.error("Error sending message:", error);
+    }
+  };
+
+  const handleInputChange = (event) => {
+    setInput(event.target.value);
+    console.log('Input changed:', event.target.value); // Debug: input change
+  };
+
+  const handleInputKeyDown = (event) => {
+    if (event.key === 'Enter') {
+      handleSend(event);
+    }
   };
 
   return (
@@ -100,17 +127,18 @@ export const ChatPage = () => {
           ))}
           <div ref={chatEndRef} />
         </div>
-        <form className="chat-input-bar" onSubmit={handleSend}>
+        <div className="chat-input-bar">
           <input
             className="chat-input"
             type="text"
             placeholder="Type your message..."
             value={input}
-            onChange={e => setInput(e.target.value)}
+            onChange={handleInputChange}
+            onKeyDown={handleInputKeyDown}
             autoFocus
           />
-          <button className="send-btn" type="submit">Send</button>
-        </form>
+          <button className="send-btn" type="button" onClick={handleSend}>Send</button>
+        </div>
       </main>
     </div>
   );
