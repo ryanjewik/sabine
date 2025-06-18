@@ -31,3 +31,7 @@ sometimes when installing npm packages it breaks everything, run the following t
  - npm audit fix --force
  - Remove-Item -Recurse -Force node_modules, package-lock.json
  - npm install
+
+
+extra fixes:
+ - e:\sabine\.venv\Scripts\python.exe -m pip install pymongo
