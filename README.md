@@ -25,6 +25,8 @@ additional packages needed to install:
  - npm install @mui/material @emotion/react @emotion/styled
  - npm install @mui/material @mui/styled-engine-sc styled-components
  - pip install flask-cors
+ - pip install pymongo
+ - pip install psycopg2
 
 sometimes when installing npm packages it breaks everything, run the following to fix:
  - npm audit
