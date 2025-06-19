@@ -27,6 +27,7 @@ additional packages needed to install:
  - pip install flask-cors
  - pip install pymongo
  - pip install psycopg2
+ - pip install argon2-cffi
 
 sometimes when installing npm packages it breaks everything, run the following to fix:
  - npm audit
