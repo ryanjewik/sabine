@@ -14,7 +14,7 @@ open a workspace (you might have to make one)
 go to terminal and clone repo into workspace
 
 1. cd into "flask-server"
-2. run ".\venv\Scripts\activate"
+2. run ".\venv\Scripts\Activate.ps1"
 3. run "python server.py"
 4. cd into "client"
 5. run "npm start"
@@ -25,6 +25,9 @@ additional packages needed to install:
  - npm install @mui/material @emotion/react @emotion/styled
  - npm install @mui/material @mui/styled-engine-sc styled-components
  - pip install flask-cors
+ - pip install pymongo
+ - pip install psycopg2
+ - pip install argon2-cffi
 
 sometimes when installing npm packages it breaks everything, run the following to fix:
  - npm audit
