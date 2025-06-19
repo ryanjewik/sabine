@@ -29,13 +29,21 @@ except Exception as e:
 # Check if the connection was successful 
 if conn:
     print("Connected to the user accounts database successfully!")
+    cur.execute("""
+    CREATE TABLE IF NOT EXISTS user_accounts (
+        id SERIAL PRIMARY KEY,
+        username VARCHAR(100) NOT NULL UNIQUE,
+        password_hash VARCHAR(255) NOT NULL
+    )
+    """)
+    conn.commit()
 
 
 #messages database connection
 from pymongo.mongo_client import MongoClient
 from pymongo.server_api import ServerApi
 
-uri = "mongodb+srv://ryanjewik:Happyrhino8@cluster0.0drkzoy.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
+uri = ""
 client = MongoClient(uri, server_api=ServerApi('1'))
 # Send a ping to confirm a successful connection
 try:
@@ -117,9 +125,13 @@ def get_messages():
 
 @app.route("/login", methods=["POST"])
 def login():
+    print("attempting to login")
     data = request.get_json()
     username = data.get("username")
     password = data.get("password")
+    print("data received!: ", data)
+    if not username or not password:
+        return jsonify({"error": "Username and password are required"}), 400
     #hash the password for security
     ph = PasswordHasher(
         time_cost=2,  # Time cost for hashing
@@ -129,24 +141,23 @@ def login():
         salt_len=16  # Length of the salt
     )
     hashed_password = ph.hash(password)
-    
-
-    if not username or not password:
-        return jsonify({"error": "Username and password are required"}), 400
+    print("hashed password: ", hashed_password)
 
     # Fetch the user from the database
     cur.execute("SELECT * FROM user_accounts WHERE username = %s", (username,))
     user = cur.fetchone()
-
+    print("user fetched: ", user)
     if user:
-        if hashed_password == user['password_hash']:
-            confirmation = True
-            return jsonify({"message": "Login successful", "confirmation": confirmation}), 200
+        if hashed_password == user[2]:
+            
+            print("Login successful")
+            return jsonify({"message": "Login successful"}), 200
         else:
+            print("Invalid password")
             return jsonify({"error": "Invalid password"}), 401
     else:
-        confirmation = False
-        return jsonify({"error": "User not found", "confirmation": confirmation}), 404
+        print("User not found")
+        return jsonify({"error": "User not found"}), 404
 
 
 
@@ -187,3 +198,6 @@ if __name__ == "__main__":
     app.run(debug=True)
 
 
+cur.close()
+conn.close()
+client.close()

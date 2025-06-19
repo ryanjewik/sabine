@@ -29,16 +29,22 @@ export const HomePage = () => {
 
 
     const handleLoginSubmit = async(event) => {
-        event.preventDefault();
+        console.log("Login submitted with username:", loginUsername, "and password:", loginPassword);
+        if (event) event.preventDefault(); // Prevent default form submission behavior
+        console.log("past the preventDefault check");
         try {
+            console.log("attempting to send username and password to backend");
             const response = await axios.post('http://localhost:5000/login', {
                 username: loginUsername,
                 password: loginPassword
             });
+            console.log("response received from backend:", response.data);
             if (response.data.success) {
+                console.log('Login successful:', response.data);
                 setIsLoggedIn(true);
                 setLoginOpen(false);
             } else {
+                console.log('Login failed:', response.data.message);
                 alert(response.data.message);
             }
         } catch (error) {
@@ -46,8 +52,8 @@ export const HomePage = () => {
         }
     };
 
-    const handleSignUpSubmit = async(event) => {
-        event.preventDefault();
+    const handleSignUpSubmit = async(e) => {
+        
         // TODO: Add signup logic here
         //postgres database connection and signup logic
         //ensure there are no duplicates
@@ -64,9 +70,7 @@ export const HomePage = () => {
 
         } catch (error) {
             console.error('Error signing up:', error);
-            const confirmation = false;
         }
-        const confirmation = true;
         // what do I do with this data now?
         //automatically signin
         setIsLoggedIn(true);
@@ -128,7 +132,7 @@ export const HomePage = () => {
             <Dialog open={loginOpen} onClose={handleLoginClose}>
                 <DialogTitle className="custom-dialog-title" sx= {{fontFamily: 'Anonymous Pro-Regular, monospace'}}>Login</DialogTitle>
                 <DialogContent className="dialog-element">
-                    <form onSubmit={e => { e.preventDefault(); setLoginOpen(false); }} style={{ display: 'flex', flexDirection: 'column', gap: 16, minWidth: 300}}>
+                    <form onSubmit={e => {handleLoginSubmit(); setLoginOpen(false); }} style={{ display: 'flex', flexDirection: 'column', gap: 16, minWidth: 300 }}>
                         <TextField 
                             label="Username" 
                             value={loginUsername} 
