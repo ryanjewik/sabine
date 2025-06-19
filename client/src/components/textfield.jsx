@@ -38,11 +38,11 @@ export default function FullWidthTextField() {
             variant = "outlined"
             placeholder="Type your question here..." 
             sx={{
-                input: { color: 'white' },
-                label: { color: 'white' },
+                input: { color: '#cfe8fc' },
+                label: { color: '#cfe8fc' },
                 '& .MuiOutlinedInput-root': {
                   '& fieldset': {
-                    borderColor: 'white',
+                    borderColor: '#cfe8fc',
                   },
                   '&:hover fieldset': {
                     borderColor: 'green',
