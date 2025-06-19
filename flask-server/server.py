@@ -1,6 +1,9 @@
 from flask import Flask, redirect, url_for, request, jsonify
 from flask_cors import CORS
 from datetime import datetime
+import psycopg2
+from argon2 import PasswordHasher
+from argon2.exceptions import VerifyMismatchError
 
 #BACKEND FILE
 
@@ -11,11 +14,28 @@ CORS(app)
 inputs = []
 
 
-#database connection
+#user database connection
+try:
+    conn = psycopg2.connect(
+        database="user accounts",
+        user="postgres",
+        password="Happyrhino8!",
+        host="localhost",
+        port=5432
+    )
+    cur = conn.cursor()
+except Exception as e:
+    print("Error connecting to the database:", e)
+# Check if the connection was successful 
+if conn:
+    print("Connected to the user accounts database successfully!")
+
+
+#messages database connection
 from pymongo.mongo_client import MongoClient
 from pymongo.server_api import ServerApi
 
-uri = ""
+uri = "mongodb+srv://ryanjewik:Happyrhino8@cluster0.0drkzoy.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
 client = MongoClient(uri, server_api=ServerApi('1'))
 # Send a ping to confirm a successful connection
 try:
@@ -26,6 +46,8 @@ except Exception as e:
     
 db = client["chat_database"]
 chatzero = db.get_collection("chatzero")
+
+
 
 
 #app routing
@@ -90,6 +112,75 @@ def get_messages():
             "time": message.get("timestamp", "")
         })
     return jsonify({"messages": messages}), 200
+
+
+
+@app.route("/login", methods=["POST"])
+def login():
+    data = request.get_json()
+    username = data.get("username")
+    password = data.get("password")
+    #hash the password for security
+    ph = PasswordHasher(
+        time_cost=2,  # Time cost for hashing
+        memory_cost=2**16,  # Memory cost in KB
+        parallelism=1,  # Number of parallel threads
+        hash_len=32,  # Length of the hash
+        salt_len=16  # Length of the salt
+    )
+    hashed_password = ph.hash(password)
+    
+
+    if not username or not password:
+        return jsonify({"error": "Username and password are required"}), 400
+
+    # Fetch the user from the database
+    cur.execute("SELECT * FROM user_accounts WHERE username = %s", (username,))
+    user = cur.fetchone()
+
+    if user:
+        if hashed_password == user['password_hash']:
+            confirmation = True
+            return jsonify({"message": "Login successful", "confirmation": confirmation}), 200
+        else:
+            return jsonify({"error": "Invalid password"}), 401
+    else:
+        confirmation = False
+        return jsonify({"error": "User not found", "confirmation": confirmation}), 404
+
+
+
+@app.route("/signup", methods=["POST"])
+def signup():
+    data = request.get_json()
+    username = data.get("username")
+    password = data.get("password")
+    
+    #hash the password for security
+    ph = PasswordHasher(
+        time_cost=2,  # Time cost for hashing
+        memory_cost=2**16,  # Memory cost in KB
+        parallelism=1,  # Number of parallel threads
+        hash_len=32,  # Length of the hash
+        salt_len=16  # Length of the salt
+    )
+    hashed_password = ph.hash(password)
+
+    if not username or not password:
+        return jsonify({"error": "Username and password are required"}), 400
+
+    # Check for existing user
+    cur.execute("SELECT * FROM user_accounts WHERE username = %s", (username,))
+    existing_user = cur.fetchone()
+    if existing_user:
+        confirmation = False
+        return jsonify({"error": "User already exists", "confirmation": confirmation}), 400
+    # Create new user
+    cur.execute("INSERT INTO user_accounts (username, password) VALUES (%s, %s)", (username, hashed_password))
+    conn.commit()
+    confirmation = True
+    login()
+    return jsonify({"message": "User created successfully", "confirmation": confirmation}), 201
 
 
 if __name__ == "__main__":

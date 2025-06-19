@@ -10,6 +10,7 @@ import DialogTitle from '@mui/material/DialogTitle';
 import DialogContent from '@mui/material/DialogContent';
 import TextField from '@mui/material/TextField';
 import Button from '@mui/material/Button';
+import axios from 'axios';
 
 export const HomePage = () => {
     const chatEndRef = useRef(null);
@@ -19,29 +20,75 @@ export const HomePage = () => {
     const [loginPassword, setLoginPassword] = useState("");
     const [signupUsername, setSignupUsername] = useState("");
     const [signupPassword, setSignupPassword] = useState("");
+    const [isLoggedIn, setIsLoggedIn] = useState(false);
 
     const handleLoginOpen = () => { setLoginOpen(true); setSignupOpen(false); };
     const handleLoginClose = () => setLoginOpen(false);
     const handleSignupOpen = () => { setSignupOpen(true); setLoginOpen(false); };
     const handleSignupClose = () => setSignupOpen(false);
 
-    const handleLoginSubmit = (e) => {
-        e.preventDefault();
-        // TODO: Add login logic here
-        //postgres database connection and login logic
-        //
 
-        setLoginOpen(false);
+    const handleLoginSubmit = async(event) => {
+        event.preventDefault();
+        try {
+            const response = await axios.post('http://localhost:5000/login', {
+                username: loginUsername,
+                password: loginPassword
+            });
+            if (response.data.success) {
+                setIsLoggedIn(true);
+                setLoginOpen(false);
+            } else {
+                alert(response.data.message);
+            }
+        } catch (error) {
+            console.error('Error logging in:', error);
+        }
     };
 
-    const handleSignUpSubmit = (e) => {
-        e.preventDefault();
+    const handleSignUpSubmit = async(event) => {
+        event.preventDefault();
         // TODO: Add signup logic here
         //postgres database connection and signup logic
         //ensure there are no duplicates
+        
+        const error = validateSignup(signupUsername, signupPassword);
+        if (error) {
+            alert(error); // Or set an error state to display in the UI
+            return;
+        }
+        try {
+            await axios.post('http://localhost:5000/signup', { username: signupUsername, password: signupPassword });
+            console.log('User signed up:', signupUsername);
+            
 
+        } catch (error) {
+            console.error('Error signing up:', error);
+            const confirmation = false;
+        }
+        const confirmation = true;
+        // what do I do with this data now?
+        //automatically signin
+        setIsLoggedIn(true);
         setSignupOpen(false);
     };
+
+
+    //password validation function
+    const validateSignup = (username, password) => {
+    // Username: not empty (add more rules if needed)
+    if (!username.trim()) return "Username cannot be empty.";
+
+    // Password: at least 8 chars, 1 uppercase, 1 number, 1 special char
+    if (password.length < 8) return "Password must be at least 8 characters.";
+    if (!/[A-Z]/.test(password)) return "Password must have at least one uppercase letter.";
+    if (!/[0-9]/.test(password)) return "Password must have at least one number.";
+    if (!/[!@#$%^&*(),.?":{}|<>]/.test(password)) return "Password must have at least one special character.";
+
+    return null; // No errors
+    };
+
+
 
     return (
         <SimpleContainer>
@@ -61,15 +108,16 @@ export const HomePage = () => {
                     <FullWidthTextField placeholder="Ask a question" />
 
                     {/*extra buttons for login and signup */}
-                    <div className="button-container">
-                        <Grow in={true} timeout={2000}>
-                            <Link to="#" className="login-button" onClick={e => { e.preventDefault(); handleLoginOpen(); }}>Login</Link>
-                        </Grow>
-                        <Grow in={true} timeout={2000}>
-                            <Link to="#" className="login-button" onClick={e => { e.preventDefault(); handleSignupOpen(); }}>Sign Up</Link>
-                        </Grow>
-                    </div>
-
+                    {!isLoggedIn && (
+                        <div className="button-container">
+                            <Grow in={true} timeout={2000}>
+                                <Link to="#" className="login-button" onClick={e => { e.preventDefault(); handleLoginOpen(); }}>Login</Link>
+                            </Grow>
+                            <Grow in={true} timeout={2000}>
+                                <Link to="#" className="login-button" onClick={e => { e.preventDefault(); handleSignupOpen(); }}>Sign Up</Link>
+                            </Grow>
+                        </div>
+                    )}
 
                     <Link to="/chatpage" className="chat-link">Go to Chat Page</Link>
                 </BoxBasic>
