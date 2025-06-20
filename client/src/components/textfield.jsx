@@ -19,8 +19,8 @@ export default function FullWidthTextField() {
           } else {
               setError(false);
               try {
-                await axios.post('http://localhost:5000/save_input', { input: inputValue });
-                navigate("/chatpage");
+                await axios.post('http://localhost:5000/save_input', { input: inputValue});
+                navigate("/chatpage", { state: { userId: -1, input: inputValue } });
               } catch (error) {
                 console.error('Error saving input:', error);
               }

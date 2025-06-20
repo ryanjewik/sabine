@@ -1,6 +1,6 @@
 import React, { useEffect, useRef, useState } from 'react';
 import './homepagestyle.css';
-import { Link } from "react-router-dom";
+import { Link, useNavigate } from "react-router-dom";
 import BoxBasic from "./components/box";
 import SimpleContainer from "./components/simplecontainer";
 import FullWidthTextField from './components/textfield';
@@ -21,6 +21,8 @@ export const HomePage = () => {
     const [signupUsername, setSignupUsername] = useState("");
     const [signupPassword, setSignupPassword] = useState("");
     const [isLoggedIn, setIsLoggedIn] = useState(false);
+    const [userId, setUserId] = useState(null);
+    const navigate = useNavigate();
 
     const handleLoginOpen = () => { setLoginOpen(true); setSignupOpen(false); };
     const handleLoginClose = () => setLoginOpen(false);
@@ -28,6 +30,7 @@ export const HomePage = () => {
     const handleSignupClose = () => setSignupOpen(false);
 
 
+    
     const handleLoginSubmit = async(event) => {
         console.log("Login submitted with username:", loginUsername, "and password:", loginPassword);
         if (event) event.preventDefault(); // Prevent default form submission behavior
@@ -38,11 +41,12 @@ export const HomePage = () => {
                 username: loginUsername,
                 password: loginPassword
             });
-            console.log("response received from backend:", response.data);
-            if (response.data.success) {
+            if (response.status === 200) {
                 console.log('Login successful:', response.data);
                 setIsLoggedIn(true);
                 setLoginOpen(false);
+                setUserId(response.data.userId); // assuming backend returns userId
+                navigate('/chatpage', { state: { userId: response.data.userId } });
             } else {
                 console.log('Login failed:', response.data.message);
                 alert(response.data.message);
@@ -50,10 +54,12 @@ export const HomePage = () => {
         } catch (error) {
             console.error('Error logging in:', error);
         }
+        
     };
 
-    const handleSignUpSubmit = async(e) => {
-        
+    const handleSignUpSubmit = async(event) => {
+        console.log("Sign Up submitted with username:", signupUsername, "and password:", signupPassword);
+        if (event) event.preventDefault();
         // TODO: Add signup logic here
         //postgres database connection and signup logic
         //ensure there are no duplicates
@@ -64,32 +70,33 @@ export const HomePage = () => {
             return;
         }
         try {
-            await axios.post('http://localhost:5000/signup', { username: signupUsername, password: signupPassword });
-            console.log('User signed up:', signupUsername);
-            
-
+            const response = await axios.post('http://localhost:5000/signup', { username: signupUsername, password: signupPassword });
+            if (response.status === 201) {
+                const userId = response.data.userId
+                console.log('User signed up:', signupUsername);
+                setIsLoggedIn(true);
+                setSignupOpen(false);
+            }
         } catch (error) {
             console.error('Error signing up:', error);
+            alert(error.response.data.error);
         }
-        // what do I do with this data now?
-        //automatically signin
-        setIsLoggedIn(true);
-        setSignupOpen(false);
+        
     };
 
 
     //password validation function
     const validateSignup = (username, password) => {
-    // Username: not empty (add more rules if needed)
-    if (!username.trim()) return "Username cannot be empty.";
+        // Username: not empty (add more rules if needed)
+        if (!username.trim()) return "Username cannot be empty.";
 
-    // Password: at least 8 chars, 1 uppercase, 1 number, 1 special char
-    if (password.length < 8) return "Password must be at least 8 characters.";
-    if (!/[A-Z]/.test(password)) return "Password must have at least one uppercase letter.";
-    if (!/[0-9]/.test(password)) return "Password must have at least one number.";
-    if (!/[!@#$%^&*(),.?":{}|<>]/.test(password)) return "Password must have at least one special character.";
+        // Password: at least 8 chars, 1 uppercase, 1 number, 1 special char
+        if (password.length < 8) return "Password must be at least 8 characters.";
+        if (!/[A-Z]/.test(password)) return "Password must have at least one uppercase letter.";
+        if (!/[0-9]/.test(password)) return "Password must have at least one number.";
+        if (!/[!@#$%^&*(),.?":{}|<>]/.test(password)) return "Password must have at least one special character.";
 
-    return null; // No errors
+        return null; // No errors
     };
 
 
@@ -123,7 +130,7 @@ export const HomePage = () => {
                         </div>
                     )}
 
-                    <Link to="/chatpage" className="chat-link">Go to Chat Page</Link>
+                    <Link to="/chatpage" className="chat-link" state={{ userId: isLoggedIn ? userId : -1 }}>Go to Chat Page</Link>
                 </BoxBasic>
                 <div ref={chatEndRef} />
             </div>
@@ -132,7 +139,7 @@ export const HomePage = () => {
             <Dialog open={loginOpen} onClose={handleLoginClose}>
                 <DialogTitle className="custom-dialog-title" sx= {{fontFamily: 'Anonymous Pro-Regular, monospace'}}>Login</DialogTitle>
                 <DialogContent className="dialog-element">
-                    <form onSubmit={e => {handleLoginSubmit(); setLoginOpen(false); }} style={{ display: 'flex', flexDirection: 'column', gap: 16, minWidth: 300 }}>
+                    <form onSubmit={handleLoginSubmit} style={{ display: 'flex', flexDirection: 'column', gap: 16, minWidth: 300 }}>
                         <TextField 
                             label="Username" 
                             value={loginUsername} 
@@ -191,7 +198,7 @@ export const HomePage = () => {
             <Dialog open={signupOpen} onClose={handleSignupClose}>
                 <DialogTitle className="custom-dialog-title" sx= {{fontFamily: 'Anonymous Pro-Regular, monospace'}}>Sign Up</DialogTitle>
                 <DialogContent className="dialog-element">
-                    <form onSubmit={e => { e.preventDefault(); setSignupOpen(false); }} style={{ display: 'flex', flexDirection: 'column', gap: 16, minWidth: 300 }}>
+                    <form onSubmit={handleSignUpSubmit} style={{ display: 'flex', flexDirection: 'column', gap: 16, minWidth: 300 }}>
                         <TextField 
                             label="Username" 
                             value={signupUsername} 
