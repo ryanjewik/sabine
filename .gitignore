@@ -21,3 +21,10 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+/fandom
+/downloaded_games
+/game-changers
+/vct-challengers
+/vct-international
+

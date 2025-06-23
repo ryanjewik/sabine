@@ -44,7 +44,7 @@ if conn:
 from pymongo.mongo_client import MongoClient
 from pymongo.server_api import ServerApi
 
-uri = ""
+uri = "mongodb+srv://ryanjewik:Happyrhino8@cluster0.0drkzoy.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
 client = MongoClient(uri, server_api=ServerApi('1'))
 # Send a ping to confirm a successful connection
 try:

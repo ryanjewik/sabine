@@ -1,0 +1,7 @@
+.myenv
+.venv
+.idea/workspace.xml
+**/vct-international/
+**/game-changers/
+**/vct-challengers/
+**/games/
