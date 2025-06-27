@@ -88,7 +88,7 @@ def process_game_file(game_file_path, league, year):
 
     #function for roundDecided
     def count_round_decided(item):
-        global elimCount, defuseCount, detonateCount, spikePlantedCount, roundNumber
+        nonlocal elimCount, defuseCount, detonateCount, spikePlantedCount, roundNumber, teamOneRoundCount, teamTwoRoundCount
         cause = item['result']['spikeModeResult']['cause']
         if cause == "ELIMINATION":
             elimCount += 1
@@ -99,15 +99,13 @@ def process_game_file(game_file_path, league, year):
             detonateCount += 1
             spikePlantedCount += 1
         roundNumber += 1
-        eventList.append(f"Round {roundNumber - 1} ended with {cause.lower()}. The winning team is {team_name_dict[item['result']['winningTeam']['value']]}.")
+        eventList.append(f"Round {roundNumber - 1} ended with {cause.lower()}. The winning team is {team_name_dict[item['result']['winningTeam']['value']] }.")
         if item['result']['winningTeam']['value'] == list(team_name_dict.keys())[0]:
-            global teamOneRoundCount
             teamOneRoundCount += 1
         elif item['result']['winningTeam']['value'] == list(team_name_dict.keys())[1]:
-            global teamTwoRoundCount
             teamTwoRoundCount += 1
         eventList.append(f"The current score is {team_name_dict[list(team_name_dict.keys())[0]]} {teamOneRoundCount} - {teamTwoRoundCount} {team_name_dict[list(team_name_dict.keys())[1]]}.")
-        print(item)
+
 
     #fixes the "walltime" format
     def fix_walltime(timestamp: str) -> str:
