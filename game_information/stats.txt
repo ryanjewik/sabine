@@ -1,0 +1,76 @@
+VALORANT tracks a variety of statistics to measure player performance in matches. These stats are used for individual analysis, team scouting, and pro-level commentary. Below are the most important statistics, along with their meanings and significance.
+
+---
+
+**ACS (Average Combat Score)**  
+ACS is a single-value performance metric that reflects a player's impact per round. It takes into account damage dealt, kills, multi-kills, spike plants/defuses, and other combat-related actions.  
+- Higher ACS typically indicates high fragging power or impactful utility.
+- ACS is commonly used to compare top-performing players.
+
+---
+
+**Kills / Deaths / Assists (KDA)**  
+A traditional FPS metric:  
+- **Kills** – Number of enemy players eliminated.  
+- **Deaths** – Times the player was eliminated.  
+- **Assists** – Instances where a player helped get a kill through damage or utility.  
+KDA ratios (like 2.0 or 1.1) show consistency and survivability. Some support agents may have low kills but high assists.
+
+---
+
+**First Bloods**  
+This stat tracks the first kill in a round.  
+- A **first blood** can give the attacking or defending team a numbers advantage early.  
+- High first blood counts often belong to Duelists or aggressive players.
+
+---
+
+**First Deaths**  
+Tracks how often a player is the first to die.  
+- A high first-death rate can indicate risky play or poor positioning.  
+- Balanced players will have a favorable First Kill : First Death ratio.
+
+---
+
+**Headshot Percentage (HS%)**  
+Measures the percentage of shots that are headshots.  
+- Indicates mechanical aim precision.  
+- High HS% is often seen in Jett, Chamber, or Reyna mains.
+
+---
+
+**Damage per Round (ADR)**  
+Average amount of damage dealt per round.  
+- High ADR correlates with consistent damage output, even without getting kills.  
+- Useful for measuring overall effectiveness, especially for initiators or controllers.
+
+---
+
+**Kill/Assist/Survive/Trade (KAST)**  
+Percentage of rounds in which a player got a kill, assist, survived, or traded a teammate’s death.  
+- A holistic stat for overall contribution.  
+- High KAST indicates strong consistency and teamwork.
+
+---
+
+**Clutches & 1vX Wins**  
+Tracks how many times a player wins a round in a 1vX situation.  
+- Indicates strong mental fortitude and individual decision-making.
+
+---
+
+**Stat Relevance by Role**
+
+- **Duelists**: Focus on ACS, First Bloods, HS%, and K/D. Their job is to entry and frag effectively.  
+- **Initiators**: Look at assists, KAST, and ADR. They support with utility.  
+- **Controllers**: KAST and ADR are more important than K/D.  
+- **Sentinels**: May have lower frag stats but high KAST and clutch win rates due to anchoring roles.
+
+---
+
+**Connection Between First Bloods and Duelists**  
+Duelists are typically responsible for getting opening picks (first bloods) to create early-round advantages.  
+- Agents like Jett, Raze, and Reyna have movement tools and kits designed for taking early duels.  
+- A high first-blood rate with a low first-death rate is a hallmark of an effective Duelist.
+
+In pro VALORANT, coaches and analysts often use these stats to evaluate players' roles, decision-making, and consistency under pressure.
