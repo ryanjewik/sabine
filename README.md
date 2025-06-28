@@ -28,6 +28,8 @@ additional packages needed to install:
  - pip install pymongo
  - pip install psycopg2
  - pip install argon2-cffi
+ - pip install response
+ - pip install beautifulsoup4
 
 sometimes when installing npm packages it breaks everything, run the following to fix:
  - npm audit
