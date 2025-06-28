@@ -203,17 +203,22 @@ def process_game_file(game_file_path, league, year):
                 else:
                     eventList.append("GameDecided event missing 'winningTeam' key.")
                     print(f"Warning: 'winningTeam' key missing in gameDecided event for file {game_file_path}")
+                print(x[y])
             elif y == 'roundStarted':
                 if gameStartTime is None:
                     gameStartTime = x['metadata']['wallTime']
                     gameStartTime = fix_walltime(gameStartTime)
                     eventList.append(f"Game started at {gameStartTime}")
-                    
+                   
+                   
+       
+        
+                
+
     # After processing all events, check if 'roundDecided' exists in key_counts
     if 'roundDecided' not in key_counts:
         print("No game stats exist: 'roundDecided' not found in game data. Summary will not be created.")
         return
-                
 
     # Determine winning team if not set
     if 'winningTeamValue' not in locals():
@@ -282,15 +287,17 @@ def process_game_file(game_file_path, league, year):
     print(f"Summary written to {summary_filename}")
 
 
-# Main loop for all years and all JSON files
-league = "vct-international"  # or set as needed
-for year in [2022, 2023, 2024]:
-    year_dir = f"F:/VCT-data/{league}/{year}"
-    for filename in os.listdir(year_dir):
-        if filename.endswith(".json"):
-            game_file_path = os.path.join(year_dir, filename)
-            print(f"Processing {game_file_path}")
-            process_game_file(game_file_path, league, year)
+if __name__ == "__main__":
+    # Example usage: python singleGame.py F:/VCT-data/vct-international/2024/your_game_file.json vct-international 2024
+    import sys
+    if len(sys.argv) != 4:
+        print("Usage: python singleGame.py <game_file_path> <league> <year>")
+        sys.exit(1)
+    game_file_path = sys.argv[1]
+    league = sys.argv[2]
+    year = int(sys.argv[3])
+    print(f"Processing {game_file_path}")
+    process_game_file(game_file_path, league, year)
 
 
 
