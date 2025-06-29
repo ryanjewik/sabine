@@ -30,6 +30,8 @@ additional packages needed to install:
  - pip install argon2-cffi
  - pip install requests
  - pip install beautifulsoup4
+ - pip install langchain
+ - python -m pip install "pymongo[srv]"
 
 sometimes when installing npm packages it breaks everything, run the following to fix:
  - npm audit
