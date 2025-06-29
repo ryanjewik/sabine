@@ -35,6 +35,8 @@ additional packages needed to install:
  - langchain_mongodb
  - langchain_openai
  - langgraph
+ - pip install langchain langchain-core langchain-community langchain-openai
+
 
 sometimes when installing npm packages it breaks everything, run the following to fix:
  - npm audit
