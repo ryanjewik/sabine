@@ -32,6 +32,9 @@ additional packages needed to install:
  - pip install beautifulsoup4
  - pip install langchain
  - python -m pip install "pymongo[srv]"
+ - langchain_mongodb
+ - langchain_openai
+ - langgraph
 
 sometimes when installing npm packages it breaks everything, run the following to fix:
  - npm audit
