@@ -1,4 +1,5 @@
 import React, { useState, useRef, useEffect } from "react";
+import ReactMarkdown from 'react-markdown';
 import { Link, useLocation } from "react-router-dom";
 import "./chatpagestyle.css";
 import { ReactComponent as UserPFP } from "./img/user-profile-pic.svg";
@@ -111,7 +112,7 @@ export const ChatPage = () => {
           fetchConversations();
         }
       }
-      setMessages([...messages, { sender: "user", text: input, timestamp: date.toLocaleString('en-US') }]);
+      setMessages([...messages, { sender: "user", text: input, timestamp: date.toLocaleString('en-US') }, {sender: "bot", text: response.data.chatbot_response, timestamp: date.toLocaleString('en-US') }]);
       setInput("");
     } catch (error) {
       console.error("Error sending message:", error);
@@ -281,7 +282,13 @@ export const ChatPage = () => {
                 <UserPFP className="chat-avatar" />
               )}
               <div className="chat-bubble">
-                <div className="chat-text">{msg.text}</div>
+                <div className="chat-text">
+                  {msg.sender === "bot" ? (
+                    <ReactMarkdown>{msg.text}</ReactMarkdown>
+                  ) : (
+                    msg.text
+                  )}
+                </div>
                 <div className="chat-time">{msg.time}</div>
               </div>
             </div>

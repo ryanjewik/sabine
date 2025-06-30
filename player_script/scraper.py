@@ -145,7 +145,9 @@ country_regions = {
     "SY": "EMEA",
     "JO": "EMEA",
     "LB": "EMEA",
-    "PS": "EMEA"
+    "PS": "EMEA",
+    "EN": "EMEA",  # England
+    "UN": "EMEA"
 }
 
 
@@ -215,15 +217,60 @@ if playerTable:
         for key, td in zip(last_5_stats, last_tds):
             player_dict[key] = td.text.strip()
 
-        # Optional: print or collect the dict
-        # format summary
-        summary_lines = [f"{k}: {v}" for k, v in player_dict.items()]
-        summary_text = f"Player Profile: {player_dict['PLAYER']}\n" + "\n".join(summary_lines)
+        # Compose a natural language summary for RAG/embedding
+        player = player_dict['PLAYER']
+        region = player_dict['REGION']
+        country = player_dict['COUNTRY CODE']
+        agents = player_dict['AGENTS'] if player_dict['AGENTS'] else "various agents"
+        rounds = player_dict['ROUNDS']
+        rating = player_dict['RATING 2.0']
+        acs = player_dict['ACS']
+        kd = player_dict['K/D']
+        kills = player_dict['Kills']
+        deaths = player_dict['Deaths']
+        kast = player_dict['KAST']
+        adr = player_dict['ADR']
+        fpr = player_dict['FPR']
+        apr = player_dict['APR']
+        fkpr = player_dict['FKPR']
+        fdpr = player_dict['FDPR']
+        hs = player_dict['HS%']
+        cl = player_dict['CL%']
+        first_kills = player_dict['First Kills']
+        first_deaths = player_dict['First Deaths']
+        assists = player_dict['Assists']
+        
+        summary_text = "This is a collection of VCT {region} players and their statistics. They are ordered by RATING 2.0, which would typically indicate a player's ability (the higher the better). However this is not the only thing to take into consideration, players that show more consistency over an abundant amount of rounds would be desirable.\n\n"
 
-        filename = os.path.join("player_profiles", f"{player_dict['PLAYER']}_profile.txt")
-        with open(filename, "w", encoding="utf-8") as file:
-            file.write(summary_text)
+        summary_text += f"Player Profile: {player}\n\n"
+        summary_text += f"{player} is a player from the {region} region ({country}). They primarily play agents like {agents}. Across {rounds} rounds, their performance metrics include:\n\n"
+        summary_text += f"- Rating 2.0: {rating}\n"
+        summary_text += f"- Average Combat Score (ACS): {acs}\n"
+        summary_text += f"- Kill/Death ratio: {kd} ({kills} kills, {deaths} deaths)\n"
+        summary_text += f"- KAST (Kill, Assist, Survive, Trade): {kast}\n"
+        summary_text += f"- Average Damage per Round (ADR): {adr}\n"
+        summary_text += f"- First Kill Participation Rate (FKPR): {fkpr}\n"
+        summary_text += f"- First Death Participation Rate (FDPR): {fdpr}\n"
+        summary_text += f"- Headshot percentage: {hs}\n"
+        summary_text += f"- Assist rate (APR): {apr}\n"
+        summary_text += f"- Clutch success rate: {cl}\n"
+        summary_text += f"- First kills: {first_kills}\n"
+        summary_text += f"- First deaths: {first_deaths}\n"
+        summary_text += f"- Assists: {assists}\n\n"
 
-        print(f"Saved profile for {player_dict['PLAYER']} to {filename}")
 
-        print("\n")
+
+        # Collect player summaries by region
+        if 'region_summaries' not in globals():
+            region_summaries = {'APAC': [], 'AMERICAS': [], 'EMEA': [], 'CHINA': [], 'INTL': []}
+        region_key = region if region in region_summaries else 'INTL'
+        region_summaries[region_key].append(summary_text)
+
+# After the playerTable loop, write region summaries to separate files
+if 'region_summaries' in globals():
+    for region, summaries in region_summaries.items():
+        if summaries:
+            filename = os.path.join("player_profiles", f"{region}_player_profiles.txt")
+            with open(filename, "w", encoding="utf-8") as file:
+                file.write("\n".join(summaries))
+            print(f"Saved {region} player profiles to {filename}")

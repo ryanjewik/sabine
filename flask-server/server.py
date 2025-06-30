@@ -5,6 +5,32 @@ import psycopg2
 from pymongo import DESCENDING
 from argon2 import PasswordHasher
 from argon2.exceptions import VerifyMismatchError
+from pymongo.errors import OperationFailure
+from pymongo.operations import SearchIndexModel
+import langchain
+from langchain_core.documents import Document
+import glob
+from langchain_mongodb.retrievers import MongoDBAtlasParentDocumentRetriever
+from langchain_openai import OpenAIEmbeddings
+from langchain_text_splitters import RecursiveCharacterTextSplitter
+import asyncio
+from typing import Generator, List
+from langchain_core.output_parsers import StrOutputParser
+from langchain_core.prompts import ChatPromptTemplate
+from langchain_core.runnables import RunnablePassthrough
+from langchain_openai import ChatOpenAI
+from typing import Annotated, Dict
+from langchain.agents import tool
+from langchain_core.prompts import ChatPromptTemplate, MessagesPlaceholder
+from langgraph.graph import END, START, StateGraph
+from langgraph.graph.message import add_messages
+from langgraph.prebuilt import ToolNode, tools_condition
+from typing_extensions import TypedDict
+import getpass
+import os
+from langgraph.checkpoint.mongodb import MongoDBSaver
+
+
 
 #BACKEND FILE
 
@@ -40,12 +66,18 @@ if conn:
     conn.commit()
 
 
+
+
 #messages database connection
 from pymongo.mongo_client import MongoClient
 from pymongo.server_api import ServerApi
 
-uri = ""
-client = MongoClient(uri, server_api=ServerApi('1'))
+
+#keys
+OPENAI_API_KEY = ""
+MONGODB_URI = ""
+
+client = MongoClient(MONGODB_URI, server_api=ServerApi('1'))
 # Send a ping to confirm a successful connection
 try:
     client.admin.command('ping')
@@ -54,7 +86,187 @@ except Exception as e:
     print(e)
     
 db = client["chat_database"]
-chatzero = db.get_collection("chatzero")
+
+
+
+
+#ingest the documents
+docs = []
+txt_folder = os.path.abspath(os.path.join(os.getcwd(), "../game_information/"))
+txt_files = glob.glob(os.path.join(txt_folder, "*.txt"))
+for file_path in txt_files:
+    with open(file_path, "r", encoding="utf-8") as f:
+        content = f.read()
+    doc = Document(page_content=content, metadata={"source": os.path.basename(file_path)})
+    docs.append(doc)
+print(f"Loaded {len(txt_files)} txt files into docs.")
+
+txt_folder = os.path.abspath(os.path.join(os.getcwd(), "../player_script/player_profiles/"))
+txt_files = glob.glob(os.path.join(txt_folder, "*.txt"))
+for file_path in txt_files:
+    with open(file_path, "r", encoding="utf-8") as f:
+        content = f.read()
+    doc = Document(page_content=content, metadata={"source": os.path.basename(file_path)})
+    docs.append(doc)
+print(f"Loaded {len(txt_files)} txt files into docs.")
+
+txt_folder = os.path.abspath(os.path.join(os.getcwd(), "../S3_retrieval/match_stats/match_summaries/"))
+txt_files = glob.glob(os.path.join(txt_folder, "*.txt"))
+for file_path in txt_files:
+    with open(file_path, "r", encoding="utf-8") as f:
+        content = f.read()
+    doc = Document(page_content=content, metadata={"source": os.path.basename(file_path)})
+    docs.append(doc)
+print(f"Loaded {len(txt_files)} txt files into docs.")
+
+embedding_model = OpenAIEmbeddings(
+    model="text-embedding-3-small",
+    api_key=OPENAI_API_KEY,
+)
+DB_NAME = "sabine"
+COLLECTION_NAME = "rag_docs"
+
+def get_splitter(chunk_size: int) -> RecursiveCharacterTextSplitter:
+    """
+    Returns a token-based text splitter with overlap
+
+    Args:
+        chunk_size (_type_): Chunk size in number of tokens
+
+    Returns:
+        RecursiveCharacterTextSplitter: Recursive text splitter object
+    """
+    return RecursiveCharacterTextSplitter.from_tiktoken_encoder(
+        encoding_name="cl100k_base",
+        chunk_size=chunk_size,
+        chunk_overlap=0.15 * chunk_size,
+    )
+    
+parent_doc_retriever = MongoDBAtlasParentDocumentRetriever.from_connection_string(
+    connection_string=MONGODB_URI,
+    embedding_model=embedding_model,
+    child_splitter=get_splitter(200),
+    database_name=DB_NAME,
+    collection_name=COLLECTION_NAME,
+    text_key="page_content",
+    search_kwargs={"top_k": 10},
+)
+BATCH_SIZE = 256
+MAX_CONCURRENCY  =4
+collection = client[DB_NAME][COLLECTION_NAME]
+VS_INDEX_NAME = "vector_index"
+
+# Vector search index definition
+model = SearchIndexModel(
+    definition={
+        "fields": [
+            {
+                "type": "vector",
+                "path": "embedding",
+                "numDimensions": 1536,
+                "similarity": "cosine",
+            }
+        ]
+    },
+    name=VS_INDEX_NAME,
+    type="vectorSearch",
+)
+
+# Check if the index already exists, if not create it
+try:
+    collection.create_search_index(model=model)
+    print(
+        f"Successfully created index {VS_INDEX_NAME} for collection {COLLECTION_NAME}"
+    )
+except OperationFailure:
+    print(
+        f"Duplicate index {VS_INDEX_NAME} found for collection {COLLECTION_NAME}. Skipping index creation."
+    )
+    
+# Converting the retriever into an agent tool
+@tool
+def get_info_about_vct(user_query: str) -> str:
+    """
+    Retrieve information about Valorant Champion Tour.
+
+    Args:
+    user_query (str): The user's query string.
+
+    Returns:
+    str: The retrieved information formatted as a string.
+    """
+    docs = parent_doc_retriever.invoke(user_query)
+    context = "\n\n".join([d.page_content for d in docs])
+    return context
+
+tools = [get_info_about_vct]
+
+# Define the LLM to use as the brain of the agent
+llm = ChatOpenAI(temperature=0, model="gpt-4o-2024-11-20", api_key=OPENAI_API_KEY)
+# Agent prompt
+prompt = ChatPromptTemplate.from_messages(
+    [
+        (
+            "You are a helpful AI assistant named Sabine."
+            " You are provided with tools to answer questions about Valorant Champions Tour and build teams out of VCT players based on the user's requests."
+            " Think step-by-step and use these tools to get the information required to answer the user query."
+            " Do not re-run tools unless absolutely necessary."
+            " If you are not able to get enough information using the tools, reply with I DON'T KNOW."
+            " You have access to the following tools: {tool_names}."
+        ),
+        MessagesPlaceholder(variable_name="messages"),
+    ]
+)
+# Partial the prompt with tool names
+prompt = prompt.partial(tool_names=", ".join([tool.name for tool in tools]))
+# Bind tools to LLM
+llm_with_tools = prompt | llm.bind_tools(tools)
+
+# Define graph state
+class GraphState(TypedDict):
+    messages: Annotated[list, add_messages]
+    
+def agent(state: GraphState) -> Dict[str, List]:
+    """
+    Agent node
+
+    Args:
+        state (GraphState): Graph state
+
+    Returns:
+        Dict[str, List]: Updates to the graph state
+    """
+    messages = state["messages"]
+    response = llm_with_tools.invoke(messages)
+    # We return a list, because this will get added to the existing list
+    return {"messages": [response]}
+
+# Convert tools into a graph node
+tool_node = ToolNode(tools)
+
+
+
+# Parameterize the graph with the state
+graph = StateGraph(GraphState)
+# Add graph nodes
+graph.add_node("agent", agent)
+graph.add_node("tools", tool_node)
+# Add graph edges
+graph.add_edge(START, "agent")
+graph.add_edge("tools", "agent")
+graph.add_conditional_edges(
+    "agent",
+    tools_condition,
+    {"tools": "tools", END: END},
+)
+
+
+
+
+
+
+
+
 
 
 
@@ -110,7 +322,7 @@ def save_input():
                 "timestamp": timestamp
             })
             
-        if userId != -1:
+        if userId != -1: #keeps the conversationId at -1 if userId is -1
             db["messages"].insert_one({
                 "message": input_value,
                 "sender": sender,
@@ -119,12 +331,20 @@ def save_input():
                 "timestamp": timestamp
             })
         
-        chatzero = db.chatzero.find()
-        for message in chatzero:
-            print(f"Message: {message['message']}, Sender: {message['sender']}, Timestamp: {message['timestamp']}")
+
+        #we now handle the bot messaging
+        chatResponse = run_sabine_chatbot(question = input_value, conversationId= convoId)
+        db["messages"].insert_one({
+            "message": chatResponse,
+            "sender": "bot",
+            "userId": userId,
+            "conversationId": convoId,
+            "timestamp": timestamp
+        })
+        
         
         # Save the input to a file (optional)
-        return jsonify({"message": "Input saved successfully!", "inputs": inputs, "convoId": convoId}), 200
+        return jsonify({"message": "Input saved successfully!", "inputs": inputs, "convoId": convoId, "chatbot_response": chatResponse}), 200
     return jsonify({"error": "Invalid input"}), 400
 
 
@@ -333,6 +553,47 @@ def signup():
     print(f"User created with ID: {userId}")
     login()
     return jsonify({"message": "User created successfully", "userId": userId}), 201
+
+
+
+def run_sabine_chatbot(question, conversationId):
+    """
+    Main function to interact with the Sabine chatbot.
+    """
+    #chatbot response
+    print("recieved message: ", question)
+    
+    config = {"configurable": {"thread_id": conversationId}}
+    # Execute the agent and view outputs
+    inputs = {
+        "messages": [
+            ("user", question),
+        ]
+    }
+    final_output = None
+    
+    with MongoDBSaver.from_conn_string(MONGODB_URI, db_name = "sabine", collection_name = "checkpoints") as checkpointer:
+        # Compile the graph
+        chatbot = graph.compile(checkpointer = checkpointer)
+        for output in chatbot.stream(inputs,  config=config):
+            final_output = output  # Only keep the last output
+
+    if final_output:
+        for key, value in final_output.items():
+            print(f"Node {key}:")
+            print(value)
+        print("---FINAL ANSWER---")
+        print(value["messages"][-1].content)
+    # Format the response to preserve line breaks for frontend display
+    response = None
+    if isinstance(value, dict) and "messages" in value and isinstance(value["messages"], list) and value["messages"]:
+        response = value["messages"][-1].content
+    else:
+        response = "Sorry, I couldn't generate a response."
+
+    # Return markdown as-is for frontend markdown rendering
+    return response
+    
 
 
 if __name__ == "__main__":

@@ -229,9 +229,12 @@ def process_game_file(game_file_path, league, year):
     winningTeam = team_name_dict[winningTeamValue] if winningTeamValue is not None else 'Unknown'
     basic_stats = []
     #our data
-    basic_stats.append(f"platformGameId: {platformGameId}")
     basic_stats.append(f"Team 1: {team_name_dict[list(team_name_dict.keys())[0]]}")
     basic_stats.append(f"Team 2: {team_name_dict[list(team_name_dict.keys())[1]]}")
+    # Print participating players
+    basic_stats.append("Participating Players:")
+    for k in sorted(player_name_dict.keys()):
+        basic_stats.append(f"Player {k}: {player_name_dict[k]}")
     basic_stats.append(f"Winning Team: {winningTeam}")
     basic_stats.append(f"Score: {team_name_dict[list(team_name_dict.keys())[0]]} {teamOneRoundCount} - {teamTwoRoundCount} {team_name_dict[list(team_name_dict.keys())[1]]}")
     basic_stats.append(f"Tournament Name: {tournament_name}")
@@ -241,10 +244,8 @@ def process_game_file(game_file_path, league, year):
     basic_stats.append(f"Rounds ended by DEFUSE count: {defuseCount}")
     basic_stats.append(f"Rounds ended by DETONATE count: {detonateCount}")
     basic_stats.append(f"SPIKE PLANTED count: {spikePlantedCount}")
-    # Print participating players
-    basic_stats.append("Participating Players:")
-    for k in sorted(player_name_dict.keys()):
-        basic_stats.append(f"Player {k}: {player_name_dict[k]}")
+    basic_stats.append(f"platformGameId: {platformGameId}")
+
         
 
 
