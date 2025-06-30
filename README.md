@@ -36,6 +36,8 @@ additional packages needed to install:
  - langchain_openai
  - langgraph
  - pip install langchain langchain-core langchain-community langchain-openai
+ - npm install react-icons
+ - pip install langgraph-checkpoint-mongodb
 
 
 sometimes when installing npm packages it breaks everything, run the following to fix:
