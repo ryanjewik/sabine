@@ -29,6 +29,7 @@ from typing_extensions import TypedDict
 import getpass
 import os
 from langgraph.checkpoint.mongodb import MongoDBSaver
+import openai
 
 
 
@@ -74,8 +75,8 @@ from pymongo.server_api import ServerApi
 
 
 #keys
-OPENAI_API_KEY = ""
-MONGODB_URI = ""
+OPENAI_API_KEY = "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"
+MONGODB_URI = "mongodb+srv://ryanjewik:Happyrhino8@cluster0.0drkzoy.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
 
 client = MongoClient(MONGODB_URI, server_api=ServerApi('1'))
 # Send a ping to confirm a successful connection
@@ -187,39 +188,76 @@ except OperationFailure:
 @tool
 def get_info_about_vct(user_query: str) -> str:
     """
-    Retrieve information about Valorant Champion Tour.
-
-    Args:
-    user_query (str): The user's query string.
-
-    Returns:
-    str: The retrieved information formatted as a string.
+    Retrieve information about Valorant Champion Tour, with token limit error handling by reducing top_k.
     """
-    docs = parent_doc_retriever.invoke(user_query)
-    context = "\n\n".join([d.page_content for d in docs])
-    return context
+    print("tool called")
+    def summarize_for_query(query, document):
+        print("summary called")
+        messages = [
+            {"role": "system", "content": "Extract only the parts of this document that are relevant to the question."},
+            {"role": "user", "content": f"Question: {query}\nDocument: {document}"}
+        ]
+        response = openai.ChatCompletion.create(
+            api_key=OPENAI_API_KEY,
+            model="gpt-4o",
+            messages=messages,
+            temperature=0.3
+        )
+        print(response)
+        return response.choices[0].message["content"]
+
+    # Try with decreasing top_k values
+    for top_k in [10, 5, 2, 1]:
+        try:
+            print(f"Trying with top_k={top_k}")
+            docs = MongoDBAtlasParentDocumentRetriever.from_connection_string(
+                connection_string=MONGODB_URI,
+                embedding_model=embedding_model,
+                child_splitter=get_splitter(200),
+                database_name=DB_NAME,
+                collection_name=COLLECTION_NAME,
+                text_key="page_content",
+                search_kwargs={"top_k": top_k},
+            ).invoke(user_query)
+            context = "\n\n".join([summarize_for_query(user_query, d.page_content) for d in docs])
+            return context
+        except openai.RateLimitError as e:
+            print(f"OpenAI RateLimitError at top_k={top_k}: {e}")
+            # Try to extract a helpful message
+            try:
+                error_json = e.response.json() if hasattr(e, 'response') and e.response else None
+                if error_json and 'error' in error_json and 'message' in error_json['error']:
+                    msg = error_json['error']['message']
+                else:
+                    msg = str(e)
+            except Exception:
+                msg = str(e)
+            if 'tokens per min' in msg or 'Request too large' in msg:
+                continue  # Try with lower top_k
+            return f"OpenAI Rate Limit Error: {msg}"
+        except Exception as e:
+            print(f"Error in get_info_about_vct at top_k={top_k}: {e}")
+            continue
+    return "Sorry, your request is too large for the current model's token limit, even with minimal context. Please shorten your input or ask for a smaller output."
 
 tools = [get_info_about_vct]
 
 # Define the LLM to use as the brain of the agent
 llm = ChatOpenAI(temperature=0, model="gpt-4o-2024-11-20", api_key=OPENAI_API_KEY)
-# Agent prompt
-prompt = ChatPromptTemplate.from_messages(
-    [
-        (
-            "You are a helpful AI assistant named Sabine."
-            " You are provided with tools to answer questions about Valorant Champions Tour and build teams out of VCT players based on the user's requests."
-            " Think step-by-step and use these tools to get the information required to answer the user query."
-            " Do not re-run tools unless absolutely necessary."
-            " If you are not able to get enough information using the tools, reply with I DON'T KNOW."
-            " You have access to the following tools: {tool_names}."
-        ),
-        MessagesPlaceholder(variable_name="messages"),
-    ]
-)
-# Partial the prompt with tool names
+
+# Agent prompt (original, less strict)
+prompt = ChatPromptTemplate.from_messages([
+    (
+        "You are a helpful AI assistant named Sabine."
+        " You are provided with tools to answer questions about Valorant Champions Tour and build teams out of VCT players based on the user's requests."
+        " Think step-by-step and use these tools to get the information required to answer the user query."
+        " Do not re-run tools unless absolutely necessary."
+        " If you are not able to get enough information using the tools, reply with I DON'T KNOW."
+        " You have access to the following tools: {tool_names}."
+    ),
+    MessagesPlaceholder(variable_name="messages"),
+])
 prompt = prompt.partial(tool_names=", ".join([tool.name for tool in tools]))
-# Bind tools to LLM
 llm_with_tools = prompt | llm.bind_tools(tools)
 
 # Define graph state
@@ -478,6 +516,35 @@ def rename_conversation():
         print("Failed to rename conversation")
         return jsonify({"error": "Failed to rename conversation"}), 400
     
+
+@app.route("/delete_conversation", methods=["POST"])
+def delete_conversation():
+    print("attempting to delete conversation")
+    data = request.get_json()
+    userId = data.get("userId")
+    conversationId = data.get("conversationId")
+    db = client["chat_database"]
+
+    if not userId or not conversationId:
+        return jsonify({"error": "User ID and conversation ID are required"}), 400
+
+    # Delete from conversations
+    result = db.conversations.delete_one({"userId": userId, "conversationId": conversationId})
+    # Delete all messages for this conversation
+    db.messages.delete_many({"userId": userId, "conversationId": conversationId})
+
+    # Also delete from sabine.checkpoints where thread_id == conversationId
+    sabine_db = client["sabine"]
+    checkpoints_collection = sabine_db["checkpoints"]
+    checkpoint_result = checkpoints_collection.delete_many({"thread_id": conversationId})
+
+    if result.deleted_count > 0:
+        print(f"Conversation deleted successfully. Also deleted {checkpoint_result.deleted_count} checkpoint(s) for thread_id {conversationId}.")
+        return jsonify({"message": "Conversation and related checkpoints deleted successfully"}), 200
+    else:
+        print("Failed to delete conversation")
+        return jsonify({"error": "Failed to delete conversation"}), 400
+    
     
 
 @app.route("/login", methods=["POST"])
@@ -561,7 +628,6 @@ def run_sabine_chatbot(question, conversationId):
     Main function to interact with the Sabine chatbot.
     """
     #chatbot response
-    print("recieved message: ", question)
     
     config = {"configurable": {"thread_id": conversationId}}
     # Execute the agent and view outputs
@@ -572,27 +638,48 @@ def run_sabine_chatbot(question, conversationId):
     }
     final_output = None
     
-    with MongoDBSaver.from_conn_string(MONGODB_URI, db_name = "sabine", collection_name = "checkpoints") as checkpointer:
-        # Compile the graph
-        chatbot = graph.compile(checkpointer = checkpointer)
-        for output in chatbot.stream(inputs,  config=config):
-            final_output = output  # Only keep the last output
 
-    if final_output:
-        for key, value in final_output.items():
-            print(f"Node {key}:")
-            print(value)
-        print("---FINAL ANSWER---")
-        print(value["messages"][-1].content)
-    # Format the response to preserve line breaks for frontend display
-    response = None
-    if isinstance(value, dict) and "messages" in value and isinstance(value["messages"], list) and value["messages"]:
-        response = value["messages"][-1].content
-    else:
-        response = "Sorry, I couldn't generate a response."
+    try:
+        with MongoDBSaver.from_conn_string(MONGODB_URI, db_name = "sabine", collection_name = "checkpoints") as checkpointer:
+            # Compile the graph
+            chatbot = graph.compile(checkpointer = checkpointer)
+            for output in chatbot.stream(inputs,  config=config):
+                final_output = output  # Only keep the last output
 
-    # Return markdown as-is for frontend markdown rendering
-    return response
+        if final_output:
+            for key, value in final_output.items():
+                print(f"Node {key}:")
+                print(value)
+            print("---FINAL ANSWER---")
+            print(value["messages"][-1].content)
+        # Format the response to preserve line breaks for frontend display
+        response = None
+        if isinstance(value, dict) and "messages" in value and isinstance(value["messages"], list) and value["messages"]:
+            response = value["messages"][-1].content
+        else:
+            response = "Sorry, I couldn't generate a response."
+
+        # Return markdown as-is for frontend markdown rendering
+        return response
+    except openai.RateLimitError as e:
+        # Handle OpenAI rate limit or token limit errors
+        print("OpenAI RateLimitError:", e)
+        # Try to extract a helpful message
+        try:
+            error_json = e.response.json() if hasattr(e, 'response') and e.response else None
+            if error_json and 'error' in error_json and 'message' in error_json['error']:
+                msg = error_json['error']['message']
+            else:
+                msg = str(e)
+        except Exception:
+            msg = str(e)
+        # Custom message for token limit
+        if 'tokens per min' in msg or 'Request too large' in msg:
+            return "Sorry, your request is too large for the current model's token limit. Please shorten your input or ask for a smaller output."
+        return f"OpenAI Rate Limit Error: {msg}"
+    except Exception as e:
+        print("Error in run_sabine_chatbot:", e)
+        return f"Sorry, an error occurred: {str(e)}"
     
 
 

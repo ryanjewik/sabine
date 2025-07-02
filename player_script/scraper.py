@@ -266,11 +266,20 @@ if playerTable:
         region_key = region if region in region_summaries else 'INTL'
         region_summaries[region_key].append(summary_text)
 
-# After the playerTable loop, write region summaries to separate files
+# After the playerTable loop, write region summaries to multiple files per region (split into 3 parts)
 if 'region_summaries' in globals():
     for region, summaries in region_summaries.items():
         if summaries:
-            filename = os.path.join("player_profiles", f"{region}_player_profiles.txt")
-            with open(filename, "w", encoding="utf-8") as file:
-                file.write("\n".join(summaries))
-            print(f"Saved {region} player profiles to {filename}")
+            chunk_size = (len(summaries) + 2) // 3  # Split into 3 nearly equal parts
+            for i in range(3):
+                start = i * chunk_size
+                end = (i + 1) * chunk_size if i < 2 else len(summaries)
+                chunk = summaries[start:end]
+                if not chunk:
+                    continue
+                part_label = ["FIRST PART", "SECOND PART", "THIRD PART"][i]
+                filename = os.path.join("player_profiles", f"{region}_player_profiles_part{i+1}.txt")
+                with open(filename, "w", encoding="utf-8") as file:
+                    file.write(f"=== {region} PLAYER PROFILES: {part_label} ===\n\n")
+                    file.write("\n".join(chunk))
+                print(f"Saved {region} player profiles part {i+1} to {filename}")

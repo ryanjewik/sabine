@@ -8,12 +8,8 @@ from pymongo.server_api import ServerApi
 from langchain_core.documents import Document
 import glob
 
-# %%
-os.environ["OPENAI_API_KEY"] = getpass.getpass("Enter your OpenAI API key: ")
-
-# %%
-MONDODB_URI = getpass.getpass("Enter your MongoDB connection string:")
-
+OPENAI_API_KEY = "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"
+MONGODB_URI = "mongodb+srv://ryanjewik:Happyrhino8@cluster0.0drkzoy.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
 # %%
 mongodb_client = MongoClient(MONGODB_URI, server_api=ServerApi('1'))
 mongodb_client.admin.command('ping')

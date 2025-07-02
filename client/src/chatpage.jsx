@@ -1,4 +1,5 @@
 import React, { useState, useRef, useEffect } from "react";
+import { FaTrash } from 'react-icons/fa';
 import ReactMarkdown from 'react-markdown';
 import { Link, useLocation } from "react-router-dom";
 import "./chatpagestyle.css";
@@ -66,6 +67,22 @@ export const ChatPage = () => {
       console.log('No userId provided, skipping message fetch');
     }
   }, [userId]);
+
+  // Delete a conversation
+  const handleDeleteConversation = async (conversationId) => {
+    try {
+      await axios.post('http://localhost:5000/delete_conversation', { userId, conversationId });
+      // Remove from local state
+      setConversations(prev => prev.filter(conv => conv.conversationId !== conversationId));
+      // If the deleted conversation is active, clear messages and convoId
+      if (convoId === conversationId) {
+        setConvoId(null);
+        setMessages([]);
+      }
+    } catch (err) {
+      console.error('Failed to delete conversation:', err);
+    }
+  };
 
   // Fetch conversations for sidebar
   const fetchConversations = async () => {
@@ -258,9 +275,24 @@ export const ChatPage = () => {
           <button className="new-chat-btn" onClick={handleNewChat}>New Chat</button>
           {conversations.length > 0 ? (
             conversations.map((conv, idx) => (
-              <div className={`sidebar-chat-item${convoId === conv.conversationId ? ' active' : ''}`} key={conv.conversationId || idx} onClick={() => handleSelectConversation(conv.conversationId)}>
-                <span>{conv.name || conv.title || `Conversation ${idx + 1}`}</span>
+            <div className={`sidebar-chat-item${convoId === conv.conversationId ? ' active' : ''}`} key={conv.conversationId || idx} style={{ display: 'flex', alignItems: 'center' }}>
+              <span
+                onClick={() => handleSelectConversation(conv.conversationId)}
+                style={{ flex: 1, cursor: 'pointer', overflow: 'hidden', textOverflow: 'ellipsis', whiteSpace: 'nowrap' }}
+              >
+                {conv.name || conv.title || `Conversation ${idx + 1}`}
+              </span>
+              <div style={{ marginLeft: 'auto', display: 'flex', alignItems: 'center' }}>
+                <FaTrash
+                  title="Delete chat"
+                  style={{ color: '#FF4655', marginLeft: 8, cursor: 'pointer' }}
+                  onClick={e => {
+                    e.stopPropagation();
+                    handleDeleteConversation(conv.conversationId);
+                  }}
+                />
               </div>
+            </div>
             ))
           ) : (
             <div className="sidebar-chat-item">
