@@ -75,8 +75,8 @@ from pymongo.server_api import ServerApi
 
 
 #keys
-OPENAI_API_KEY = "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"
-MONGODB_URI = "mongodb+srv://ryanjewik:Happyrhino8@cluster0.0drkzoy.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
+OPENAI_API_KEY = ""
+MONGODB_URI = ""
 
 client = MongoClient(MONGODB_URI, server_api=ServerApi('1'))
 # Send a ping to confirm a successful connection
