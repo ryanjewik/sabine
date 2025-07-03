@@ -1,0 +1,248 @@
+Team 1: Talon Esports
+Team 2: Leviatán Esports
+Participating Players:
+Player 1: aspas
+Player 2: tex
+Player 3: kiNgg
+Player 4: C0M
+Player 5: Mazino
+Player 6: Governor
+Player 7: ban
+Player 8: Crws
+Player 9: Primmie
+Player 10: JitBoyS
+Winning Team: Leviatán Esports
+Score: Talon Esports 11 - 13 Leviatán Esports
+Tournament Name: vct champions 2024
+Game Start Time: 2024-08-03T07:54:49Z
+Game End Time: 2024-08-03T09:00:18Z
+Rounds ended by ELIMINATION count: 13
+Rounds ended by DEFUSE count: 6
+Rounds ended by DETONATE count: 4
+SPIKE PLANTED count: 10
+platformGameId: val:2d82574e-e244-4bb6-baef-ae03c7bb9833
+
+--- Events ---
+Game started at 2024-08-03T07:54:49Z
+aspas killed Crws  in round 1
+Primmie killed C0M  in round 1
+kiNgg killed Primmie  in round 1
+kiNgg killed Governor  in round 1
+tex killed ban  in round 1
+JitBoyS killed aspas  in round 1
+kiNgg killed JitBoyS  in round 1
+Round 1 ended with elimination. The winning team is Leviatán Esports.
+The current score is Talon Esports 0 - 1 Leviatán Esports.
+aspas killed Governor  in round 2
+JitBoyS killed C0M  in round 2
+tex killed Primmie  in round 2
+kiNgg killed Crws  in round 2
+kiNgg killed JitBoyS  in round 2
+Mazino killed ban  in round 2
+Round 2 ended with spike_defuse. The winning team is Leviatán Esports.
+The current score is Talon Esports 0 - 2 Leviatán Esports.
+aspas killed Governor  in round 3
+JitBoyS killed Mazino  in round 3
+aspas killed JitBoyS  in round 3
+Primmie killed C0M  in round 3
+aspas killed Crws  in round 3
+ban killed kiNgg  in round 3
+aspas killed ban  in round 3
+Primmie killed aspas  in round 3
+Round 3 ended with time_expired. The winning team is Leviatán Esports.
+The current score is Talon Esports 0 - 3 Leviatán Esports.
+aspas killed Crws  in round 4
+JitBoyS killed Mazino  in round 4
+JitBoyS killed tex  in round 4
+kiNgg killed JitBoyS  in round 4
+kiNgg killed Primmie  in round 4
+C0M killed ban  in round 4
+Governor killed aspas  in round 4
+kiNgg killed Governor  in round 4
+Round 4 ended with spike_defuse. The winning team is Leviatán Esports.
+The current score is Talon Esports 0 - 4 Leviatán Esports.
+Governor killed C0M  in round 5
+Mazino killed Crws  in round 5
+Primmie killed Mazino  in round 5
+tex killed ban  in round 5
+Primmie killed aspas  in round 5
+kiNgg killed Primmie  in round 5
+Governor killed tex  in round 5
+JitBoyS killed kiNgg  in round 5
+Round 5 ended with elimination. The winning team is Talon Esports.
+The current score is Talon Esports 1 - 4 Leviatán Esports.
+Governor killed kiNgg  in round 6
+Governor killed tex  in round 6
+Governor killed aspas  in round 6
+C0M killed JitBoyS  in round 6
+C0M killed Crws  in round 6
+Round 6 ended with detonate. The winning team is Talon Esports.
+The current score is Talon Esports 2 - 4 Leviatán Esports.
+kiNgg killed Governor  in round 7
+ban killed kiNgg  in round 7
+Primmie killed Mazino  in round 7
+aspas killed Crws  in round 7
+Primmie killed tex  in round 7
+C0M killed ban  in round 7
+C0M killed JitBoyS  in round 7
+C0M killed Primmie  in round 7
+Round 7 ended with spike_defuse. The winning team is Leviatán Esports.
+The current score is Talon Esports 2 - 5 Leviatán Esports.
+JitBoyS killed kiNgg  in round 8
+JitBoyS killed tex  in round 8
+Crws killed aspas  in round 8
+Round 8 ended with detonate. The winning team is Talon Esports.
+The current score is Talon Esports 3 - 5 Leviatán Esports.
+aspas killed Governor  in round 9
+JitBoyS killed Mazino  in round 9
+aspas killed JitBoyS  in round 9
+ban killed aspas  in round 9
+tex killed ban  in round 9
+Primmie killed tex  in round 9
+kiNgg killed Primmie  in round 9
+C0M killed Crws  in round 9
+Round 9 ended with elimination. The winning team is Leviatán Esports.
+The current score is Talon Esports 3 - 6 Leviatán Esports.
+kiNgg killed Primmie  in round 10
+tex killed ban  in round 10
+aspas killed Governor  in round 10
+C0M killed Crws  in round 10
+Mazino killed JitBoyS  in round 10
+Round 10 ended with elimination. The winning team is Leviatán Esports.
+The current score is Talon Esports 3 - 7 Leviatán Esports.
+JitBoyS killed tex  in round 11
+ban killed C0M  in round 11
+JitBoyS killed aspas  in round 11
+Governor killed Mazino  in round 11
+Governor killed kiNgg  in round 11
+Round 11 ended with elimination. The winning team is Talon Esports.
+The current score is Talon Esports 4 - 7 Leviatán Esports.
+JitBoyS killed tex  in round 12
+JitBoyS killed aspas  in round 12
+Mazino killed JitBoyS  in round 12
+Governor killed C0M  in round 12
+Governor killed kiNgg  in round 12
+Governor killed Mazino  in round 12
+Round 12 ended with elimination. The winning team is Talon Esports.
+The current score is Talon Esports 5 - 7 Leviatán Esports.
+Primmie killed tex  in round 13
+ban killed kiNgg  in round 13
+Mazino killed Governor  in round 13
+ban killed Mazino  in round 13
+Crws killed aspas  in round 13
+Crws killed C0M  in round 13
+Round 13 ended with elimination. The winning team is Talon Esports.
+The current score is Talon Esports 6 - 7 Leviatán Esports.
+JitBoyS killed C0M  in round 14
+Primmie killed aspas  in round 14
+Primmie killed kiNgg  in round 14
+tex killed JitBoyS  in round 14
+Primmie killed tex  in round 14
+ban killed Mazino  in round 14
+Round 14 ended with elimination. The winning team is Talon Esports.
+The current score is Talon Esports 7 - 7 Leviatán Esports.
+Governor killed aspas  in round 15
+Primmie killed Mazino  in round 15
+kiNgg killed ban  in round 15
+Primmie killed C0M  in round 15
+kiNgg killed Primmie  in round 15
+kiNgg killed JitBoyS  in round 15
+kiNgg killed Crws  in round 15
+Governor killed tex  in round 15
+kiNgg killed Governor  in round 15
+Round 15 ended with elimination. The winning team is Leviatán Esports.
+The current score is Talon Esports 7 - 8 Leviatán Esports.
+Governor killed C0M  in round 16
+Governor killed kiNgg  in round 16
+Primmie killed tex  in round 16
+Mazino killed Governor  in round 16
+ban killed aspas  in round 16
+Crws killed Mazino  in round 16
+Round 16 ended with spike_defuse. The winning team is Talon Esports.
+The current score is Talon Esports 8 - 8 Leviatán Esports.
+JitBoyS killed aspas  in round 17
+ban killed Mazino  in round 17
+kiNgg killed JitBoyS  in round 17
+Crws killed kiNgg  in round 17
+Crws killed tex  in round 17
+Crws killed C0M  in round 17
+Round 17 ended with elimination. The winning team is Talon Esports.
+The current score is Talon Esports 9 - 8 Leviatán Esports.
+Primmie killed C0M  in round 18
+kiNgg killed Crws  in round 18
+Governor killed Mazino  in round 18
+aspas killed Governor  in round 18
+aspas killed Primmie  in round 18
+ban killed aspas  in round 18
+ban killed tex  in round 18
+kiNgg killed JitBoyS  in round 18
+Round 18 ended with detonate. The winning team is Leviatán Esports.
+The current score is Talon Esports 9 - 9 Leviatán Esports.
+aspas killed Primmie  in round 19
+Governor killed C0M  in round 19
+kiNgg killed Governor  in round 19
+Crws killed tex  in round 19
+Crws killed aspas  in round 19
+ban killed kiNgg  in round 19
+Mazino killed Crws  in round 19
+ban killed Mazino  in round 19
+Round 19 ended with spike_defuse. The winning team is Talon Esports.
+The current score is Talon Esports 10 - 9 Leviatán Esports.
+Governor killed tex  in round 20
+Governor killed Mazino  in round 20
+aspas killed Governor  in round 20
+Crws killed aspas  in round 20
+ban killed C0M  in round 20
+Round 20 ended with spike_defuse. The winning team is Talon Esports.
+The current score is Talon Esports 11 - 9 Leviatán Esports.
+JitBoyS killed kiNgg  in round 21
+C0M killed Crws  in round 21
+Primmie killed Mazino  in round 21
+tex killed JitBoyS  in round 21
+Governor killed tex  in round 21
+kiNgg killed Governor  in round 21
+ban killed kiNgg  in round 21
+aspas killed Primmie  in round 21
+aspas killed ban  in round 21
+Round 21 ended with elimination. The winning team is Leviatán Esports.
+The current score is Talon Esports 11 - 10 Leviatán Esports.
+JitBoyS killed aspas  in round 22
+ban killed Mazino  in round 22
+C0M killed Crws  in round 22
+C0M killed JitBoyS  in round 22
+kiNgg killed Governor  in round 22
+Primmie killed tex  in round 22
+C0M killed Primmie  in round 22
+ban killed kiNgg  in round 22
+Round 22 ended with detonate. The winning team is Leviatán Esports.
+The current score is Talon Esports 11 - 11 Leviatán Esports.
+C0M killed C0M  in round 23
+tex killed Crws  in round 23
+aspas killed Governor  in round 23
+JitBoyS killed tex  in round 23
+aspas killed Primmie  in round 23
+ban killed aspas  in round 23
+Mazino killed JitBoyS  in round 23
+Mazino killed ban  in round 23
+Round 23 ended with elimination. The winning team is Leviatán Esports.
+The current score is Talon Esports 11 - 12 Leviatán Esports.
+kiNgg killed JitBoyS  in round 24
+kiNgg killed Primmie  in round 24
+tex killed Crws  in round 24
+aspas killed Governor  in round 24
+aspas killed ban  in round 24
+Round 24 ended with elimination. The winning team is Leviatán Esports.
+The current score is Talon Esports 11 - 13 Leviatán Esports.
+Game ended with winning team: Leviatán Esports at 2024-08-03T09:00:18Z
+
+--- Player Stats ---
+aspas: Team=Leviatán Esports, Kills=21, Deaths=19, Assists=7, KDA=1.47, First Kills=6, First Deaths=3
+tex: Team=Leviatán Esports, Kills=9, Deaths=19, Assists=5, KDA=0.74, First Kills=0, First Deaths=4
+kiNgg: Team=Leviatán Esports, Kills=25, Deaths=15, Assists=7, KDA=2.13, First Kills=3, First Deaths=3
+C0M: Team=Leviatán Esports, Kills=13, Deaths=15, Assists=8, KDA=1.4, First Kills=1, First Deaths=5
+Mazino: Team=Leviatán Esports, Kills=9, Deaths=17, Assists=9, KDA=1.06, First Kills=0, First Deaths=0
+Governor: Team=Talon Esports, Kills=20, Deaths=17, Assists=6, KDA=1.53, First Kills=5, First Deaths=4
+ban: Team=Talon Esports, Kills=18, Deaths=12, Assists=10, KDA=2.33, First Kills=0, First Deaths=0
+Crws: Team=Talon Esports, Kills=10, Deaths=16, Assists=7, KDA=1.06, First Kills=0, First Deaths=2
+Primmie: Team=Talon Esports, Kills=18, Deaths=14, Assists=10, KDA=2.0, First Kills=2, First Deaths=2
+JitBoyS: Team=Talon Esports, Kills=18, Deaths=17, Assists=2, KDA=1.18, First Kills=7, First Deaths=1

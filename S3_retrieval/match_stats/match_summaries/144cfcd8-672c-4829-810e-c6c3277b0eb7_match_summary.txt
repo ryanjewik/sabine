@@ -1,0 +1,206 @@
+Team 1: LOUD
+Team 2: Sentinels
+Participating Players:
+Player 1: TenZ
+Player 2: zekken
+Player 3: johnqt
+Player 4: Zellsis
+Player 5: Sacy
+Player 6: QcK
+Player 7: cauanzin
+Player 8: Saadhak
+Player 9: Less
+Player 10: tuyz
+Winning Team: LOUD
+Score: LOUD 13 - 7 Sentinels
+Tournament Name: vct americas stage 1 2024
+Game Start Time: 2024-04-27T23:03:07Z
+Game End Time: 2024-04-28T00:01:14Z
+Rounds ended by ELIMINATION count: 10
+Rounds ended by DEFUSE count: 3
+Rounds ended by DETONATE count: 6
+SPIKE PLANTED count: 9
+platformGameId: val:144cfcd8-672c-4829-810e-c6c3277b0eb7
+
+--- Events ---
+Game started at 2024-04-27T23:03:07Z
+QcK killed Zellsis  in round 1
+cauanzin killed zekken  in round 1
+TenZ killed QcK  in round 1
+Saadhak killed johnqt  in round 1
+TenZ killed tuyz  in round 1
+cauanzin killed TenZ  in round 1
+cauanzin killed Sacy  in round 1
+Round 1 ended with elimination. The winning team is LOUD.
+The current score is LOUD 1 - 0 Sentinels.
+TenZ killed Saadhak  in round 2
+QcK killed zekken  in round 2
+cauanzin killed Sacy  in round 2
+tuyz killed Zellsis  in round 2
+TenZ killed cauanzin  in round 2
+Less killed TenZ  in round 2
+johnqt killed QcK  in round 2
+tuyz killed johnqt  in round 2
+Round 2 ended with elimination. The winning team is LOUD.
+The current score is LOUD 2 - 0 Sentinels.
+QcK killed Sacy  in round 3
+TenZ killed Saadhak  in round 3
+zekken killed cauanzin  in round 3
+QcK killed TenZ  in round 3
+zekken killed QcK  in round 3
+tuyz killed Zellsis  in round 3
+johnqt killed tuyz  in round 3
+Less killed johnqt  in round 3
+zekken killed Less  in round 3
+Round 3 ended with spike_defuse. The winning team is Sentinels.
+The current score is LOUD 2 - 1 Sentinels.
+QcK killed Sacy  in round 4
+QcK killed Zellsis  in round 4
+Round 4 ended with detonate. The winning team is LOUD.
+The current score is LOUD 3 - 1 Sentinels.
+johnqt killed Less  in round 5
+cauanzin killed Zellsis  in round 5
+tuyz killed johnqt  in round 5
+zekken killed QcK  in round 5
+TenZ killed Saadhak  in round 5
+Sacy killed tuyz  in round 5
+cauanzin killed TenZ  in round 5
+zekken killed cauanzin  in round 5
+Round 5 ended with spike_defuse. The winning team is Sentinels.
+The current score is LOUD 3 - 2 Sentinels.
+tuyz killed zekken  in round 6
+tuyz killed Sacy  in round 6
+Saadhak killed Zellsis  in round 6
+Saadhak killed TenZ  in round 6
+QcK killed johnqt  in round 6
+Round 6 ended with elimination. The winning team is LOUD.
+The current score is LOUD 4 - 2 Sentinels.
+cauanzin killed zekken  in round 7
+tuyz killed TenZ  in round 7
+tuyz killed Sacy  in round 7
+johnqt killed QcK  in round 7
+cauanzin killed Zellsis  in round 7
+cauanzin killed johnqt  in round 7
+Round 7 ended with elimination. The winning team is LOUD.
+The current score is LOUD 5 - 2 Sentinels.
+TenZ killed Saadhak  in round 8
+QcK killed Zellsis  in round 8
+johnqt killed tuyz  in round 8
+Less killed zekken  in round 8
+Sacy killed Less  in round 8
+QcK killed TenZ  in round 8
+QcK killed Sacy  in round 8
+johnqt killed QcK  in round 8
+QcK killed johnqt  in round 8
+Round 8 ended with elimination. The winning team is LOUD.
+The current score is LOUD 6 - 2 Sentinels.
+QcK killed TenZ  in round 9
+QcK killed johnqt  in round 9
+Round 9 ended with detonate. The winning team is LOUD.
+The current score is LOUD 7 - 2 Sentinels.
+Saadhak killed johnqt  in round 10
+Zellsis killed Saadhak  in round 10
+Zellsis killed QcK  in round 10
+Zellsis killed Less  in round 10
+tuyz killed Zellsis  in round 10
+cauanzin killed Sacy  in round 10
+tuyz killed zekken  in round 10
+tuyz killed TenZ  in round 10
+Round 10 ended with elimination. The winning team is LOUD.
+The current score is LOUD 8 - 2 Sentinels.
+cauanzin killed johnqt  in round 11
+tuyz killed Sacy  in round 11
+QcK killed TenZ  in round 11
+zekken killed Less  in round 11
+QcK killed zekken  in round 11
+tuyz killed Zellsis  in round 11
+Round 11 ended with elimination. The winning team is LOUD.
+The current score is LOUD 9 - 2 Sentinels.
+zekken killed Saadhak  in round 12
+Less killed TenZ  in round 12
+Sacy killed QcK  in round 12
+QcK killed Sacy  in round 12
+tuyz killed johnqt  in round 12
+Zellsis killed tuyz  in round 12
+Less killed Zellsis  in round 12
+Less killed zekken  in round 12
+Round 12 ended with elimination. The winning team is LOUD.
+The current score is LOUD 10 - 2 Sentinels.
+Sacy killed tuyz  in round 13
+Zellsis killed QcK  in round 13
+cauanzin killed zekken  in round 13
+TenZ killed cauanzin  in round 13
+johnqt killed Less  in round 13
+Saadhak killed Sacy  in round 13
+Zellsis killed Saadhak  in round 13
+Round 13 ended with elimination. The winning team is Sentinels.
+The current score is LOUD 10 - 3 Sentinels.
+johnqt killed tuyz  in round 14
+QcK killed johnqt  in round 14
+Sacy killed Saadhak  in round 14
+cauanzin killed Sacy  in round 14
+Round 14 ended with detonate. The winning team is Sentinels.
+The current score is LOUD 10 - 4 Sentinels.
+Less killed Less  in round 15
+cauanzin killed cauanzin  in round 15
+QcK killed QcK  in round 15
+zekken killed QcK  in round 15
+zekken killed Saadhak  in round 15
+zekken killed cauanzin  in round 15
+Round 15 ended with detonate. The winning team is Sentinels.
+The current score is LOUD 10 - 5 Sentinels.
+zekken killed Saadhak  in round 16
+Less killed TenZ  in round 16
+tuyz killed zekken  in round 16
+Sacy killed tuyz  in round 16
+Less killed johnqt  in round 16
+Sacy killed Less  in round 16
+cauanzin killed Sacy  in round 16
+Zellsis killed QcK  in round 16
+cauanzin killed Zellsis  in round 16
+Round 16 ended with spike_defuse. The winning team is LOUD.
+The current score is LOUD 11 - 5 Sentinels.
+johnqt killed Saadhak  in round 17
+Zellsis killed cauanzin  in round 17
+Less killed TenZ  in round 17
+zekken killed QcK  in round 17
+Less killed johnqt  in round 17
+Round 17 ended with detonate. The winning team is Sentinels.
+The current score is LOUD 11 - 6 Sentinels.
+cauanzin killed Sacy  in round 18
+zekken killed Saadhak  in round 18
+Zellsis killed QcK  in round 18
+johnqt killed tuyz  in round 18
+Round 18 ended with detonate. The winning team is Sentinels.
+The current score is LOUD 11 - 7 Sentinels.
+QcK killed zekken  in round 19
+Sacy killed QcK  in round 19
+cauanzin killed Sacy  in round 19
+cauanzin killed johnqt  in round 19
+cauanzin killed TenZ  in round 19
+Zellsis killed cauanzin  in round 19
+Round 19 ended with time_expired. The winning team is LOUD.
+The current score is LOUD 12 - 7 Sentinels.
+tuyz killed johnqt  in round 20
+cauanzin killed Zellsis  in round 20
+tuyz killed zekken  in round 20
+Sacy killed tuyz  in round 20
+TenZ killed QcK  in round 20
+QcK killed TenZ  in round 20
+Sacy killed Saadhak  in round 20
+Less killed Sacy  in round 20
+Round 20 ended with elimination. The winning team is LOUD.
+The current score is LOUD 13 - 7 Sentinels.
+Game ended with winning team: LOUD at 2024-04-28T00:01:14Z
+
+--- Player Stats ---
+TenZ: Team=Sentinels, Kills=9, Deaths=15, Assists=6, KDA=1.0, First Kills=2, First Deaths=1
+zekken: Team=Sentinels, Kills=13, Deaths=12, Assists=4, KDA=1.42, First Kills=2, First Deaths=3
+johnqt: Team=Sentinels, Kills=10, Deaths=16, Assists=4, KDA=0.88, First Kills=3, First Deaths=3
+Zellsis: Team=Sentinels, Kills=10, Deaths=13, Assists=1, KDA=0.85, First Kills=0, First Deaths=1
+Sacy: Team=Sentinels, Kills=10, Deaths=16, Assists=7, KDA=1.06, First Kills=1, First Deaths=3
+QcK: Team=LOUD, Kills=20, Deaths=16, Assists=0, KDA=1.25, First Kills=5, First Deaths=0
+cauanzin: Team=LOUD, Kills=21, Deaths=8, Assists=7, KDA=3.5, First Kills=3, First Deaths=0
+Saadhak: Team=LOUD, Kills=5, Deaths=13, Assists=4, KDA=0.69, First Kills=1, First Deaths=5
+Less: Team=LOUD, Kills=12, Deaths=8, Assists=4, KDA=2.0, First Kills=1, First Deaths=2
+tuyz: Team=LOUD, Kills=17, Deaths=10, Assists=6, KDA=2.3, First Kills=2, First Deaths=2

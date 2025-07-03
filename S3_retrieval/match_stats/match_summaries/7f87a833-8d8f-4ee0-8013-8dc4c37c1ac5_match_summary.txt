@@ -1,0 +1,244 @@
+Team 1: Team Heretics
+Team 2: Team Vitality
+Participating Players:
+Player 1: Kicks
+Player 2: runneR
+Player 3: Sayf
+Player 4: Trexx
+Player 5: ceNder
+Player 6: MiniBoo
+Player 7: RieNs
+Player 8: Boo
+Player 9: benjyfishy
+Player 10: Wo0t
+Winning Team: Team Vitality
+Score: Team Heretics 10 - 13 Team Vitality
+Tournament Name: vct emea stage 2 2024
+Game Start Time: 2024-07-16T17:12:21Z
+Game End Time: 2024-07-16T18:04:25Z
+Rounds ended by ELIMINATION count: 11
+Rounds ended by DEFUSE count: 7
+Rounds ended by DETONATE count: 2
+SPIKE PLANTED count: 9
+platformGameId: val:7f87a833-8d8f-4ee0-8013-8dc4c37c1ac5
+
+--- Events ---
+Game started at 2024-07-16T17:12:21Z
+Sayf killed MiniBoo  in round 1
+Trexx killed Wo0t  in round 1
+benjyfishy killed Trexx  in round 1
+benjyfishy killed Sayf  in round 1
+Kicks killed benjyfishy  in round 1
+Boo killed Kicks  in round 1
+RieNs killed runneR  in round 1
+Boo killed ceNder  in round 1
+Round 1 ended with elimination. The winning team is Team Heretics.
+The current score is Team Heretics 1 - 0 Team Vitality.
+MiniBoo killed ceNder  in round 2
+RieNs killed runneR  in round 2
+MiniBoo killed Sayf  in round 2
+Boo killed Kicks  in round 2
+Wo0t killed Trexx  in round 2
+Round 2 ended with elimination. The winning team is Team Heretics.
+The current score is Team Heretics 2 - 0 Team Vitality.
+RieNs killed runneR  in round 3
+Wo0t killed Kicks  in round 3
+Sayf killed Boo  in round 3
+ceNder killed RieNs  in round 3
+ceNder killed Wo0t  in round 3
+Sayf killed benjyfishy  in round 3
+MiniBoo killed Trexx  in round 3
+MiniBoo killed Sayf  in round 3
+ceNder killed MiniBoo  in round 3
+Round 3 ended with spike_defuse. The winning team is Team Vitality.
+The current score is Team Heretics 2 - 1 Team Vitality.
+Wo0t killed Sayf  in round 4
+Kicks killed Wo0t  in round 4
+MiniBoo killed Kicks  in round 4
+runneR killed benjyfishy  in round 4
+Trexx killed MiniBoo  in round 4
+Trexx killed RieNs  in round 4
+Boo killed Trexx  in round 4
+runneR killed Boo  in round 4
+Round 4 ended with spike_defuse. The winning team is Team Vitality.
+The current score is Team Heretics 2 - 2 Team Vitality.
+Boo killed Trexx  in round 5
+MiniBoo killed runneR  in round 5
+Boo killed Sayf  in round 5
+Kicks killed MiniBoo  in round 5
+RieNs killed ceNder  in round 5
+Round 5 ended with detonate. The winning team is Team Heretics.
+The current score is Team Heretics 3 - 2 Team Vitality.
+MiniBoo killed ceNder  in round 6
+Trexx killed benjyfishy  in round 6
+runneR killed RieNs  in round 6
+Kicks killed MiniBoo  in round 6
+Boo killed runneR  in round 6
+Sayf killed Boo  in round 6
+Round 6 ended with time_expired. The winning team is Team Vitality.
+The current score is Team Heretics 3 - 3 Team Vitality.
+Sayf killed benjyfishy  in round 7
+Sayf killed MiniBoo  in round 7
+Kicks killed Wo0t  in round 7
+Round 7 ended with time_expired. The winning team is Team Vitality.
+The current score is Team Heretics 3 - 4 Team Vitality.
+Sayf killed benjyfishy  in round 8
+runneR killed Wo0t  in round 8
+Boo killed runneR  in round 8
+Sayf killed Boo  in round 8
+RieNs killed Sayf  in round 8
+Kicks killed MiniBoo  in round 8
+Trexx killed RieNs  in round 8
+Round 8 ended with elimination. The winning team is Team Vitality.
+The current score is Team Heretics 3 - 5 Team Vitality.
+runneR killed Wo0t  in round 9
+RieNs killed Kicks  in round 9
+RieNs killed Trexx  in round 9
+ceNder killed MiniBoo  in round 9
+Boo killed ceNder  in round 9
+Sayf killed RieNs  in round 9
+benjyfishy killed Sayf  in round 9
+runneR killed Boo  in round 9
+runneR killed benjyfishy  in round 9
+Round 9 ended with detonate. The winning team is Team Heretics.
+The current score is Team Heretics 4 - 5 Team Vitality.
+runneR killed runneR  in round 10
+ceNder killed Boo  in round 10
+RieNs killed ceNder  in round 10
+Trexx killed Wo0t  in round 10
+RieNs killed Trexx  in round 10
+MiniBoo killed Kicks  in round 10
+Sayf killed MiniBoo  in round 10
+Sayf killed benjyfishy  in round 10
+RieNs killed runneR  in round 10
+Sayf killed RieNs  in round 10
+Round 10 ended with spike_defuse. The winning team is Team Vitality.
+The current score is Team Heretics 4 - 6 Team Vitality.
+Sayf killed RieNs  in round 11
+Sayf killed Boo  in round 11
+benjyfishy killed Sayf  in round 11
+Kicks killed MiniBoo  in round 11
+ceNder killed Wo0t  in round 11
+Kicks killed benjyfishy  in round 11
+Round 11 ended with elimination. The winning team is Team Vitality.
+The current score is Team Heretics 4 - 7 Team Vitality.
+Boo killed ceNder  in round 12
+RieNs killed Trexx  in round 12
+runneR killed MiniBoo  in round 12
+Wo0t killed runneR  in round 12
+Boo killed Sayf  in round 12
+Kicks killed Wo0t  in round 12
+Boo killed Kicks  in round 12
+Round 12 ended with elimination. The winning team is Team Heretics.
+The current score is Team Heretics 5 - 7 Team Vitality.
+MiniBoo killed Kicks  in round 13
+Sayf killed MiniBoo  in round 13
+RieNs killed ceNder  in round 13
+Sayf killed RieNs  in round 13
+Sayf killed Wo0t  in round 13
+Sayf killed benjyfishy  in round 13
+Sayf killed Boo  in round 13
+Round 13 ended with elimination. The winning team is Team Vitality.
+The current score is Team Heretics 5 - 8 Team Vitality.
+Boo killed ceNder  in round 14
+Sayf killed Boo  in round 14
+Trexx killed MiniBoo  in round 14
+Kicks killed RieNs  in round 14
+Trexx killed Wo0t  in round 14
+Kicks killed benjyfishy  in round 14
+Round 14 ended with elimination. The winning team is Team Vitality.
+The current score is Team Heretics 5 - 9 Team Vitality.
+benjyfishy killed ceNder  in round 15
+benjyfishy killed Sayf  in round 15
+MiniBoo killed Kicks  in round 15
+runneR killed Wo0t  in round 15
+benjyfishy killed runneR  in round 15
+Trexx killed RieNs  in round 15
+benjyfishy killed Trexx  in round 15
+Round 15 ended with spike_defuse. The winning team is Team Heretics.
+The current score is Team Heretics 6 - 9 Team Vitality.
+runneR killed Boo  in round 16
+MiniBoo killed ceNder  in round 16
+Trexx killed Wo0t  in round 16
+Sayf killed MiniBoo  in round 16
+Sayf killed benjyfishy  in round 16
+Kicks killed RieNs  in round 16
+Round 16 ended with elimination. The winning team is Team Vitality.
+The current score is Team Heretics 6 - 10 Team Vitality.
+Kicks killed RieNs  in round 17
+Sayf killed Wo0t  in round 17
+MiniBoo killed ceNder  in round 17
+runneR killed MiniBoo  in round 17
+Sayf killed Boo  in round 17
+Kicks killed benjyfishy  in round 17
+Round 17 ended with elimination. The winning team is Team Vitality.
+The current score is Team Heretics 6 - 11 Team Vitality.
+Sayf killed RieNs  in round 18
+Boo killed Sayf  in round 18
+runneR killed MiniBoo  in round 18
+Wo0t killed runneR  in round 18
+ceNder killed Wo0t  in round 18
+benjyfishy killed ceNder  in round 18
+Kicks killed Boo  in round 18
+Trexx killed benjyfishy  in round 18
+Round 18 ended with elimination. The winning team is Team Vitality.
+The current score is Team Heretics 6 - 12 Team Vitality.
+Boo killed Kicks  in round 19
+MiniBoo killed ceNder  in round 19
+benjyfishy killed Sayf  in round 19
+Trexx killed Boo  in round 19
+benjyfishy killed Trexx  in round 19
+MiniBoo killed runneR  in round 19
+Round 19 ended with spike_defuse. The winning team is Team Heretics.
+The current score is Team Heretics 7 - 12 Team Vitality.
+MiniBoo killed Sayf  in round 20
+MiniBoo killed Kicks  in round 20
+runneR killed RieNs  in round 20
+MiniBoo killed ceNder  in round 20
+runneR killed MiniBoo  in round 20
+Boo killed runneR  in round 20
+Round 20 ended with time_expired. The winning team is Team Heretics.
+The current score is Team Heretics 8 - 12 Team Vitality.
+Trexx killed Wo0t  in round 21
+MiniBoo killed Sayf  in round 21
+Wo0t killed ceNder  in round 21
+Kicks killed Wo0t  in round 21
+Boo killed runneR  in round 21
+benjyfishy killed Trexx  in round 21
+MiniBoo killed Kicks  in round 21
+Round 21 ended with spike_defuse. The winning team is Team Heretics.
+The current score is Team Heretics 9 - 12 Team Vitality.
+runneR killed RieNs  in round 22
+MiniBoo killed runneR  in round 22
+MiniBoo killed ceNder  in round 22
+Sayf killed MiniBoo  in round 22
+Wo0t killed Sayf  in round 22
+Boo killed Trexx  in round 22
+Kicks killed Wo0t  in round 22
+Kicks killed Boo  in round 22
+benjyfishy killed Kicks  in round 22
+Round 22 ended with spike_defuse. The winning team is Team Heretics.
+The current score is Team Heretics 10 - 12 Team Vitality.
+MiniBoo killed runneR  in round 23
+Kicks killed RieNs  in round 23
+Sayf killed MiniBoo  in round 23
+Boo killed Kicks  in round 23
+ceNder killed Boo  in round 23
+Wo0t killed Sayf  in round 23
+Trexx killed Wo0t  in round 23
+ceNder killed benjyfishy  in round 23
+Round 23 ended with elimination. The winning team is Team Vitality.
+The current score is Team Heretics 10 - 13 Team Vitality.
+Game ended with winning team: Team Vitality at 2024-07-16T18:04:25Z
+
+--- Player Stats ---
+Kicks: Team=Team Vitality, Kills=19, Deaths=14, Assists=10, KDA=2.07, First Kills=1, First Deaths=2
+runneR: Team=Team Vitality, Kills=16, Deaths=16, Assists=8, KDA=1.5, First Kills=4, First Deaths=3
+Sayf: Team=Team Vitality, Kills=27, Deaths=16, Assists=5, KDA=2.0, First Kills=5, First Deaths=2
+Trexx: Team=Team Vitality, Kills=14, Deaths=12, Assists=15, KDA=2.42, First Kills=1, First Deaths=1
+ceNder: Team=Team Vitality, Kills=9, Deaths=17, Assists=11, KDA=1.18, First Kills=0, First Deaths=5
+MiniBoo: Team=Team Heretics, Kills=22, Deaths=19, Assists=3, KDA=1.32, First Kills=5, First Deaths=1
+RieNs: Team=Team Heretics, Kills=12, Deaths=16, Assists=7, KDA=1.19, First Kills=1, First Deaths=4
+Boo: Team=Team Heretics, Kills=19, Deaths=15, Assists=10, KDA=1.93, First Kills=4, First Deaths=1
+benjyfishy: Team=Team Heretics, Kills=13, Deaths=15, Assists=3, KDA=1.07, First Kills=1, First Deaths=2
+Wo0t: Team=Team Heretics, Kills=8, Deaths=19, Assists=15, KDA=1.21, First Kills=1, First Deaths=2

@@ -1,0 +1,251 @@
+Team 1: KRÜ Esports
+Team 2: Evil Geniuses
+Participating Players:
+Player 1: Demon1
+Player 2: Ethan
+Player 3: JAWGEMO
+Player 4: C0M
+Player 5: Boostio
+Player 6: DAVEEYS
+Player 7: Klaus
+Player 8: Melser
+Player 9: KeznitdeuS
+Player 10: NagZet
+Winning Team: KRÜ Esports
+Score: KRÜ Esports 13 - 11 Evil Geniuses
+Tournament Name: vct americas 2023
+Game Start Time: 2023-04-17T00:18:39Z
+Game End Time: 2023-04-17T01:17:38Z
+Rounds ended by ELIMINATION count: 17
+Rounds ended by DEFUSE count: 5
+Rounds ended by DETONATE count: 0
+SPIKE PLANTED count: 5
+platformGameId: val:eab190e1-739d-4df5-becb-6c6007e76de3
+
+--- Events ---
+Game started at 2023-04-17T00:18:39Z
+DAVEEYS killed JAWGEMO  in round 1
+Boostio killed Klaus  in round 1
+Boostio killed Melser  in round 1
+NagZet killed Ethan  in round 1
+Demon1 killed NagZet  in round 1
+Boostio killed DAVEEYS  in round 1
+Boostio killed KeznitdeuS  in round 1
+Round 1 ended with elimination. The winning team is Evil Geniuses.
+The current score is KRÜ Esports 0 - 1 Evil Geniuses.
+C0M killed KeznitdeuS  in round 2
+C0M killed NagZet  in round 2
+Melser killed C0M  in round 2
+Boostio killed Melser  in round 2
+DAVEEYS killed Boostio  in round 2
+Ethan killed Klaus  in round 2
+JAWGEMO killed DAVEEYS  in round 2
+Round 2 ended with spike_defuse. The winning team is Evil Geniuses.
+The current score is KRÜ Esports 0 - 2 Evil Geniuses.
+NagZet killed C0M  in round 3
+NagZet killed Demon1  in round 3
+JAWGEMO killed Klaus  in round 3
+Melser killed Boostio  in round 3
+Melser killed JAWGEMO  in round 3
+NagZet killed Ethan  in round 3
+Round 3 ended with elimination. The winning team is KRÜ Esports.
+The current score is KRÜ Esports 1 - 2 Evil Geniuses.
+Boostio killed DAVEEYS  in round 4
+Boostio killed Melser  in round 4
+NagZet killed Boostio  in round 4
+C0M killed Klaus  in round 4
+Demon1 killed KeznitdeuS  in round 4
+NagZet killed C0M  in round 4
+Demon1 killed NagZet  in round 4
+Round 4 ended with elimination. The winning team is Evil Geniuses.
+The current score is KRÜ Esports 1 - 3 Evil Geniuses.
+Ethan killed KeznitdeuS  in round 5
+Klaus killed Demon1  in round 5
+Klaus killed Ethan  in round 5
+Klaus killed JAWGEMO  in round 5
+Boostio killed Melser  in round 5
+NagZet killed Boostio  in round 5
+DAVEEYS killed C0M  in round 5
+Round 5 ended with elimination. The winning team is KRÜ Esports.
+The current score is KRÜ Esports 2 - 3 Evil Geniuses.
+NagZet killed Ethan  in round 6
+C0M killed KeznitdeuS  in round 6
+Boostio killed Klaus  in round 6
+Demon1 killed NagZet  in round 6
+Melser killed C0M  in round 6
+Demon1 killed DAVEEYS  in round 6
+Melser killed Boostio  in round 6
+Demon1 killed Melser  in round 6
+Round 6 ended with elimination. The winning team is Evil Geniuses.
+The current score is KRÜ Esports 2 - 4 Evil Geniuses.
+C0M killed DAVEEYS  in round 7
+Boostio killed NagZet  in round 7
+Melser killed Boostio  in round 7
+Ethan killed Melser  in round 7
+Ethan killed KeznitdeuS  in round 7
+C0M killed Klaus  in round 7
+Round 7 ended with elimination. The winning team is Evil Geniuses.
+The current score is KRÜ Esports 2 - 5 Evil Geniuses.
+Demon1 killed KeznitdeuS  in round 8
+Ethan killed DAVEEYS  in round 8
+Boostio killed Melser  in round 8
+JAWGEMO killed Klaus  in round 8
+Boostio killed NagZet  in round 8
+Round 8 ended with elimination. The winning team is Evil Geniuses.
+The current score is KRÜ Esports 2 - 6 Evil Geniuses.
+NagZet killed Demon1  in round 9
+C0M killed Klaus  in round 9
+Melser killed Ethan  in round 9
+JAWGEMO killed KeznitdeuS  in round 9
+NagZet killed JAWGEMO  in round 9
+Melser killed Boostio  in round 9
+C0M killed NagZet  in round 9
+Melser killed C0M  in round 9
+Round 9 ended with elimination. The winning team is KRÜ Esports.
+The current score is KRÜ Esports 3 - 6 Evil Geniuses.
+Demon1 killed KeznitdeuS  in round 10
+Ethan killed Klaus  in round 10
+Demon1 killed NagZet  in round 10
+Melser killed JAWGEMO  in round 10
+Melser killed C0M  in round 10
+Melser killed Ethan  in round 10
+Boostio killed Melser  in round 10
+DAVEEYS killed Boostio  in round 10
+DAVEEYS killed Demon1  in round 10
+Round 10 ended with elimination. The winning team is KRÜ Esports.
+The current score is KRÜ Esports 4 - 6 Evil Geniuses.
+Melser killed JAWGEMO  in round 11
+Boostio killed KeznitdeuS  in round 11
+Demon1 killed Klaus  in round 11
+Boostio killed DAVEEYS  in round 11
+Demon1 killed NagZet  in round 11
+Round 11 ended with time_expired. The winning team is Evil Geniuses.
+The current score is KRÜ Esports 4 - 7 Evil Geniuses.
+Demon1 killed NagZet  in round 12
+JAWGEMO killed Klaus  in round 12
+KeznitdeuS killed Demon1  in round 12
+JAWGEMO killed KeznitdeuS  in round 12
+Ethan killed Melser  in round 12
+Ethan killed DAVEEYS  in round 12
+Round 12 ended with spike_defuse. The winning team is Evil Geniuses.
+The current score is KRÜ Esports 4 - 8 Evil Geniuses.
+KeznitdeuS killed Demon1  in round 13
+C0M killed KeznitdeuS  in round 13
+Klaus killed Ethan  in round 13
+JAWGEMO killed Klaus  in round 13
+DAVEEYS killed JAWGEMO  in round 13
+C0M killed Melser  in round 13
+Boostio killed DAVEEYS  in round 13
+C0M killed NagZet  in round 13
+Round 13 ended with elimination. The winning team is Evil Geniuses.
+The current score is KRÜ Esports 4 - 9 Evil Geniuses.
+KeznitdeuS killed Boostio  in round 14
+Melser killed JAWGEMO  in round 14
+C0M killed DAVEEYS  in round 14
+Melser killed Ethan  in round 14
+Demon1 killed Melser  in round 14
+KeznitdeuS killed Demon1  in round 14
+C0M killed KeznitdeuS  in round 14
+NagZet killed C0M  in round 14
+Round 14 ended with spike_defuse. The winning team is KRÜ Esports.
+The current score is KRÜ Esports 5 - 9 Evil Geniuses.
+Boostio killed Klaus  in round 15
+KeznitdeuS killed Ethan  in round 15
+NagZet killed JAWGEMO  in round 15
+Demon1 killed NagZet  in round 15
+KeznitdeuS killed Boostio  in round 15
+Demon1 killed Melser  in round 15
+Demon1 killed DAVEEYS  in round 15
+KeznitdeuS killed Demon1  in round 15
+KeznitdeuS killed C0M  in round 15
+Round 15 ended with spike_defuse. The winning team is KRÜ Esports.
+The current score is KRÜ Esports 6 - 9 Evil Geniuses.
+KeznitdeuS killed Ethan  in round 16
+KeznitdeuS killed Demon1  in round 16
+KeznitdeuS killed Boostio  in round 16
+DAVEEYS killed JAWGEMO  in round 16
+Round 16 ended with time_expired. The winning team is KRÜ Esports.
+The current score is KRÜ Esports 7 - 9 Evil Geniuses.
+Demon1 killed Klaus  in round 17
+KeznitdeuS killed Boostio  in round 17
+NagZet killed Demon1  in round 17
+NagZet killed Ethan  in round 17
+JAWGEMO killed NagZet  in round 17
+KeznitdeuS killed JAWGEMO  in round 17
+C0M killed KeznitdeuS  in round 17
+Melser killed C0M  in round 17
+Round 17 ended with elimination. The winning team is KRÜ Esports.
+The current score is KRÜ Esports 8 - 9 Evil Geniuses.
+Melser killed JAWGEMO  in round 18
+NagZet killed Boostio  in round 18
+NagZet killed Demon1  in round 18
+NagZet killed Ethan  in round 18
+C0M killed Klaus  in round 18
+Melser killed C0M  in round 18
+Round 18 ended with elimination. The winning team is KRÜ Esports.
+The current score is KRÜ Esports 9 - 9 Evil Geniuses.
+KeznitdeuS killed C0M  in round 19
+KeznitdeuS killed Demon1  in round 19
+Klaus killed JAWGEMO  in round 19
+Boostio killed Klaus  in round 19
+NagZet killed Ethan  in round 19
+DAVEEYS killed Boostio  in round 19
+Round 19 ended with elimination. The winning team is KRÜ Esports.
+The current score is KRÜ Esports 10 - 9 Evil Geniuses.
+DAVEEYS killed JAWGEMO  in round 20
+Ethan killed KeznitdeuS  in round 20
+Melser killed Demon1  in round 20
+Klaus killed Boostio  in round 20
+C0M killed Melser  in round 20
+Klaus killed Ethan  in round 20
+C0M killed DAVEEYS  in round 20
+Klaus killed C0M  in round 20
+Round 20 ended with spike_defuse. The winning team is KRÜ Esports.
+The current score is KRÜ Esports 11 - 9 Evil Geniuses.
+Demon1 killed NagZet  in round 21
+Klaus killed Boostio  in round 21
+Klaus killed Demon1  in round 21
+KeznitdeuS killed Ethan  in round 21
+Klaus killed JAWGEMO  in round 21
+C0M killed KeznitdeuS  in round 21
+DAVEEYS killed C0M  in round 21
+Round 21 ended with elimination. The winning team is KRÜ Esports.
+The current score is KRÜ Esports 12 - 9 Evil Geniuses.
+Demon1 killed DAVEEYS  in round 22
+Demon1 killed Melser  in round 22
+Ethan killed Klaus  in round 22
+Boostio killed NagZet  in round 22
+KeznitdeuS killed Demon1  in round 22
+JAWGEMO killed KeznitdeuS  in round 22
+Round 22 ended with elimination. The winning team is Evil Geniuses.
+The current score is KRÜ Esports 12 - 10 Evil Geniuses.
+JAWGEMO killed Melser  in round 23
+Demon1 killed KeznitdeuS  in round 23
+DAVEEYS killed Demon1  in round 23
+Boostio killed DAVEEYS  in round 23
+Klaus killed JAWGEMO  in round 23
+Boostio killed NagZet  in round 23
+Boostio killed Klaus  in round 23
+Round 23 ended with elimination. The winning team is Evil Geniuses.
+The current score is KRÜ Esports 12 - 11 Evil Geniuses.
+NagZet killed Ethan  in round 24
+Klaus killed Boostio  in round 24
+Melser killed JAWGEMO  in round 24
+Demon1 killed Klaus  in round 24
+KeznitdeuS killed Demon1  in round 24
+NagZet killed C0M  in round 24
+Round 24 ended with elimination. The winning team is KRÜ Esports.
+The current score is KRÜ Esports 13 - 11 Evil Geniuses.
+Game ended with winning team: KRÜ Esports at 2023-04-17T01:17:38Z
+
+--- Player Stats ---
+Demon1: Team=Evil Geniuses, Kills=22, Deaths=17, Assists=2, KDA=1.41, First Kills=6, First Deaths=2
+Ethan: Team=Evil Geniuses, Kills=10, Deaths=16, Assists=16, KDA=1.62, First Kills=1, First Deaths=3
+JAWGEMO: Team=Evil Geniuses, Kills=10, Deaths=17, Assists=9, KDA=1.12, First Kills=1, First Deaths=4
+C0M: Team=Evil Geniuses, Kills=18, Deaths=15, Assists=6, KDA=1.6, First Kills=2, First Deaths=2
+Boostio: Team=Evil Geniuses, Kills=22, Deaths=17, Assists=4, KDA=1.53, First Kills=2, First Deaths=1
+DAVEEYS: Team=KRÜ Esports, Kills=11, Deaths=14, Assists=15, KDA=1.86, First Kills=2, First Deaths=3
+Klaus: Team=KRÜ Esports, Kills=13, Deaths=19, Assists=7, KDA=1.05, First Kills=0, First Deaths=2
+Melser: Team=KRÜ Esports, Kills=20, Deaths=15, Assists=12, KDA=2.13, First Kills=2, First Deaths=1
+KeznitdeuS: Team=KRÜ Esports, Kills=18, Deaths=18, Assists=5, KDA=1.28, First Kills=4, First Deaths=4
+NagZet: Team=KRÜ Esports, Kills=20, Deaths=16, Assists=7, KDA=1.69, First Kills=4, First Deaths=2

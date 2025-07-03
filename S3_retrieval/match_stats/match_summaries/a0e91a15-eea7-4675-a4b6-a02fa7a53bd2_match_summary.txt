@@ -1,0 +1,185 @@
+Team 1: Team Secret
+Team 2: NAVI
+Participating Players:
+Player 1: Zyppan
+Player 2: cNed
+Player 3: ANGE1
+Player 4: Shao
+Player 5: suygetsu
+Player 6: invy
+Player 7: Jremy
+Player 8: JessieVash
+Player 9: DubsteP
+Player 10: BORKUM
+Winning Team: NAVI
+Score: Team Secret 4 - 13 NAVI
+Tournament Name: lock in brazil 2023
+Game Start Time: 2023-02-25T18:09:50Z
+Game End Time: 2023-02-25T18:50:02Z
+Rounds ended by ELIMINATION count: 9
+Rounds ended by DEFUSE count: 4
+Rounds ended by DETONATE count: 2
+SPIKE PLANTED count: 6
+platformGameId: val:a0e91a15-eea7-4675-a4b6-a02fa7a53bd2
+
+--- Events ---
+Game started at 2023-02-25T18:09:50Z
+cNed killed JessieVash  in round 1
+ANGE1 killed invy  in round 1
+Jremy killed ANGE1  in round 1
+Shao killed DubsteP  in round 1
+Jremy killed suygetsu  in round 1
+cNed killed Jremy  in round 1
+Shao killed BORKUM  in round 1
+Round 1 ended with spike_defuse. The winning team is NAVI.
+The current score is Team Secret 0 - 1 NAVI.
+Shao killed JessieVash  in round 2
+Shao killed DubsteP  in round 2
+Shao killed invy  in round 2
+suygetsu killed Jremy  in round 2
+suygetsu killed BORKUM  in round 2
+Round 2 ended with elimination. The winning team is NAVI.
+The current score is Team Secret 0 - 2 NAVI.
+cNed killed invy  in round 3
+cNed killed Jremy  in round 3
+BORKUM killed cNed  in round 3
+BORKUM killed Shao  in round 3
+Zyppan killed BORKUM  in round 3
+JessieVash killed suygetsu  in round 3
+JessieVash killed ANGE1  in round 3
+Zyppan killed JessieVash  in round 3
+Zyppan killed DubsteP  in round 3
+Round 3 ended with elimination. The winning team is NAVI.
+The current score is Team Secret 0 - 3 NAVI.
+JessieVash killed suygetsu  in round 4
+JessieVash killed ANGE1  in round 4
+BORKUM killed cNed  in round 4
+BORKUM killed Zyppan  in round 4
+Shao killed JessieVash  in round 4
+Shao killed DubsteP  in round 4
+Round 4 ended with detonate. The winning team is Team Secret.
+The current score is Team Secret 1 - 3 NAVI.
+ANGE1 killed JessieVash  in round 5
+cNed killed DubsteP  in round 5
+ANGE1 killed BORKUM  in round 5
+Round 5 ended with time_expired. The winning team is NAVI.
+The current score is Team Secret 1 - 4 NAVI.
+ANGE1 killed invy  in round 6
+BORKUM killed ANGE1  in round 6
+BORKUM killed Zyppan  in round 6
+Shao killed BORKUM  in round 6
+JessieVash killed suygetsu  in round 6
+cNed killed Jremy  in round 6
+DubsteP killed cNed  in round 6
+Shao killed DubsteP  in round 6
+Shao killed JessieVash  in round 6
+Round 6 ended with spike_defuse. The winning team is NAVI.
+The current score is Team Secret 1 - 5 NAVI.
+ANGE1 killed Jremy  in round 7
+ANGE1 killed invy  in round 7
+cNed killed BORKUM  in round 7
+cNed killed JessieVash  in round 7
+DubsteP killed cNed  in round 7
+ANGE1 killed DubsteP  in round 7
+Round 7 ended with elimination. The winning team is NAVI.
+The current score is Team Secret 1 - 6 NAVI.
+Zyppan killed invy  in round 8
+Zyppan killed Jremy  in round 8
+cNed killed JessieVash  in round 8
+suygetsu killed BORKUM  in round 8
+suygetsu killed DubsteP  in round 8
+Round 8 ended with elimination. The winning team is NAVI.
+The current score is Team Secret 1 - 7 NAVI.
+DubsteP killed cNed  in round 9
+ANGE1 killed JessieVash  in round 9
+Zyppan killed Jremy  in round 9
+BORKUM killed ANGE1  in round 9
+BORKUM killed suygetsu  in round 9
+invy killed Zyppan  in round 9
+Round 9 ended with detonate. The winning team is Team Secret.
+The current score is Team Secret 2 - 7 NAVI.
+Shao killed Shao  in round 10
+ANGE1 killed Jremy  in round 10
+ANGE1 killed JessieVash  in round 10
+suygetsu killed BORKUM  in round 10
+invy killed suygetsu  in round 10
+ANGE1 killed invy  in round 10
+cNed killed DubsteP  in round 10
+Round 10 ended with spike_defuse. The winning team is NAVI.
+The current score is Team Secret 2 - 8 NAVI.
+Jremy killed suygetsu  in round 11
+Shao killed DubsteP  in round 11
+Zyppan killed Jremy  in round 11
+JessieVash killed ANGE1  in round 11
+Zyppan killed JessieVash  in round 11
+Shao killed BORKUM  in round 11
+invy killed cNed  in round 11
+invy killed Zyppan  in round 11
+invy killed Shao  in round 11
+Round 11 ended with elimination. The winning team is Team Secret.
+The current score is Team Secret 3 - 8 NAVI.
+BORKUM killed ANGE1  in round 12
+Shao killed Jremy  in round 12
+JessieVash killed Shao  in round 12
+Zyppan killed invy  in round 12
+cNed killed BORKUM  in round 12
+suygetsu killed JessieVash  in round 12
+suygetsu killed DubsteP  in round 12
+Round 12 ended with spike_defuse. The winning team is NAVI.
+The current score is Team Secret 3 - 9 NAVI.
+Shao killed DubsteP  in round 13
+Shao killed Jremy  in round 13
+invy killed cNed  in round 13
+Shao killed BORKUM  in round 13
+JessieVash killed suygetsu  in round 13
+Zyppan killed JessieVash  in round 13
+invy killed ANGE1  in round 13
+Shao killed invy  in round 13
+Round 13 ended with elimination. The winning team is NAVI.
+The current score is Team Secret 3 - 10 NAVI.
+JessieVash killed Zyppan  in round 14
+BORKUM killed ANGE1  in round 14
+Shao killed JessieVash  in round 14
+cNed killed BORKUM  in round 14
+Jremy killed suygetsu  in round 14
+cNed killed Jremy  in round 14
+Round 14 ended with time_expired. The winning team is Team Secret.
+The current score is Team Secret 4 - 10 NAVI.
+ANGE1 killed Jremy  in round 15
+DubsteP killed cNed  in round 15
+Shao killed JessieVash  in round 15
+Zyppan killed DubsteP  in round 15
+suygetsu killed invy  in round 15
+suygetsu killed BORKUM  in round 15
+Round 15 ended with elimination. The winning team is NAVI.
+The current score is Team Secret 4 - 11 NAVI.
+cNed killed Jremy  in round 16
+cNed killed DubsteP  in round 16
+cNed killed invy  in round 16
+JessieVash killed cNed  in round 16
+Zyppan killed JessieVash  in round 16
+suygetsu killed BORKUM  in round 16
+Round 16 ended with elimination. The winning team is NAVI.
+The current score is Team Secret 4 - 12 NAVI.
+Zyppan killed BORKUM  in round 17
+cNed killed invy  in round 17
+ANGE1 killed Jremy  in round 17
+JessieVash killed ANGE1  in round 17
+cNed killed DubsteP  in round 17
+JessieVash killed cNed  in round 17
+suygetsu killed JessieVash  in round 17
+Round 17 ended with elimination. The winning team is NAVI.
+The current score is Team Secret 4 - 13 NAVI.
+Game ended with winning team: NAVI at 2023-02-25T18:50:02Z
+
+--- Player Stats ---
+Zyppan: Team=NAVI, Kills=13, Deaths=5, Assists=8, KDA=4.2, First Kills=2, First Deaths=1
+cNed: Team=NAVI, Kills=18, Deaths=10, Assists=1, KDA=1.9, First Kills=3, First Deaths=1
+ANGE1: Team=NAVI, Kills=13, Deaths=10, Assists=9, KDA=2.2, First Kills=4, First Deaths=1
+Shao: Team=NAVI, Kills=20, Deaths=4, Assists=5, KDA=6.25, First Kills=3, First Deaths=1
+suygetsu: Team=NAVI, Kills=11, Deaths=9, Assists=0, KDA=1.22, First Kills=0, First Deaths=2
+invy: Team=Team Secret, Kills=7, Deaths=12, Assists=1, KDA=0.67, First Kills=0, First Deaths=3
+Jremy: Team=Team Secret, Kills=4, Deaths=15, Assists=2, KDA=0.4, First Kills=1, First Deaths=3
+JessieVash: Team=Team Secret, Kills=12, Deaths=17, Assists=4, KDA=0.94, First Kills=2, First Deaths=3
+DubsteP: Team=Team Secret, Kills=4, Deaths=15, Assists=2, KDA=0.4, First Kills=1, First Deaths=1
+BORKUM: Team=Team Secret, Kills=10, Deaths=15, Assists=3, KDA=0.87, First Kills=1, First Deaths=1

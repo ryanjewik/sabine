@@ -1,0 +1,226 @@
+Team 1: GLOBAL ESPORTS
+Team 2: ZETA DIVISION
+Participating Players:
+Player 1: Dep
+Player 2: crow 
+Player 3: SugarZ3ro
+Player 4: TENNN
+Player 5: Laz
+Player 6: WRONSKI
+Player 7: t3xture
+Player 8: AYRIN
+Player 9: Bazzi
+Player 10: Monyet
+Winning Team: ZETA DIVISION
+Score: GLOBAL ESPORTS 8 - 13 ZETA DIVISION
+Tournament Name: vct pacific 2023
+Game Start Time: 2023-04-09T11:26:57Z
+Game End Time: 2023-04-09T12:14:46Z
+Rounds ended by ELIMINATION count: 13
+Rounds ended by DEFUSE count: 6
+Rounds ended by DETONATE count: 2
+SPIKE PLANTED count: 8
+platformGameId: val:0c939a9f-729d-4cb5-91f8-ecee6eeeb8fc
+
+--- Events ---
+Game started at 2023-04-09T11:26:57Z
+AYRIN killed Dep  in round 1
+Laz killed AYRIN  in round 1
+TENNN killed t3xture  in round 1
+Monyet killed TENNN  in round 1
+Monyet killed Laz  in round 1
+Monyet killed SugarZ3ro  in round 1
+WRONSKI killed crow   in round 1
+Round 1 ended with elimination. The winning team is GLOBAL ESPORTS.
+The current score is GLOBAL ESPORTS 1 - 0 ZETA DIVISION.
+Laz killed Monyet  in round 2
+Dep killed WRONSKI  in round 2
+Bazzi killed Laz  in round 2
+t3xture killed crow   in round 2
+Dep killed t3xture  in round 2
+Bazzi killed TENNN  in round 2
+AYRIN killed SugarZ3ro  in round 2
+Dep killed Bazzi  in round 2
+Dep killed AYRIN  in round 2
+Round 2 ended with elimination. The winning team is ZETA DIVISION.
+The current score is GLOBAL ESPORTS 1 - 1 ZETA DIVISION.
+Laz killed AYRIN  in round 3
+Dep killed WRONSKI  in round 3
+Laz killed Monyet  in round 3
+Bazzi killed Laz  in round 3
+crow  killed t3xture  in round 3
+Bazzi killed crow   in round 3
+Dep killed Bazzi  in round 3
+Round 3 ended with elimination. The winning team is ZETA DIVISION.
+The current score is GLOBAL ESPORTS 1 - 2 ZETA DIVISION.
+TENNN killed AYRIN  in round 4
+Dep killed Bazzi  in round 4
+t3xture killed Dep  in round 4
+crow  killed t3xture  in round 4
+SugarZ3ro killed Monyet  in round 4
+WRONSKI killed Laz  in round 4
+crow  killed WRONSKI  in round 4
+Round 4 ended with spike_defuse. The winning team is ZETA DIVISION.
+The current score is GLOBAL ESPORTS 1 - 3 ZETA DIVISION.
+Dep killed Monyet  in round 5
+t3xture killed crow   in round 5
+Dep killed t3xture  in round 5
+AYRIN killed TENNN  in round 5
+AYRIN killed SugarZ3ro  in round 5
+Bazzi killed Laz  in round 5
+AYRIN killed Dep  in round 5
+Round 5 ended with elimination. The winning team is GLOBAL ESPORTS.
+The current score is GLOBAL ESPORTS 2 - 3 ZETA DIVISION.
+t3xture killed SugarZ3ro  in round 6
+t3xture killed TENNN  in round 6
+crow  killed t3xture  in round 6
+AYRIN killed crow   in round 6
+Round 6 ended with detonate. The winning team is GLOBAL ESPORTS.
+The current score is GLOBAL ESPORTS 3 - 3 ZETA DIVISION.
+Dep killed Bazzi  in round 7
+Dep killed t3xture  in round 7
+WRONSKI killed TENNN  in round 7
+WRONSKI killed SugarZ3ro  in round 7
+Dep killed AYRIN  in round 7
+Dep killed Monyet  in round 7
+Dep killed WRONSKI  in round 7
+Round 7 ended with spike_defuse. The winning team is ZETA DIVISION.
+The current score is GLOBAL ESPORTS 3 - 4 ZETA DIVISION.
+WRONSKI killed SugarZ3ro  in round 8
+TENNN killed WRONSKI  in round 8
+crow  killed AYRIN  in round 8
+t3xture killed crow   in round 8
+TENNN killed Monyet  in round 8
+Bazzi killed TENNN  in round 8
+Dep killed Bazzi  in round 8
+Dep killed t3xture  in round 8
+Round 8 ended with spike_defuse. The winning team is ZETA DIVISION.
+The current score is GLOBAL ESPORTS 3 - 5 ZETA DIVISION.
+t3xture killed SugarZ3ro  in round 9
+crow  killed t3xture  in round 9
+TENNN killed Monyet  in round 9
+Bazzi killed crow   in round 9
+TENNN killed WRONSKI  in round 9
+TENNN killed AYRIN  in round 9
+TENNN killed Bazzi  in round 9
+Round 9 ended with elimination. The winning team is ZETA DIVISION.
+The current score is GLOBAL ESPORTS 3 - 6 ZETA DIVISION.
+Dep killed AYRIN  in round 10
+t3xture killed Dep  in round 10
+Laz killed Monyet  in round 10
+SugarZ3ro killed t3xture  in round 10
+Laz killed Bazzi  in round 10
+WRONSKI killed Laz  in round 10
+SugarZ3ro killed WRONSKI  in round 10
+Round 10 ended with elimination. The winning team is ZETA DIVISION.
+The current score is GLOBAL ESPORTS 3 - 7 ZETA DIVISION.
+Monyet killed TENNN  in round 11
+AYRIN killed Laz  in round 11
+AYRIN killed Dep  in round 11
+SugarZ3ro killed AYRIN  in round 11
+crow  killed t3xture  in round 11
+WRONSKI killed SugarZ3ro  in round 11
+crow  killed WRONSKI  in round 11
+Monyet killed crow   in round 11
+Round 11 ended with elimination. The winning team is GLOBAL ESPORTS.
+The current score is GLOBAL ESPORTS 4 - 7 ZETA DIVISION.
+Laz killed Monyet  in round 12
+TENNN killed t3xture  in round 12
+Dep killed WRONSKI  in round 12
+Dep killed AYRIN  in round 12
+Dep killed Bazzi  in round 12
+Round 12 ended with spike_defuse. The winning team is ZETA DIVISION.
+The current score is GLOBAL ESPORTS 4 - 8 ZETA DIVISION.
+Dep killed t3xture  in round 13
+WRONSKI killed Dep  in round 13
+AYRIN killed crow   in round 13
+TENNN killed WRONSKI  in round 13
+SugarZ3ro killed Monyet  in round 13
+Bazzi killed TENNN  in round 13
+SugarZ3ro killed Bazzi  in round 13
+SugarZ3ro killed AYRIN  in round 13
+Round 13 ended with elimination. The winning team is ZETA DIVISION.
+The current score is GLOBAL ESPORTS 4 - 9 ZETA DIVISION.
+Laz killed WRONSKI  in round 14
+TENNN killed Monyet  in round 14
+TENNN killed t3xture  in round 14
+AYRIN killed TENNN  in round 14
+crow  killed AYRIN  in round 14
+Bazzi killed SugarZ3ro  in round 14
+Dep killed Bazzi  in round 14
+Round 14 ended with elimination. The winning team is ZETA DIVISION.
+The current score is GLOBAL ESPORTS 4 - 10 ZETA DIVISION.
+AYRIN killed SugarZ3ro  in round 15
+Dep killed AYRIN  in round 15
+WRONSKI killed TENNN  in round 15
+Monyet killed Dep  in round 15
+t3xture killed crow   in round 15
+Round 15 ended with spike_defuse. The winning team is GLOBAL ESPORTS.
+The current score is GLOBAL ESPORTS 5 - 10 ZETA DIVISION.
+Laz killed t3xture  in round 16
+t3xture killed Dep  in round 16
+crow  killed t3xture  in round 16
+crow  killed WRONSKI  in round 16
+TENNN killed AYRIN  in round 16
+SugarZ3ro killed Monyet  in round 16
+Round 16 ended with detonate. The winning team is ZETA DIVISION.
+The current score is GLOBAL ESPORTS 5 - 11 ZETA DIVISION.
+WRONSKI killed Dep  in round 17
+WRONSKI killed crow   in round 17
+Laz killed Monyet  in round 17
+t3xture killed Laz  in round 17
+SugarZ3ro killed Bazzi  in round 17
+AYRIN killed SugarZ3ro  in round 17
+t3xture killed TENNN  in round 17
+Round 17 ended with elimination. The winning team is GLOBAL ESPORTS.
+The current score is GLOBAL ESPORTS 6 - 11 ZETA DIVISION.
+t3xture killed TENNN  in round 18
+Dep killed t3xture  in round 18
+Dep killed WRONSKI  in round 18
+Monyet killed SugarZ3ro  in round 18
+Dep killed Monyet  in round 18
+Dep killed AYRIN  in round 18
+crow  killed Bazzi  in round 18
+Round 18 ended with elimination. The winning team is ZETA DIVISION.
+The current score is GLOBAL ESPORTS 6 - 12 ZETA DIVISION.
+Monyet killed TENNN  in round 19
+WRONSKI killed crow   in round 19
+AYRIN killed Laz  in round 19
+SugarZ3ro killed Bazzi  in round 19
+Monyet killed Dep  in round 19
+t3xture killed SugarZ3ro  in round 19
+Round 19 ended with elimination. The winning team is GLOBAL ESPORTS.
+The current score is GLOBAL ESPORTS 7 - 12 ZETA DIVISION.
+Dep killed AYRIN  in round 20
+Dep killed t3xture  in round 20
+Monyet killed Dep  in round 20
+Monyet killed SugarZ3ro  in round 20
+TENNN killed Monyet  in round 20
+Bazzi killed TENNN  in round 20
+Bazzi killed crow   in round 20
+WRONSKI killed Laz  in round 20
+Round 20 ended with spike_defuse. The winning team is GLOBAL ESPORTS.
+The current score is GLOBAL ESPORTS 8 - 12 ZETA DIVISION.
+TENNN killed t3xture  in round 21
+AYRIN killed Dep  in round 21
+SugarZ3ro killed AYRIN  in round 21
+TENNN killed Monyet  in round 21
+Bazzi killed TENNN  in round 21
+WRONSKI killed crow   in round 21
+SugarZ3ro killed WRONSKI  in round 21
+SugarZ3ro killed Bazzi  in round 21
+Round 21 ended with elimination. The winning team is ZETA DIVISION.
+The current score is GLOBAL ESPORTS 8 - 13 ZETA DIVISION.
+Game ended with winning team: ZETA DIVISION at 2023-04-09T12:14:46Z
+
+--- Player Stats ---
+Dep: Team=ZETA DIVISION, Kills=29, Deaths=12, Assists=2, KDA=2.58, First Kills=5, First Deaths=2
+crow : Team=ZETA DIVISION, Kills=12, Deaths=14, Assists=8, KDA=1.43, First Kills=0, First Deaths=0
+SugarZ3ro: Team=ZETA DIVISION, Kills=13, Deaths=14, Assists=13, KDA=1.86, First Kills=0, First Deaths=4
+TENNN: Team=ZETA DIVISION, Kills=16, Deaths=15, Assists=5, KDA=1.4, First Kills=2, First Deaths=3
+Laz: Team=ZETA DIVISION, Kills=10, Deaths=10, Assists=7, KDA=1.7, First Kills=5, First Deaths=0
+WRONSKI: Team=GLOBAL ESPORTS, Kills=14, Deaths=14, Assists=13, KDA=1.93, First Kills=2, First Deaths=1
+t3xture: Team=GLOBAL ESPORTS, Kills=14, Deaths=19, Assists=3, KDA=0.89, First Kills=3, First Deaths=3
+AYRIN: Team=GLOBAL ESPORTS, Kills=14, Deaths=17, Assists=3, KDA=1.0, First Kills=2, First Deaths=4
+Bazzi: Team=GLOBAL ESPORTS, Kills=12, Deaths=14, Assists=11, KDA=1.64, First Kills=0, First Deaths=1
+Monyet: Team=GLOBAL ESPORTS, Kills=11, Deaths=16, Assists=14, KDA=1.56, First Kills=2, First Deaths=3

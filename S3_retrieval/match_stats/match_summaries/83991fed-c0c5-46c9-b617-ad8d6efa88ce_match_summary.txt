@@ -1,0 +1,208 @@
+Team 1: KRÜ Esports
+Team 2: DRX
+Participating Players:
+Player 1: MaKo
+Player 2: Foxy9
+Player 3: Flashback
+Player 4: BeYN
+Player 5: BuZz
+Player 6: KeznitdeuS
+Player 7: Shyy
+Player 8: Melser
+Player 9: mta
+Player 10: heat
+Winning Team: DRX
+Score: KRÜ Esports 6 - 13 DRX
+Tournament Name: vct champions 2024
+Game Start Time: 2024-08-02T09:42:50Z
+Game End Time: 2024-08-02T10:28:33Z
+Rounds ended by ELIMINATION count: 11
+Rounds ended by DEFUSE count: 6
+Rounds ended by DETONATE count: 1
+SPIKE PLANTED count: 7
+platformGameId: val:83991fed-c0c5-46c9-b617-ad8d6efa88ce
+
+--- Events ---
+Game started at 2024-08-02T09:42:50Z
+BuZz killed Shyy  in round 1
+Flashback killed KeznitdeuS  in round 1
+heat killed Flashback  in round 1
+BuZz killed Melser  in round 1
+heat killed BuZz  in round 1
+Foxy9 killed heat  in round 1
+Foxy9 killed mta  in round 1
+Round 1 ended with elimination. The winning team is DRX.
+The current score is KRÜ Esports 0 - 1 DRX.
+BuZz killed heat  in round 2
+BeYN killed Melser  in round 2
+BeYN killed KeznitdeuS  in round 2
+BeYN killed mta  in round 2
+Foxy9 killed Shyy  in round 2
+Round 2 ended with elimination. The winning team is DRX.
+The current score is KRÜ Esports 0 - 2 DRX.
+Shyy killed Foxy9  in round 3
+Flashback killed KeznitdeuS  in round 3
+BuZz killed Shyy  in round 3
+heat killed BuZz  in round 3
+MaKo killed mta  in round 3
+heat killed MaKo  in round 3
+Flashback killed heat  in round 3
+Melser killed Flashback  in round 3
+Round 3 ended with time_expired. The winning team is DRX.
+The current score is KRÜ Esports 0 - 3 DRX.
+KeznitdeuS killed MaKo  in round 4
+BuZz killed Shyy  in round 4
+BeYN killed KeznitdeuS  in round 4
+Melser killed BeYN  in round 4
+Foxy9 killed Melser  in round 4
+Foxy9 killed mta  in round 4
+BuZz killed heat  in round 4
+Round 4 ended with spike_defuse. The winning team is DRX.
+The current score is KRÜ Esports 0 - 4 DRX.
+BeYN killed KeznitdeuS  in round 5
+mta killed BuZz  in round 5
+BuZz killed mta  in round 5
+heat killed BeYN  in round 5
+Foxy9 killed heat  in round 5
+Flashback killed Shyy  in round 5
+Foxy9 killed Melser  in round 5
+Round 5 ended with spike_defuse. The winning team is DRX.
+The current score is KRÜ Esports 0 - 5 DRX.
+MaKo killed Melser  in round 6
+heat killed MaKo  in round 6
+heat killed BuZz  in round 6
+Flashback killed mta  in round 6
+Foxy9 killed heat  in round 6
+BeYN killed KeznitdeuS  in round 6
+KeznitdeuS killed BeYN  in round 6
+Shyy killed Flashback  in round 6
+Shyy killed Foxy9  in round 6
+Round 6 ended with elimination. The winning team is KRÜ Esports.
+The current score is KRÜ Esports 1 - 5 DRX.
+KeznitdeuS killed Foxy9  in round 7
+BuZz killed mta  in round 7
+KeznitdeuS killed MaKo  in round 7
+KeznitdeuS killed BeYN  in round 7
+Flashback killed KeznitdeuS  in round 7
+heat killed Flashback  in round 7
+heat killed BuZz  in round 7
+Round 7 ended with elimination. The winning team is KRÜ Esports.
+The current score is KRÜ Esports 2 - 5 DRX.
+KeznitdeuS killed BuZz  in round 8
+KeznitdeuS killed Foxy9  in round 8
+Flashback killed Shyy  in round 8
+heat killed MaKo  in round 8
+Round 8 ended with spike_defuse. The winning team is DRX.
+The current score is KRÜ Esports 2 - 6 DRX.
+Flashback killed heat  in round 9
+BeYN killed mta  in round 9
+KeznitdeuS killed MaKo  in round 9
+BeYN killed mta  in round 9
+KeznitdeuS killed BuZz  in round 9
+BeYN killed heat  in round 9
+Melser killed BeYN  in round 9
+Foxy9 killed Melser  in round 9
+KeznitdeuS killed Foxy9  in round 9
+Round 9 ended with detonate. The winning team is KRÜ Esports.
+The current score is KRÜ Esports 3 - 6 DRX.
+heat killed BuZz  in round 10
+Foxy9 killed KeznitdeuS  in round 10
+Foxy9 killed Shyy  in round 10
+MaKo killed Melser  in round 10
+Foxy9 killed mta  in round 10
+heat killed Foxy9  in round 10
+Flashback killed heat  in round 10
+Round 10 ended with spike_defuse. The winning team is DRX.
+The current score is KRÜ Esports 3 - 7 DRX.
+Foxy9 killed mta  in round 11
+Melser killed Foxy9  in round 11
+BeYN killed Shyy  in round 11
+BuZz killed Melser  in round 11
+Flashback killed KeznitdeuS  in round 11
+Flashback killed heat  in round 11
+Round 11 ended with elimination. The winning team is DRX.
+The current score is KRÜ Esports 3 - 8 DRX.
+Foxy9 killed Shyy  in round 12
+mta killed Foxy9  in round 12
+BuZz killed mta  in round 12
+BeYN killed Melser  in round 12
+Flashback killed KeznitdeuS  in round 12
+BuZz killed heat  in round 12
+Round 12 ended with elimination. The winning team is DRX.
+The current score is KRÜ Esports 3 - 9 DRX.
+BuZz killed Shyy  in round 13
+mta killed Foxy9  in round 13
+BuZz killed mta  in round 13
+heat killed BeYN  in round 13
+Flashback killed heat  in round 13
+BuZz killed Melser  in round 13
+KeznitdeuS killed BuZz  in round 13
+KeznitdeuS killed MaKo  in round 13
+Flashback killed KeznitdeuS  in round 13
+Round 13 ended with elimination. The winning team is DRX.
+The current score is KRÜ Esports 3 - 10 DRX.
+BeYN killed KeznitdeuS  in round 14
+BuZz killed heat  in round 14
+BuZz killed mta  in round 14
+BuZz killed Shyy  in round 14
+BeYN killed Melser  in round 14
+Round 14 ended with elimination. The winning team is DRX.
+The current score is KRÜ Esports 3 - 11 DRX.
+Shyy killed Flashback  in round 15
+KeznitdeuS killed MaKo  in round 15
+BuZz killed heat  in round 15
+Melser killed Foxy9  in round 15
+BeYN killed KeznitdeuS  in round 15
+Melser killed BeYN  in round 15
+Shyy killed BuZz  in round 15
+Round 15 ended with spike_defuse. The winning team is KRÜ Esports.
+The current score is KRÜ Esports 4 - 11 DRX.
+Shyy killed Foxy9  in round 16
+Shyy killed BeYN  in round 16
+Shyy killed MaKo  in round 16
+Melser killed Flashback  in round 16
+BuZz killed heat  in round 16
+KeznitdeuS killed BuZz  in round 16
+Round 16 ended with elimination. The winning team is KRÜ Esports.
+The current score is KRÜ Esports 5 - 11 DRX.
+Shyy killed BuZz  in round 17
+Foxy9 killed Shyy  in round 17
+Melser killed Flashback  in round 17
+mta killed BeYN  in round 17
+mta killed MaKo  in round 17
+Foxy9 killed mta  in round 17
+Foxy9 killed KeznitdeuS  in round 17
+heat killed Foxy9  in round 17
+Round 17 ended with spike_defuse. The winning team is KRÜ Esports.
+The current score is KRÜ Esports 6 - 11 DRX.
+BuZz killed mta  in round 18
+BuZz killed KeznitdeuS  in round 18
+BuZz killed heat  in round 18
+MaKo killed Melser  in round 18
+Shyy killed BuZz  in round 18
+Foxy9 killed Shyy  in round 18
+Round 18 ended with elimination. The winning team is DRX.
+The current score is KRÜ Esports 6 - 12 DRX.
+Flashback killed Melser  in round 19
+Shyy killed Flashback  in round 19
+BuZz killed heat  in round 19
+MaKo killed KeznitdeuS  in round 19
+mta killed BuZz  in round 19
+BeYN killed mta  in round 19
+Shyy killed MaKo  in round 19
+Foxy9 killed Shyy  in round 19
+Round 19 ended with elimination. The winning team is DRX.
+The current score is KRÜ Esports 6 - 13 DRX.
+Game ended with winning team: DRX at 2024-08-02T10:28:33Z
+
+--- Player Stats ---
+MaKo: Team=DRX, Kills=5, Deaths=11, Assists=9, KDA=1.27, First Kills=1, First Deaths=1
+Foxy9: Team=DRX, Kills=19, Deaths=12, Assists=5, KDA=2.0, First Kills=2, First Deaths=3
+Flashback: Team=DRX, Kills=15, Deaths=8, Assists=3, KDA=2.25, First Kills=2, First Deaths=1
+BeYN: Team=DRX, Kills=15, Deaths=9, Assists=5, KDA=2.22, First Kills=2, First Deaths=0
+BuZz: Team=DRX, Kills=23, Deaths=14, Assists=2, KDA=1.79, First Kills=4, First Deaths=3
+KeznitdeuS: Team=KRÜ Esports, Kills=14, Deaths=16, Assists=3, KDA=1.06, First Kills=3, First Deaths=2
+Shyy: Team=KRÜ Esports, Kills=12, Deaths=14, Assists=4, KDA=1.14, First Kills=4, First Deaths=3
+Melser: Team=KRÜ Esports, Kills=8, Deaths=13, Assists=6, KDA=1.08, First Kills=0, First Deaths=2
+mta: Team=KRÜ Esports, Kills=6, Deaths=17, Assists=7, KDA=0.76, First Kills=0, First Deaths=2
+heat: Team=KRÜ Esports, Kills=14, Deaths=17, Assists=3, KDA=1.0, First Kills=1, First Deaths=2

@@ -1,0 +1,214 @@
+Team 1: Futbolist
+Team 2: Giants
+Participating Players:
+Player 1: Fit1nho
+Player 2: purp0
+Player 3: Famsii
+Player 4: Cloud
+Player 5: hoody
+Player 6: qRaxs
+Player 7: yetujey
+Player 8: MrFaliN
+Player 9: cNed
+Player 10: ATA KAPTAN
+Winning Team: Futbolist
+Score: Futbolist 13 - 6 Giants
+Tournament Name: vct emea stage 2 2024
+Game Start Time: 2024-07-09T18:44:52Z
+Game End Time: 2024-07-09T19:27:59Z
+Rounds ended by ELIMINATION count: 6
+Rounds ended by DEFUSE count: 9
+Rounds ended by DETONATE count: 4
+SPIKE PLANTED count: 13
+platformGameId: val:5dc6e23e-3a71-4466-88a4-c38e4f250007
+
+--- Events ---
+Game started at 2024-07-09T18:44:52Z
+hoody killed cNed  in round 1
+ATA KAPTAN killed Cloud  in round 1
+hoody killed qRaxs  in round 1
+Fit1nho killed MrFaliN  in round 1
+ATA KAPTAN killed Famsii  in round 1
+purp0 killed ATA KAPTAN  in round 1
+yetujey killed Fit1nho  in round 1
+purp0 killed yetujey  in round 1
+Round 1 ended with spike_defuse. The winning team is Giants.
+The current score is Futbolist 0 - 1 Giants.
+purp0 killed MrFaliN  in round 2
+Fit1nho killed ATA KAPTAN  in round 2
+Cloud killed yetujey  in round 2
+cNed killed hoody  in round 2
+cNed killed Cloud  in round 2
+Fit1nho killed qRaxs  in round 2
+purp0 killed cNed  in round 2
+Round 2 ended with spike_defuse. The winning team is Giants.
+The current score is Futbolist 0 - 2 Giants.
+cNed killed purp0  in round 3
+hoody killed cNed  in round 3
+ATA KAPTAN killed hoody  in round 3
+Cloud killed ATA KAPTAN  in round 3
+qRaxs killed Cloud  in round 3
+Fit1nho killed qRaxs  in round 3
+yetujey killed Famsii  in round 3
+MrFaliN killed Fit1nho  in round 3
+Round 3 ended with elimination. The winning team is Futbolist.
+The current score is Futbolist 1 - 2 Giants.
+cNed killed Cloud  in round 4
+cNed killed hoody  in round 4
+Round 4 ended with detonate. The winning team is Futbolist.
+The current score is Futbolist 2 - 2 Giants.
+qRaxs killed purp0  in round 5
+Famsii killed MrFaliN  in round 5
+cNed killed Famsii  in round 5
+yetujey killed Fit1nho  in round 5
+cNed killed Cloud  in round 5
+Round 5 ended with detonate. The winning team is Futbolist.
+The current score is Futbolist 3 - 2 Giants.
+ATA KAPTAN killed purp0  in round 6
+purp0 killed yetujey  in round 6
+purp0 killed cNed  in round 6
+purp0 killed qRaxs  in round 6
+Famsii killed MrFaliN  in round 6
+hoody killed ATA KAPTAN  in round 6
+Round 6 ended with elimination. The winning team is Giants.
+The current score is Futbolist 3 - 3 Giants.
+Fit1nho killed MrFaliN  in round 7
+yetujey killed Famsii  in round 7
+Cloud killed yetujey  in round 7
+cNed killed Cloud  in round 7
+Fit1nho killed ATA KAPTAN  in round 7
+qRaxs killed hoody  in round 7
+purp0 killed qRaxs  in round 7
+cNed killed Fit1nho  in round 7
+purp0 killed cNed  in round 7
+Round 7 ended with detonate. The winning team is Futbolist.
+The current score is Futbolist 4 - 3 Giants.
+Cloud killed MrFaliN  in round 8
+cNed killed hoody  in round 8
+cNed killed purp0  in round 8
+yetujey killed Cloud  in round 8
+Famsii killed yetujey  in round 8
+ATA KAPTAN killed Famsii  in round 8
+cNed killed Fit1nho  in round 8
+Round 8 ended with elimination. The winning team is Futbolist.
+The current score is Futbolist 5 - 3 Giants.
+cNed killed Fit1nho  in round 9
+purp0 killed qRaxs  in round 9
+ATA KAPTAN killed purp0  in round 9
+hoody killed yetujey  in round 9
+ATA KAPTAN killed Famsii  in round 9
+MrFaliN killed Cloud  in round 9
+ATA KAPTAN killed hoody  in round 9
+Round 9 ended with elimination. The winning team is Futbolist.
+The current score is Futbolist 6 - 3 Giants.
+Fit1nho killed cNed  in round 10
+ATA KAPTAN killed hoody  in round 10
+ATA KAPTAN killed Fit1nho  in round 10
+purp0 killed MrFaliN  in round 10
+purp0 killed qRaxs  in round 10
+ATA KAPTAN killed Famsii  in round 10
+ATA KAPTAN killed Cloud  in round 10
+Round 10 ended with detonate. The winning team is Futbolist.
+The current score is Futbolist 7 - 3 Giants.
+ATA KAPTAN killed purp0  in round 11
+hoody killed cNed  in round 11
+purp0 killed ATA KAPTAN  in round 11
+MrFaliN killed hoody  in round 11
+MrFaliN killed Fit1nho  in round 11
+Cloud killed yetujey  in round 11
+purp0 killed MrFaliN  in round 11
+qRaxs killed Famsii  in round 11
+Round 11 ended with spike_defuse. The winning team is Giants.
+The current score is Futbolist 7 - 4 Giants.
+purp0 killed qRaxs  in round 12
+purp0 killed cNed  in round 12
+yetujey killed purp0  in round 12
+Famsii killed yetujey  in round 12
+Famsii killed MrFaliN  in round 12
+ATA KAPTAN killed hoody  in round 12
+ATA KAPTAN killed Fit1nho  in round 12
+ATA KAPTAN killed Famsii  in round 12
+Cloud killed ATA KAPTAN  in round 12
+Cloud killed qRaxs  in round 12
+Round 12 ended with spike_defuse. The winning team is Giants.
+The current score is Futbolist 7 - 5 Giants.
+MrFaliN killed Cloud  in round 13
+yetujey killed Fit1nho  in round 13
+Famsii killed ATA KAPTAN  in round 13
+cNed killed purp0  in round 13
+cNed killed Famsii  in round 13
+hoody killed qRaxs  in round 13
+cNed killed hoody  in round 13
+Round 13 ended with spike_defuse. The winning team is Futbolist.
+The current score is Futbolist 8 - 5 Giants.
+ATA KAPTAN killed purp0  in round 14
+ATA KAPTAN killed Cloud  in round 14
+Fit1nho killed ATA KAPTAN  in round 14
+MrFaliN killed hoody  in round 14
+yetujey killed Fit1nho  in round 14
+qRaxs killed Famsii  in round 14
+Round 14 ended with spike_defuse. The winning team is Futbolist.
+The current score is Futbolist 9 - 5 Giants.
+MrFaliN killed Cloud  in round 15
+yetujey killed Fit1nho  in round 15
+purp0 killed MrFaliN  in round 15
+cNed killed Famsii  in round 15
+hoody killed cNed  in round 15
+purp0 killed qRaxs  in round 15
+yetujey killed hoody  in round 15
+ATA KAPTAN killed purp0  in round 15
+Round 15 ended with elimination. The winning team is Futbolist.
+The current score is Futbolist 10 - 5 Giants.
+ATA KAPTAN killed purp0  in round 16
+MrFaliN killed Fit1nho  in round 16
+Famsii killed qRaxs  in round 16
+ATA KAPTAN killed Famsii  in round 16
+Cloud killed ATA KAPTAN  in round 16
+Cloud killed MrFaliN  in round 16
+cNed killed hoody  in round 16
+cNed killed Cloud  in round 16
+Round 16 ended with spike_defuse. The winning team is Futbolist.
+The current score is Futbolist 11 - 5 Giants.
+ATA KAPTAN killed purp0  in round 17
+ATA KAPTAN killed hoody  in round 17
+MrFaliN killed Cloud  in round 17
+Fit1nho killed ATA KAPTAN  in round 17
+Fit1nho killed qRaxs  in round 17
+Fit1nho killed yetujey  in round 17
+Famsii killed MrFaliN  in round 17
+Fit1nho killed cNed  in round 17
+Round 17 ended with elimination. The winning team is Giants.
+The current score is Futbolist 11 - 6 Giants.
+MrFaliN killed purp0  in round 18
+Cloud killed cNed  in round 18
+hoody killed MrFaliN  in round 18
+yetujey killed hoody  in round 18
+Famsii killed ATA KAPTAN  in round 18
+qRaxs killed Fit1nho  in round 18
+qRaxs killed Cloud  in round 18
+Famsii killed yetujey  in round 18
+qRaxs killed Famsii  in round 18
+Round 18 ended with spike_defuse. The winning team is Futbolist.
+The current score is Futbolist 12 - 6 Giants.
+Famsii killed yetujey  in round 19
+ATA KAPTAN killed hoody  in round 19
+MrFaliN killed Fit1nho  in round 19
+cNed killed purp0  in round 19
+ATA KAPTAN killed Cloud  in round 19
+Famsii killed cNed  in round 19
+qRaxs killed Famsii  in round 19
+Round 19 ended with spike_defuse. The winning team is Futbolist.
+The current score is Futbolist 13 - 6 Giants.
+Game ended with winning team: Futbolist at 2024-07-09T19:27:59Z
+
+--- Player Stats ---
+Fit1nho: Team=Giants, Kills=12, Deaths=15, Assists=1, KDA=0.87, First Kills=2, First Deaths=1
+purp0: Team=Giants, Kills=18, Deaths=14, Assists=5, KDA=1.64, First Kills=2, First Deaths=8
+Famsii: Team=Giants, Kills=12, Deaths=15, Assists=6, KDA=1.2, First Kills=1, First Deaths=0
+Cloud: Team=Giants, Kills=10, Deaths=16, Assists=7, KDA=1.06, First Kills=1, First Deaths=3
+hoody: Team=Giants, Kills=9, Deaths=16, Assists=6, KDA=0.94, First Kills=1, First Deaths=0
+qRaxs: Team=Futbolist, Kills=9, Deaths=13, Assists=10, KDA=1.46, First Kills=1, First Deaths=1
+yetujey: Team=Futbolist, Kills=11, Deaths=11, Assists=12, KDA=2.09, First Kills=0, First Deaths=1
+MrFaliN: Team=Futbolist, Kills=11, Deaths=13, Assists=10, KDA=1.62, First Kills=3, First Deaths=3
+cNed: Team=Futbolist, Kills=20, Deaths=12, Assists=1, KDA=1.75, First Kills=3, First Deaths=2
+ATA KAPTAN: Team=Futbolist, Kills=25, Deaths=12, Assists=4, KDA=2.42, First Kills=5, First Deaths=0

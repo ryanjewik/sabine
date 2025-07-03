@@ -1,0 +1,224 @@
+Team 1: FNATIC
+Team 2: LOUD
+Participating Players:
+Player 1: aspas
+Player 2: cauanzin
+Player 3: Saadhak
+Player 4: Less
+Player 5: tuyz
+Player 6: Chronicle
+Player 7: Derke
+Player 8: Boaster
+Player 9: Alfajer
+Player 10: Leo 
+Winning Team: LOUD
+Score: FNATIC 7 - 13 LOUD
+Tournament Name: vct champions 2023
+Game Start Time: 2023-08-25T01:10:30Z
+Game End Time: 2023-08-25T01:59:18Z
+Rounds ended by ELIMINATION count: 8
+Rounds ended by DEFUSE count: 7
+Rounds ended by DETONATE count: 5
+SPIKE PLANTED count: 12
+platformGameId: val:55b56353-f550-4d91-9628-392e0078aa67
+
+--- Events ---
+Game started at 2023-08-25T01:10:30Z
+Boaster killed tuyz  in round 1
+cauanzin killed Derke  in round 1
+Less killed Chronicle  in round 1
+Leo  killed Saadhak  in round 1
+cauanzin killed Leo   in round 1
+Less killed Alfajer  in round 1
+Less killed Boaster  in round 1
+Round 1 ended with spike_defuse. The winning team is LOUD.
+The current score is FNATIC 0 - 1 LOUD.
+Saadhak killed Chronicle  in round 2
+Boaster killed Saadhak  in round 2
+aspas killed Derke  in round 2
+Less killed Alfajer  in round 2
+Boaster killed tuyz  in round 2
+aspas killed Leo   in round 2
+Boaster killed Less  in round 2
+aspas killed Boaster  in round 2
+Round 2 ended with spike_defuse. The winning team is LOUD.
+The current score is FNATIC 0 - 2 LOUD.
+Derke killed cauanzin  in round 3
+Boaster killed Saadhak  in round 3
+Less killed Boaster  in round 3
+Derke killed Less  in round 3
+aspas killed Derke  in round 3
+tuyz killed Alfajer  in round 3
+Chronicle killed tuyz  in round 3
+Leo  killed aspas  in round 3
+Round 3 ended with elimination. The winning team is FNATIC.
+The current score is FNATIC 1 - 2 LOUD.
+aspas killed Derke  in round 4
+aspas killed Boaster  in round 4
+Chronicle killed aspas  in round 4
+cauanzin killed Leo   in round 4
+tuyz killed Chronicle  in round 4
+Less killed Alfajer  in round 4
+Round 4 ended with elimination. The winning team is LOUD.
+The current score is FNATIC 1 - 3 LOUD.
+Less killed Derke  in round 5
+Saadhak killed Chronicle  in round 5
+Less killed Boaster  in round 5
+Less killed Alfajer  in round 5
+Leo  killed Less  in round 5
+Saadhak killed Leo   in round 5
+Round 5 ended with elimination. The winning team is LOUD.
+The current score is FNATIC 1 - 4 LOUD.
+tuyz killed Alfajer  in round 6
+Leo  killed Saadhak  in round 6
+Chronicle killed cauanzin  in round 6
+Chronicle killed Less  in round 6
+aspas killed Chronicle  in round 6
+tuyz killed Derke  in round 6
+Leo  killed tuyz  in round 6
+Round 6 ended with detonate. The winning team is FNATIC.
+The current score is FNATIC 2 - 4 LOUD.
+Leo  killed Less  in round 7
+cauanzin killed Derke  in round 7
+Saadhak killed Chronicle  in round 7
+Boaster killed Saadhak  in round 7
+Alfajer killed tuyz  in round 7
+aspas killed Alfajer  in round 7
+aspas killed Leo   in round 7
+cauanzin killed Boaster  in round 7
+cauanzin killed cauanzin  in round 7
+Round 7 ended with detonate. The winning team is FNATIC.
+The current score is FNATIC 3 - 4 LOUD.
+aspas killed Alfajer  in round 8
+Boaster killed tuyz  in round 8
+cauanzin killed Boaster  in round 8
+Less killed Chronicle  in round 8
+Leo  killed Less  in round 8
+Leo  killed cauanzin  in round 8
+Derke killed Saadhak  in round 8
+aspas killed Derke  in round 8
+Round 8 ended with detonate. The winning team is FNATIC.
+The current score is FNATIC 4 - 4 LOUD.
+Leo  killed aspas  in round 9
+Less killed Alfajer  in round 9
+Less killed Leo   in round 9
+Saadhak killed Derke  in round 9
+aspas killed Boaster  in round 9
+tuyz killed Chronicle  in round 9
+Round 9 ended with elimination. The winning team is LOUD.
+The current score is FNATIC 4 - 5 LOUD.
+tuyz killed Chronicle  in round 10
+cauanzin killed Derke  in round 10
+cauanzin killed Boaster  in round 10
+Alfajer killed Less  in round 10
+Leo  killed aspas  in round 10
+Round 10 ended with spike_defuse. The winning team is LOUD.
+The current score is FNATIC 4 - 6 LOUD.
+Leo  killed tuyz  in round 11
+cauanzin killed Alfajer  in round 11
+aspas killed Alfajer  in round 11
+Derke killed aspas  in round 11
+tuyz killed Derke  in round 11
+Chronicle killed tuyz  in round 11
+Less killed Chronicle  in round 11
+Leo  killed Less  in round 11
+cauanzin killed Leo   in round 11
+Boaster killed cauanzin  in round 11
+Saadhak killed Boaster  in round 11
+Round 11 ended with spike_defuse. The winning team is LOUD.
+The current score is FNATIC 4 - 7 LOUD.
+Leo  killed Saadhak  in round 12
+cauanzin killed Boaster  in round 12
+tuyz killed Chronicle  in round 12
+aspas killed Derke  in round 12
+Leo  killed cauanzin  in round 12
+Leo  killed tuyz  in round 12
+aspas killed Alfajer  in round 12
+Less killed Leo   in round 12
+Round 12 ended with spike_defuse. The winning team is LOUD.
+The current score is FNATIC 4 - 8 LOUD.
+Derke killed tuyz  in round 13
+cauanzin killed Boaster  in round 13
+Alfajer killed cauanzin  in round 13
+Alfajer killed Saadhak  in round 13
+Less killed Chronicle  in round 13
+Derke killed aspas  in round 13
+Alfajer killed Less  in round 13
+Round 13 ended with spike_defuse. The winning team is FNATIC.
+The current score is FNATIC 5 - 8 LOUD.
+Alfajer killed tuyz  in round 14
+Alfajer killed cauanzin  in round 14
+Alfajer killed Saadhak  in round 14
+Less killed Alfajer  in round 14
+aspas killed Boaster  in round 14
+Chronicle killed Less  in round 14
+Chronicle killed aspas  in round 14
+Round 14 ended with elimination. The winning team is FNATIC.
+The current score is FNATIC 6 - 8 LOUD.
+aspas killed Chronicle  in round 15
+aspas killed Boaster  in round 15
+aspas killed Leo   in round 15
+Round 15 ended with detonate. The winning team is LOUD.
+The current score is FNATIC 6 - 9 LOUD.
+aspas killed Derke  in round 16
+Chronicle killed Less  in round 16
+Saadhak killed Chronicle  in round 16
+aspas killed Boaster  in round 16
+Round 16 ended with detonate. The winning team is LOUD.
+The current score is FNATIC 6 - 10 LOUD.
+Derke killed Saadhak  in round 17
+aspas killed Leo   in round 17
+Chronicle killed aspas  in round 17
+cauanzin killed Chronicle  in round 17
+Alfajer killed tuyz  in round 17
+cauanzin killed Alfajer  in round 17
+Derke killed cauanzin  in round 17
+Less killed Boaster  in round 17
+Derke killed Less  in round 17
+Round 17 ended with spike_defuse. The winning team is FNATIC.
+The current score is FNATIC 7 - 10 LOUD.
+Derke killed aspas  in round 18
+Leo  killed Less  in round 18
+Saadhak killed Leo   in round 18
+Saadhak killed Boaster  in round 18
+Alfajer killed Saadhak  in round 18
+Derke killed cauanzin  in round 18
+tuyz killed Alfajer  in round 18
+tuyz killed Chronicle  in round 18
+tuyz killed Derke  in round 18
+Round 18 ended with elimination. The winning team is LOUD.
+The current score is FNATIC 7 - 11 LOUD.
+aspas killed Boaster  in round 19
+aspas killed Alfajer  in round 19
+Derke killed Less  in round 19
+Derke killed Saadhak  in round 19
+aspas killed Derke  in round 19
+aspas killed Chronicle  in round 19
+Leo  killed tuyz  in round 19
+cauanzin killed Leo   in round 19
+Round 19 ended with elimination. The winning team is LOUD.
+The current score is FNATIC 7 - 12 LOUD.
+cauanzin killed cauanzin  in round 20
+aspas killed aspas  in round 20
+cauanzin killed Boaster  in round 20
+Chronicle killed tuyz  in round 20
+Saadhak killed Chronicle  in round 20
+cauanzin killed Derke  in round 20
+Leo  killed aspas  in round 20
+Less killed Alfajer  in round 20
+Less killed Leo   in round 20
+Round 20 ended with elimination. The winning team is LOUD.
+The current score is FNATIC 7 - 13 LOUD.
+Game ended with winning team: LOUD at 2023-08-25T01:59:18Z
+
+--- Player Stats ---
+aspas: Team=LOUD, Kills=27, Deaths=11, Assists=3, KDA=2.73, First Kills=5, First Deaths=2
+cauanzin: Team=LOUD, Kills=19, Deaths=11, Assists=9, KDA=2.55, First Kills=1, First Deaths=2
+Saadhak: Team=LOUD, Kills=10, Deaths=12, Assists=13, KDA=1.92, First Kills=1, First Deaths=2
+Less: Team=LOUD, Kills=19, Deaths=14, Assists=6, KDA=1.79, First Kills=1, First Deaths=1
+tuyz: Team=LOUD, Kills=11, Deaths=14, Assists=6, KDA=1.21, First Kills=2, First Deaths=4
+Chronicle: Team=FNATIC, Kills=10, Deaths=18, Assists=5, KDA=0.83, First Kills=0, First Deaths=3
+Derke: Team=FNATIC, Kills=13, Deaths=16, Assists=2, KDA=0.94, First Kills=4, First Deaths=3
+Boaster: Team=FNATIC, Kills=8, Deaths=19, Assists=9, KDA=0.89, First Kills=1, First Deaths=1
+Alfajer: Team=FNATIC, Kills=10, Deaths=17, Assists=2, KDA=0.71, First Kills=1, First Deaths=2
+Leo : Team=FNATIC, Kills=18, Deaths=13, Assists=9, KDA=2.08, First Kills=4, First Deaths=0

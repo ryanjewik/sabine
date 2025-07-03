@@ -1,0 +1,234 @@
+Team 1: EDWARD Gaming
+Team 2: Team Liquid
+Participating Players:
+Player 1: Jamppi
+Player 2: Sayf
+Player 3: Redgar
+Player 4: nAts
+Player 5: soulcas
+Player 6: CHICHOO
+Player 7: ZmjjKK
+Player 8: Haodong
+Player 9: nobody 
+Player 10: Smoggy
+Winning Team: Team Liquid
+Score: EDWARD Gaming 9 - 13 Team Liquid
+Tournament Name: vct masters 2023 playoffs
+Game Start Time: 2023-06-16T05:22:55Z
+Game End Time: 2023-06-16T06:24:30Z
+Rounds ended by ELIMINATION count: 16
+Rounds ended by DEFUSE count: 5
+Rounds ended by DETONATE count: 1
+SPIKE PLANTED count: 6
+platformGameId: val:7649f2a9-ddc2-461a-b227-28eadba78b6e
+
+--- Events ---
+Game started at 2023-06-16T05:22:55Z
+Sayf killed ZmjjKK  in round 1
+CHICHOO killed Jamppi  in round 1
+Haodong killed Redgar  in round 1
+nAts killed CHICHOO  in round 1
+Smoggy killed Sayf  in round 1
+soulcas killed Smoggy  in round 1
+Haodong killed soulcas  in round 1
+nobody  killed nAts  in round 1
+Round 1 ended with elimination. The winning team is EDWARD Gaming.
+The current score is EDWARD Gaming 1 - 0 Team Liquid.
+ZmjjKK killed Sayf  in round 2
+CHICHOO killed nAts  in round 2
+ZmjjKK killed Redgar  in round 2
+ZmjjKK killed Jamppi  in round 2
+ZmjjKK killed soulcas  in round 2
+Round 2 ended with elimination. The winning team is EDWARD Gaming.
+The current score is EDWARD Gaming 2 - 0 Team Liquid.
+Sayf killed nobody   in round 3
+Haodong killed Sayf  in round 3
+ZmjjKK killed nAts  in round 3
+soulcas killed Smoggy  in round 3
+soulcas killed ZmjjKK  in round 3
+Haodong killed Redgar  in round 3
+Jamppi killed Haodong  in round 3
+CHICHOO killed soulcas  in round 3
+Jamppi killed CHICHOO  in round 3
+Round 3 ended with spike_defuse. The winning team is Team Liquid.
+The current score is EDWARD Gaming 2 - 1 Team Liquid.
+Haodong killed soulcas  in round 4
+Jamppi killed nobody   in round 4
+Sayf killed Haodong  in round 4
+Jamppi killed ZmjjKK  in round 4
+Jamppi killed Smoggy  in round 4
+Sayf killed CHICHOO  in round 4
+Round 4 ended with elimination. The winning team is Team Liquid.
+The current score is EDWARD Gaming 2 - 2 Team Liquid.
+ZmjjKK killed Jamppi  in round 5
+Redgar killed CHICHOO  in round 5
+ZmjjKK killed nAts  in round 5
+ZmjjKK killed Redgar  in round 5
+Sayf killed Haodong  in round 5
+Smoggy killed soulcas  in round 5
+Sayf killed Smoggy  in round 5
+Sayf killed ZmjjKK  in round 5
+nobody  killed Sayf  in round 5
+Round 5 ended with elimination. The winning team is EDWARD Gaming.
+The current score is EDWARD Gaming 3 - 2 Team Liquid.
+Sayf killed ZmjjKK  in round 6
+nAts killed CHICHOO  in round 6
+Sayf killed nobody   in round 6
+Redgar killed Haodong  in round 6
+Jamppi killed Smoggy  in round 6
+Round 6 ended with spike_defuse. The winning team is Team Liquid.
+The current score is EDWARD Gaming 3 - 3 Team Liquid.
+nobody  killed Redgar  in round 7
+soulcas killed nobody   in round 7
+Haodong killed Jamppi  in round 7
+soulcas killed ZmjjKK  in round 7
+Haodong killed soulcas  in round 7
+Sayf killed Smoggy  in round 7
+Haodong killed nAts  in round 7
+Haodong killed Sayf  in round 7
+Round 7 ended with elimination. The winning team is EDWARD Gaming.
+The current score is EDWARD Gaming 4 - 3 Team Liquid.
+Sayf killed Smoggy  in round 8
+nobody  killed Jamppi  in round 8
+soulcas killed ZmjjKK  in round 8
+nAts killed nobody   in round 8
+Redgar killed CHICHOO  in round 8
+Haodong killed Sayf  in round 8
+soulcas killed Haodong  in round 8
+Round 8 ended with spike_defuse. The winning team is Team Liquid.
+The current score is EDWARD Gaming 4 - 4 Team Liquid.
+Smoggy killed Sayf  in round 9
+CHICHOO killed Redgar  in round 9
+nobody  killed Jamppi  in round 9
+nAts killed ZmjjKK  in round 9
+Round 9 ended with detonate. The winning team is EDWARD Gaming.
+The current score is EDWARD Gaming 5 - 4 Team Liquid.
+nAts killed Smoggy  in round 10
+CHICHOO killed nAts  in round 10
+Sayf killed CHICHOO  in round 10
+Redgar killed Haodong  in round 10
+Redgar killed nobody   in round 10
+ZmjjKK killed Sayf  in round 10
+Redgar killed ZmjjKK  in round 10
+Round 10 ended with elimination. The winning team is Team Liquid.
+The current score is EDWARD Gaming 5 - 5 Team Liquid.
+CHICHOO killed Sayf  in round 11
+nAts killed Haodong  in round 11
+Smoggy killed nAts  in round 11
+ZmjjKK killed Jamppi  in round 11
+nobody  killed soulcas  in round 11
+ZmjjKK killed Redgar  in round 11
+Round 11 ended with elimination. The winning team is EDWARD Gaming.
+The current score is EDWARD Gaming 6 - 5 Team Liquid.
+nAts killed ZmjjKK  in round 12
+nAts killed Smoggy  in round 12
+Sayf killed Haodong  in round 12
+Redgar killed CHICHOO  in round 12
+Jamppi killed nobody   in round 12
+Round 12 ended with elimination. The winning team is Team Liquid.
+The current score is EDWARD Gaming 6 - 6 Team Liquid.
+ZmjjKK killed nAts  in round 13
+Jamppi killed Haodong  in round 13
+CHICHOO killed Jamppi  in round 13
+ZmjjKK killed Sayf  in round 13
+soulcas killed ZmjjKK  in round 13
+soulcas killed Smoggy  in round 13
+nobody  killed soulcas  in round 13
+Redgar killed CHICHOO  in round 13
+Redgar killed nobody   in round 13
+Round 13 ended with elimination. The winning team is Team Liquid.
+The current score is EDWARD Gaming 6 - 7 Team Liquid.
+ZmjjKK killed soulcas  in round 14
+Sayf killed CHICHOO  in round 14
+Smoggy killed Jamppi  in round 14
+Redgar killed ZmjjKK  in round 14
+nAts killed Haodong  in round 14
+Smoggy killed Redgar  in round 14
+Sayf killed Smoggy  in round 14
+nobody  killed nAts  in round 14
+Sayf killed nobody   in round 14
+Round 14 ended with elimination. The winning team is Team Liquid.
+The current score is EDWARD Gaming 6 - 8 Team Liquid.
+Sayf killed ZmjjKK  in round 15
+CHICHOO killed Sayf  in round 15
+CHICHOO killed Redgar  in round 15
+Smoggy killed Jamppi  in round 15
+Smoggy killed nAts  in round 15
+CHICHOO killed soulcas  in round 15
+Round 15 ended with spike_defuse. The winning team is EDWARD Gaming.
+The current score is EDWARD Gaming 7 - 8 Team Liquid.
+Haodong killed Sayf  in round 16
+Jamppi killed Haodong  in round 16
+soulcas killed nobody   in round 16
+CHICHOO killed nAts  in round 16
+soulcas killed CHICHOO  in round 16
+Redgar killed Smoggy  in round 16
+Jamppi killed ZmjjKK  in round 16
+Round 16 ended with elimination. The winning team is Team Liquid.
+The current score is EDWARD Gaming 7 - 9 Team Liquid.
+Sayf killed ZmjjKK  in round 17
+Sayf killed Haodong  in round 17
+Redgar killed CHICHOO  in round 17
+nobody  killed Sayf  in round 17
+soulcas killed nobody   in round 17
+Jamppi killed Smoggy  in round 17
+Round 17 ended with elimination. The winning team is Team Liquid.
+The current score is EDWARD Gaming 7 - 10 Team Liquid.
+Haodong killed Redgar  in round 18
+nAts killed CHICHOO  in round 18
+ZmjjKK killed Jamppi  in round 18
+nAts killed ZmjjKK  in round 18
+Haodong killed nAts  in round 18
+soulcas killed nobody   in round 18
+Smoggy killed soulcas  in round 18
+Sayf killed Smoggy  in round 18
+Haodong killed Sayf  in round 18
+Round 18 ended with spike_defuse. The winning team is EDWARD Gaming.
+The current score is EDWARD Gaming 8 - 10 Team Liquid.
+Smoggy killed Jamppi  in round 19
+nobody  killed Redgar  in round 19
+ZmjjKK killed nAts  in round 19
+Sayf killed nobody   in round 19
+ZmjjKK killed Sayf  in round 19
+Haodong killed soulcas  in round 19
+Round 19 ended with elimination. The winning team is EDWARD Gaming.
+The current score is EDWARD Gaming 9 - 10 Team Liquid.
+Sayf killed nobody   in round 20
+Sayf killed Smoggy  in round 20
+Haodong killed Sayf  in round 20
+Jamppi killed ZmjjKK  in round 20
+nAts killed Haodong  in round 20
+CHICHOO killed nAts  in round 20
+Redgar killed CHICHOO  in round 20
+Round 20 ended with elimination. The winning team is Team Liquid.
+The current score is EDWARD Gaming 9 - 11 Team Liquid.
+nobody  killed Redgar  in round 21
+nAts killed ZmjjKK  in round 21
+CHICHOO killed nAts  in round 21
+soulcas killed Haodong  in round 21
+Sayf killed Smoggy  in round 21
+CHICHOO killed soulcas  in round 21
+Jamppi killed CHICHOO  in round 21
+Jamppi killed nobody   in round 21
+Round 21 ended with elimination. The winning team is Team Liquid.
+The current score is EDWARD Gaming 9 - 12 Team Liquid.
+Sayf killed Haodong  in round 22
+Sayf killed CHICHOO  in round 22
+Jamppi killed nobody   in round 22
+Redgar killed Smoggy  in round 22
+soulcas killed ZmjjKK  in round 22
+Round 22 ended with elimination. The winning team is Team Liquid.
+The current score is EDWARD Gaming 9 - 13 Team Liquid.
+Game ended with winning team: Team Liquid at 2023-06-16T06:24:30Z
+
+--- Player Stats ---
+Jamppi: Team=Team Liquid, Kills=15, Deaths=12, Assists=6, KDA=1.75, First Kills=0, First Deaths=2
+Sayf: Team=Team Liquid, Kills=26, Deaths=16, Assists=6, KDA=2.0, First Kills=8, First Deaths=4
+Redgar: Team=Team Liquid, Kills=14, Deaths=12, Assists=11, KDA=2.08, First Kills=0, First Deaths=3
+nAts: Team=Team Liquid, Kills=13, Deaths=15, Assists=3, KDA=1.07, First Kills=2, First Deaths=1
+soulcas: Team=Team Liquid, Kills=15, Deaths=13, Assists=8, KDA=1.77, First Kills=0, First Deaths=2
+CHICHOO: Team=EDWARD Gaming, Kills=14, Deaths=16, Assists=5, KDA=1.19, First Kills=1, First Deaths=0
+ZmjjKK: Team=EDWARD Gaming, Kills=17, Deaths=19, Assists=3, KDA=1.05, First Kills=4, First Deaths=5
+Haodong: Team=EDWARD Gaming, Kills=16, Deaths=15, Assists=4, KDA=1.33, First Kills=3, First Deaths=1
+nobody : Team=EDWARD Gaming, Kills=11, Deaths=16, Assists=1, KDA=0.75, First Kills=2, First Deaths=2
+Smoggy: Team=EDWARD Gaming, Kills=10, Deaths=17, Assists=8, KDA=1.06, First Kills=2, First Deaths=2

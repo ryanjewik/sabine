@@ -1,0 +1,239 @@
+Team 1: Karmine Corp
+Team 2: Team Heretics
+Participating Players:
+Player 1: MiniBoo
+Player 2: RieNs
+Player 3: Boo
+Player 4: benjyfishy
+Player 5: Wo0t
+Player 6: Shin 
+Player 7: Tomaszy
+Player 8: MAGNUM
+Player 9: marteen
+Player 10: N4RRATE
+Winning Team: Team Heretics
+Score: Karmine Corp 9 - 13 Team Heretics
+Tournament Name: vct emea stage 1 2024
+Game Start Time: 2024-05-01T19:00:43Z
+Game End Time: 2024-05-01T19:54:30Z
+Rounds ended by ELIMINATION count: 15
+Rounds ended by DEFUSE count: 3
+Rounds ended by DETONATE count: 4
+SPIKE PLANTED count: 7
+platformGameId: val:edbde730-12e7-44b0-85c7-3eb182f1316a
+
+--- Events ---
+Game started at 2024-05-01T19:00:43Z
+benjyfishy killed marteen  in round 1
+Tomaszy killed benjyfishy  in round 1
+Wo0t killed MAGNUM  in round 1
+N4RRATE killed Wo0t  in round 1
+Boo killed Tomaszy  in round 1
+Shin  killed Boo  in round 1
+MiniBoo killed N4RRATE  in round 1
+RieNs killed Shin   in round 1
+Round 1 ended with spike_defuse. The winning team is Team Heretics.
+The current score is Karmine Corp 0 - 1 Team Heretics.
+MiniBoo killed marteen  in round 2
+MiniBoo killed N4RRATE  in round 2
+benjyfishy killed MAGNUM  in round 2
+MiniBoo killed Shin   in round 2
+benjyfishy killed Tomaszy  in round 2
+Round 2 ended with elimination. The winning team is Team Heretics.
+The current score is Karmine Corp 0 - 2 Team Heretics.
+marteen killed RieNs  in round 3
+benjyfishy killed marteen  in round 3
+Tomaszy killed benjyfishy  in round 3
+MiniBoo killed Tomaszy  in round 3
+N4RRATE killed Wo0t  in round 3
+Shin  killed MiniBoo  in round 3
+Boo killed Shin   in round 3
+MAGNUM killed Boo  in round 3
+Round 3 ended with elimination. The winning team is Karmine Corp.
+The current score is Karmine Corp 1 - 2 Team Heretics.
+MAGNUM killed Boo  in round 4
+RieNs killed MAGNUM  in round 4
+marteen killed RieNs  in round 4
+N4RRATE killed MiniBoo  in round 4
+marteen killed benjyfishy  in round 4
+Shin  killed Wo0t  in round 4
+Round 4 ended with elimination. The winning team is Karmine Corp.
+The current score is Karmine Corp 2 - 2 Team Heretics.
+benjyfishy killed Shin   in round 5
+benjyfishy killed N4RRATE  in round 5
+marteen killed benjyfishy  in round 5
+Wo0t killed marteen  in round 5
+MiniBoo killed MAGNUM  in round 5
+Tomaszy killed MiniBoo  in round 5
+Boo killed Tomaszy  in round 5
+Round 5 ended with elimination. The winning team is Team Heretics.
+The current score is Karmine Corp 2 - 3 Team Heretics.
+marteen killed MiniBoo  in round 6
+Boo killed N4RRATE  in round 6
+Tomaszy killed Wo0t  in round 6
+MAGNUM killed Boo  in round 6
+benjyfishy killed Tomaszy  in round 6
+benjyfishy killed MAGNUM  in round 6
+marteen killed benjyfishy  in round 6
+RieNs killed Shin   in round 6
+marteen killed RieNs  in round 6
+Round 6 ended with elimination. The winning team is Karmine Corp.
+The current score is Karmine Corp 3 - 3 Team Heretics.
+Boo killed Shin   in round 7
+marteen killed Boo  in round 7
+Tomaszy killed Wo0t  in round 7
+RieNs killed N4RRATE  in round 7
+RieNs killed Tomaszy  in round 7
+RieNs killed MAGNUM  in round 7
+benjyfishy killed marteen  in round 7
+Round 7 ended with spike_defuse. The winning team is Team Heretics.
+The current score is Karmine Corp 3 - 4 Team Heretics.
+benjyfishy killed N4RRATE  in round 8
+Tomaszy killed benjyfishy  in round 8
+MiniBoo killed MAGNUM  in round 8
+MiniBoo killed marteen  in round 8
+Tomaszy killed MiniBoo  in round 8
+Tomaszy killed RieNs  in round 8
+Tomaszy killed Boo  in round 8
+Wo0t killed Tomaszy  in round 8
+Shin  killed Wo0t  in round 8
+Round 8 ended with elimination. The winning team is Karmine Corp.
+The current score is Karmine Corp 4 - 4 Team Heretics.
+marteen killed RieNs  in round 9
+marteen killed MiniBoo  in round 9
+benjyfishy killed Shin   in round 9
+Tomaszy killed benjyfishy  in round 9
+N4RRATE killed Wo0t  in round 9
+Round 9 ended with detonate. The winning team is Karmine Corp.
+The current score is Karmine Corp 5 - 4 Team Heretics.
+MAGNUM killed Wo0t  in round 10
+MiniBoo killed marteen  in round 10
+N4RRATE killed RieNs  in round 10
+N4RRATE killed MiniBoo  in round 10
+benjyfishy killed Shin   in round 10
+N4RRATE killed benjyfishy  in round 10
+Tomaszy killed Boo  in round 10
+Round 10 ended with elimination. The winning team is Karmine Corp.
+The current score is Karmine Corp 6 - 4 Team Heretics.
+marteen killed RieNs  in round 11
+marteen killed benjyfishy  in round 11
+Boo killed MAGNUM  in round 11
+marteen killed MiniBoo  in round 11
+marteen killed Boo  in round 11
+Wo0t killed marteen  in round 11
+N4RRATE killed Wo0t  in round 11
+Round 11 ended with elimination. The winning team is Karmine Corp.
+The current score is Karmine Corp 7 - 4 Team Heretics.
+marteen killed MiniBoo  in round 12
+benjyfishy killed marteen  in round 12
+N4RRATE killed Wo0t  in round 12
+MAGNUM killed Boo  in round 12
+benjyfishy killed Shin   in round 12
+benjyfishy killed N4RRATE  in round 12
+benjyfishy killed Tomaszy  in round 12
+MAGNUM killed benjyfishy  in round 12
+MAGNUM killed RieNs  in round 12
+Round 12 ended with elimination. The winning team is Karmine Corp.
+The current score is Karmine Corp 8 - 4 Team Heretics.
+Wo0t killed marteen  in round 13
+Wo0t killed N4RRATE  in round 13
+Wo0t killed Shin   in round 13
+Boo killed Tomaszy  in round 13
+benjyfishy killed MAGNUM  in round 13
+Round 13 ended with elimination. The winning team is Team Heretics.
+The current score is Karmine Corp 8 - 5 Team Heretics.
+Wo0t killed MAGNUM  in round 14
+MiniBoo killed Shin   in round 14
+Wo0t killed marteen  in round 14
+N4RRATE killed Wo0t  in round 14
+Round 14 ended with detonate. The winning team is Team Heretics.
+The current score is Karmine Corp 8 - 6 Team Heretics.
+N4RRATE killed N4RRATE  in round 15
+Tomaszy killed Tomaszy  in round 15
+Tomaszy killed Wo0t  in round 15
+MiniBoo killed Tomaszy  in round 15
+MAGNUM killed Boo  in round 15
+MiniBoo killed N4RRATE  in round 15
+benjyfishy killed MAGNUM  in round 15
+MiniBoo killed marteen  in round 15
+RieNs killed Shin   in round 15
+Round 15 ended with elimination. The winning team is Team Heretics.
+The current score is Karmine Corp 8 - 7 Team Heretics.
+MAGNUM killed MiniBoo  in round 16
+Wo0t killed marteen  in round 16
+Wo0t killed N4RRATE  in round 16
+benjyfishy killed MAGNUM  in round 16
+Shin  killed RieNs  in round 16
+Tomaszy killed Boo  in round 16
+Tomaszy killed benjyfishy  in round 16
+Tomaszy killed Wo0t  in round 16
+Round 16 ended with spike_defuse. The winning team is Karmine Corp.
+The current score is Karmine Corp 9 - 7 Team Heretics.
+Shin  killed MiniBoo  in round 17
+Wo0t killed Shin   in round 17
+N4RRATE killed Wo0t  in round 17
+Boo killed Tomaszy  in round 17
+N4RRATE killed Boo  in round 17
+RieNs killed N4RRATE  in round 17
+MAGNUM killed RieNs  in round 17
+benjyfishy killed MAGNUM  in round 17
+benjyfishy killed marteen  in round 17
+Round 17 ended with elimination. The winning team is Team Heretics.
+The current score is Karmine Corp 9 - 8 Team Heretics.
+marteen killed benjyfishy  in round 18
+marteen killed MiniBoo  in round 18
+RieNs killed MAGNUM  in round 18
+Wo0t killed marteen  in round 18
+marteen killed Wo0t  in round 18
+Boo killed Shin   in round 18
+Boo killed N4RRATE  in round 18
+Tomaszy killed Boo  in round 18
+RieNs killed Tomaszy  in round 18
+Round 18 ended with elimination. The winning team is Team Heretics.
+The current score is Karmine Corp 9 - 9 Team Heretics.
+Wo0t killed marteen  in round 19
+Wo0t killed N4RRATE  in round 19
+MAGNUM killed RieNs  in round 19
+Wo0t killed MAGNUM  in round 19
+Round 19 ended with detonate. The winning team is Team Heretics.
+The current score is Karmine Corp 9 - 10 Team Heretics.
+Tomaszy killed Boo  in round 20
+Shin  killed MiniBoo  in round 20
+benjyfishy killed Shin   in round 20
+marteen killed Boo  in round 20
+RieNs killed Tomaszy  in round 20
+N4RRATE killed RieNs  in round 20
+RieNs killed N4RRATE  in round 20
+RieNs killed marteen  in round 20
+Wo0t killed MAGNUM  in round 20
+Round 20 ended with elimination. The winning team is Team Heretics.
+The current score is Karmine Corp 9 - 11 Team Heretics.
+MiniBoo killed MAGNUM  in round 21
+N4RRATE killed MiniBoo  in round 21
+marteen killed Wo0t  in round 21
+Boo killed Shin   in round 21
+benjyfishy killed marteen  in round 21
+benjyfishy killed Tomaszy  in round 21
+Round 21 ended with detonate. The winning team is Team Heretics.
+The current score is Karmine Corp 9 - 12 Team Heretics.
+Boo killed MAGNUM  in round 22
+RieNs killed N4RRATE  in round 22
+MiniBoo killed marteen  in round 22
+Boo killed Shin   in round 22
+Tomaszy killed benjyfishy  in round 22
+RieNs killed Tomaszy  in round 22
+Round 22 ended with elimination. The winning team is Team Heretics.
+The current score is Karmine Corp 9 - 13 Team Heretics.
+Game ended with winning team: Team Heretics at 2024-05-01T19:54:30Z
+
+--- Player Stats ---
+MiniBoo: Team=Team Heretics, Kills=15, Deaths=14, Assists=2, KDA=1.21, First Kills=2, First Deaths=4
+RieNs: Team=Team Heretics, Kills=15, Deaths=12, Assists=10, KDA=2.08, First Kills=0, First Deaths=3
+Boo: Team=Team Heretics, Kills=13, Deaths=15, Assists=10, KDA=1.53, First Kills=2, First Deaths=2
+benjyfishy: Team=Team Heretics, Kills=24, Deaths=13, Assists=13, KDA=2.85, First Kills=3, First Deaths=1
+Wo0t: Team=Team Heretics, Kills=17, Deaths=16, Assists=4, KDA=1.31, First Kills=3, First Deaths=1
+Shin : Team=Karmine Corp, Kills=7, Deaths=17, Assists=12, KDA=1.12, First Kills=1, First Deaths=2
+Tomaszy: Team=Karmine Corp, Kills=19, Deaths=16, Assists=6, KDA=1.56, First Kills=1, First Deaths=0
+MAGNUM: Team=Karmine Corp, Kills=11, Deaths=18, Assists=11, KDA=1.22, First Kills=3, First Deaths=3
+marteen: Team=Karmine Corp, Kills=20, Deaths=19, Assists=4, KDA=1.26, First Kills=6, First Deaths=4
+N4RRATE: Team=Karmine Corp, Kills=15, Deaths=16, Assists=7, KDA=1.38, First Kills=1, First Deaths=2

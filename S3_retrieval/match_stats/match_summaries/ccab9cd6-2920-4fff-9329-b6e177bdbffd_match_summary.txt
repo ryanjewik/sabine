@@ -1,0 +1,257 @@
+Team 1: DetonatioN FocusMe
+Team 2: Talon Esports
+Participating Players:
+Player 1: Patiphan
+Player 2: garnetS
+Player 3: Crws
+Player 4: JitBoyS
+Player 5: foxz
+Player 6: takej
+Player 7: Reita
+Player 8: Seoldam
+Player 9: Anthem
+Player 10: xnfri
+Winning Team: Talon Esports
+Score: DetonatioN FocusMe 11 - 13 Talon Esports
+Tournament Name: vct pacific 2023
+Game Start Time: 2023-05-16T07:48:53Z
+Game End Time: 2023-05-16T08:59:40Z
+Rounds ended by ELIMINATION count: 15
+Rounds ended by DEFUSE count: 5
+Rounds ended by DETONATE count: 4
+SPIKE PLANTED count: 9
+platformGameId: val:ccab9cd6-2920-4fff-9329-b6e177bdbffd
+
+--- Events ---
+Game started at 2023-05-16T07:48:53Z
+Anthem killed garnetS  in round 1
+Crws killed Seoldam  in round 1
+xnfri killed Crws  in round 1
+JitBoyS killed xnfri  in round 1
+Patiphan killed Reita  in round 1
+foxz killed Anthem  in round 1
+Patiphan killed takej  in round 1
+Round 1 ended with elimination. The winning team is Talon Esports.
+The current score is DetonatioN FocusMe 0 - 1 Talon Esports.
+Anthem killed foxz  in round 2
+JitBoyS killed Seoldam  in round 2
+Patiphan killed Reita  in round 2
+JitBoyS killed xnfri  in round 2
+takej killed JitBoyS  in round 2
+Crws killed Anthem  in round 2
+garnetS killed takej  in round 2
+Round 2 ended with spike_defuse. The winning team is Talon Esports.
+The current score is DetonatioN FocusMe 0 - 2 Talon Esports.
+Seoldam killed garnetS  in round 3
+Anthem killed Crws  in round 3
+Patiphan killed xnfri  in round 3
+Anthem killed Patiphan  in round 3
+Round 3 ended with detonate. The winning team is DetonatioN FocusMe.
+The current score is DetonatioN FocusMe 1 - 2 Talon Esports.
+Seoldam killed garnetS  in round 4
+takej killed foxz  in round 4
+Patiphan killed Seoldam  in round 4
+xnfri killed Patiphan  in round 4
+Crws killed xnfri  in round 4
+Anthem killed JitBoyS  in round 4
+Anthem killed Crws  in round 4
+Round 4 ended with elimination. The winning team is DetonatioN FocusMe.
+The current score is DetonatioN FocusMe 2 - 2 Talon Esports.
+Seoldam killed Patiphan  in round 5
+Anthem killed Crws  in round 5
+Reita killed garnetS  in round 5
+JitBoyS killed Reita  in round 5
+Seoldam killed foxz  in round 5
+Round 5 ended with detonate. The winning team is DetonatioN FocusMe.
+The current score is DetonatioN FocusMe 3 - 2 Talon Esports.
+Seoldam killed garnetS  in round 6
+Patiphan killed takej  in round 6
+Patiphan killed Reita  in round 6
+Seoldam killed Patiphan  in round 6
+Crws killed Seoldam  in round 6
+xnfri killed Crws  in round 6
+JitBoyS killed xnfri  in round 6
+Anthem killed JitBoyS  in round 6
+Anthem killed foxz  in round 6
+Round 6 ended with elimination. The winning team is DetonatioN FocusMe.
+The current score is DetonatioN FocusMe 4 - 2 Talon Esports.
+Seoldam killed garnetS  in round 7
+Anthem killed foxz  in round 7
+takej killed Patiphan  in round 7
+Crws killed xnfri  in round 7
+JitBoyS killed takej  in round 7
+Seoldam killed Crws  in round 7
+Round 7 ended with detonate. The winning team is DetonatioN FocusMe.
+The current score is DetonatioN FocusMe 5 - 2 Talon Esports.
+JitBoyS killed JitBoyS  in round 8
+foxz killed Seoldam  in round 8
+xnfri killed garnetS  in round 8
+xnfri killed Patiphan  in round 8
+foxz killed Reita  in round 8
+takej killed foxz  in round 8
+Crws killed xnfri  in round 8
+JitBoyS killed Anthem  in round 8
+takej killed JitBoyS  in round 8
+Crws killed takej  in round 8
+Round 8 ended with spike_defuse. The winning team is Talon Esports.
+The current score is DetonatioN FocusMe 5 - 3 Talon Esports.
+garnetS killed Anthem  in round 9
+takej killed JitBoyS  in round 9
+Patiphan killed Seoldam  in round 9
+garnetS killed Reita  in round 9
+garnetS killed xnfri  in round 9
+takej killed Crws  in round 9
+garnetS killed takej  in round 9
+Round 9 ended with spike_defuse. The winning team is Talon Esports.
+The current score is DetonatioN FocusMe 5 - 4 Talon Esports.
+Crws killed Seoldam  in round 10
+takej killed Crws  in round 10
+garnetS killed takej  in round 10
+Reita killed garnetS  in round 10
+Patiphan killed Reita  in round 10
+Anthem killed Patiphan  in round 10
+JitBoyS killed xnfri  in round 10
+JitBoyS killed Anthem  in round 10
+Round 10 ended with elimination. The winning team is Talon Esports.
+The current score is DetonatioN FocusMe 5 - 5 Talon Esports.
+foxz killed Reita  in round 11
+xnfri killed garnetS  in round 11
+xnfri killed foxz  in round 11
+Crws killed takej  in round 11
+Seoldam killed Patiphan  in round 11
+Anthem killed JitBoyS  in round 11
+xnfri killed Crws  in round 11
+Round 11 ended with elimination. The winning team is DetonatioN FocusMe.
+The current score is DetonatioN FocusMe 6 - 5 Talon Esports.
+Crws killed Anthem  in round 12
+Seoldam killed JitBoyS  in round 12
+foxz killed Seoldam  in round 12
+Patiphan killed xnfri  in round 12
+Crws killed Reita  in round 12
+Patiphan killed takej  in round 12
+Round 12 ended with spike_defuse. The winning team is Talon Esports.
+The current score is DetonatioN FocusMe 6 - 6 Talon Esports.
+Anthem killed Crws  in round 13
+Anthem killed Patiphan  in round 13
+Anthem killed garnetS  in round 13
+Anthem killed JitBoyS  in round 13
+foxz killed Anthem  in round 13
+Reita killed foxz  in round 13
+Round 13 ended with elimination. The winning team is DetonatioN FocusMe.
+The current score is DetonatioN FocusMe 7 - 6 Talon Esports.
+takej killed JitBoyS  in round 14
+Reita killed Crws  in round 14
+Anthem killed garnetS  in round 14
+Reita killed Patiphan  in round 14
+foxz killed Reita  in round 14
+takej killed foxz  in round 14
+Round 14 ended with elimination. The winning team is DetonatioN FocusMe.
+The current score is DetonatioN FocusMe 8 - 6 Talon Esports.
+garnetS killed Seoldam  in round 15
+garnetS killed Reita  in round 15
+JitBoyS killed xnfri  in round 15
+Anthem killed foxz  in round 15
+garnetS killed Anthem  in round 15
+JitBoyS killed takej  in round 15
+Round 15 ended with elimination. The winning team is Talon Esports.
+The current score is DetonatioN FocusMe 8 - 7 Talon Esports.
+Seoldam killed Crws  in round 16
+garnetS killed Anthem  in round 16
+xnfri killed foxz  in round 16
+JitBoyS killed Reita  in round 16
+JitBoyS killed takej  in round 16
+JitBoyS killed xnfri  in round 16
+Seoldam killed JitBoyS  in round 16
+Seoldam killed Patiphan  in round 16
+Seoldam killed garnetS  in round 16
+Round 16 ended with detonate. The winning team is Talon Esports.
+The current score is DetonatioN FocusMe 8 - 8 Talon Esports.
+Seoldam killed Seoldam  in round 17
+garnetS killed Seoldam  in round 17
+garnetS killed xnfri  in round 17
+Reita killed garnetS  in round 17
+JitBoyS killed takej  in round 17
+Anthem killed JitBoyS  in round 17
+foxz killed Anthem  in round 17
+Patiphan killed Reita  in round 17
+Round 17 ended with elimination. The winning team is Talon Esports.
+The current score is DetonatioN FocusMe 8 - 9 Talon Esports.
+garnetS killed takej  in round 18
+Seoldam killed garnetS  in round 18
+Patiphan killed Seoldam  in round 18
+Anthem killed Crws  in round 18
+Anthem killed Patiphan  in round 18
+Reita killed foxz  in round 18
+Reita killed JitBoyS  in round 18
+Round 18 ended with spike_defuse. The winning team is DetonatioN FocusMe.
+The current score is DetonatioN FocusMe 9 - 9 Talon Esports.
+JitBoyS killed Seoldam  in round 19
+xnfri killed garnetS  in round 19
+xnfri killed JitBoyS  in round 19
+Crws killed xnfri  in round 19
+Patiphan killed Reita  in round 19
+Anthem killed Crws  in round 19
+Patiphan killed Anthem  in round 19
+takej killed foxz  in round 19
+takej killed Patiphan  in round 19
+Round 19 ended with elimination. The winning team is DetonatioN FocusMe.
+The current score is DetonatioN FocusMe 10 - 9 Talon Esports.
+Seoldam killed JitBoyS  in round 20
+Reita killed garnetS  in round 20
+Reita killed Patiphan  in round 20
+Reita killed foxz  in round 20
+Reita killed Crws  in round 20
+Round 20 ended with elimination. The winning team is DetonatioN FocusMe.
+The current score is DetonatioN FocusMe 11 - 9 Talon Esports.
+Seoldam killed Patiphan  in round 21
+Crws killed Anthem  in round 21
+Seoldam killed foxz  in round 21
+Seoldam killed Crws  in round 21
+JitBoyS killed Seoldam  in round 21
+garnetS killed xnfri  in round 21
+Reita killed garnetS  in round 21
+JitBoyS killed Reita  in round 21
+JitBoyS killed takej  in round 21
+Round 21 ended with elimination. The winning team is Talon Esports.
+The current score is DetonatioN FocusMe 11 - 10 Talon Esports.
+takej killed garnetS  in round 22
+Reita killed Crws  in round 22
+JitBoyS killed Seoldam  in round 22
+Patiphan killed takej  in round 22
+Patiphan killed Reita  in round 22
+xnfri killed foxz  in round 22
+Patiphan killed xnfri  in round 22
+Patiphan killed Anthem  in round 22
+Round 22 ended with elimination. The winning team is Talon Esports.
+The current score is DetonatioN FocusMe 11 - 11 Talon Esports.
+Patiphan killed Anthem  in round 23
+Patiphan killed Reita  in round 23
+Patiphan killed xnfri  in round 23
+garnetS killed Seoldam  in round 23
+takej killed Crws  in round 23
+foxz killed takej  in round 23
+Round 23 ended with elimination. The winning team is Talon Esports.
+The current score is DetonatioN FocusMe 11 - 12 Talon Esports.
+Seoldam killed garnetS  in round 24
+JitBoyS killed Seoldam  in round 24
+takej killed Crws  in round 24
+JitBoyS killed takej  in round 24
+xnfri killed JitBoyS  in round 24
+Patiphan killed xnfri  in round 24
+Patiphan killed Anthem  in round 24
+foxz killed Reita  in round 24
+Round 24 ended with elimination. The winning team is Talon Esports.
+The current score is DetonatioN FocusMe 11 - 13 Talon Esports.
+Game ended with winning team: Talon Esports at 2023-05-16T08:59:40Z
+
+--- Player Stats ---
+Patiphan: Team=Talon Esports, Kills=24, Deaths=15, Assists=11, KDA=2.33, First Kills=1, First Deaths=2
+garnetS: Team=Talon Esports, Kills=15, Deaths=19, Assists=4, KDA=1.0, First Kills=3, First Deaths=7
+Crws: Team=Talon Esports, Kills=13, Deaths=19, Assists=10, KDA=1.21, First Kills=2, First Deaths=2
+JitBoyS: Team=Talon Esports, Kills=23, Deaths=16, Assists=5, KDA=1.75, First Kills=2, First Deaths=3
+foxz: Team=Talon Esports, Kills=10, Deaths=16, Assists=8, KDA=1.12, First Kills=1, First Deaths=1
+takej: Team=DetonatioN FocusMe, Kills=15, Deaths=17, Assists=6, KDA=1.24, First Kills=2, First Deaths=1
+Reita: Team=DetonatioN FocusMe, Kills=14, Deaths=18, Assists=12, KDA=1.44, First Kills=0, First Deaths=1
+Seoldam: Team=DetonatioN FocusMe, Kills=21, Deaths=17, Assists=8, KDA=1.71, First Kills=10, First Deaths=4
+Anthem: Team=DetonatioN FocusMe, Kills=22, Deaths=15, Assists=2, KDA=1.6, First Kills=3, First Deaths=3
+xnfri: Team=DetonatioN FocusMe, Kills=13, Deaths=18, Assists=10, KDA=1.28, First Kills=0, First Deaths=0

@@ -1,0 +1,264 @@
+Team 1: KRÜ Esports
+Team 2: GUILD
+Participating Players:
+Player 1: Russ
+Player 2: Sayf
+Player 3: koldamenta
+Player 4: Leoo
+Player 5: Trexx
+Player 6: Mazino
+Player 7: NagZet
+Player 8: Klaus
+Player 9: KeznitdeuS
+Player 10: delz1k
+Winning Team: KRÜ Esports
+Score: KRÜ Esports 14 - 12 GUILD
+Tournament Name: masters 2 2022 stage 1
+Game Start Time: 2022-07-11T18:48:35Z
+Game End Time: 2022-07-11T19:50:35Z
+Rounds ended by ELIMINATION count: 12
+Rounds ended by DEFUSE count: 7
+Rounds ended by DETONATE count: 4
+SPIKE PLANTED count: 11
+platformGameId: val:4f3784f4-0096-41b6-87ed-f39c84f00111
+
+--- Events ---
+Game started at 2022-07-11T18:48:35Z
+NagZet killed Sayf  in round 1
+Trexx killed Klaus  in round 1
+Leoo killed KeznitdeuS  in round 1
+Trexx killed Mazino  in round 1
+NagZet killed koldamenta  in round 1
+delz1k killed Russ  in round 1
+NagZet killed Leoo  in round 1
+Trexx killed NagZet  in round 1
+delz1k killed Trexx  in round 1
+Round 1 ended with elimination. The winning team is KRÜ Esports.
+The current score is KRÜ Esports 1 - 0 GUILD.
+Klaus killed koldamenta  in round 2
+Klaus killed Sayf  in round 2
+Klaus killed Russ  in round 2
+KeznitdeuS killed Trexx  in round 2
+Leoo killed Klaus  in round 2
+KeznitdeuS killed Leoo  in round 2
+Round 2 ended with elimination. The winning team is KRÜ Esports.
+The current score is KRÜ Esports 2 - 0 GUILD.
+Sayf killed Klaus  in round 3
+delz1k killed Russ  in round 3
+koldamenta killed KeznitdeuS  in round 3
+Trexx killed delz1k  in round 3
+NagZet killed Trexx  in round 3
+koldamenta killed NagZet  in round 3
+Leoo killed Mazino  in round 3
+Round 3 ended with spike_defuse. The winning team is GUILD.
+The current score is KRÜ Esports 2 - 1 GUILD.
+Trexx killed Klaus  in round 4
+koldamenta killed delz1k  in round 4
+KeznitdeuS killed koldamenta  in round 4
+Sayf killed NagZet  in round 4
+Round 4 ended with time_expired. The winning team is GUILD.
+The current score is KRÜ Esports 2 - 2 GUILD.
+KeznitdeuS killed Trexx  in round 5
+Sayf killed KeznitdeuS  in round 5
+Leoo killed Mazino  in round 5
+Sayf killed Klaus  in round 5
+Sayf killed delz1k  in round 5
+NagZet killed Sayf  in round 5
+Leoo killed NagZet  in round 5
+Round 5 ended with elimination. The winning team is GUILD.
+The current score is KRÜ Esports 2 - 3 GUILD.
+delz1k killed Russ  in round 6
+KeznitdeuS killed koldamenta  in round 6
+NagZet killed Sayf  in round 6
+Round 6 ended with detonate. The winning team is KRÜ Esports.
+The current score is KRÜ Esports 3 - 3 GUILD.
+KeznitdeuS killed Sayf  in round 7
+Mazino killed Russ  in round 7
+Leoo killed Mazino  in round 7
+Round 7 ended with detonate. The winning team is KRÜ Esports.
+The current score is KRÜ Esports 4 - 3 GUILD.
+Trexx killed Klaus  in round 8
+Russ killed Mazino  in round 8
+Trexx killed NagZet  in round 8
+KeznitdeuS killed Russ  in round 8
+koldamenta killed delz1k  in round 8
+Trexx killed KeznitdeuS  in round 8
+Round 8 ended with spike_defuse. The winning team is GUILD.
+The current score is KRÜ Esports 4 - 4 GUILD.
+Sayf killed delz1k  in round 9
+Mazino killed Sayf  in round 9
+Leoo killed Klaus  in round 9
+Leoo killed Mazino  in round 9
+Leoo killed KeznitdeuS  in round 9
+Round 9 ended with time_expired. The winning team is GUILD.
+The current score is KRÜ Esports 4 - 5 GUILD.
+Trexx killed delz1k  in round 10
+KeznitdeuS killed Trexx  in round 10
+KeznitdeuS killed Leoo  in round 10
+NagZet killed koldamenta  in round 10
+Russ killed KeznitdeuS  in round 10
+Sayf killed Mazino  in round 10
+Sayf killed Klaus  in round 10
+NagZet killed Russ  in round 10
+Sayf killed NagZet  in round 10
+Round 10 ended with spike_defuse. The winning team is GUILD.
+The current score is KRÜ Esports 4 - 6 GUILD.
+KeznitdeuS killed Trexx  in round 11
+koldamenta killed KeznitdeuS  in round 11
+NagZet killed Sayf  in round 11
+delz1k killed Russ  in round 11
+NagZet killed koldamenta  in round 11
+Mazino killed Leoo  in round 11
+Round 11 ended with elimination. The winning team is KRÜ Esports.
+The current score is KRÜ Esports 5 - 6 GUILD.
+koldamenta killed Mazino  in round 12
+KeznitdeuS killed Trexx  in round 12
+koldamenta killed Klaus  in round 12
+Russ killed NagZet  in round 12
+Russ killed KeznitdeuS  in round 12
+delz1k killed Sayf  in round 12
+Leoo killed delz1k  in round 12
+Round 12 ended with spike_defuse. The winning team is GUILD.
+The current score is KRÜ Esports 5 - 7 GUILD.
+Klaus killed Trexx  in round 13
+Leoo killed NagZet  in round 13
+delz1k killed Leoo  in round 13
+Mazino killed Russ  in round 13
+Klaus killed Sayf  in round 13
+Klaus killed koldamenta  in round 13
+Round 13 ended with elimination. The winning team is KRÜ Esports.
+The current score is KRÜ Esports 6 - 7 GUILD.
+Mazino killed Russ  in round 14
+Leoo killed Klaus  in round 14
+KeznitdeuS killed Leoo  in round 14
+Mazino killed koldamenta  in round 14
+Mazino killed Trexx  in round 14
+Sayf killed Mazino  in round 14
+delz1k killed Sayf  in round 14
+Round 14 ended with elimination. The winning team is KRÜ Esports.
+The current score is KRÜ Esports 7 - 7 GUILD.
+Leoo killed NagZet  in round 15
+Mazino killed Leoo  in round 15
+koldamenta killed Mazino  in round 15
+Trexx killed KeznitdeuS  in round 15
+koldamenta killed delz1k  in round 15
+koldamenta killed Klaus  in round 15
+Round 15 ended with elimination. The winning team is GUILD.
+The current score is KRÜ Esports 7 - 8 GUILD.
+Klaus killed Trexx  in round 16
+koldamenta killed Mazino  in round 16
+KeznitdeuS killed Leoo  in round 16
+Sayf killed KeznitdeuS  in round 16
+Sayf killed Klaus  in round 16
+Round 16 ended with detonate. The winning team is GUILD.
+The current score is KRÜ Esports 7 - 9 GUILD.
+Sayf killed Mazino  in round 17
+koldamenta killed Klaus  in round 17
+delz1k killed Trexx  in round 17
+NagZet killed Sayf  in round 17
+Leoo killed delz1k  in round 17
+Leoo killed KeznitdeuS  in round 17
+Leoo killed NagZet  in round 17
+Round 17 ended with elimination. The winning team is GUILD.
+The current score is KRÜ Esports 7 - 10 GUILD.
+Trexx killed delz1k  in round 18
+Mazino killed Russ  in round 18
+Mazino killed Trexx  in round 18
+Leoo killed Mazino  in round 18
+NagZet killed koldamenta  in round 18
+KeznitdeuS killed Leoo  in round 18
+NagZet killed Sayf  in round 18
+Round 18 ended with elimination. The winning team is KRÜ Esports.
+The current score is KRÜ Esports 8 - 10 GUILD.
+Trexx killed Klaus  in round 19
+Sayf killed KeznitdeuS  in round 19
+Leoo killed Mazino  in round 19
+delz1k killed Trexx  in round 19
+delz1k killed koldamenta  in round 19
+Sayf killed delz1k  in round 19
+Round 19 ended with detonate. The winning team is GUILD.
+The current score is KRÜ Esports 8 - 11 GUILD.
+NagZet killed Russ  in round 20
+Trexx killed KeznitdeuS  in round 20
+Trexx killed Mazino  in round 20
+delz1k killed koldamenta  in round 20
+delz1k killed Trexx  in round 20
+Leoo killed Klaus  in round 20
+NagZet killed Russ  in round 20
+NagZet killed Sayf  in round 20
+Leoo killed NagZet  in round 20
+delz1k killed Leoo  in round 20
+Round 20 ended with spike_defuse. The winning team is KRÜ Esports.
+The current score is KRÜ Esports 9 - 11 GUILD.
+KeznitdeuS killed Sayf  in round 21
+NagZet killed Russ  in round 21
+Trexx killed NagZet  in round 21
+KeznitdeuS killed Trexx  in round 21
+Mazino killed koldamenta  in round 21
+Leoo killed Mazino  in round 21
+Klaus killed Leoo  in round 21
+Round 21 ended with spike_defuse. The winning team is KRÜ Esports.
+The current score is KRÜ Esports 10 - 11 GUILD.
+KeznitdeuS killed Trexx  in round 22
+KeznitdeuS killed Leoo  in round 22
+delz1k killed Russ  in round 22
+NagZet killed Sayf  in round 22
+koldamenta killed Mazino  in round 22
+Round 22 ended with time_expired. The winning team is KRÜ Esports.
+The current score is KRÜ Esports 11 - 11 GUILD.
+KeznitdeuS killed Russ  in round 23
+KeznitdeuS killed Sayf  in round 23
+KeznitdeuS killed koldamenta  in round 23
+Leoo killed NagZet  in round 23
+Trexx killed Mazino  in round 23
+Round 23 ended with spike_defuse. The winning team is KRÜ Esports.
+The current score is KRÜ Esports 12 - 11 GUILD.
+delz1k killed Trexx  in round 24
+Leoo killed KeznitdeuS  in round 24
+Leoo killed Klaus  in round 24
+delz1k killed Leoo  in round 24
+KeznitdeuS killed Trexx  in round 24
+Sayf killed NagZet  in round 24
+delz1k killed Sayf  in round 24
+Leoo killed Mazino  in round 24
+Russ killed Klaus  in round 24
+Leoo killed delz1k  in round 24
+Leoo killed KeznitdeuS  in round 24
+Round 24 ended with elimination. The winning team is GUILD.
+The current score is KRÜ Esports 12 - 12 GUILD.
+Trexx killed KeznitdeuS  in round 25
+Klaus killed Trexx  in round 25
+Klaus killed Russ  in round 25
+NagZet killed koldamenta  in round 25
+Leoo killed Mazino  in round 25
+Sayf killed Klaus  in round 25
+delz1k killed Leoo  in round 25
+Sayf killed delz1k  in round 25
+Sayf killed NagZet  in round 25
+Sayf killed Sayf  in round 25
+Round 25 ended with elimination. The winning team is KRÜ Esports.
+The current score is KRÜ Esports 13 - 12 GUILD.
+Mazino killed koldamenta  in round 26
+Mazino killed Leoo  in round 26
+Mazino killed Russ  in round 26
+Sayf killed KeznitdeuS  in round 26
+Trexx killed Klaus  in round 26
+NagZet killed Trexx  in round 26
+Sayf killed NagZet  in round 26
+Sayf killed delz1k  in round 26
+Mazino killed Sayf  in round 26
+Round 26 ended with elimination. The winning team is KRÜ Esports.
+The current score is KRÜ Esports 14 - 12 GUILD.
+Game ended with winning team: KRÜ Esports at 2022-07-11T19:50:35Z
+
+--- Player Stats ---
+Russ: Team=GUILD, Kills=5, Deaths=18, Assists=7, KDA=0.67, First Kills=0, First Deaths=4
+Sayf: Team=GUILD, Kills=23, Deaths=19, Assists=1, KDA=1.26, First Kills=3, First Deaths=3
+koldamenta: Team=GUILD, Kills=13, Deaths=15, Assists=8, KDA=1.4, First Kills=1, First Deaths=2
+Leoo: Team=GUILD, Kills=28, Deaths=15, Assists=9, KDA=2.47, First Kills=1, First Deaths=0
+Trexx: Team=GUILD, Kills=18, Deaths=20, Assists=13, KDA=1.55, First Kills=6, First Deaths=6
+Mazino: Team=KRÜ Esports, Kills=15, Deaths=20, Assists=11, KDA=1.3, First Kills=2, First Deaths=2
+NagZet: Team=KRÜ Esports, Kills=20, Deaths=16, Assists=3, KDA=1.44, First Kills=2, First Deaths=1
+Klaus: Team=KRÜ Esports, Kills=10, Deaths=19, Assists=16, KDA=1.37, First Kills=3, First Deaths=4
+KeznitdeuS: Team=KRÜ Esports, Kills=22, Deaths=17, Assists=6, KDA=1.65, First Kills=6, First Deaths=1
+delz1k: Team=KRÜ Esports, Kills=19, Deaths=14, Assists=9, KDA=2.0, First Kills=2, First Deaths=3

@@ -1,0 +1,206 @@
+Team 1: Karmine Corp
+Team 2: Futbolist
+Participating Players:
+Player 1: ATA KAPTAN
+Player 2: mojj
+Player 3: MrFaliN
+Player 4: qw1
+Player 5: qRaxs
+Player 6: XMS
+Player 7: ScreaM
+Player 8: ZE1SH
+Player 9: Nivera
+Player 10: sh1n
+Winning Team: Futbolist
+Score: Karmine Corp 5 - 13 Futbolist
+Tournament Name: vct emea 2023
+Game Start Time: 2023-05-04T17:00:01Z
+Game End Time: 2023-05-04T17:48:28Z
+Rounds ended by ELIMINATION count: 14
+Rounds ended by DEFUSE count: 1
+Rounds ended by DETONATE count: 1
+SPIKE PLANTED count: 2
+platformGameId: val:0281bb56-6d4f-4ccc-946e-b40467fbe2e8
+
+--- Events ---
+Game started at 2023-05-04T17:00:01Z
+qRaxs killed ZE1SH  in round 1
+MrFaliN killed Nivera  in round 1
+MrFaliN killed ScreaM  in round 1
+sh1n killed MrFaliN  in round 1
+ATA KAPTAN killed XMS  in round 1
+qRaxs killed sh1n  in round 1
+Round 1 ended with elimination. The winning team is Futbolist.
+The current score is Karmine Corp 0 - 1 Futbolist.
+qw1 killed Nivera  in round 2
+ScreaM killed mojj  in round 2
+qRaxs killed ScreaM  in round 2
+qRaxs killed sh1n  in round 2
+qRaxs killed XMS  in round 2
+MrFaliN killed ZE1SH  in round 2
+Round 2 ended with elimination. The winning team is Futbolist.
+The current score is Karmine Corp 0 - 2 Futbolist.
+qRaxs killed ScreaM  in round 3
+qw1 killed Nivera  in round 3
+XMS killed qRaxs  in round 3
+sh1n killed qw1  in round 3
+MrFaliN killed sh1n  in round 3
+mojj killed XMS  in round 3
+ZE1SH killed MrFaliN  in round 3
+ZE1SH killed mojj  in round 3
+ATA KAPTAN killed ZE1SH  in round 3
+Round 3 ended with elimination. The winning team is Futbolist.
+The current score is Karmine Corp 0 - 3 Futbolist.
+qw1 killed ZE1SH  in round 4
+ScreaM killed qRaxs  in round 4
+qw1 killed ScreaM  in round 4
+MrFaliN killed sh1n  in round 4
+XMS killed MrFaliN  in round 4
+qw1 killed XMS  in round 4
+ATA KAPTAN killed Nivera  in round 4
+Round 4 ended with elimination. The winning team is Futbolist.
+The current score is Karmine Corp 0 - 4 Futbolist.
+qw1 killed ZE1SH  in round 5
+mojj killed ScreaM  in round 5
+mojj killed Nivera  in round 5
+Round 5 ended with time_expired. The winning team is Futbolist.
+The current score is Karmine Corp 0 - 5 Futbolist.
+qw1 killed ScreaM  in round 6
+sh1n killed qw1  in round 6
+MrFaliN killed sh1n  in round 6
+ATA KAPTAN killed ZE1SH  in round 6
+qRaxs killed Nivera  in round 6
+Round 6 ended with time_expired. The winning team is Futbolist.
+The current score is Karmine Corp 0 - 6 Futbolist.
+mojj killed XMS  in round 7
+ATA KAPTAN killed ScreaM  in round 7
+sh1n killed ATA KAPTAN  in round 7
+qRaxs killed Nivera  in round 7
+ZE1SH killed qRaxs  in round 7
+mojj killed sh1n  in round 7
+ZE1SH killed mojj  in round 7
+MrFaliN killed ZE1SH  in round 7
+Round 7 ended with elimination. The winning team is Futbolist.
+The current score is Karmine Corp 0 - 7 Futbolist.
+qRaxs killed ScreaM  in round 8
+qw1 killed ZE1SH  in round 8
+qw1 killed XMS  in round 8
+sh1n killed qw1  in round 8
+sh1n killed MrFaliN  in round 8
+Nivera killed qRaxs  in round 8
+ATA KAPTAN killed Nivera  in round 8
+mojj killed sh1n  in round 8
+Round 8 ended with spike_defuse. The winning team is Futbolist.
+The current score is Karmine Corp 0 - 8 Futbolist.
+Nivera killed MrFaliN  in round 9
+mojj killed ScreaM  in round 9
+sh1n killed mojj  in round 9
+sh1n killed ATA KAPTAN  in round 9
+qRaxs killed sh1n  in round 9
+XMS killed qRaxs  in round 9
+Round 9 ended with detonate. The winning team is Karmine Corp.
+The current score is Karmine Corp 1 - 8 Futbolist.
+Nivera killed Nivera  in round 10
+XMS killed XMS  in round 10
+ATA KAPTAN killed ScreaM  in round 10
+mojj killed ZE1SH  in round 10
+XMS killed qw1  in round 10
+ATA KAPTAN killed Nivera  in round 10
+sh1n killed ATA KAPTAN  in round 10
+MrFaliN killed XMS  in round 10
+sh1n killed mojj  in round 10
+sh1n killed qRaxs  in round 10
+sh1n killed MrFaliN  in round 10
+Round 10 ended with elimination. The winning team is Karmine Corp.
+The current score is Karmine Corp 2 - 8 Futbolist.
+Nivera killed qw1  in round 11
+ScreaM killed ATA KAPTAN  in round 11
+mojj killed sh1n  in round 11
+qRaxs killed ScreaM  in round 11
+XMS killed mojj  in round 11
+ZE1SH killed qRaxs  in round 11
+Nivera killed MrFaliN  in round 11
+Round 11 ended with elimination. The winning team is Karmine Corp.
+The current score is Karmine Corp 3 - 8 Futbolist.
+qw1 killed ScreaM  in round 12
+qw1 killed sh1n  in round 12
+XMS killed mojj  in round 12
+qRaxs killed ZE1SH  in round 12
+Nivera killed qRaxs  in round 12
+XMS killed qw1  in round 12
+XMS killed MrFaliN  in round 12
+ATA KAPTAN killed XMS  in round 12
+Nivera killed ATA KAPTAN  in round 12
+Round 12 ended with elimination. The winning team is Karmine Corp.
+The current score is Karmine Corp 4 - 8 Futbolist.
+MrFaliN killed XMS  in round 13
+sh1n killed qRaxs  in round 13
+qw1 killed ScreaM  in round 13
+qw1 killed sh1n  in round 13
+ZE1SH killed MrFaliN  in round 13
+Nivera killed mojj  in round 13
+ATA KAPTAN killed Nivera  in round 13
+ATA KAPTAN killed ZE1SH  in round 13
+Round 13 ended with elimination. The winning team is Futbolist.
+The current score is Karmine Corp 4 - 9 Futbolist.
+qw1 killed Nivera  in round 14
+ScreaM killed qw1  in round 14
+MrFaliN killed ZE1SH  in round 14
+ScreaM killed MrFaliN  in round 14
+mojj killed sh1n  in round 14
+ScreaM killed qRaxs  in round 14
+XMS killed mojj  in round 14
+ATA KAPTAN killed ScreaM  in round 14
+ATA KAPTAN killed XMS  in round 14
+Round 14 ended with elimination. The winning team is Futbolist.
+The current score is Karmine Corp 4 - 10 Futbolist.
+qw1 killed ScreaM  in round 15
+ZE1SH killed qw1  in round 15
+Nivera killed MrFaliN  in round 15
+ATA KAPTAN killed Nivera  in round 15
+mojj killed ZE1SH  in round 15
+XMS killed ATA KAPTAN  in round 15
+XMS killed mojj  in round 15
+sh1n killed qRaxs  in round 15
+Round 15 ended with elimination. The winning team is Karmine Corp.
+The current score is Karmine Corp 5 - 10 Futbolist.
+qw1 killed ScreaM  in round 16
+Nivera killed qw1  in round 16
+Nivera killed ATA KAPTAN  in round 16
+qRaxs killed Nivera  in round 16
+MrFaliN killed XMS  in round 16
+sh1n killed MrFaliN  in round 16
+mojj killed ZE1SH  in round 16
+qRaxs killed sh1n  in round 16
+Round 16 ended with elimination. The winning team is Futbolist.
+The current score is Karmine Corp 5 - 11 Futbolist.
+qw1 killed Nivera  in round 17
+qw1 killed sh1n  in round 17
+qw1 killed ZE1SH  in round 17
+qw1 killed ScreaM  in round 17
+XMS killed qw1  in round 17
+XMS killed ATA KAPTAN  in round 17
+MrFaliN killed XMS  in round 17
+Round 17 ended with elimination. The winning team is Futbolist.
+The current score is Karmine Corp 5 - 12 Futbolist.
+ATA KAPTAN killed ScreaM  in round 18
+sh1n killed ATA KAPTAN  in round 18
+qRaxs killed sh1n  in round 18
+qw1 killed XMS  in round 18
+qw1 killed Nivera  in round 18
+mojj killed ZE1SH  in round 18
+Round 18 ended with elimination. The winning team is Futbolist.
+The current score is Karmine Corp 5 - 13 Futbolist.
+Game ended with winning team: Futbolist at 2023-05-04T17:48:28Z
+
+--- Player Stats ---
+ATA KAPTAN: Team=Futbolist, Kills=15, Deaths=9, Assists=14, KDA=3.22, First Kills=1, First Deaths=0
+mojj: Team=Futbolist, Kills=13, Deaths=10, Assists=7, KDA=2.0, First Kills=1, First Deaths=0
+MrFaliN: Team=Futbolist, Kills=12, Deaths=12, Assists=8, KDA=1.67, First Kills=1, First Deaths=1
+qw1: Team=Futbolist, Kills=22, Deaths=10, Assists=5, KDA=2.7, First Kills=9, First Deaths=1
+qRaxs: Team=Futbolist, Kills=15, Deaths=11, Assists=11, KDA=2.36, First Kills=3, First Deaths=0
+XMS: Team=Karmine Corp, Kills=14, Deaths=14, Assists=3, KDA=1.21, First Kills=0, First Deaths=2
+ScreaM: Team=Karmine Corp, Kills=6, Deaths=18, Assists=4, KDA=0.56, First Kills=0, First Deaths=7
+ZE1SH: Team=Karmine Corp, Kills=7, Deaths=16, Assists=5, KDA=0.75, First Kills=0, First Deaths=3
+Nivera: Team=Karmine Corp, Kills=11, Deaths=16, Assists=7, KDA=1.12, First Kills=3, First Deaths=4
+sh1n: Team=Karmine Corp, Kills=16, Deaths=15, Assists=5, KDA=1.4, First Kills=0, First Deaths=0

@@ -1,0 +1,162 @@
+Team 1: 100 Thieves
+Team 2: Team Heretics
+Participating Players:
+Player 1: paTiTek
+Player 2: RieNs
+Player 3: Boo
+Player 4: benjyfishy
+Player 5: Wo0t
+Player 6: eeiu
+Player 7: bangNA
+Player 8: Boostio
+Player 9: Cryo
+Player 10: Asuna
+Winning Team: Team Heretics
+Score: 100 Thieves 1 - 13 Team Heretics
+Tournament Name: vct masters shanghai 2024
+Game Start Time: 2024-06-07T10:40:15Z
+Game End Time: 2024-06-07T11:09:39Z
+Rounds ended by ELIMINATION count: 8
+Rounds ended by DEFUSE count: 6
+Rounds ended by DETONATE count: 0
+SPIKE PLANTED count: 6
+platformGameId: val:9fba6d3d-89b2-4086-8ab7-bccda864fcf6
+
+--- Events ---
+Game started at 2024-06-07T10:40:15Z
+bangNA killed Boo  in round 1
+paTiTek killed Asuna  in round 1
+benjyfishy killed Boostio  in round 1
+eeiu killed benjyfishy  in round 1
+Wo0t killed bangNA  in round 1
+Wo0t killed eeiu  in round 1
+Cryo killed Wo0t  in round 1
+paTiTek killed Cryo  in round 1
+Round 1 ended with spike_defuse. The winning team is Team Heretics.
+The current score is 100 Thieves 0 - 1 Team Heretics.
+bangNA killed paTiTek  in round 2
+Wo0t killed bangNA  in round 2
+benjyfishy killed Cryo  in round 2
+benjyfishy killed Asuna  in round 2
+RieNs killed Boostio  in round 2
+eeiu killed RieNs  in round 2
+Wo0t killed eeiu  in round 2
+Round 2 ended with elimination. The winning team is Team Heretics.
+The current score is 100 Thieves 0 - 2 Team Heretics.
+Asuna killed benjyfishy  in round 3
+RieNs killed Asuna  in round 3
+bangNA killed paTiTek  in round 3
+bangNA killed RieNs  in round 3
+Wo0t killed bangNA  in round 3
+Cryo killed Wo0t  in round 3
+Boo killed Boostio  in round 3
+Boo killed Cryo  in round 3
+eeiu killed Boo  in round 3
+Round 3 ended with elimination. The winning team is 100 Thieves.
+The current score is 100 Thieves 1 - 2 Team Heretics.
+Wo0t killed Boostio  in round 4
+Wo0t killed bangNA  in round 4
+eeiu killed RieNs  in round 4
+benjyfishy killed Cryo  in round 4
+eeiu killed Wo0t  in round 4
+Asuna killed Boo  in round 4
+eeiu killed benjyfishy  in round 4
+paTiTek killed Asuna  in round 4
+paTiTek killed eeiu  in round 4
+Round 4 ended with spike_defuse. The winning team is Team Heretics.
+The current score is 100 Thieves 1 - 3 Team Heretics.
+paTiTek killed Asuna  in round 5
+paTiTek killed Boostio  in round 5
+Wo0t killed bangNA  in round 5
+Wo0t killed Cryo  in round 5
+benjyfishy killed eeiu  in round 5
+Round 5 ended with spike_defuse. The winning team is Team Heretics.
+The current score is 100 Thieves 1 - 4 Team Heretics.
+benjyfishy killed Asuna  in round 6
+Boo killed bangNA  in round 6
+Cryo killed RieNs  in round 6
+benjyfishy killed Boostio  in round 6
+benjyfishy killed Cryo  in round 6
+eeiu killed paTiTek  in round 6
+Boo killed eeiu  in round 6
+Round 6 ended with spike_defuse. The winning team is Team Heretics.
+The current score is 100 Thieves 1 - 5 Team Heretics.
+Asuna killed Boo  in round 7
+Wo0t killed eeiu  in round 7
+Asuna killed Wo0t  in round 7
+paTiTek killed Asuna  in round 7
+paTiTek killed Cryo  in round 7
+RieNs killed Boostio  in round 7
+benjyfishy killed bangNA  in round 7
+Round 7 ended with elimination. The winning team is Team Heretics.
+The current score is 100 Thieves 1 - 6 Team Heretics.
+Boo killed Asuna  in round 8
+paTiTek killed Boostio  in round 8
+Wo0t killed bangNA  in round 8
+RieNs killed Cryo  in round 8
+eeiu killed paTiTek  in round 8
+Round 8 ended with spike_defuse. The winning team is Team Heretics.
+The current score is 100 Thieves 1 - 7 Team Heretics.
+eeiu killed Wo0t  in round 9
+benjyfishy killed eeiu  in round 9
+benjyfishy killed Cryo  in round 9
+RieNs killed Asuna  in round 9
+eeiu killed benjyfishy  in round 9
+RieNs killed Boostio  in round 9
+Boo killed eeiu  in round 9
+Boo killed bangNA  in round 9
+Round 9 ended with elimination. The winning team is Team Heretics.
+The current score is 100 Thieves 1 - 8 Team Heretics.
+Wo0t killed Boostio  in round 10
+Boo killed Asuna  in round 10
+paTiTek killed Cryo  in round 10
+paTiTek killed eeiu  in round 10
+bangNA killed Wo0t  in round 10
+RieNs killed bangNA  in round 10
+Round 10 ended with elimination. The winning team is Team Heretics.
+The current score is 100 Thieves 1 - 9 Team Heretics.
+Wo0t killed Cryo  in round 11
+Wo0t killed Boostio  in round 11
+Asuna killed Wo0t  in round 11
+Boo killed eeiu  in round 11
+paTiTek killed Asuna  in round 11
+paTiTek killed bangNA  in round 11
+Round 11 ended with elimination. The winning team is Team Heretics.
+The current score is 100 Thieves 1 - 10 Team Heretics.
+Boo killed Asuna  in round 12
+Boo killed Cryo  in round 12
+bangNA killed Boo  in round 12
+Wo0t killed eeiu  in round 12
+Wo0t killed bangNA  in round 12
+Wo0t killed Boostio  in round 12
+Round 12 ended with spike_defuse. The winning team is Team Heretics.
+The current score is 100 Thieves 1 - 11 Team Heretics.
+Wo0t killed Boostio  in round 13
+Wo0t killed Asuna  in round 13
+Wo0t killed bangNA  in round 13
+paTiTek killed Cryo  in round 13
+Wo0t killed eeiu  in round 13
+Round 13 ended with elimination. The winning team is Team Heretics.
+The current score is 100 Thieves 1 - 12 Team Heretics.
+Boostio killed benjyfishy  in round 14
+RieNs killed bangNA  in round 14
+paTiTek killed eeiu  in round 14
+Wo0t killed Boostio  in round 14
+Asuna killed Wo0t  in round 14
+paTiTek killed Asuna  in round 14
+paTiTek killed Cryo  in round 14
+Round 14 ended with elimination. The winning team is Team Heretics.
+The current score is 100 Thieves 1 - 13 Team Heretics.
+Game ended with winning team: Team Heretics at 2024-06-07T11:09:39Z
+
+--- Player Stats ---
+paTiTek: Team=Team Heretics, Kills=17, Deaths=4, Assists=9, KDA=6.5, First Kills=1, First Deaths=1
+RieNs: Team=Team Heretics, Kills=8, Deaths=4, Assists=4, KDA=3.0, First Kills=0, First Deaths=0
+Boo: Team=Team Heretics, Kills=11, Deaths=5, Assists=13, KDA=4.8, First Kills=2, First Deaths=2
+benjyfishy: Team=Team Heretics, Kills=11, Deaths=5, Assists=4, KDA=3.0, First Kills=1, First Deaths=2
+Wo0t: Team=Team Heretics, Kills=22, Deaths=8, Assists=2, KDA=3.0, First Kills=4, First Deaths=1
+eeiu: Team=100 Thieves, Kills=10, Deaths=13, Assists=2, KDA=0.92, First Kills=1, First Deaths=0
+bangNA: Team=100 Thieves, Kills=6, Deaths=14, Assists=0, KDA=0.43, First Kills=2, First Deaths=0
+Boostio: Team=100 Thieves, Kills=1, Deaths=14, Assists=3, KDA=0.29, First Kills=1, First Deaths=3
+Cryo: Team=100 Thieves, Kills=3, Deaths=14, Assists=7, KDA=0.71, First Kills=0, First Deaths=1
+Asuna: Team=100 Thieves, Kills=6, Deaths=14, Assists=1, KDA=0.5, First Kills=2, First Deaths=4

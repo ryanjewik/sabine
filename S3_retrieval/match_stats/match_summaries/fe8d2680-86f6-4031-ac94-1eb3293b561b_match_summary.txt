@@ -1,0 +1,207 @@
+Team 1: Cloud9 Blue
+Team 2: 100 Thieves
+Participating Players:
+Player 1: eeiu
+Player 2: bangNA
+Player 3: Boostio
+Player 4: Cryo
+Player 5: Asuna
+Player 6: moose
+Player 7: vanity
+Player 8: Oxy
+Player 9: runi
+Player 10: xeppaa
+Winning Team: 100 Thieves
+Score: Cloud9 Blue 6 - 13 100 Thieves
+Tournament Name: vct americas stage 1 2024
+Game Start Time: 2024-04-22T23:59:45Z
+Game End Time: 2024-04-23T00:41:00Z
+Rounds ended by ELIMINATION count: 16
+Rounds ended by DEFUSE count: 3
+Rounds ended by DETONATE count: 0
+SPIKE PLANTED count: 3
+platformGameId: val:fe8d2680-86f6-4031-ac94-1eb3293b561b
+
+--- Events ---
+Game started at 2024-04-22T23:59:45Z
+Oxy killed Boostio  in round 1
+Asuna killed Oxy  in round 1
+eeiu killed xeppaa  in round 1
+Asuna killed runi  in round 1
+bangNA killed vanity  in round 1
+bangNA killed moose  in round 1
+Round 1 ended with elimination. The winning team is 100 Thieves.
+The current score is Cloud9 Blue 0 - 1 100 Thieves.
+Boostio killed moose  in round 2
+Boostio killed Oxy  in round 2
+eeiu killed vanity  in round 2
+Cryo killed runi  in round 2
+Cryo killed xeppaa  in round 2
+Round 2 ended with elimination. The winning team is 100 Thieves.
+The current score is Cloud9 Blue 0 - 2 100 Thieves.
+Oxy killed Boostio  in round 3
+Oxy killed Asuna  in round 3
+bangNA killed Oxy  in round 3
+bangNA killed xeppaa  in round 3
+bangNA killed vanity  in round 3
+moose killed bangNA  in round 3
+moose killed Cryo  in round 3
+eeiu killed moose  in round 3
+eeiu killed runi  in round 3
+Round 3 ended with spike_defuse. The winning team is 100 Thieves.
+The current score is Cloud9 Blue 0 - 3 100 Thieves.
+Cryo killed xeppaa  in round 4
+Oxy killed Cryo  in round 4
+Asuna killed runi  in round 4
+Boostio killed Oxy  in round 4
+bangNA killed moose  in round 4
+bangNA killed vanity  in round 4
+Round 4 ended with elimination. The winning team is 100 Thieves.
+The current score is Cloud9 Blue 0 - 4 100 Thieves.
+Boostio killed runi  in round 5
+xeppaa killed Boostio  in round 5
+Asuna killed xeppaa  in round 5
+Cryo killed vanity  in round 5
+Oxy killed Asuna  in round 5
+Cryo killed Oxy  in round 5
+Cryo killed moose  in round 5
+Round 5 ended with elimination. The winning team is 100 Thieves.
+The current score is Cloud9 Blue 0 - 5 100 Thieves.
+Cryo killed Oxy  in round 6
+Cryo killed moose  in round 6
+eeiu killed vanity  in round 6
+xeppaa killed eeiu  in round 6
+Asuna killed xeppaa  in round 6
+bangNA killed runi  in round 6
+Round 6 ended with elimination. The winning team is 100 Thieves.
+The current score is Cloud9 Blue 0 - 6 100 Thieves.
+bangNA killed Oxy  in round 7
+Boostio killed vanity  in round 7
+runi killed Cryo  in round 7
+Boostio killed xeppaa  in round 7
+bangNA killed runi  in round 7
+Asuna killed moose  in round 7
+Round 7 ended with elimination. The winning team is 100 Thieves.
+The current score is Cloud9 Blue 0 - 7 100 Thieves.
+bangNA killed moose  in round 8
+Asuna killed Oxy  in round 8
+Cryo killed runi  in round 8
+xeppaa killed Asuna  in round 8
+bangNA killed xeppaa  in round 8
+Cryo killed vanity  in round 8
+Round 8 ended with elimination. The winning team is 100 Thieves.
+The current score is Cloud9 Blue 0 - 8 100 Thieves.
+Cryo killed runi  in round 9
+Boostio killed Oxy  in round 9
+vanity killed Boostio  in round 9
+Cryo killed xeppaa  in round 9
+Cryo killed moose  in round 9
+vanity killed Cryo  in round 9
+eeiu killed vanity  in round 9
+Round 9 ended with elimination. The winning team is 100 Thieves.
+The current score is Cloud9 Blue 0 - 9 100 Thieves.
+Boostio killed moose  in round 10
+Boostio killed runi  in round 10
+Boostio killed vanity  in round 10
+bangNA killed xeppaa  in round 10
+Oxy killed eeiu  in round 10
+Cryo killed Oxy  in round 10
+Round 10 ended with elimination. The winning team is 100 Thieves.
+The current score is Cloud9 Blue 0 - 10 100 Thieves.
+vanity killed Cryo  in round 11
+Oxy killed Boostio  in round 11
+eeiu killed Oxy  in round 11
+Asuna killed moose  in round 11
+xeppaa killed Asuna  in round 11
+bangNA killed xeppaa  in round 11
+vanity killed eeiu  in round 11
+bangNA killed vanity  in round 11
+runi killed bangNA  in round 11
+Round 11 ended with elimination. The winning team is Cloud9 Blue.
+The current score is Cloud9 Blue 1 - 10 100 Thieves.
+Oxy killed Cryo  in round 12
+bangNA killed vanity  in round 12
+Oxy killed Boostio  in round 12
+xeppaa killed bangNA  in round 12
+Asuna killed xeppaa  in round 12
+Asuna killed runi  in round 12
+Oxy killed Asuna  in round 12
+eeiu killed Oxy  in round 12
+eeiu killed moose  in round 12
+Round 12 ended with spike_defuse. The winning team is 100 Thieves.
+The current score is Cloud9 Blue 1 - 11 100 Thieves.
+Cryo killed moose  in round 13
+eeiu killed Oxy  in round 13
+xeppaa killed Boostio  in round 13
+runi killed Asuna  in round 13
+bangNA killed xeppaa  in round 13
+runi killed bangNA  in round 13
+Round 13 ended with spike_defuse. The winning team is Cloud9 Blue.
+The current score is Cloud9 Blue 2 - 11 100 Thieves.
+eeiu killed runi  in round 14
+eeiu killed vanity  in round 14
+vanity killed bangNA  in round 14
+vanity killed Asuna  in round 14
+Oxy killed eeiu  in round 14
+moose killed Boostio  in round 14
+Cryo killed Oxy  in round 14
+vanity killed Cryo  in round 14
+Round 14 ended with elimination. The winning team is Cloud9 Blue.
+The current score is Cloud9 Blue 3 - 11 100 Thieves.
+runi killed Asuna  in round 15
+runi killed Cryo  in round 15
+Oxy killed eeiu  in round 15
+bangNA killed Oxy  in round 15
+Boostio killed runi  in round 15
+moose killed Boostio  in round 15
+bangNA killed moose  in round 15
+xeppaa killed bangNA  in round 15
+Round 15 ended with elimination. The winning team is Cloud9 Blue.
+The current score is Cloud9 Blue 4 - 11 100 Thieves.
+Oxy killed Cryo  in round 16
+Oxy killed Asuna  in round 16
+bangNA killed vanity  in round 16
+Oxy killed bangNA  in round 16
+moose killed eeiu  in round 16
+Boostio killed Oxy  in round 16
+xeppaa killed Boostio  in round 16
+Round 16 ended with elimination. The winning team is Cloud9 Blue.
+The current score is Cloud9 Blue 5 - 11 100 Thieves.
+Oxy killed Boostio  in round 17
+bangNA killed Oxy  in round 17
+xeppaa killed bangNA  in round 17
+Cryo killed xeppaa  in round 17
+vanity killed eeiu  in round 17
+vanity killed Cryo  in round 17
+Oxy killed Asuna  in round 17
+Round 17 ended with elimination. The winning team is Cloud9 Blue.
+The current score is Cloud9 Blue 6 - 11 100 Thieves.
+Cryo killed Oxy  in round 18
+Cryo killed vanity  in round 18
+Asuna killed xeppaa  in round 18
+moose killed bangNA  in round 18
+Cryo killed moose  in round 18
+Asuna killed runi  in round 18
+Round 18 ended with elimination. The winning team is 100 Thieves.
+The current score is Cloud9 Blue 6 - 12 100 Thieves.
+Cryo killed vanity  in round 19
+Asuna killed Oxy  in round 19
+Asuna killed xeppaa  in round 19
+moose killed eeiu  in round 19
+Cryo killed moose  in round 19
+Boostio killed runi  in round 19
+Round 19 ended with elimination. The winning team is 100 Thieves.
+The current score is Cloud9 Blue 6 - 13 100 Thieves.
+Game ended with winning team: 100 Thieves at 2024-04-23T00:41:00Z
+
+--- Player Stats ---
+eeiu: Team=100 Thieves, Kills=12, Deaths=8, Assists=5, KDA=2.12, First Kills=1, First Deaths=0
+bangNA: Team=100 Thieves, Kills=21, Deaths=9, Assists=7, KDA=3.11, First Kills=2, First Deaths=0
+Boostio: Team=100 Thieves, Kills=13, Deaths=11, Assists=8, KDA=1.91, First Kills=3, First Deaths=3
+Cryo: Team=100 Thieves, Kills=22, Deaths=10, Assists=6, KDA=2.8, First Kills=6, First Deaths=3
+Asuna: Team=100 Thieves, Kills=14, Deaths=10, Assists=23, KDA=3.7, First Kills=0, First Deaths=1
+moose: Team=Cloud9 Blue, Kills=7, Deaths=16, Assists=4, KDA=0.69, First Kills=0, First Deaths=4
+vanity: Team=Cloud9 Blue, Kills=9, Deaths=16, Assists=9, KDA=1.12, First Kills=1, First Deaths=1
+Oxy: Team=Cloud9 Blue, Kills=17, Deaths=19, Assists=4, KDA=1.11, First Kills=5, First Deaths=3
+runi: Team=Cloud9 Blue, Kills=6, Deaths=15, Assists=2, KDA=0.53, First Kills=1, First Deaths=3
+xeppaa: Team=Cloud9 Blue, Kills=9, Deaths=16, Assists=11, KDA=1.25, First Kills=0, First Deaths=1

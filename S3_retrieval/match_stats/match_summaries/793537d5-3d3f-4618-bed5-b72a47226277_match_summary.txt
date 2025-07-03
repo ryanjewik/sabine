@@ -1,0 +1,229 @@
+Team 1: TITAN ESPORTS CLUB
+Team 2: Trace Esports
+Participating Players:
+Player 1: FengF
+Player 2: Kai 
+Player 3: heybay
+Player 4: Biank
+Player 5: LuoK1ng
+Player 6: B1ack
+Player 7: LockM
+Player 8: Abo
+Player 9: AC
+Player 10: Rb
+Winning Team: TITAN ESPORTS CLUB
+Score: TITAN ESPORTS CLUB 13 - 8 Trace Esports
+Tournament Name: vct cn stage 2 2024
+Game Start Time: 2024-07-06T10:07:14Z
+Game End Time: 2024-07-06T10:57:53Z
+Rounds ended by ELIMINATION count: 14
+Rounds ended by DEFUSE count: 4
+Rounds ended by DETONATE count: 3
+SPIKE PLANTED count: 7
+platformGameId: val:793537d5-3d3f-4618-bed5-b72a47226277
+
+--- Events ---
+Game started at 2024-07-06T10:07:14Z
+Biank killed Abo  in round 1
+LuoK1ng killed AC  in round 1
+B1ack killed LuoK1ng  in round 1
+LockM killed FengF  in round 1
+Kai  killed Rb  in round 1
+heybay killed B1ack  in round 1
+heybay killed LockM  in round 1
+Round 1 ended with spike_defuse. The winning team is Trace Esports.
+The current score is TITAN ESPORTS CLUB 0 - 1 Trace Esports.
+Biank killed Abo  in round 2
+Rb killed Biank  in round 2
+LuoK1ng killed B1ack  in round 2
+Kai  killed LockM  in round 2
+Rb killed LuoK1ng  in round 2
+Kai  killed Rb  in round 2
+FengF killed AC  in round 2
+Round 2 ended with spike_defuse. The winning team is Trace Esports.
+The current score is TITAN ESPORTS CLUB 0 - 2 Trace Esports.
+LuoK1ng killed Abo  in round 3
+B1ack killed LuoK1ng  in round 3
+Kai  killed AC  in round 3
+Kai  killed LockM  in round 3
+B1ack killed Kai   in round 3
+B1ack killed heybay  in round 3
+B1ack killed Biank  in round 3
+FengF killed B1ack  in round 3
+FengF killed Rb  in round 3
+Round 3 ended with detonate. The winning team is TITAN ESPORTS CLUB.
+The current score is TITAN ESPORTS CLUB 1 - 2 Trace Esports.
+FengF killed Rb  in round 4
+LockM killed heybay  in round 4
+LockM killed FengF  in round 4
+Abo killed Kai   in round 4
+B1ack killed LuoK1ng  in round 4
+Abo killed Biank  in round 4
+Round 4 ended with elimination. The winning team is TITAN ESPORTS CLUB.
+The current score is TITAN ESPORTS CLUB 2 - 2 Trace Esports.
+B1ack killed LuoK1ng  in round 5
+Kai  killed B1ack  in round 5
+AC killed Biank  in round 5
+Kai  killed Rb  in round 5
+Kai  killed LockM  in round 5
+Abo killed Kai   in round 5
+Abo killed heybay  in round 5
+FengF killed AC  in round 5
+Abo killed FengF  in round 5
+Round 5 ended with elimination. The winning team is TITAN ESPORTS CLUB.
+The current score is TITAN ESPORTS CLUB 3 - 2 Trace Esports.
+Abo killed Kai   in round 6
+Rb killed Biank  in round 6
+Abo killed heybay  in round 6
+Abo killed LuoK1ng  in round 6
+LockM killed FengF  in round 6
+Round 6 ended with elimination. The winning team is TITAN ESPORTS CLUB.
+The current score is TITAN ESPORTS CLUB 4 - 2 Trace Esports.
+Rb killed FengF  in round 7
+B1ack killed Biank  in round 7
+AC killed Kai   in round 7
+Rb killed heybay  in round 7
+LuoK1ng killed Rb  in round 7
+B1ack killed LuoK1ng  in round 7
+Round 7 ended with elimination. The winning team is TITAN ESPORTS CLUB.
+The current score is TITAN ESPORTS CLUB 5 - 2 Trace Esports.
+B1ack killed LuoK1ng  in round 8
+Biank killed B1ack  in round 8
+Biank killed Rb  in round 8
+LockM killed Biank  in round 8
+AC killed Kai   in round 8
+FengF killed LockM  in round 8
+AC killed FengF  in round 8
+AC killed heybay  in round 8
+Round 8 ended with elimination. The winning team is TITAN ESPORTS CLUB.
+The current score is TITAN ESPORTS CLUB 6 - 2 Trace Esports.
+FengF killed Rb  in round 9
+AC killed LuoK1ng  in round 9
+AC killed Biank  in round 9
+Abo killed FengF  in round 9
+Abo killed Kai   in round 9
+heybay killed Abo  in round 9
+B1ack killed heybay  in round 9
+Round 9 ended with elimination. The winning team is TITAN ESPORTS CLUB.
+The current score is TITAN ESPORTS CLUB 7 - 2 Trace Esports.
+LuoK1ng killed B1ack  in round 10
+LuoK1ng killed Rb  in round 10
+AC killed Kai   in round 10
+LuoK1ng killed AC  in round 10
+FengF killed Abo  in round 10
+LockM killed heybay  in round 10
+FengF killed LockM  in round 10
+Round 10 ended with elimination. The winning team is Trace Esports.
+The current score is TITAN ESPORTS CLUB 7 - 3 Trace Esports.
+LockM killed FengF  in round 11
+AC killed LuoK1ng  in round 11
+Rb killed Kai   in round 11
+Rb killed heybay  in round 11
+Abo killed Biank  in round 11
+Round 11 ended with elimination. The winning team is TITAN ESPORTS CLUB.
+The current score is TITAN ESPORTS CLUB 8 - 3 Trace Esports.
+LuoK1ng killed B1ack  in round 12
+LuoK1ng killed AC  in round 12
+heybay killed Rb  in round 12
+LuoK1ng killed LockM  in round 12
+Abo killed heybay  in round 12
+Abo killed LuoK1ng  in round 12
+Biank killed Abo  in round 12
+Round 12 ended with elimination. The winning team is Trace Esports.
+The current score is TITAN ESPORTS CLUB 8 - 4 Trace Esports.
+Kai  killed Abo  in round 13
+B1ack killed LuoK1ng  in round 13
+AC killed Kai   in round 13
+Biank killed Rb  in round 13
+heybay killed AC  in round 13
+Biank killed B1ack  in round 13
+LockM killed Biank  in round 13
+heybay killed LockM  in round 13
+Round 13 ended with elimination. The winning team is Trace Esports.
+The current score is TITAN ESPORTS CLUB 8 - 5 Trace Esports.
+FengF killed Rb  in round 14
+Kai  killed LockM  in round 14
+B1ack killed Kai   in round 14
+Biank killed AC  in round 14
+Round 14 ended with detonate. The winning team is Trace Esports.
+The current score is TITAN ESPORTS CLUB 8 - 6 Trace Esports.
+B1ack killed B1ack  in round 15
+Abo killed Abo  in round 15
+FengF killed FengF  in round 15
+FengF killed Rb  in round 15
+B1ack killed Biank  in round 15
+FengF killed B1ack  in round 15
+FengF killed LockM  in round 15
+Abo killed FengF  in round 15
+heybay killed AC  in round 15
+Abo killed heybay  in round 15
+Abo killed Kai   in round 15
+LuoK1ng killed Abo  in round 15
+Round 15 ended with elimination. The winning team is Trace Esports.
+The current score is TITAN ESPORTS CLUB 8 - 7 Trace Esports.
+LuoK1ng killed B1ack  in round 16
+Abo killed Biank  in round 16
+AC killed FengF  in round 16
+Rb killed Kai   in round 16
+LuoK1ng killed Abo  in round 16
+Rb killed LuoK1ng  in round 16
+LockM killed heybay  in round 16
+Round 16 ended with spike_defuse. The winning team is TITAN ESPORTS CLUB.
+The current score is TITAN ESPORTS CLUB 9 - 7 Trace Esports.
+Abo killed Biank  in round 17
+Rb killed Kai   in round 17
+FengF killed Rb  in round 17
+LuoK1ng killed B1ack  in round 17
+LockM killed heybay  in round 17
+LockM killed FengF  in round 17
+LuoK1ng killed AC  in round 17
+LockM killed LuoK1ng  in round 17
+Round 17 ended with spike_defuse. The winning team is TITAN ESPORTS CLUB.
+The current score is TITAN ESPORTS CLUB 10 - 7 Trace Esports.
+B1ack killed FengF  in round 18
+B1ack killed heybay  in round 18
+B1ack killed Biank  in round 18
+Kai  killed B1ack  in round 18
+AC killed Kai   in round 18
+AC killed LuoK1ng  in round 18
+Round 18 ended with elimination. The winning team is TITAN ESPORTS CLUB.
+The current score is TITAN ESPORTS CLUB 11 - 7 Trace Esports.
+FengF killed Abo  in round 19
+Kai  killed B1ack  in round 19
+LuoK1ng killed LockM  in round 19
+LuoK1ng killed Rb  in round 19
+Round 19 ended with detonate. The winning team is Trace Esports.
+The current score is TITAN ESPORTS CLUB 11 - 8 Trace Esports.
+FengF killed AC  in round 20
+Abo killed FengF  in round 20
+LuoK1ng killed Abo  in round 20
+LockM killed LuoK1ng  in round 20
+LockM killed heybay  in round 20
+Kai  killed LockM  in round 20
+Rb killed Kai   in round 20
+Biank killed Rb  in round 20
+B1ack killed Biank  in round 20
+Round 20 ended with elimination. The winning team is TITAN ESPORTS CLUB.
+The current score is TITAN ESPORTS CLUB 12 - 8 Trace Esports.
+AC killed FengF  in round 21
+FengF killed AC  in round 21
+B1ack killed LuoK1ng  in round 21
+Kai  killed Rb  in round 21
+LockM killed Kai   in round 21
+LockM killed Biank  in round 21
+LockM killed heybay  in round 21
+Round 21 ended with elimination. The winning team is TITAN ESPORTS CLUB.
+The current score is TITAN ESPORTS CLUB 13 - 8 Trace Esports.
+Game ended with winning team: TITAN ESPORTS CLUB at 2024-07-06T10:57:53Z
+
+--- Player Stats ---
+FengF: Team=Trace Esports, Kills=18, Deaths=15, Assists=4, KDA=1.47, First Kills=5, First Deaths=4
+Kai : Team=Trace Esports, Kills=14, Deaths=17, Assists=6, KDA=1.18, First Kills=1, First Deaths=1
+heybay: Team=Trace Esports, Kills=7, Deaths=16, Assists=6, KDA=0.81, First Kills=0, First Deaths=0
+Biank: Team=Trace Esports, Kills=9, Deaths=16, Assists=10, KDA=1.19, First Kills=2, First Deaths=1
+LuoK1ng: Team=Trace Esports, Kills=18, Deaths=17, Assists=3, KDA=1.24, First Kills=4, First Deaths=2
+B1ack: Team=TITAN ESPORTS CLUB, Kills=20, Deaths=14, Assists=7, KDA=1.93, First Kills=4, First Deaths=4
+LockM: Team=TITAN ESPORTS CLUB, Kills=17, Deaths=12, Assists=8, KDA=2.08, First Kills=1, First Deaths=0
+Abo: Team=TITAN ESPORTS CLUB, Kills=20, Deaths=12, Assists=4, KDA=2.0, First Kills=2, First Deaths=5
+AC: Team=TITAN ESPORTS CLUB, Kills=14, Deaths=12, Assists=10, KDA=2.0, First Kills=1, First Deaths=1
+Rb: Team=TITAN ESPORTS CLUB, Kills=11, Deaths=17, Assists=4, KDA=0.88, First Kills=1, First Deaths=3

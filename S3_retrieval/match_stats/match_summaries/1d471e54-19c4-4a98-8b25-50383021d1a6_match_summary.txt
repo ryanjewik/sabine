@@ -1,0 +1,179 @@
+Team 1: ZETA DIVISION
+Team 2: GLOBAL ESPORTS
+Participating Players:
+Player 1: Lightningfa
+Player 2: Benkai
+Player 3: Russ
+Player 4: polvi
+Player 5: blaZek1ngg
+Player 6: Dep
+Player 7: Yuran
+Player 8: SugarZ3ro
+Player 9: hiroronn
+Player 10: Laz
+Winning Team: ZETA DIVISION
+Score: ZETA DIVISION 13 - 3 GLOBAL ESPORTS
+Tournament Name: vct pacific kickoff 2024
+Game Start Time: 2024-02-21T13:15:11Z
+Game End Time: 2024-02-21T13:51:40Z
+Rounds ended by ELIMINATION count: 9
+Rounds ended by DEFUSE count: 5
+Rounds ended by DETONATE count: 2
+SPIKE PLANTED count: 7
+platformGameId: val:1d471e54-19c4-4a98-8b25-50383021d1a6
+
+--- Events ---
+Game started at 2024-02-21T13:15:11Z
+Dep killed Benkai  in round 1
+Yuran killed polvi  in round 1
+Yuran killed Lightningfa  in round 1
+Yuran killed Russ  in round 1
+blaZek1ngg killed Yuran  in round 1
+Dep killed blaZek1ngg  in round 1
+Round 1 ended with elimination. The winning team is ZETA DIVISION.
+The current score is ZETA DIVISION 1 - 0 GLOBAL ESPORTS.
+Dep killed Benkai  in round 2
+Dep killed polvi  in round 2
+Lightningfa killed Dep  in round 2
+Laz killed Lightningfa  in round 2
+Russ killed Laz  in round 2
+Russ killed hiroronn  in round 2
+Yuran killed Russ  in round 2
+blaZek1ngg killed Yuran  in round 2
+SugarZ3ro killed blaZek1ngg  in round 2
+Round 2 ended with elimination. The winning team is ZETA DIVISION.
+The current score is ZETA DIVISION 2 - 0 GLOBAL ESPORTS.
+Dep killed Benkai  in round 3
+hiroronn killed Russ  in round 3
+Dep killed polvi  in round 3
+Yuran killed Lightningfa  in round 3
+blaZek1ngg killed Dep  in round 3
+Round 3 ended with detonate. The winning team is ZETA DIVISION.
+The current score is ZETA DIVISION 3 - 0 GLOBAL ESPORTS.
+Dep killed blaZek1ngg  in round 4
+Yuran killed Lightningfa  in round 4
+polvi killed Yuran  in round 4
+Dep killed Russ  in round 4
+polvi killed Dep  in round 4
+hiroronn killed polvi  in round 4
+SugarZ3ro killed Benkai  in round 4
+Round 4 ended with elimination. The winning team is ZETA DIVISION.
+The current score is ZETA DIVISION 4 - 0 GLOBAL ESPORTS.
+Yuran killed polvi  in round 5
+Yuran killed Russ  in round 5
+Laz killed blaZek1ngg  in round 5
+Benkai killed Dep  in round 5
+Benkai killed SugarZ3ro  in round 5
+Benkai killed Yuran  in round 5
+Round 5 ended with detonate. The winning team is ZETA DIVISION.
+The current score is ZETA DIVISION 5 - 0 GLOBAL ESPORTS.
+Laz killed Benkai  in round 6
+hiroronn killed Benkai  in round 6
+Dep killed polvi  in round 6
+Yuran killed Lightningfa  in round 6
+Dep killed Russ  in round 6
+Dep killed blaZek1ngg  in round 6
+Round 6 ended with elimination. The winning team is ZETA DIVISION.
+The current score is ZETA DIVISION 6 - 0 GLOBAL ESPORTS.
+Dep killed blaZek1ngg  in round 7
+Laz killed Benkai  in round 7
+Russ killed Dep  in round 7
+Russ killed Yuran  in round 7
+hiroronn killed polvi  in round 7
+SugarZ3ro killed Russ  in round 7
+Lightningfa killed hiroronn  in round 7
+SugarZ3ro killed Lightningfa  in round 7
+Round 7 ended with elimination. The winning team is ZETA DIVISION.
+The current score is ZETA DIVISION 7 - 0 GLOBAL ESPORTS.
+hiroronn killed Russ  in round 8
+Laz killed polvi  in round 8
+Laz killed Lightningfa  in round 8
+Dep killed blaZek1ngg  in round 8
+Dep killed Benkai  in round 8
+Round 8 ended with elimination. The winning team is ZETA DIVISION.
+The current score is ZETA DIVISION 8 - 0 GLOBAL ESPORTS.
+polvi killed hiroronn  in round 9
+polvi killed Dep  in round 9
+Laz killed Russ  in round 9
+polvi killed SugarZ3ro  in round 9
+Russ killed Yuran  in round 9
+polvi killed Laz  in round 9
+Round 9 ended with spike_defuse. The winning team is GLOBAL ESPORTS.
+The current score is ZETA DIVISION 8 - 1 GLOBAL ESPORTS.
+Laz killed polvi  in round 10
+Russ killed Laz  in round 10
+Dep killed blaZek1ngg  in round 10
+Lightningfa killed Yuran  in round 10
+Dep killed Lightningfa  in round 10
+Benkai killed Dep  in round 10
+hiroronn killed Benkai  in round 10
+SugarZ3ro killed Russ  in round 10
+Round 10 ended with elimination. The winning team is ZETA DIVISION.
+The current score is ZETA DIVISION 9 - 1 GLOBAL ESPORTS.
+Lightningfa killed Dep  in round 11
+Laz killed polvi  in round 11
+Lightningfa killed SugarZ3ro  in round 11
+Benkai killed Yuran  in round 11
+Russ killed Laz  in round 11
+blaZek1ngg killed hiroronn  in round 11
+Round 11 ended with spike_defuse. The winning team is GLOBAL ESPORTS.
+The current score is ZETA DIVISION 9 - 2 GLOBAL ESPORTS.
+Dep killed Lightningfa  in round 12
+Benkai killed hiroronn  in round 12
+Laz killed polvi  in round 12
+Dep killed Russ  in round 12
+blaZek1ngg killed SugarZ3ro  in round 12
+Benkai killed Yuran  in round 12
+blaZek1ngg killed Laz  in round 12
+Benkai killed Dep  in round 12
+Round 12 ended with elimination. The winning team is GLOBAL ESPORTS.
+The current score is ZETA DIVISION 9 - 3 GLOBAL ESPORTS.
+Yuran killed polvi  in round 13
+Laz killed blaZek1ngg  in round 13
+Laz killed Lightningfa  in round 13
+Russ killed Laz  in round 13
+SugarZ3ro killed Benkai  in round 13
+Russ killed SugarZ3ro  in round 13
+Dep killed Russ  in round 13
+Round 13 ended with spike_defuse. The winning team is ZETA DIVISION.
+The current score is ZETA DIVISION 10 - 3 GLOBAL ESPORTS.
+Laz killed Russ  in round 14
+Benkai killed Dep  in round 14
+Laz killed Lightningfa  in round 14
+Benkai killed Yuran  in round 14
+SugarZ3ro killed polvi  in round 14
+hiroronn killed blaZek1ngg  in round 14
+SugarZ3ro killed Benkai  in round 14
+Round 14 ended with spike_defuse. The winning team is ZETA DIVISION.
+The current score is ZETA DIVISION 11 - 3 GLOBAL ESPORTS.
+Russ killed Laz  in round 15
+Yuran killed Lightningfa  in round 15
+hiroronn killed polvi  in round 15
+blaZek1ngg killed Dep  in round 15
+Yuran killed Russ  in round 15
+hiroronn killed Benkai  in round 15
+Round 15 ended with spike_defuse. The winning team is ZETA DIVISION.
+The current score is ZETA DIVISION 12 - 3 GLOBAL ESPORTS.
+SugarZ3ro killed blaZek1ngg  in round 16
+Yuran killed Russ  in round 16
+Yuran killed Lightningfa  in round 16
+Benkai killed SugarZ3ro  in round 16
+blaZek1ngg killed Dep  in round 16
+Laz killed polvi  in round 16
+Laz killed Benkai  in round 16
+Yuran killed blaZek1ngg  in round 16
+Round 16 ended with elimination. The winning team is ZETA DIVISION.
+The current score is ZETA DIVISION 13 - 3 GLOBAL ESPORTS.
+Game ended with winning team: ZETA DIVISION at 2024-02-21T13:51:40Z
+
+--- Player Stats ---
+Lightningfa: Team=GLOBAL ESPORTS, Kills=5, Deaths=13, Assists=4, KDA=0.69, First Kills=1, First Deaths=1
+Benkai: Team=GLOBAL ESPORTS, Kills=11, Deaths=13, Assists=3, KDA=1.08, First Kills=0, First Deaths=4
+Russ: Team=GLOBAL ESPORTS, Kills=10, Deaths=15, Assists=3, KDA=0.87, First Kills=1, First Deaths=2
+polvi: Team=GLOBAL ESPORTS, Kills=6, Deaths=15, Assists=3, KDA=0.6, First Kills=1, First Deaths=3
+blaZek1ngg: Team=GLOBAL ESPORTS, Kills=8, Deaths=12, Assists=2, KDA=0.83, First Kills=0, First Deaths=3
+Dep: Team=ZETA DIVISION, Kills=19, Deaths=12, Assists=4, KDA=1.92, First Kills=6, First Deaths=1
+Yuran: Team=ZETA DIVISION, Kills=15, Deaths=10, Assists=3, KDA=1.8, First Kills=2, First Deaths=0
+SugarZ3ro: Team=ZETA DIVISION, Kills=9, Deaths=6, Assists=9, KDA=3.0, First Kills=1, First Deaths=0
+hiroronn: Team=ZETA DIVISION, Kills=9, Deaths=5, Assists=4, KDA=2.6, First Kills=1, First Deaths=1
+Laz: Team=ZETA DIVISION, Kills=16, Deaths=7, Assists=1, KDA=2.43, First Kills=3, First Deaths=1

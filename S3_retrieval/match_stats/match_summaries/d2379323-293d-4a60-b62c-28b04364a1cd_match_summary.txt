@@ -1,0 +1,210 @@
+Team 1: Sentinels
+Team 2: Cloud9 Blue
+Participating Players:
+Player 1: Leaf
+Player 2: xeppaa
+Player 3: runi
+Player 4: Zellsis
+Player 5: jakee
+Player 6: Marved
+Player 7: Sacy
+Player 8: dephh
+Player 9: zekken
+Player 10: pANcada
+Winning Team: Cloud9 Blue
+Score: Sentinels 6 - 13 Cloud9 Blue
+Tournament Name: vct americas 2023
+Game Start Time: 2023-04-30T19:56:35Z
+Game End Time: 2023-04-30T20:40:50Z
+Rounds ended by ELIMINATION count: 10
+Rounds ended by DEFUSE count: 8
+Rounds ended by DETONATE count: 0
+SPIKE PLANTED count: 8
+platformGameId: val:d2379323-293d-4a60-b62c-28b04364a1cd
+
+--- Events ---
+Game started at 2023-04-30T19:56:35Z
+jakee killed Marved  in round 1
+runi killed dephh  in round 1
+xeppaa killed Sacy  in round 1
+runi killed pANcada  in round 1
+jakee killed zekken  in round 1
+Round 1 ended with spike_defuse. The winning team is Cloud9 Blue.
+The current score is Sentinels 0 - 1 Cloud9 Blue.
+Sacy killed xeppaa  in round 2
+Leaf killed Sacy  in round 2
+jakee killed zekken  in round 2
+jakee killed dephh  in round 2
+jakee killed Marved  in round 2
+Leaf killed pANcada  in round 2
+Round 2 ended with elimination. The winning team is Cloud9 Blue.
+The current score is Sentinels 0 - 2 Cloud9 Blue.
+Sacy killed Zellsis  in round 3
+Leaf killed zekken  in round 3
+xeppaa killed Sacy  in round 3
+jakee killed dephh  in round 3
+Marved killed jakee  in round 3
+Leaf killed Marved  in round 3
+Round 3 ended with time_expired. The winning team is Cloud9 Blue.
+The current score is Sentinels 0 - 3 Cloud9 Blue.
+xeppaa killed Marved  in round 4
+xeppaa killed Sacy  in round 4
+xeppaa killed zekken  in round 4
+xeppaa killed dephh  in round 4
+Leaf killed pANcada  in round 4
+Round 4 ended with elimination. The winning team is Cloud9 Blue.
+The current score is Sentinels 0 - 4 Cloud9 Blue.
+runi killed Sacy  in round 5
+dephh killed runi  in round 5
+Zellsis killed dephh  in round 5
+Leaf killed zekken  in round 5
+pANcada killed xeppaa  in round 5
+xeppaa killed pANcada  in round 5
+Marved killed Leaf  in round 5
+Zellsis killed Marved  in round 5
+Round 5 ended with spike_defuse. The winning team is Cloud9 Blue.
+The current score is Sentinels 0 - 5 Cloud9 Blue.
+xeppaa killed pANcada  in round 6
+zekken killed xeppaa  in round 6
+Zellsis killed zekken  in round 6
+Leaf killed Sacy  in round 6
+Leaf killed dephh  in round 6
+Zellsis killed Marved  in round 6
+Round 6 ended with spike_defuse. The winning team is Cloud9 Blue.
+The current score is Sentinels 0 - 6 Cloud9 Blue.
+Marved killed xeppaa  in round 7
+jakee killed Marved  in round 7
+runi killed zekken  in round 7
+runi killed Sacy  in round 7
+Leaf killed dephh  in round 7
+pANcada killed jakee  in round 7
+pANcada killed runi  in round 7
+Zellsis killed pANcada  in round 7
+Round 7 ended with elimination. The winning team is Cloud9 Blue.
+The current score is Sentinels 0 - 7 Cloud9 Blue.
+Marved killed Leaf  in round 8
+xeppaa killed pANcada  in round 8
+jakee killed zekken  in round 8
+jakee killed Sacy  in round 8
+jakee killed Marved  in round 8
+xeppaa killed dephh  in round 8
+Round 8 ended with elimination. The winning team is Cloud9 Blue.
+The current score is Sentinels 0 - 8 Cloud9 Blue.
+Leaf killed zekken  in round 9
+Leaf killed dephh  in round 9
+jakee killed pANcada  in round 9
+Zellsis killed Marved  in round 9
+xeppaa killed Sacy  in round 9
+Round 9 ended with elimination. The winning team is Cloud9 Blue.
+The current score is Sentinels 0 - 9 Cloud9 Blue.
+xeppaa killed zekken  in round 10
+dephh killed xeppaa  in round 10
+Leaf killed Marved  in round 10
+jakee killed pANcada  in round 10
+Leaf killed dephh  in round 10
+Sacy killed Leaf  in round 10
+Zellsis killed Sacy  in round 10
+Round 10 ended with elimination. The winning team is Cloud9 Blue.
+The current score is Sentinels 0 - 10 Cloud9 Blue.
+Leaf killed zekken  in round 11
+Zellsis killed Marved  in round 11
+dephh killed Leaf  in round 11
+xeppaa killed dephh  in round 11
+pANcada killed xeppaa  in round 11
+Sacy killed jakee  in round 11
+pANcada killed Zellsis  in round 11
+pANcada killed runi  in round 11
+Round 11 ended with elimination. The winning team is Sentinels.
+The current score is Sentinels 1 - 10 Cloud9 Blue.
+jakee killed zekken  in round 12
+jakee killed Marved  in round 12
+Sacy killed jakee  in round 12
+dephh killed Zellsis  in round 12
+xeppaa killed pANcada  in round 12
+xeppaa killed Sacy  in round 12
+Leaf killed dephh  in round 12
+Round 12 ended with spike_defuse. The winning team is Cloud9 Blue.
+The current score is Sentinels 1 - 11 Cloud9 Blue.
+Sacy killed Zellsis  in round 13
+Leaf killed pANcada  in round 13
+Sacy killed xeppaa  in round 13
+jakee killed Sacy  in round 13
+Marved killed Leaf  in round 13
+Marved killed jakee  in round 13
+Marved killed runi  in round 13
+Round 13 ended with spike_defuse. The winning team is Sentinels.
+The current score is Sentinels 2 - 11 Cloud9 Blue.
+pANcada killed Zellsis  in round 14
+dephh killed jakee  in round 14
+dephh killed xeppaa  in round 14
+runi killed dephh  in round 14
+Leaf killed pANcada  in round 14
+runi killed Sacy  in round 14
+zekken killed Leaf  in round 14
+Marved killed runi  in round 14
+Round 14 ended with spike_defuse. The winning team is Sentinels.
+The current score is Sentinels 3 - 11 Cloud9 Blue.
+zekken killed runi  in round 15
+Sacy killed xeppaa  in round 15
+pANcada killed Leaf  in round 15
+Zellsis killed pANcada  in round 15
+Sacy killed Zellsis  in round 15
+zekken killed jakee  in round 15
+Round 15 ended with elimination. The winning team is Sentinels.
+The current score is Sentinels 4 - 11 Cloud9 Blue.
+dephh killed xeppaa  in round 16
+pANcada killed Leaf  in round 16
+zekken killed jakee  in round 16
+runi killed zekken  in round 16
+Zellsis killed dephh  in round 16
+runi killed pANcada  in round 16
+Marved killed runi  in round 16
+Zellsis killed Sacy  in round 16
+Marved killed Zellsis  in round 16
+Round 16 ended with spike_defuse. The winning team is Sentinels.
+The current score is Sentinels 5 - 11 Cloud9 Blue.
+Marved killed Leaf  in round 17
+dephh killed xeppaa  in round 17
+Zellsis killed Sacy  in round 17
+Zellsis killed pANcada  in round 17
+dephh killed jakee  in round 17
+dephh killed Zellsis  in round 17
+runi killed dephh  in round 17
+Marved killed runi  in round 17
+Round 17 ended with spike_defuse. The winning team is Sentinels.
+The current score is Sentinels 6 - 11 Cloud9 Blue.
+pANcada killed xeppaa  in round 18
+Leaf killed zekken  in round 18
+pANcada killed runi  in round 18
+Zellsis killed Sacy  in round 18
+jakee killed Marved  in round 18
+dephh killed jakee  in round 18
+Leaf killed dephh  in round 18
+Zellsis killed pANcada  in round 18
+Round 18 ended with elimination. The winning team is Cloud9 Blue.
+The current score is Sentinels 6 - 12 Cloud9 Blue.
+xeppaa killed pANcada  in round 19
+zekken killed xeppaa  in round 19
+Sacy killed Zellsis  in round 19
+dephh killed jakee  in round 19
+Leaf killed Sacy  in round 19
+Leaf killed Marved  in round 19
+Leaf killed dephh  in round 19
+runi killed zekken  in round 19
+Round 19 ended with elimination. The winning team is Cloud9 Blue.
+The current score is Sentinels 6 - 13 Cloud9 Blue.
+Game ended with winning team: Cloud9 Blue at 2023-04-30T20:40:50Z
+Leaf killed Leaf  in round 20
+runi killed runi  in round 20
+
+--- Player Stats ---
+Leaf: Team=Cloud9 Blue, Kills=23, Deaths=10, Assists=1, KDA=2.4, First Kills=3, First Deaths=3
+xeppaa: Team=Cloud9 Blue, Kills=16, Deaths=13, Assists=4, KDA=1.54, First Kills=4, First Deaths=4
+runi: Team=Cloud9 Blue, Kills=12, Deaths=10, Assists=17, KDA=2.9, First Kills=1, First Deaths=1
+Zellsis: Team=Cloud9 Blue, Kills=15, Deaths=9, Assists=1, KDA=1.78, First Kills=0, First Deaths=3
+jakee: Team=Cloud9 Blue, Kills=16, Deaths=11, Assists=9, KDA=2.27, First Kills=2, First Deaths=0
+Marved: Team=Sentinels, Kills=12, Deaths=14, Assists=4, KDA=1.14, First Kills=3, First Deaths=2
+Sacy: Team=Sentinels, Kills=10, Deaths=17, Assists=6, KDA=0.94, First Kills=3, First Deaths=1
+dephh: Team=Sentinels, Kills=12, Deaths=17, Assists=5, KDA=1.0, First Kills=1, First Deaths=0
+zekken: Team=Sentinels, Kills=6, Deaths=15, Assists=3, KDA=0.6, First Kills=1, First Deaths=4
+pANcada: Team=Sentinels, Kills=11, Deaths=17, Assists=4, KDA=0.88, First Kills=2, First Deaths=2

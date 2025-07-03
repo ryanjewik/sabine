@@ -1,0 +1,216 @@
+Team 1: Sentinels
+Team 2: Cloud9 Blue
+Participating Players:
+Player 1: moose
+Player 2: vanity
+Player 3: Oxy
+Player 4: runi
+Player 5: xeppaa
+Player 6: TenZ
+Player 7: zekken
+Player 8: johnqt
+Player 9: Zellsis
+Player 10: Sacy
+Winning Team: Sentinels
+Score: Sentinels 13 - 8 Cloud9 Blue
+Tournament Name: vct americas stage 2 2024
+Game Start Time: 2024-07-02T00:13:05Z
+Game End Time: 2024-07-02T01:02:03Z
+Rounds ended by ELIMINATION count: 13
+Rounds ended by DEFUSE count: 5
+Rounds ended by DETONATE count: 2
+SPIKE PLANTED count: 7
+platformGameId: val:491ed6df-0472-41d1-836f-f44b18ed907f
+
+--- Events ---
+Game started at 2024-07-02T00:13:05Z
+runi killed Sacy  in round 1
+zekken killed runi  in round 1
+xeppaa killed zekken  in round 1
+xeppaa killed Zellsis  in round 1
+xeppaa killed TenZ  in round 1
+vanity killed johnqt  in round 1
+Round 1 ended with elimination. The winning team is Cloud9 Blue.
+The current score is Sentinels 0 - 1 Cloud9 Blue.
+xeppaa killed Zellsis  in round 2
+xeppaa killed Sacy  in round 2
+moose killed johnqt  in round 2
+zekken killed moose  in round 2
+zekken killed xeppaa  in round 2
+runi killed TenZ  in round 2
+zekken killed zekken  in round 2
+Round 2 ended with elimination. The winning team is Cloud9 Blue.
+The current score is Sentinels 0 - 2 Cloud9 Blue.
+zekken killed vanity  in round 3
+TenZ killed xeppaa  in round 3
+zekken killed Oxy  in round 3
+Round 3 ended with detonate. The winning team is Sentinels.
+The current score is Sentinels 1 - 2 Cloud9 Blue.
+runi killed runi  in round 4
+moose killed moose  in round 4
+xeppaa killed Sacy  in round 4
+Oxy killed zekken  in round 4
+vanity killed TenZ  in round 4
+johnqt killed vanity  in round 4
+johnqt killed Oxy  in round 4
+Zellsis killed runi  in round 4
+Zellsis killed xeppaa  in round 4
+moose killed Zellsis  in round 4
+moose killed johnqt  in round 4
+Round 4 ended with spike_defuse. The winning team is Cloud9 Blue.
+The current score is Sentinels 1 - 3 Cloud9 Blue.
+zekken killed vanity  in round 5
+zekken killed Oxy  in round 5
+Zellsis killed xeppaa  in round 5
+Zellsis killed runi  in round 5
+Zellsis killed moose  in round 5
+Round 5 ended with elimination. The winning team is Sentinels.
+The current score is Sentinels 2 - 3 Cloud9 Blue.
+Oxy killed zekken  in round 6
+TenZ killed Oxy  in round 6
+xeppaa killed johnqt  in round 6
+Zellsis killed vanity  in round 6
+TenZ killed moose  in round 6
+Zellsis killed xeppaa  in round 6
+Sacy killed runi  in round 6
+Round 6 ended with elimination. The winning team is Sentinels.
+The current score is Sentinels 3 - 3 Cloud9 Blue.
+TenZ killed Oxy  in round 7
+xeppaa killed TenZ  in round 7
+zekken killed runi  in round 7
+xeppaa killed Zellsis  in round 7
+vanity killed Sacy  in round 7
+vanity killed johnqt  in round 7
+zekken killed vanity  in round 7
+moose killed zekken  in round 7
+Round 7 ended with spike_defuse. The winning team is Cloud9 Blue.
+The current score is Sentinels 3 - 4 Cloud9 Blue.
+zekken killed moose  in round 8
+Round 8 ended with detonate. The winning team is Sentinels.
+The current score is Sentinels 4 - 4 Cloud9 Blue.
+zekken killed moose  in round 9
+runi killed zekken  in round 9
+TenZ killed Oxy  in round 9
+Sacy killed runi  in round 9
+vanity killed TenZ  in round 9
+Zellsis killed vanity  in round 9
+xeppaa killed Sacy  in round 9
+xeppaa killed Zellsis  in round 9
+johnqt killed xeppaa  in round 9
+Round 9 ended with elimination. The winning team is Sentinels.
+The current score is Sentinels 5 - 4 Cloud9 Blue.
+johnqt killed johnqt  in round 10
+zekken killed vanity  in round 10
+Oxy killed zekken  in round 10
+moose killed johnqt  in round 10
+TenZ killed moose  in round 10
+TenZ killed Oxy  in round 10
+Sacy killed xeppaa  in round 10
+runi killed TenZ  in round 10
+Sacy killed runi  in round 10
+Round 10 ended with elimination. The winning team is Sentinels.
+The current score is Sentinels 6 - 4 Cloud9 Blue.
+moose killed zekken  in round 11
+vanity killed johnqt  in round 11
+moose killed Zellsis  in round 11
+moose killed Sacy  in round 11
+runi killed TenZ  in round 11
+Round 11 ended with elimination. The winning team is Cloud9 Blue.
+The current score is Sentinels 6 - 5 Cloud9 Blue.
+vanity killed Zellsis  in round 12
+Oxy killed johnqt  in round 12
+vanity killed zekken  in round 12
+Sacy killed Oxy  in round 12
+TenZ killed runi  in round 12
+moose killed TenZ  in round 12
+xeppaa killed Sacy  in round 12
+Round 12 ended with spike_defuse. The winning team is Cloud9 Blue.
+The current score is Sentinels 6 - 6 Cloud9 Blue.
+moose killed zekken  in round 13
+Zellsis killed Oxy  in round 13
+vanity killed Zellsis  in round 13
+runi killed TenZ  in round 13
+vanity killed Sacy  in round 13
+vanity killed johnqt  in round 13
+Round 13 ended with elimination. The winning team is Cloud9 Blue.
+The current score is Sentinels 6 - 7 Cloud9 Blue.
+zekken killed Sacy  in round 14
+Oxy killed johnqt  in round 14
+xeppaa killed TenZ  in round 14
+xeppaa killed zekken  in round 14
+runi killed Zellsis  in round 14
+Round 14 ended with elimination. The winning team is Cloud9 Blue.
+The current score is Sentinels 6 - 8 Cloud9 Blue.
+zekken killed xeppaa  in round 15
+Zellsis killed Oxy  in round 15
+Zellsis killed moose  in round 15
+johnqt killed runi  in round 15
+vanity killed Zellsis  in round 15
+TenZ killed vanity  in round 15
+Round 15 ended with elimination. The winning team is Sentinels.
+The current score is Sentinels 7 - 8 Cloud9 Blue.
+xeppaa killed TenZ  in round 16
+zekken killed Oxy  in round 16
+xeppaa killed Sacy  in round 16
+zekken killed xeppaa  in round 16
+vanity killed zekken  in round 16
+Zellsis killed runi  in round 16
+johnqt killed vanity  in round 16
+johnqt killed moose  in round 16
+Round 16 ended with elimination. The winning team is Sentinels.
+The current score is Sentinels 8 - 8 Cloud9 Blue.
+Sacy killed Oxy  in round 17
+runi killed TenZ  in round 17
+Sacy killed xeppaa  in round 17
+runi killed Sacy  in round 17
+zekken killed runi  in round 17
+Zellsis killed vanity  in round 17
+johnqt killed moose  in round 17
+Round 17 ended with elimination. The winning team is Sentinels.
+The current score is Sentinels 9 - 8 Cloud9 Blue.
+vanity killed zekken  in round 18
+Zellsis killed Oxy  in round 18
+runi killed TenZ  in round 18
+vanity killed Zellsis  in round 18
+Sacy killed vanity  in round 18
+johnqt killed xeppaa  in round 18
+johnqt killed runi  in round 18
+Sacy killed moose  in round 18
+Round 18 ended with spike_defuse. The winning team is Sentinels.
+The current score is Sentinels 10 - 8 Cloud9 Blue.
+zekken killed runi  in round 19
+xeppaa killed zekken  in round 19
+Sacy killed Oxy  in round 19
+moose killed Sacy  in round 19
+TenZ killed vanity  in round 19
+TenZ killed moose  in round 19
+Round 19 ended with time_expired. The winning team is Sentinels.
+The current score is Sentinels 11 - 8 Cloud9 Blue.
+Oxy killed TenZ  in round 20
+Zellsis killed moose  in round 20
+zekken killed Oxy  in round 20
+johnqt killed runi  in round 20
+Zellsis killed xeppaa  in round 20
+Zellsis killed vanity  in round 20
+Round 20 ended with spike_defuse. The winning team is Sentinels.
+The current score is Sentinels 12 - 8 Cloud9 Blue.
+zekken killed vanity  in round 21
+johnqt killed moose  in round 21
+zekken killed xeppaa  in round 21
+Zellsis killed Oxy  in round 21
+zekken killed runi  in round 21
+Round 21 ended with elimination. The winning team is Sentinels.
+The current score is Sentinels 13 - 8 Cloud9 Blue.
+Game ended with winning team: Sentinels at 2024-07-02T01:02:03Z
+
+--- Player Stats ---
+moose: Team=Cloud9 Blue, Kills=12, Deaths=14, Assists=3, KDA=1.07, First Kills=2, First Deaths=2
+vanity: Team=Cloud9 Blue, Kills=15, Deaths=14, Assists=6, KDA=1.5, First Kills=2, First Deaths=3
+Oxy: Team=Cloud9 Blue, Kills=6, Deaths=16, Assists=5, KDA=0.69, First Kills=2, First Deaths=2
+runi: Team=Cloud9 Blue, Kills=11, Deaths=16, Assists=5, KDA=1.0, First Kills=2, First Deaths=2
+xeppaa: Team=Cloud9 Blue, Kills=17, Deaths=13, Assists=8, KDA=1.92, First Kills=2, First Deaths=1
+TenZ: Team=Sentinels, Kills=11, Deaths=14, Assists=9, KDA=1.43, First Kills=1, First Deaths=2
+zekken: Team=Sentinels, Kills=23, Deaths=14, Assists=3, KDA=1.86, First Kills=8, First Deaths=4
+johnqt: Team=Sentinels, Kills=12, Deaths=11, Assists=3, KDA=1.36, First Kills=1, First Deaths=1
+Zellsis: Team=Sentinels, Kills=18, Deaths=11, Assists=4, KDA=2.0, First Kills=0, First Deaths=2
+Sacy: Team=Sentinels, Kills=10, Deaths=12, Assists=10, KDA=1.67, First Kills=1, First Deaths=2

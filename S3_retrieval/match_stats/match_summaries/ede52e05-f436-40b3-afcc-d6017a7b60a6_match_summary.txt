@@ -1,0 +1,231 @@
+Team 1: G2 Esports
+Team 2: 100 Thieves
+Participating Players:
+Player 1: eeiu
+Player 2: bangNA
+Player 3: Boostio
+Player 4: Cryo
+Player 5: Asuna
+Player 6: icy
+Player 7: Leaf
+Player 8: valyn
+Player 9: trent
+Player 10: JonahP
+Winning Team: 100 Thieves
+Score: G2 Esports 8 - 13 100 Thieves
+Tournament Name: vct americas stage 1 2024
+Game Start Time: 2024-05-12T23:01:48Z
+Game End Time: 2024-05-12T23:44:28Z
+Rounds ended by ELIMINATION count: 16
+Rounds ended by DEFUSE count: 4
+Rounds ended by DETONATE count: 1
+SPIKE PLANTED count: 5
+platformGameId: val:ede52e05-f436-40b3-afcc-d6017a7b60a6
+
+--- Events ---
+Game started at 2024-05-12T23:01:48Z
+Asuna killed Leaf  in round 1
+icy killed Asuna  in round 1
+eeiu killed JonahP  in round 1
+valyn killed eeiu  in round 1
+bangNA killed trent  in round 1
+icy killed Boostio  in round 1
+icy killed bangNA  in round 1
+valyn killed Cryo  in round 1
+Round 1 ended with elimination. The winning team is G2 Esports.
+The current score is G2 Esports 1 - 0 100 Thieves.
+Boostio killed Leaf  in round 2
+Asuna killed icy  in round 2
+Boostio killed valyn  in round 2
+JonahP killed eeiu  in round 2
+bangNA killed JonahP  in round 2
+Boostio killed trent  in round 2
+Round 2 ended with elimination. The winning team is 100 Thieves.
+The current score is G2 Esports 1 - 1 100 Thieves.
+Boostio killed Leaf  in round 3
+Boostio killed trent  in round 3
+icy killed Boostio  in round 3
+Cryo killed icy  in round 3
+eeiu killed valyn  in round 3
+JonahP killed Asuna  in round 3
+Cryo killed JonahP  in round 3
+Round 3 ended with elimination. The winning team is 100 Thieves.
+The current score is G2 Esports 1 - 2 100 Thieves.
+Cryo killed JonahP  in round 4
+valyn killed Asuna  in round 4
+trent killed eeiu  in round 4
+Leaf killed Boostio  in round 4
+bangNA killed Leaf  in round 4
+Cryo killed icy  in round 4
+trent killed Cryo  in round 4
+trent killed bangNA  in round 4
+Round 4 ended with elimination. The winning team is G2 Esports.
+The current score is G2 Esports 2 - 2 100 Thieves.
+icy killed Asuna  in round 5
+valyn killed eeiu  in round 5
+Leaf killed Boostio  in round 5
+Cryo killed Leaf  in round 5
+bangNA killed valyn  in round 5
+trent killed bangNA  in round 5
+icy killed Cryo  in round 5
+Round 5 ended with elimination. The winning team is G2 Esports.
+The current score is G2 Esports 3 - 2 100 Thieves.
+Asuna killed trent  in round 6
+Leaf killed Asuna  in round 6
+bangNA killed JonahP  in round 6
+bangNA killed Leaf  in round 6
+bangNA killed icy  in round 6
+Boostio killed valyn  in round 6
+Round 6 ended with elimination. The winning team is 100 Thieves.
+The current score is G2 Esports 3 - 3 100 Thieves.
+trent killed Asuna  in round 7
+Asuna killed icy  in round 7
+Asuna killed trent  in round 7
+Leaf killed bangNA  in round 7
+Cryo killed JonahP  in round 7
+Leaf killed eeiu  in round 7
+Cryo killed Leaf  in round 7
+valyn killed Cryo  in round 7
+Boostio killed valyn  in round 7
+Round 7 ended with elimination. The winning team is 100 Thieves.
+The current score is G2 Esports 3 - 4 100 Thieves.
+valyn killed Asuna  in round 8
+eeiu killed valyn  in round 8
+icy killed eeiu  in round 8
+bangNA killed JonahP  in round 8
+icy killed bangNA  in round 8
+Cryo killed trent  in round 8
+Cryo killed Leaf  in round 8
+icy killed Cryo  in round 8
+Boostio killed icy  in round 8
+Round 8 ended with spike_defuse. The winning team is 100 Thieves.
+The current score is G2 Esports 3 - 5 100 Thieves.
+valyn killed eeiu  in round 9
+trent killed Boostio  in round 9
+valyn killed Cryo  in round 9
+Round 9 ended with detonate. The winning team is G2 Esports.
+The current score is G2 Esports 4 - 5 100 Thieves.
+bangNA killed valyn  in round 10
+Leaf killed bangNA  in round 10
+Asuna killed Leaf  in round 10
+icy killed Boostio  in round 10
+Asuna killed trent  in round 10
+Cryo killed icy  in round 10
+JonahP killed Cryo  in round 10
+Asuna killed JonahP  in round 10
+Round 10 ended with spike_defuse. The winning team is 100 Thieves.
+The current score is G2 Esports 4 - 6 100 Thieves.
+Asuna killed icy  in round 11
+eeiu killed valyn  in round 11
+trent killed eeiu  in round 11
+Asuna killed JonahP  in round 11
+Asuna killed Leaf  in round 11
+Asuna killed trent  in round 11
+Round 11 ended with elimination. The winning team is 100 Thieves.
+The current score is G2 Esports 4 - 7 100 Thieves.
+bangNA killed trent  in round 12
+bangNA killed JonahP  in round 12
+Asuna killed valyn  in round 12
+icy killed Asuna  in round 12
+bangNA killed icy  in round 12
+Boostio killed Leaf  in round 12
+Round 12 ended with elimination. The winning team is 100 Thieves.
+The current score is G2 Esports 4 - 8 100 Thieves.
+Asuna killed Leaf  in round 13
+Asuna killed icy  in round 13
+trent killed Asuna  in round 13
+Cryo killed JonahP  in round 13
+valyn killed Cryo  in round 13
+Boostio killed trent  in round 13
+eeiu killed valyn  in round 13
+Round 13 ended with elimination. The winning team is 100 Thieves.
+The current score is G2 Esports 4 - 9 100 Thieves.
+Cryo killed valyn  in round 14
+bangNA killed Leaf  in round 14
+Cryo killed trent  in round 14
+JonahP killed Cryo  in round 14
+icy killed Boostio  in round 14
+bangNA killed icy  in round 14
+eeiu killed JonahP  in round 14
+Round 14 ended with elimination. The winning team is 100 Thieves.
+The current score is G2 Esports 4 - 10 100 Thieves.
+JonahP killed Boostio  in round 15
+trent killed bangNA  in round 15
+Cryo killed trent  in round 15
+Cryo killed icy  in round 15
+JonahP killed Cryo  in round 15
+Asuna killed Leaf  in round 15
+eeiu killed JonahP  in round 15
+Asuna killed valyn  in round 15
+Round 15 ended with elimination. The winning team is 100 Thieves.
+The current score is G2 Esports 4 - 11 100 Thieves.
+Boostio killed Leaf  in round 16
+Asuna killed valyn  in round 16
+JonahP killed eeiu  in round 16
+Asuna killed JonahP  in round 16
+icy killed Asuna  in round 16
+icy killed bangNA  in round 16
+Boostio killed trent  in round 16
+Boostio killed icy  in round 16
+Round 16 ended with elimination. The winning team is 100 Thieves.
+The current score is G2 Esports 4 - 12 100 Thieves.
+valyn killed Asuna  in round 17
+valyn killed Boostio  in round 17
+Cryo killed valyn  in round 17
+bangNA killed JonahP  in round 17
+icy killed Cryo  in round 17
+eeiu killed trent  in round 17
+Leaf killed eeiu  in round 17
+icy killed bangNA  in round 17
+Round 17 ended with spike_defuse. The winning team is G2 Esports.
+The current score is G2 Esports 5 - 12 100 Thieves.
+Leaf killed eeiu  in round 18
+Leaf killed Asuna  in round 18
+bangNA killed valyn  in round 18
+bangNA killed icy  in round 18
+JonahP killed bangNA  in round 18
+Cryo killed JonahP  in round 18
+Leaf killed Cryo  in round 18
+Leaf killed Boostio  in round 18
+Round 18 ended with spike_defuse. The winning team is G2 Esports.
+The current score is G2 Esports 6 - 12 100 Thieves.
+trent killed Boostio  in round 19
+trent killed bangNA  in round 19
+Cryo killed Leaf  in round 19
+JonahP killed Asuna  in round 19
+JonahP killed Cryo  in round 19
+valyn killed eeiu  in round 19
+Round 19 ended with elimination. The winning team is G2 Esports.
+The current score is G2 Esports 7 - 12 100 Thieves.
+Leaf killed Asuna  in round 20
+Boostio killed JonahP  in round 20
+Leaf killed Cryo  in round 20
+trent killed bangNA  in round 20
+trent killed eeiu  in round 20
+Boostio killed trent  in round 20
+icy killed Boostio  in round 20
+Round 20 ended with elimination. The winning team is G2 Esports.
+The current score is G2 Esports 8 - 12 100 Thieves.
+Boostio killed icy  in round 21
+valyn killed Boostio  in round 21
+Leaf killed eeiu  in round 21
+Cryo killed Leaf  in round 21
+bangNA killed JonahP  in round 21
+valyn killed Cryo  in round 21
+Asuna killed trent  in round 21
+Asuna killed valyn  in round 21
+Round 21 ended with elimination. The winning team is 100 Thieves.
+The current score is G2 Esports 8 - 13 100 Thieves.
+Game ended with winning team: 100 Thieves at 2024-05-12T23:44:28Z
+
+--- Player Stats ---
+eeiu: Team=100 Thieves, Kills=8, Deaths=14, Assists=4, KDA=0.86, First Kills=0, First Deaths=2
+bangNA: Team=100 Thieves, Kills=18, Deaths=12, Assists=8, KDA=2.17, First Kills=2, First Deaths=0
+Boostio: Team=100 Thieves, Kills=16, Deaths=13, Assists=3, KDA=1.46, First Kills=4, First Deaths=2
+Cryo: Team=100 Thieves, Kills=19, Deaths=15, Assists=4, KDA=1.53, First Kills=2, First Deaths=0
+Asuna: Team=100 Thieves, Kills=21, Deaths=14, Assists=5, KDA=1.86, First Kills=4, First Deaths=5
+icy: Team=G2 Esports, Kills=17, Deaths=15, Assists=5, KDA=1.47, First Kills=1, First Deaths=2
+Leaf: Team=G2 Esports, Kills=14, Deaths=17, Assists=2, KDA=0.94, First Kills=2, First Deaths=5
+valyn: Team=G2 Esports, Kills=14, Deaths=16, Assists=7, KDA=1.31, First Kills=3, First Deaths=2
+trent: Team=G2 Esports, Kills=13, Deaths=16, Assists=7, KDA=1.25, First Kills=2, First Deaths=2
+JonahP: Team=G2 Esports, Kills=10, Deaths=18, Assists=11, KDA=1.17, First Kills=1, First Deaths=1

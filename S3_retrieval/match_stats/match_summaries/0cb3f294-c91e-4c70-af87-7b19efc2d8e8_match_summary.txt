@@ -1,0 +1,190 @@
+Team 1: FNATIC
+Team 2: KOI
+Participating Players:
+Player 1: Trexx
+Player 2: starxo
+Player 3: koldamenta
+Player 4: Sheydos
+Player 5: Wolfen
+Player 6: Chronicle
+Player 7: Derke
+Player 8: Boaster
+Player 9: Alfajer
+Player 10: Leo 
+Winning Team: FNATIC
+Score: FNATIC 13 - 4 KOI
+Tournament Name: vct emea 2023
+Game Start Time: 2023-05-10T15:45:58Z
+Game End Time: 2023-05-10T17:06:48Z
+Rounds ended by ELIMINATION count: 12
+Rounds ended by DEFUSE count: 3
+Rounds ended by DETONATE count: 1
+SPIKE PLANTED count: 4
+platformGameId: val:0cb3f294-c91e-4c70-af87-7b19efc2d8e8
+
+--- Events ---
+Game started at 2023-05-10T15:45:58Z
+Chronicle killed Trexx  in round 1
+Leo  killed Wolfen  in round 1
+Leo  killed starxo  in round 1
+Sheydos killed Derke  in round 1
+Chronicle killed Sheydos  in round 1
+Leo  killed koldamenta  in round 1
+Round 1 ended with elimination. The winning team is FNATIC.
+The current score is FNATIC 1 - 0 KOI.
+Derke killed Wolfen  in round 2
+Chronicle killed Trexx  in round 2
+Alfajer killed starxo  in round 2
+Chronicle killed Sheydos  in round 2
+Chronicle killed koldamenta  in round 2
+Round 2 ended with elimination. The winning team is FNATIC.
+The current score is FNATIC 2 - 0 KOI.
+Chronicle killed starxo  in round 3
+koldamenta killed Boaster  in round 3
+Derke killed koldamenta  in round 3
+Derke killed Wolfen  in round 3
+Alfajer killed Trexx  in round 3
+Sheydos killed Chronicle  in round 3
+Leo  killed Sheydos  in round 3
+Round 3 ended with elimination. The winning team is FNATIC.
+The current score is FNATIC 3 - 0 KOI.
+Chronicle killed Trexx  in round 4
+Chronicle killed starxo  in round 4
+Sheydos killed Chronicle  in round 4
+Derke killed koldamenta  in round 4
+Leo  killed Wolfen  in round 4
+Derke killed Sheydos  in round 4
+Round 4 ended with elimination. The winning team is FNATIC.
+The current score is FNATIC 4 - 0 KOI.
+starxo killed Chronicle  in round 5
+Alfajer killed starxo  in round 5
+Sheydos killed Derke  in round 5
+Alfajer killed Wolfen  in round 5
+Alfajer killed koldamenta  in round 5
+Trexx killed Leo   in round 5
+Trexx killed Boaster  in round 5
+Round 5 ended with time_expired. The winning team is KOI.
+The current score is FNATIC 4 - 1 KOI.
+Chronicle killed starxo  in round 6
+Wolfen killed Chronicle  in round 6
+koldamenta killed Boaster  in round 6
+Derke killed Sheydos  in round 6
+Wolfen killed Derke  in round 6
+Trexx killed Leo   in round 6
+Alfajer killed Trexx  in round 6
+Wolfen killed Alfajer  in round 6
+Round 6 ended with spike_defuse. The winning team is KOI.
+The current score is FNATIC 4 - 2 KOI.
+Trexx killed Derke  in round 7
+Alfajer killed koldamenta  in round 7
+Alfajer killed Trexx  in round 7
+Boaster killed Wolfen  in round 7
+Alfajer killed Sheydos  in round 7
+Boaster killed starxo  in round 7
+Round 7 ended with elimination. The winning team is FNATIC.
+The current score is FNATIC 5 - 2 KOI.
+Wolfen killed Derke  in round 8
+Leo  killed Trexx  in round 8
+Chronicle killed Wolfen  in round 8
+Sheydos killed Chronicle  in round 8
+Boaster killed koldamenta  in round 8
+starxo killed Alfajer  in round 8
+Sheydos killed Boaster  in round 8
+Leo  killed starxo  in round 8
+Leo  killed Sheydos  in round 8
+Round 8 ended with elimination. The winning team is FNATIC.
+The current score is FNATIC 6 - 2 KOI.
+Derke killed Sheydos  in round 9
+Chronicle killed koldamenta  in round 9
+Wolfen killed Chronicle  in round 9
+Derke killed Trexx  in round 9
+Derke killed starxo  in round 9
+Wolfen killed Derke  in round 9
+Leo  killed Wolfen  in round 9
+Round 9 ended with elimination. The winning team is FNATIC.
+The current score is FNATIC 7 - 2 KOI.
+Chronicle killed starxo  in round 10
+Sheydos killed Chronicle  in round 10
+koldamenta killed Derke  in round 10
+Alfajer killed Sheydos  in round 10
+Boaster killed koldamenta  in round 10
+Trexx killed Boaster  in round 10
+Alfajer killed Wolfen  in round 10
+Leo  killed Trexx  in round 10
+Round 10 ended with elimination. The winning team is FNATIC.
+The current score is FNATIC 8 - 2 KOI.
+Derke killed koldamenta  in round 11
+Derke killed Wolfen  in round 11
+Chronicle killed Sheydos  in round 11
+starxo killed Chronicle  in round 11
+Trexx killed Derke  in round 11
+Round 11 ended with detonate. The winning team is FNATIC.
+The current score is FNATIC 9 - 2 KOI.
+Derke killed Wolfen  in round 12
+Alfajer killed koldamenta  in round 12
+Alfajer killed Sheydos  in round 12
+Trexx killed Derke  in round 12
+starxo killed Alfajer  in round 12
+Boaster killed Trexx  in round 12
+starxo killed Chronicle  in round 12
+Leo  killed starxo  in round 12
+Round 12 ended with elimination. The winning team is FNATIC.
+The current score is FNATIC 10 - 2 KOI.
+Chronicle killed koldamenta  in round 13
+Boaster killed starxo  in round 13
+Wolfen killed Derke  in round 13
+Trexx killed Boaster  in round 13
+Sheydos killed Chronicle  in round 13
+Leo  killed Sheydos  in round 13
+Trexx killed Leo   in round 13
+Wolfen killed Alfajer  in round 13
+Round 13 ended with elimination. The winning team is KOI.
+The current score is FNATIC 10 - 3 KOI.
+Chronicle killed starxo  in round 14
+Wolfen killed Alfajer  in round 14
+Sheydos killed Derke  in round 14
+Trexx killed Leo   in round 14
+Trexx killed Boaster  in round 14
+Wolfen killed Chronicle  in round 14
+Round 14 ended with elimination. The winning team is KOI.
+The current score is FNATIC 10 - 4 KOI.
+Alfajer killed starxo  in round 15
+Boaster killed koldamenta  in round 15
+Sheydos killed Derke  in round 15
+Leo  killed Sheydos  in round 15
+Trexx killed Boaster  in round 15
+Wolfen killed Chronicle  in round 15
+Wolfen killed Leo   in round 15
+Alfajer killed Wolfen  in round 15
+Alfajer killed Trexx  in round 15
+Round 15 ended with spike_defuse. The winning team is FNATIC.
+The current score is FNATIC 11 - 4 KOI.
+Derke killed koldamenta  in round 16
+Alfajer killed starxo  in round 16
+Alfajer killed Wolfen  in round 16
+Alfajer killed Trexx  in round 16
+Alfajer killed Sheydos  in round 16
+Round 16 ended with elimination. The winning team is FNATIC.
+The current score is FNATIC 12 - 4 KOI.
+starxo killed Leo   in round 17
+Boaster killed starxo  in round 17
+Chronicle killed Wolfen  in round 17
+Derke killed Trexx  in round 17
+Chronicle killed koldamenta  in round 17
+Sheydos killed Boaster  in round 17
+Derke killed Sheydos  in round 17
+Round 17 ended with spike_defuse. The winning team is FNATIC.
+The current score is FNATIC 13 - 4 KOI.
+Game ended with winning team: FNATIC at 2023-05-10T17:06:48Z
+
+--- Player Stats ---
+Trexx: Team=KOI, Kills=12, Deaths=13, Assists=9, KDA=1.62, First Kills=1, First Deaths=2
+starxo: Team=KOI, Kills=6, Deaths=16, Assists=6, KDA=0.75, First Kills=2, First Deaths=5
+koldamenta: Team=KOI, Kills=3, Deaths=15, Assists=2, KDA=0.33, First Kills=0, First Deaths=3
+Sheydos: Team=KOI, Kills=11, Deaths=15, Assists=7, KDA=1.2, First Kills=0, First Deaths=1
+Wolfen: Team=KOI, Kills=12, Deaths=14, Assists=1, KDA=0.93, First Kills=1, First Deaths=2
+Chronicle: Team=FNATIC, Kills=17, Deaths=12, Assists=7, KDA=2.0, First Kills=7, First Deaths=1
+Derke: Team=FNATIC, Kills=15, Deaths=12, Assists=4, KDA=1.58, First Kills=5, First Deaths=2
+Boaster: Team=FNATIC, Kills=8, Deaths=9, Assists=8, KDA=1.78, First Kills=0, First Deaths=0
+Alfajer: Team=FNATIC, Kills=20, Deaths=5, Assists=3, KDA=4.6, First Kills=1, First Deaths=0
+Leo : Team=FNATIC, Kills=13, Deaths=6, Assists=6, KDA=3.17, First Kills=0, First Deaths=1

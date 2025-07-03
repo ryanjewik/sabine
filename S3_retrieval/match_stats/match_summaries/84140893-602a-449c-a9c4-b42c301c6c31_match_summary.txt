@@ -1,0 +1,284 @@
+Team 1: LOUD
+Team 2: Gen.G Esports
+Participating Players:
+Player 1: SecretKR
+Player 2: Meteor 
+Player 3: TS
+Player 4: eKo
+Player 5: k1NgKR
+Player 6: aspas
+Player 7: cauanzin
+Player 8: Saadhak
+Player 9: Less
+Player 10: tuyz
+Winning Team: LOUD
+Score: LOUD 14 - 12 Gen.G Esports
+Tournament Name: lock in brazil 2023
+Game Start Time: 2023-02-15T23:17:43Z
+Game End Time: 2023-02-16T00:18:28Z
+Rounds ended by ELIMINATION count: 19
+Rounds ended by DEFUSE count: 5
+Rounds ended by DETONATE count: 2
+SPIKE PLANTED count: 7
+platformGameId: val:84140893-602a-449c-a9c4-b42c301c6c31
+
+--- Events ---
+Game started at 2023-02-15T23:17:43Z
+Saadhak killed SecretKR  in round 1
+eKo killed Saadhak  in round 1
+TS killed aspas  in round 1
+cauanzin killed TS  in round 1
+Meteor  killed tuyz  in round 1
+Less killed k1NgKR  in round 1
+Meteor  killed Less  in round 1
+eKo killed cauanzin  in round 1
+Round 1 ended with elimination. The winning team is Gen.G Esports.
+The current score is LOUD 0 - 1 Gen.G Esports.
+aspas killed eKo  in round 2
+TS killed aspas  in round 2
+k1NgKR killed tuyz  in round 2
+Meteor  killed cauanzin  in round 2
+Saadhak killed Meteor   in round 2
+Less killed k1NgKR  in round 2
+Round 2 ended with spike_defuse. The winning team is Gen.G Esports.
+The current score is LOUD 0 - 2 Gen.G Esports.
+TS killed Saadhak  in round 3
+TS killed Less  in round 3
+eKo killed Less  in round 3
+Saadhak killed eKo  in round 3
+TS killed cauanzin  in round 3
+TS killed Saadhak  in round 3
+tuyz killed TS  in round 3
+k1NgKR killed aspas  in round 3
+k1NgKR killed tuyz  in round 3
+Round 3 ended with elimination. The winning team is Gen.G Esports.
+The current score is LOUD 0 - 3 Gen.G Esports.
+k1NgKR killed Less  in round 4
+Saadhak killed Meteor   in round 4
+aspas killed k1NgKR  in round 4
+SecretKR killed Saadhak  in round 4
+SecretKR killed aspas  in round 4
+tuyz killed eKo  in round 4
+TS killed tuyz  in round 4
+cauanzin killed SecretKR  in round 4
+cauanzin killed TS  in round 4
+Round 4 ended with elimination. The winning team is LOUD.
+The current score is LOUD 1 - 3 Gen.G Esports.
+Less killed SecretKR  in round 5
+aspas killed TS  in round 5
+eKo killed aspas  in round 5
+Meteor  killed Less  in round 5
+Saadhak killed Meteor   in round 5
+Saadhak killed k1NgKR  in round 5
+Round 5 ended with detonate. The winning team is LOUD.
+The current score is LOUD 2 - 3 Gen.G Esports.
+aspas killed SecretKR  in round 6
+k1NgKR killed cauanzin  in round 6
+aspas killed k1NgKR  in round 6
+tuyz killed eKo  in round 6
+Meteor  killed tuyz  in round 6
+Meteor  killed aspas  in round 6
+Less killed Meteor   in round 6
+Round 6 ended with detonate. The winning team is LOUD.
+The current score is LOUD 3 - 3 Gen.G Esports.
+aspas killed Meteor   in round 7
+SecretKR killed aspas  in round 7
+tuyz killed SecretKR  in round 7
+TS killed tuyz  in round 7
+Less killed TS  in round 7
+k1NgKR killed cauanzin  in round 7
+Less killed k1NgKR  in round 7
+Less killed eKo  in round 7
+Round 7 ended with elimination. The winning team is LOUD.
+The current score is LOUD 4 - 3 Gen.G Esports.
+aspas killed Meteor   in round 8
+TS killed aspas  in round 8
+cauanzin killed TS  in round 8
+Saadhak killed SecretKR  in round 8
+k1NgKR killed Saadhak  in round 8
+k1NgKR killed Less  in round 8
+tuyz killed eKo  in round 8
+cauanzin killed k1NgKR  in round 8
+Round 8 ended with elimination. The winning team is LOUD.
+The current score is LOUD 5 - 3 Gen.G Esports.
+eKo killed Saadhak  in round 9
+tuyz killed Meteor   in round 9
+aspas killed TS  in round 9
+Less killed eKo  in round 9
+tuyz killed SecretKR  in round 9
+k1NgKR killed tuyz  in round 9
+cauanzin killed k1NgKR  in round 9
+Round 9 ended with elimination. The winning team is LOUD.
+The current score is LOUD 6 - 3 Gen.G Esports.
+k1NgKR killed Saadhak  in round 10
+cauanzin killed k1NgKR  in round 10
+SecretKR killed cauanzin  in round 10
+SecretKR killed tuyz  in round 10
+Less killed SecretKR  in round 10
+Less killed eKo  in round 10
+TS killed Less  in round 10
+aspas killed TS  in round 10
+aspas killed Meteor   in round 10
+Round 10 ended with elimination. The winning team is LOUD.
+The current score is LOUD 7 - 3 Gen.G Esports.
+Saadhak killed TS  in round 11
+tuyz killed eKo  in round 11
+SecretKR killed Saadhak  in round 11
+tuyz killed k1NgKR  in round 11
+tuyz killed Meteor   in round 11
+aspas killed SecretKR  in round 11
+Round 11 ended with elimination. The winning team is LOUD.
+The current score is LOUD 8 - 3 Gen.G Esports.
+Saadhak killed SecretKR  in round 12
+TS killed Saadhak  in round 12
+Meteor  killed cauanzin  in round 12
+TS killed aspas  in round 12
+eKo killed Less  in round 12
+TS killed tuyz  in round 12
+Round 12 ended with spike_defuse. The winning team is Gen.G Esports.
+The current score is LOUD 8 - 4 Gen.G Esports.
+eKo killed aspas  in round 13
+Meteor  killed Saadhak  in round 13
+cauanzin killed k1NgKR  in round 13
+TS killed cauanzin  in round 13
+tuyz killed Meteor   in round 13
+tuyz killed TS  in round 13
+eKo killed tuyz  in round 13
+eKo killed Less  in round 13
+Round 13 ended with elimination. The winning team is Gen.G Esports.
+The current score is LOUD 8 - 5 Gen.G Esports.
+Meteor  killed cauanzin  in round 14
+SecretKR killed tuyz  in round 14
+Saadhak killed eKo  in round 14
+SecretKR killed Saadhak  in round 14
+k1NgKR killed aspas  in round 14
+TS killed Less  in round 14
+Round 14 ended with elimination. The winning team is Gen.G Esports.
+The current score is LOUD 8 - 6 Gen.G Esports.
+cauanzin killed eKo  in round 15
+Meteor  killed cauanzin  in round 15
+Saadhak killed TS  in round 15
+Meteor  killed Saadhak  in round 15
+Less killed k1NgKR  in round 15
+Meteor  killed tuyz  in round 15
+Less killed Meteor   in round 15
+aspas killed SecretKR  in round 15
+Round 15 ended with spike_defuse. The winning team is LOUD.
+The current score is LOUD 9 - 6 Gen.G Esports.
+k1NgKR killed Saadhak  in round 16
+cauanzin killed k1NgKR  in round 16
+TS killed cauanzin  in round 16
+tuyz killed SecretKR  in round 16
+Less killed eKo  in round 16
+Meteor  killed Less  in round 16
+TS killed tuyz  in round 16
+Meteor  killed aspas  in round 16
+Round 16 ended with elimination. The winning team is Gen.G Esports.
+The current score is LOUD 9 - 7 Gen.G Esports.
+Saadhak killed Meteor   in round 17
+eKo killed aspas  in round 17
+tuyz killed eKo  in round 17
+SecretKR killed tuyz  in round 17
+k1NgKR killed cauanzin  in round 17
+Saadhak killed SecretKR  in round 17
+TS killed Saadhak  in round 17
+TS killed Less  in round 17
+Round 17 ended with elimination. The winning team is Gen.G Esports.
+The current score is LOUD 9 - 8 Gen.G Esports.
+Meteor  killed aspas  in round 18
+Meteor  killed Less  in round 18
+TS killed Saadhak  in round 18
+TS killed cauanzin  in round 18
+tuyz killed Meteor   in round 18
+TS killed tuyz  in round 18
+Round 18 ended with elimination. The winning team is Gen.G Esports.
+The current score is LOUD 9 - 9 Gen.G Esports.
+Saadhak killed eKo  in round 19
+tuyz killed SecretKR  in round 19
+Meteor  killed tuyz  in round 19
+Meteor  killed Saadhak  in round 19
+k1NgKR killed aspas  in round 19
+k1NgKR killed cauanzin  in round 19
+k1NgKR killed Less  in round 19
+Round 19 ended with elimination. The winning team is Gen.G Esports.
+The current score is LOUD 9 - 10 Gen.G Esports.
+Meteor  killed aspas  in round 20
+tuyz killed SecretKR  in round 20
+Saadhak killed k1NgKR  in round 20
+Saadhak killed TS  in round 20
+Saadhak killed Meteor   in round 20
+eKo killed Saadhak  in round 20
+tuyz killed eKo  in round 20
+Round 20 ended with spike_defuse. The winning team is LOUD.
+The current score is LOUD 10 - 10 Gen.G Esports.
+TS killed Saadhak  in round 21
+cauanzin killed eKo  in round 21
+Meteor  killed cauanzin  in round 21
+Less killed Meteor   in round 21
+aspas killed SecretKR  in round 21
+k1NgKR killed Less  in round 21
+aspas killed TS  in round 21
+k1NgKR killed aspas  in round 21
+k1NgKR killed tuyz  in round 21
+Round 21 ended with elimination. The winning team is Gen.G Esports.
+The current score is LOUD 10 - 11 Gen.G Esports.
+TS killed cauanzin  in round 22
+Less killed TS  in round 22
+Meteor  killed Saadhak  in round 22
+eKo killed aspas  in round 22
+SecretKR killed Less  in round 22
+SecretKR killed tuyz  in round 22
+Round 22 ended with elimination. The winning team is Gen.G Esports.
+The current score is LOUD 10 - 12 Gen.G Esports.
+TS killed Saadhak  in round 23
+cauanzin killed TS  in round 23
+aspas killed Meteor   in round 23
+tuyz killed SecretKR  in round 23
+k1NgKR killed tuyz  in round 23
+k1NgKR killed cauanzin  in round 23
+aspas killed eKo  in round 23
+aspas killed k1NgKR  in round 23
+Round 23 ended with elimination. The winning team is LOUD.
+The current score is LOUD 11 - 12 Gen.G Esports.
+Less killed eKo  in round 24
+Saadhak killed TS  in round 24
+cauanzin killed k1NgKR  in round 24
+cauanzin killed SecretKR  in round 24
+Meteor  killed Saadhak  in round 24
+Less killed Meteor   in round 24
+Round 24 ended with elimination. The winning team is LOUD.
+The current score is LOUD 12 - 12 Gen.G Esports.
+Less killed eKo  in round 25
+tuyz killed TS  in round 25
+k1NgKR killed tuyz  in round 25
+Meteor  killed Less  in round 25
+k1NgKR killed Saadhak  in round 25
+cauanzin killed Meteor   in round 25
+aspas killed k1NgKR  in round 25
+aspas killed SecretKR  in round 25
+Round 25 ended with elimination. The winning team is LOUD.
+The current score is LOUD 13 - 12 Gen.G Esports.
+Less killed eKo  in round 26
+Meteor  killed Less  in round 26
+TS killed Saadhak  in round 26
+tuyz killed Meteor   in round 26
+tuyz killed k1NgKR  in round 26
+SecretKR killed tuyz  in round 26
+cauanzin killed SecretKR  in round 26
+aspas killed TS  in round 26
+TS killed aspas  in round 26
+Round 26 ended with spike_defuse. The winning team is LOUD.
+The current score is LOUD 14 - 12 Gen.G Esports.
+Game ended with winning team: LOUD at 2023-02-16T00:18:28Z
+
+--- Player Stats ---
+SecretKR: Team=Gen.G Esports, Kills=12, Deaths=20, Assists=15, KDA=1.35, First Kills=0, First Deaths=4
+Meteor : Team=Gen.G Esports, Kills=24, Deaths=19, Assists=7, KDA=1.63, First Kills=3, First Deaths=3
+TS: Team=Gen.G Esports, Kills=27, Deaths=18, Assists=12, KDA=2.17, First Kills=4, First Deaths=1
+eKo: Team=Gen.G Esports, Kills=12, Deaths=20, Assists=7, KDA=0.95, First Kills=2, First Deaths=6
+k1NgKR: Team=Gen.G Esports, Kills=23, Deaths=18, Assists=14, KDA=2.06, First Kills=3, First Deaths=0
+aspas: Team=LOUD, Kills=20, Deaths=19, Assists=5, KDA=1.32, First Kills=4, First Deaths=3
+cauanzin: Team=LOUD, Kills=16, Deaths=17, Assists=15, KDA=1.82, First Kills=1, First Deaths=2
+Saadhak: Team=LOUD, Kills=18, Deaths=23, Assists=7, KDA=1.09, First Kills=5, First Deaths=6
+Less: Team=LOUD, Kills=19, Deaths=18, Assists=5, KDA=1.33, First Kills=4, First Deaths=1
+tuyz: Team=LOUD, Kills=22, Deaths=21, Assists=12, KDA=1.62, First Kills=0, First Deaths=0

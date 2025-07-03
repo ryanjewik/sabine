@@ -1,0 +1,174 @@
+Team 1: FURIA
+Team 2: DRX
+Participating Players:
+Player 1: BuZz
+Player 2: stax
+Player 3: MaKo
+Player 4: ZestKR
+Player 5: Rb
+Player 6: Khalil
+Player 7: mazin
+Player 8: Nozwer
+Player 9: dgzin
+Player 10: QcK
+Winning Team: DRX
+Score: FURIA 4 - 13 DRX
+Tournament Name: champions 2022
+Game Start Time: 2022-09-02T13:37:09Z
+Game End Time: 2022-09-02T14:22:00Z
+Rounds ended by ELIMINATION count: 10
+Rounds ended by DEFUSE count: 2
+Rounds ended by DETONATE count: 4
+SPIKE PLANTED count: 6
+platformGameId: val:89d59efd-06a5-43b5-b089-8d848e34b037
+
+--- Events ---
+Game started at 2022-09-02T13:37:09Z
+BuZz killed Khalil  in round 1
+dgzin killed Rb  in round 1
+BuZz killed dgzin  in round 1
+Nozwer killed MaKo  in round 1
+Round 1 ended with spike_defuse. The winning team is DRX.
+The current score is FURIA 0 - 1 DRX.
+QcK killed stax  in round 2
+stax killed QcK  in round 2
+BuZz killed dgzin  in round 2
+BuZz killed Khalil  in round 2
+MaKo killed mazin  in round 2
+stax killed Nozwer  in round 2
+Round 2 ended with elimination. The winning team is DRX.
+The current score is FURIA 0 - 2 DRX.
+MaKo killed QcK  in round 3
+Nozwer killed stax  in round 3
+MaKo killed Nozwer  in round 3
+dgzin killed MaKo  in round 3
+BuZz killed mazin  in round 3
+ZestKR killed dgzin  in round 3
+BuZz killed Khalil  in round 3
+Round 3 ended with spike_defuse. The winning team is DRX.
+The current score is FURIA 0 - 3 DRX.
+MaKo killed QcK  in round 4
+MaKo killed mazin  in round 4
+MaKo killed Nozwer  in round 4
+stax killed Khalil  in round 4
+dgzin killed stax  in round 4
+Rb killed dgzin  in round 4
+Round 4 ended with elimination. The winning team is DRX.
+The current score is FURIA 0 - 4 DRX.
+stax killed QcK  in round 5
+BuZz killed dgzin  in round 5
+stax killed Nozwer  in round 5
+Rb killed Khalil  in round 5
+stax killed mazin  in round 5
+Round 5 ended with elimination. The winning team is DRX.
+The current score is FURIA 0 - 5 DRX.
+QcK killed Rb  in round 6
+MaKo killed mazin  in round 6
+dgzin killed ZestKR  in round 6
+BuZz killed Khalil  in round 6
+MaKo killed QcK  in round 6
+Nozwer killed MaKo  in round 6
+dgzin killed stax  in round 6
+dgzin killed BuZz  in round 6
+Round 6 ended with elimination. The winning team is FURIA.
+The current score is FURIA 1 - 5 DRX.
+BuZz killed mazin  in round 7
+Rb killed QcK  in round 7
+Rb killed dgzin  in round 7
+Rb killed Nozwer  in round 7
+MaKo killed Khalil  in round 7
+Round 7 ended with elimination. The winning team is DRX.
+The current score is FURIA 1 - 6 DRX.
+BuZz killed QcK  in round 8
+BuZz killed dgzin  in round 8
+stax killed Nozwer  in round 8
+ZestKR killed Khalil  in round 8
+stax killed mazin  in round 8
+Round 8 ended with elimination. The winning team is DRX.
+The current score is FURIA 1 - 7 DRX.
+Rb killed Khalil  in round 9
+Rb killed mazin  in round 9
+QcK killed Rb  in round 9
+Nozwer killed MaKo  in round 9
+Nozwer killed ZestKR  in round 9
+stax killed Nozwer  in round 9
+BuZz killed QcK  in round 9
+dgzin killed stax  in round 9
+dgzin killed BuZz  in round 9
+Round 9 ended with elimination. The winning team is FURIA.
+The current score is FURIA 2 - 7 DRX.
+QcK killed BuZz  in round 10
+QcK killed ZestKR  in round 10
+Nozwer killed stax  in round 10
+Round 10 ended with detonate. The winning team is FURIA.
+The current score is FURIA 3 - 7 DRX.
+Rb killed Nozwer  in round 11
+QcK killed Rb  in round 11
+stax killed mazin  in round 11
+MaKo killed QcK  in round 11
+dgzin killed ZestKR  in round 11
+Khalil killed MaKo  in round 11
+BuZz killed Khalil  in round 11
+dgzin killed stax  in round 11
+dgzin killed BuZz  in round 11
+Round 11 ended with elimination. The winning team is FURIA.
+The current score is FURIA 4 - 7 DRX.
+BuZz killed QcK  in round 12
+BuZz killed Nozwer  in round 12
+Khalil killed ZestKR  in round 12
+MaKo killed Khalil  in round 12
+dgzin killed BuZz  in round 12
+MaKo killed dgzin  in round 12
+mazin killed Rb  in round 12
+Round 12 ended with time_expired. The winning team is DRX.
+The current score is FURIA 4 - 8 DRX.
+BuZz killed mazin  in round 13
+dgzin killed Rb  in round 13
+stax killed dgzin  in round 13
+stax killed QcK  in round 13
+BuZz killed Nozwer  in round 13
+Khalil killed stax  in round 13
+Khalil killed BuZz  in round 13
+Round 13 ended with detonate. The winning team is DRX.
+The current score is FURIA 4 - 9 DRX.
+Khalil killed Khalil  in round 14
+Round 14 ended with detonate. The winning team is DRX.
+The current score is FURIA 4 - 10 DRX.
+QcK killed QcK  in round 15
+dgzin killed dgzin  in round 15
+Khalil killed Khalil  in round 15
+Nozwer killed Nozwer  in round 15
+mazin killed mazin  in round 15
+BuZz killed mazin  in round 15
+BuZz killed QcK  in round 15
+Round 15 ended with detonate. The winning team is DRX.
+The current score is FURIA 4 - 11 DRX.
+BuZz killed QcK  in round 16
+BuZz killed Khalil  in round 16
+BuZz killed mazin  in round 16
+MaKo killed Nozwer  in round 16
+Rb killed dgzin  in round 16
+Round 16 ended with elimination. The winning team is DRX.
+The current score is FURIA 4 - 12 DRX.
+Nozwer killed MaKo  in round 17
+ZestKR killed Nozwer  in round 17
+BuZz killed QcK  in round 17
+ZestKR killed dgzin  in round 17
+BuZz killed Khalil  in round 17
+mazin killed BuZz  in round 17
+stax killed mazin  in round 17
+Round 17 ended with elimination. The winning team is DRX.
+The current score is FURIA 4 - 13 DRX.
+Game ended with winning team: DRX at 2022-09-02T14:22:00Z
+
+--- Player Stats ---
+BuZz: Team=DRX, Kills=24, Deaths=7, Assists=0, KDA=3.43, First Kills=6, First Deaths=1
+stax: Team=DRX, Kills=13, Deaths=8, Assists=7, KDA=2.5, First Kills=1, First Deaths=1
+MaKo: Team=DRX, Kills=13, Deaths=6, Assists=11, KDA=4.0, First Kills=2, First Deaths=1
+ZestKR: Team=DRX, Kills=4, Deaths=5, Assists=9, KDA=2.6, First Kills=0, First Deaths=0
+Rb: Team=DRX, Kills=9, Deaths=6, Assists=2, KDA=1.83, First Kills=2, First Deaths=1
+Khalil: Team=FURIA, Kills=6, Deaths=15, Assists=3, KDA=0.6, First Kills=1, First Deaths=3
+mazin: Team=FURIA, Kills=3, Deaths=14, Assists=3, KDA=0.43, First Kills=0, First Deaths=2
+Nozwer: Team=FURIA, Kills=8, Deaths=13, Assists=1, KDA=0.69, First Kills=1, First Deaths=1
+dgzin: Team=FURIA, Kills=14, Deaths=12, Assists=1, KDA=1.25, First Kills=0, First Deaths=0
+QcK: Team=FURIA, Kills=7, Deaths=15, Assists=2, KDA=0.6, First Kills=4, First Deaths=7

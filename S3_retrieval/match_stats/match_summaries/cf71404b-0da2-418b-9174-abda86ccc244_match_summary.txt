@@ -1,0 +1,192 @@
+Team 1: FunPlus Phoenix
+Team 2: Sentinels
+Participating Players:
+Player 1: TenZ
+Player 2: zekken
+Player 3: johnqt
+Player 4: Zellsis
+Player 5: Sacy
+Player 6: AAAAY
+Player 7: Lysoar
+Player 8: autumn 
+Player 9: BerLIN
+Player 10: Life2
+Winning Team: Sentinels
+Score: FunPlus Phoenix 5 - 13 Sentinels
+Tournament Name: vct champions 2024
+Game Start Time: 2024-08-08T09:02:49Z
+Game End Time: 2024-08-08T09:44:35Z
+Rounds ended by ELIMINATION count: 7
+Rounds ended by DEFUSE count: 7
+Rounds ended by DETONATE count: 3
+SPIKE PLANTED count: 10
+platformGameId: val:cf71404b-0da2-418b-9174-abda86ccc244
+
+--- Events ---
+Game started at 2024-08-08T09:02:49Z
+johnqt killed autumn   in round 1
+zekken killed Life2  in round 1
+Lysoar killed Sacy  in round 1
+zekken killed Lysoar  in round 1
+TenZ killed BerLIN  in round 1
+AAAAY killed zekken  in round 1
+TenZ killed AAAAY  in round 1
+Round 1 ended with spike_defuse. The winning team is Sentinels.
+The current score is FunPlus Phoenix 0 - 1 Sentinels.
+TenZ killed Lysoar  in round 2
+zekken killed BerLIN  in round 2
+autumn  killed TenZ  in round 2
+Sacy killed autumn   in round 2
+Sacy killed Life2  in round 2
+Sacy killed AAAAY  in round 2
+Round 2 ended with spike_defuse. The winning team is Sentinels.
+The current score is FunPlus Phoenix 0 - 2 Sentinels.
+TenZ killed autumn   in round 3
+Life2 killed Zellsis  in round 3
+Sacy killed Life2  in round 3
+BerLIN killed Sacy  in round 3
+Lysoar killed johnqt  in round 3
+BerLIN killed TenZ  in round 3
+zekken killed Lysoar  in round 3
+Round 3 ended with detonate. The winning team is FunPlus Phoenix.
+The current score is FunPlus Phoenix 1 - 2 Sentinels.
+autumn  killed zekken  in round 4
+Life2 killed Sacy  in round 4
+Life2 killed TenZ  in round 4
+Round 4 ended with detonate. The winning team is FunPlus Phoenix.
+The current score is FunPlus Phoenix 2 - 2 Sentinels.
+zekken killed Life2  in round 5
+TenZ killed BerLIN  in round 5
+TenZ killed Lysoar  in round 5
+Sacy killed autumn   in round 5
+Round 5 ended with time_expired. The winning team is Sentinels.
+The current score is FunPlus Phoenix 2 - 3 Sentinels.
+Sacy killed Life2  in round 6
+TenZ killed Lysoar  in round 6
+TenZ killed AAAAY  in round 6
+BerLIN killed TenZ  in round 6
+BerLIN killed Sacy  in round 6
+johnqt killed BerLIN  in round 6
+autumn  killed zekken  in round 6
+johnqt killed autumn   in round 6
+Round 6 ended with spike_defuse. The winning team is Sentinels.
+The current score is FunPlus Phoenix 2 - 4 Sentinels.
+johnqt killed Life2  in round 7
+johnqt killed autumn   in round 7
+AAAAY killed johnqt  in round 7
+Zellsis killed BerLIN  in round 7
+Zellsis killed Lysoar  in round 7
+zekken killed AAAAY  in round 7
+Round 7 ended with elimination. The winning team is Sentinels.
+The current score is FunPlus Phoenix 2 - 5 Sentinels.
+zekken killed Life2  in round 8
+zekken killed AAAAY  in round 8
+Sacy killed BerLIN  in round 8
+TenZ killed Lysoar  in round 8
+TenZ killed autumn   in round 8
+Round 8 ended with elimination. The winning team is Sentinels.
+The current score is FunPlus Phoenix 2 - 6 Sentinels.
+zekken killed autumn   in round 9
+TenZ killed Lysoar  in round 9
+Sacy killed AAAAY  in round 9
+Life2 killed Sacy  in round 9
+zekken killed BerLIN  in round 9
+TenZ killed Life2  in round 9
+Round 9 ended with elimination. The winning team is Sentinels.
+The current score is FunPlus Phoenix 2 - 7 Sentinels.
+autumn  killed johnqt  in round 10
+autumn  killed zekken  in round 10
+Lysoar killed Sacy  in round 10
+Zellsis killed BerLIN  in round 10
+TenZ killed autumn   in round 10
+Lysoar killed Zellsis  in round 10
+Life2 killed TenZ  in round 10
+Round 10 ended with elimination. The winning team is FunPlus Phoenix.
+The current score is FunPlus Phoenix 3 - 7 Sentinels.
+zekken killed AAAAY  in round 11
+Life2 killed TenZ  in round 11
+zekken killed Lysoar  in round 11
+Life2 killed zekken  in round 11
+Sacy killed Life2  in round 11
+Zellsis killed autumn   in round 11
+Sacy killed BerLIN  in round 11
+Round 11 ended with spike_defuse. The winning team is Sentinels.
+The current score is FunPlus Phoenix 3 - 8 Sentinels.
+Zellsis killed BerLIN  in round 12
+zekken killed Life2  in round 12
+Lysoar killed johnqt  in round 12
+Zellsis killed AAAAY  in round 12
+Sacy killed Lysoar  in round 12
+TenZ killed autumn   in round 12
+Round 12 ended with spike_defuse. The winning team is Sentinels.
+The current score is FunPlus Phoenix 3 - 9 Sentinels.
+zekken killed BerLIN  in round 13
+Life2 killed johnqt  in round 13
+Life2 killed zekken  in round 13
+Sacy killed Life2  in round 13
+AAAAY killed Sacy  in round 13
+TenZ killed AAAAY  in round 13
+Lysoar killed TenZ  in round 13
+autumn  killed Zellsis  in round 13
+Round 13 ended with spike_defuse. The winning team is FunPlus Phoenix.
+The current score is FunPlus Phoenix 4 - 9 Sentinels.
+autumn  killed Zellsis  in round 14
+autumn  killed zekken  in round 14
+Life2 killed johnqt  in round 14
+autumn  killed Sacy  in round 14
+autumn  killed TenZ  in round 14
+Round 14 ended with spike_defuse. The winning team is FunPlus Phoenix.
+The current score is FunPlus Phoenix 5 - 9 Sentinels.
+zekken killed Life2  in round 15
+zekken killed BerLIN  in round 15
+johnqt killed autumn   in round 15
+zekken killed Lysoar  in round 15
+AAAAY killed zekken  in round 15
+TenZ killed AAAAY  in round 15
+Round 15 ended with elimination. The winning team is Sentinels.
+The current score is FunPlus Phoenix 5 - 10 Sentinels.
+autumn  killed TenZ  in round 16
+zekken killed autumn   in round 16
+BerLIN killed Zellsis  in round 16
+Sacy killed Life2  in round 16
+zekken killed Lysoar  in round 16
+Sacy killed AAAAY  in round 16
+BerLIN killed zekken  in round 16
+BerLIN killed johnqt  in round 16
+BerLIN killed Sacy  in round 16
+Round 16 ended with detonate. The winning team is Sentinels.
+The current score is FunPlus Phoenix 5 - 11 Sentinels.
+BerLIN killed BerLIN  in round 17
+autumn  killed zekken  in round 17
+TenZ killed Life2  in round 17
+TenZ killed AAAAY  in round 17
+TenZ killed Lysoar  in round 17
+BerLIN killed TenZ  in round 17
+Zellsis killed autumn   in round 17
+johnqt killed BerLIN  in round 17
+Round 17 ended with elimination. The winning team is Sentinels.
+The current score is FunPlus Phoenix 5 - 12 Sentinels.
+AAAAY killed Sacy  in round 18
+AAAAY killed zekken  in round 18
+Zellsis killed autumn   in round 18
+Zellsis killed Life2  in round 18
+BerLIN killed Zellsis  in round 18
+johnqt killed Lysoar  in round 18
+BerLIN killed TenZ  in round 18
+johnqt killed BerLIN  in round 18
+johnqt killed AAAAY  in round 18
+Round 18 ended with elimination. The winning team is Sentinels.
+The current score is FunPlus Phoenix 5 - 13 Sentinels.
+Game ended with winning team: Sentinels at 2024-08-08T09:44:35Z
+
+--- Player Stats ---
+TenZ: Team=Sentinels, Kills=19, Deaths=11, Assists=10, KDA=2.64, First Kills=2, First Deaths=1
+zekken: Team=Sentinels, Kills=19, Deaths=11, Assists=4, KDA=2.09, First Kills=6, First Deaths=1
+johnqt: Team=Sentinels, Kills=10, Deaths=7, Assists=5, KDA=2.14, First Kills=2, First Deaths=1
+Zellsis: Team=Sentinels, Kills=9, Deaths=6, Assists=2, KDA=1.83, First Kills=1, First Deaths=1
+Sacy: Team=Sentinels, Kills=14, Deaths=10, Assists=13, KDA=2.7, First Kills=1, First Deaths=1
+AAAAY: Team=FunPlus Phoenix, Kills=6, Deaths=13, Assists=3, KDA=0.69, First Kills=1, First Deaths=1
+Lysoar: Team=FunPlus Phoenix, Kills=6, Deaths=14, Assists=3, KDA=0.64, First Kills=0, First Deaths=1
+autumn : Team=FunPlus Phoenix, Kills=12, Deaths=15, Assists=1, KDA=0.87, First Kills=4, First Deaths=3
+BerLIN: Team=FunPlus Phoenix, Kills=12, Deaths=15, Assists=9, KDA=1.4, First Kills=1, First Deaths=3
+Life2: Team=FunPlus Phoenix, Kills=10, Deaths=15, Assists=1, KDA=0.73, First Kills=0, First Deaths=5

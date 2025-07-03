@@ -1,0 +1,197 @@
+Team 1: ZETA DIVISION
+Team 2: DetonatioN FocusMe
+Participating Players:
+Player 1: takej
+Player 2: Suggest
+Player 3: Reita
+Player 4: Anthem
+Player 5: Seoldam
+Player 6: Dep
+Player 7: crow 
+Player 8: SugarZ3ro
+Player 9: TENNN
+Player 10: Laz
+Winning Team: ZETA DIVISION
+Score: ZETA DIVISION 13 - 5 DetonatioN FocusMe
+Tournament Name: vct pacific 2023
+Game Start Time: 2023-04-16T12:34:49Z
+Game End Time: 2023-04-16T13:17:55Z
+Rounds ended by ELIMINATION count: 10
+Rounds ended by DEFUSE count: 4
+Rounds ended by DETONATE count: 4
+SPIKE PLANTED count: 8
+platformGameId: val:e02cf2e6-5b70-438f-a80a-e7fdfd3f8c85
+
+--- Events ---
+Game started at 2023-04-16T12:34:49Z
+Dep killed Suggest  in round 1
+TENNN killed Seoldam  in round 1
+Anthem killed Dep  in round 1
+Laz killed Reita  in round 1
+crow  killed Anthem  in round 1
+takej killed crow   in round 1
+TENNN killed takej  in round 1
+Round 1 ended with elimination. The winning team is ZETA DIVISION.
+The current score is ZETA DIVISION 1 - 0 DetonatioN FocusMe.
+Dep killed Seoldam  in round 2
+SugarZ3ro killed Suggest  in round 2
+SugarZ3ro killed Reita  in round 2
+Anthem killed SugarZ3ro  in round 2
+Dep killed Anthem  in round 2
+Dep killed takej  in round 2
+Round 2 ended with elimination. The winning team is ZETA DIVISION.
+The current score is ZETA DIVISION 2 - 0 DetonatioN FocusMe.
+Suggest killed SugarZ3ro  in round 3
+Dep killed Anthem  in round 3
+Reita killed Dep  in round 3
+Reita killed TENNN  in round 3
+crow  killed takej  in round 3
+Anthem killed crow   in round 3
+Laz killed Reita  in round 3
+Laz killed Suggest  in round 3
+Laz killed Seoldam  in round 3
+Round 3 ended with elimination. The winning team is ZETA DIVISION.
+The current score is ZETA DIVISION 3 - 0 DetonatioN FocusMe.
+Dep killed Seoldam  in round 4
+crow  killed Anthem  in round 4
+Dep killed Suggest  in round 4
+SugarZ3ro killed Reita  in round 4
+Dep killed takej  in round 4
+Round 4 ended with elimination. The winning team is ZETA DIVISION.
+The current score is ZETA DIVISION 4 - 0 DetonatioN FocusMe.
+Seoldam killed Laz  in round 5
+TENNN killed takej  in round 5
+TENNN killed Suggest  in round 5
+Anthem killed TENNN  in round 5
+SugarZ3ro killed Seoldam  in round 5
+Dep killed Reita  in round 5
+Anthem killed SugarZ3ro  in round 5
+Round 5 ended with detonate. The winning team is ZETA DIVISION.
+The current score is ZETA DIVISION 5 - 0 DetonatioN FocusMe.
+Dep killed Seoldam  in round 6
+Dep killed Reita  in round 6
+crow  killed Suggest  in round 6
+Round 6 ended with detonate. The winning team is ZETA DIVISION.
+The current score is ZETA DIVISION 6 - 0 DetonatioN FocusMe.
+Anthem killed Anthem  in round 7
+takej killed takej  in round 7
+Dep killed Suggest  in round 7
+Seoldam killed Dep  in round 7
+Seoldam killed SugarZ3ro  in round 7
+crow  killed Reita  in round 7
+TENNN killed Seoldam  in round 7
+Round 7 ended with spike_defuse. The winning team is DetonatioN FocusMe.
+The current score is ZETA DIVISION 6 - 1 DetonatioN FocusMe.
+crow  killed Anthem  in round 8
+TENNN killed takej  in round 8
+Dep killed takej  in round 8
+SugarZ3ro killed Suggest  in round 8
+Seoldam killed TENNN  in round 8
+Round 8 ended with detonate. The winning team is ZETA DIVISION.
+The current score is ZETA DIVISION 7 - 1 DetonatioN FocusMe.
+Dep killed takej  in round 9
+Suggest killed Dep  in round 9
+crow  killed Suggest  in round 9
+TENNN killed Anthem  in round 9
+Reita killed TENNN  in round 9
+Round 9 ended with detonate. The winning team is ZETA DIVISION.
+The current score is ZETA DIVISION 8 - 1 DetonatioN FocusMe.
+Laz killed Reita  in round 10
+Seoldam killed Dep  in round 10
+Seoldam killed TENNN  in round 10
+Laz killed Seoldam  in round 10
+Laz killed Reita  in round 10
+Anthem killed Laz  in round 10
+takej killed SugarZ3ro  in round 10
+crow  killed Suggest  in round 10
+crow  killed Anthem  in round 10
+takej killed crow   in round 10
+Round 10 ended with spike_defuse. The winning team is DetonatioN FocusMe.
+The current score is ZETA DIVISION 8 - 2 DetonatioN FocusMe.
+Seoldam killed Laz  in round 11
+Seoldam killed SugarZ3ro  in round 11
+Seoldam killed TENNN  in round 11
+Dep killed Seoldam  in round 11
+Suggest killed Dep  in round 11
+crow  killed takej  in round 11
+crow  killed Anthem  in round 11
+Reita killed crow   in round 11
+Round 11 ended with spike_defuse. The winning team is DetonatioN FocusMe.
+The current score is ZETA DIVISION 8 - 3 DetonatioN FocusMe.
+Dep killed Seoldam  in round 12
+Dep killed Reita  in round 12
+Anthem killed Dep  in round 12
+Laz killed Anthem  in round 12
+Suggest killed Laz  in round 12
+SugarZ3ro killed Suggest  in round 12
+takej killed crow   in round 12
+SugarZ3ro killed takej  in round 12
+Round 12 ended with elimination. The winning team is ZETA DIVISION.
+The current score is ZETA DIVISION 9 - 3 DetonatioN FocusMe.
+Dep killed Seoldam  in round 13
+takej killed Dep  in round 13
+Suggest killed SugarZ3ro  in round 13
+Laz killed Suggest  in round 13
+takej killed Laz  in round 13
+Anthem killed crow   in round 13
+Reita killed TENNN  in round 13
+Round 13 ended with elimination. The winning team is DetonatioN FocusMe.
+The current score is ZETA DIVISION 9 - 4 DetonatioN FocusMe.
+Reita killed crow   in round 14
+takej killed SugarZ3ro  in round 14
+TENNN killed Anthem  in round 14
+Reita killed Dep  in round 14
+takej killed TENNN  in round 14
+Laz killed Suggest  in round 14
+Seoldam killed Laz  in round 14
+Round 14 ended with elimination. The winning team is DetonatioN FocusMe.
+The current score is ZETA DIVISION 9 - 5 DetonatioN FocusMe.
+Dep killed Suggest  in round 15
+Seoldam killed crow   in round 15
+takej killed Laz  in round 15
+Dep killed Seoldam  in round 15
+Dep killed takej  in round 15
+Anthem killed SugarZ3ro  in round 15
+Dep killed Reita  in round 15
+Anthem killed Dep  in round 15
+TENNN killed Anthem  in round 15
+Round 15 ended with elimination. The winning team is ZETA DIVISION.
+The current score is ZETA DIVISION 10 - 5 DetonatioN FocusMe.
+crow  killed Reita  in round 16
+SugarZ3ro killed Seoldam  in round 16
+TENNN killed Suggest  in round 16
+takej killed TENNN  in round 16
+Anthem killed SugarZ3ro  in round 16
+takej killed crow   in round 16
+Laz killed Anthem  in round 16
+Dep killed takej  in round 16
+Round 16 ended with spike_defuse. The winning team is ZETA DIVISION.
+The current score is ZETA DIVISION 11 - 5 DetonatioN FocusMe.
+TENNN killed Seoldam  in round 17
+TENNN killed takej  in round 17
+TENNN killed Suggest  in round 17
+Reita killed crow   in round 17
+Dep killed Reita  in round 17
+SugarZ3ro killed Anthem  in round 17
+Round 17 ended with elimination. The winning team is ZETA DIVISION.
+The current score is ZETA DIVISION 12 - 5 DetonatioN FocusMe.
+crow  killed Seoldam  in round 18
+Dep killed takej  in round 18
+Dep killed Suggest  in round 18
+crow  killed Anthem  in round 18
+Dep killed Reita  in round 18
+Round 18 ended with elimination. The winning team is ZETA DIVISION.
+The current score is ZETA DIVISION 13 - 5 DetonatioN FocusMe.
+Game ended with winning team: ZETA DIVISION at 2023-04-16T13:17:55Z
+
+--- Player Stats ---
+takej: Team=DetonatioN FocusMe, Kills=12, Deaths=15, Assists=10, KDA=1.47, First Kills=0, First Deaths=1
+Suggest: Team=DetonatioN FocusMe, Kills=5, Deaths=17, Assists=3, KDA=0.47, First Kills=1, First Deaths=2
+Reita: Team=DetonatioN FocusMe, Kills=8, Deaths=14, Assists=6, KDA=1.0, First Kills=1, First Deaths=2
+Anthem: Team=DetonatioN FocusMe, Kills=12, Deaths=15, Assists=9, KDA=1.4, First Kills=1, First Deaths=2
+Seoldam: Team=DetonatioN FocusMe, Kills=11, Deaths=15, Assists=4, KDA=1.0, First Kills=2, First Deaths=7
+Dep: Team=ZETA DIVISION, Kills=27, Deaths=10, Assists=2, KDA=2.9, First Kills=8, First Deaths=0
+crow : Team=ZETA DIVISION, Kills=14, Deaths=10, Assists=6, KDA=2.0, First Kills=3, First Deaths=1
+SugarZ3ro: Team=ZETA DIVISION, Kills=9, Deaths=10, Assists=12, KDA=2.1, First Kills=0, First Deaths=1
+TENNN: Team=ZETA DIVISION, Kills=13, Deaths=9, Assists=1, KDA=1.56, First Kills=1, First Deaths=0
+Laz: Team=ZETA DIVISION, Kills=11, Deaths=7, Assists=5, KDA=2.29, First Kills=1, First Deaths=2

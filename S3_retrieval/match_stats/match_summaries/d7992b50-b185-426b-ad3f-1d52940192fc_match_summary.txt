@@ -1,0 +1,201 @@
+Team 1: FNATIC
+Team 2: Team Liquid
+Participating Players:
+Player 1: dimasick
+Player 2: soulcas
+Player 3: ScreaM
+Player 4: Nivera
+Player 5: Jamppi
+Player 6: Mistic
+Player 7: Derke
+Player 8: Boaster
+Player 9: Alfajer
+Player 10: Enz0
+Winning Team: FNATIC
+Score: FNATIC 13 - 6 Team Liquid
+Tournament Name: champions 2022
+Game Start Time: 2022-09-11T16:42:18Z
+Game End Time: 2022-09-11T17:42:27Z
+Rounds ended by ELIMINATION count: 16
+Rounds ended by DEFUSE count: 1
+Rounds ended by DETONATE count: 2
+SPIKE PLANTED count: 3
+platformGameId: val:d7992b50-b185-426b-ad3f-1d52940192fc
+
+--- Events ---
+Game started at 2022-09-11T16:42:18Z
+Derke killed Nivera  in round 1
+Jamppi killed Derke  in round 1
+Alfajer killed ScreaM  in round 1
+Jamppi killed Alfajer  in round 1
+Boaster killed Jamppi  in round 1
+Boaster killed soulcas  in round 1
+Mistic killed dimasick  in round 1
+Round 1 ended with elimination. The winning team is FNATIC.
+The current score is FNATIC 1 - 0 Team Liquid.
+Boaster killed ScreaM  in round 2
+Enz0 killed soulcas  in round 2
+Boaster killed Jamppi  in round 2
+dimasick killed Boaster  in round 2
+Alfajer killed dimasick  in round 2
+Round 2 ended with detonate. The winning team is FNATIC.
+The current score is FNATIC 2 - 0 Team Liquid.
+Nivera killed Nivera  in round 3
+Enz0 killed dimasick  in round 3
+Derke killed ScreaM  in round 3
+Alfajer killed Nivera  in round 3
+Jamppi killed Boaster  in round 3
+Jamppi killed Mistic  in round 3
+Alfajer killed Jamppi  in round 3
+Round 3 ended with detonate. The winning team is FNATIC.
+The current score is FNATIC 3 - 0 Team Liquid.
+Boaster killed Nivera  in round 4
+Jamppi killed Alfajer  in round 4
+soulcas killed Derke  in round 4
+Mistic killed soulcas  in round 4
+dimasick killed Mistic  in round 4
+Enz0 killed ScreaM  in round 4
+Boaster killed dimasick  in round 4
+Boaster killed Jamppi  in round 4
+Round 4 ended with elimination. The winning team is FNATIC.
+The current score is FNATIC 4 - 0 Team Liquid.
+Derke killed Jamppi  in round 5
+Alfajer killed Nivera  in round 5
+Alfajer killed soulcas  in round 5
+Boaster killed dimasick  in round 5
+Alfajer killed ScreaM  in round 5
+Round 5 ended with elimination. The winning team is FNATIC.
+The current score is FNATIC 5 - 0 Team Liquid.
+soulcas killed Boaster  in round 6
+soulcas killed Enz0  in round 6
+Alfajer killed dimasick  in round 6
+Derke killed soulcas  in round 6
+Alfajer killed Jamppi  in round 6
+Derke killed Nivera  in round 6
+Derke killed ScreaM  in round 6
+Round 6 ended with elimination. The winning team is FNATIC.
+The current score is FNATIC 6 - 0 Team Liquid.
+Alfajer killed Jamppi  in round 7
+Alfajer killed Nivera  in round 7
+Alfajer killed ScreaM  in round 7
+Alfajer killed dimasick  in round 7
+soulcas killed Alfajer  in round 7
+soulcas killed Mistic  in round 7
+Derke killed soulcas  in round 7
+Round 7 ended with elimination. The winning team is FNATIC.
+The current score is FNATIC 7 - 0 Team Liquid.
+Boaster killed Nivera  in round 8
+Enz0 killed soulcas  in round 8
+Jamppi killed Enz0  in round 8
+Alfajer killed dimasick  in round 8
+Alfajer killed ScreaM  in round 8
+Derke killed Jamppi  in round 8
+Round 8 ended with elimination. The winning team is FNATIC.
+The current score is FNATIC 8 - 0 Team Liquid.
+ScreaM killed Boaster  in round 9
+ScreaM killed Alfajer  in round 9
+dimasick killed Derke  in round 9
+Jamppi killed Enz0  in round 9
+soulcas killed Mistic  in round 9
+Round 9 ended with elimination. The winning team is Team Liquid.
+The current score is FNATIC 8 - 1 Team Liquid.
+Mistic killed soulcas  in round 10
+Boaster killed Nivera  in round 10
+dimasick killed Derke  in round 10
+dimasick killed Boaster  in round 10
+Mistic killed dimasick  in round 10
+Jamppi killed Mistic  in round 10
+Alfajer killed Jamppi  in round 10
+Alfajer killed Nivera  in round 10
+Enz0 killed ScreaM  in round 10
+Round 10 ended with elimination. The winning team is FNATIC.
+The current score is FNATIC 9 - 1 Team Liquid.
+Alfajer killed Alfajer  in round 11
+Derke killed soulcas  in round 11
+Nivera killed Boaster  in round 11
+ScreaM killed Derke  in round 11
+ScreaM killed Mistic  in round 11
+Alfajer killed ScreaM  in round 11
+Alfajer killed Jamppi  in round 11
+Nivera killed Alfajer  in round 11
+dimasick killed Enz0  in round 11
+Round 11 ended with elimination. The winning team is Team Liquid.
+The current score is FNATIC 9 - 2 Team Liquid.
+ScreaM killed Alfajer  in round 12
+Nivera killed Derke  in round 12
+Nivera killed Mistic  in round 12
+Nivera killed Boaster  in round 12
+Enz0 killed Nivera  in round 12
+ScreaM killed Enz0  in round 12
+Round 12 ended with elimination. The winning team is Team Liquid.
+The current score is FNATIC 9 - 3 Team Liquid.
+Mistic killed Jamppi  in round 13
+Enz0 killed soulcas  in round 13
+Boaster killed ScreaM  in round 13
+dimasick killed Enz0  in round 13
+Derke killed Nivera  in round 13
+Boaster killed dimasick  in round 13
+Round 13 ended with spike_defuse. The winning team is FNATIC.
+The current score is FNATIC 10 - 3 Team Liquid.
+Mistic killed ScreaM  in round 14
+Derke killed soulcas  in round 14
+Mistic killed Jamppi  in round 14
+Derke killed dimasick  in round 14
+Nivera killed Enz0  in round 14
+Derke killed Nivera  in round 14
+Round 14 ended with elimination. The winning team is FNATIC.
+The current score is FNATIC 11 - 3 Team Liquid.
+ScreaM killed Mistic  in round 15
+Alfajer killed ScreaM  in round 15
+Jamppi killed Derke  in round 15
+Boaster killed dimasick  in round 15
+Enz0 killed Jamppi  in round 15
+soulcas killed Enz0  in round 15
+Nivera killed Boaster  in round 15
+Nivera killed Alfajer  in round 15
+Round 15 ended with elimination. The winning team is Team Liquid.
+The current score is FNATIC 11 - 4 Team Liquid.
+Jamppi killed Boaster  in round 16
+ScreaM killed Derke  in round 16
+Nivera killed Alfajer  in round 16
+dimasick killed Enz0  in round 16
+Jamppi killed Mistic  in round 16
+Round 16 ended with elimination. The winning team is Team Liquid.
+The current score is FNATIC 11 - 5 Team Liquid.
+ScreaM killed Alfajer  in round 17
+dimasick killed Derke  in round 17
+Jamppi killed Mistic  in round 17
+Enz0 killed Nivera  in round 17
+ScreaM killed Enz0  in round 17
+dimasick killed Boaster  in round 17
+Round 17 ended with elimination. The winning team is Team Liquid.
+The current score is FNATIC 11 - 6 Team Liquid.
+Alfajer killed soulcas  in round 18
+Derke killed Nivera  in round 18
+Derke killed ScreaM  in round 18
+Boaster killed Nivera  in round 18
+Alfajer killed dimasick  in round 18
+Jamppi killed Alfajer  in round 18
+Derke killed Jamppi  in round 18
+Round 18 ended with elimination. The winning team is FNATIC.
+The current score is FNATIC 12 - 6 Team Liquid.
+Derke killed soulcas  in round 19
+Derke killed dimasick  in round 19
+Enz0 killed Jamppi  in round 19
+Enz0 killed ScreaM  in round 19
+Derke killed Nivera  in round 19
+Round 19 ended with elimination. The winning team is FNATIC.
+The current score is FNATIC 13 - 6 Team Liquid.
+Game ended with winning team: FNATIC at 2022-09-11T17:42:27Z
+
+--- Player Stats ---
+dimasick: Team=Team Liquid, Kills=10, Deaths=14, Assists=2, KDA=0.86, First Kills=0, First Deaths=0
+soulcas: Team=Team Liquid, Kills=7, Deaths=13, Assists=2, KDA=0.69, First Kills=1, First Deaths=3
+ScreaM: Team=Team Liquid, Kills=10, Deaths=15, Assists=1, KDA=0.73, First Kills=4, First Deaths=2
+Nivera: Team=Team Liquid, Kills=10, Deaths=17, Assists=1, KDA=0.65, First Kills=1, First Deaths=4
+Jamppi: Team=Team Liquid, Kills=13, Deaths=15, Assists=5, KDA=1.2, First Kills=1, First Deaths=3
+Mistic: Team=FNATIC, Kills=7, Deaths=10, Assists=9, KDA=1.6, First Kills=3, First Deaths=1
+Derke: Team=FNATIC, Kills=19, Deaths=9, Assists=3, KDA=2.44, First Kills=3, First Deaths=0
+Boaster: Team=FNATIC, Kills=14, Deaths=10, Assists=5, KDA=1.9, First Kills=3, First Deaths=3
+Alfajer: Team=FNATIC, Kills=23, Deaths=11, Assists=5, KDA=2.55, First Kills=3, First Deaths=3
+Enz0: Team=FNATIC, Kills=11, Deaths=10, Assists=11, KDA=2.2, First Kills=0, First Deaths=0

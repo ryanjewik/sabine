@@ -1,0 +1,221 @@
+Team 1: GLOBAL ESPORTS
+Team 2: T1
+Participating Players:
+Player 1: stax
+Player 2: carpe
+Player 3: Xccurate
+Player 4: iZu
+Player 5: Sayaplayer
+Player 6: blaZek1ngg
+Player 7: Benkai
+Player 8: Russ
+Player 9: polvi
+Player 10: Lightningfa
+Winning Team: T1
+Score: GLOBAL ESPORTS 8 - 13 T1
+Tournament Name: vct pacific stage 2 2024
+Game Start Time: 2024-06-30T09:55:50Z
+Game End Time: 2024-06-30T10:45:59Z
+Rounds ended by ELIMINATION count: 15
+Rounds ended by DEFUSE count: 3
+Rounds ended by DETONATE count: 3
+SPIKE PLANTED count: 6
+platformGameId: val:b4c03f3a-11e0-48dc-a482-a6d45a276374
+
+--- Events ---
+Game started at 2024-06-30T09:55:50Z
+carpe killed blaZek1ngg  in round 1
+polvi killed carpe  in round 1
+polvi killed stax  in round 1
+Sayaplayer killed Russ  in round 1
+polvi killed Xccurate  in round 1
+Sayaplayer killed Lightningfa  in round 1
+Benkai killed Sayaplayer  in round 1
+iZu killed polvi  in round 1
+Benkai killed iZu  in round 1
+Round 1 ended with elimination. The winning team is GLOBAL ESPORTS.
+The current score is GLOBAL ESPORTS 1 - 0 T1.
+iZu killed blaZek1ngg  in round 2
+Sayaplayer killed Benkai  in round 2
+Lightningfa killed Sayaplayer  in round 2
+Russ killed iZu  in round 2
+Russ killed Xccurate  in round 2
+Russ killed stax  in round 2
+polvi killed carpe  in round 2
+Round 2 ended with elimination. The winning team is GLOBAL ESPORTS.
+The current score is GLOBAL ESPORTS 2 - 0 T1.
+Russ killed stax  in round 3
+Benkai killed Xccurate  in round 3
+Round 3 ended with detonate. The winning team is GLOBAL ESPORTS.
+The current score is GLOBAL ESPORTS 3 - 0 T1.
+carpe killed blaZek1ngg  in round 4
+Lightningfa killed carpe  in round 4
+iZu killed Lightningfa  in round 4
+polvi killed Xccurate  in round 4
+iZu killed Benkai  in round 4
+polvi killed Sayaplayer  in round 4
+polvi killed stax  in round 4
+iZu killed polvi  in round 4
+Russ killed iZu  in round 4
+Round 4 ended with elimination. The winning team is GLOBAL ESPORTS.
+The current score is GLOBAL ESPORTS 4 - 0 T1.
+Russ killed Xccurate  in round 5
+Russ killed Sayaplayer  in round 5
+iZu killed polvi  in round 5
+Lightningfa killed iZu  in round 5
+Round 5 ended with detonate. The winning team is GLOBAL ESPORTS.
+The current score is GLOBAL ESPORTS 5 - 0 T1.
+Sayaplayer killed Russ  in round 6
+Sayaplayer killed Lightningfa  in round 6
+polvi killed Sayaplayer  in round 6
+blaZek1ngg killed Xccurate  in round 6
+carpe killed polvi  in round 6
+stax killed blaZek1ngg  in round 6
+Benkai killed carpe  in round 6
+iZu killed Benkai  in round 6
+Round 6 ended with spike_defuse. The winning team is T1.
+The current score is GLOBAL ESPORTS 5 - 1 T1.
+Sayaplayer killed polvi  in round 7
+iZu killed Lightningfa  in round 7
+Sayaplayer killed blaZek1ngg  in round 7
+iZu killed Russ  in round 7
+carpe killed Benkai  in round 7
+Round 7 ended with elimination. The winning team is T1.
+The current score is GLOBAL ESPORTS 5 - 2 T1.
+stax killed Lightningfa  in round 8
+carpe killed Russ  in round 8
+blaZek1ngg killed iZu  in round 8
+Xccurate killed polvi  in round 8
+blaZek1ngg killed carpe  in round 8
+Xccurate killed Benkai  in round 8
+stax killed blaZek1ngg  in round 8
+Round 8 ended with spike_defuse. The winning team is T1.
+The current score is GLOBAL ESPORTS 5 - 3 T1.
+stax killed polvi  in round 9
+stax killed blaZek1ngg  in round 9
+iZu killed Russ  in round 9
+Sayaplayer killed Lightningfa  in round 9
+iZu killed Benkai  in round 9
+Round 9 ended with elimination. The winning team is T1.
+The current score is GLOBAL ESPORTS 5 - 4 T1.
+Sayaplayer killed blaZek1ngg  in round 10
+Sayaplayer killed polvi  in round 10
+iZu killed Benkai  in round 10
+iZu killed Russ  in round 10
+iZu killed Lightningfa  in round 10
+Round 10 ended with elimination. The winning team is T1.
+The current score is GLOBAL ESPORTS 5 - 5 T1.
+Russ killed Xccurate  in round 11
+polvi killed stax  in round 11
+blaZek1ngg killed carpe  in round 11
+Lightningfa killed Sayaplayer  in round 11
+blaZek1ngg killed iZu  in round 11
+Round 11 ended with elimination. The winning team is GLOBAL ESPORTS.
+The current score is GLOBAL ESPORTS 6 - 5 T1.
+polvi killed Xccurate  in round 12
+Sayaplayer killed polvi  in round 12
+Sayaplayer killed Lightningfa  in round 12
+stax killed Russ  in round 12
+Benkai killed stax  in round 12
+Sayaplayer killed Benkai  in round 12
+blaZek1ngg killed Sayaplayer  in round 12
+carpe killed blaZek1ngg  in round 12
+Round 12 ended with elimination. The winning team is T1.
+The current score is GLOBAL ESPORTS 6 - 6 T1.
+iZu killed Russ  in round 13
+blaZek1ngg killed stax  in round 13
+iZu killed polvi  in round 13
+blaZek1ngg killed Xccurate  in round 13
+Sayaplayer killed blaZek1ngg  in round 13
+carpe killed Benkai  in round 13
+Lightningfa killed Sayaplayer  in round 13
+carpe killed Lightningfa  in round 13
+Round 13 ended with elimination. The winning team is T1.
+The current score is GLOBAL ESPORTS 6 - 7 T1.
+Russ killed Xccurate  in round 14
+carpe killed polvi  in round 14
+Benkai killed carpe  in round 14
+iZu killed Lightningfa  in round 14
+Sayaplayer killed Russ  in round 14
+iZu killed Benkai  in round 14
+Sayaplayer killed blaZek1ngg  in round 14
+Round 14 ended with elimination. The winning team is T1.
+The current score is GLOBAL ESPORTS 6 - 8 T1.
+Russ killed Sayaplayer  in round 15
+Xccurate killed Russ  in round 15
+Lightningfa killed Xccurate  in round 15
+carpe killed Lightningfa  in round 15
+carpe killed polvi  in round 15
+Benkai killed stax  in round 15
+Benkai killed carpe  in round 15
+iZu killed blaZek1ngg  in round 15
+Benkai killed iZu  in round 15
+Round 15 ended with elimination. The winning team is GLOBAL ESPORTS.
+The current score is GLOBAL ESPORTS 7 - 8 T1.
+Sayaplayer killed polvi  in round 16
+Lightningfa killed stax  in round 16
+iZu killed blaZek1ngg  in round 16
+carpe killed Lightningfa  in round 16
+carpe killed Russ  in round 16
+Round 16 ended with detonate. The winning team is T1.
+The current score is GLOBAL ESPORTS 7 - 9 T1.
+iZu killed iZu  in round 17
+iZu killed Benkai  in round 17
+polvi killed stax  in round 17
+blaZek1ngg killed carpe  in round 17
+Xccurate killed blaZek1ngg  in round 17
+iZu killed Russ  in round 17
+polvi killed iZu  in round 17
+Sayaplayer killed polvi  in round 17
+Lightningfa killed Sayaplayer  in round 17
+Xccurate killed Lightningfa  in round 17
+Round 17 ended with elimination. The winning team is T1.
+The current score is GLOBAL ESPORTS 7 - 10 T1.
+stax killed polvi  in round 18
+Sayaplayer killed blaZek1ngg  in round 18
+Sayaplayer killed Russ  in round 18
+Sayaplayer killed Benkai  in round 18
+Sayaplayer killed Lightningfa  in round 18
+Round 18 ended with elimination. The winning team is T1.
+The current score is GLOBAL ESPORTS 7 - 11 T1.
+polvi killed iZu  in round 19
+blaZek1ngg killed carpe  in round 19
+Sayaplayer killed polvi  in round 19
+blaZek1ngg killed Sayaplayer  in round 19
+Russ killed Xccurate  in round 19
+stax killed Lightningfa  in round 19
+Benkai killed stax  in round 19
+Round 19 ended with spike_defuse. The winning team is GLOBAL ESPORTS.
+The current score is GLOBAL ESPORTS 8 - 11 T1.
+carpe killed Lightningfa  in round 20
+Sayaplayer killed Benkai  in round 20
+iZu killed Russ  in round 20
+polvi killed Xccurate  in round 20
+stax killed polvi  in round 20
+blaZek1ngg killed iZu  in round 20
+stax killed blaZek1ngg  in round 20
+Round 20 ended with elimination. The winning team is T1.
+The current score is GLOBAL ESPORTS 8 - 12 T1.
+polvi killed Sayaplayer  in round 21
+carpe killed polvi  in round 21
+Xccurate killed blaZek1ngg  in round 21
+Xccurate killed Lightningfa  in round 21
+Russ killed iZu  in round 21
+Benkai killed Xccurate  in round 21
+stax killed Benkai  in round 21
+stax killed Russ  in round 21
+Round 21 ended with elimination. The winning team is T1.
+The current score is GLOBAL ESPORTS 8 - 13 T1.
+Game ended with winning team: T1 at 2024-06-30T10:45:59Z
+
+--- Player Stats ---
+stax: Team=T1, Kills=12, Deaths=11, Assists=18, KDA=2.73, First Kills=3, First Deaths=1
+carpe: Team=T1, Kills=15, Deaths=10, Assists=7, KDA=2.2, First Kills=3, First Deaths=0
+Xccurate: Team=T1, Kills=7, Deaths=14, Assists=6, KDA=0.93, First Kills=0, First Deaths=4
+iZu: Team=T1, Kills=24, Deaths=12, Assists=5, KDA=2.42, First Kills=3, First Deaths=2
+Sayaplayer: Team=T1, Kills=24, Deaths=12, Assists=2, KDA=2.17, First Kills=4, First Deaths=2
+blaZek1ngg: Team=GLOBAL ESPORTS, Kills=12, Deaths=17, Assists=2, KDA=0.82, First Kills=0, First Deaths=4
+Benkai: Team=GLOBAL ESPORTS, Kills=11, Deaths=14, Assists=5, KDA=1.14, First Kills=0, First Deaths=0
+Russ: Team=GLOBAL ESPORTS, Kills=12, Deaths=15, Assists=13, KDA=1.67, First Kills=5, First Deaths=2
+polvi: Team=GLOBAL ESPORTS, Kills=15, Deaths=18, Assists=4, KDA=1.06, First Kills=3, First Deaths=4
+Lightningfa: Team=GLOBAL ESPORTS, Kills=8, Deaths=17, Assists=10, KDA=1.06, First Kills=0, First Deaths=2

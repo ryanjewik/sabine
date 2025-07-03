@@ -1,0 +1,231 @@
+Team 1: Karmine Corp
+Team 2: FunPlus Phoenix
+Participating Players:
+Player 1: YuChEn
+Player 2: AAAAY
+Player 3: BerLIN
+Player 4: Yuicaw
+Player 5: nizhaoTZH
+Player 6: XMS
+Player 7: sh1n
+Player 8: ScreaM
+Player 9: Nivera
+Player 10: Newzera
+Winning Team: FunPlus Phoenix
+Score: Karmine Corp 8 - 13 FunPlus Phoenix
+Tournament Name: lock in brazil 2023
+Game Start Time: 2023-02-14T18:06:54Z
+Game End Time: 2023-02-14T18:59:08Z
+Rounds ended by ELIMINATION count: 12
+Rounds ended by DEFUSE count: 6
+Rounds ended by DETONATE count: 3
+SPIKE PLANTED count: 9
+platformGameId: val:821f94f8-a462-4750-b040-3beb96e3b456
+
+--- Events ---
+Game started at 2023-02-14T18:06:54Z
+Yuicaw killed sh1n  in round 1
+YuChEn killed ScreaM  in round 1
+nizhaoTZH killed Nivera  in round 1
+nizhaoTZH killed XMS  in round 1
+Newzera killed AAAAY  in round 1
+nizhaoTZH killed Newzera  in round 1
+Round 1 ended with elimination. The winning team is FunPlus Phoenix.
+The current score is Karmine Corp 0 - 1 FunPlus Phoenix.
+Nivera killed AAAAY  in round 2
+Nivera killed nizhaoTZH  in round 2
+YuChEn killed ScreaM  in round 2
+Yuicaw killed Nivera  in round 2
+Yuicaw killed Newzera  in round 2
+BerLIN killed XMS  in round 2
+sh1n killed YuChEn  in round 2
+BerLIN killed sh1n  in round 2
+Round 2 ended with spike_defuse. The winning team is FunPlus Phoenix.
+The current score is Karmine Corp 0 - 2 FunPlus Phoenix.
+BerLIN killed sh1n  in round 3
+ScreaM killed YuChEn  in round 3
+Yuicaw killed Newzera  in round 3
+XMS killed Yuicaw  in round 3
+AAAAY killed Nivera  in round 3
+XMS killed AAAAY  in round 3
+ScreaM killed XMS  in round 3
+ScreaM killed BerLIN  in round 3
+ScreaM killed nizhaoTZH  in round 3
+Round 3 ended with elimination. The winning team is Karmine Corp.
+The current score is Karmine Corp 1 - 2 FunPlus Phoenix.
+BerLIN killed ScreaM  in round 4
+YuChEn killed sh1n  in round 4
+YuChEn killed Newzera  in round 4
+AAAAY killed XMS  in round 4
+YuChEn killed Nivera  in round 4
+Round 4 ended with spike_defuse. The winning team is FunPlus Phoenix.
+The current score is Karmine Corp 1 - 3 FunPlus Phoenix.
+ScreaM killed BerLIN  in round 5
+nizhaoTZH killed XMS  in round 5
+Newzera killed AAAAY  in round 5
+nizhaoTZH killed sh1n  in round 5
+YuChEn killed Newzera  in round 5
+ScreaM killed nizhaoTZH  in round 5
+YuChEn killed Nivera  in round 5
+Yuicaw killed ScreaM  in round 5
+Round 5 ended with spike_defuse. The winning team is FunPlus Phoenix.
+The current score is Karmine Corp 1 - 4 FunPlus Phoenix.
+Nivera killed nizhaoTZH  in round 6
+ScreaM killed BerLIN  in round 6
+Yuicaw killed Nivera  in round 6
+YuChEn killed ScreaM  in round 6
+sh1n killed AAAAY  in round 6
+XMS killed Yuicaw  in round 6
+YuChEn killed sh1n  in round 6
+Newzera killed YuChEn  in round 6
+Round 6 ended with elimination. The winning team is Karmine Corp.
+The current score is Karmine Corp 2 - 4 FunPlus Phoenix.
+Nivera killed nizhaoTZH  in round 7
+BerLIN killed ScreaM  in round 7
+sh1n killed AAAAY  in round 7
+Newzera killed BerLIN  in round 7
+YuChEn killed sh1n  in round 7
+Nivera killed YuChEn  in round 7
+Nivera killed Yuicaw  in round 7
+Round 7 ended with elimination. The winning team is Karmine Corp.
+The current score is Karmine Corp 3 - 4 FunPlus Phoenix.
+Nivera killed Yuicaw  in round 8
+Nivera killed BerLIN  in round 8
+Nivera killed nizhaoTZH  in round 8
+ScreaM killed YuChEn  in round 8
+Nivera killed AAAAY  in round 8
+Round 8 ended with elimination. The winning team is Karmine Corp.
+The current score is Karmine Corp 4 - 4 FunPlus Phoenix.
+Yuicaw killed Nivera  in round 9
+sh1n killed nizhaoTZH  in round 9
+XMS killed BerLIN  in round 9
+AAAAY killed sh1n  in round 9
+YuChEn killed XMS  in round 9
+ScreaM killed Yuicaw  in round 9
+AAAAY killed Newzera  in round 9
+YuChEn killed ScreaM  in round 9
+Round 9 ended with spike_defuse. The winning team is FunPlus Phoenix.
+The current score is Karmine Corp 4 - 5 FunPlus Phoenix.
+sh1n killed nizhaoTZH  in round 10
+BerLIN killed sh1n  in round 10
+XMS killed BerLIN  in round 10
+AAAAY killed Nivera  in round 10
+Newzera killed AAAAY  in round 10
+BerLIN killed ScreaM  in round 10
+Yuicaw killed Newzera  in round 10
+XMS killed YuChEn  in round 10
+Yuicaw killed XMS  in round 10
+Round 10 ended with spike_defuse. The winning team is FunPlus Phoenix.
+The current score is Karmine Corp 4 - 6 FunPlus Phoenix.
+Yuicaw killed Newzera  in round 11
+ScreaM killed Yuicaw  in round 11
+BerLIN killed ScreaM  in round 11
+Nivera killed AAAAY  in round 11
+sh1n killed BerLIN  in round 11
+nizhaoTZH killed XMS  in round 11
+YuChEn killed sh1n  in round 11
+Nivera killed nizhaoTZH  in round 11
+Nivera killed YuChEn  in round 11
+Round 11 ended with elimination. The winning team is Karmine Corp.
+The current score is Karmine Corp 5 - 6 FunPlus Phoenix.
+nizhaoTZH killed ScreaM  in round 12
+Newzera killed nizhaoTZH  in round 12
+AAAAY killed XMS  in round 12
+sh1n killed AAAAY  in round 12
+Yuicaw killed Nivera  in round 12
+Newzera killed Yuicaw  in round 12
+BerLIN killed Newzera  in round 12
+sh1n killed BerLIN  in round 12
+sh1n killed YuChEn  in round 12
+Round 12 ended with elimination. The winning team is Karmine Corp.
+The current score is Karmine Corp 6 - 6 FunPlus Phoenix.
+Newzera killed Yuicaw  in round 13
+BerLIN killed ScreaM  in round 13
+BerLIN killed XMS  in round 13
+Newzera killed BerLIN  in round 13
+AAAAY killed Newzera  in round 13
+nizhaoTZH killed Nivera  in round 13
+nizhaoTZH killed sh1n  in round 13
+Round 13 ended with elimination. The winning team is FunPlus Phoenix.
+The current score is Karmine Corp 6 - 7 FunPlus Phoenix.
+nizhaoTZH killed ScreaM  in round 14
+Yuicaw killed sh1n  in round 14
+YuChEn killed Newzera  in round 14
+Nivera killed YuChEn  in round 14
+Yuicaw killed Nivera  in round 14
+Yuicaw killed XMS  in round 14
+Round 14 ended with elimination. The winning team is FunPlus Phoenix.
+The current score is Karmine Corp 6 - 8 FunPlus Phoenix.
+Nivera killed Yuicaw  in round 15
+BerLIN killed Nivera  in round 15
+BerLIN killed sh1n  in round 15
+XMS killed BerLIN  in round 15
+ScreaM killed AAAAY  in round 15
+ScreaM killed nizhaoTZH  in round 15
+ScreaM killed YuChEn  in round 15
+Round 15 ended with elimination. The winning team is Karmine Corp.
+The current score is Karmine Corp 7 - 8 FunPlus Phoenix.
+ScreaM killed BerLIN  in round 16
+AAAAY killed ScreaM  in round 16
+Nivera killed AAAAY  in round 16
+YuChEn killed Nivera  in round 16
+Yuicaw killed sh1n  in round 16
+nizhaoTZH killed Newzera  in round 16
+Round 16 ended with detonate. The winning team is FunPlus Phoenix.
+The current score is Karmine Corp 7 - 9 FunPlus Phoenix.
+BerLIN killed Nivera  in round 17
+Round 17 ended with detonate. The winning team is FunPlus Phoenix.
+The current score is Karmine Corp 7 - 10 FunPlus Phoenix.
+YuChEn killed sh1n  in round 18
+ScreaM killed YuChEn  in round 18
+Newzera killed nizhaoTZH  in round 18
+Yuicaw killed XMS  in round 18
+ScreaM killed AAAAY  in round 18
+Yuicaw killed Nivera  in round 18
+ScreaM killed BerLIN  in round 18
+Yuicaw killed ScreaM  in round 18
+Newzera killed Yuicaw  in round 18
+Round 18 ended with spike_defuse. The winning team is Karmine Corp.
+The current score is Karmine Corp 8 - 10 FunPlus Phoenix.
+YuChEn killed Nivera  in round 19
+sh1n killed nizhaoTZH  in round 19
+Yuicaw killed sh1n  in round 19
+ScreaM killed Yuicaw  in round 19
+ScreaM killed AAAAY  in round 19
+AAAAY killed XMS  in round 19
+BerLIN killed Newzera  in round 19
+BerLIN killed ScreaM  in round 19
+Round 19 ended with elimination. The winning team is FunPlus Phoenix.
+The current score is Karmine Corp 8 - 11 FunPlus Phoenix.
+sh1n killed BerLIN  in round 20
+AAAAY killed sh1n  in round 20
+AAAAY killed Nivera  in round 20
+AAAAY killed XMS  in round 20
+AAAAY killed Newzera  in round 20
+Round 20 ended with detonate. The winning team is FunPlus Phoenix.
+The current score is Karmine Corp 8 - 12 FunPlus Phoenix.
+ScreaM killed YuChEn  in round 21
+ScreaM killed AAAAY  in round 21
+BerLIN killed Nivera  in round 21
+XMS killed BerLIN  in round 21
+XMS killed nizhaoTZH  in round 21
+YuChEn killed Newzera  in round 21
+sh1n killed YuChEn  in round 21
+Yuicaw killed sh1n  in round 21
+AAAAY killed XMS  in round 21
+AAAAY killed ScreaM  in round 21
+Round 21 ended with elimination. The winning team is FunPlus Phoenix.
+The current score is Karmine Corp 8 - 13 FunPlus Phoenix.
+Game ended with winning team: FunPlus Phoenix at 2023-02-14T18:59:08Z
+
+--- Player Stats ---
+YuChEn: Team=FunPlus Phoenix, Kills=18, Deaths=13, Assists=2, KDA=1.54, First Kills=2, First Deaths=1
+AAAAY: Team=FunPlus Phoenix, Kills=15, Deaths=15, Assists=9, KDA=1.6, First Kills=0, First Deaths=1
+BerLIN: Team=FunPlus Phoenix, Kills=17, Deaths=15, Assists=8, KDA=1.67, First Kills=3, First Deaths=3
+Yuicaw: Team=FunPlus Phoenix, Kills=20, Deaths=11, Assists=2, KDA=2.0, First Kills=3, First Deaths=3
+nizhaoTZH: Team=FunPlus Phoenix, Kills=11, Deaths=14, Assists=8, KDA=1.36, First Kills=2, First Deaths=3
+XMS: Team=Karmine Corp, Kills=9, Deaths=15, Assists=5, KDA=0.93, First Kills=0, First Deaths=0
+sh1n: Team=Karmine Corp, Kills=12, Deaths=18, Assists=4, KDA=0.89, First Kills=2, First Deaths=3
+ScreaM: Team=Karmine Corp, Kills=21, Deaths=16, Assists=8, KDA=1.81, First Kills=3, First Deaths=3
+Nivera: Team=Karmine Corp, Kills=16, Deaths=18, Assists=4, KDA=1.11, First Kills=5, First Deaths=3
+Newzera: Team=Karmine Corp, Kills=11, Deaths=15, Assists=7, KDA=1.2, First Kills=1, First Deaths=1

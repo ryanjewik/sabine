@@ -1,0 +1,212 @@
+Team 1: GLOBAL ESPORTS
+Team 2: DRX
+Participating Players:
+Player 1: MaKo
+Player 2: Foxy9
+Player 3: stax
+Player 4: BeYN
+Player 5: BuZz
+Player 6: blaZek1ngg
+Player 7: Benkai
+Player 8: Russ
+Player 9: polvi
+Player 10: Lightningfa
+Winning Team: DRX
+Score: GLOBAL ESPORTS 6 - 13 DRX
+Tournament Name: vct pacific stage 1 2024
+Game Start Time: 2024-04-08T12:21:09Z
+Game End Time: 2024-04-08T13:07:50Z
+Rounds ended by ELIMINATION count: 8
+Rounds ended by DEFUSE count: 6
+Rounds ended by DETONATE count: 2
+SPIKE PLANTED count: 8
+platformGameId: val:78d420f2-f888-49f0-ae77-908e4544d66d
+
+--- Events ---
+Game started at 2024-04-08T12:21:09Z
+BuZz killed Lightningfa  in round 1
+Benkai killed BuZz  in round 1
+BeYN killed Russ  in round 1
+MaKo killed Benkai  in round 1
+MaKo killed polvi  in round 1
+blaZek1ngg killed MaKo  in round 1
+BeYN killed blaZek1ngg  in round 1
+Round 1 ended with elimination. The winning team is DRX.
+The current score is GLOBAL ESPORTS 0 - 1 DRX.
+MaKo killed Russ  in round 2
+BeYN killed blaZek1ngg  in round 2
+BuZz killed polvi  in round 2
+Benkai killed BuZz  in round 2
+Benkai killed stax  in round 2
+Foxy9 killed Benkai  in round 2
+Lightningfa killed Foxy9  in round 2
+MaKo killed Lightningfa  in round 2
+Round 2 ended with elimination. The winning team is DRX.
+The current score is GLOBAL ESPORTS 0 - 2 DRX.
+BeYN killed blaZek1ngg  in round 3
+MaKo killed Lightningfa  in round 3
+BuZz killed Russ  in round 3
+polvi killed BuZz  in round 3
+polvi killed stax  in round 3
+BeYN killed Benkai  in round 3
+Foxy9 killed polvi  in round 3
+Round 3 ended with spike_defuse. The winning team is DRX.
+The current score is GLOBAL ESPORTS 0 - 3 DRX.
+polvi killed MaKo  in round 4
+Lightningfa killed BuZz  in round 4
+Lightningfa killed BeYN  in round 4
+Foxy9 killed blaZek1ngg  in round 4
+stax killed Lightningfa  in round 4
+Foxy9 killed Russ  in round 4
+Foxy9 killed Benkai  in round 4
+polvi killed stax  in round 4
+Foxy9 killed polvi  in round 4
+Round 4 ended with spike_defuse. The winning team is DRX.
+The current score is GLOBAL ESPORTS 0 - 4 DRX.
+Benkai killed stax  in round 5
+BuZz killed Benkai  in round 5
+Russ killed BeYN  in round 5
+polvi killed BuZz  in round 5
+Round 5 ended with detonate. The winning team is GLOBAL ESPORTS.
+The current score is GLOBAL ESPORTS 1 - 4 DRX.
+BuZz killed Russ  in round 6
+BuZz killed blaZek1ngg  in round 6
+MaKo killed polvi  in round 6
+Benkai killed stax  in round 6
+MaKo killed Benkai  in round 6
+Lightningfa killed Foxy9  in round 6
+Round 6 ended with time_expired. The winning team is DRX.
+The current score is GLOBAL ESPORTS 1 - 5 DRX.
+Benkai killed Foxy9  in round 7
+stax killed Lightningfa  in round 7
+BeYN killed polvi  in round 7
+Russ killed stax  in round 7
+BuZz killed blaZek1ngg  in round 7
+BuZz killed Benkai  in round 7
+Russ killed BuZz  in round 7
+MaKo killed Russ  in round 7
+Round 7 ended with spike_defuse. The winning team is DRX.
+The current score is GLOBAL ESPORTS 1 - 6 DRX.
+Benkai killed BeYN  in round 8
+stax killed polvi  in round 8
+BuZz killed Lightningfa  in round 8
+BuZz killed blaZek1ngg  in round 8
+Benkai killed BuZz  in round 8
+MaKo killed Russ  in round 8
+Round 8 ended with time_expired. The winning team is DRX.
+The current score is GLOBAL ESPORTS 1 - 7 DRX.
+Lightningfa killed BuZz  in round 9
+stax killed polvi  in round 9
+Lightningfa killed BeYN  in round 9
+blaZek1ngg killed MaKo  in round 9
+stax killed Lightningfa  in round 9
+blaZek1ngg killed stax  in round 9
+Foxy9 killed blaZek1ngg  in round 9
+Foxy9 killed Benkai  in round 9
+Russ killed Foxy9  in round 9
+Round 9 ended with elimination. The winning team is GLOBAL ESPORTS.
+The current score is GLOBAL ESPORTS 2 - 7 DRX.
+polvi killed MaKo  in round 10
+blaZek1ngg killed stax  in round 10
+Lightningfa killed Foxy9  in round 10
+blaZek1ngg killed BuZz  in round 10
+polvi killed BeYN  in round 10
+Round 10 ended with elimination. The winning team is GLOBAL ESPORTS.
+The current score is GLOBAL ESPORTS 3 - 7 DRX.
+stax killed polvi  in round 11
+BuZz killed Russ  in round 11
+blaZek1ngg killed stax  in round 11
+blaZek1ngg killed BeYN  in round 11
+BuZz killed Lightningfa  in round 11
+MaKo killed Benkai  in round 11
+BuZz killed blaZek1ngg  in round 11
+Round 11 ended with spike_defuse. The winning team is DRX.
+The current score is GLOBAL ESPORTS 3 - 8 DRX.
+MaKo killed polvi  in round 12
+BuZz killed blaZek1ngg  in round 12
+BeYN killed Lightningfa  in round 12
+Russ killed BuZz  in round 12
+BeYN killed Benkai  in round 12
+stax killed Russ  in round 12
+Round 12 ended with elimination. The winning team is DRX.
+The current score is GLOBAL ESPORTS 3 - 9 DRX.
+Russ killed BuZz  in round 13
+Foxy9 killed Russ  in round 13
+stax killed polvi  in round 13
+blaZek1ngg killed MaKo  in round 13
+stax killed Lightningfa  in round 13
+blaZek1ngg killed stax  in round 13
+Foxy9 killed blaZek1ngg  in round 13
+Foxy9 killed Benkai  in round 13
+Round 13 ended with elimination. The winning team is DRX.
+The current score is GLOBAL ESPORTS 3 - 10 DRX.
+stax killed Lightningfa  in round 14
+polvi killed BuZz  in round 14
+BeYN killed polvi  in round 14
+MaKo killed blaZek1ngg  in round 14
+Russ killed MaKo  in round 14
+Round 14 ended with detonate. The winning team is DRX.
+The current score is GLOBAL ESPORTS 3 - 11 DRX.
+Foxy9 killed Russ  in round 15
+Benkai killed Benkai  in round 15
+Lightningfa killed stax  in round 15
+MaKo killed polvi  in round 15
+Russ killed BuZz  in round 15
+BeYN killed blaZek1ngg  in round 15
+Foxy9 killed Lightningfa  in round 15
+Benkai killed MaKo  in round 15
+Benkai killed Foxy9  in round 15
+Round 15 ended with time_expired. The winning team is GLOBAL ESPORTS.
+The current score is GLOBAL ESPORTS 4 - 11 DRX.
+Benkai killed BeYN  in round 16
+Benkai killed Foxy9  in round 16
+BuZz killed blaZek1ngg  in round 16
+stax killed Benkai  in round 16
+MaKo killed Lightningfa  in round 16
+Russ killed MaKo  in round 16
+polvi killed BeYN  in round 16
+BuZz killed polvi  in round 16
+Russ killed BuZz  in round 16
+stax killed Russ  in round 16
+Round 16 ended with elimination. The winning team is DRX.
+The current score is GLOBAL ESPORTS 4 - 12 DRX.
+blaZek1ngg killed MaKo  in round 17
+Russ killed Foxy9  in round 17
+BeYN killed polvi  in round 17
+Benkai killed BuZz  in round 17
+Russ killed BeYN  in round 17
+stax killed Lightningfa  in round 17
+Russ killed stax  in round 17
+Round 17 ended with spike_defuse. The winning team is GLOBAL ESPORTS.
+The current score is GLOBAL ESPORTS 5 - 12 DRX.
+BuZz killed polvi  in round 18
+Lightningfa killed BuZz  in round 18
+stax killed Lightningfa  in round 18
+Russ killed MaKo  in round 18
+blaZek1ngg killed Foxy9  in round 18
+Russ killed stax  in round 18
+Benkai killed BeYN  in round 18
+Round 18 ended with spike_defuse. The winning team is GLOBAL ESPORTS.
+The current score is GLOBAL ESPORTS 6 - 12 DRX.
+Benkai killed BuZz  in round 19
+Foxy9 killed Lightningfa  in round 19
+Foxy9 killed polvi  in round 19
+Russ killed Foxy9  in round 19
+stax killed Benkai  in round 19
+BeYN killed blaZek1ngg  in round 19
+stax killed Russ  in round 19
+Round 19 ended with elimination. The winning team is DRX.
+The current score is GLOBAL ESPORTS 6 - 13 DRX.
+Game ended with winning team: DRX at 2024-04-08T13:07:50Z
+
+--- Player Stats ---
+MaKo: Team=DRX, Kills=14, Deaths=10, Assists=2, KDA=1.6, First Kills=2, First Deaths=3
+Foxy9: Team=DRX, Kills=15, Deaths=10, Assists=3, KDA=1.8, First Kills=1, First Deaths=1
+stax: Team=DRX, Kills=16, Deaths=13, Assists=11, KDA=2.08, First Kills=2, First Deaths=1
+BeYN: Team=DRX, Kills=12, Deaths=10, Assists=7, KDA=1.9, First Kills=1, First Deaths=2
+BuZz: Team=DRX, Kills=17, Deaths=17, Assists=3, KDA=1.18, First Kills=3, First Deaths=3
+blaZek1ngg: Team=GLOBAL ESPORTS, Kills=11, Deaths=15, Assists=3, KDA=0.93, First Kills=1, First Deaths=1
+Benkai: Team=GLOBAL ESPORTS, Kills=16, Deaths=14, Assists=3, KDA=1.36, First Kills=5, First Deaths=0
+Russ: Team=GLOBAL ESPORTS, Kills=16, Deaths=13, Assists=4, KDA=1.54, First Kills=1, First Deaths=3
+polvi: Team=GLOBAL ESPORTS, Kills=9, Deaths=17, Assists=2, KDA=0.65, First Kills=2, First Deaths=3
+Lightningfa: Team=GLOBAL ESPORTS, Kills=9, Deaths=16, Assists=6, KDA=0.94, First Kills=1, First Deaths=2

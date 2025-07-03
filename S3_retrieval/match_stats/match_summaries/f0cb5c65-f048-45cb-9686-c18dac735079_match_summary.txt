@@ -1,0 +1,184 @@
+Team 1: LOUD
+Team 2: 100 Thieves
+Participating Players:
+Player 1: eeiu
+Player 2: bangNA
+Player 3: Boostio
+Player 4: Cryo
+Player 5: Asuna
+Player 6: QcK
+Player 7: cauanzin
+Player 8: Saadhak
+Player 9: Less
+Player 10: tuyz
+Winning Team: 100 Thieves
+Score: LOUD 4 - 13 100 Thieves
+Tournament Name: vct americas stage 1 2024
+Game Start Time: 2024-05-09T00:16:21Z
+Game End Time: 2024-05-09T00:55:53Z
+Rounds ended by ELIMINATION count: 9
+Rounds ended by DEFUSE count: 5
+Rounds ended by DETONATE count: 2
+SPIKE PLANTED count: 7
+platformGameId: val:f0cb5c65-f048-45cb-9686-c18dac735079
+
+--- Events ---
+Game started at 2024-05-09T00:16:21Z
+Boostio killed QcK  in round 1
+Asuna killed Saadhak  in round 1
+cauanzin killed Asuna  in round 1
+Boostio killed tuyz  in round 1
+cauanzin killed Boostio  in round 1
+bangNA killed cauanzin  in round 1
+eeiu killed Less  in round 1
+Round 1 ended with elimination. The winning team is 100 Thieves.
+The current score is LOUD 0 - 1 100 Thieves.
+Cryo killed Less  in round 2
+Cryo killed tuyz  in round 2
+Boostio killed QcK  in round 2
+cauanzin killed Cryo  in round 2
+bangNA killed Saadhak  in round 2
+eeiu killed cauanzin  in round 2
+Round 2 ended with elimination. The winning team is 100 Thieves.
+The current score is LOUD 0 - 2 100 Thieves.
+Cryo killed Saadhak  in round 3
+Cryo killed cauanzin  in round 3
+Cryo killed Less  in round 3
+Boostio killed QcK  in round 3
+Boostio killed tuyz  in round 3
+Round 3 ended with elimination. The winning team is 100 Thieves.
+The current score is LOUD 0 - 3 100 Thieves.
+Cryo killed Less  in round 4
+Cryo killed Saadhak  in round 4
+Cryo killed cauanzin  in round 4
+eeiu killed QcK  in round 4
+bangNA killed tuyz  in round 4
+Round 4 ended with elimination. The winning team is 100 Thieves.
+The current score is LOUD 0 - 4 100 Thieves.
+bangNA killed QcK  in round 5
+Saadhak killed Cryo  in round 5
+Boostio killed cauanzin  in round 5
+tuyz killed Boostio  in round 5
+bangNA killed tuyz  in round 5
+Saadhak killed bangNA  in round 5
+Asuna killed Saadhak  in round 5
+Asuna killed Less  in round 5
+Round 5 ended with spike_defuse. The winning team is 100 Thieves.
+The current score is LOUD 0 - 5 100 Thieves.
+Cryo killed cauanzin  in round 6
+Asuna killed tuyz  in round 6
+Cryo killed QcK  in round 6
+Asuna killed Less  in round 6
+Saadhak killed Boostio  in round 6
+Cryo killed Saadhak  in round 6
+Round 6 ended with spike_defuse. The winning team is 100 Thieves.
+The current score is LOUD 0 - 6 100 Thieves.
+cauanzin killed Boostio  in round 7
+bangNA killed QcK  in round 7
+cauanzin killed Cryo  in round 7
+bangNA killed cauanzin  in round 7
+tuyz killed bangNA  in round 7
+Asuna killed Less  in round 7
+Saadhak killed eeiu  in round 7
+Saadhak killed Asuna  in round 7
+Round 7 ended with elimination. The winning team is LOUD.
+The current score is LOUD 1 - 6 100 Thieves.
+Boostio killed cauanzin  in round 8
+Less killed Boostio  in round 8
+bangNA killed Less  in round 8
+bangNA killed QcK  in round 8
+tuyz killed bangNA  in round 8
+Saadhak killed eeiu  in round 8
+Asuna killed tuyz  in round 8
+Asuna killed Saadhak  in round 8
+Round 8 ended with spike_defuse. The winning team is 100 Thieves.
+The current score is LOUD 1 - 7 100 Thieves.
+tuyz killed Cryo  in round 9
+Less killed Boostio  in round 9
+eeiu killed QcK  in round 9
+Less killed Asuna  in round 9
+tuyz killed bangNA  in round 9
+tuyz killed eeiu  in round 9
+Round 9 ended with elimination. The winning team is LOUD.
+The current score is LOUD 2 - 7 100 Thieves.
+Cryo killed Saadhak  in round 10
+QcK killed Asuna  in round 10
+Boostio killed QcK  in round 10
+Less killed eeiu  in round 10
+Cryo killed tuyz  in round 10
+Boostio killed cauanzin  in round 10
+bangNA killed Less  in round 10
+Round 10 ended with elimination. The winning team is 100 Thieves.
+The current score is LOUD 2 - 8 100 Thieves.
+Cryo killed Less  in round 11
+Cryo killed cauanzin  in round 11
+Saadhak killed Asuna  in round 11
+Cryo killed tuyz  in round 11
+Saadhak killed bangNA  in round 11
+Round 11 ended with time_expired. The winning team is 100 Thieves.
+The current score is LOUD 2 - 9 100 Thieves.
+Saadhak killed Boostio  in round 12
+eeiu killed Saadhak  in round 12
+tuyz killed bangNA  in round 12
+Boostio killed Saadhak  in round 12
+QcK killed Boostio  in round 12
+Asuna killed QcK  in round 12
+Cryo killed Less  in round 12
+Cryo killed tuyz  in round 12
+Cryo killed cauanzin  in round 12
+Round 12 ended with spike_defuse. The winning team is 100 Thieves.
+The current score is LOUD 2 - 10 100 Thieves.
+Boostio killed tuyz  in round 13
+cauanzin killed Cryo  in round 13
+QcK killed Asuna  in round 13
+Less killed Boostio  in round 13
+bangNA killed Less  in round 13
+eeiu killed QcK  in round 13
+Saadhak killed bangNA  in round 13
+Round 13 ended with spike_defuse. The winning team is LOUD.
+The current score is LOUD 3 - 10 100 Thieves.
+cauanzin killed eeiu  in round 14
+bangNA killed Saadhak  in round 14
+Boostio killed cauanzin  in round 14
+QcK killed Cryo  in round 14
+QcK killed eeiu  in round 14
+tuyz killed bangNA  in round 14
+Asuna killed QcK  in round 14
+tuyz killed Asuna  in round 14
+Less killed Boostio  in round 14
+Round 14 ended with elimination. The winning team is LOUD.
+The current score is LOUD 4 - 10 100 Thieves.
+bangNA killed QcK  in round 15
+bangNA killed Saadhak  in round 15
+Cryo killed Less  in round 15
+Round 15 ended with detonate. The winning team is 100 Thieves.
+The current score is LOUD 4 - 11 100 Thieves.
+cauanzin killed Boostio  in round 16
+Asuna killed Saadhak  in round 16
+eeiu killed cauanzin  in round 16
+Cryo killed QcK  in round 16
+Cryo killed tuyz  in round 16
+Round 16 ended with detonate. The winning team is 100 Thieves.
+The current score is LOUD 4 - 12 100 Thieves.
+tuyz killed Cryo  in round 17
+Asuna killed tuyz  in round 17
+Asuna killed cauanzin  in round 17
+bangNA killed Saadhak  in round 17
+Less killed Asuna  in round 17
+Boostio killed Less  in round 17
+bangNA killed QcK  in round 17
+Round 17 ended with elimination. The winning team is 100 Thieves.
+The current score is LOUD 4 - 13 100 Thieves.
+Game ended with winning team: 100 Thieves at 2024-05-09T00:55:53Z
+
+--- Player Stats ---
+eeiu: Team=100 Thieves, Kills=7, Deaths=6, Assists=9, KDA=2.67, First Kills=0, First Deaths=1
+bangNA: Team=100 Thieves, Kills=16, Deaths=8, Assists=6, KDA=2.75, First Kills=2, First Deaths=0
+Boostio: Team=100 Thieves, Kills=13, Deaths=11, Assists=2, KDA=1.36, First Kills=3, First Deaths=3
+Cryo: Team=100 Thieves, Kills=22, Deaths=7, Assists=1, KDA=3.29, First Kills=6, First Deaths=2
+Asuna: Team=100 Thieves, Kills=13, Deaths=8, Assists=3, KDA=2.0, First Kills=0, First Deaths=0
+QcK: Team=LOUD, Kills=5, Deaths=16, Assists=1, KDA=0.38, First Kills=0, First Deaths=3
+cauanzin: Team=LOUD, Kills=8, Deaths=14, Assists=3, KDA=0.79, First Kills=3, First Deaths=2
+Saadhak: Team=LOUD, Kills=10, Deaths=14, Assists=2, KDA=0.86, First Kills=1, First Deaths=2
+Less: Team=LOUD, Kills=7, Deaths=14, Assists=4, KDA=0.79, First Kills=0, First Deaths=3
+tuyz: Team=LOUD, Kills=10, Deaths=13, Assists=3, KDA=1.0, First Kills=2, First Deaths=1

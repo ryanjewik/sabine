@@ -1,0 +1,224 @@
+Team 1: NAVI
+Team 2: Karmine Corp
+Participating Players:
+Player 1: Shin 
+Player 2: Tomaszy
+Player 3: MAGNUM
+Player 4: marteen
+Player 5: N4RRATE
+Player 6: Zyppan
+Player 7: Shao
+Player 8: ANGE1
+Player 9: ardiis
+Player 10: suygetsu
+Winning Team: NAVI
+Score: NAVI 13 - 7 Karmine Corp
+Tournament Name: vct emea stage 1 2024
+Game Start Time: 2024-04-17T17:48:46Z
+Game End Time: 2024-04-17T18:31:01Z
+Rounds ended by ELIMINATION count: 12
+Rounds ended by DEFUSE count: 6
+Rounds ended by DETONATE count: 0
+SPIKE PLANTED count: 6
+platformGameId: val:b875b8bd-d339-4938-9c54-0afe36d8931e
+
+--- Events ---
+Game started at 2024-04-17T17:48:46Z
+Shin  killed Zyppan  in round 1
+Shao killed marteen  in round 1
+Shin  killed ardiis  in round 1
+Shao killed Shin   in round 1
+MAGNUM killed suygetsu  in round 1
+ANGE1 killed MAGNUM  in round 1
+Shao killed N4RRATE  in round 1
+Shao killed Tomaszy  in round 1
+Round 1 ended with elimination. The winning team is NAVI.
+The current score is NAVI 1 - 0 Karmine Corp.
+Zyppan killed N4RRATE  in round 2
+Tomaszy killed suygetsu  in round 2
+ardiis killed marteen  in round 2
+ardiis killed Shin   in round 2
+Zyppan killed MAGNUM  in round 2
+Zyppan killed Tomaszy  in round 2
+Round 2 ended with elimination. The winning team is NAVI.
+The current score is NAVI 2 - 0 Karmine Corp.
+ANGE1 killed MAGNUM  in round 3
+Shao killed marteen  in round 3
+Zyppan killed Shin   in round 3
+ardiis killed N4RRATE  in round 3
+Tomaszy killed ANGE1  in round 3
+Tomaszy killed Zyppan  in round 3
+ardiis killed Tomaszy  in round 3
+Round 3 ended with elimination. The winning team is NAVI.
+The current score is NAVI 3 - 0 Karmine Corp.
+Zyppan killed MAGNUM  in round 4
+Tomaszy killed ardiis  in round 4
+Zyppan killed Tomaszy  in round 4
+N4RRATE killed Zyppan  in round 4
+N4RRATE killed Shao  in round 4
+ANGE1 killed N4RRATE  in round 4
+marteen killed suygetsu  in round 4
+ANGE1 killed marteen  in round 4
+Shin  killed ANGE1  in round 4
+Round 4 ended with spike_defuse. The winning team is Karmine Corp.
+The current score is NAVI 3 - 1 Karmine Corp.
+Zyppan killed Shin   in round 5
+Zyppan killed MAGNUM  in round 5
+N4RRATE killed Zyppan  in round 5
+Shao killed N4RRATE  in round 5
+marteen killed suygetsu  in round 5
+Shao killed marteen  in round 5
+Tomaszy killed Shao  in round 5
+ardiis killed Tomaszy  in round 5
+Round 5 ended with elimination. The winning team is NAVI.
+The current score is NAVI 4 - 1 Karmine Corp.
+Shao killed Shin   in round 6
+suygetsu killed MAGNUM  in round 6
+ardiis killed N4RRATE  in round 6
+Tomaszy killed ardiis  in round 6
+suygetsu killed Tomaszy  in round 6
+suygetsu killed marteen  in round 6
+Round 6 ended with elimination. The winning team is NAVI.
+The current score is NAVI 5 - 1 Karmine Corp.
+ardiis killed Tomaszy  in round 7
+MAGNUM killed ardiis  in round 7
+Shin  killed Zyppan  in round 7
+marteen killed Shao  in round 7
+Shin  killed ANGE1  in round 7
+Round 7 ended with time_expired. The winning team is Karmine Corp.
+The current score is NAVI 5 - 2 Karmine Corp.
+MAGNUM killed Shao  in round 8
+ANGE1 killed marteen  in round 8
+Tomaszy killed suygetsu  in round 8
+MAGNUM killed ardiis  in round 8
+Shin  killed Zyppan  in round 8
+Shin  killed ANGE1  in round 8
+Round 8 ended with spike_defuse. The winning team is Karmine Corp.
+The current score is NAVI 5 - 3 Karmine Corp.
+Shao killed marteen  in round 9
+N4RRATE killed ardiis  in round 9
+suygetsu killed Shin   in round 9
+Tomaszy killed suygetsu  in round 9
+Tomaszy killed Shao  in round 9
+N4RRATE killed Zyppan  in round 9
+Tomaszy killed ANGE1  in round 9
+Round 9 ended with elimination. The winning team is Karmine Corp.
+The current score is NAVI 5 - 4 Karmine Corp.
+Zyppan killed N4RRATE  in round 10
+marteen killed Zyppan  in round 10
+suygetsu killed Shin   in round 10
+suygetsu killed marteen  in round 10
+suygetsu killed MAGNUM  in round 10
+Tomaszy killed suygetsu  in round 10
+Tomaszy killed ANGE1  in round 10
+ardiis killed Tomaszy  in round 10
+Round 10 ended with elimination. The winning team is NAVI.
+The current score is NAVI 6 - 4 Karmine Corp.
+marteen killed suygetsu  in round 11
+Tomaszy killed Zyppan  in round 11
+Tomaszy killed ardiis  in round 11
+Tomaszy killed Shao  in round 11
+ANGE1 killed Tomaszy  in round 11
+marteen killed ANGE1  in round 11
+Round 11 ended with spike_defuse. The winning team is Karmine Corp.
+The current score is NAVI 6 - 5 Karmine Corp.
+Zyppan killed MAGNUM  in round 12
+N4RRATE killed Zyppan  in round 12
+ardiis killed marteen  in round 12
+marteen killed Shao  in round 12
+suygetsu killed Tomaszy  in round 12
+ardiis killed Shin   in round 12
+ANGE1 killed N4RRATE  in round 12
+Round 12 ended with elimination. The winning team is NAVI.
+The current score is NAVI 7 - 5 Karmine Corp.
+Shao killed Tomaszy  in round 13
+N4RRATE killed ANGE1  in round 13
+N4RRATE killed Zyppan  in round 13
+ardiis killed N4RRATE  in round 13
+suygetsu killed marteen  in round 13
+MAGNUM killed suygetsu  in round 13
+MAGNUM killed Shao  in round 13
+MAGNUM killed ardiis  in round 13
+Round 13 ended with elimination. The winning team is Karmine Corp.
+The current score is NAVI 7 - 6 Karmine Corp.
+marteen killed suygetsu  in round 14
+marteen killed ardiis  in round 14
+marteen killed Shao  in round 14
+ANGE1 killed marteen  in round 14
+MAGNUM killed Zyppan  in round 14
+N4RRATE killed ANGE1  in round 14
+Round 14 ended with elimination. The winning team is Karmine Corp.
+The current score is NAVI 7 - 7 Karmine Corp.
+marteen killed suygetsu  in round 15
+Tomaszy killed Zyppan  in round 15
+Shao killed marteen  in round 15
+Shao killed MAGNUM  in round 15
+ardiis killed Shin   in round 15
+N4RRATE killed ardiis  in round 15
+Shao killed Tomaszy  in round 15
+ANGE1 killed N4RRATE  in round 15
+Round 15 ended with spike_defuse. The winning team is NAVI.
+The current score is NAVI 8 - 7 Karmine Corp.
+ardiis killed marteen  in round 16
+Shao killed MAGNUM  in round 16
+Zyppan killed Shin   in round 16
+Tomaszy killed suygetsu  in round 16
+N4RRATE killed Zyppan  in round 16
+N4RRATE killed ardiis  in round 16
+ANGE1 killed N4RRATE  in round 16
+Tomaszy killed Shao  in round 16
+ANGE1 killed Tomaszy  in round 16
+Round 16 ended with elimination. The winning team is NAVI.
+The current score is NAVI 9 - 7 Karmine Corp.
+ardiis killed marteen  in round 17
+Tomaszy killed ANGE1  in round 17
+ardiis killed N4RRATE  in round 17
+ardiis killed Tomaszy  in round 17
+ardiis killed Shin   in round 17
+ardiis killed MAGNUM  in round 17
+Round 17 ended with elimination. The winning team is NAVI.
+The current score is NAVI 10 - 7 Karmine Corp.
+MAGNUM killed ardiis  in round 18
+Shao killed N4RRATE  in round 18
+ANGE1 killed Tomaszy  in round 18
+MAGNUM killed Zyppan  in round 18
+Shin  killed ANGE1  in round 18
+suygetsu killed Shin   in round 18
+suygetsu killed marteen  in round 18
+MAGNUM killed suygetsu  in round 18
+Shao killed MAGNUM  in round 18
+Round 18 ended with spike_defuse. The winning team is NAVI.
+The current score is NAVI 11 - 7 Karmine Corp.
+ANGE1 killed marteen  in round 19
+Shao killed MAGNUM  in round 19
+ardiis killed N4RRATE  in round 19
+ardiis killed Shin   in round 19
+Round 19 ended with time_expired. The winning team is NAVI.
+The current score is NAVI 12 - 7 Karmine Corp.
+Tomaszy killed Zyppan  in round 20
+Tomaszy killed Shao  in round 20
+Tomaszy killed ANGE1  in round 20
+ardiis killed marteen  in round 20
+Tomaszy killed Zyppan  in round 20
+Tomaszy killed ardiis  in round 20
+ANGE1 killed Tomaszy  in round 20
+ANGE1 killed Shin   in round 20
+N4RRATE killed ANGE1  in round 20
+N4RRATE killed Shao  in round 20
+suygetsu killed N4RRATE  in round 20
+suygetsu killed MAGNUM  in round 20
+Round 20 ended with spike_defuse. The winning team is NAVI.
+The current score is NAVI 13 - 7 Karmine Corp.
+Game ended with winning team: NAVI at 2024-04-17T18:31:01Z
+
+--- Player Stats ---
+Shin : Team=Karmine Corp, Kills=8, Deaths=14, Assists=9, KDA=1.21, First Kills=1, First Deaths=2
+Tomaszy: Team=Karmine Corp, Kills=24, Deaths=16, Assists=7, KDA=1.94, First Kills=1, First Deaths=2
+MAGNUM: Team=Karmine Corp, Kills=11, Deaths=14, Assists=17, KDA=2.0, First Kills=2, First Deaths=3
+marteen: Team=Karmine Corp, Kills=11, Deaths=18, Assists=5, KDA=0.89, First Kills=3, First Deaths=4
+N4RRATE: Team=Karmine Corp, Kills=14, Deaths=15, Assists=1, KDA=1.0, First Kills=0, First Deaths=2
+Zyppan: Team=NAVI, Kills=11, Deaths=17, Assists=4, KDA=0.88, First Kills=5, First Deaths=2
+Shao: Team=NAVI, Kills=17, Deaths=12, Assists=10, KDA=2.25, First Kills=3, First Deaths=1
+ANGE1: Team=NAVI, Kills=15, Deaths=13, Assists=6, KDA=1.62, First Kills=2, First Deaths=0
+ardiis: Team=NAVI, Kills=21, Deaths=13, Assists=17, KDA=2.92, First Kills=3, First Deaths=1
+suygetsu: Team=NAVI, Kills=13, Deaths=13, Assists=5, KDA=1.38, First Kills=0, First Deaths=3

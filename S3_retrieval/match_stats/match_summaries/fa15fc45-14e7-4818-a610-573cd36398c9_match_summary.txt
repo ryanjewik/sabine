@@ -1,0 +1,226 @@
+Team 1: NAVI
+Team 2: BBL Esports
+Participating Players:
+Player 1: Brave
+Player 2: QutionerX
+Player 3: SouhcNi
+Player 4: Turko
+Player 5: AsLanMshadW
+Player 6: Zyppan
+Player 7: cNed
+Player 8: ANGE1
+Player 9: Shao
+Player 10: suygetsu
+Winning Team: NAVI
+Score: NAVI 13 - 8 BBL Esports
+Tournament Name: vct emea 2023
+Game Start Time: 2023-04-06T17:24:01Z
+Game End Time: 2023-04-06T18:13:58Z
+Rounds ended by ELIMINATION count: 15
+Rounds ended by DEFUSE count: 5
+Rounds ended by DETONATE count: 0
+SPIKE PLANTED count: 5
+platformGameId: val:fa15fc45-14e7-4818-a610-573cd36398c9
+
+--- Events ---
+Game started at 2023-04-06T17:24:01Z
+AsLanMshadW killed cNed  in round 1
+Shao killed QutionerX  in round 1
+suygetsu killed AsLanMshadW  in round 1
+Shao killed Brave  in round 1
+Shao killed SouhcNi  in round 1
+Turko killed Shao  in round 1
+Zyppan killed Turko  in round 1
+Round 1 ended with elimination. The winning team is NAVI.
+The current score is NAVI 1 - 0 BBL Esports.
+ANGE1 killed AsLanMshadW  in round 2
+Brave killed Shao  in round 2
+Zyppan killed Brave  in round 2
+SouhcNi killed Zyppan  in round 2
+Turko killed cNed  in round 2
+Turko killed suygetsu  in round 2
+Turko killed ANGE1  in round 2
+Round 2 ended with elimination. The winning team is BBL Esports.
+The current score is NAVI 1 - 1 BBL Esports.
+suygetsu killed Brave  in round 3
+AsLanMshadW killed suygetsu  in round 3
+ANGE1 killed AsLanMshadW  in round 3
+QutionerX killed Zyppan  in round 3
+SouhcNi killed Shao  in round 3
+cNed killed QutionerX  in round 3
+SouhcNi killed cNed  in round 3
+ANGE1 killed Turko  in round 3
+ANGE1 killed SouhcNi  in round 3
+Round 3 ended with elimination. The winning team is NAVI.
+The current score is NAVI 2 - 1 BBL Esports.
+ANGE1 killed SouhcNi  in round 4
+QutionerX killed ANGE1  in round 4
+Brave killed suygetsu  in round 4
+AsLanMshadW killed cNed  in round 4
+Zyppan killed Brave  in round 4
+Zyppan killed Turko  in round 4
+Zyppan killed AsLanMshadW  in round 4
+Zyppan killed QutionerX  in round 4
+Round 4 ended with elimination. The winning team is NAVI.
+The current score is NAVI 3 - 1 BBL Esports.
+Brave killed Shao  in round 5
+Brave killed suygetsu  in round 5
+cNed killed Brave  in round 5
+ANGE1 killed QutionerX  in round 5
+ANGE1 killed AsLanMshadW  in round 5
+cNed killed SouhcNi  in round 5
+cNed killed Turko  in round 5
+Round 5 ended with elimination. The winning team is NAVI.
+The current score is NAVI 4 - 1 BBL Esports.
+cNed killed AsLanMshadW  in round 6
+cNed killed Turko  in round 6
+QutionerX killed Zyppan  in round 6
+Shao killed SouhcNi  in round 6
+Brave killed Shao  in round 6
+cNed killed Brave  in round 6
+cNed killed QutionerX  in round 6
+Round 6 ended with elimination. The winning team is NAVI.
+The current score is NAVI 5 - 1 BBL Esports.
+SouhcNi killed Zyppan  in round 7
+Brave killed cNed  in round 7
+Shao killed Brave  in round 7
+QutionerX killed ANGE1  in round 7
+SouhcNi killed suygetsu  in round 7
+QutionerX killed Shao  in round 7
+Round 7 ended with elimination. The winning team is BBL Esports.
+The current score is NAVI 5 - 2 BBL Esports.
+AsLanMshadW killed ANGE1  in round 8
+Zyppan killed QutionerX  in round 8
+cNed killed AsLanMshadW  in round 8
+Brave killed Zyppan  in round 8
+Brave killed suygetsu  in round 8
+Turko killed Shao  in round 8
+cNed killed Brave  in round 8
+Round 8 ended with time_expired. The winning team is BBL Esports.
+The current score is NAVI 5 - 3 BBL Esports.
+ANGE1 killed SouhcNi  in round 9
+QutionerX killed ANGE1  in round 9
+Turko killed Zyppan  in round 9
+cNed killed Brave  in round 9
+suygetsu killed Turko  in round 9
+AsLanMshadW killed cNed  in round 9
+Shao killed AsLanMshadW  in round 9
+QutionerX killed suygetsu  in round 9
+QutionerX killed Shao  in round 9
+Round 9 ended with spike_defuse. The winning team is BBL Esports.
+The current score is NAVI 5 - 4 BBL Esports.
+cNed killed Turko  in round 10
+SouhcNi killed ANGE1  in round 10
+Zyppan killed SouhcNi  in round 10
+Shao killed Brave  in round 10
+cNed killed QutionerX  in round 10
+Shao killed AsLanMshadW  in round 10
+Round 10 ended with elimination. The winning team is NAVI.
+The current score is NAVI 6 - 4 BBL Esports.
+SouhcNi killed Zyppan  in round 11
+suygetsu killed SouhcNi  in round 11
+Turko killed suygetsu  in round 11
+Shao killed Turko  in round 11
+Brave killed Shao  in round 11
+AsLanMshadW killed ANGE1  in round 11
+QutionerX killed cNed  in round 11
+Round 11 ended with spike_defuse. The winning team is BBL Esports.
+The current score is NAVI 6 - 5 BBL Esports.
+Turko killed ANGE1  in round 12
+QutionerX killed cNed  in round 12
+QutionerX killed Zyppan  in round 12
+AsLanMshadW killed suygetsu  in round 12
+Shao killed AsLanMshadW  in round 12
+QutionerX killed Shao  in round 12
+Round 12 ended with spike_defuse. The winning team is BBL Esports.
+The current score is NAVI 6 - 6 BBL Esports.
+Brave killed cNed  in round 13
+Shao killed SouhcNi  in round 13
+Shao killed AsLanMshadW  in round 13
+suygetsu killed Turko  in round 13
+suygetsu killed QutionerX  in round 13
+Brave killed Shao  in round 13
+Zyppan killed Brave  in round 13
+Round 13 ended with elimination. The winning team is NAVI.
+The current score is NAVI 7 - 6 BBL Esports.
+SouhcNi killed ANGE1  in round 14
+cNed killed AsLanMshadW  in round 14
+suygetsu killed SouhcNi  in round 14
+Turko killed Shao  in round 14
+Turko killed suygetsu  in round 14
+cNed killed QutionerX  in round 14
+cNed killed Brave  in round 14
+Zyppan killed Turko  in round 14
+Round 14 ended with spike_defuse. The winning team is NAVI.
+The current score is NAVI 8 - 6 BBL Esports.
+QutionerX killed suygetsu  in round 15
+AsLanMshadW killed cNed  in round 15
+Shao killed QutionerX  in round 15
+SouhcNi killed Zyppan  in round 15
+SouhcNi killed ANGE1  in round 15
+Shao killed SouhcNi  in round 15
+AsLanMshadW killed Shao  in round 15
+Round 15 ended with elimination. The winning team is BBL Esports.
+The current score is NAVI 8 - 7 BBL Esports.
+suygetsu killed QutionerX  in round 16
+suygetsu killed Turko  in round 16
+AsLanMshadW killed Zyppan  in round 16
+Brave killed ANGE1  in round 16
+suygetsu killed AsLanMshadW  in round 16
+suygetsu killed Brave  in round 16
+suygetsu killed SouhcNi  in round 16
+Round 16 ended with elimination. The winning team is NAVI.
+The current score is NAVI 9 - 7 BBL Esports.
+cNed killed SouhcNi  in round 17
+QutionerX killed Shao  in round 17
+Zyppan killed Turko  in round 17
+cNed killed QutionerX  in round 17
+Brave killed cNed  in round 17
+Zyppan killed Brave  in round 17
+ANGE1 killed AsLanMshadW  in round 17
+Round 17 ended with spike_defuse. The winning team is NAVI.
+The current score is NAVI 10 - 7 BBL Esports.
+Zyppan killed Brave  in round 18
+suygetsu killed SouhcNi  in round 18
+Zyppan killed AsLanMshadW  in round 18
+suygetsu killed Turko  in round 18
+QutionerX killed suygetsu  in round 18
+QutionerX killed Shao  in round 18
+Zyppan killed QutionerX  in round 18
+Round 18 ended with elimination. The winning team is NAVI.
+The current score is NAVI 11 - 7 BBL Esports.
+ANGE1 killed AsLanMshadW  in round 19
+ANGE1 killed Turko  in round 19
+ANGE1 killed QutionerX  in round 19
+ANGE1 killed Brave  in round 19
+suygetsu killed SouhcNi  in round 19
+Round 19 ended with elimination. The winning team is NAVI.
+The current score is NAVI 12 - 7 BBL Esports.
+Turko killed cNed  in round 20
+Turko killed ANGE1  in round 20
+Turko killed suygetsu  in round 20
+Shao killed Turko  in round 20
+QutionerX killed Shao  in round 20
+AsLanMshadW killed Zyppan  in round 20
+Round 20 ended with elimination. The winning team is BBL Esports.
+The current score is NAVI 12 - 8 BBL Esports.
+cNed killed QutionerX  in round 21
+ANGE1 killed AsLanMshadW  in round 21
+ANGE1 killed Turko  in round 21
+cNed killed Brave  in round 21
+Shao killed SouhcNi  in round 21
+Round 21 ended with elimination. The winning team is NAVI.
+The current score is NAVI 13 - 8 BBL Esports.
+Game ended with winning team: NAVI at 2023-04-06T18:13:58Z
+
+--- Player Stats ---
+Brave: Team=BBL Esports, Kills=13, Deaths=17, Assists=5, KDA=1.06, First Kills=2, First Deaths=2
+QutionerX: Team=BBL Esports, Kills=17, Deaths=15, Assists=3, KDA=1.33, First Kills=1, First Deaths=2
+SouhcNi: Team=BBL Esports, Kills=10, Deaths=16, Assists=4, KDA=0.88, First Kills=3, First Deaths=3
+Turko: Team=BBL Esports, Kills=13, Deaths=16, Assists=7, KDA=1.25, First Kills=2, First Deaths=1
+AsLanMshadW: Team=BBL Esports, Kills=11, Deaths=17, Assists=1, KDA=0.71, First Kills=2, First Deaths=3
+Zyppan: Team=NAVI, Kills=15, Deaths=11, Assists=5, KDA=1.82, First Kills=1, First Deaths=2
+cNed: Team=NAVI, Kills=20, Deaths=12, Assists=3, KDA=1.92, First Kills=4, First Deaths=3
+ANGE1: Team=NAVI, Kills=15, Deaths=12, Assists=4, KDA=1.58, First Kills=4, First Deaths=3
+Shao: Team=NAVI, Kills=16, Deaths=16, Assists=7, KDA=1.44, First Kills=0, First Deaths=1
+suygetsu: Team=NAVI, Kills=15, Deaths=13, Assists=7, KDA=1.69, First Kills=2, First Deaths=1

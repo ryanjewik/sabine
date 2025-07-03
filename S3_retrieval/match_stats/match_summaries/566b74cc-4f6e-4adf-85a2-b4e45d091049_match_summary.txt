@@ -1,0 +1,203 @@
+Team 1: DRX
+Team 2: Evil Geniuses
+Participating Players:
+Player 1: Demon1
+Player 2: Ethan
+Player 3: JAWGEMO
+Player 4: C0M
+Player 5: Boostio
+Player 6: Foxy9
+Player 7: BuZz
+Player 8: stax
+Player 9: MaKo
+Player 10: Rb
+Winning Team: Evil Geniuses
+Score: DRX 5 - 13 Evil Geniuses
+Tournament Name: vct masters 2023 groups
+Game Start Time: 2023-06-12T06:35:25Z
+Game End Time: 2023-06-12T07:26:57Z
+Rounds ended by ELIMINATION count: 12
+Rounds ended by DEFUSE count: 5
+Rounds ended by DETONATE count: 1
+SPIKE PLANTED count: 6
+platformGameId: val:566b74cc-4f6e-4adf-85a2-b4e45d091049
+
+--- Events ---
+Game started at 2023-06-12T06:35:25Z
+JAWGEMO killed Foxy9  in round 1
+Rb killed Boostio  in round 1
+Ethan killed Rb  in round 1
+JAWGEMO killed stax  in round 1
+Demon1 killed MaKo  in round 1
+Demon1 killed BuZz  in round 1
+MaKo killed JAWGEMO  in round 1
+Round 1 ended with spike_defuse. The winning team is Evil Geniuses.
+The current score is DRX 0 - 1 Evil Geniuses.
+JAWGEMO killed BuZz  in round 2
+Boostio killed Foxy9  in round 2
+Boostio killed Rb  in round 2
+Boostio killed stax  in round 2
+MaKo killed Ethan  in round 2
+JAWGEMO killed MaKo  in round 2
+Round 2 ended with elimination. The winning team is Evil Geniuses.
+The current score is DRX 0 - 2 Evil Geniuses.
+BuZz killed Ethan  in round 3
+Boostio killed stax  in round 3
+Foxy9 killed Boostio  in round 3
+MaKo killed C0M  in round 3
+MaKo killed Demon1  in round 3
+JAWGEMO killed MaKo  in round 3
+JAWGEMO killed Rb  in round 3
+JAWGEMO killed BuZz  in round 3
+JAWGEMO killed Foxy9  in round 3
+Round 3 ended with spike_defuse. The winning team is Evil Geniuses.
+The current score is DRX 0 - 3 Evil Geniuses.
+Demon1 killed Foxy9  in round 4
+Boostio killed stax  in round 4
+MaKo killed Demon1  in round 4
+C0M killed MaKo  in round 4
+Rb killed C0M  in round 4
+JAWGEMO killed BuZz  in round 4
+Rb killed Boostio  in round 4
+JAWGEMO killed Rb  in round 4
+Round 4 ended with spike_defuse. The winning team is Evil Geniuses.
+The current score is DRX 0 - 4 Evil Geniuses.
+Rb killed Ethan  in round 5
+Rb killed JAWGEMO  in round 5
+Demon1 killed Rb  in round 5
+C0M killed stax  in round 5
+Foxy9 killed C0M  in round 5
+Boostio killed Foxy9  in round 5
+Demon1 killed MaKo  in round 5
+Demon1 killed BuZz  in round 5
+Round 5 ended with spike_defuse. The winning team is Evil Geniuses.
+The current score is DRX 0 - 5 Evil Geniuses.
+Ethan killed stax  in round 6
+MaKo killed Ethan  in round 6
+Foxy9 killed Demon1  in round 6
+MaKo killed JAWGEMO  in round 6
+Foxy9 killed C0M  in round 6
+BuZz killed Boostio  in round 6
+Round 6 ended with elimination. The winning team is DRX.
+The current score is DRX 1 - 5 Evil Geniuses.
+JAWGEMO killed MaKo  in round 7
+JAWGEMO killed Foxy9  in round 7
+stax killed JAWGEMO  in round 7
+Boostio killed Rb  in round 7
+Boostio killed stax  in round 7
+BuZz killed C0M  in round 7
+Boostio killed BuZz  in round 7
+Round 7 ended with elimination. The winning team is Evil Geniuses.
+The current score is DRX 1 - 6 Evil Geniuses.
+Rb killed JAWGEMO  in round 8
+Rb killed C0M  in round 8
+Foxy9 killed Boostio  in round 8
+Demon1 killed MaKo  in round 8
+Rb killed Demon1  in round 8
+Round 8 ended with detonate. The winning team is DRX.
+The current score is DRX 2 - 6 Evil Geniuses.
+Foxy9 killed Demon1  in round 9
+Ethan killed Foxy9  in round 9
+Rb killed Ethan  in round 9
+Boostio killed stax  in round 9
+Boostio killed MaKo  in round 9
+Rb killed Boostio  in round 9
+JAWGEMO killed Rb  in round 9
+JAWGEMO killed BuZz  in round 9
+Round 9 ended with spike_defuse. The winning team is Evil Geniuses.
+The current score is DRX 2 - 7 Evil Geniuses.
+JAWGEMO killed BuZz  in round 10
+C0M killed Foxy9  in round 10
+Rb killed JAWGEMO  in round 10
+Rb killed Ethan  in round 10
+C0M killed Rb  in round 10
+Boostio killed MaKo  in round 10
+stax killed Boostio  in round 10
+MaKo killed C0M  in round 10
+stax killed Demon1  in round 10
+Round 10 ended with elimination. The winning team is DRX.
+The current score is DRX 3 - 7 Evil Geniuses.
+Rb killed Boostio  in round 11
+Foxy9 killed JAWGEMO  in round 11
+stax killed Demon1  in round 11
+MaKo killed Ethan  in round 11
+Rb killed C0M  in round 11
+Round 11 ended with elimination. The winning team is DRX.
+The current score is DRX 4 - 7 Evil Geniuses.
+JAWGEMO killed Foxy9  in round 12
+Ethan killed Rb  in round 12
+BuZz killed Ethan  in round 12
+JAWGEMO killed BuZz  in round 12
+C0M killed MaKo  in round 12
+JAWGEMO killed stax  in round 12
+Round 12 ended with elimination. The winning team is Evil Geniuses.
+The current score is DRX 4 - 8 Evil Geniuses.
+BuZz killed JAWGEMO  in round 13
+BuZz killed Boostio  in round 13
+Demon1 killed MaKo  in round 13
+Ethan killed stax  in round 13
+Ethan killed BuZz  in round 13
+Foxy9 killed C0M  in round 13
+Rb killed Demon1  in round 13
+Ethan killed Foxy9  in round 13
+Ethan killed Rb  in round 13
+Round 13 ended with elimination. The winning team is Evil Geniuses.
+The current score is DRX 4 - 9 Evil Geniuses.
+Ethan killed Ethan  in round 14
+Boostio killed MaKo  in round 14
+Boostio killed BuZz  in round 14
+JAWGEMO killed stax  in round 14
+C0M killed Rb  in round 14
+C0M killed Foxy9  in round 14
+Round 14 ended with elimination. The winning team is Evil Geniuses.
+The current score is DRX 4 - 10 Evil Geniuses.
+Foxy9 killed Ethan  in round 15
+Rb killed JAWGEMO  in round 15
+C0M killed Rb  in round 15
+stax killed C0M  in round 15
+Boostio killed MaKo  in round 15
+Boostio killed stax  in round 15
+Foxy9 killed Demon1  in round 15
+BuZz killed Boostio  in round 15
+Round 15 ended with elimination. The winning team is DRX.
+The current score is DRX 5 - 10 Evil Geniuses.
+Demon1 killed Foxy9  in round 16
+Boostio killed Rb  in round 16
+JAWGEMO killed stax  in round 16
+JAWGEMO killed MaKo  in round 16
+Demon1 killed BuZz  in round 16
+Round 16 ended with elimination. The winning team is Evil Geniuses.
+The current score is DRX 5 - 11 Evil Geniuses.
+C0M killed MaKo  in round 17
+Demon1 killed stax  in round 17
+BuZz killed Demon1  in round 17
+Foxy9 killed JAWGEMO  in round 17
+Boostio killed Foxy9  in round 17
+Boostio killed BuZz  in round 17
+Boostio killed Rb  in round 17
+Round 17 ended with elimination. The winning team is Evil Geniuses.
+The current score is DRX 5 - 12 Evil Geniuses.
+JAWGEMO killed Foxy9  in round 18
+BuZz killed JAWGEMO  in round 18
+Ethan killed MaKo  in round 18
+BuZz killed C0M  in round 18
+Ethan killed stax  in round 18
+BuZz killed Ethan  in round 18
+Demon1 killed BuZz  in round 18
+Rb killed Boostio  in round 18
+Demon1 killed Rb  in round 18
+Round 18 ended with elimination. The winning team is Evil Geniuses.
+The current score is DRX 5 - 13 Evil Geniuses.
+Game ended with winning team: Evil Geniuses at 2023-06-12T07:26:57Z
+
+--- Player Stats ---
+Demon1: Team=Evil Geniuses, Kills=13, Deaths=10, Assists=10, KDA=2.3, First Kills=2, First Deaths=1
+Ethan: Team=Evil Geniuses, Kills=11, Deaths=11, Assists=16, KDA=2.45, First Kills=2, First Deaths=4
+JAWGEMO: Team=Evil Geniuses, Kills=22, Deaths=11, Assists=2, KDA=2.18, First Kills=6, First Deaths=2
+C0M: Team=Evil Geniuses, Kills=9, Deaths=11, Assists=8, KDA=1.55, First Kills=1, First Deaths=0
+Boostio: Team=Evil Geniuses, Kills=20, Deaths=11, Assists=2, KDA=2.0, First Kills=0, First Deaths=1
+Foxy9: Team=DRX, Kills=11, Deaths=14, Assists=1, KDA=0.86, First Kills=2, First Deaths=5
+BuZz: Team=DRX, Kills=11, Deaths=14, Assists=2, KDA=0.93, First Kills=2, First Deaths=2
+stax: Team=DRX, Kills=5, Deaths=15, Assists=11, KDA=1.07, First Kills=0, First Deaths=1
+MaKo: Team=DRX, Kills=9, Deaths=16, Assists=13, KDA=1.38, First Kills=0, First Deaths=2
+Rb: Team=DRX, Kills=17, Deaths=15, Assists=3, KDA=1.33, First Kills=3, First Deaths=0

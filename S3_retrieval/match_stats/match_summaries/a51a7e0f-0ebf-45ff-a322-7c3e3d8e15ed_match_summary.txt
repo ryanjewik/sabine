@@ -1,0 +1,192 @@
+Team 1: Evil Geniuses
+Team 2: Cloud9 Blue
+Participating Players:
+Player 1: moose
+Player 2: vanity
+Player 3: Oxy
+Player 4: runi
+Player 5: xeppaa
+Player 6: JAWGEMO
+Player 7: Derrek
+Player 8: NaturE
+Player 9: Apoth
+Player 10: supamen
+Winning Team: Cloud9 Blue
+Score: Evil Geniuses 4 - 13 Cloud9 Blue
+Tournament Name: vct americas stage 1 2024
+Game Start Time: 2024-04-15T23:01:43Z
+Game End Time: 2024-04-15T23:44:33Z
+Rounds ended by ELIMINATION count: 11
+Rounds ended by DEFUSE count: 6
+Rounds ended by DETONATE count: 0
+SPIKE PLANTED count: 6
+platformGameId: val:a51a7e0f-0ebf-45ff-a322-7c3e3d8e15ed
+
+--- Events ---
+Game started at 2024-04-15T23:01:43Z
+Oxy killed JAWGEMO  in round 1
+runi killed supamen  in round 1
+NaturE killed Oxy  in round 1
+xeppaa killed NaturE  in round 1
+Apoth killed runi  in round 1
+Apoth killed xeppaa  in round 1
+moose killed Derrek  in round 1
+moose killed Apoth  in round 1
+Round 1 ended with spike_defuse. The winning team is Cloud9 Blue.
+The current score is Evil Geniuses 0 - 1 Cloud9 Blue.
+vanity killed NaturE  in round 2
+runi killed JAWGEMO  in round 2
+moose killed supamen  in round 2
+Apoth killed moose  in round 2
+xeppaa killed Derrek  in round 2
+xeppaa killed Apoth  in round 2
+Round 2 ended with elimination. The winning team is Cloud9 Blue.
+The current score is Evil Geniuses 0 - 2 Cloud9 Blue.
+Oxy killed Apoth  in round 3
+JAWGEMO killed runi  in round 3
+supamen killed vanity  in round 3
+moose killed JAWGEMO  in round 3
+Oxy killed supamen  in round 3
+Derrek killed moose  in round 3
+Oxy killed Derrek  in round 3
+xeppaa killed NaturE  in round 3
+Round 3 ended with spike_defuse. The winning team is Cloud9 Blue.
+The current score is Evil Geniuses 0 - 3 Cloud9 Blue.
+xeppaa killed JAWGEMO  in round 4
+xeppaa killed NaturE  in round 4
+vanity killed Derrek  in round 4
+vanity killed Apoth  in round 4
+supamen killed Oxy  in round 4
+supamen killed vanity  in round 4
+runi killed supamen  in round 4
+Round 4 ended with elimination. The winning team is Cloud9 Blue.
+The current score is Evil Geniuses 0 - 4 Cloud9 Blue.
+JAWGEMO killed vanity  in round 5
+Oxy killed JAWGEMO  in round 5
+Oxy killed supamen  in round 5
+moose killed Derrek  in round 5
+Apoth killed Oxy  in round 5
+NaturE killed xeppaa  in round 5
+moose killed Apoth  in round 5
+runi killed NaturE  in round 5
+Round 5 ended with spike_defuse. The winning team is Cloud9 Blue.
+The current score is Evil Geniuses 0 - 5 Cloud9 Blue.
+runi killed supamen  in round 6
+Derrek killed runi  in round 6
+Apoth killed Oxy  in round 6
+xeppaa killed Derrek  in round 6
+xeppaa killed NaturE  in round 6
+JAWGEMO killed xeppaa  in round 6
+moose killed Apoth  in round 6
+JAWGEMO killed vanity  in round 6
+JAWGEMO killed moose  in round 6
+Round 6 ended with elimination. The winning team is Evil Geniuses.
+The current score is Evil Geniuses 1 - 5 Cloud9 Blue.
+Oxy killed JAWGEMO  in round 7
+runi killed Apoth  in round 7
+xeppaa killed Derrek  in round 7
+runi killed NaturE  in round 7
+supamen killed runi  in round 7
+Oxy killed supamen  in round 7
+Round 7 ended with spike_defuse. The winning team is Cloud9 Blue.
+The current score is Evil Geniuses 1 - 6 Cloud9 Blue.
+runi killed supamen  in round 8
+Oxy killed Apoth  in round 8
+Oxy killed NaturE  in round 8
+runi killed JAWGEMO  in round 8
+Oxy killed Derrek  in round 8
+Round 8 ended with elimination. The winning team is Cloud9 Blue.
+The current score is Evil Geniuses 1 - 7 Cloud9 Blue.
+vanity killed Apoth  in round 9
+Oxy killed JAWGEMO  in round 9
+moose killed NaturE  in round 9
+supamen killed runi  in round 9
+Derrek killed xeppaa  in round 9
+supamen killed moose  in round 9
+supamen killed vanity  in round 9
+Oxy killed supamen  in round 9
+Derrek killed Oxy  in round 9
+Round 9 ended with elimination. The winning team is Evil Geniuses.
+The current score is Evil Geniuses 2 - 7 Cloud9 Blue.
+Oxy killed Apoth  in round 10
+NaturE killed xeppaa  in round 10
+vanity killed NaturE  in round 10
+JAWGEMO killed vanity  in round 10
+Oxy killed Derrek  in round 10
+runi killed supamen  in round 10
+runi killed JAWGEMO  in round 10
+Round 10 ended with spike_defuse. The winning team is Cloud9 Blue.
+The current score is Evil Geniuses 2 - 8 Cloud9 Blue.
+Oxy killed Apoth  in round 11
+Oxy killed supamen  in round 11
+Oxy killed JAWGEMO  in round 11
+Oxy killed Derrek  in round 11
+NaturE killed Oxy  in round 11
+NaturE killed moose  in round 11
+vanity killed NaturE  in round 11
+Round 11 ended with elimination. The winning team is Cloud9 Blue.
+The current score is Evil Geniuses 2 - 9 Cloud9 Blue.
+xeppaa killed Apoth  in round 12
+NaturE killed vanity  in round 12
+Oxy killed supamen  in round 12
+Oxy killed JAWGEMO  in round 12
+Derrek killed runi  in round 12
+moose killed Derrek  in round 12
+NaturE killed moose  in round 12
+Oxy killed NaturE  in round 12
+Round 12 ended with spike_defuse. The winning team is Cloud9 Blue.
+The current score is Evil Geniuses 2 - 10 Cloud9 Blue.
+xeppaa killed Apoth  in round 13
+JAWGEMO killed xeppaa  in round 13
+Oxy killed JAWGEMO  in round 13
+Derrek killed Oxy  in round 13
+moose killed supamen  in round 13
+vanity killed Derrek  in round 13
+runi killed NaturE  in round 13
+Round 13 ended with elimination. The winning team is Cloud9 Blue.
+The current score is Evil Geniuses 2 - 11 Cloud9 Blue.
+supamen killed vanity  in round 14
+xeppaa killed Derrek  in round 14
+Oxy killed supamen  in round 14
+Oxy killed NaturE  in round 14
+Oxy killed JAWGEMO  in round 14
+Apoth killed xeppaa  in round 14
+Oxy killed Apoth  in round 14
+Round 14 ended with elimination. The winning team is Cloud9 Blue.
+The current score is Evil Geniuses 2 - 12 Cloud9 Blue.
+Derrek killed Oxy  in round 15
+xeppaa killed Derrek  in round 15
+Apoth killed xeppaa  in round 15
+Apoth killed vanity  in round 15
+Apoth killed runi  in round 15
+Apoth killed moose  in round 15
+Round 15 ended with elimination. The winning team is Evil Geniuses.
+The current score is Evil Geniuses 3 - 12 Cloud9 Blue.
+JAWGEMO killed Oxy  in round 16
+Apoth killed xeppaa  in round 16
+Derrek killed runi  in round 16
+NaturE killed moose  in round 16
+NaturE killed vanity  in round 16
+Round 16 ended with elimination. The winning team is Evil Geniuses.
+The current score is Evil Geniuses 4 - 12 Cloud9 Blue.
+supamen killed Oxy  in round 17
+vanity killed supamen  in round 17
+vanity killed Apoth  in round 17
+moose killed Derrek  in round 17
+moose killed JAWGEMO  in round 17
+moose killed NaturE  in round 17
+Round 17 ended with elimination. The winning team is Cloud9 Blue.
+The current score is Evil Geniuses 4 - 13 Cloud9 Blue.
+Game ended with winning team: Cloud9 Blue at 2024-04-15T23:44:33Z
+
+--- Player Stats ---
+moose: Team=Cloud9 Blue, Kills=13, Deaths=8, Assists=6, KDA=2.38, First Kills=0, First Deaths=0
+vanity: Team=Cloud9 Blue, Kills=9, Deaths=10, Assists=10, KDA=1.9, First Kills=2, First Deaths=2
+Oxy: Team=Cloud9 Blue, Kills=27, Deaths=10, Assists=4, KDA=3.1, First Kills=5, First Deaths=3
+runi: Team=Cloud9 Blue, Kills=12, Deaths=8, Assists=5, KDA=2.12, First Kills=2, First Deaths=0
+xeppaa: Team=Cloud9 Blue, Kills=13, Deaths=9, Assists=9, KDA=2.44, First Kills=3, First Deaths=0
+JAWGEMO: Team=Evil Geniuses, Kills=8, Deaths=14, Assists=1, KDA=0.64, First Kills=2, First Deaths=3
+Derrek: Team=Evil Geniuses, Kills=8, Deaths=15, Assists=7, KDA=1.0, First Kills=1, First Deaths=0
+NaturE: Team=Evil Geniuses, Kills=9, Deaths=15, Assists=4, KDA=0.87, First Kills=0, First Deaths=1
+Apoth: Team=Evil Geniuses, Kills=11, Deaths=15, Assists=2, KDA=0.87, First Kills=0, First Deaths=6
+supamen: Team=Evil Geniuses, Kills=9, Deaths=15, Assists=4, KDA=0.87, First Kills=2, First Deaths=2

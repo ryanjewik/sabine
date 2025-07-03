@@ -1,0 +1,191 @@
+Team 1: 100 Thieves
+Team 2: Leviatán Esports
+Participating Players:
+Player 1: aspas
+Player 2: tex
+Player 3: kiNgg
+Player 4: C0M
+Player 5: Mazino
+Player 6: eeiu
+Player 7: bangNA
+Player 8: Boostio
+Player 9: Cryo
+Player 10: Asuna
+Winning Team: Leviatán Esports
+Score: 100 Thieves 4 - 13 Leviatán Esports
+Tournament Name: vct americas stage 2 2024
+Game Start Time: 2024-07-01T01:25:17Z
+Game End Time: 2024-07-01T02:01:25Z
+Rounds ended by ELIMINATION count: 13
+Rounds ended by DEFUSE count: 4
+Rounds ended by DETONATE count: 0
+SPIKE PLANTED count: 4
+platformGameId: val:43884810-edcc-4837-887f-a7ba575c6503
+
+--- Events ---
+Game started at 2024-07-01T01:25:17Z
+aspas killed Boostio  in round 1
+aspas killed bangNA  in round 1
+aspas killed Cryo  in round 1
+Asuna killed aspas  in round 1
+kiNgg killed Asuna  in round 1
+eeiu killed Mazino  in round 1
+eeiu killed kiNgg  in round 1
+tex killed eeiu  in round 1
+Round 1 ended with elimination. The winning team is Leviatán Esports.
+The current score is 100 Thieves 0 - 1 Leviatán Esports.
+C0M killed bangNA  in round 2
+aspas killed Boostio  in round 2
+tex killed Cryo  in round 2
+kiNgg killed Asuna  in round 2
+eeiu killed tex  in round 2
+Mazino killed eeiu  in round 2
+Round 2 ended with elimination. The winning team is Leviatán Esports.
+The current score is 100 Thieves 0 - 2 Leviatán Esports.
+kiNgg killed Asuna  in round 3
+eeiu killed kiNgg  in round 3
+aspas killed Cryo  in round 3
+bangNA killed aspas  in round 3
+Mazino killed eeiu  in round 3
+Mazino killed bangNA  in round 3
+Mazino killed Boostio  in round 3
+Round 3 ended with elimination. The winning team is Leviatán Esports.
+The current score is 100 Thieves 0 - 3 Leviatán Esports.
+aspas killed Cryo  in round 4
+Mazino killed Asuna  in round 4
+Mazino killed Boostio  in round 4
+Mazino killed bangNA  in round 4
+eeiu killed Mazino  in round 4
+aspas killed eeiu  in round 4
+Round 4 ended with elimination. The winning team is Leviatán Esports.
+The current score is 100 Thieves 0 - 4 Leviatán Esports.
+aspas killed Cryo  in round 5
+Boostio killed aspas  in round 5
+kiNgg killed Asuna  in round 5
+eeiu killed kiNgg  in round 5
+Mazino killed Boostio  in round 5
+C0M killed bangNA  in round 5
+Mazino killed eeiu  in round 5
+Round 5 ended with elimination. The winning team is Leviatán Esports.
+The current score is 100 Thieves 0 - 5 Leviatán Esports.
+aspas killed bangNA  in round 6
+kiNgg killed Boostio  in round 6
+tex killed Cryo  in round 6
+C0M killed eeiu  in round 6
+Asuna killed C0M  in round 6
+kiNgg killed Asuna  in round 6
+Round 6 ended with spike_defuse. The winning team is Leviatán Esports.
+The current score is 100 Thieves 0 - 6 Leviatán Esports.
+Boostio killed kiNgg  in round 7
+aspas killed Boostio  in round 7
+aspas killed Cryo  in round 7
+bangNA killed tex  in round 7
+bangNA killed Mazino  in round 7
+aspas killed bangNA  in round 7
+eeiu killed C0M  in round 7
+eeiu killed aspas  in round 7
+Round 7 ended with elimination. The winning team is 100 Thieves.
+The current score is 100 Thieves 1 - 6 Leviatán Esports.
+aspas killed eeiu  in round 8
+aspas killed Asuna  in round 8
+Cryo killed aspas  in round 8
+Mazino killed Boostio  in round 8
+bangNA killed Mazino  in round 8
+bangNA killed tex  in round 8
+kiNgg killed bangNA  in round 8
+Cryo killed C0M  in round 8
+kiNgg killed Cryo  in round 8
+Round 8 ended with spike_defuse. The winning team is Leviatán Esports.
+The current score is 100 Thieves 1 - 7 Leviatán Esports.
+Asuna killed aspas  in round 9
+tex killed Cryo  in round 9
+tex killed eeiu  in round 9
+Mazino killed Asuna  in round 9
+tex killed Boostio  in round 9
+bangNA killed tex  in round 9
+bangNA killed Mazino  in round 9
+kiNgg killed bangNA  in round 9
+Round 9 ended with elimination. The winning team is Leviatán Esports.
+The current score is 100 Thieves 1 - 8 Leviatán Esports.
+aspas killed Boostio  in round 10
+Cryo killed C0M  in round 10
+Asuna killed Mazino  in round 10
+tex killed Cryo  in round 10
+tex killed bangNA  in round 10
+Asuna killed tex  in round 10
+aspas killed Asuna  in round 10
+kiNgg killed eeiu  in round 10
+Round 10 ended with spike_defuse. The winning team is Leviatán Esports.
+The current score is 100 Thieves 1 - 9 Leviatán Esports.
+C0M killed Cryo  in round 11
+tex killed Asuna  in round 11
+kiNgg killed eeiu  in round 11
+tex killed Boostio  in round 11
+bangNA killed C0M  in round 11
+bangNA killed tex  in round 11
+kiNgg killed bangNA  in round 11
+Round 11 ended with elimination. The winning team is Leviatán Esports.
+The current score is 100 Thieves 1 - 10 Leviatán Esports.
+Cryo killed C0M  in round 12
+kiNgg killed Boostio  in round 12
+Cryo killed tex  in round 12
+Cryo killed kiNgg  in round 12
+Asuna killed aspas  in round 12
+Cryo killed Mazino  in round 12
+Round 12 ended with elimination. The winning team is 100 Thieves.
+The current score is 100 Thieves 2 - 10 Leviatán Esports.
+tex killed Cryo  in round 13
+tex killed Boostio  in round 13
+aspas killed Asuna  in round 13
+eeiu killed kiNgg  in round 13
+eeiu killed aspas  in round 13
+Mazino killed bangNA  in round 13
+Mazino killed eeiu  in round 13
+Round 13 ended with elimination. The winning team is Leviatán Esports.
+The current score is 100 Thieves 2 - 11 Leviatán Esports.
+Mazino killed bangNA  in round 14
+Boostio killed Mazino  in round 14
+Boostio killed C0M  in round 14
+Asuna killed aspas  in round 14
+Boostio killed kiNgg  in round 14
+Asuna killed tex  in round 14
+Round 14 ended with spike_defuse. The winning team is 100 Thieves.
+The current score is 100 Thieves 3 - 11 Leviatán Esports.
+Boostio killed aspas  in round 15
+Boostio killed kiNgg  in round 15
+eeiu killed C0M  in round 15
+bangNA killed Mazino  in round 15
+bangNA killed tex  in round 15
+Round 15 ended with elimination. The winning team is 100 Thieves.
+The current score is 100 Thieves 4 - 11 Leviatán Esports.
+eeiu killed tex  in round 16
+C0M killed eeiu  in round 16
+Asuna killed C0M  in round 16
+kiNgg killed Asuna  in round 16
+aspas killed Boostio  in round 16
+Mazino killed bangNA  in round 16
+Mazino killed Cryo  in round 16
+Round 16 ended with elimination. The winning team is Leviatán Esports.
+The current score is 100 Thieves 4 - 12 Leviatán Esports.
+C0M killed Boostio  in round 17
+aspas killed Cryo  in round 17
+kiNgg killed bangNA  in round 17
+Asuna killed tex  in round 17
+eeiu killed C0M  in round 17
+kiNgg killed eeiu  in round 17
+Mazino killed Asuna  in round 17
+Round 17 ended with elimination. The winning team is Leviatán Esports.
+The current score is 100 Thieves 4 - 13 Leviatán Esports.
+Game ended with winning team: Leviatán Esports at 2024-07-01T02:01:25Z
+
+--- Player Stats ---
+aspas: Team=Leviatán Esports, Kills=19, Deaths=10, Assists=3, KDA=2.2, First Kills=6, First Deaths=2
+tex: Team=Leviatán Esports, Kills=12, Deaths=11, Assists=2, KDA=1.27, First Kills=1, First Deaths=1
+kiNgg: Team=Leviatán Esports, Kills=16, Deaths=8, Assists=10, KDA=3.25, First Kills=1, First Deaths=1
+C0M: Team=Leviatán Esports, Kills=6, Deaths=10, Assists=9, KDA=1.5, First Kills=3, First Deaths=1
+Mazino: Team=Leviatán Esports, Kills=17, Deaths=9, Assists=9, KDA=2.89, First Kills=1, First Deaths=0
+eeiu: Team=100 Thieves, Kills=13, Deaths=13, Assists=4, KDA=1.31, First Kills=1, First Deaths=1
+bangNA: Team=100 Thieves, Kills=11, Deaths=15, Assists=10, KDA=1.4, First Kills=0, First Deaths=3
+Boostio: Team=100 Thieves, Kills=7, Deaths=15, Assists=4, KDA=0.73, First Kills=2, First Deaths=3
+Cryo: Team=100 Thieves, Kills=7, Deaths=14, Assists=2, KDA=0.64, First Kills=1, First Deaths=4
+Asuna: Team=100 Thieves, Kills=10, Deaths=13, Assists=10, KDA=1.54, First Kills=1, First Deaths=1

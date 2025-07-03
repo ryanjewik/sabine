@@ -1,0 +1,181 @@
+Team 1: KOI
+Team 2: BBL Esports
+Participating Players:
+Player 1: Brave
+Player 2: QutionerX
+Player 3: pAura
+Player 4: Reazy
+Player 5: Elite
+Player 6: Sheydos
+Player 7: starxo
+Player 8: Shadow 
+Player 9: kamo
+Player 10: GRUBINHO
+Winning Team: BBL Esports
+Score: KOI 4 - 13 BBL Esports
+Tournament Name: vct emea stage 1 2024
+Game Start Time: 2024-04-11T18:17:52Z
+Game End Time: 2024-04-11T19:02:18Z
+Rounds ended by ELIMINATION count: 8
+Rounds ended by DEFUSE count: 7
+Rounds ended by DETONATE count: 1
+SPIKE PLANTED count: 8
+platformGameId: val:f3bbedce-05ce-406e-b693-a734baa59c9d
+
+--- Events ---
+Game started at 2024-04-11T18:17:52Z
+Brave killed starxo  in round 1
+Round 1 ended with spike_defuse. The winning team is BBL Esports.
+The current score is KOI 0 - 1 BBL Esports.
+Shadow  killed QutionerX  in round 2
+Elite killed kamo  in round 2
+Shadow  killed Brave  in round 2
+starxo killed QutionerX  in round 2
+starxo killed Brave  in round 2
+starxo killed pAura  in round 2
+Elite killed starxo  in round 2
+Shadow  killed Elite  in round 2
+kamo killed Reazy  in round 2
+Round 2 ended with elimination. The winning team is KOI.
+The current score is KOI 1 - 1 BBL Esports.
+GRUBINHO killed Brave  in round 3
+Shadow  killed QutionerX  in round 3
+Elite killed Sheydos  in round 3
+Round 3 ended with detonate. The winning team is KOI.
+The current score is KOI 2 - 1 BBL Esports.
+kamo killed pAura  in round 4
+Reazy killed Reazy  in round 4
+Shadow  killed Elite  in round 4
+Brave killed GRUBINHO  in round 4
+Sheydos killed Brave  in round 4
+QutionerX killed kamo  in round 4
+starxo killed QutionerX  in round 4
+Reazy killed starxo  in round 4
+pAura killed Sheydos  in round 4
+pAura killed Shadow   in round 4
+Round 4 ended with spike_defuse. The winning team is BBL Esports.
+The current score is KOI 2 - 2 BBL Esports.
+Elite killed kamo  in round 5
+Elite killed starxo  in round 5
+Brave killed Sheydos  in round 5
+pAura killed Shadow   in round 5
+GRUBINHO killed Reazy  in round 5
+QutionerX killed GRUBINHO  in round 5
+Round 5 ended with elimination. The winning team is BBL Esports.
+The current score is KOI 2 - 3 BBL Esports.
+pAura killed kamo  in round 6
+starxo killed QutionerX  in round 6
+Brave killed Shadow   in round 6
+Brave killed GRUBINHO  in round 6
+starxo killed Brave  in round 6
+Elite killed starxo  in round 6
+Elite killed Sheydos  in round 6
+Round 6 ended with spike_defuse. The winning team is BBL Esports.
+The current score is KOI 2 - 4 BBL Esports.
+Reazy killed kamo  in round 7
+pAura killed starxo  in round 7
+pAura killed Shadow   in round 7
+Round 7 ended with time_expired. The winning team is BBL Esports.
+The current score is KOI 2 - 5 BBL Esports.
+QutionerX killed kamo  in round 8
+GRUBINHO killed Brave  in round 8
+Sheydos killed QutionerX  in round 8
+Elite killed starxo  in round 8
+pAura killed GRUBINHO  in round 8
+Elite killed Sheydos  in round 8
+Reazy killed Shadow   in round 8
+Round 8 ended with spike_defuse. The winning team is BBL Esports.
+The current score is KOI 2 - 6 BBL Esports.
+pAura killed Sheydos  in round 9
+pAura killed GRUBINHO  in round 9
+Reazy killed kamo  in round 9
+QutionerX killed Shadow   in round 9
+Brave killed starxo  in round 9
+Round 9 ended with elimination. The winning team is BBL Esports.
+The current score is KOI 2 - 7 BBL Esports.
+Sheydos killed Elite  in round 10
+Sheydos killed QutionerX  in round 10
+Reazy killed kamo  in round 10
+Shadow  killed Reazy  in round 10
+Sheydos killed Brave  in round 10
+Sheydos killed pAura  in round 10
+Round 10 ended with elimination. The winning team is KOI.
+The current score is KOI 3 - 7 BBL Esports.
+starxo killed pAura  in round 11
+Reazy killed kamo  in round 11
+Brave killed Sheydos  in round 11
+Shadow  killed Brave  in round 11
+GRUBINHO killed QutionerX  in round 11
+Reazy killed GRUBINHO  in round 11
+Elite killed Shadow   in round 11
+starxo killed Elite  in round 11
+Reazy killed starxo  in round 11
+Round 11 ended with spike_defuse. The winning team is BBL Esports.
+The current score is KOI 3 - 8 BBL Esports.
+pAura killed starxo  in round 12
+pAura killed Sheydos  in round 12
+pAura killed kamo  in round 12
+Shadow  killed Elite  in round 12
+Round 12 ended with spike_defuse. The winning team is BBL Esports.
+The current score is KOI 3 - 9 BBL Esports.
+GRUBINHO killed Reazy  in round 13
+Brave killed Shadow   in round 13
+GRUBINHO killed Brave  in round 13
+Elite killed Shadow   in round 13
+starxo killed pAura  in round 13
+Elite killed starxo  in round 13
+Elite killed kamo  in round 13
+GRUBINHO killed Brave  in round 13
+GRUBINHO killed Elite  in round 13
+Reazy killed Sheydos  in round 13
+GRUBINHO killed QutionerX  in round 13
+Reazy killed GRUBINHO  in round 13
+Round 13 ended with elimination. The winning team is BBL Esports.
+The current score is KOI 3 - 10 BBL Esports.
+Reazy killed Reazy  in round 14
+pAura killed kamo  in round 14
+pAura killed GRUBINHO  in round 14
+QutionerX killed Sheydos  in round 14
+Shadow  killed pAura  in round 14
+Brave killed Shadow   in round 14
+Brave killed starxo  in round 14
+Round 14 ended with elimination. The winning team is BBL Esports.
+The current score is KOI 3 - 11 BBL Esports.
+kamo killed pAura  in round 15
+kamo killed Brave  in round 15
+Shadow  killed QutionerX  in round 15
+starxo killed Elite  in round 15
+Reazy killed Shadow   in round 15
+Sheydos killed Reazy  in round 15
+Round 15 ended with spike_defuse. The winning team is KOI.
+The current score is KOI 4 - 11 BBL Esports.
+starxo killed pAura  in round 16
+Reazy killed kamo  in round 16
+Elite killed GRUBINHO  in round 16
+starxo killed Brave  in round 16
+starxo killed Reazy  in round 16
+Elite killed starxo  in round 16
+Elite killed Sheydos  in round 16
+QutionerX killed Shadow   in round 16
+Round 16 ended with elimination. The winning team is BBL Esports.
+The current score is KOI 4 - 12 BBL Esports.
+pAura killed starxo  in round 17
+pAura killed Shadow   in round 17
+Elite killed kamo  in round 17
+QutionerX killed Sheydos  in round 17
+QutionerX killed GRUBINHO  in round 17
+Round 17 ended with elimination. The winning team is BBL Esports.
+The current score is KOI 4 - 13 BBL Esports.
+Game ended with winning team: BBL Esports at 2024-04-11T19:02:18Z
+
+--- Player Stats ---
+Brave: Team=BBL Esports, Kills=10, Deaths=12, Assists=7, KDA=1.42, First Kills=1, First Deaths=1
+QutionerX: Team=BBL Esports, Kills=8, Deaths=10, Assists=0, KDA=0.8, First Kills=1, First Deaths=1
+pAura: Team=BBL Esports, Kills=16, Deaths=8, Assists=4, KDA=2.5, First Kills=4, First Deaths=4
+Reazy: Team=BBL Esports, Kills=14, Deaths=8, Assists=8, KDA=2.75, First Kills=2, First Deaths=2
+Elite: Team=BBL Esports, Kills=17, Deaths=7, Assists=2, KDA=2.71, First Kills=1, First Deaths=1
+Sheydos: Team=KOI, Kills=7, Deaths=12, Assists=4, KDA=0.92, First Kills=1, First Deaths=1
+starxo: Team=KOI, Kills=13, Deaths=14, Assists=2, KDA=1.07, First Kills=2, First Deaths=3
+Shadow : Team=KOI, Kills=10, Deaths=13, Assists=4, KDA=1.08, First Kills=1, First Deaths=0
+kamo: Team=KOI, Kills=4, Deaths=14, Assists=1, KDA=0.36, First Kills=2, First Deaths=4
+GRUBINHO: Team=KOI, Kills=9, Deaths=10, Assists=4, KDA=1.3, First Kills=2, First Deaths=0

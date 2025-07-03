@@ -1,0 +1,216 @@
+Team 1: None
+Team 2: KRÜ Esports
+Participating Players:
+Player 1: Mazino
+Player 2: NagZet
+Player 3: Klaus
+Player 4: KeznitdeuS
+Player 5: delz1k
+Player 6: crashies
+Player 7: Victor
+Player 8: FNS
+Player 9: yay
+Player 10: Marved
+Winning Team: None
+Score: None 13 - 6 KRÜ Esports
+Tournament Name: masters 2 2022 stage 1
+Game Start Time: 2022-07-13T19:04:30Z
+Game End Time: 2022-07-13T19:41:46Z
+Rounds ended by ELIMINATION count: 16
+Rounds ended by DEFUSE count: 3
+Rounds ended by DETONATE count: 0
+SPIKE PLANTED count: 3
+platformGameId: val:c118fd7f-e97a-4f21-8430-7efcacdbfe02
+
+--- Events ---
+Game started at 2022-07-13T19:04:30Z
+Victor killed NagZet  in round 1
+Mazino killed yay  in round 1
+delz1k killed Victor  in round 1
+Marved killed delz1k  in round 1
+Klaus killed FNS  in round 1
+KeznitdeuS killed Marved  in round 1
+Klaus killed crashies  in round 1
+Round 1 ended with spike_defuse. The winning team is KRÜ Esports.
+The current score is None 0 - 1 KRÜ Esports.
+Marved killed Mazino  in round 2
+Victor killed NagZet  in round 2
+yay killed KeznitdeuS  in round 2
+crashies killed Klaus  in round 2
+Victor killed delz1k  in round 2
+Round 2 ended with elimination. The winning team is None.
+The current score is None 1 - 1 KRÜ Esports.
+yay killed NagZet  in round 3
+Marved killed KeznitdeuS  in round 3
+Marved killed Klaus  in round 3
+yay killed delz1k  in round 3
+Victor killed Mazino  in round 3
+Round 3 ended with elimination. The winning team is None.
+The current score is None 2 - 1 KRÜ Esports.
+Mazino killed yay  in round 4
+Marved killed KeznitdeuS  in round 4
+Marved killed Mazino  in round 4
+NagZet killed Marved  in round 4
+delz1k killed crashies  in round 4
+Victor killed delz1k  in round 4
+Victor killed Klaus  in round 4
+NagZet killed FNS  in round 4
+Victor killed NagZet  in round 4
+Round 4 ended with elimination. The winning team is None.
+The current score is None 3 - 1 KRÜ Esports.
+yay killed Mazino  in round 5
+crashies killed Klaus  in round 5
+crashies killed delz1k  in round 5
+crashies killed KeznitdeuS  in round 5
+yay killed NagZet  in round 5
+Round 5 ended with elimination. The winning team is None.
+The current score is None 4 - 1 KRÜ Esports.
+KeznitdeuS killed crashies  in round 6
+Victor killed delz1k  in round 6
+yay killed Mazino  in round 6
+Victor killed KeznitdeuS  in round 6
+NagZet killed yay  in round 6
+FNS killed NagZet  in round 6
+Victor killed Klaus  in round 6
+Round 6 ended with elimination. The winning team is None.
+The current score is None 5 - 1 KRÜ Esports.
+KeznitdeuS killed crashies  in round 7
+NagZet killed Marved  in round 7
+yay killed Klaus  in round 7
+Victor killed delz1k  in round 7
+KeznitdeuS killed Victor  in round 7
+yay killed KeznitdeuS  in round 7
+KeznitdeuS killed yay  in round 7
+NagZet killed FNS  in round 7
+Round 7 ended with elimination. The winning team is KRÜ Esports.
+The current score is None 5 - 2 KRÜ Esports.
+Marved killed NagZet  in round 8
+Victor killed Mazino  in round 8
+FNS killed KeznitdeuS  in round 8
+Marved killed delz1k  in round 8
+Klaus killed Marved  in round 8
+Klaus killed yay  in round 8
+Victor killed Klaus  in round 8
+Round 8 ended with elimination. The winning team is None.
+The current score is None 6 - 2 KRÜ Esports.
+KeznitdeuS killed Marved  in round 9
+yay killed Klaus  in round 9
+NagZet killed yay  in round 9
+KeznitdeuS killed Victor  in round 9
+crashies killed KeznitdeuS  in round 9
+crashies killed Mazino  in round 9
+FNS killed delz1k  in round 9
+FNS killed NagZet  in round 9
+Round 9 ended with elimination. The winning team is None.
+The current score is None 7 - 2 KRÜ Esports.
+Klaus killed Victor  in round 10
+crashies killed KeznitdeuS  in round 10
+Klaus killed crashies  in round 10
+FNS killed Klaus  in round 10
+NagZet killed Marved  in round 10
+yay killed NagZet  in round 10
+Mazino killed FNS  in round 10
+yay killed delz1k  in round 10
+yay killed Mazino  in round 10
+Round 10 ended with elimination. The winning team is None.
+The current score is None 8 - 2 KRÜ Esports.
+Marved killed Klaus  in round 11
+KeznitdeuS killed FNS  in round 11
+Victor killed KeznitdeuS  in round 11
+Marved killed delz1k  in round 11
+Marved killed NagZet  in round 11
+Mazino killed Marved  in round 11
+Mazino killed crashies  in round 11
+yay killed Mazino  in round 11
+Round 11 ended with elimination. The winning team is None.
+The current score is None 9 - 2 KRÜ Esports.
+yay killed KeznitdeuS  in round 12
+delz1k killed FNS  in round 12
+Mazino killed crashies  in round 12
+yay killed Klaus  in round 12
+delz1k killed yay  in round 12
+NagZet killed Victor  in round 12
+Marved killed NagZet  in round 12
+Marved killed delz1k  in round 12
+Marved killed Mazino  in round 12
+Round 12 ended with elimination. The winning team is None.
+The current score is None 10 - 2 KRÜ Esports.
+Victor killed Mazino  in round 13
+delz1k killed Victor  in round 13
+FNS killed delz1k  in round 13
+Marved killed NagZet  in round 13
+yay killed KeznitdeuS  in round 13
+Klaus killed crashies  in round 13
+Klaus killed FNS  in round 13
+Marved killed Klaus  in round 13
+Round 13 ended with spike_defuse. The winning team is None.
+The current score is None 11 - 2 KRÜ Esports.
+NagZet killed Victor  in round 14
+crashies killed KeznitdeuS  in round 14
+NagZet killed crashies  in round 14
+Klaus killed FNS  in round 14
+Marved killed Klaus  in round 14
+Mazino killed Marved  in round 14
+delz1k killed yay  in round 14
+Round 14 ended with elimination. The winning team is KRÜ Esports.
+The current score is None 11 - 3 KRÜ Esports.
+Mazino killed Victor  in round 15
+Klaus killed FNS  in round 15
+KeznitdeuS killed Marved  in round 15
+crashies killed Klaus  in round 15
+KeznitdeuS killed crashies  in round 15
+KeznitdeuS killed yay  in round 15
+Round 15 ended with elimination. The winning team is KRÜ Esports.
+The current score is None 11 - 4 KRÜ Esports.
+FNS killed NagZet  in round 16
+delz1k killed yay  in round 16
+Victor killed KeznitdeuS  in round 16
+Victor killed Mazino  in round 16
+Klaus killed Victor  in round 16
+FNS killed delz1k  in round 16
+Marved killed Klaus  in round 16
+Round 16 ended with elimination. The winning team is None.
+The current score is None 12 - 4 KRÜ Esports.
+Marved killed Klaus  in round 17
+KeznitdeuS killed Marved  in round 17
+Mazino killed crashies  in round 17
+KeznitdeuS killed yay  in round 17
+FNS killed KeznitdeuS  in round 17
+FNS killed Mazino  in round 17
+delz1k killed Victor  in round 17
+delz1k killed FNS  in round 17
+Round 17 ended with elimination. The winning team is KRÜ Esports.
+The current score is None 12 - 5 KRÜ Esports.
+yay killed NagZet  in round 18
+Mazino killed FNS  in round 18
+KeznitdeuS killed Victor  in round 18
+yay killed delz1k  in round 18
+Mazino killed yay  in round 18
+crashies killed KeznitdeuS  in round 18
+Klaus killed crashies  in round 18
+Mazino killed Marved  in round 18
+Round 18 ended with elimination. The winning team is KRÜ Esports.
+The current score is None 12 - 6 KRÜ Esports.
+Victor killed KeznitdeuS  in round 19
+crashies killed Klaus  in round 19
+Mazino killed Victor  in round 19
+crashies killed NagZet  in round 19
+Mazino killed crashies  in round 19
+FNS killed Mazino  in round 19
+delz1k killed Marved  in round 19
+FNS killed delz1k  in round 19
+Round 19 ended with spike_defuse. The winning team is None.
+The current score is None 13 - 6 KRÜ Esports.
+Game ended with winning team: None at 2022-07-13T19:41:46Z
+
+--- Player Stats ---
+Mazino: Team=KRÜ Esports, Kills=14, Deaths=14, Assists=3, KDA=1.21, First Kills=2, First Deaths=3
+NagZet: Team=KRÜ Esports, Kills=10, Deaths=15, Assists=1, KDA=0.73, First Kills=1, First Deaths=5
+Klaus: Team=KRÜ Esports, Kills=12, Deaths=17, Assists=4, KDA=0.94, First Kills=1, First Deaths=2
+KeznitdeuS: Team=KRÜ Esports, Kills=14, Deaths=17, Assists=2, KDA=0.94, First Kills=3, First Deaths=2
+delz1k: Team=KRÜ Esports, Kills=10, Deaths=16, Assists=1, KDA=0.69, First Kills=0, First Deaths=0
+crashies: Team=None, Kills=12, Deaths=13, Assists=9, KDA=1.62, First Kills=0, First Deaths=2
+Victor: Team=None, Kills=18, Deaths=12, Assists=4, KDA=1.83, First Kills=3, First Deaths=3
+FNS: Team=None, Kills=12, Deaths=11, Assists=8, KDA=1.82, First Kills=1, First Deaths=0
+yay: Team=None, Kills=18, Deaths=12, Assists=3, KDA=1.75, First Kills=4, First Deaths=1
+Marved: Team=None, Kills=19, Deaths=12, Assists=10, KDA=2.42, First Kills=4, First Deaths=1

@@ -1,0 +1,122 @@
+Team 1: NRG
+Team 2: Cloud9 Blue
+Participating Players:
+Player 1: Leaf
+Player 2: xeppaa
+Player 3: runi
+Player 4: Zellsis
+Player 5: jakee
+Player 6: crashies
+Player 7: Victor
+Player 8: FNS
+Player 9: s0m
+Player 10: ardiis
+Winning Team: NRG
+Score: NRG 7 - 3 Cloud9 Blue
+Tournament Name: vct americas 2023
+Game Start Time: 2023-04-23T18:55:27Z
+Game End Time: 2023-04-23T19:29:35Z
+Rounds ended by ELIMINATION count: 6
+Rounds ended by DEFUSE count: 1
+Rounds ended by DETONATE count: 3
+SPIKE PLANTED count: 4
+platformGameId: val:3b5cc481-056f-4bc4-9858-c6b9ffeb1b84
+
+--- Events ---
+Game started at 2023-04-23T18:55:27Z
+Zellsis killed ardiis  in round 1
+Leaf killed crashies  in round 1
+jakee killed FNS  in round 1
+runi killed Victor  in round 1
+s0m killed runi  in round 1
+jakee killed s0m  in round 1
+Round 1 ended with elimination. The winning team is Cloud9 Blue.
+The current score is NRG 0 - 1 Cloud9 Blue.
+Leaf killed ardiis  in round 2
+runi killed crashies  in round 2
+runi killed s0m  in round 2
+runi killed FNS  in round 2
+Zellsis killed Victor  in round 2
+Round 2 ended with elimination. The winning team is Cloud9 Blue.
+The current score is NRG 0 - 2 Cloud9 Blue.
+Victor killed Leaf  in round 3
+s0m killed jakee  in round 3
+Victor killed xeppaa  in round 3
+Victor killed runi  in round 3
+Round 3 ended with detonate. The winning team is NRG.
+The current score is NRG 1 - 2 Cloud9 Blue.
+Zellsis killed Zellsis  in round 4
+s0m killed jakee  in round 4
+ardiis killed xeppaa  in round 4
+crashies killed runi  in round 4
+Round 4 ended with detonate. The winning team is NRG.
+The current score is NRG 2 - 2 Cloud9 Blue.
+Zellsis killed Victor  in round 5
+Zellsis killed crashies  in round 5
+Victor killed Leaf  in round 5
+Zellsis killed s0m  in round 5
+jakee killed ardiis  in round 5
+FNS killed xeppaa  in round 5
+runi killed FNS  in round 5
+Victor killed jakee  in round 5
+runi killed Victor  in round 5
+Round 5 ended with spike_defuse. The winning team is Cloud9 Blue.
+The current score is NRG 2 - 3 Cloud9 Blue.
+ardiis killed runi  in round 6
+Leaf killed ardiis  in round 6
+Victor killed Zellsis  in round 6
+crashies killed jakee  in round 6
+Leaf killed Victor  in round 6
+Round 6 ended with detonate. The winning team is NRG.
+The current score is NRG 3 - 3 Cloud9 Blue.
+Leaf killed ardiis  in round 7
+Victor killed xeppaa  in round 7
+Zellsis killed Victor  in round 7
+s0m killed Leaf  in round 7
+jakee killed s0m  in round 7
+crashies killed jakee  in round 7
+runi killed crashies  in round 7
+FNS killed runi  in round 7
+Zellsis killed FNS  in round 7
+Zellsis killed Zellsis  in round 7
+Round 7 ended with elimination. The winning team is NRG.
+The current score is NRG 4 - 3 Cloud9 Blue.
+ardiis killed jakee  in round 8
+FNS killed Leaf  in round 8
+runi killed FNS  in round 8
+ardiis killed runi  in round 8
+xeppaa killed ardiis  in round 8
+crashies killed Zellsis  in round 8
+xeppaa killed crashies  in round 8
+Victor killed xeppaa  in round 8
+Round 8 ended with elimination. The winning team is NRG.
+The current score is NRG 5 - 3 Cloud9 Blue.
+ardiis killed jakee  in round 9
+s0m killed Zellsis  in round 9
+ardiis killed xeppaa  in round 9
+Leaf killed ardiis  in round 9
+s0m killed Leaf  in round 9
+Victor killed runi  in round 9
+Round 9 ended with elimination. The winning team is NRG.
+The current score is NRG 6 - 3 Cloud9 Blue.
+Victor killed Leaf  in round 10
+Victor killed jakee  in round 10
+runi killed crashies  in round 10
+s0m killed runi  in round 10
+xeppaa killed Victor  in round 10
+s0m killed Zellsis  in round 10
+s0m killed xeppaa  in round 10
+Round 10 ended with elimination. The winning team is NRG.
+The current score is NRG 7 - 3 Cloud9 Blue.
+
+--- Player Stats ---
+Leaf: Team=Cloud9 Blue, Kills=6, Deaths=6, Assists=2, KDA=1.33, First Kills=2, First Deaths=2
+xeppaa: Team=Cloud9 Blue, Kills=3, Deaths=7, Assists=4, KDA=1.0, First Kills=0, First Deaths=0
+runi: Team=Cloud9 Blue, Kills=9, Deaths=8, Assists=4, KDA=1.62, First Kills=0, First Deaths=1
+Zellsis: Team=Cloud9 Blue, Kills=9, Deaths=6, Assists=3, KDA=2.0, First Kills=3, First Deaths=1
+jakee: Team=Cloud9 Blue, Kills=4, Deaths=8, Assists=5, KDA=1.12, First Kills=0, First Deaths=2
+crashies: Team=NRG, Kills=4, Deaths=6, Assists=4, KDA=1.33, First Kills=0, First Deaths=0
+Victor: Team=NRG, Kills=11, Deaths=7, Assists=1, KDA=1.71, First Kills=2, First Deaths=1
+FNS: Team=NRG, Kills=3, Deaths=5, Assists=3, KDA=1.2, First Kills=0, First Deaths=0
+s0m: Team=NRG, Kills=9, Deaths=4, Assists=0, KDA=2.25, First Kills=0, First Deaths=0
+ardiis: Team=NRG, Kills=6, Deaths=7, Assists=2, KDA=1.14, First Kills=3, First Deaths=3

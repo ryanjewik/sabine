@@ -1,0 +1,252 @@
+Team 1: KRÜ Esports
+Team 2: Sentinels
+Participating Players:
+Player 1: TenZ
+Player 2: Sacy
+Player 3: Marved
+Player 4: zekken
+Player 5: pANcada
+Player 6: DAVEEYS
+Player 7: Klaus
+Player 8: Melser
+Player 9: KeznitdeuS
+Player 10: axeddy
+Winning Team: Sentinels
+Score: KRÜ Esports 10 - 13 Sentinels
+Tournament Name: vct americas 2023
+Game Start Time: 2023-05-14T20:19:22Z
+Game End Time: 2023-05-14T21:12:40Z
+Rounds ended by ELIMINATION count: 12
+Rounds ended by DEFUSE count: 7
+Rounds ended by DETONATE count: 2
+SPIKE PLANTED count: 9
+platformGameId: val:b489312d-f6ca-42a5-97cb-37bf4c574164
+
+--- Events ---
+Game started at 2023-05-14T20:19:22Z
+TenZ killed KeznitdeuS  in round 1
+Sacy killed Klaus  in round 1
+axeddy killed Sacy  in round 1
+axeddy killed TenZ  in round 1
+Marved killed Melser  in round 1
+DAVEEYS killed Marved  in round 1
+DAVEEYS killed zekken  in round 1
+DAVEEYS killed pANcada  in round 1
+Round 1 ended with elimination. The winning team is KRÜ Esports.
+The current score is KRÜ Esports 1 - 0 Sentinels.
+zekken killed KeznitdeuS  in round 2
+axeddy killed Marved  in round 2
+Melser killed TenZ  in round 2
+axeddy killed zekken  in round 2
+Round 2 ended with detonate. The winning team is KRÜ Esports.
+The current score is KRÜ Esports 2 - 0 Sentinels.
+pANcada killed pANcada  in round 3
+Sacy killed Sacy  in round 3
+TenZ killed axeddy  in round 3
+Marved killed Klaus  in round 3
+DAVEEYS killed Marved  in round 3
+KeznitdeuS killed TenZ  in round 3
+Sacy killed KeznitdeuS  in round 3
+Sacy killed Melser  in round 3
+DAVEEYS killed Sacy  in round 3
+zekken killed DAVEEYS  in round 3
+Round 3 ended with elimination. The winning team is Sentinels.
+The current score is KRÜ Esports 2 - 1 Sentinels.
+Klaus killed Sacy  in round 4
+pANcada killed Melser  in round 4
+pANcada killed axeddy  in round 4
+KeznitdeuS killed pANcada  in round 4
+Marved killed KeznitdeuS  in round 4
+TenZ killed Klaus  in round 4
+Round 4 ended with time_expired. The winning team is Sentinels.
+The current score is KRÜ Esports 2 - 2 Sentinels.
+KeznitdeuS killed TenZ  in round 5
+zekken killed KeznitdeuS  in round 5
+Marved killed Melser  in round 5
+zekken killed Klaus  in round 5
+Marved killed DAVEEYS  in round 5
+axeddy killed zekken  in round 5
+Marved killed axeddy  in round 5
+Round 5 ended with elimination. The winning team is Sentinels.
+The current score is KRÜ Esports 2 - 3 Sentinels.
+TenZ killed DAVEEYS  in round 6
+zekken killed Klaus  in round 6
+zekken killed Melser  in round 6
+axeddy killed pANcada  in round 6
+TenZ killed axeddy  in round 6
+zekken killed KeznitdeuS  in round 6
+Round 6 ended with elimination. The winning team is Sentinels.
+The current score is KRÜ Esports 2 - 4 Sentinels.
+TenZ killed DAVEEYS  in round 7
+KeznitdeuS killed TenZ  in round 7
+KeznitdeuS killed zekken  in round 7
+Marved killed KeznitdeuS  in round 7
+Marved killed Melser  in round 7
+axeddy killed Sacy  in round 7
+Marved killed Klaus  in round 7
+axeddy killed Marved  in round 7
+axeddy killed pANcada  in round 7
+Round 7 ended with elimination. The winning team is KRÜ Esports.
+The current score is KRÜ Esports 3 - 4 Sentinels.
+zekken killed KeznitdeuS  in round 8
+axeddy killed zekken  in round 8
+Sacy killed Klaus  in round 8
+Marved killed axeddy  in round 8
+TenZ killed DAVEEYS  in round 8
+Melser killed pANcada  in round 8
+Sacy killed Melser  in round 8
+Round 8 ended with spike_defuse. The winning team is Sentinels.
+The current score is KRÜ Esports 3 - 5 Sentinels.
+TenZ killed Melser  in round 9
+zekken killed axeddy  in round 9
+pANcada killed DAVEEYS  in round 9
+Klaus killed Sacy  in round 9
+pANcada killed Klaus  in round 9
+Marved killed KeznitdeuS  in round 9
+Round 9 ended with spike_defuse. The winning team is Sentinels.
+The current score is KRÜ Esports 3 - 6 Sentinels.
+zekken killed KeznitdeuS  in round 10
+TenZ killed Klaus  in round 10
+TenZ killed Melser  in round 10
+TenZ killed axeddy  in round 10
+DAVEEYS killed TenZ  in round 10
+Marved killed DAVEEYS  in round 10
+Round 10 ended with elimination. The winning team is Sentinels.
+The current score is KRÜ Esports 3 - 7 Sentinels.
+Marved killed axeddy  in round 11
+Sacy killed Melser  in round 11
+zekken killed Klaus  in round 11
+Sacy killed KeznitdeuS  in round 11
+zekken killed DAVEEYS  in round 11
+Round 11 ended with spike_defuse. The winning team is Sentinels.
+The current score is KRÜ Esports 3 - 8 Sentinels.
+DAVEEYS killed pANcada  in round 12
+DAVEEYS killed Sacy  in round 12
+zekken killed DAVEEYS  in round 12
+axeddy killed Marved  in round 12
+zekken killed Klaus  in round 12
+axeddy killed zekken  in round 12
+KeznitdeuS killed TenZ  in round 12
+Round 12 ended with elimination. The winning team is KRÜ Esports.
+The current score is KRÜ Esports 4 - 8 Sentinels.
+Melser killed TenZ  in round 13
+Melser killed zekken  in round 13
+pANcada killed DAVEEYS  in round 13
+pANcada killed Melser  in round 13
+Sacy killed KeznitdeuS  in round 13
+Sacy killed axeddy  in round 13
+Klaus killed pANcada  in round 13
+Marved killed Klaus  in round 13
+Round 13 ended with elimination. The winning team is Sentinels.
+The current score is KRÜ Esports 4 - 9 Sentinels.
+zekken killed axeddy  in round 14
+Klaus killed zekken  in round 14
+Marved killed DAVEEYS  in round 14
+Marved killed Klaus  in round 14
+Melser killed Marved  in round 14
+Sacy killed Melser  in round 14
+Round 14 ended with detonate. The winning team is Sentinels.
+The current score is KRÜ Esports 4 - 10 Sentinels.
+KeznitdeuS killed KeznitdeuS  in round 15
+zekken killed DAVEEYS  in round 15
+Klaus killed Marved  in round 15
+Melser killed zekken  in round 15
+TenZ killed Melser  in round 15
+pANcada killed axeddy  in round 15
+KeznitdeuS killed Sacy  in round 15
+KeznitdeuS killed TenZ  in round 15
+Round 15 ended with time_expired. The winning team is KRÜ Esports.
+The current score is KRÜ Esports 5 - 10 Sentinels.
+KeznitdeuS killed Marved  in round 16
+Melser killed TenZ  in round 16
+axeddy killed Sacy  in round 16
+zekken killed KeznitdeuS  in round 16
+zekken killed Melser  in round 16
+pANcada killed axeddy  in round 16
+Klaus killed pANcada  in round 16
+DAVEEYS killed zekken  in round 16
+Round 16 ended with spike_defuse. The winning team is KRÜ Esports.
+The current score is KRÜ Esports 6 - 10 Sentinels.
+KeznitdeuS killed TenZ  in round 17
+KeznitdeuS killed zekken  in round 17
+KeznitdeuS killed pANcada  in round 17
+axeddy killed Sacy  in round 17
+KeznitdeuS killed Marved  in round 17
+Round 17 ended with spike_defuse. The winning team is KRÜ Esports.
+The current score is KRÜ Esports 7 - 10 Sentinels.
+Klaus killed zekken  in round 18
+pANcada killed Klaus  in round 18
+DAVEEYS killed TenZ  in round 18
+pANcada killed DAVEEYS  in round 18
+axeddy killed pANcada  in round 18
+KeznitdeuS killed Sacy  in round 18
+Marved killed Melser  in round 18
+Marved killed axeddy  in round 18
+Marved killed KeznitdeuS  in round 18
+Round 18 ended with elimination. The winning team is Sentinels.
+The current score is KRÜ Esports 7 - 11 Sentinels.
+DAVEEYS killed Sacy  in round 19
+DAVEEYS killed zekken  in round 19
+pANcada killed DAVEEYS  in round 19
+TenZ killed Klaus  in round 19
+Melser killed pANcada  in round 19
+TenZ killed Melser  in round 19
+KeznitdeuS killed Marved  in round 19
+TenZ killed KeznitdeuS  in round 19
+axeddy killed TenZ  in round 19
+Round 19 ended with elimination. The winning team is KRÜ Esports.
+The current score is KRÜ Esports 8 - 11 Sentinels.
+TenZ killed KeznitdeuS  in round 20
+axeddy killed zekken  in round 20
+pANcada killed axeddy  in round 20
+Melser killed Marved  in round 20
+DAVEEYS killed TenZ  in round 20
+Sacy killed Klaus  in round 20
+Melser killed pANcada  in round 20
+Melser killed Sacy  in round 20
+Round 20 ended with spike_defuse. The winning team is KRÜ Esports.
+The current score is KRÜ Esports 9 - 11 Sentinels.
+Klaus killed zekken  in round 21
+Sacy killed Klaus  in round 21
+Melser killed Sacy  in round 21
+TenZ killed Melser  in round 21
+TenZ killed DAVEEYS  in round 21
+KeznitdeuS killed TenZ  in round 21
+Marved killed KeznitdeuS  in round 21
+Marved killed axeddy  in round 21
+Round 21 ended with elimination. The winning team is Sentinels.
+The current score is KRÜ Esports 9 - 12 Sentinels.
+DAVEEYS killed Marved  in round 22
+Sacy killed Klaus  in round 22
+DAVEEYS killed TenZ  in round 22
+pANcada killed axeddy  in round 22
+zekken killed Melser  in round 22
+KeznitdeuS killed zekken  in round 22
+DAVEEYS killed pANcada  in round 22
+DAVEEYS killed Sacy  in round 22
+Round 22 ended with spike_defuse. The winning team is KRÜ Esports.
+The current score is KRÜ Esports 10 - 12 Sentinels.
+zekken killed axeddy  in round 23
+zekken killed Melser  in round 23
+zekken killed Sacy  in round 23
+Klaus killed zekken  in round 23
+DAVEEYS killed TenZ  in round 23
+Klaus killed Marved  in round 23
+pANcada killed DAVEEYS  in round 23
+pANcada killed Klaus  in round 23
+pANcada killed KeznitdeuS  in round 23
+Round 23 ended with elimination. The winning team is Sentinels.
+The current score is KRÜ Esports 10 - 13 Sentinels.
+Game ended with winning team: Sentinels at 2023-05-14T21:12:40Z
+
+--- Player Stats ---
+TenZ: Team=Sentinels, Kills=18, Deaths=17, Assists=8, KDA=1.53, First Kills=5, First Deaths=3
+Sacy: Team=Sentinels, Kills=14, Deaths=16, Assists=9, KDA=1.44, First Kills=0, First Deaths=2
+Marved: Team=Sentinels, Kills=21, Deaths=13, Assists=12, KDA=2.54, First Kills=1, First Deaths=2
+zekken: Team=Sentinels, Kills=22, Deaths=17, Assists=4, KDA=1.53, First Kills=5, First Deaths=2
+pANcada: Team=Sentinels, Kills=17, Deaths=14, Assists=3, KDA=1.43, First Kills=1, First Deaths=2
+DAVEEYS: Team=KRÜ Esports, Kills=18, Deaths=16, Assists=4, KDA=1.38, First Kills=3, First Deaths=2
+Klaus: Team=KRÜ Esports, Kills=10, Deaths=19, Assists=8, KDA=0.95, First Kills=3, First Deaths=0
+Melser: Team=KRÜ Esports, Kills=12, Deaths=19, Assists=17, KDA=1.53, First Kills=1, First Deaths=1
+KeznitdeuS: Team=KRÜ Esports, Kills=18, Deaths=19, Assists=4, KDA=1.16, First Kills=4, First Deaths=6
+axeddy: Team=KRÜ Esports, Kills=17, Deaths=17, Assists=11, KDA=1.65, First Kills=0, First Deaths=3

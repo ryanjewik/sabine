@@ -1,0 +1,291 @@
+Team 1: MIBR
+Team 2: Cloud9 Blue
+Participating Players:
+Player 1: moose
+Player 2: vanity
+Player 3: Oxy
+Player 4: runi
+Player 5: xeppaa
+Player 6: rglmeister
+Player 7: frz
+Player 8: mazin
+Player 9: jzz
+Player 10: artzin
+Winning Team: Cloud9 Blue
+Score: MIBR 12 - 14 Cloud9 Blue
+Tournament Name: vct americas stage 1 2024
+Game Start Time: 2024-05-05T20:49:58Z
+Game End Time: 2024-05-05T22:04:08Z
+Rounds ended by ELIMINATION count: 14
+Rounds ended by DEFUSE count: 9
+Rounds ended by DETONATE count: 3
+SPIKE PLANTED count: 12
+platformGameId: val:171ffb2d-68d3-4535-909d-0c85b72f8c3b
+
+--- Events ---
+Game started at 2024-05-05T20:49:58Z
+runi killed artzin  in round 1
+Oxy killed jzz  in round 1
+mazin killed Oxy  in round 1
+xeppaa killed rglmeister  in round 1
+runi killed mazin  in round 1
+runi killed frz  in round 1
+Round 1 ended with elimination. The winning team is Cloud9 Blue.
+The current score is MIBR 0 - 1 Cloud9 Blue.
+moose killed frz  in round 2
+vanity killed jzz  in round 2
+vanity killed mazin  in round 2
+artzin killed vanity  in round 2
+runi killed rglmeister  in round 2
+runi killed artzin  in round 2
+Round 2 ended with elimination. The winning team is Cloud9 Blue.
+The current score is MIBR 0 - 2 Cloud9 Blue.
+moose killed artzin  in round 3
+vanity killed jzz  in round 3
+vanity killed mazin  in round 3
+frz killed vanity  in round 3
+moose killed rglmeister  in round 3
+moose killed frz  in round 3
+Round 3 ended with spike_defuse. The winning team is Cloud9 Blue.
+The current score is MIBR 0 - 3 Cloud9 Blue.
+rglmeister killed vanity  in round 4
+Oxy killed frz  in round 4
+runi killed mazin  in round 4
+runi killed jzz  in round 4
+Oxy killed artzin  in round 4
+runi killed rglmeister  in round 4
+Round 4 ended with elimination. The winning team is Cloud9 Blue.
+The current score is MIBR 0 - 4 Cloud9 Blue.
+xeppaa killed mazin  in round 5
+xeppaa killed artzin  in round 5
+jzz killed xeppaa  in round 5
+Oxy killed frz  in round 5
+rglmeister killed runi  in round 5
+Oxy killed jzz  in round 5
+Oxy killed rglmeister  in round 5
+Round 5 ended with spike_defuse. The winning team is Cloud9 Blue.
+The current score is MIBR 0 - 5 Cloud9 Blue.
+vanity killed artzin  in round 6
+vanity killed jzz  in round 6
+frz killed runi  in round 6
+mazin killed vanity  in round 6
+Oxy killed mazin  in round 6
+rglmeister killed xeppaa  in round 6
+Oxy killed rglmeister  in round 6
+moose killed frz  in round 6
+Round 6 ended with elimination. The winning team is Cloud9 Blue.
+The current score is MIBR 0 - 6 Cloud9 Blue.
+moose killed artzin  in round 7
+jzz killed runi  in round 7
+frz killed Oxy  in round 7
+jzz killed moose  in round 7
+frz killed vanity  in round 7
+rglmeister killed xeppaa  in round 7
+Round 7 ended with elimination. The winning team is MIBR.
+The current score is MIBR 1 - 6 Cloud9 Blue.
+jzz killed vanity  in round 8
+frz killed Oxy  in round 8
+moose killed jzz  in round 8
+mazin killed runi  in round 8
+moose killed artzin  in round 8
+frz killed xeppaa  in round 8
+moose killed frz  in round 8
+moose killed mazin  in round 8
+Round 8 ended with detonate. The winning team is MIBR.
+The current score is MIBR 2 - 6 Cloud9 Blue.
+Oxy killed artzin  in round 9
+rglmeister killed moose  in round 9
+rglmeister killed runi  in round 9
+Oxy killed jzz  in round 9
+frz killed vanity  in round 9
+frz killed xeppaa  in round 9
+Oxy killed mazin  in round 9
+Oxy killed rglmeister  in round 9
+Round 9 ended with detonate. The winning team is MIBR.
+The current score is MIBR 3 - 6 Cloud9 Blue.
+Oxy killed jzz  in round 10
+vanity killed mazin  in round 10
+vanity killed rglmeister  in round 10
+vanity killed artzin  in round 10
+frz killed vanity  in round 10
+frz killed runi  in round 10
+frz killed xeppaa  in round 10
+Oxy killed frz  in round 10
+Round 10 ended with elimination. The winning team is Cloud9 Blue.
+The current score is MIBR 3 - 7 Cloud9 Blue.
+Oxy killed mazin  in round 11
+rglmeister killed vanity  in round 11
+moose killed rglmeister  in round 11
+frz killed Oxy  in round 11
+vanity killed frz  in round 11
+jzz killed vanity  in round 11
+runi killed jzz  in round 11
+xeppaa killed artzin  in round 11
+Round 11 ended with spike_defuse. The winning team is Cloud9 Blue.
+The current score is MIBR 3 - 8 Cloud9 Blue.
+Oxy killed jzz  in round 12
+Oxy killed rglmeister  in round 12
+vanity killed mazin  in round 12
+runi killed frz  in round 12
+artzin killed Oxy  in round 12
+artzin killed vanity  in round 12
+runi killed artzin  in round 12
+Round 12 ended with elimination. The winning team is Cloud9 Blue.
+The current score is MIBR 3 - 9 Cloud9 Blue.
+jzz killed moose  in round 13
+xeppaa killed jzz  in round 13
+Oxy killed mazin  in round 13
+frz killed Oxy  in round 13
+artzin killed vanity  in round 13
+runi killed artzin  in round 13
+frz killed runi  in round 13
+rglmeister killed xeppaa  in round 13
+Round 13 ended with elimination. The winning team is MIBR.
+The current score is MIBR 4 - 9 Cloud9 Blue.
+frz killed runi  in round 14
+artzin killed Oxy  in round 14
+jzz killed moose  in round 14
+artzin killed xeppaa  in round 14
+jzz killed vanity  in round 14
+Round 14 ended with elimination. The winning team is MIBR.
+The current score is MIBR 5 - 9 Cloud9 Blue.
+Oxy killed artzin  in round 15
+moose killed mazin  in round 15
+rglmeister killed xeppaa  in round 15
+jzz killed vanity  in round 15
+jzz killed Oxy  in round 15
+moose killed rglmeister  in round 15
+moose killed jzz  in round 15
+frz killed moose  in round 15
+frz killed runi  in round 15
+Round 15 ended with spike_defuse. The winning team is MIBR.
+The current score is MIBR 6 - 9 Cloud9 Blue.
+moose killed jzz  in round 16
+rglmeister killed moose  in round 16
+frz killed Oxy  in round 16
+rglmeister killed xeppaa  in round 16
+vanity killed mazin  in round 16
+rglmeister killed vanity  in round 16
+runi killed rglmeister  in round 16
+runi killed frz  in round 16
+artzin killed runi  in round 16
+Round 16 ended with elimination. The winning team is MIBR.
+The current score is MIBR 7 - 9 Cloud9 Blue.
+Oxy killed rglmeister  in round 17
+Oxy killed mazin  in round 17
+artzin killed Oxy  in round 17
+mazin killed xeppaa  in round 17
+vanity killed frz  in round 17
+jzz killed runi  in round 17
+artzin killed moose  in round 17
+vanity killed artzin  in round 17
+vanity killed jzz  in round 17
+mazin killed vanity  in round 17
+Round 17 ended with detonate. The winning team is Cloud9 Blue.
+The current score is MIBR 7 - 10 Cloud9 Blue.
+mazin killed mazin  in round 18
+xeppaa killed jzz  in round 18
+rglmeister killed xeppaa  in round 18
+Oxy killed artzin  in round 18
+Oxy killed rglmeister  in round 18
+frz killed vanity  in round 18
+runi killed mazin  in round 18
+frz killed runi  in round 18
+Oxy killed frz  in round 18
+Round 18 ended with elimination. The winning team is Cloud9 Blue.
+The current score is MIBR 7 - 11 Cloud9 Blue.
+jzz killed vanity  in round 19
+artzin killed runi  in round 19
+Oxy killed artzin  in round 19
+Oxy killed mazin  in round 19
+jzz killed Oxy  in round 19
+xeppaa killed jzz  in round 19
+moose killed frz  in round 19
+rglmeister killed runi  in round 19
+xeppaa killed rglmeister  in round 19
+Round 19 ended with elimination. The winning team is Cloud9 Blue.
+The current score is MIBR 7 - 12 Cloud9 Blue.
+frz killed Oxy  in round 20
+vanity killed artzin  in round 20
+frz killed vanity  in round 20
+rglmeister killed xeppaa  in round 20
+mazin killed runi  in round 20
+Round 20 ended with spike_defuse. The winning team is MIBR.
+The current score is MIBR 8 - 12 Cloud9 Blue.
+moose killed rglmeister  in round 21
+rglmeister killed vanity  in round 21
+xeppaa killed rglmeister  in round 21
+jzz killed Oxy  in round 21
+xeppaa killed mazin  in round 21
+xeppaa killed jzz  in round 21
+frz killed xeppaa  in round 21
+runi killed frz  in round 21
+artzin killed moose  in round 21
+artzin killed runi  in round 21
+Round 21 ended with spike_defuse. The winning team is MIBR.
+The current score is MIBR 9 - 12 Cloud9 Blue.
+artzin killed Oxy  in round 22
+rglmeister killed xeppaa  in round 22
+runi killed mazin  in round 22
+rglmeister killed runi  in round 22
+vanity killed artzin  in round 22
+vanity killed frz  in round 22
+jzz killed vanity  in round 22
+moose killed rglmeister  in round 22
+jzz killed moose  in round 22
+Round 22 ended with spike_defuse. The winning team is MIBR.
+The current score is MIBR 10 - 12 Cloud9 Blue.
+Oxy killed jzz  in round 23
+artzin killed vanity  in round 23
+frz killed Oxy  in round 23
+frz killed xeppaa  in round 23
+runi killed frz  in round 23
+artzin killed vanity  in round 23
+artzin killed runi  in round 23
+moose killed mazin  in round 23
+rglmeister killed moose  in round 23
+Round 23 ended with spike_defuse. The winning team is MIBR.
+The current score is MIBR 11 - 12 Cloud9 Blue.
+Oxy killed frz  in round 24
+mazin killed Oxy  in round 24
+artzin killed xeppaa  in round 24
+vanity killed mazin  in round 24
+runi killed artzin  in round 24
+rglmeister killed vanity  in round 24
+moose killed rglmeister  in round 24
+jzz killed runi  in round 24
+jzz killed moose  in round 24
+Round 24 ended with spike_defuse. The winning team is MIBR.
+The current score is MIBR 12 - 12 Cloud9 Blue.
+jzz killed runi  in round 25
+xeppaa killed frz  in round 25
+xeppaa killed jzz  in round 25
+vanity killed mazin  in round 25
+artzin killed vanity  in round 25
+xeppaa killed artzin  in round 25
+rglmeister killed xeppaa  in round 25
+moose killed rglmeister  in round 25
+Round 25 ended with elimination. The winning team is Cloud9 Blue.
+The current score is MIBR 12 - 13 Cloud9 Blue.
+Oxy killed rglmeister  in round 26
+mazin killed vanity  in round 26
+Oxy killed mazin  in round 26
+xeppaa killed frz  in round 26
+artzin killed xeppaa  in round 26
+Oxy killed jzz  in round 26
+Oxy killed artzin  in round 26
+Round 26 ended with elimination. The winning team is Cloud9 Blue.
+The current score is MIBR 12 - 14 Cloud9 Blue.
+Game ended with winning team: Cloud9 Blue at 2024-05-05T22:04:08Z
+
+--- Player Stats ---
+moose: Team=Cloud9 Blue, Kills=21, Deaths=11, Assists=4, KDA=2.27, First Kills=5, First Deaths=1
+vanity: Team=Cloud9 Blue, Kills=20, Deaths=26, Assists=9, KDA=1.12, First Kills=1, First Deaths=3
+Oxy: Team=Cloud9 Blue, Kills=32, Deaths=16, Assists=4, KDA=2.25, First Kills=9, First Deaths=2
+runi: Team=Cloud9 Blue, Kills=19, Deaths=20, Assists=5, KDA=1.2, First Kills=1, First Deaths=2
+xeppaa: Team=Cloud9 Blue, Kills=15, Deaths=19, Assists=10, KDA=1.32, First Kills=1, First Deaths=0
+rglmeister: Team=MIBR, Kills=21, Deaths=21, Assists=8, KDA=1.38, First Kills=1, First Deaths=3
+frz: Team=MIBR, Kills=25, Deaths=20, Assists=2, KDA=1.35, First Kills=2, First Deaths=2
+mazin: Team=MIBR, Kills=9, Deaths=24, Assists=14, KDA=0.96, First Kills=1, First Deaths=3
+jzz: Team=MIBR, Kills=19, Deaths=21, Assists=3, KDA=1.05, First Kills=4, First Deaths=4
+artzin: Team=MIBR, Kills=19, Deaths=22, Assists=9, KDA=1.27, First Kills=1, First Deaths=6

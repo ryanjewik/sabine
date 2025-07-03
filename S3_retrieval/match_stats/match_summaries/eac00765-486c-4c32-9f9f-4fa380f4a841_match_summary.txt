@@ -1,0 +1,267 @@
+Team 1: Gen.G Esports
+Team 2: Sentinels
+Participating Players:
+Player 1: TenZ
+Player 2: Zellsis
+Player 3: johnqt
+Player 4: zekken
+Player 5: Sacy
+Player 6: t3xture
+Player 7: Lakia
+Player 8: Munchkin
+Player 9: Meteor 
+Player 10: Karon
+Winning Team: Sentinels
+Score: Gen.G Esports 12 - 14 Sentinels
+Tournament Name: vct masters madrid 2024
+Game Start Time: 2024-03-24T17:23:50Z
+Game End Time: 2024-03-24T18:27:55Z
+Rounds ended by ELIMINATION count: 17
+Rounds ended by DEFUSE count: 4
+Rounds ended by DETONATE count: 3
+SPIKE PLANTED count: 7
+platformGameId: val:eac00765-486c-4c32-9f9f-4fa380f4a841
+
+--- Events ---
+Game started at 2024-03-24T17:23:50Z
+TenZ killed t3xture  in round 1
+Karon killed zekken  in round 1
+Sacy killed Karon  in round 1
+Zellsis killed Meteor   in round 1
+Zellsis killed Munchkin  in round 1
+TenZ killed Lakia  in round 1
+Round 1 ended with elimination. The winning team is Sentinels.
+The current score is Gen.G Esports 0 - 1 Sentinels.
+zekken killed t3xture  in round 2
+Meteor  killed Sacy  in round 2
+johnqt killed Meteor   in round 2
+johnqt killed Lakia  in round 2
+Karon killed johnqt  in round 2
+TenZ killed Munchkin  in round 2
+TenZ killed Karon  in round 2
+Round 2 ended with elimination. The winning team is Sentinels.
+The current score is Gen.G Esports 0 - 2 Sentinels.
+TenZ killed Karon  in round 3
+Lakia killed TenZ  in round 3
+Meteor  killed Zellsis  in round 3
+Sacy killed Meteor   in round 3
+Lakia killed Sacy  in round 3
+zekken killed Lakia  in round 3
+Munchkin killed zekken  in round 3
+t3xture killed johnqt  in round 3
+Round 3 ended with elimination. The winning team is Gen.G Esports.
+The current score is Gen.G Esports 1 - 2 Sentinels.
+Sacy killed Meteor   in round 4
+Lakia killed TenZ  in round 4
+Sacy killed Lakia  in round 4
+Karon killed zekken  in round 4
+Sacy killed t3xture  in round 4
+johnqt killed Karon  in round 4
+Munchkin killed johnqt  in round 4
+Munchkin killed Sacy  in round 4
+Round 4 ended with time_expired. The winning team is Sentinels.
+The current score is Gen.G Esports 1 - 3 Sentinels.
+t3xture killed Sacy  in round 5
+Zellsis killed t3xture  in round 5
+Karon killed Zellsis  in round 5
+Munchkin killed TenZ  in round 5
+Round 5 ended with detonate. The winning team is Gen.G Esports.
+The current score is Gen.G Esports 2 - 3 Sentinels.
+Munchkin killed zekken  in round 6
+Munchkin killed TenZ  in round 6
+Munchkin killed Zellsis  in round 6
+Sacy killed Munchkin  in round 6
+t3xture killed Sacy  in round 6
+johnqt killed Lakia  in round 6
+Meteor  killed johnqt  in round 6
+Round 6 ended with elimination. The winning team is Gen.G Esports.
+The current score is Gen.G Esports 3 - 3 Sentinels.
+TenZ killed t3xture  in round 7
+Meteor  killed zekken  in round 7
+TenZ killed Meteor   in round 7
+Karon killed johnqt  in round 7
+Lakia killed TenZ  in round 7
+Zellsis killed Karon  in round 7
+Zellsis killed Lakia  in round 7
+Zellsis killed Munchkin  in round 7
+Round 7 ended with elimination. The winning team is Sentinels.
+The current score is Gen.G Esports 3 - 4 Sentinels.
+zekken killed t3xture  in round 8
+TenZ killed Lakia  in round 8
+Meteor  killed Zellsis  in round 8
+Karon killed TenZ  in round 8
+zekken killed Karon  in round 8
+Meteor  killed zekken  in round 8
+Sacy killed Meteor   in round 8
+Round 8 ended with spike_defuse. The winning team is Sentinels.
+The current score is Gen.G Esports 3 - 5 Sentinels.
+johnqt killed Munchkin  in round 9
+zekken killed t3xture  in round 9
+Munchkin killed zekken  in round 9
+Meteor  killed TenZ  in round 9
+Lakia killed Zellsis  in round 9
+Meteor  killed Sacy  in round 9
+Round 9 ended with detonate. The winning team is Gen.G Esports.
+The current score is Gen.G Esports 4 - 5 Sentinels.
+Meteor  killed Zellsis  in round 10
+Meteor  killed johnqt  in round 10
+t3xture killed Sacy  in round 10
+Karon killed TenZ  in round 10
+zekken killed t3xture  in round 10
+Karon killed zekken  in round 10
+Round 10 ended with elimination. The winning team is Gen.G Esports.
+The current score is Gen.G Esports 5 - 5 Sentinels.
+Meteor  killed johnqt  in round 11
+Lakia killed Zellsis  in round 11
+Karon killed TenZ  in round 11
+zekken killed Munchkin  in round 11
+Lakia killed zekken  in round 11
+Meteor  killed Sacy  in round 11
+Round 11 ended with elimination. The winning team is Gen.G Esports.
+The current score is Gen.G Esports 6 - 5 Sentinels.
+Karon killed TenZ  in round 12
+Sacy killed Karon  in round 12
+Sacy killed t3xture  in round 12
+Lakia killed johnqt  in round 12
+Sacy killed Lakia  in round 12
+Munchkin killed Sacy  in round 12
+zekken killed Munchkin  in round 12
+zekken killed Meteor   in round 12
+Round 12 ended with spike_defuse. The winning team is Sentinels.
+The current score is Gen.G Esports 6 - 6 Sentinels.
+johnqt killed Meteor   in round 13
+johnqt killed Munchkin  in round 13
+t3xture killed TenZ  in round 13
+Sacy killed Karon  in round 13
+Lakia killed Sacy  in round 13
+Lakia killed johnqt  in round 13
+Lakia killed zekken  in round 13
+Lakia killed Zellsis  in round 13
+Round 13 ended with spike_defuse. The winning team is Gen.G Esports.
+The current score is Gen.G Esports 7 - 6 Sentinels.
+Meteor  killed Zellsis  in round 14
+Meteor  killed TenZ  in round 14
+zekken killed Meteor   in round 14
+Lakia killed johnqt  in round 14
+Karon killed Sacy  in round 14
+t3xture killed zekken  in round 14
+Round 14 ended with spike_defuse. The winning team is Gen.G Esports.
+The current score is Gen.G Esports 8 - 6 Sentinels.
+Karon killed zekken  in round 15
+TenZ killed Karon  in round 15
+t3xture killed TenZ  in round 15
+johnqt killed Lakia  in round 15
+Meteor  killed Sacy  in round 15
+Munchkin killed johnqt  in round 15
+Munchkin killed Zellsis  in round 15
+Round 15 ended with elimination. The winning team is Gen.G Esports.
+The current score is Gen.G Esports 9 - 6 Sentinels.
+Sacy killed Meteor   in round 16
+TenZ killed Munchkin  in round 16
+Lakia killed zekken  in round 16
+Sacy killed Lakia  in round 16
+Sacy killed Karon  in round 16
+t3xture killed TenZ  in round 16
+t3xture killed Zellsis  in round 16
+johnqt killed t3xture  in round 16
+Round 16 ended with elimination. The winning team is Sentinels.
+The current score is Gen.G Esports 9 - 7 Sentinels.
+Karon killed TenZ  in round 17
+Karon killed Sacy  in round 17
+Meteor  killed Zellsis  in round 17
+zekken killed Munchkin  in round 17
+Lakia killed zekken  in round 17
+Round 17 ended with time_expired. The winning team is Gen.G Esports.
+The current score is Gen.G Esports 10 - 7 Sentinels.
+Sacy killed t3xture  in round 18
+zekken killed Lakia  in round 18
+Karon killed zekken  in round 18
+Sacy killed Munchkin  in round 18
+Karon killed Sacy  in round 18
+johnqt killed Meteor   in round 18
+Zellsis killed Karon  in round 18
+Round 18 ended with elimination. The winning team is Sentinels.
+The current score is Gen.G Esports 10 - 8 Sentinels.
+Sacy killed Munchkin  in round 19
+Karon killed zekken  in round 19
+Zellsis killed Lakia  in round 19
+Meteor  killed johnqt  in round 19
+Karon killed Sacy  in round 19
+TenZ killed t3xture  in round 19
+Zellsis killed Karon  in round 19
+TenZ killed Meteor   in round 19
+Round 19 ended with elimination. The winning team is Sentinels.
+The current score is Gen.G Esports 10 - 9 Sentinels.
+zekken killed Lakia  in round 20
+zekken killed t3xture  in round 20
+zekken killed Karon  in round 20
+Meteor  killed zekken  in round 20
+TenZ killed Meteor   in round 20
+Zellsis killed Munchkin  in round 20
+Round 20 ended with elimination. The winning team is Sentinels.
+The current score is Gen.G Esports 10 - 10 Sentinels.
+zekken killed Munchkin  in round 21
+Lakia killed Zellsis  in round 21
+zekken killed Meteor   in round 21
+zekken killed Lakia  in round 21
+Karon killed zekken  in round 21
+Sacy killed t3xture  in round 21
+Sacy killed Karon  in round 21
+Round 21 ended with elimination. The winning team is Sentinels.
+The current score is Gen.G Esports 10 - 11 Sentinels.
+zekken killed Lakia  in round 22
+zekken killed Meteor   in round 22
+TenZ killed Karon  in round 22
+t3xture killed Sacy  in round 22
+Zellsis killed t3xture  in round 22
+Round 22 ended with detonate. The winning team is Sentinels.
+The current score is Gen.G Esports 10 - 12 Sentinels.
+Munchkin killed Munchkin  in round 23
+Lakia killed zekken  in round 23
+Lakia killed TenZ  in round 23
+johnqt killed Karon  in round 23
+Sacy killed Munchkin  in round 23
+Sacy killed Lakia  in round 23
+Meteor  killed Zellsis  in round 23
+Meteor  killed Sacy  in round 23
+Meteor  killed johnqt  in round 23
+Round 23 ended with elimination. The winning team is Gen.G Esports.
+The current score is Gen.G Esports 11 - 12 Sentinels.
+TenZ killed t3xture  in round 24
+Karon killed zekken  in round 24
+Munchkin killed Zellsis  in round 24
+Lakia killed TenZ  in round 24
+Munchkin killed Sacy  in round 24
+Meteor  killed johnqt  in round 24
+Round 24 ended with elimination. The winning team is Gen.G Esports.
+The current score is Gen.G Esports 12 - 12 Sentinels.
+Zellsis killed Meteor   in round 25
+TenZ killed Munchkin  in round 25
+zekken killed t3xture  in round 25
+Sacy killed Karon  in round 25
+Zellsis killed Lakia  in round 25
+Round 25 ended with elimination. The winning team is Sentinels.
+The current score is Gen.G Esports 12 - 13 Sentinels.
+Munchkin killed TenZ  in round 26
+Munchkin killed zekken  in round 26
+johnqt killed Lakia  in round 26
+johnqt killed Munchkin  in round 26
+t3xture killed johnqt  in round 26
+Zellsis killed t3xture  in round 26
+Sacy killed Karon  in round 26
+Zellsis killed Meteor   in round 26
+Round 26 ended with elimination. The winning team is Sentinels.
+The current score is Gen.G Esports 12 - 14 Sentinels.
+Game ended with winning team: Sentinels at 2024-03-24T18:27:55Z
+
+--- Player Stats ---
+TenZ: Team=Sentinels, Kills=16, Deaths=18, Assists=9, KDA=1.39, First Kills=4, First Deaths=3
+Zellsis: Team=Sentinels, Kills=15, Deaths=15, Assists=19, KDA=2.27, First Kills=1, First Deaths=2
+johnqt: Team=Sentinels, Kills=13, Deaths=15, Assists=7, KDA=1.33, First Kills=2, First Deaths=1
+zekken: Team=Sentinels, Kills=21, Deaths=21, Assists=7, KDA=1.33, First Kills=5, First Deaths=2
+Sacy: Team=Sentinels, Kills=23, Deaths=18, Assists=14, KDA=2.06, First Kills=4, First Deaths=1
+t3xture: Team=Gen.G Esports, Kills=11, Deaths=18, Assists=3, KDA=0.78, First Kills=1, First Deaths=6
+Lakia: Team=Gen.G Esports, Kills=19, Deaths=18, Assists=9, KDA=1.56, First Kills=0, First Deaths=2
+Munchkin: Team=Gen.G Esports, Kills=16, Deaths=18, Assists=16, KDA=1.78, First Kills=3, First Deaths=4
+Meteor : Team=Gen.G Esports, Kills=22, Deaths=17, Assists=8, KDA=1.76, First Kills=3, First Deaths=4
+Karon: Team=Gen.G Esports, Kills=20, Deaths=18, Assists=7, KDA=1.5, First Kills=3, First Deaths=1

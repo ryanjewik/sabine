@@ -1,0 +1,225 @@
+Team 1: WOLVES ESPORTS
+Team 2: EDWARD Gaming
+Participating Players:
+Player 1: CHICHOO
+Player 2: ZmjjKK
+Player 3: Haodong
+Player 4: nobody 
+Player 5: Smoggy
+Player 6: Yuicaw
+Player 7: Spring
+Player 8: SiuFatBB
+Player 9: pl1xx
+Player 10: aluba
+Winning Team: EDWARD Gaming
+Score: WOLVES ESPORTS 7 - 13 EDWARD Gaming
+Tournament Name: vct cn stage 2 2024
+Game Start Time: 2024-06-22T11:05:01Z
+Game End Time: 2024-06-22T12:04:09Z
+Rounds ended by ELIMINATION count: 15
+Rounds ended by DEFUSE count: 4
+Rounds ended by DETONATE count: 0
+SPIKE PLANTED count: 4
+platformGameId: val:93b7384e-1b8d-4340-aa7b-681a070a1c84
+
+--- Events ---
+Game started at 2024-06-22T11:05:01Z
+ZmjjKK killed Spring  in round 1
+nobody  killed Yuicaw  in round 1
+nobody  killed SiuFatBB  in round 1
+aluba killed ZmjjKK  in round 1
+pl1xx killed nobody   in round 1
+aluba killed Smoggy  in round 1
+CHICHOO killed pl1xx  in round 1
+Haodong killed aluba  in round 1
+Round 1 ended with spike_defuse. The winning team is EDWARD Gaming.
+The current score is WOLVES ESPORTS 0 - 1 EDWARD Gaming.
+nobody  killed pl1xx  in round 2
+aluba killed nobody   in round 2
+CHICHOO killed aluba  in round 2
+CHICHOO killed Yuicaw  in round 2
+Smoggy killed SiuFatBB  in round 2
+CHICHOO killed Spring  in round 2
+Round 2 ended with elimination. The winning team is EDWARD Gaming.
+The current score is WOLVES ESPORTS 0 - 2 EDWARD Gaming.
+ZmjjKK killed Spring  in round 3
+ZmjjKK killed Yuicaw  in round 3
+ZmjjKK killed SiuFatBB  in round 3
+pl1xx killed ZmjjKK  in round 3
+aluba killed nobody   in round 3
+pl1xx killed Smoggy  in round 3
+CHICHOO killed pl1xx  in round 3
+CHICHOO killed aluba  in round 3
+Round 3 ended with spike_defuse. The winning team is EDWARD Gaming.
+The current score is WOLVES ESPORTS 0 - 3 EDWARD Gaming.
+nobody  killed Spring  in round 4
+nobody  killed pl1xx  in round 4
+Smoggy killed SiuFatBB  in round 4
+nobody  killed aluba  in round 4
+nobody  killed Yuicaw  in round 4
+Round 4 ended with elimination. The winning team is EDWARD Gaming.
+The current score is WOLVES ESPORTS 0 - 4 EDWARD Gaming.
+ZmjjKK killed aluba  in round 5
+pl1xx killed nobody   in round 5
+CHICHOO killed pl1xx  in round 5
+Yuicaw killed CHICHOO  in round 5
+Spring killed ZmjjKK  in round 5
+Smoggy killed Spring  in round 5
+SiuFatBB killed Haodong  in round 5
+Yuicaw killed Smoggy  in round 5
+Round 5 ended with elimination. The winning team is WOLVES ESPORTS.
+The current score is WOLVES ESPORTS 1 - 4 EDWARD Gaming.
+ZmjjKK killed aluba  in round 6
+Haodong killed SiuFatBB  in round 6
+Spring killed Haodong  in round 6
+CHICHOO killed pl1xx  in round 6
+CHICHOO killed Spring  in round 6
+Yuicaw killed ZmjjKK  in round 6
+Round 6 ended with time_expired. The winning team is EDWARD Gaming.
+The current score is WOLVES ESPORTS 1 - 5 EDWARD Gaming.
+Smoggy killed pl1xx  in round 7
+CHICHOO killed Spring  in round 7
+Spring killed CHICHOO  in round 7
+Yuicaw killed Smoggy  in round 7
+nobody  killed aluba  in round 7
+nobody  killed SiuFatBB  in round 7
+Yuicaw killed nobody   in round 7
+ZmjjKK killed Yuicaw  in round 7
+Round 7 ended with elimination. The winning team is EDWARD Gaming.
+The current score is WOLVES ESPORTS 1 - 6 EDWARD Gaming.
+ZmjjKK killed pl1xx  in round 8
+Spring killed ZmjjKK  in round 8
+aluba killed nobody   in round 8
+Smoggy killed SiuFatBB  in round 8
+Yuicaw killed CHICHOO  in round 8
+aluba killed Smoggy  in round 8
+Haodong killed Yuicaw  in round 8
+Spring killed Haodong  in round 8
+Round 8 ended with elimination. The winning team is WOLVES ESPORTS.
+The current score is WOLVES ESPORTS 2 - 6 EDWARD Gaming.
+aluba killed CHICHOO  in round 9
+Spring killed ZmjjKK  in round 9
+aluba killed Haodong  in round 9
+nobody  killed Spring  in round 9
+Smoggy killed pl1xx  in round 9
+SiuFatBB killed nobody   in round 9
+aluba killed Smoggy  in round 9
+Round 9 ended with elimination. The winning team is WOLVES ESPORTS.
+The current score is WOLVES ESPORTS 3 - 6 EDWARD Gaming.
+ZmjjKK killed Spring  in round 10
+Yuicaw killed CHICHOO  in round 10
+Smoggy killed Yuicaw  in round 10
+aluba killed Smoggy  in round 10
+nobody  killed pl1xx  in round 10
+ZmjjKK killed aluba  in round 10
+Haodong killed SiuFatBB  in round 10
+Round 10 ended with elimination. The winning team is EDWARD Gaming.
+The current score is WOLVES ESPORTS 3 - 7 EDWARD Gaming.
+ZmjjKK killed Spring  in round 11
+CHICHOO killed pl1xx  in round 11
+Yuicaw killed ZmjjKK  in round 11
+Smoggy killed aluba  in round 11
+Smoggy killed SiuFatBB  in round 11
+Yuicaw killed nobody   in round 11
+CHICHOO killed Yuicaw  in round 11
+Round 11 ended with elimination. The winning team is EDWARD Gaming.
+The current score is WOLVES ESPORTS 3 - 8 EDWARD Gaming.
+pl1xx killed nobody   in round 12
+CHICHOO killed aluba  in round 12
+Haodong killed Yuicaw  in round 12
+pl1xx killed Haodong  in round 12
+ZmjjKK killed Spring  in round 12
+SiuFatBB killed ZmjjKK  in round 12
+Smoggy killed SiuFatBB  in round 12
+CHICHOO killed pl1xx  in round 12
+Round 12 ended with spike_defuse. The winning team is EDWARD Gaming.
+The current score is WOLVES ESPORTS 3 - 9 EDWARD Gaming.
+pl1xx killed Haodong  in round 13
+aluba killed ZmjjKK  in round 13
+aluba killed CHICHOO  in round 13
+Smoggy killed aluba  in round 13
+Spring killed Smoggy  in round 13
+Spring killed nobody   in round 13
+Round 13 ended with elimination. The winning team is WOLVES ESPORTS.
+The current score is WOLVES ESPORTS 4 - 9 EDWARD Gaming.
+aluba killed Haodong  in round 14
+pl1xx killed nobody   in round 14
+Smoggy killed aluba  in round 14
+Smoggy killed pl1xx  in round 14
+SiuFatBB killed CHICHOO  in round 14
+ZmjjKK killed Spring  in round 14
+SiuFatBB killed ZmjjKK  in round 14
+Smoggy killed SiuFatBB  in round 14
+Smoggy killed Yuicaw  in round 14
+Round 14 ended with elimination. The winning team is EDWARD Gaming.
+The current score is WOLVES ESPORTS 4 - 10 EDWARD Gaming.
+Haodong killed aluba  in round 15
+SiuFatBB killed Haodong  in round 15
+pl1xx killed ZmjjKK  in round 15
+nobody  killed pl1xx  in round 15
+Smoggy killed Spring  in round 15
+SiuFatBB killed Smoggy  in round 15
+CHICHOO killed SiuFatBB  in round 15
+CHICHOO killed Yuicaw  in round 15
+Round 15 ended with elimination. The winning team is EDWARD Gaming.
+The current score is WOLVES ESPORTS 4 - 11 EDWARD Gaming.
+pl1xx killed CHICHOO  in round 16
+Smoggy killed pl1xx  in round 16
+aluba killed ZmjjKK  in round 16
+SiuFatBB killed Smoggy  in round 16
+Haodong killed Yuicaw  in round 16
+nobody  killed aluba  in round 16
+nobody  killed SiuFatBB  in round 16
+Spring killed nobody   in round 16
+Spring killed Haodong  in round 16
+Round 16 ended with spike_defuse. The winning team is WOLVES ESPORTS.
+The current score is WOLVES ESPORTS 5 - 11 EDWARD Gaming.
+aluba killed Haodong  in round 17
+CHICHOO killed Spring  in round 17
+pl1xx killed nobody   in round 17
+Yuicaw killed CHICHOO  in round 17
+aluba killed Smoggy  in round 17
+pl1xx killed ZmjjKK  in round 17
+Round 17 ended with elimination. The winning team is WOLVES ESPORTS.
+The current score is WOLVES ESPORTS 6 - 11 EDWARD Gaming.
+Spring killed Smoggy  in round 18
+Haodong killed Yuicaw  in round 18
+Haodong killed SiuFatBB  in round 18
+pl1xx killed nobody   in round 18
+ZmjjKK killed aluba  in round 18
+pl1xx killed ZmjjKK  in round 18
+Spring killed Haodong  in round 18
+CHICHOO killed pl1xx  in round 18
+CHICHOO killed Spring  in round 18
+Round 18 ended with elimination. The winning team is EDWARD Gaming.
+The current score is WOLVES ESPORTS 6 - 12 EDWARD Gaming.
+pl1xx killed ZmjjKK  in round 19
+Spring killed CHICHOO  in round 19
+aluba killed Haodong  in round 19
+Yuicaw killed nobody   in round 19
+pl1xx killed Smoggy  in round 19
+Round 19 ended with elimination. The winning team is WOLVES ESPORTS.
+The current score is WOLVES ESPORTS 7 - 12 EDWARD Gaming.
+Haodong killed Spring  in round 20
+SiuFatBB killed Haodong  in round 20
+ZmjjKK killed aluba  in round 20
+pl1xx killed CHICHOO  in round 20
+ZmjjKK killed pl1xx  in round 20
+Yuicaw killed Smoggy  in round 20
+nobody  killed SiuFatBB  in round 20
+nobody  killed Yuicaw  in round 20
+Round 20 ended with elimination. The winning team is EDWARD Gaming.
+The current score is WOLVES ESPORTS 7 - 13 EDWARD Gaming.
+Game ended with winning team: EDWARD Gaming at 2024-06-22T12:04:09Z
+
+--- Player Stats ---
+CHICHOO: Team=EDWARD Gaming, Kills=19, Deaths=11, Assists=5, KDA=2.18, First Kills=0, First Deaths=2
+ZmjjKK: Team=EDWARD Gaming, Kills=16, Deaths=15, Assists=5, KDA=1.4, First Kills=7, First Deaths=1
+Haodong: Team=EDWARD Gaming, Kills=10, Deaths=13, Assists=8, KDA=1.38, First Kills=2, First Deaths=3
+nobody : Team=EDWARD Gaming, Kills=16, Deaths=15, Assists=10, KDA=1.73, First Kills=2, First Deaths=1
+Smoggy: Team=EDWARD Gaming, Kills=17, Deaths=14, Assists=10, KDA=1.93, First Kills=1, First Deaths=1
+Yuicaw: Team=WOLVES ESPORTS, Kills=12, Deaths=14, Assists=10, KDA=1.57, First Kills=0, First Deaths=0
+Spring: Team=WOLVES ESPORTS, Kills=13, Deaths=16, Assists=5, KDA=1.12, First Kills=1, First Deaths=6
+SiuFatBB: Team=WOLVES ESPORTS, Kills=9, Deaths=15, Assists=9, KDA=1.2, First Kills=0, First Deaths=0
+pl1xx: Team=WOLVES ESPORTS, Kills=17, Deaths=17, Assists=2, KDA=1.12, First Kills=4, First Deaths=3
+aluba: Team=WOLVES ESPORTS, Kills=17, Deaths=16, Assists=10, KDA=1.69, First Kills=3, First Deaths=3

@@ -1,0 +1,231 @@
+Team 1: FURIA
+Team 2: MIBR
+Participating Players:
+Player 1: rglmeister
+Player 2: frz
+Player 3: mazin
+Player 4: jzz
+Player 5: artzin
+Player 6: liazzi
+Player 7: mwzera
+Player 8: kon4n
+Player 9: havoc
+Player 10: Khalil
+Winning Team: MIBR
+Score: FURIA 9 - 13 MIBR
+Tournament Name: vct americas kickoff 2024
+Game Start Time: 2024-02-19T21:53:27Z
+Game End Time: 2024-02-19T23:07:28Z
+Rounds ended by ELIMINATION count: 14
+Rounds ended by DEFUSE count: 1
+Rounds ended by DETONATE count: 5
+SPIKE PLANTED count: 6
+platformGameId: val:f612c414-f2f3-45fe-b5e7-270787c17866
+
+--- Events ---
+Game started at 2024-02-19T21:53:27Z
+jzz killed havoc  in round 1
+mwzera killed rglmeister  in round 1
+jzz killed mwzera  in round 1
+kon4n killed jzz  in round 1
+mazin killed kon4n  in round 1
+frz killed Khalil  in round 1
+artzin killed liazzi  in round 1
+Round 1 ended with elimination. The winning team is MIBR.
+The current score is FURIA 0 - 1 MIBR.
+liazzi killed artzin  in round 2
+frz killed havoc  in round 2
+jzz killed kon4n  in round 2
+rglmeister killed liazzi  in round 2
+jzz killed Khalil  in round 2
+frz killed mwzera  in round 2
+Round 2 ended with elimination. The winning team is MIBR.
+The current score is FURIA 0 - 2 MIBR.
+mazin killed mwzera  in round 3
+jzz killed Khalil  in round 3
+havoc killed jzz  in round 3
+mazin killed kon4n  in round 3
+Round 3 ended with time_expired. The winning team is MIBR.
+The current score is FURIA 0 - 3 MIBR.
+mwzera killed frz  in round 4
+Khalil killed jzz  in round 4
+mwzera killed artzin  in round 4
+rglmeister killed mwzera  in round 4
+Round 4 ended with detonate. The winning team is FURIA.
+The current score is FURIA 1 - 3 MIBR.
+jzz killed liazzi  in round 5
+frz killed havoc  in round 5
+artzin killed Khalil  in round 5
+mwzera killed artzin  in round 5
+kon4n killed jzz  in round 5
+frz killed kon4n  in round 5
+mazin killed mwzera  in round 5
+Round 5 ended with spike_defuse. The winning team is MIBR.
+The current score is FURIA 1 - 4 MIBR.
+havoc killed frz  in round 6
+mwzera killed mazin  in round 6
+jzz killed mwzera  in round 6
+Round 6 ended with detonate. The winning team is FURIA.
+The current score is FURIA 2 - 4 MIBR.
+mwzera killed frz  in round 7
+rglmeister killed kon4n  in round 7
+mwzera killed rglmeister  in round 7
+artzin killed mwzera  in round 7
+jzz killed havoc  in round 7
+Khalil killed mazin  in round 7
+Khalil killed jzz  in round 7
+Khalil killed artzin  in round 7
+Round 7 ended with elimination. The winning team is FURIA.
+The current score is FURIA 3 - 4 MIBR.
+jzz killed havoc  in round 8
+Khalil killed jzz  in round 8
+artzin killed mwzera  in round 8
+rglmeister killed kon4n  in round 8
+rglmeister killed Khalil  in round 8
+Round 8 ended with time_expired. The winning team is MIBR.
+The current score is FURIA 3 - 5 MIBR.
+havoc killed frz  in round 9
+artzin killed Khalil  in round 9
+jzz killed liazzi  in round 9
+kon4n killed rglmeister  in round 9
+mwzera killed artzin  in round 9
+havoc killed jzz  in round 9
+Round 9 ended with detonate. The winning team is FURIA.
+The current score is FURIA 4 - 5 MIBR.
+mazin killed mazin  in round 10
+frz killed havoc  in round 10
+Khalil killed jzz  in round 10
+artzin killed liazzi  in round 10
+frz killed Khalil  in round 10
+mwzera killed artzin  in round 10
+kon4n killed frz  in round 10
+mwzera killed mazin  in round 10
+rglmeister killed mwzera  in round 10
+kon4n killed rglmeister  in round 10
+Round 10 ended with elimination. The winning team is FURIA.
+The current score is FURIA 5 - 5 MIBR.
+havoc killed artzin  in round 11
+rglmeister killed havoc  in round 11
+mwzera killed frz  in round 11
+liazzi killed mazin  in round 11
+kon4n killed jzz  in round 11
+Khalil killed rglmeister  in round 11
+Round 11 ended with elimination. The winning team is FURIA.
+The current score is FURIA 6 - 5 MIBR.
+kon4n killed jzz  in round 12
+havoc killed artzin  in round 12
+mwzera killed mazin  in round 12
+havoc killed rglmeister  in round 12
+frz killed kon4n  in round 12
+Round 12 ended with detonate. The winning team is FURIA.
+The current score is FURIA 7 - 5 MIBR.
+frz killed frz  in round 13
+havoc killed havoc  in round 13
+artzin killed mwzera  in round 13
+Khalil killed jzz  in round 13
+Khalil killed artzin  in round 13
+havoc killed mazin  in round 13
+havoc killed rglmeister  in round 13
+havoc killed frz  in round 13
+Round 13 ended with elimination. The winning team is FURIA.
+The current score is FURIA 8 - 5 MIBR.
+artzin killed Khalil  in round 14
+havoc killed mazin  in round 14
+frz killed liazzi  in round 14
+frz killed kon4n  in round 14
+frz killed mwzera  in round 14
+havoc killed artzin  in round 14
+havoc killed frz  in round 14
+rglmeister killed havoc  in round 14
+Round 14 ended with elimination. The winning team is MIBR.
+The current score is FURIA 8 - 6 MIBR.
+artzin killed mwzera  in round 15
+havoc killed frz  in round 15
+kon4n killed artzin  in round 15
+jzz killed kon4n  in round 15
+jzz killed Khalil  in round 15
+mazin killed liazzi  in round 15
+mazin killed havoc  in round 15
+Round 15 ended with elimination. The winning team is MIBR.
+The current score is FURIA 8 - 7 MIBR.
+havoc killed rglmeister  in round 16
+jzz killed havoc  in round 16
+mwzera killed jzz  in round 16
+mazin killed Khalil  in round 16
+mazin killed kon4n  in round 16
+frz killed liazzi  in round 16
+Round 16 ended with detonate. The winning team is MIBR.
+The current score is FURIA 8 - 8 MIBR.
+mwzera killed jzz  in round 17
+mazin killed havoc  in round 17
+frz killed liazzi  in round 17
+Khalil killed frz  in round 17
+Khalil killed mazin  in round 17
+artzin killed Khalil  in round 17
+artzin killed kon4n  in round 17
+mwzera killed artzin  in round 17
+rglmeister killed mwzera  in round 17
+Round 17 ended with elimination. The winning team is MIBR.
+The current score is FURIA 8 - 9 MIBR.
+mwzera killed jzz  in round 18
+liazzi killed artzin  in round 18
+rglmeister killed havoc  in round 18
+frz killed Khalil  in round 18
+liazzi killed rglmeister  in round 18
+frz killed liazzi  in round 18
+mazin killed kon4n  in round 18
+mwzera killed mazin  in round 18
+frz killed mwzera  in round 18
+Round 18 ended with elimination. The winning team is MIBR.
+The current score is FURIA 8 - 10 MIBR.
+mwzera killed artzin  in round 19
+frz killed kon4n  in round 19
+jzz killed havoc  in round 19
+jzz killed mwzera  in round 19
+liazzi killed rglmeister  in round 19
+frz killed Khalil  in round 19
+frz killed liazzi  in round 19
+Round 19 ended with elimination. The winning team is MIBR.
+The current score is FURIA 8 - 11 MIBR.
+jzz killed liazzi  in round 20
+mwzera killed rglmeister  in round 20
+jzz killed mwzera  in round 20
+frz killed havoc  in round 20
+jzz killed Khalil  in round 20
+kon4n killed jzz  in round 20
+artzin killed kon4n  in round 20
+Round 20 ended with elimination. The winning team is MIBR.
+The current score is FURIA 8 - 12 MIBR.
+havoc killed frz  in round 21
+artzin killed kon4n  in round 21
+mwzera killed rglmeister  in round 21
+mwzera killed mazin  in round 21
+mwzera killed artzin  in round 21
+mwzera killed jzz  in round 21
+Round 21 ended with elimination. The winning team is FURIA.
+The current score is FURIA 9 - 12 MIBR.
+artzin killed havoc  in round 22
+kon4n killed jzz  in round 22
+mwzera killed mazin  in round 22
+artzin killed mwzera  in round 22
+rglmeister killed Khalil  in round 22
+liazzi killed rglmeister  in round 22
+frz killed liazzi  in round 22
+kon4n killed artzin  in round 22
+frz killed kon4n  in round 22
+Round 22 ended with elimination. The winning team is MIBR.
+The current score is FURIA 9 - 13 MIBR.
+Game ended with winning team: MIBR at 2024-02-19T23:07:28Z
+frz killed frz  in round 23
+
+--- Player Stats ---
+rglmeister: Team=MIBR, Kills=11, Deaths=13, Assists=9, KDA=1.54, First Kills=0, First Deaths=1
+frz: Team=MIBR, Kills=24, Deaths=13, Assists=7, KDA=2.38, First Kills=2, First Deaths=7
+mazin: Team=MIBR, Kills=11, Deaths=12, Assists=9, KDA=1.67, First Kills=2, First Deaths=1
+jzz: Team=MIBR, Kills=18, Deaths=17, Assists=3, KDA=1.24, First Kills=4, First Deaths=3
+artzin: Team=MIBR, Kills=15, Deaths=16, Assists=3, KDA=1.12, First Kills=3, First Deaths=3
+liazzi: Team=FURIA, Kills=6, Deaths=13, Assists=5, KDA=0.85, First Kills=1, First Deaths=2
+mwzera: Team=FURIA, Kills=24, Deaths=17, Assists=2, KDA=1.53, First Kills=5, First Deaths=2
+kon4n: Team=FURIA, Kills=11, Deaths=16, Assists=10, KDA=1.31, First Kills=1, First Deaths=0
+havoc: Team=FURIA, Kills=17, Deaths=16, Assists=6, KDA=1.44, First Kills=5, First Deaths=3
+Khalil: Team=FURIA, Kills=11, Deaths=15, Assists=7, KDA=1.2, First Kills=0, First Deaths=1

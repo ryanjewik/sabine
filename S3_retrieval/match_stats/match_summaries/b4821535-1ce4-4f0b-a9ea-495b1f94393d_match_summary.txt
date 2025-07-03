@@ -1,0 +1,235 @@
+Team 1: Team Vitality
+Team 2: Futbolist
+Participating Players:
+Player 1: ATA KAPTAN
+Player 2: mojj
+Player 3: MrFaliN
+Player 4: qw1
+Player 5: qRaxs
+Player 6: Destrian
+Player 7: Twisten
+Player 8: BONECOLD
+Player 9: MOLSI
+Player 10: ceNder
+Winning Team: Team Vitality
+Score: Team Vitality 13 - 9 Futbolist
+Tournament Name: vct emea 2023
+Game Start Time: 2023-05-25T18:26:10Z
+Game End Time: 2023-05-25T19:14:32Z
+Rounds ended by ELIMINATION count: 15
+Rounds ended by DEFUSE count: 4
+Rounds ended by DETONATE count: 3
+SPIKE PLANTED count: 7
+platformGameId: val:b4821535-1ce4-4f0b-a9ea-495b1f94393d
+
+--- Events ---
+Game started at 2023-05-25T18:26:10Z
+qRaxs killed BONECOLD  in round 1
+Twisten killed ATA KAPTAN  in round 1
+Twisten killed mojj  in round 1
+MOLSI killed qRaxs  in round 1
+Twisten killed MrFaliN  in round 1
+qw1 killed Destrian  in round 1
+ceNder killed qw1  in round 1
+Round 1 ended with elimination. The winning team is Team Vitality.
+The current score is Team Vitality 1 - 0 Futbolist.
+ceNder killed ATA KAPTAN  in round 2
+qw1 killed Twisten  in round 2
+MOLSI killed mojj  in round 2
+qw1 killed BONECOLD  in round 2
+Destrian killed qw1  in round 2
+MrFaliN killed MOLSI  in round 2
+ceNder killed qRaxs  in round 2
+MrFaliN killed ceNder  in round 2
+Destrian killed MrFaliN  in round 2
+Round 2 ended with elimination. The winning team is Team Vitality.
+The current score is Team Vitality 2 - 0 Futbolist.
+qw1 killed Twisten  in round 3
+ATA KAPTAN killed Destrian  in round 3
+qRaxs killed BONECOLD  in round 3
+qw1 killed MOLSI  in round 3
+ceNder killed qRaxs  in round 3
+qw1 killed ceNder  in round 3
+Round 3 ended with elimination. The winning team is Futbolist.
+The current score is Team Vitality 2 - 1 Futbolist.
+qw1 killed BONECOLD  in round 4
+ceNder killed qw1  in round 4
+qRaxs killed ceNder  in round 4
+Destrian killed qRaxs  in round 4
+Twisten killed ATA KAPTAN  in round 4
+Twisten killed MrFaliN  in round 4
+mojj killed Twisten  in round 4
+Destrian killed mojj  in round 4
+Round 4 ended with elimination. The winning team is Team Vitality.
+The current score is Team Vitality 3 - 1 Futbolist.
+qw1 killed Twisten  in round 5
+Destrian killed qw1  in round 5
+BONECOLD killed MrFaliN  in round 5
+mojj killed BONECOLD  in round 5
+ceNder killed mojj  in round 5
+Destrian killed qRaxs  in round 5
+Destrian killed ATA KAPTAN  in round 5
+Round 5 ended with elimination. The winning team is Team Vitality.
+The current score is Team Vitality 4 - 1 Futbolist.
+qw1 killed Twisten  in round 6
+BONECOLD killed mojj  in round 6
+ceNder killed qRaxs  in round 6
+BONECOLD killed qw1  in round 6
+MOLSI killed ATA KAPTAN  in round 6
+Destrian killed MrFaliN  in round 6
+Round 6 ended with elimination. The winning team is Team Vitality.
+The current score is Team Vitality 5 - 1 Futbolist.
+ceNder killed mojj  in round 7
+Twisten killed ATA KAPTAN  in round 7
+MrFaliN killed Twisten  in round 7
+qRaxs killed MOLSI  in round 7
+BONECOLD killed qRaxs  in round 7
+MrFaliN killed BONECOLD  in round 7
+ceNder killed MrFaliN  in round 7
+Round 7 ended with detonate. The winning team is Team Vitality.
+The current score is Team Vitality 6 - 1 Futbolist.
+ATA KAPTAN killed Twisten  in round 8
+BONECOLD killed mojj  in round 8
+ceNder killed ATA KAPTAN  in round 8
+MrFaliN killed Destrian  in round 8
+MrFaliN killed MOLSI  in round 8
+ceNder killed MrFaliN  in round 8
+ceNder killed qRaxs  in round 8
+ceNder killed qw1  in round 8
+Round 8 ended with elimination. The winning team is Team Vitality.
+The current score is Team Vitality 7 - 1 Futbolist.
+Twisten killed mojj  in round 9
+MrFaliN killed Twisten  in round 9
+MrFaliN killed BONECOLD  in round 9
+ceNder killed MrFaliN  in round 9
+qw1 killed ceNder  in round 9
+ATA KAPTAN killed Destrian  in round 9
+MOLSI killed qw1  in round 9
+qRaxs killed MOLSI  in round 9
+Round 9 ended with elimination. The winning team is Futbolist.
+The current score is Team Vitality 7 - 2 Futbolist.
+qw1 killed MOLSI  in round 10
+mojj killed ceNder  in round 10
+Twisten killed mojj  in round 10
+qRaxs killed BONECOLD  in round 10
+Twisten killed qRaxs  in round 10
+MrFaliN killed Twisten  in round 10
+Destrian killed MrFaliN  in round 10
+qw1 killed Destrian  in round 10
+Round 10 ended with elimination. The winning team is Futbolist.
+The current score is Team Vitality 7 - 3 Futbolist.
+ceNder killed MrFaliN  in round 11
+mojj killed ceNder  in round 11
+mojj killed BONECOLD  in round 11
+Destrian killed mojj  in round 11
+Twisten killed ATA KAPTAN  in round 11
+qRaxs killed Twisten  in round 11
+qw1 killed Destrian  in round 11
+qw1 killed MOLSI  in round 11
+Round 11 ended with spike_defuse. The winning team is Futbolist.
+The current score is Team Vitality 7 - 4 Futbolist.
+Twisten killed qRaxs  in round 12
+BONECOLD killed ATA KAPTAN  in round 12
+Destrian killed MrFaliN  in round 12
+Twisten killed mojj  in round 12
+Twisten killed qw1  in round 12
+Round 12 ended with elimination. The winning team is Team Vitality.
+The current score is Team Vitality 8 - 4 Futbolist.
+Twisten killed MrFaliN  in round 13
+qw1 killed ceNder  in round 13
+ATA KAPTAN killed Twisten  in round 13
+MOLSI killed ATA KAPTAN  in round 13
+qRaxs killed MOLSI  in round 13
+Destrian killed qRaxs  in round 13
+Destrian killed qw1  in round 13
+mojj killed Destrian  in round 13
+Round 13 ended with spike_defuse. The winning team is Team Vitality.
+The current score is Team Vitality 9 - 4 Futbolist.
+BONECOLD killed mojj  in round 14
+BONECOLD killed MrFaliN  in round 14
+MOLSI killed ATA KAPTAN  in round 14
+qRaxs killed MOLSI  in round 14
+qRaxs killed ceNder  in round 14
+Round 14 ended with spike_defuse. The winning team is Team Vitality.
+The current score is Team Vitality 10 - 4 Futbolist.
+Twisten killed qRaxs  in round 15
+Twisten killed mojj  in round 15
+Destrian killed qw1  in round 15
+qw1 killed BONECOLD  in round 15
+qw1 killed ceNder  in round 15
+mojj killed Destrian  in round 15
+mojj killed MOLSI  in round 15
+Round 15 ended with detonate. The winning team is Futbolist.
+The current score is Team Vitality 10 - 5 Futbolist.
+Twisten killed Twisten  in round 16
+mojj killed ceNder  in round 16
+qRaxs killed MOLSI  in round 16
+qw1 killed Destrian  in round 16
+mojj killed BONECOLD  in round 16
+Twisten killed qRaxs  in round 16
+qw1 killed Twisten  in round 16
+Round 16 ended with elimination. The winning team is Futbolist.
+The current score is Team Vitality 10 - 6 Futbolist.
+MrFaliN killed Twisten  in round 17
+MrFaliN killed ceNder  in round 17
+mojj killed BONECOLD  in round 17
+Destrian killed mojj  in round 17
+qw1 killed Destrian  in round 17
+qRaxs killed MOLSI  in round 17
+Round 17 ended with elimination. The winning team is Futbolist.
+The current score is Team Vitality 10 - 7 Futbolist.
+mojj killed BONECOLD  in round 18
+mojj killed ceNder  in round 18
+Round 18 ended with detonate. The winning team is Futbolist.
+The current score is Team Vitality 10 - 8 Futbolist.
+Twisten killed qw1  in round 19
+ceNder killed mojj  in round 19
+MrFaliN killed ceNder  in round 19
+BONECOLD killed qRaxs  in round 19
+BONECOLD killed ATA KAPTAN  in round 19
+Twisten killed MrFaliN  in round 19
+Round 19 ended with elimination. The winning team is Team Vitality.
+The current score is Team Vitality 11 - 8 Futbolist.
+Destrian killed ATA KAPTAN  in round 20
+Twisten killed qw1  in round 20
+ceNder killed mojj  in round 20
+qRaxs killed ceNder  in round 20
+qRaxs killed Destrian  in round 20
+MrFaliN killed MOLSI  in round 20
+BONECOLD killed qRaxs  in round 20
+BONECOLD killed MrFaliN  in round 20
+Round 20 ended with spike_defuse. The winning team is Team Vitality.
+The current score is Team Vitality 12 - 8 Futbolist.
+Destrian killed qw1  in round 21
+ceNder killed MrFaliN  in round 21
+mojj killed Twisten  in round 21
+mojj killed ceNder  in round 21
+qRaxs killed BONECOLD  in round 21
+Destrian killed ATA KAPTAN  in round 21
+mojj killed Destrian  in round 21
+qRaxs killed MOLSI  in round 21
+Round 21 ended with elimination. The winning team is Futbolist.
+The current score is Team Vitality 12 - 9 Futbolist.
+qw1 killed Destrian  in round 22
+MOLSI killed qw1  in round 22
+MOLSI killed qRaxs  in round 22
+ceNder killed mojj  in round 22
+MOLSI killed ATA KAPTAN  in round 22
+MrFaliN killed MOLSI  in round 22
+MrFaliN killed BONECOLD  in round 22
+ceNder killed MrFaliN  in round 22
+Round 22 ended with elimination. The winning team is Team Vitality.
+The current score is Team Vitality 13 - 9 Futbolist.
+Game ended with winning team: Team Vitality at 2023-05-25T19:14:32Z
+
+--- Player Stats ---
+ATA KAPTAN: Team=Futbolist, Kills=4, Deaths=15, Assists=9, KDA=0.87, First Kills=1, First Deaths=2
+mojj: Team=Futbolist, Kills=16, Deaths=17, Assists=3, KDA=1.12, First Kills=1, First Deaths=3
+MrFaliN: Team=Futbolist, Kills=15, Deaths=17, Assists=11, KDA=1.53, First Kills=1, First Deaths=2
+qw1: Team=Futbolist, Kills=21, Deaths=14, Assists=1, KDA=1.57, First Kills=6, First Deaths=2
+qRaxs: Team=Futbolist, Kills=16, Deaths=16, Assists=11, KDA=1.69, First Kills=1, First Deaths=2
+Destrian: Team=Team Vitality, Kills=18, Deaths=13, Assists=7, KDA=1.92, First Kills=2, First Deaths=1
+Twisten: Team=Team Vitality, Kills=21, Deaths=15, Assists=7, KDA=1.87, First Kills=6, First Deaths=6
+BONECOLD: Team=Team Vitality, Kills=12, Deaths=15, Assists=11, KDA=1.53, First Kills=1, First Deaths=3
+MOLSI: Team=Team Vitality, Kills=9, Deaths=15, Assists=16, KDA=1.67, First Kills=0, First Deaths=1
+ceNder: Team=Team Vitality, Kills=20, Deaths=15, Assists=3, KDA=1.53, First Kills=3, First Deaths=0

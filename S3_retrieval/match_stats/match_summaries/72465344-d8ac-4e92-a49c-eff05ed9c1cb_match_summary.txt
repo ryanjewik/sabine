@@ -1,0 +1,240 @@
+Team 1: G2 Esports
+Team 2: Sentinels
+Participating Players:
+Player 1: TenZ
+Player 2: Zellsis
+Player 3: johnqt
+Player 4: zekken
+Player 5: Sacy
+Player 6: neT
+Player 7: Leaf
+Player 8: valyn
+Player 9: trent
+Player 10: JonahP
+Winning Team: G2 Esports
+Score: G2 Esports 13 - 9 Sentinels
+Tournament Name: vct americas kickoff 2024
+Game Start Time: 2024-02-27T02:58:57Z
+Game End Time: 2024-02-27T03:45:54Z
+Rounds ended by ELIMINATION count: 15
+Rounds ended by DEFUSE count: 6
+Rounds ended by DETONATE count: 1
+SPIKE PLANTED count: 7
+platformGameId: val:72465344-d8ac-4e92-a49c-eff05ed9c1cb
+
+--- Events ---
+Game started at 2024-02-27T02:58:57Z
+neT killed Sacy  in round 1
+neT killed johnqt  in round 1
+trent killed zekken  in round 1
+Leaf killed Zellsis  in round 1
+TenZ killed trent  in round 1
+JonahP killed TenZ  in round 1
+Round 1 ended with elimination. The winning team is G2 Esports.
+The current score is G2 Esports 1 - 0 Sentinels.
+neT killed Sacy  in round 2
+zekken killed Leaf  in round 2
+neT killed Zellsis  in round 2
+JonahP killed zekken  in round 2
+JonahP killed johnqt  in round 2
+valyn killed TenZ  in round 2
+Round 2 ended with elimination. The winning team is G2 Esports.
+The current score is G2 Esports 2 - 0 Sentinels.
+Zellsis killed JonahP  in round 3
+trent killed johnqt  in round 3
+Sacy killed Leaf  in round 3
+valyn killed Zellsis  in round 3
+zekken killed valyn  in round 3
+zekken killed neT  in round 3
+trent killed Sacy  in round 3
+trent killed zekken  in round 3
+trent killed TenZ  in round 3
+Round 3 ended with elimination. The winning team is G2 Esports.
+The current score is G2 Esports 3 - 0 Sentinels.
+Leaf killed TenZ  in round 4
+Leaf killed zekken  in round 4
+Sacy killed Leaf  in round 4
+JonahP killed Zellsis  in round 4
+trent killed johnqt  in round 4
+JonahP killed Sacy  in round 4
+Round 4 ended with elimination. The winning team is G2 Esports.
+The current score is G2 Esports 4 - 0 Sentinels.
+Sacy killed trent  in round 5
+zekken killed JonahP  in round 5
+Leaf killed Zellsis  in round 5
+TenZ killed Leaf  in round 5
+valyn killed TenZ  in round 5
+Sacy killed neT  in round 5
+zekken killed valyn  in round 5
+Round 5 ended with spike_defuse. The winning team is Sentinels.
+The current score is G2 Esports 4 - 1 Sentinels.
+valyn killed zekken  in round 6
+Leaf killed TenZ  in round 6
+trent killed Sacy  in round 6
+trent killed Zellsis  in round 6
+JonahP killed johnqt  in round 6
+Round 6 ended with elimination. The winning team is G2 Esports.
+The current score is G2 Esports 5 - 1 Sentinels.
+johnqt killed valyn  in round 7
+neT killed zekken  in round 7
+neT killed Sacy  in round 7
+johnqt killed Leaf  in round 7
+TenZ killed JonahP  in round 7
+johnqt killed neT  in round 7
+TenZ killed trent  in round 7
+Round 7 ended with spike_defuse. The winning team is Sentinels.
+The current score is G2 Esports 5 - 2 Sentinels.
+Sacy killed trent  in round 8
+neT killed Zellsis  in round 8
+neT killed johnqt  in round 8
+zekken killed JonahP  in round 8
+neT killed zekken  in round 8
+valyn killed Sacy  in round 8
+TenZ killed valyn  in round 8
+TenZ killed Leaf  in round 8
+Round 8 ended with spike_defuse. The winning team is Sentinels.
+The current score is G2 Esports 5 - 3 Sentinels.
+TenZ killed neT  in round 9
+neT killed johnqt  in round 9
+neT killed Sacy  in round 9
+zekken killed Leaf  in round 9
+neT killed zekken  in round 9
+trent killed TenZ  in round 9
+valyn killed Zellsis  in round 9
+Round 9 ended with elimination. The winning team is G2 Esports.
+The current score is G2 Esports 6 - 3 Sentinels.
+zekken killed neT  in round 10
+Leaf killed Sacy  in round 10
+valyn killed Zellsis  in round 10
+zekken killed valyn  in round 10
+trent killed zekken  in round 10
+trent killed TenZ  in round 10
+johnqt killed Leaf  in round 10
+trent killed johnqt  in round 10
+Round 10 ended with elimination. The winning team is G2 Esports.
+The current score is G2 Esports 7 - 3 Sentinels.
+Leaf killed TenZ  in round 11
+Leaf killed Sacy  in round 11
+neT killed johnqt  in round 11
+Leaf killed zekken  in round 11
+neT killed Zellsis  in round 11
+Round 11 ended with elimination. The winning team is G2 Esports.
+The current score is G2 Esports 8 - 3 Sentinels.
+JonahP killed zekken  in round 12
+Sacy killed JonahP  in round 12
+Leaf killed TenZ  in round 12
+Leaf killed johnqt  in round 12
+Sacy killed Leaf  in round 12
+Zellsis killed valyn  in round 12
+neT killed Sacy  in round 12
+Zellsis killed neT  in round 12
+trent killed Zellsis  in round 12
+Round 12 ended with elimination. The winning team is G2 Esports.
+The current score is G2 Esports 9 - 3 Sentinels.
+Leaf killed johnqt  in round 13
+Zellsis killed Leaf  in round 13
+TenZ killed neT  in round 13
+trent killed TenZ  in round 13
+trent killed zekken  in round 13
+JonahP killed Sacy  in round 13
+Zellsis killed JonahP  in round 13
+Zellsis killed valyn  in round 13
+Zellsis killed trent  in round 13
+Round 13 ended with elimination. The winning team is Sentinels.
+The current score is G2 Esports 9 - 4 Sentinels.
+TenZ killed valyn  in round 14
+zekken killed Leaf  in round 14
+JonahP killed zekken  in round 14
+johnqt killed neT  in round 14
+TenZ killed JonahP  in round 14
+TenZ killed trent  in round 14
+Round 14 ended with elimination. The winning team is Sentinels.
+The current score is G2 Esports 9 - 5 Sentinels.
+Leaf killed zekken  in round 15
+JonahP killed Sacy  in round 15
+Zellsis killed trent  in round 15
+Leaf killed Zellsis  in round 15
+johnqt killed Leaf  in round 15
+TenZ killed valyn  in round 15
+TenZ killed JonahP  in round 15
+TenZ killed neT  in round 15
+Round 15 ended with elimination. The winning team is Sentinels.
+The current score is G2 Esports 9 - 6 Sentinels.
+JonahP killed zekken  in round 16
+TenZ killed JonahP  in round 16
+johnqt killed valyn  in round 16
+Leaf killed Sacy  in round 16
+Zellsis killed Leaf  in round 16
+neT killed TenZ  in round 16
+Zellsis killed trent  in round 16
+Zellsis killed neT  in round 16
+Round 16 ended with elimination. The winning team is Sentinels.
+The current score is G2 Esports 9 - 7 Sentinels.
+zekken killed JonahP  in round 17
+valyn killed zekken  in round 17
+neT killed TenZ  in round 17
+johnqt killed trent  in round 17
+Sacy killed Leaf  in round 17
+valyn killed Sacy  in round 17
+johnqt killed valyn  in round 17
+neT killed Zellsis  in round 17
+neT killed johnqt  in round 17
+Round 17 ended with spike_defuse. The winning team is G2 Esports.
+The current score is G2 Esports 10 - 7 Sentinels.
+Leaf killed johnqt  in round 18
+Sacy killed valyn  in round 18
+zekken killed Leaf  in round 18
+zekken killed JonahP  in round 18
+zekken killed trent  in round 18
+neT killed TenZ  in round 18
+neT killed Sacy  in round 18
+neT killed zekken  in round 18
+Round 18 ended with detonate. The winning team is Sentinels.
+The current score is G2 Esports 10 - 8 Sentinels.
+trent killed zekken  in round 19
+neT killed Sacy  in round 19
+Leaf killed TenZ  in round 19
+johnqt killed valyn  in round 19
+johnqt killed Leaf  in round 19
+Zellsis killed JonahP  in round 19
+johnqt killed neT  in round 19
+Zellsis killed trent  in round 19
+Round 19 ended with elimination. The winning team is Sentinels.
+The current score is G2 Esports 10 - 9 Sentinels.
+JonahP killed zekken  in round 20
+Leaf killed Zellsis  in round 20
+valyn killed johnqt  in round 20
+neT killed TenZ  in round 20
+Leaf killed Sacy  in round 20
+Round 20 ended with elimination. The winning team is G2 Esports.
+The current score is G2 Esports 11 - 9 Sentinels.
+valyn killed zekken  in round 21
+neT killed TenZ  in round 21
+johnqt killed neT  in round 21
+Leaf killed Zellsis  in round 21
+valyn killed johnqt  in round 21
+Leaf killed Sacy  in round 21
+Round 21 ended with spike_defuse. The winning team is G2 Esports.
+The current score is G2 Esports 12 - 9 Sentinels.
+zekken killed trent  in round 22
+zekken killed valyn  in round 22
+JonahP killed TenZ  in round 22
+Leaf killed Sacy  in round 22
+Leaf killed zekken  in round 22
+JonahP killed johnqt  in round 22
+Zellsis killed Leaf  in round 22
+Round 22 ended with spike_defuse. The winning team is G2 Esports.
+The current score is G2 Esports 13 - 9 Sentinels.
+Game ended with winning team: G2 Esports at 2024-02-27T03:45:54Z
+
+--- Player Stats ---
+TenZ: Team=Sentinels, Kills=15, Deaths=18, Assists=7, KDA=1.22, First Kills=2, First Deaths=2
+Zellsis: Team=Sentinels, Kills=14, Deaths=15, Assists=4, KDA=1.2, First Kills=1, First Deaths=0
+johnqt: Team=Sentinels, Kills=13, Deaths=16, Assists=5, KDA=1.12, First Kills=1, First Deaths=2
+zekken: Team=Sentinels, Kills=16, Deaths=21, Assists=1, KDA=0.81, First Kills=3, First Deaths=7
+Sacy: Team=Sentinels, Kills=9, Deaths=20, Assists=6, KDA=0.75, First Kills=2, First Deaths=2
+neT: Team=G2 Esports, Kills=25, Deaths=12, Assists=4, KDA=2.42, First Kills=2, First Deaths=2
+Leaf: Team=G2 Esports, Kills=23, Deaths=17, Assists=5, KDA=1.65, First Kills=5, First Deaths=0
+valyn: Team=G2 Esports, Kills=12, Deaths=14, Assists=8, KDA=1.43, First Kills=2, First Deaths=2
+trent: Team=G2 Esports, Kills=16, Deaths=12, Assists=2, KDA=1.5, First Kills=1, First Deaths=3
+JonahP: Team=G2 Esports, Kills=14, Deaths=12, Assists=6, KDA=1.67, First Kills=3, First Deaths=2

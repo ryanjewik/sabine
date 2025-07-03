@@ -1,0 +1,251 @@
+Team 1: Team Liquid
+Team 2: Giants
+Participating Players:
+Player 1: Fit1nho
+Player 2: purp0
+Player 3: Redgar
+Player 4: Cloud
+Player 5: hoody
+Player 6: Mistic
+Player 7: nAts
+Player 8: Enzo 
+Player 9: Keiko
+Player 10: Jamppi
+Winning Team: Team Liquid
+Score: Team Liquid 13 - 11 Giants
+Tournament Name: vct emea stage 1 2024
+Game Start Time: 2024-04-19T17:39:19Z
+Game End Time: 2024-04-19T18:32:19Z
+Rounds ended by ELIMINATION count: 21
+Rounds ended by DEFUSE count: 1
+Rounds ended by DETONATE count: 1
+SPIKE PLANTED count: 2
+platformGameId: val:d10fcada-4459-4964-a0da-610b6ecc0de3
+
+--- Events ---
+Game started at 2024-04-19T17:39:19Z
+Jamppi killed purp0  in round 1
+Redgar killed nAts  in round 1
+Jamppi killed Fit1nho  in round 1
+Redgar killed Jamppi  in round 1
+Keiko killed Redgar  in round 1
+Mistic killed Cloud  in round 1
+hoody killed Mistic  in round 1
+hoody killed Keiko  in round 1
+Enzo  killed hoody  in round 1
+Round 1 ended with elimination. The winning team is Team Liquid.
+The current score is Team Liquid 1 - 0 Giants.
+Enzo  killed Enzo   in round 2
+purp0 killed nAts  in round 2
+Enzo  killed Redgar  in round 2
+Enzo  killed Cloud  in round 2
+Enzo  killed purp0  in round 2
+hoody killed Enzo   in round 2
+Keiko killed Fit1nho  in round 2
+Keiko killed hoody  in round 2
+Round 2 ended with elimination. The winning team is Team Liquid.
+The current score is Team Liquid 2 - 0 Giants.
+Redgar killed Keiko  in round 3
+Mistic killed Redgar  in round 3
+purp0 killed Jamppi  in round 3
+purp0 killed Mistic  in round 3
+Enzo  killed purp0  in round 3
+Cloud killed Enzo   in round 3
+Fit1nho killed nAts  in round 3
+Round 3 ended with elimination. The winning team is Giants.
+The current score is Team Liquid 2 - 1 Giants.
+purp0 killed nAts  in round 4
+Jamppi killed purp0  in round 4
+hoody killed Mistic  in round 4
+Keiko killed hoody  in round 4
+Redgar killed Keiko  in round 4
+Cloud killed Enzo   in round 4
+Redgar killed Jamppi  in round 4
+Round 4 ended with elimination. The winning team is Giants.
+The current score is Team Liquid 2 - 2 Giants.
+Keiko killed Cloud  in round 5
+Fit1nho killed Keiko  in round 5
+Enzo  killed Fit1nho  in round 5
+Redgar killed nAts  in round 5
+Mistic killed hoody  in round 5
+Enzo  killed Redgar  in round 5
+Jamppi killed purp0  in round 5
+Round 5 ended with elimination. The winning team is Team Liquid.
+The current score is Team Liquid 3 - 2 Giants.
+Jamppi killed purp0  in round 6
+hoody killed Keiko  in round 6
+Cloud killed Enzo   in round 6
+Fit1nho killed Jamppi  in round 6
+Fit1nho killed Mistic  in round 6
+Round 6 ended with time_expired. The winning team is Giants.
+The current score is Team Liquid 3 - 3 Giants.
+Redgar killed Mistic  in round 7
+purp0 killed Keiko  in round 7
+purp0 killed Enzo   in round 7
+nAts killed purp0  in round 7
+Cloud killed nAts  in round 7
+Cloud killed Jamppi  in round 7
+Round 7 ended with elimination. The winning team is Giants.
+The current score is Team Liquid 3 - 4 Giants.
+Cloud killed nAts  in round 8
+Cloud killed Keiko  in round 8
+Cloud killed Jamppi  in round 8
+Mistic killed purp0  in round 8
+Fit1nho killed Mistic  in round 8
+Redgar killed Enzo   in round 8
+Round 8 ended with elimination. The winning team is Giants.
+The current score is Team Liquid 3 - 5 Giants.
+Cloud killed Keiko  in round 9
+Cloud killed nAts  in round 9
+Cloud killed Mistic  in round 9
+Fit1nho killed Enzo   in round 9
+Cloud killed Jamppi  in round 9
+Round 9 ended with elimination. The winning team is Giants.
+The current score is Team Liquid 3 - 6 Giants.
+Redgar killed Keiko  in round 10
+purp0 killed nAts  in round 10
+Cloud killed Mistic  in round 10
+Redgar killed Enzo   in round 10
+Fit1nho killed Jamppi  in round 10
+Round 10 ended with elimination. The winning team is Giants.
+The current score is Team Liquid 3 - 7 Giants.
+Keiko killed Cloud  in round 11
+Redgar killed Mistic  in round 11
+Enzo  killed Fit1nho  in round 11
+Keiko killed Redgar  in round 11
+nAts killed hoody  in round 11
+nAts killed purp0  in round 11
+Round 11 ended with elimination. The winning team is Team Liquid.
+The current score is Team Liquid 4 - 7 Giants.
+Fit1nho killed Keiko  in round 12
+Enzo  killed Fit1nho  in round 12
+Jamppi killed hoody  in round 12
+purp0 killed Jamppi  in round 12
+Mistic killed Cloud  in round 12
+purp0 killed nAts  in round 12
+purp0 killed Enzo   in round 12
+Mistic killed Redgar  in round 12
+purp0 killed Mistic  in round 12
+Round 12 ended with elimination. The winning team is Giants.
+The current score is Team Liquid 4 - 8 Giants.
+Redgar killed Mistic  in round 13
+nAts killed Redgar  in round 13
+Cloud killed Jamppi  in round 13
+Enzo  killed Fit1nho  in round 13
+hoody killed nAts  in round 13
+Keiko killed Cloud  in round 13
+Enzo  killed purp0  in round 13
+Keiko killed hoody  in round 13
+Round 13 ended with spike_defuse. The winning team is Team Liquid.
+The current score is Team Liquid 5 - 8 Giants.
+nAts killed hoody  in round 14
+nAts killed purp0  in round 14
+Enzo  killed Fit1nho  in round 14
+Enzo  killed Redgar  in round 14
+nAts killed Cloud  in round 14
+Round 14 ended with elimination. The winning team is Team Liquid.
+The current score is Team Liquid 6 - 8 Giants.
+Cloud killed nAts  in round 15
+purp0 killed Enzo   in round 15
+Jamppi killed Fit1nho  in round 15
+Mistic killed Cloud  in round 15
+purp0 killed Mistic  in round 15
+Jamppi killed purp0  in round 15
+Jamppi killed hoody  in round 15
+Jamppi killed Redgar  in round 15
+Round 15 ended with detonate. The winning team is Giants.
+The current score is Team Liquid 6 - 9 Giants.
+Keiko killed Keiko  in round 16
+Keiko killed Cloud  in round 16
+nAts killed purp0  in round 16
+hoody killed nAts  in round 16
+Jamppi killed Fit1nho  in round 16
+Redgar killed Jamppi  in round 16
+Keiko killed Redgar  in round 16
+Enzo  killed hoody  in round 16
+Round 16 ended with elimination. The winning team is Team Liquid.
+The current score is Team Liquid 7 - 9 Giants.
+nAts killed purp0  in round 17
+nAts killed Cloud  in round 17
+Fit1nho killed Mistic  in round 17
+Jamppi killed hoody  in round 17
+Jamppi killed Redgar  in round 17
+Jamppi killed Fit1nho  in round 17
+Round 17 ended with elimination. The winning team is Team Liquid.
+The current score is Team Liquid 8 - 9 Giants.
+hoody killed Keiko  in round 18
+Mistic killed hoody  in round 18
+Redgar killed nAts  in round 18
+Mistic killed Redgar  in round 18
+Enzo  killed purp0  in round 18
+Jamppi killed Cloud  in round 18
+Jamppi killed Fit1nho  in round 18
+Round 18 ended with elimination. The winning team is Team Liquid.
+The current score is Team Liquid 9 - 9 Giants.
+Keiko killed Redgar  in round 19
+Enzo  killed purp0  in round 19
+Cloud killed Keiko  in round 19
+nAts killed Cloud  in round 19
+Mistic killed hoody  in round 19
+nAts killed Fit1nho  in round 19
+Round 19 ended with elimination. The winning team is Team Liquid.
+The current score is Team Liquid 10 - 9 Giants.
+Jamppi killed Cloud  in round 20
+Redgar killed nAts  in round 20
+Fit1nho killed Mistic  in round 20
+Enzo  killed purp0  in round 20
+Jamppi killed Fit1nho  in round 20
+Keiko killed Redgar  in round 20
+Keiko killed hoody  in round 20
+Round 20 ended with elimination. The winning team is Team Liquid.
+The current score is Team Liquid 11 - 9 Giants.
+purp0 killed Mistic  in round 21
+Jamppi killed Redgar  in round 21
+purp0 killed Jamppi  in round 21
+hoody killed Keiko  in round 21
+hoody killed Enzo   in round 21
+Cloud killed nAts  in round 21
+Round 21 ended with elimination. The winning team is Giants.
+The current score is Team Liquid 11 - 10 Giants.
+Keiko killed hoody  in round 22
+Keiko killed Fit1nho  in round 22
+purp0 killed Keiko  in round 22
+Enzo  killed Redgar  in round 22
+Mistic killed purp0  in round 22
+Cloud killed Mistic  in round 22
+Jamppi killed Cloud  in round 22
+Round 22 ended with elimination. The winning team is Team Liquid.
+The current score is Team Liquid 12 - 10 Giants.
+Redgar killed Keiko  in round 23
+Jamppi killed purp0  in round 23
+Jamppi killed Fit1nho  in round 23
+Cloud killed Jamppi  in round 23
+hoody killed Enzo   in round 23
+nAts killed hoody  in round 23
+Cloud killed Mistic  in round 23
+Cloud killed nAts  in round 23
+Round 23 ended with elimination. The winning team is Giants.
+The current score is Team Liquid 12 - 11 Giants.
+Mistic killed hoody  in round 24
+Mistic killed purp0  in round 24
+Mistic killed Redgar  in round 24
+Fit1nho killed Mistic  in round 24
+Cloud killed nAts  in round 24
+Enzo  killed Fit1nho  in round 24
+Cloud killed Keiko  in round 24
+Enzo  killed Cloud  in round 24
+Round 24 ended with elimination. The winning team is Team Liquid.
+The current score is Team Liquid 13 - 11 Giants.
+Game ended with winning team: Team Liquid at 2024-04-19T18:32:19Z
+
+--- Player Stats ---
+Fit1nho: Team=Giants, Kills=11, Deaths=16, Assists=15, KDA=1.62, First Kills=1, First Deaths=0
+purp0: Team=Giants, Kills=16, Deaths=20, Assists=0, KDA=0.8, First Kills=2, First Deaths=3
+Redgar: Team=Giants, Kills=16, Deaths=17, Assists=12, KDA=1.65, First Kills=5, First Deaths=1
+Cloud: Team=Giants, Kills=23, Deaths=15, Assists=4, KDA=1.8, First Kills=3, First Deaths=3
+hoody: Team=Giants, Kills=11, Deaths=17, Assists=6, KDA=1.0, First Kills=1, First Deaths=3
+Mistic: Team=Team Liquid, Kills=14, Deaths=18, Assists=13, KDA=1.5, First Kills=1, First Deaths=3
+nAts: Team=Team Liquid, Kills=13, Deaths=18, Assists=8, KDA=1.17, First Kills=2, First Deaths=3
+Enzo : Team=Team Liquid, Kills=21, Deaths=13, Assists=15, KDA=2.77, First Kills=1, First Deaths=1
+Keiko: Team=Team Liquid, Kills=17, Deaths=17, Assists=10, KDA=1.59, First Kills=5, First Deaths=7
+Jamppi: Team=Team Liquid, Kills=22, Deaths=13, Assists=3, KDA=1.92, First Kills=3, First Deaths=0

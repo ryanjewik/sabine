@@ -1,0 +1,211 @@
+Team 1: DRX
+Team 2: Talon Esports
+Participating Players:
+Player 1: sushiboys
+Player 2: garnetS
+Player 3: Crws
+Player 4: JitBoyS
+Player 5: foxz
+Player 6: ZestKR
+Player 7: BuZz
+Player 8: stax
+Player 9: MaKo
+Player 10: Rb
+Winning Team: DRX
+Score: DRX 13 - 6 Talon Esports
+Tournament Name: lock in brazil 2023
+Game Start Time: 2023-02-19T22:01:25Z
+Game End Time: 2023-02-19T22:42:58Z
+Rounds ended by ELIMINATION count: 15
+Rounds ended by DEFUSE count: 3
+Rounds ended by DETONATE count: 1
+SPIKE PLANTED count: 4
+platformGameId: val:c70456b7-c485-4e3d-a45a-16c4d4dd2286
+
+--- Events ---
+Game started at 2023-02-19T22:01:25Z
+foxz killed Rb  in round 1
+JitBoyS killed BuZz  in round 1
+garnetS killed ZestKR  in round 1
+stax killed JitBoyS  in round 1
+sushiboys killed stax  in round 1
+MaKo killed foxz  in round 1
+Crws killed MaKo  in round 1
+Round 1 ended with elimination. The winning team is Talon Esports.
+The current score is DRX 0 - 1 Talon Esports.
+JitBoyS killed MaKo  in round 2
+foxz killed stax  in round 2
+garnetS killed BuZz  in round 2
+foxz killed Rb  in round 2
+garnetS killed ZestKR  in round 2
+Round 2 ended with spike_defuse. The winning team is Talon Esports.
+The current score is DRX 0 - 2 Talon Esports.
+BuZz killed sushiboys  in round 3
+MaKo killed Crws  in round 3
+MaKo killed JitBoyS  in round 3
+BuZz killed garnetS  in round 3
+Round 3 ended with detonate. The winning team is DRX.
+The current score is DRX 1 - 2 Talon Esports.
+foxz killed foxz  in round 4
+JitBoyS killed stax  in round 4
+ZestKR killed JitBoyS  in round 4
+Crws killed Rb  in round 4
+Crws killed BuZz  in round 4
+ZestKR killed Crws  in round 4
+ZestKR killed foxz  in round 4
+MaKo killed sushiboys  in round 4
+garnetS killed MaKo  in round 4
+ZestKR killed garnetS  in round 4
+Round 4 ended with elimination. The winning team is DRX.
+The current score is DRX 2 - 2 Talon Esports.
+garnetS killed stax  in round 5
+garnetS killed Rb  in round 5
+MaKo killed JitBoyS  in round 5
+garnetS killed ZestKR  in round 5
+Crws killed MaKo  in round 5
+BuZz killed Crws  in round 5
+foxz killed BuZz  in round 5
+Round 5 ended with elimination. The winning team is Talon Esports.
+The current score is DRX 2 - 3 Talon Esports.
+garnetS killed stax  in round 6
+garnetS killed ZestKR  in round 6
+BuZz killed Crws  in round 6
+Rb killed JitBoyS  in round 6
+BuZz killed garnetS  in round 6
+Rb killed sushiboys  in round 6
+BuZz killed foxz  in round 6
+Round 6 ended with elimination. The winning team is DRX.
+The current score is DRX 3 - 3 Talon Esports.
+MaKo killed JitBoyS  in round 7
+Rb killed garnetS  in round 7
+MaKo killed Crws  in round 7
+BuZz killed sushiboys  in round 7
+stax killed foxz  in round 7
+Round 7 ended with elimination. The winning team is DRX.
+The current score is DRX 4 - 3 Talon Esports.
+JitBoyS killed stax  in round 8
+JitBoyS killed ZestKR  in round 8
+Rb killed JitBoyS  in round 8
+BuZz killed garnetS  in round 8
+sushiboys killed BuZz  in round 8
+MaKo killed sushiboys  in round 8
+Crws killed MaKo  in round 8
+sushiboys killed Rb  in round 8
+Round 8 ended with elimination. The winning team is Talon Esports.
+The current score is DRX 4 - 4 Talon Esports.
+garnetS killed ZestKR  in round 9
+Crws killed BuZz  in round 9
+JitBoyS killed Rb  in round 9
+JitBoyS killed stax  in round 9
+MaKo killed Crws  in round 9
+sushiboys killed MaKo  in round 9
+Round 9 ended with elimination. The winning team is Talon Esports.
+The current score is DRX 4 - 5 Talon Esports.
+BuZz killed sushiboys  in round 10
+foxz killed ZestKR  in round 10
+JitBoyS killed MaKo  in round 10
+BuZz killed JitBoyS  in round 10
+garnetS killed BuZz  in round 10
+stax killed garnetS  in round 10
+Crws killed Rb  in round 10
+foxz killed stax  in round 10
+Round 10 ended with spike_defuse. The winning team is Talon Esports.
+The current score is DRX 4 - 6 Talon Esports.
+Rb killed JitBoyS  in round 11
+BuZz killed Crws  in round 11
+foxz killed ZestKR  in round 11
+foxz killed MaKo  in round 11
+BuZz killed garnetS  in round 11
+foxz killed stax  in round 11
+Rb killed foxz  in round 11
+Rb killed sushiboys  in round 11
+Round 11 ended with elimination. The winning team is DRX.
+The current score is DRX 5 - 6 Talon Esports.
+Rb killed garnetS  in round 12
+foxz killed ZestKR  in round 12
+Rb killed JitBoyS  in round 12
+Rb killed BuZz  in round 12
+Rb killed sushiboys  in round 12
+Crws killed stax  in round 12
+Rb killed Crws  in round 12
+MaKo killed foxz  in round 12
+Round 12 ended with elimination. The winning team is DRX.
+The current score is DRX 6 - 6 Talon Esports.
+garnetS killed stax  in round 13
+ZestKR killed Crws  in round 13
+ZestKR killed JitBoyS  in round 13
+ZestKR killed garnetS  in round 13
+sushiboys killed BuZz  in round 13
+foxz killed Rb  in round 13
+foxz killed MaKo  in round 13
+ZestKR killed sushiboys  in round 13
+ZestKR killed foxz  in round 13
+Round 13 ended with elimination. The winning team is DRX.
+The current score is DRX 7 - 6 Talon Esports.
+MaKo killed Crws  in round 14
+MaKo killed sushiboys  in round 14
+BuZz killed foxz  in round 14
+Rb killed garnetS  in round 14
+Rb killed JitBoyS  in round 14
+Round 14 ended with elimination. The winning team is DRX.
+The current score is DRX 8 - 6 Talon Esports.
+garnetS killed BuZz  in round 15
+ZestKR killed sushiboys  in round 15
+ZestKR killed garnetS  in round 15
+stax killed JitBoyS  in round 15
+Rb killed Crws  in round 15
+foxz killed stax  in round 15
+ZestKR killed foxz  in round 15
+Round 15 ended with elimination. The winning team is DRX.
+The current score is DRX 9 - 6 Talon Esports.
+stax killed foxz  in round 16
+Rb killed garnetS  in round 16
+JitBoyS killed Rb  in round 16
+MaKo killed JitBoyS  in round 16
+stax killed Crws  in round 16
+sushiboys killed stax  in round 16
+MaKo killed sushiboys  in round 16
+Round 16 ended with elimination. The winning team is DRX.
+The current score is DRX 10 - 6 Talon Esports.
+BuZz killed garnetS  in round 17
+stax killed sushiboys  in round 17
+JitBoyS killed stax  in round 17
+ZestKR killed JitBoyS  in round 17
+foxz killed ZestKR  in round 17
+foxz killed BuZz  in round 17
+Rb killed Crws  in round 17
+foxz killed MaKo  in round 17
+Rb killed foxz  in round 17
+Round 17 ended with spike_defuse. The winning team is DRX.
+The current score is DRX 11 - 6 Talon Esports.
+ZestKR killed garnetS  in round 18
+BuZz killed JitBoyS  in round 18
+Crws killed stax  in round 18
+ZestKR killed sushiboys  in round 18
+ZestKR killed Crws  in round 18
+foxz killed BuZz  in round 18
+Rb killed foxz  in round 18
+Round 18 ended with elimination. The winning team is DRX.
+The current score is DRX 12 - 6 Talon Esports.
+MaKo killed sushiboys  in round 19
+MaKo killed garnetS  in round 19
+MaKo killed foxz  in round 19
+MaKo killed JitBoyS  in round 19
+garnetS killed Rb  in round 19
+Crws killed stax  in round 19
+BuZz killed Crws  in round 19
+Round 19 ended with elimination. The winning team is DRX.
+The current score is DRX 13 - 6 Talon Esports.
+Game ended with winning team: DRX at 2023-02-19T22:42:58Z
+
+--- Player Stats ---
+sushiboys: Team=Talon Esports, Kills=6, Deaths=15, Assists=6, KDA=0.8, First Kills=0, First Deaths=3
+garnetS: Team=Talon Esports, Kills=14, Deaths=15, Assists=0, KDA=0.93, First Kills=5, First Deaths=3
+Crws: Team=Talon Esports, Kills=10, Deaths=15, Assists=9, KDA=1.27, First Kills=0, First Deaths=1
+JitBoyS: Team=Talon Esports, Kills=10, Deaths=17, Assists=9, KDA=1.12, First Kills=2, First Deaths=2
+foxz: Team=Talon Esports, Kills=18, Deaths=14, Assists=4, KDA=1.57, First Kills=2, First Deaths=2
+ZestKR: Team=DRX, Kills=16, Deaths=10, Assists=5, KDA=2.1, First Kills=1, First Deaths=1
+BuZz: Team=DRX, Kills=16, Deaths=12, Assists=4, KDA=1.67, First Kills=3, First Deaths=1
+stax: Team=DRX, Kills=7, Deaths=16, Assists=12, KDA=1.19, First Kills=1, First Deaths=4
+MaKo: Team=DRX, Kills=18, Deaths=10, Assists=13, KDA=3.1, First Kills=3, First Deaths=1
+Rb: Team=DRX, Kills=19, Deaths=10, Assists=7, KDA=2.6, First Kills=2, First Deaths=1

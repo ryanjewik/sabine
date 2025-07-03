@@ -1,0 +1,251 @@
+Team 1: Leviatán Esports
+Team 2: 100 Thieves
+Participating Players:
+Player 1: Asuna
+Player 2: Cryo
+Player 3: stellar
+Player 4: Derrek
+Player 5: bangNA
+Player 6: Mazino
+Player 7: Shyy
+Player 8: kiNgg
+Player 9: Nozwerr
+Player 10: Tacolilla
+Winning Team: 100 Thieves
+Score: Leviatán Esports 11 - 13 100 Thieves
+Tournament Name: vct americas 2023
+Game Start Time: 2023-04-24T21:30:11Z
+Game End Time: 2023-04-24T22:31:09Z
+Rounds ended by ELIMINATION count: 12
+Rounds ended by DEFUSE count: 6
+Rounds ended by DETONATE count: 6
+SPIKE PLANTED count: 12
+platformGameId: val:dc743ebe-edb9-4562-b94f-09c575bb9b60
+
+--- Events ---
+Game started at 2023-04-24T21:30:11Z
+Cryo killed Shyy  in round 1
+Tacolilla killed bangNA  in round 1
+kiNgg killed Asuna  in round 1
+Nozwerr killed stellar  in round 1
+Derrek killed Tacolilla  in round 1
+Cryo killed kiNgg  in round 1
+Cryo killed Mazino  in round 1
+Derrek killed Nozwerr  in round 1
+Round 1 ended with spike_defuse. The winning team is 100 Thieves.
+The current score is Leviatán Esports 0 - 1 100 Thieves.
+bangNA killed Tacolilla  in round 2
+kiNgg killed Asuna  in round 2
+stellar killed Mazino  in round 2
+bangNA killed Nozwerr  in round 2
+kiNgg killed bangNA  in round 2
+stellar killed Shyy  in round 2
+Derrek killed kiNgg  in round 2
+Round 2 ended with elimination. The winning team is 100 Thieves.
+The current score is Leviatán Esports 0 - 2 100 Thieves.
+Cryo killed Tacolilla  in round 3
+Mazino killed Cryo  in round 3
+bangNA killed Mazino  in round 3
+Nozwerr killed bangNA  in round 3
+kiNgg killed stellar  in round 3
+Asuna killed Nozwerr  in round 3
+Shyy killed Derrek  in round 3
+Asuna killed Shyy  in round 3
+Asuna killed kiNgg  in round 3
+Round 3 ended with detonate. The winning team is Leviatán Esports.
+The current score is Leviatán Esports 1 - 2 100 Thieves.
+Asuna killed Asuna  in round 4
+Shyy killed Cryo  in round 4
+Shyy killed bangNA  in round 4
+Asuna killed Shyy  in round 4
+Tacolilla killed Asuna  in round 4
+Nozwerr killed Derrek  in round 4
+Round 4 ended with detonate. The winning team is Leviatán Esports.
+The current score is Leviatán Esports 2 - 2 100 Thieves.
+stellar killed stellar  in round 5
+kiNgg killed Asuna  in round 5
+kiNgg killed bangNA  in round 5
+kiNgg killed stellar  in round 5
+kiNgg killed Derrek  in round 5
+Round 5 ended with detonate. The winning team is Leviatán Esports.
+The current score is Leviatán Esports 3 - 2 100 Thieves.
+Tacolilla killed Cryo  in round 6
+Tacolilla killed Cryo  in round 6
+Mazino killed Derrek  in round 6
+kiNgg killed bangNA  in round 6
+Mazino killed Asuna  in round 6
+stellar killed kiNgg  in round 6
+stellar killed Tacolilla  in round 6
+Mazino killed stellar  in round 6
+Round 6 ended with elimination. The winning team is Leviatán Esports.
+The current score is Leviatán Esports 4 - 2 100 Thieves.
+Asuna killed Mazino  in round 7
+kiNgg killed bangNA  in round 7
+stellar killed kiNgg  in round 7
+stellar killed Tacolilla  in round 7
+Nozwerr killed stellar  in round 7
+Derrek killed Shyy  in round 7
+Derrek killed Nozwerr  in round 7
+Round 7 ended with spike_defuse. The winning team is 100 Thieves.
+The current score is Leviatán Esports 4 - 3 100 Thieves.
+kiNgg killed Asuna  in round 8
+kiNgg killed stellar  in round 8
+Tacolilla killed bangNA  in round 8
+Derrek killed Nozwerr  in round 8
+Tacolilla killed Derrek  in round 8
+Tacolilla killed Cryo  in round 8
+Round 8 ended with elimination. The winning team is Leviatán Esports.
+The current score is Leviatán Esports 5 - 3 100 Thieves.
+Shyy killed Asuna  in round 9
+bangNA killed Shyy  in round 9
+bangNA killed Nozwerr  in round 9
+Derrek killed Tacolilla  in round 9
+Mazino killed Derrek  in round 9
+Mazino killed bangNA  in round 9
+kiNgg killed Cryo  in round 9
+kiNgg killed stellar  in round 9
+Round 9 ended with elimination. The winning team is Leviatán Esports.
+The current score is Leviatán Esports 6 - 3 100 Thieves.
+Cryo killed Tacolilla  in round 10
+Mazino killed Derrek  in round 10
+Cryo killed Mazino  in round 10
+bangNA killed kiNgg  in round 10
+Nozwerr killed bangNA  in round 10
+Asuna killed Nozwerr  in round 10
+Shyy killed stellar  in round 10
+Asuna killed Shyy  in round 10
+Round 10 ended with elimination. The winning team is 100 Thieves.
+The current score is Leviatán Esports 6 - 4 100 Thieves.
+kiNgg killed Derrek  in round 11
+stellar killed kiNgg  in round 11
+Shyy killed Asuna  in round 11
+bangNA killed Shyy  in round 11
+Tacolilla killed stellar  in round 11
+Mazino killed Cryo  in round 11
+Tacolilla killed bangNA  in round 11
+Round 11 ended with elimination. The winning team is Leviatán Esports.
+The current score is Leviatán Esports 7 - 4 100 Thieves.
+Tacolilla killed Cryo  in round 12
+Asuna killed Tacolilla  in round 12
+Mazino killed bangNA  in round 12
+Asuna killed Mazino  in round 12
+Asuna killed kiNgg  in round 12
+Asuna killed Nozwerr  in round 12
+stellar killed Shyy  in round 12
+Round 12 ended with elimination. The winning team is 100 Thieves.
+The current score is Leviatán Esports 7 - 5 100 Thieves.
+Tacolilla killed Cryo  in round 13
+stellar killed Shyy  in round 13
+bangNA killed kiNgg  in round 13
+Asuna killed Tacolilla  in round 13
+stellar killed Mazino  in round 13
+Nozwerr killed Asuna  in round 13
+Nozwerr killed stellar  in round 13
+Nozwerr killed Nozwerr  in round 13
+Round 13 ended with elimination. The winning team is 100 Thieves.
+The current score is Leviatán Esports 7 - 6 100 Thieves.
+Cryo killed Tacolilla  in round 14
+Mazino killed Cryo  in round 14
+stellar killed Mazino  in round 14
+Asuna killed Shyy  in round 14
+Nozwerr killed stellar  in round 14
+Asuna killed Nozwerr  in round 14
+Derrek killed kiNgg  in round 14
+Round 14 ended with elimination. The winning team is 100 Thieves.
+The current score is Leviatán Esports 7 - 7 100 Thieves.
+Shyy killed Cryo  in round 15
+kiNgg killed stellar  in round 15
+Nozwerr killed bangNA  in round 15
+Shyy killed Derrek  in round 15
+Shyy killed Asuna  in round 15
+Round 15 ended with spike_defuse. The winning team is Leviatán Esports.
+The current score is Leviatán Esports 8 - 7 100 Thieves.
+Mazino killed Cryo  in round 16
+Tacolilla killed Derrek  in round 16
+Asuna killed Mazino  in round 16
+bangNA killed Nozwerr  in round 16
+Tacolilla killed bangNA  in round 16
+Shyy killed stellar  in round 16
+Asuna killed Tacolilla  in round 16
+kiNgg killed Asuna  in round 16
+Round 16 ended with spike_defuse. The winning team is Leviatán Esports.
+The current score is Leviatán Esports 9 - 7 100 Thieves.
+bangNA killed Mazino  in round 17
+Nozwerr killed Cryo  in round 17
+stellar killed Nozwerr  in round 17
+Asuna killed Tacolilla  in round 17
+Round 17 ended with detonate. The winning team is 100 Thieves.
+The current score is Leviatán Esports 9 - 8 100 Thieves.
+Cryo killed Mazino  in round 18
+Nozwerr killed Cryo  in round 18
+Asuna killed Nozwerr  in round 18
+Shyy killed bangNA  in round 18
+Asuna killed kiNgg  in round 18
+Shyy killed stellar  in round 18
+Derrek killed Shyy  in round 18
+Asuna killed Tacolilla  in round 18
+Round 18 ended with elimination. The winning team is 100 Thieves.
+The current score is Leviatán Esports 9 - 9 100 Thieves.
+Mazino killed stellar  in round 19
+Mazino killed Asuna  in round 19
+bangNA killed Nozwerr  in round 19
+Derrek killed Mazino  in round 19
+Tacolilla killed bangNA  in round 19
+Tacolilla killed Derrek  in round 19
+Cryo killed kiNgg  in round 19
+Shyy killed Cryo  in round 19
+Round 19 ended with spike_defuse. The winning team is Leviatán Esports.
+The current score is Leviatán Esports 10 - 9 100 Thieves.
+Cryo killed kiNgg  in round 20
+Shyy killed Cryo  in round 20
+stellar killed Mazino  in round 20
+Round 20 ended with detonate. The winning team is 100 Thieves.
+The current score is Leviatán Esports 10 - 10 100 Thieves.
+Cryo killed Tacolilla  in round 21
+Asuna killed Mazino  in round 21
+Shyy killed Cryo  in round 21
+bangNA killed Shyy  in round 21
+Derrek killed kiNgg  in round 21
+Round 21 ended with detonate. The winning team is 100 Thieves.
+The current score is Leviatán Esports 10 - 11 100 Thieves.
+Cryo killed Tacolilla  in round 22
+Cryo killed Shyy  in round 22
+Asuna killed Nozwerr  in round 22
+Asuna killed kiNgg  in round 22
+Derrek killed Mazino  in round 22
+Round 22 ended with elimination. The winning team is 100 Thieves.
+The current score is Leviatán Esports 10 - 12 100 Thieves.
+Mazino killed Derrek  in round 23
+Mazino killed Asuna  in round 23
+Nozwerr killed bangNA  in round 23
+Cryo killed Tacolilla  in round 23
+Mazino killed Cryo  in round 23
+stellar killed Shyy  in round 23
+stellar killed kiNgg  in round 23
+Nozwerr killed stellar  in round 23
+Round 23 ended with spike_defuse. The winning team is Leviatán Esports.
+The current score is Leviatán Esports 11 - 12 100 Thieves.
+Derrek killed Shyy  in round 24
+Nozwerr killed stellar  in round 24
+Cryo killed Nozwerr  in round 24
+Mazino killed Cryo  in round 24
+kiNgg killed Derrek  in round 24
+Mazino killed Asuna  in round 24
+bangNA killed Mazino  in round 24
+bangNA killed Tacolilla  in round 24
+bangNA killed kiNgg  in round 24
+Round 24 ended with elimination. The winning team is 100 Thieves.
+The current score is Leviatán Esports 11 - 13 100 Thieves.
+Game ended with winning team: 100 Thieves at 2023-04-24T22:31:09Z
+
+--- Player Stats ---
+Asuna: Team=100 Thieves, Kills=24, Deaths=15, Assists=10, KDA=2.27, First Kills=2, First Deaths=3
+Cryo: Team=100 Thieves, Kills=15, Deaths=19, Assists=5, KDA=1.05, First Kills=8, First Deaths=5
+stellar: Team=100 Thieves, Kills=16, Deaths=18, Assists=3, KDA=1.06, First Kills=1, First Deaths=2
+Derrek: Team=100 Thieves, Kills=13, Deaths=13, Assists=7, KDA=1.54, First Kills=1, First Deaths=2
+bangNA: Team=100 Thieves, Kills=15, Deaths=17, Assists=12, KDA=1.59, First Kills=2, First Deaths=0
+Mazino: Team=Leviatán Esports, Kills=18, Deaths=16, Assists=10, KDA=1.75, First Kills=3, First Deaths=3
+Shyy: Team=Leviatán Esports, Kills=15, Deaths=16, Assists=5, KDA=1.25, First Kills=2, First Deaths=2
+kiNgg: Team=Leviatán Esports, Kills=18, Deaths=17, Assists=5, KDA=1.35, First Kills=2, First Deaths=1
+Nozwerr: Team=Leviatán Esports, Kills=15, Deaths=16, Assists=6, KDA=1.31, First Kills=0, First Deaths=0
+Tacolilla: Team=Leviatán Esports, Kills=15, Deaths=17, Assists=5, KDA=1.18, First Kills=3, First Deaths=6

@@ -1,0 +1,211 @@
+Team 1: EDWARD Gaming
+Team 2: NOVA ESPORTS
+Participating Players:
+Player 1: GuanG
+Player 2: cb
+Player 3: o0o0o
+Player 4: Ezeir
+Player 5: Swerl
+Player 6: CHICHOO
+Player 7: ZmjjKK
+Player 8: S1Mon
+Player 9: nobody 
+Player 10: Smoggy
+Winning Team: EDWARD Gaming
+Score: EDWARD Gaming 13 - 6 NOVA ESPORTS
+Tournament Name: vct cn stage 2 2024
+Game Start Time: 2024-06-30T12:22:39Z
+Game End Time: 2024-06-30T13:01:55Z
+Rounds ended by ELIMINATION count: 16
+Rounds ended by DEFUSE count: 1
+Rounds ended by DETONATE count: 2
+SPIKE PLANTED count: 3
+platformGameId: val:2c250a8d-f696-4e9c-a410-14ecdc9d32bb
+
+--- Events ---
+Game started at 2024-06-30T12:22:39Z
+nobody  killed cb  in round 1
+S1Mon killed o0o0o  in round 1
+Ezeir killed nobody   in round 1
+Ezeir killed S1Mon  in round 1
+GuanG killed ZmjjKK  in round 1
+Smoggy killed Swerl  in round 1
+CHICHOO killed Ezeir  in round 1
+CHICHOO killed GuanG  in round 1
+Round 1 ended with elimination. The winning team is EDWARD Gaming.
+The current score is EDWARD Gaming 1 - 0 NOVA ESPORTS.
+ZmjjKK killed cb  in round 2
+ZmjjKK killed Ezeir  in round 2
+ZmjjKK killed o0o0o  in round 2
+nobody  killed GuanG  in round 2
+Swerl killed nobody   in round 2
+ZmjjKK killed Swerl  in round 2
+Round 2 ended with elimination. The winning team is EDWARD Gaming.
+The current score is EDWARD Gaming 2 - 0 NOVA ESPORTS.
+GuanG killed S1Mon  in round 3
+Swerl killed ZmjjKK  in round 3
+Smoggy killed o0o0o  in round 3
+nobody  killed GuanG  in round 3
+Swerl killed nobody   in round 3
+cb killed CHICHOO  in round 3
+Smoggy killed Swerl  in round 3
+cb killed Smoggy  in round 3
+Round 3 ended with elimination. The winning team is NOVA ESPORTS.
+The current score is EDWARD Gaming 2 - 1 NOVA ESPORTS.
+Swerl killed Smoggy  in round 4
+cb killed nobody   in round 4
+GuanG killed S1Mon  in round 4
+CHICHOO killed GuanG  in round 4
+o0o0o killed CHICHOO  in round 4
+ZmjjKK killed Swerl  in round 4
+cb killed ZmjjKK  in round 4
+Round 4 ended with elimination. The winning team is NOVA ESPORTS.
+The current score is EDWARD Gaming 2 - 2 NOVA ESPORTS.
+Swerl killed ZmjjKK  in round 5
+nobody  killed o0o0o  in round 5
+nobody  killed Ezeir  in round 5
+nobody  killed Swerl  in round 5
+cb killed S1Mon  in round 5
+nobody  killed GuanG  in round 5
+cb killed nobody   in round 5
+Round 5 ended with detonate. The winning team is EDWARD Gaming.
+The current score is EDWARD Gaming 3 - 2 NOVA ESPORTS.
+Smoggy killed Swerl  in round 6
+Smoggy killed Ezeir  in round 6
+o0o0o killed CHICHOO  in round 6
+o0o0o killed S1Mon  in round 6
+o0o0o killed Smoggy  in round 6
+nobody  killed o0o0o  in round 6
+nobody  killed cb  in round 6
+GuanG killed nobody   in round 6
+ZmjjKK killed GuanG  in round 6
+Round 6 ended with elimination. The winning team is EDWARD Gaming.
+The current score is EDWARD Gaming 4 - 2 NOVA ESPORTS.
+Swerl killed nobody   in round 7
+S1Mon killed GuanG  in round 7
+CHICHOO killed Swerl  in round 7
+ZmjjKK killed o0o0o  in round 7
+Ezeir killed CHICHOO  in round 7
+Ezeir killed ZmjjKK  in round 7
+Smoggy killed Ezeir  in round 7
+S1Mon killed cb  in round 7
+Round 7 ended with elimination. The winning team is EDWARD Gaming.
+The current score is EDWARD Gaming 5 - 2 NOVA ESPORTS.
+cb killed nobody   in round 8
+ZmjjKK killed Swerl  in round 8
+GuanG killed Smoggy  in round 8
+S1Mon killed GuanG  in round 8
+Ezeir killed ZmjjKK  in round 8
+CHICHOO killed o0o0o  in round 8
+Ezeir killed CHICHOO  in round 8
+cb killed S1Mon  in round 8
+Round 8 ended with elimination. The winning team is NOVA ESPORTS.
+The current score is EDWARD Gaming 5 - 3 NOVA ESPORTS.
+nobody  killed cb  in round 9
+nobody  killed Ezeir  in round 9
+o0o0o killed Smoggy  in round 9
+S1Mon killed o0o0o  in round 9
+Round 9 ended with detonate. The winning team is EDWARD Gaming.
+The current score is EDWARD Gaming 6 - 3 NOVA ESPORTS.
+CHICHOO killed Ezeir  in round 10
+Smoggy killed GuanG  in round 10
+ZmjjKK killed o0o0o  in round 10
+nobody  killed cb  in round 10
+Swerl killed ZmjjKK  in round 10
+Swerl killed Smoggy  in round 10
+S1Mon killed Swerl  in round 10
+Round 10 ended with elimination. The winning team is EDWARD Gaming.
+The current score is EDWARD Gaming 7 - 3 NOVA ESPORTS.
+ZmjjKK killed GuanG  in round 11
+o0o0o killed ZmjjKK  in round 11
+nobody  killed Swerl  in round 11
+nobody  killed Ezeir  in round 11
+Smoggy killed o0o0o  in round 11
+nobody  killed cb  in round 11
+Round 11 ended with elimination. The winning team is EDWARD Gaming.
+The current score is EDWARD Gaming 8 - 3 NOVA ESPORTS.
+Swerl killed nobody   in round 12
+o0o0o killed Smoggy  in round 12
+Smoggy killed o0o0o  in round 12
+Ezeir killed CHICHOO  in round 12
+Ezeir killed S1Mon  in round 12
+Ezeir killed ZmjjKK  in round 12
+Round 12 ended with elimination. The winning team is NOVA ESPORTS.
+The current score is EDWARD Gaming 8 - 4 NOVA ESPORTS.
+nobody  killed Swerl  in round 13
+GuanG killed nobody   in round 13
+o0o0o killed Smoggy  in round 13
+ZmjjKK killed o0o0o  in round 13
+ZmjjKK killed Ezeir  in round 13
+GuanG killed ZmjjKK  in round 13
+cb killed S1Mon  in round 13
+CHICHOO killed cb  in round 13
+GuanG killed CHICHOO  in round 13
+Round 13 ended with elimination. The winning team is NOVA ESPORTS.
+The current score is EDWARD Gaming 8 - 5 NOVA ESPORTS.
+Swerl killed ZmjjKK  in round 14
+Ezeir killed nobody   in round 14
+CHICHOO killed Ezeir  in round 14
+o0o0o killed S1Mon  in round 14
+o0o0o killed CHICHOO  in round 14
+Smoggy killed GuanG  in round 14
+o0o0o killed Smoggy  in round 14
+Round 14 ended with elimination. The winning team is NOVA ESPORTS.
+The current score is EDWARD Gaming 8 - 6 NOVA ESPORTS.
+GuanG killed Smoggy  in round 15
+Ezeir killed CHICHOO  in round 15
+ZmjjKK killed Swerl  in round 15
+S1Mon killed o0o0o  in round 15
+ZmjjKK killed Ezeir  in round 15
+GuanG killed S1Mon  in round 15
+nobody  killed GuanG  in round 15
+nobody  killed cb  in round 15
+Round 15 ended with elimination. The winning team is EDWARD Gaming.
+The current score is EDWARD Gaming 9 - 6 NOVA ESPORTS.
+ZmjjKK killed o0o0o  in round 16
+ZmjjKK killed cb  in round 16
+ZmjjKK killed Ezeir  in round 16
+CHICHOO killed Swerl  in round 16
+Smoggy killed GuanG  in round 16
+Round 16 ended with elimination. The winning team is EDWARD Gaming.
+The current score is EDWARD Gaming 10 - 6 NOVA ESPORTS.
+CHICHOO killed Swerl  in round 17
+CHICHOO killed cb  in round 17
+CHICHOO killed o0o0o  in round 17
+Ezeir killed ZmjjKK  in round 17
+GuanG killed CHICHOO  in round 17
+S1Mon killed Ezeir  in round 17
+Smoggy killed GuanG  in round 17
+Round 17 ended with elimination. The winning team is EDWARD Gaming.
+The current score is EDWARD Gaming 11 - 6 NOVA ESPORTS.
+ZmjjKK killed Swerl  in round 18
+cb killed ZmjjKK  in round 18
+cb killed nobody   in round 18
+Smoggy killed o0o0o  in round 18
+cb killed Smoggy  in round 18
+cb killed S1Mon  in round 18
+CHICHOO killed cb  in round 18
+Round 18 ended with spike_defuse. The winning team is EDWARD Gaming.
+The current score is EDWARD Gaming 12 - 6 NOVA ESPORTS.
+GuanG killed CHICHOO  in round 19
+CHICHOO killed Ezeir  in round 19
+CHICHOO killed Swerl  in round 19
+nobody  killed cb  in round 19
+o0o0o killed S1Mon  in round 19
+CHICHOO killed o0o0o  in round 19
+nobody  killed GuanG  in round 19
+Round 19 ended with elimination. The winning team is EDWARD Gaming.
+The current score is EDWARD Gaming 13 - 6 NOVA ESPORTS.
+Game ended with winning team: EDWARD Gaming at 2024-06-30T13:01:55Z
+
+--- Player Stats ---
+GuanG: Team=NOVA ESPORTS, Kills=12, Deaths=15, Assists=9, KDA=1.4, First Kills=3, First Deaths=1
+cb: Team=NOVA ESPORTS, Kills=13, Deaths=13, Assists=5, KDA=1.38, First Kills=1, First Deaths=3
+o0o0o: Team=NOVA ESPORTS, Kills=12, Deaths=17, Assists=6, KDA=1.06, First Kills=0, First Deaths=1
+Ezeir: Team=NOVA ESPORTS, Kills=12, Deaths=14, Assists=4, KDA=1.14, First Kills=0, First Deaths=1
+Swerl: Team=NOVA ESPORTS, Kills=10, Deaths=16, Assists=1, KDA=0.69, First Kills=5, First Deaths=4
+CHICHOO: Team=EDWARD Gaming, Kills=16, Deaths=11, Assists=5, KDA=1.91, First Kills=2, First Deaths=1
+ZmjjKK: Team=EDWARD Gaming, Kills=18, Deaths=13, Assists=6, KDA=1.85, First Kills=4, First Deaths=2
+S1Mon: Team=EDWARD Gaming, Kills=8, Deaths=12, Assists=4, KDA=1.0, First Kills=0, First Deaths=1
+nobody : Team=EDWARD Gaming, Kills=20, Deaths=12, Assists=4, KDA=2.0, First Kills=3, First Deaths=3
+Smoggy: Team=EDWARD Gaming, Kills=13, Deaths=11, Assists=8, KDA=1.91, First Kills=1, First Deaths=2

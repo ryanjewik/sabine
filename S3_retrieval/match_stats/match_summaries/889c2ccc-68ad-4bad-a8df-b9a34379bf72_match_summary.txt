@@ -1,0 +1,185 @@
+Team 1: LOUD
+Team 2: FURIA
+Participating Players:
+Player 1: QcK
+Player 2: dgzin
+Player 3: mazin
+Player 4: mwzera
+Player 5: Khalil
+Player 6: aspas
+Player 7: Cauazin
+Player 8: Saadhak
+Player 9: Less
+Player 10: tuyz
+Winning Team: LOUD
+Score: LOUD 13 - 4 FURIA
+Tournament Name: vct americas 2023
+Game Start Time: 2023-05-24T19:53:35Z
+Game End Time: 2023-05-24T20:45:15Z
+Rounds ended by ELIMINATION count: 8
+Rounds ended by DEFUSE count: 5
+Rounds ended by DETONATE count: 4
+SPIKE PLANTED count: 9
+platformGameId: val:889c2ccc-68ad-4bad-a8df-b9a34379bf72
+
+--- Events ---
+Game started at 2023-05-24T19:53:35Z
+Cauazin killed dgzin  in round 1
+Less killed QcK  in round 1
+Less killed mwzera  in round 1
+aspas killed mazin  in round 1
+Cauazin killed Khalil  in round 1
+Round 1 ended with elimination. The winning team is LOUD.
+The current score is LOUD 1 - 0 FURIA.
+Saadhak killed QcK  in round 2
+Less killed mazin  in round 2
+tuyz killed dgzin  in round 2
+Round 2 ended with detonate. The winning team is LOUD.
+The current score is LOUD 2 - 0 FURIA.
+mwzera killed mwzera  in round 3
+Khalil killed Khalil  in round 3
+Cauazin killed Khalil  in round 3
+Cauazin killed mwzera  in round 3
+tuyz killed dgzin  in round 3
+Less killed QcK  in round 3
+Round 3 ended with detonate. The winning team is LOUD.
+The current score is LOUD 3 - 0 FURIA.
+aspas killed mazin  in round 4
+tuyz killed mwzera  in round 4
+Less killed dgzin  in round 4
+mazin killed Saadhak  in round 4
+aspas killed mazin  in round 4
+tuyz killed QcK  in round 4
+aspas killed Khalil  in round 4
+Round 4 ended with elimination. The winning team is LOUD.
+The current score is LOUD 4 - 0 FURIA.
+tuyz killed QcK  in round 5
+Less killed mazin  in round 5
+Cauazin killed mwzera  in round 5
+dgzin killed tuyz  in round 5
+Less killed dgzin  in round 5
+Round 5 ended with detonate. The winning team is LOUD.
+The current score is LOUD 5 - 0 FURIA.
+Khalil killed Cauazin  in round 6
+Less killed Khalil  in round 6
+Khalil killed Less  in round 6
+QcK killed Cauazin  in round 6
+Saadhak killed QcK  in round 6
+tuyz killed Khalil  in round 6
+mazin killed aspas  in round 6
+dgzin killed tuyz  in round 6
+Saadhak killed mazin  in round 6
+mwzera killed Saadhak  in round 6
+Round 6 ended with spike_defuse. The winning team is FURIA.
+The current score is LOUD 5 - 1 FURIA.
+Less killed mazin  in round 7
+Round 7 ended with detonate. The winning team is LOUD.
+The current score is LOUD 6 - 1 FURIA.
+dgzin killed Less  in round 8
+mwzera killed aspas  in round 8
+Saadhak killed QcK  in round 8
+Cauazin killed mwzera  in round 8
+mazin killed tuyz  in round 8
+Cauazin killed dgzin  in round 8
+Saadhak killed Khalil  in round 8
+mazin killed Saadhak  in round 8
+mazin killed Cauazin  in round 8
+Round 8 ended with spike_defuse. The winning team is FURIA.
+The current score is LOUD 6 - 2 FURIA.
+mwzera killed tuyz  in round 9
+Cauazin killed mwzera  in round 9
+Less killed Khalil  in round 9
+mazin killed Less  in round 9
+QcK killed aspas  in round 9
+Saadhak killed mazin  in round 9
+Saadhak killed QcK  in round 9
+Cauazin killed dgzin  in round 9
+Round 9 ended with elimination. The winning team is LOUD.
+The current score is LOUD 7 - 2 FURIA.
+Saadhak killed mazin  in round 10
+Less killed mwzera  in round 10
+Less killed dgzin  in round 10
+Khalil killed Cauazin  in round 10
+aspas killed Khalil  in round 10
+aspas killed QcK  in round 10
+Round 10 ended with elimination. The winning team is LOUD.
+The current score is LOUD 8 - 2 FURIA.
+mwzera killed Cauazin  in round 11
+tuyz killed mwzera  in round 11
+dgzin killed tuyz  in round 11
+Less killed dgzin  in round 11
+QcK killed aspas  in round 11
+QcK killed Saadhak  in round 11
+mazin killed Less  in round 11
+Round 11 ended with elimination. The winning team is FURIA.
+The current score is LOUD 8 - 3 FURIA.
+Cauazin killed Khalil  in round 12
+QcK killed aspas  in round 12
+Cauazin killed QcK  in round 12
+Less killed dgzin  in round 12
+Less killed mwzera  in round 12
+mazin killed Less  in round 12
+Cauazin killed mazin  in round 12
+Round 12 ended with elimination. The winning team is LOUD.
+The current score is LOUD 9 - 3 FURIA.
+Cauazin killed dgzin  in round 13
+tuyz killed mazin  in round 13
+QcK killed tuyz  in round 13
+QcK killed Cauazin  in round 13
+Less killed QcK  in round 13
+Saadhak killed mwzera  in round 13
+Saadhak killed Khalil  in round 13
+Round 13 ended with spike_defuse. The winning team is LOUD.
+The current score is LOUD 10 - 3 FURIA.
+mazin killed Cauazin  in round 14
+tuyz killed Khalil  in round 14
+QcK killed tuyz  in round 14
+Saadhak killed mazin  in round 14
+Saadhak killed dgzin  in round 14
+mwzera killed Saadhak  in round 14
+mwzera killed Less  in round 14
+QcK killed aspas  in round 14
+Round 14 ended with elimination. The winning team is FURIA.
+The current score is LOUD 10 - 4 FURIA.
+mwzera killed tuyz  in round 15
+aspas killed dgzin  in round 15
+mazin killed Cauazin  in round 15
+aspas killed mazin  in round 15
+Saadhak killed Khalil  in round 15
+mwzera killed Saadhak  in round 15
+mwzera killed aspas  in round 15
+Less killed mwzera  in round 15
+Less killed QcK  in round 15
+Round 15 ended with spike_defuse. The winning team is LOUD.
+The current score is LOUD 11 - 4 FURIA.
+Cauazin killed dgzin  in round 16
+Less killed mazin  in round 16
+Less killed QcK  in round 16
+mwzera killed Cauazin  in round 16
+mwzera killed tuyz  in round 16
+aspas killed mwzera  in round 16
+Saadhak killed Khalil  in round 16
+Round 16 ended with elimination. The winning team is LOUD.
+The current score is LOUD 12 - 4 FURIA.
+QcK killed aspas  in round 17
+Cauazin killed QcK  in round 17
+Cauazin killed mazin  in round 17
+Cauazin killed mwzera  in round 17
+dgzin killed Cauazin  in round 17
+tuyz killed dgzin  in round 17
+Less killed Khalil  in round 17
+Round 17 ended with spike_defuse. The winning team is LOUD.
+The current score is LOUD 13 - 4 FURIA.
+Game ended with winning team: LOUD at 2023-05-24T20:45:15Z
+
+--- Player Stats ---
+QcK: Team=FURIA, Kills=10, Deaths=14, Assists=1, KDA=0.79, First Kills=1, First Deaths=2
+dgzin: Team=FURIA, Kills=5, Deaths=15, Assists=2, KDA=0.47, First Kills=1, First Deaths=3
+mazin: Team=FURIA, Kills=10, Deaths=15, Assists=6, KDA=1.07, First Kills=1, First Deaths=3
+mwzera: Team=FURIA, Kills=12, Deaths=14, Assists=4, KDA=1.14, First Kills=4, First Deaths=1
+Khalil: Team=FURIA, Kills=4, Deaths=15, Assists=0, KDA=0.27, First Kills=1, First Deaths=1
+aspas: Team=LOUD, Kills=9, Deaths=8, Assists=3, KDA=1.5, First Kills=1, First Deaths=1
+Cauazin: Team=LOUD, Kills=17, Deaths=10, Assists=9, KDA=2.6, First Kills=4, First Deaths=3
+Saadhak: Team=LOUD, Kills=14, Deaths=6, Assists=4, KDA=3.0, First Kills=2, First Deaths=0
+Less: Team=LOUD, Kills=21, Deaths=6, Assists=2, KDA=3.83, First Kills=1, First Deaths=1
+tuyz: Team=LOUD, Kills=10, Deaths=9, Assists=4, KDA=1.56, First Kills=1, First Deaths=2

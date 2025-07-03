@@ -1,0 +1,191 @@
+Team 1: ZETA DIVISION
+Team 2: Gen.G Esports
+Participating Players:
+Player 1: Karon
+Player 2: Meteor 
+Player 3: Munchkin
+Player 4: Lakia
+Player 5: t3xture
+Player 6: Dep
+Player 7: Yuran
+Player 8: SugarZ3ro
+Player 9: hiroronn
+Player 10: Laz
+Winning Team: Gen.G Esports
+Score: ZETA DIVISION 4 - 13 Gen.G Esports
+Tournament Name: vct pacific kickoff 2024
+Game Start Time: 2024-02-22T12:38:11Z
+Game End Time: 2024-02-22T13:17:04Z
+Rounds ended by ELIMINATION count: 10
+Rounds ended by DEFUSE count: 6
+Rounds ended by DETONATE count: 0
+SPIKE PLANTED count: 6
+platformGameId: val:f1110298-01a4-423d-8ebb-2151d4969308
+
+--- Events ---
+Game started at 2024-02-22T12:38:11Z
+t3xture killed hiroronn  in round 1
+Meteor  killed Yuran  in round 1
+Dep killed t3xture  in round 1
+Meteor  killed SugarZ3ro  in round 1
+Dep killed Meteor   in round 1
+Munchkin killed Dep  in round 1
+Laz killed Lakia  in round 1
+Munchkin killed Laz  in round 1
+Round 1 ended with spike_defuse. The winning team is Gen.G Esports.
+The current score is ZETA DIVISION 0 - 1 Gen.G Esports.
+Munchkin killed Dep  in round 2
+t3xture killed SugarZ3ro  in round 2
+Munchkin killed Laz  in round 2
+Munchkin killed Yuran  in round 2
+hiroronn killed t3xture  in round 2
+Munchkin killed hiroronn  in round 2
+Round 2 ended with elimination. The winning team is Gen.G Esports.
+The current score is ZETA DIVISION 0 - 2 Gen.G Esports.
+hiroronn killed Meteor   in round 3
+Lakia killed Yuran  in round 3
+Dep killed Lakia  in round 3
+t3xture killed SugarZ3ro  in round 3
+t3xture killed Laz  in round 3
+t3xture killed Dep  in round 3
+Karon killed hiroronn  in round 3
+Round 3 ended with spike_defuse. The winning team is Gen.G Esports.
+The current score is ZETA DIVISION 0 - 3 Gen.G Esports.
+Lakia killed Dep  in round 4
+Meteor  killed Laz  in round 4
+Lakia killed Yuran  in round 4
+SugarZ3ro killed Meteor   in round 4
+Lakia killed hiroronn  in round 4
+Munchkin killed SugarZ3ro  in round 4
+Round 4 ended with elimination. The winning team is Gen.G Esports.
+The current score is ZETA DIVISION 0 - 4 Gen.G Esports.
+Dep killed Meteor   in round 5
+Dep killed Lakia  in round 5
+Laz killed Munchkin  in round 5
+Laz killed t3xture  in round 5
+Karon killed Yuran  in round 5
+Laz killed Karon  in round 5
+Round 5 ended with elimination. The winning team is ZETA DIVISION.
+The current score is ZETA DIVISION 1 - 4 Gen.G Esports.
+Lakia killed Dep  in round 6
+Meteor  killed hiroronn  in round 6
+SugarZ3ro killed Meteor   in round 6
+Lakia killed Yuran  in round 6
+Karon killed Laz  in round 6
+SugarZ3ro killed Munchkin  in round 6
+SugarZ3ro killed Lakia  in round 6
+SugarZ3ro killed t3xture  in round 6
+Karon killed SugarZ3ro  in round 6
+Round 6 ended with spike_defuse. The winning team is Gen.G Esports.
+The current score is ZETA DIVISION 1 - 5 Gen.G Esports.
+Dep killed Meteor   in round 7
+Karon killed Yuran  in round 7
+SugarZ3ro killed Karon  in round 7
+hiroronn killed t3xture  in round 7
+SugarZ3ro killed Lakia  in round 7
+Munchkin killed SugarZ3ro  in round 7
+hiroronn killed Munchkin  in round 7
+Round 7 ended with elimination. The winning team is ZETA DIVISION.
+The current score is ZETA DIVISION 2 - 5 Gen.G Esports.
+Lakia killed SugarZ3ro  in round 8
+Dep killed Munchkin  in round 8
+Meteor  killed Yuran  in round 8
+hiroronn killed Lakia  in round 8
+Dep killed Meteor   in round 8
+Karon killed Dep  in round 8
+t3xture killed hiroronn  in round 8
+Karon killed Laz  in round 8
+Round 8 ended with spike_defuse. The winning team is Gen.G Esports.
+The current score is ZETA DIVISION 2 - 6 Gen.G Esports.
+Munchkin killed Dep  in round 9
+Meteor  killed Yuran  in round 9
+Meteor  killed SugarZ3ro  in round 9
+Karon killed Laz  in round 9
+hiroronn killed Lakia  in round 9
+Meteor  killed hiroronn  in round 9
+Round 9 ended with spike_defuse. The winning team is Gen.G Esports.
+The current score is ZETA DIVISION 2 - 7 Gen.G Esports.
+Laz killed t3xture  in round 10
+Munchkin killed Yuran  in round 10
+Munchkin killed Laz  in round 10
+SugarZ3ro killed Munchkin  in round 10
+Lakia killed hiroronn  in round 10
+Meteor  killed SugarZ3ro  in round 10
+Dep killed Karon  in round 10
+Meteor  killed Dep  in round 10
+Round 10 ended with spike_defuse. The winning team is Gen.G Esports.
+The current score is ZETA DIVISION 2 - 8 Gen.G Esports.
+Laz killed Munchkin  in round 11
+Karon killed Dep  in round 11
+Lakia killed hiroronn  in round 11
+Karon killed SugarZ3ro  in round 11
+Yuran killed Meteor   in round 11
+Yuran killed Lakia  in round 11
+Karon killed Yuran  in round 11
+Laz killed Karon  in round 11
+Round 11 ended with time_expired. The winning team is Gen.G Esports.
+The current score is ZETA DIVISION 2 - 9 Gen.G Esports.
+Yuran killed t3xture  in round 12
+Meteor  killed Dep  in round 12
+Meteor  killed hiroronn  in round 12
+Meteor  killed Yuran  in round 12
+Meteor  killed SugarZ3ro  in round 12
+Laz killed Meteor   in round 12
+Karon killed Laz  in round 12
+Round 12 ended with elimination. The winning team is Gen.G Esports.
+The current score is ZETA DIVISION 2 - 10 Gen.G Esports.
+Munchkin killed Dep  in round 13
+SugarZ3ro killed Lakia  in round 13
+hiroronn killed Munchkin  in round 13
+SugarZ3ro killed Karon  in round 13
+Meteor  killed SugarZ3ro  in round 13
+Laz killed t3xture  in round 13
+Laz killed Meteor   in round 13
+Round 13 ended with elimination. The winning team is ZETA DIVISION.
+The current score is ZETA DIVISION 3 - 10 Gen.G Esports.
+hiroronn killed Karon  in round 14
+SugarZ3ro killed t3xture  in round 14
+Lakia killed hiroronn  in round 14
+Dep killed Meteor   in round 14
+Laz killed Lakia  in round 14
+Laz killed Munchkin  in round 14
+Round 14 ended with elimination. The winning team is ZETA DIVISION.
+The current score is ZETA DIVISION 4 - 10 Gen.G Esports.
+t3xture killed Laz  in round 15
+SugarZ3ro killed Munchkin  in round 15
+Karon killed hiroronn  in round 15
+t3xture killed Yuran  in round 15
+Karon killed Dep  in round 15
+Lakia killed SugarZ3ro  in round 15
+Round 15 ended with elimination. The winning team is Gen.G Esports.
+The current score is ZETA DIVISION 4 - 11 Gen.G Esports.
+Meteor  killed Dep  in round 16
+t3xture killed SugarZ3ro  in round 16
+t3xture killed hiroronn  in round 16
+Karon killed Yuran  in round 16
+Laz killed t3xture  in round 16
+Karon killed Laz  in round 16
+Round 16 ended with elimination. The winning team is Gen.G Esports.
+The current score is ZETA DIVISION 4 - 12 Gen.G Esports.
+hiroronn killed Munchkin  in round 17
+Meteor  killed Dep  in round 17
+Meteor  killed SugarZ3ro  in round 17
+t3xture killed Yuran  in round 17
+Laz killed t3xture  in round 17
+Meteor  killed Laz  in round 17
+Meteor  killed hiroronn  in round 17
+Round 17 ended with elimination. The winning team is Gen.G Esports.
+The current score is ZETA DIVISION 4 - 13 Gen.G Esports.
+Game ended with winning team: Gen.G Esports at 2024-02-22T13:17:04Z
+
+--- Player Stats ---
+Karon: Team=Gen.G Esports, Kills=16, Deaths=6, Assists=14, KDA=5.0, First Kills=0, First Deaths=1
+Meteor : Team=Gen.G Esports, Kills=20, Deaths=11, Assists=2, KDA=2.0, First Kills=1, First Deaths=3
+Munchkin: Team=Gen.G Esports, Kills=12, Deaths=10, Assists=8, KDA=2.0, First Kills=3, First Deaths=2
+Lakia: Team=Gen.G Esports, Kills=11, Deaths=10, Assists=9, KDA=2.0, First Kills=3, First Deaths=0
+t3xture: Team=Gen.G Esports, Kills=11, Deaths=11, Assists=5, KDA=1.45, First Kills=2, First Deaths=2
+Dep: Team=ZETA DIVISION, Kills=10, Deaths=14, Assists=3, KDA=0.93, First Kills=2, First Deaths=6
+Yuran: Team=ZETA DIVISION, Kills=3, Deaths=15, Assists=4, KDA=0.47, First Kills=1, First Deaths=0
+SugarZ3ro: Team=ZETA DIVISION, Kills=12, Deaths=15, Assists=5, KDA=1.13, First Kills=0, First Deaths=1
+hiroronn: Team=ZETA DIVISION, Kills=9, Deaths=14, Assists=8, KDA=1.21, First Kills=3, First Deaths=1
+Laz: Team=ZETA DIVISION, Kills=14, Deaths=12, Assists=1, KDA=1.25, First Kills=2, First Deaths=1

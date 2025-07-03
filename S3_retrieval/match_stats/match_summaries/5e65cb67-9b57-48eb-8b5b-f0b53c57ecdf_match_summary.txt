@@ -1,0 +1,234 @@
+Team 1: Talon Esports
+Team 2: Gen.G Esports
+Participating Players:
+Player 1: t3xture
+Player 2: Lakia
+Player 3: Munchkin
+Player 4: Meteor 
+Player 5: Karon
+Player 6: Governor
+Player 7: ban
+Player 8: Crws
+Player 9: Surf
+Player 10: JitBoyS
+Winning Team: Gen.G Esports
+Score: Talon Esports 9 - 13 Gen.G Esports
+Tournament Name: vct pacific stage 1 2024
+Game Start Time: 2024-04-09T07:58:49Z
+Game End Time: 2024-04-09T08:53:27Z
+Rounds ended by ELIMINATION count: 10
+Rounds ended by DEFUSE count: 8
+Rounds ended by DETONATE count: 3
+SPIKE PLANTED count: 11
+platformGameId: val:5e65cb67-9b57-48eb-8b5b-f0b53c57ecdf
+
+--- Events ---
+Game started at 2024-04-09T07:58:49Z
+Meteor  killed JitBoyS  in round 1
+Munchkin killed Governor  in round 1
+Surf killed Karon  in round 1
+Lakia killed ban  in round 1
+Surf killed t3xture  in round 1
+ban killed Munchkin  in round 1
+Meteor  killed Surf  in round 1
+Round 1 ended with spike_defuse. The winning team is Gen.G Esports.
+The current score is Talon Esports 0 - 1 Gen.G Esports.
+Crws killed Meteor   in round 2
+Crws killed Lakia  in round 2
+Munchkin killed Crws  in round 2
+Munchkin killed ban  in round 2
+Munchkin killed Governor  in round 2
+Surf killed Munchkin  in round 2
+Meteor  killed Surf  in round 2
+Lakia killed JitBoyS  in round 2
+Round 2 ended with elimination. The winning team is Gen.G Esports.
+The current score is Talon Esports 0 - 2 Gen.G Esports.
+ban killed t3xture  in round 3
+Governor killed Lakia  in round 3
+Karon killed ban  in round 3
+Karon killed Governor  in round 3
+Karon killed Surf  in round 3
+JitBoyS killed Karon  in round 3
+Munchkin killed Crws  in round 3
+Munchkin killed JitBoyS  in round 3
+Round 3 ended with spike_defuse. The winning team is Gen.G Esports.
+The current score is Talon Esports 0 - 3 Gen.G Esports.
+Munchkin killed Governor  in round 4
+t3xture killed Surf  in round 4
+t3xture killed ban  in round 4
+t3xture killed Crws  in round 4
+t3xture killed JitBoyS  in round 4
+Round 4 ended with spike_defuse. The winning team is Gen.G Esports.
+The current score is Talon Esports 0 - 4 Gen.G Esports.
+ban killed Munchkin  in round 5
+Governor killed Karon  in round 5
+ban killed Lakia  in round 5
+t3xture killed Crws  in round 5
+JitBoyS killed t3xture  in round 5
+Meteor  killed JitBoyS  in round 5
+Surf killed Meteor   in round 5
+Round 5 ended with elimination. The winning team is Talon Esports.
+The current score is Talon Esports 1 - 4 Gen.G Esports.
+t3xture killed JitBoyS  in round 6
+t3xture killed Governor  in round 6
+ban killed Lakia  in round 6
+Munchkin killed ban  in round 6
+Munchkin killed Crws  in round 6
+Munchkin killed Surf  in round 6
+Round 6 ended with spike_defuse. The winning team is Gen.G Esports.
+The current score is Talon Esports 1 - 5 Gen.G Esports.
+Munchkin killed ban  in round 7
+Governor killed Meteor   in round 7
+Governor killed Karon  in round 7
+Munchkin killed Governor  in round 7
+Crws killed Munchkin  in round 7
+Lakia killed Crws  in round 7
+JitBoyS killed Lakia  in round 7
+Round 7 ended with detonate. The winning team is Talon Esports.
+The current score is Talon Esports 2 - 5 Gen.G Esports.
+t3xture killed t3xture  in round 8
+Meteor  killed JitBoyS  in round 8
+Meteor  killed Governor  in round 8
+Crws killed Meteor   in round 8
+ban killed Munchkin  in round 8
+Karon killed Surf  in round 8
+Karon killed Crws  in round 8
+Karon killed ban  in round 8
+Round 8 ended with elimination. The winning team is Gen.G Esports.
+The current score is Talon Esports 2 - 6 Gen.G Esports.
+t3xture killed Governor  in round 9
+Lakia killed Crws  in round 9
+Lakia killed ban  in round 9
+Round 9 ended with time_expired. The winning team is Gen.G Esports.
+The current score is Talon Esports 2 - 7 Gen.G Esports.
+t3xture killed JitBoyS  in round 10
+Lakia killed Surf  in round 10
+Lakia killed ban  in round 10
+Lakia killed Surf  in round 10
+Meteor  killed Crws  in round 10
+Meteor  killed JitBoyS  in round 10
+Lakia killed Governor  in round 10
+Round 10 ended with spike_defuse. The winning team is Gen.G Esports.
+The current score is Talon Esports 2 - 8 Gen.G Esports.
+t3xture killed Governor  in round 11
+Lakia killed Surf  in round 11
+Meteor  killed ban  in round 11
+Munchkin killed JitBoyS  in round 11
+Lakia killed Crws  in round 11
+Round 11 ended with elimination. The winning team is Gen.G Esports.
+The current score is Talon Esports 2 - 9 Gen.G Esports.
+JitBoyS killed Meteor   in round 12
+Governor killed Munchkin  in round 12
+ban killed Lakia  in round 12
+t3xture killed JitBoyS  in round 12
+Karon killed Governor  in round 12
+Crws killed t3xture  in round 12
+Karon killed Surf  in round 12
+Crws killed Karon  in round 12
+Round 12 ended with elimination. The winning team is Talon Esports.
+The current score is Talon Esports 3 - 9 Gen.G Esports.
+Lakia killed Surf  in round 13
+ban killed Lakia  in round 13
+t3xture killed JitBoyS  in round 13
+Crws killed Meteor   in round 13
+Governor killed t3xture  in round 13
+Karon killed Governor  in round 13
+Munchkin killed ban  in round 13
+Crws killed Karon  in round 13
+Crws killed Munchkin  in round 13
+Round 13 ended with elimination. The winning team is Talon Esports.
+The current score is Talon Esports 4 - 9 Gen.G Esports.
+ban killed Munchkin  in round 14
+Crws killed t3xture  in round 14
+ban killed Lakia  in round 14
+Karon killed Governor  in round 14
+Crws killed Meteor   in round 14
+Karon killed Surf  in round 14
+ban killed Karon  in round 14
+Round 14 ended with elimination. The winning team is Talon Esports.
+The current score is Talon Esports 5 - 9 Gen.G Esports.
+Munchkin killed ban  in round 15
+Governor killed t3xture  in round 15
+Meteor  killed Surf  in round 15
+Governor killed Meteor   in round 15
+Karon killed JitBoyS  in round 15
+Karon killed Crws  in round 15
+Governor killed Karon  in round 15
+Round 15 ended with detonate. The winning team is Gen.G Esports.
+The current score is Talon Esports 5 - 10 Gen.G Esports.
+t3xture killed JitBoyS  in round 16
+Meteor  killed Governor  in round 16
+Round 16 ended with detonate. The winning team is Gen.G Esports.
+The current score is Talon Esports 5 - 11 Gen.G Esports.
+Governor killed Munchkin  in round 17
+t3xture killed Governor  in round 17
+JitBoyS killed Karon  in round 17
+JitBoyS killed Lakia  in round 17
+t3xture killed Crws  in round 17
+t3xture killed JitBoyS  in round 17
+Meteor  killed Surf  in round 17
+ban killed Meteor   in round 17
+ban killed t3xture  in round 17
+Round 17 ended with spike_defuse. The winning team is Talon Esports.
+The current score is Talon Esports 6 - 11 Gen.G Esports.
+ban killed Meteor   in round 18
+t3xture killed ban  in round 18
+Governor killed Lakia  in round 18
+Governor killed Munchkin  in round 18
+Karon killed Governor  in round 18
+JitBoyS killed t3xture  in round 18
+Crws killed Karon  in round 18
+Round 18 ended with spike_defuse. The winning team is Talon Esports.
+The current score is Talon Esports 7 - 11 Gen.G Esports.
+Governor killed t3xture  in round 19
+Governor killed Lakia  in round 19
+Governor killed Karon  in round 19
+Meteor  killed Governor  in round 19
+Crws killed Meteor   in round 19
+Crws killed Munchkin  in round 19
+Round 19 ended with elimination. The winning team is Talon Esports.
+The current score is Talon Esports 8 - 11 Gen.G Esports.
+ban killed Karon  in round 20
+Lakia killed ban  in round 20
+Surf killed Lakia  in round 20
+Meteor  killed JitBoyS  in round 20
+Meteor  killed Crws  in round 20
+Governor killed Meteor   in round 20
+Munchkin killed Governor  in round 20
+Munchkin killed Surf  in round 20
+Round 20 ended with elimination. The winning team is Gen.G Esports.
+The current score is Talon Esports 8 - 12 Gen.G Esports.
+Meteor  killed ban  in round 21
+Crws killed Meteor   in round 21
+t3xture killed Governor  in round 21
+Surf killed Lakia  in round 21
+Karon killed Surf  in round 21
+JitBoyS killed t3xture  in round 21
+Crws killed Karon  in round 21
+Crws killed Munchkin  in round 21
+Round 21 ended with spike_defuse. The winning team is Talon Esports.
+The current score is Talon Esports 9 - 12 Gen.G Esports.
+Governor killed Munchkin  in round 22
+Karon killed Governor  in round 22
+JitBoyS killed Meteor   in round 22
+t3xture killed JitBoyS  in round 22
+Karon killed Crws  in round 22
+t3xture killed Surf  in round 22
+ban killed t3xture  in round 22
+ban killed Karon  in round 22
+Lakia killed ban  in round 22
+Round 22 ended with elimination. The winning team is Gen.G Esports.
+The current score is Talon Esports 9 - 13 Gen.G Esports.
+Game ended with winning team: Gen.G Esports at 2024-04-09T08:53:27Z
+
+--- Player Stats ---
+t3xture: Team=Gen.G Esports, Kills=21, Deaths=13, Assists=7, KDA=2.15, First Kills=6, First Deaths=3
+Lakia: Team=Gen.G Esports, Kills=14, Deaths=13, Assists=13, KDA=2.08, First Kills=1, First Deaths=0
+Munchkin: Team=Gen.G Esports, Kills=17, Deaths=13, Assists=5, KDA=1.69, First Kills=3, First Deaths=4
+Meteor : Team=Gen.G Esports, Kills=16, Deaths=14, Assists=4, KDA=1.43, First Kills=2, First Deaths=3
+Karon: Team=Gen.G Esports, Kills=17, Deaths=14, Assists=4, KDA=1.5, First Kills=0, First Deaths=1
+Governor: Team=Talon Esports, Kills=17, Deaths=20, Assists=7, KDA=1.2, First Kills=3, First Deaths=3
+ban: Team=Talon Esports, Kills=17, Deaths=16, Assists=8, KDA=1.56, First Kills=5, First Deaths=3
+Crws: Team=Talon Esports, Kills=17, Deaths=14, Assists=3, KDA=1.43, First Kills=1, First Deaths=0
+Surf: Team=Talon Esports, Kills=6, Deaths=17, Assists=4, KDA=0.59, First Kills=0, First Deaths=1
+JitBoyS: Team=Talon Esports, Kills=9, Deaths=17, Assists=6, KDA=0.88, First Kills=1, First Deaths=4

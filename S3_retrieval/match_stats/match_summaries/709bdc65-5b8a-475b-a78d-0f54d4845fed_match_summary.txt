@@ -1,0 +1,190 @@
+Team 1: Team Secret
+Team 2: T1
+Participating Players:
+Player 1: carpe
+Player 2: Sayaplayer
+Player 3: xeta
+Player 4: ban 
+Player 5: Munchkin
+Player 6: invy
+Player 7: Jremy
+Player 8: JessieVash
+Player 9: DubsteP
+Player 10: BORKUM
+Winning Team: T1
+Score: Team Secret 4 - 13 T1
+Tournament Name: vct pacific 2023
+Game Start Time: 2023-05-07T10:45:05Z
+Game End Time: 2023-05-07T11:31:15Z
+Rounds ended by ELIMINATION count: 10
+Rounds ended by DEFUSE count: 6
+Rounds ended by DETONATE count: 1
+SPIKE PLANTED count: 7
+platformGameId: val:709bdc65-5b8a-475b-a78d-0f54d4845fed
+
+--- Events ---
+Game started at 2023-05-07T10:45:05Z
+ban  killed invy  in round 1
+ban  killed BORKUM  in round 1
+Jremy killed ban   in round 1
+Munchkin killed DubsteP  in round 1
+JessieVash killed xeta  in round 1
+Jremy killed Munchkin  in round 1
+Sayaplayer killed JessieVash  in round 1
+Jremy killed Sayaplayer  in round 1
+carpe killed Jremy  in round 1
+Round 1 ended with spike_defuse. The winning team is T1.
+The current score is Team Secret 0 - 1 T1.
+ban  killed DubsteP  in round 2
+carpe killed BORKUM  in round 2
+invy killed carpe  in round 2
+ban  killed JessieVash  in round 2
+Munchkin killed invy  in round 2
+ban  killed Jremy  in round 2
+Round 2 ended with elimination. The winning team is T1.
+The current score is Team Secret 0 - 2 T1.
+Sayaplayer killed JessieVash  in round 3
+DubsteP killed Sayaplayer  in round 3
+xeta killed BORKUM  in round 3
+carpe killed invy  in round 3
+Munchkin killed DubsteP  in round 3
+carpe killed Jremy  in round 3
+Round 3 ended with elimination. The winning team is T1.
+The current score is Team Secret 0 - 3 T1.
+Sayaplayer killed DubsteP  in round 4
+Munchkin killed BORKUM  in round 4
+Munchkin killed invy  in round 4
+Munchkin killed Jremy  in round 4
+Sayaplayer killed JessieVash  in round 4
+Round 4 ended with spike_defuse. The winning team is T1.
+The current score is Team Secret 0 - 4 T1.
+invy killed ban   in round 5
+DubsteP killed Munchkin  in round 5
+DubsteP killed xeta  in round 5
+carpe killed DubsteP  in round 5
+BORKUM killed carpe  in round 5
+Round 5 ended with detonate. The winning team is Team Secret.
+The current score is Team Secret 1 - 4 T1.
+BORKUM killed BORKUM  in round 6
+Sayaplayer killed JessieVash  in round 6
+Sayaplayer killed DubsteP  in round 6
+carpe killed Jremy  in round 6
+BORKUM killed ban   in round 6
+Munchkin killed BORKUM  in round 6
+invy killed carpe  in round 6
+Sayaplayer killed invy  in round 6
+Round 6 ended with spike_defuse. The winning team is T1.
+The current score is Team Secret 1 - 5 T1.
+ban  killed DubsteP  in round 7
+BORKUM killed ban   in round 7
+carpe killed JessieVash  in round 7
+carpe killed Jremy  in round 7
+Munchkin killed BORKUM  in round 7
+invy killed carpe  in round 7
+invy killed Munchkin  in round 7
+invy killed xeta  in round 7
+Sayaplayer killed invy  in round 7
+Round 7 ended with spike_defuse. The winning team is T1.
+The current score is Team Secret 1 - 6 T1.
+Jremy killed Sayaplayer  in round 8
+ban  killed DubsteP  in round 8
+invy killed xeta  in round 8
+BORKUM killed Munchkin  in round 8
+carpe killed Jremy  in round 8
+BORKUM killed carpe  in round 8
+ban  killed BORKUM  in round 8
+invy killed ban   in round 8
+Round 8 ended with elimination. The winning team is Team Secret.
+The current score is Team Secret 2 - 6 T1.
+xeta killed invy  in round 9
+xeta killed DubsteP  in round 9
+Jremy killed xeta  in round 9
+BORKUM killed Munchkin  in round 9
+carpe killed BORKUM  in round 9
+carpe killed JessieVash  in round 9
+ban  killed Jremy  in round 9
+Round 9 ended with spike_defuse. The winning team is T1.
+The current score is Team Secret 2 - 7 T1.
+xeta killed Jremy  in round 10
+xeta killed JessieVash  in round 10
+Munchkin killed invy  in round 10
+carpe killed DubsteP  in round 10
+BORKUM killed xeta  in round 10
+Munchkin killed BORKUM  in round 10
+Round 10 ended with elimination. The winning team is T1.
+The current score is Team Secret 2 - 8 T1.
+Sayaplayer killed JessieVash  in round 11
+BORKUM killed Sayaplayer  in round 11
+Jremy killed xeta  in round 11
+Munchkin killed invy  in round 11
+DubsteP killed carpe  in round 11
+ban  killed DubsteP  in round 11
+Munchkin killed BORKUM  in round 11
+Jremy killed Munchkin  in round 11
+ban  killed Jremy  in round 11
+Round 11 ended with spike_defuse. The winning team is T1.
+The current score is Team Secret 2 - 9 T1.
+Sayaplayer killed DubsteP  in round 12
+carpe killed JessieVash  in round 12
+carpe killed invy  in round 12
+Munchkin killed BORKUM  in round 12
+Munchkin killed Jremy  in round 12
+Round 12 ended with elimination. The winning team is T1.
+The current score is Team Secret 2 - 10 T1.
+Sayaplayer killed invy  in round 13
+Munchkin killed DubsteP  in round 13
+Sayaplayer killed JessieVash  in round 13
+Sayaplayer killed Jremy  in round 13
+carpe killed BORKUM  in round 13
+Round 13 ended with elimination. The winning team is T1.
+The current score is Team Secret 2 - 11 T1.
+xeta killed Jremy  in round 14
+carpe killed DubsteP  in round 14
+Munchkin killed invy  in round 14
+BORKUM killed Munchkin  in round 14
+carpe killed JessieVash  in round 14
+carpe killed BORKUM  in round 14
+Round 14 ended with elimination. The winning team is T1.
+The current score is Team Secret 2 - 12 T1.
+Jremy killed Munchkin  in round 15
+Sayaplayer killed BORKUM  in round 15
+Jremy killed Sayaplayer  in round 15
+Jremy killed ban   in round 15
+Jremy killed carpe  in round 15
+xeta killed DubsteP  in round 15
+xeta killed JessieVash  in round 15
+invy killed xeta  in round 15
+Round 15 ended with elimination. The winning team is Team Secret.
+The current score is Team Secret 3 - 12 T1.
+DubsteP killed xeta  in round 16
+BORKUM killed Sayaplayer  in round 16
+JessieVash killed ban   in round 16
+invy killed carpe  in round 16
+invy killed Munchkin  in round 16
+Round 16 ended with elimination. The winning team is Team Secret.
+The current score is Team Secret 4 - 12 T1.
+carpe killed invy  in round 17
+BORKUM killed carpe  in round 17
+xeta killed Jremy  in round 17
+JessieVash killed xeta  in round 17
+BORKUM killed ban   in round 17
+Munchkin killed BORKUM  in round 17
+Sayaplayer killed DubsteP  in round 17
+JessieVash killed Munchkin  in round 17
+Sayaplayer killed JessieVash  in round 17
+Round 17 ended with elimination. The winning team is T1.
+The current score is Team Secret 4 - 13 T1.
+Game ended with winning team: T1 at 2023-05-07T11:31:15Z
+Sayaplayer killed Sayaplayer  in round 18
+
+--- Player Stats ---
+carpe: Team=T1, Kills=19, Deaths=9, Assists=14, KDA=3.67, First Kills=1, First Deaths=0
+Sayaplayer: Team=T1, Kills=17, Deaths=7, Assists=1, KDA=2.57, First Kills=6, First Deaths=2
+xeta: Team=T1, Kills=9, Deaths=10, Assists=7, KDA=1.6, First Kills=3, First Deaths=1
+ban : Team=T1, Kills=11, Deaths=8, Assists=5, KDA=2.0, First Kills=3, First Deaths=1
+Munchkin: Team=T1, Kills=17, Deaths=10, Assists=10, KDA=2.7, First Kills=0, First Deaths=1
+invy: Team=Team Secret, Kills=11, Deaths=13, Assists=4, KDA=1.15, First Kills=1, First Deaths=4
+Jremy: Team=Team Secret, Kills=11, Deaths=14, Assists=3, KDA=1.0, First Kills=2, First Deaths=2
+JessieVash: Team=Team Secret, Kills=4, Deaths=14, Assists=3, KDA=0.5, First Kills=0, First Deaths=2
+DubsteP: Team=Team Secret, Kills=5, Deaths=16, Assists=2, KDA=0.44, First Kills=1, First Deaths=4
+BORKUM: Team=Team Secret, Kills=13, Deaths=16, Assists=4, KDA=1.06, First Kills=1, First Deaths=1

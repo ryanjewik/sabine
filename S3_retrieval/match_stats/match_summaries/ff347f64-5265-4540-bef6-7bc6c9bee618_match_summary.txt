@@ -1,0 +1,249 @@
+Team 1: PAPER REX
+Team 2: FunPlus Phoenix
+Participating Players:
+Player 1: suygetsu
+Player 2: ardiis
+Player 3: ANGE1
+Player 4: Shao
+Player 5: Zyppan
+Player 6: Benkai
+Player 7: mindfreak
+Player 8: d4v41
+Player 9: f0rsakeN
+Player 10: Jinggg
+Winning Team: FunPlus Phoenix
+Score: PAPER REX 9 - 13 FunPlus Phoenix
+Tournament Name: masters 2 2022 stage 2
+Game Start Time: 2022-07-24T18:42:22Z
+Game End Time: 2022-07-24T19:34:35Z
+Rounds ended by ELIMINATION count: 12
+Rounds ended by DEFUSE count: 5
+Rounds ended by DETONATE count: 3
+SPIKE PLANTED count: 8
+platformGameId: val:ff347f64-5265-4540-bef6-7bc6c9bee618
+
+--- Events ---
+Game started at 2022-07-24T18:42:22Z
+Jinggg killed ANGE1  in round 1
+f0rsakeN killed suygetsu  in round 1
+Shao killed f0rsakeN  in round 1
+Shao killed d4v41  in round 1
+mindfreak killed ardiis  in round 1
+Zyppan killed Jinggg  in round 1
+Shao killed Benkai  in round 1
+Shao killed mindfreak  in round 1
+Round 1 ended with spike_defuse. The winning team is FunPlus Phoenix.
+The current score is PAPER REX 0 - 1 FunPlus Phoenix.
+Zyppan killed f0rsakeN  in round 2
+Jinggg killed ardiis  in round 2
+Zyppan killed Jinggg  in round 2
+ANGE1 killed Benkai  in round 2
+d4v41 killed suygetsu  in round 2
+d4v41 killed Zyppan  in round 2
+Shao killed mindfreak  in round 2
+d4v41 killed ANGE1  in round 2
+Shao killed d4v41  in round 2
+Round 2 ended with spike_defuse. The winning team is FunPlus Phoenix.
+The current score is PAPER REX 0 - 2 FunPlus Phoenix.
+suygetsu killed f0rsakeN  in round 3
+suygetsu killed Jinggg  in round 3
+ardiis killed d4v41  in round 3
+ardiis killed Benkai  in round 3
+Zyppan killed mindfreak  in round 3
+Round 3 ended with elimination. The winning team is FunPlus Phoenix.
+The current score is PAPER REX 0 - 3 FunPlus Phoenix.
+mindfreak killed ardiis  in round 4
+f0rsakeN killed Zyppan  in round 4
+f0rsakeN killed ANGE1  in round 4
+suygetsu killed f0rsakeN  in round 4
+d4v41 killed Shao  in round 4
+d4v41 killed suygetsu  in round 4
+Round 4 ended with elimination. The winning team is PAPER REX.
+The current score is PAPER REX 1 - 3 FunPlus Phoenix.
+ardiis killed Jinggg  in round 5
+f0rsakeN killed suygetsu  in round 5
+mindfreak killed ANGE1  in round 5
+f0rsakeN killed Zyppan  in round 5
+Shao killed f0rsakeN  in round 5
+mindfreak killed Shao  in round 5
+Benkai killed ardiis  in round 5
+Round 5 ended with elimination. The winning team is PAPER REX.
+The current score is PAPER REX 2 - 3 FunPlus Phoenix.
+suygetsu killed f0rsakeN  in round 6
+Benkai killed ANGE1  in round 6
+mindfreak killed Shao  in round 6
+mindfreak killed Zyppan  in round 6
+ardiis killed mindfreak  in round 6
+suygetsu killed d4v41  in round 6
+Jinggg killed suygetsu  in round 6
+Benkai killed ardiis  in round 6
+Round 6 ended with elimination. The winning team is PAPER REX.
+The current score is PAPER REX 3 - 3 FunPlus Phoenix.
+ANGE1 killed f0rsakeN  in round 7
+Benkai killed ardiis  in round 7
+d4v41 killed Shao  in round 7
+suygetsu killed Benkai  in round 7
+Jinggg killed Zyppan  in round 7
+suygetsu killed d4v41  in round 7
+mindfreak killed suygetsu  in round 7
+mindfreak killed ANGE1  in round 7
+Round 7 ended with elimination. The winning team is PAPER REX.
+The current score is PAPER REX 4 - 3 FunPlus Phoenix.
+ardiis killed Benkai  in round 8
+d4v41 killed ardiis  in round 8
+Zyppan killed f0rsakeN  in round 8
+Zyppan killed Jinggg  in round 8
+d4v41 killed Shao  in round 8
+mindfreak killed Zyppan  in round 8
+ANGE1 killed d4v41  in round 8
+mindfreak killed suygetsu  in round 8
+mindfreak killed ANGE1  in round 8
+Round 8 ended with elimination. The winning team is PAPER REX.
+The current score is PAPER REX 5 - 3 FunPlus Phoenix.
+mindfreak killed mindfreak  in round 9
+ANGE1 killed Jinggg  in round 9
+f0rsakeN killed suygetsu  in round 9
+ANGE1 killed f0rsakeN  in round 9
+d4v41 killed ANGE1  in round 9
+ardiis killed mindfreak  in round 9
+Zyppan killed Benkai  in round 9
+d4v41 killed Shao  in round 9
+Round 9 ended with spike_defuse. The winning team is FunPlus Phoenix.
+The current score is PAPER REX 5 - 4 FunPlus Phoenix.
+Zyppan killed d4v41  in round 10
+ardiis killed Jinggg  in round 10
+Benkai killed Shao  in round 10
+Zyppan killed f0rsakeN  in round 10
+mindfreak killed Zyppan  in round 10
+suygetsu killed mindfreak  in round 10
+ardiis killed Benkai  in round 10
+Round 10 ended with time_expired. The winning team is FunPlus Phoenix.
+The current score is PAPER REX 5 - 5 FunPlus Phoenix.
+ANGE1 killed f0rsakeN  in round 11
+ardiis killed Benkai  in round 11
+ardiis killed d4v41  in round 11
+ANGE1 killed mindfreak  in round 11
+Jinggg killed ardiis  in round 11
+Jinggg killed ANGE1  in round 11
+suygetsu killed Jinggg  in round 11
+Round 11 ended with elimination. The winning team is FunPlus Phoenix.
+The current score is PAPER REX 5 - 6 FunPlus Phoenix.
+Zyppan killed Jinggg  in round 12
+f0rsakeN killed suygetsu  in round 12
+Shao killed f0rsakeN  in round 12
+Benkai killed ardiis  in round 12
+Shao killed mindfreak  in round 12
+ANGE1 killed Benkai  in round 12
+d4v41 killed ANGE1  in round 12
+d4v41 killed Zyppan  in round 12
+Shao killed d4v41  in round 12
+Round 12 ended with spike_defuse. The winning team is FunPlus Phoenix.
+The current score is PAPER REX 5 - 7 FunPlus Phoenix.
+Jinggg killed Zyppan  in round 13
+Jinggg killed suygetsu  in round 13
+Shao killed f0rsakeN  in round 13
+mindfreak killed ANGE1  in round 13
+Jinggg killed Shao  in round 13
+ardiis killed mindfreak  in round 13
+ardiis killed Jinggg  in round 13
+ardiis killed Benkai  in round 13
+Round 13 ended with time_expired. The winning team is PAPER REX.
+The current score is PAPER REX 6 - 7 FunPlus Phoenix.
+d4v41 killed ardiis  in round 14
+f0rsakeN killed ANGE1  in round 14
+Shao killed f0rsakeN  in round 14
+Jinggg killed suygetsu  in round 14
+d4v41 killed Zyppan  in round 14
+mindfreak killed ardiis  in round 14
+Shao killed Jinggg  in round 14
+d4v41 killed Shao  in round 14
+Round 14 ended with elimination. The winning team is PAPER REX.
+The current score is PAPER REX 7 - 7 FunPlus Phoenix.
+Shao killed Jinggg  in round 15
+f0rsakeN killed Shao  in round 15
+d4v41 killed ANGE1  in round 15
+f0rsakeN killed ardiis  in round 15
+suygetsu killed f0rsakeN  in round 15
+suygetsu killed d4v41  in round 15
+Benkai killed Zyppan  in round 15
+mindfreak killed suygetsu  in round 15
+Round 15 ended with spike_defuse. The winning team is PAPER REX.
+The current score is PAPER REX 8 - 7 FunPlus Phoenix.
+Jinggg killed ANGE1  in round 16
+f0rsakeN killed suygetsu  in round 16
+ardiis killed f0rsakeN  in round 16
+mindfreak killed Shao  in round 16
+ardiis killed Benkai  in round 16
+Jinggg killed Zyppan  in round 16
+Jinggg killed ardiis  in round 16
+Round 16 ended with elimination. The winning team is PAPER REX.
+The current score is PAPER REX 9 - 7 FunPlus Phoenix.
+ardiis killed Jinggg  in round 17
+ANGE1 killed f0rsakeN  in round 17
+mindfreak killed Zyppan  in round 17
+ANGE1 killed mindfreak  in round 17
+suygetsu killed Benkai  in round 17
+suygetsu killed d4v41  in round 17
+Round 17 ended with elimination. The winning team is FunPlus Phoenix.
+The current score is PAPER REX 9 - 8 FunPlus Phoenix.
+Jinggg killed Zyppan  in round 18
+Jinggg killed suygetsu  in round 18
+ardiis killed mindfreak  in round 18
+ardiis killed Jinggg  in round 18
+Shao killed f0rsakeN  in round 18
+ardiis killed Benkai  in round 18
+Round 18 ended with detonate. The winning team is FunPlus Phoenix.
+The current score is PAPER REX 9 - 9 FunPlus Phoenix.
+d4v41 killed Shao  in round 19
+suygetsu killed f0rsakeN  in round 19
+ANGE1 killed mindfreak  in round 19
+ardiis killed Jinggg  in round 19
+d4v41 killed ardiis  in round 19
+Benkai killed suygetsu  in round 19
+Round 19 ended with detonate. The winning team is FunPlus Phoenix.
+The current score is PAPER REX 9 - 10 FunPlus Phoenix.
+Benkai killed Benkai  in round 20
+Shao killed Benkai  in round 20
+Jinggg killed suygetsu  in round 20
+ardiis killed d4v41  in round 20
+ANGE1 killed Jinggg  in round 20
+Zyppan killed mindfreak  in round 20
+f0rsakeN killed Zyppan  in round 20
+f0rsakeN killed ANGE1  in round 20
+Round 20 ended with detonate. The winning team is FunPlus Phoenix.
+The current score is PAPER REX 9 - 11 FunPlus Phoenix.
+Zyppan killed mindfreak  in round 21
+suygetsu killed f0rsakeN  in round 21
+Jinggg killed suygetsu  in round 21
+Benkai killed ANGE1  in round 21
+Jinggg killed Shao  in round 21
+Zyppan killed Jinggg  in round 21
+Zyppan killed Benkai  in round 21
+d4v41 killed ardiis  in round 21
+Zyppan killed d4v41  in round 21
+Round 21 ended with elimination. The winning team is FunPlus Phoenix.
+The current score is PAPER REX 9 - 12 FunPlus Phoenix.
+Jinggg killed ardiis  in round 22
+d4v41 killed ANGE1  in round 22
+Shao killed mindfreak  in round 22
+f0rsakeN killed Zyppan  in round 22
+suygetsu killed Benkai  in round 22
+suygetsu killed d4v41  in round 22
+Jinggg killed Shao  in round 22
+suygetsu killed Jinggg  in round 22
+suygetsu killed f0rsakeN  in round 22
+Round 22 ended with elimination. The winning team is FunPlus Phoenix.
+The current score is PAPER REX 9 - 13 FunPlus Phoenix.
+Game ended with winning team: FunPlus Phoenix at 2022-07-24T19:34:35Z
+
+--- Player Stats ---
+suygetsu: Team=FunPlus Phoenix, Kills=19, Deaths=17, Assists=4, KDA=1.35, First Kills=2, First Deaths=0
+ardiis: Team=FunPlus Phoenix, Kills=21, Deaths=16, Assists=6, KDA=1.69, First Kills=3, First Deaths=3
+ANGE1: Team=FunPlus Phoenix, Kills=12, Deaths=17, Assists=7, KDA=1.12, First Kills=2, First Deaths=2
+Shao: Team=FunPlus Phoenix, Kills=17, Deaths=14, Assists=6, KDA=1.64, First Kills=1, First Deaths=1
+Zyppan: Team=FunPlus Phoenix, Kills=15, Deaths=16, Assists=5, KDA=1.25, First Kills=4, First Deaths=2
+Benkai: Team=PAPER REX, Kills=10, Deaths=17, Assists=6, KDA=0.94, First Kills=1, First Deaths=2
+mindfreak: Team=PAPER REX, Kills=18, Deaths=16, Assists=3, KDA=1.31, First Kills=2, First Deaths=2
+d4v41: Team=PAPER REX, Kills=20, Deaths=14, Assists=9, KDA=2.07, First Kills=2, First Deaths=1
+f0rsakeN: Team=PAPER REX, Kills=14, Deaths=21, Assists=2, KDA=0.76, First Kills=0, First Deaths=5
+Jinggg: Team=PAPER REX, Kills=20, Deaths=18, Assists=5, KDA=1.39, First Kills=5, First Deaths=4

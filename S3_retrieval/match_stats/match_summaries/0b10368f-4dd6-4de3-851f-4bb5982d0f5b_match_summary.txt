@@ -1,0 +1,208 @@
+Team 1: KOI
+Team 2: Futbolist
+Participating Players:
+Player 1: qRaxs
+Player 2: yetujey
+Player 3: MrFaliN
+Player 4: cNed
+Player 5: ATA KAPTAN
+Player 6: Sheydos
+Player 7: starxo
+Player 8: Shadow 
+Player 9: kamo
+Player 10: GRUBINHO
+Winning Team: Futbolist
+Score: KOI 7 - 13 Futbolist
+Tournament Name: vct emea stage 2 2024
+Game Start Time: 2024-06-18T17:45:20Z
+Game End Time: 2024-06-18T18:44:24Z
+Rounds ended by ELIMINATION count: 12
+Rounds ended by DEFUSE count: 4
+Rounds ended by DETONATE count: 1
+SPIKE PLANTED count: 5
+platformGameId: val:0b10368f-4dd6-4de3-851f-4bb5982d0f5b
+
+--- Events ---
+Game started at 2024-06-18T17:45:20Z
+kamo killed ATA KAPTAN  in round 1
+MrFaliN killed kamo  in round 1
+Shadow  killed cNed  in round 1
+Shadow  killed MrFaliN  in round 1
+Sheydos killed yetujey  in round 1
+qRaxs killed Sheydos  in round 1
+GRUBINHO killed qRaxs  in round 1
+Round 1 ended with elimination. The winning team is KOI.
+The current score is KOI 1 - 0 Futbolist.
+MrFaliN killed starxo  in round 2
+cNed killed GRUBINHO  in round 2
+Sheydos killed cNed  in round 2
+kamo killed MrFaliN  in round 2
+Sheydos killed ATA KAPTAN  in round 2
+yetujey killed kamo  in round 2
+Shadow  killed yetujey  in round 2
+Shadow  killed qRaxs  in round 2
+Round 2 ended with elimination. The winning team is KOI.
+The current score is KOI 2 - 0 Futbolist.
+cNed killed Shadow   in round 3
+yetujey killed starxo  in round 3
+kamo killed qRaxs  in round 3
+yetujey killed kamo  in round 3
+Round 3 ended with time_expired. The winning team is Futbolist.
+The current score is KOI 2 - 1 Futbolist.
+MrFaliN killed GRUBINHO  in round 4
+MrFaliN killed Shadow   in round 4
+kamo killed yetujey  in round 4
+MrFaliN killed kamo  in round 4
+GRUBINHO killed qRaxs  in round 4
+ATA KAPTAN killed starxo  in round 4
+Round 4 ended with time_expired. The winning team is Futbolist.
+The current score is KOI 2 - 2 Futbolist.
+ATA KAPTAN killed kamo  in round 5
+ATA KAPTAN killed Sheydos  in round 5
+cNed killed Shadow   in round 5
+cNed killed GRUBINHO  in round 5
+yetujey killed starxo  in round 5
+Round 5 ended with elimination. The winning team is Futbolist.
+The current score is KOI 2 - 3 Futbolist.
+Shadow  killed cNed  in round 6
+qRaxs killed kamo  in round 6
+qRaxs killed starxo  in round 6
+yetujey killed Shadow   in round 6
+yetujey killed GRUBINHO  in round 6
+qRaxs killed Sheydos  in round 6
+Round 6 ended with elimination. The winning team is Futbolist.
+The current score is KOI 2 - 4 Futbolist.
+yetujey killed kamo  in round 7
+ATA KAPTAN killed Sheydos  in round 7
+starxo killed qRaxs  in round 7
+yetujey killed GRUBINHO  in round 7
+ATA KAPTAN killed starxo  in round 7
+Round 7 ended with time_expired. The winning team is Futbolist.
+The current score is KOI 2 - 5 Futbolist.
+kamo killed cNed  in round 8
+yetujey killed GRUBINHO  in round 8
+MrFaliN killed kamo  in round 8
+Sheydos killed MrFaliN  in round 8
+qRaxs killed Sheydos  in round 8
+qRaxs killed Shadow   in round 8
+qRaxs killed starxo  in round 8
+Round 8 ended with spike_defuse. The winning team is Futbolist.
+The current score is KOI 2 - 6 Futbolist.
+Sheydos killed ATA KAPTAN  in round 9
+cNed killed kamo  in round 9
+Sheydos killed cNed  in round 9
+MrFaliN killed GRUBINHO  in round 9
+qRaxs killed Sheydos  in round 9
+MrFaliN killed Shadow   in round 9
+yetujey killed starxo  in round 9
+Round 9 ended with spike_defuse. The winning team is Futbolist.
+The current score is KOI 2 - 7 Futbolist.
+yetujey killed Shadow   in round 10
+ATA KAPTAN killed GRUBINHO  in round 10
+kamo killed ATA KAPTAN  in round 10
+kamo killed yetujey  in round 10
+kamo killed MrFaliN  in round 10
+cNed killed kamo  in round 10
+qRaxs killed starxo  in round 10
+cNed killed Sheydos  in round 10
+Round 10 ended with elimination. The winning team is Futbolist.
+The current score is KOI 2 - 8 Futbolist.
+kamo killed ATA KAPTAN  in round 11
+qRaxs killed Sheydos  in round 11
+kamo killed qRaxs  in round 11
+kamo killed cNed  in round 11
+yetujey killed Shadow   in round 11
+kamo killed yetujey  in round 11
+starxo killed MrFaliN  in round 11
+Round 11 ended with elimination. The winning team is KOI.
+The current score is KOI 3 - 8 Futbolist.
+starxo killed yetujey  in round 12
+kamo killed cNed  in round 12
+kamo killed ATA KAPTAN  in round 12
+kamo killed qRaxs  in round 12
+starxo killed MrFaliN  in round 12
+Round 12 ended with elimination. The winning team is KOI.
+The current score is KOI 4 - 8 Futbolist.
+kamo killed ATA KAPTAN  in round 13
+cNed killed kamo  in round 13
+starxo killed MrFaliN  in round 13
+Shadow  killed cNed  in round 13
+starxo killed qRaxs  in round 13
+Sheydos killed yetujey  in round 13
+Round 13 ended with spike_defuse. The winning team is KOI.
+The current score is KOI 5 - 8 Futbolist.
+Sheydos killed cNed  in round 14
+ATA KAPTAN killed Sheydos  in round 14
+starxo killed ATA KAPTAN  in round 14
+kamo killed yetujey  in round 14
+kamo killed MrFaliN  in round 14
+GRUBINHO killed qRaxs  in round 14
+Round 14 ended with elimination. The winning team is KOI.
+The current score is KOI 6 - 8 Futbolist.
+starxo killed cNed  in round 15
+qRaxs killed Shadow   in round 15
+qRaxs killed starxo  in round 15
+yetujey killed Sheydos  in round 15
+GRUBINHO killed ATA KAPTAN  in round 15
+MrFaliN killed kamo  in round 15
+GRUBINHO killed MrFaliN  in round 15
+qRaxs killed GRUBINHO  in round 15
+Round 15 ended with elimination. The winning team is Futbolist.
+The current score is KOI 6 - 9 Futbolist.
+kamo killed ATA KAPTAN  in round 16
+qRaxs killed kamo  in round 16
+GRUBINHO killed cNed  in round 16
+qRaxs killed GRUBINHO  in round 16
+qRaxs killed Sheydos  in round 16
+yetujey killed starxo  in round 16
+MrFaliN killed Shadow   in round 16
+Round 16 ended with elimination. The winning team is Futbolist.
+The current score is KOI 6 - 10 Futbolist.
+yetujey killed starxo  in round 17
+GRUBINHO killed cNed  in round 17
+yetujey killed GRUBINHO  in round 17
+MrFaliN killed kamo  in round 17
+ATA KAPTAN killed Sheydos  in round 17
+Round 17 ended with detonate. The winning team is Futbolist.
+The current score is KOI 6 - 11 Futbolist.
+Shadow  killed Shadow   in round 18
+ATA KAPTAN killed kamo  in round 18
+Sheydos killed ATA KAPTAN  in round 18
+cNed killed starxo  in round 18
+Shadow  killed cNed  in round 18
+ATA KAPTAN killed Sheydos  in round 18
+GRUBINHO killed MrFaliN  in round 18
+GRUBINHO killed qRaxs  in round 18
+Shadow  killed yetujey  in round 18
+Round 18 ended with spike_defuse. The winning team is KOI.
+The current score is KOI 7 - 11 Futbolist.
+GRUBINHO killed yetujey  in round 19
+cNed killed starxo  in round 19
+cNed killed GRUBINHO  in round 19
+MrFaliN killed kamo  in round 19
+cNed killed Sheydos  in round 19
+qRaxs killed Shadow   in round 19
+Round 19 ended with elimination. The winning team is Futbolist.
+The current score is KOI 7 - 12 Futbolist.
+cNed killed Sheydos  in round 20
+kamo killed qRaxs  in round 20
+cNed killed Shadow   in round 20
+cNed killed kamo  in round 20
+cNed killed starxo  in round 20
+GRUBINHO killed cNed  in round 20
+MrFaliN killed GRUBINHO  in round 20
+Round 20 ended with elimination. The winning team is Futbolist.
+The current score is KOI 7 - 13 Futbolist.
+Game ended with winning team: Futbolist at 2024-06-18T18:44:24Z
+
+--- Player Stats ---
+qRaxs: Team=Futbolist, Kills=17, Deaths=11, Assists=5, KDA=2.0, First Kills=0, First Deaths=0
+yetujey: Team=Futbolist, Kills=16, Deaths=10, Assists=3, KDA=1.9, First Kills=3, First Deaths=2
+MrFaliN: Team=Futbolist, Kills=13, Deaths=10, Assists=14, KDA=2.7, First Kills=2, First Deaths=0
+cNed: Team=Futbolist, Kills=16, Deaths=14, Assists=5, KDA=1.5, First Kills=2, First Deaths=4
+ATA KAPTAN: Team=Futbolist, Kills=10, Deaths=11, Assists=7, KDA=1.55, First Kills=1, First Deaths=5
+Sheydos: Team=KOI, Kills=9, Deaths=15, Assists=4, KDA=0.87, First Kills=2, First Deaths=1
+starxo: Team=KOI, Kills=8, Deaths=15, Assists=3, KDA=0.73, First Kills=2, First Deaths=2
+Shadow : Team=KOI, Kills=9, Deaths=13, Assists=2, KDA=0.85, First Kills=2, First Deaths=3
+kamo: Team=KOI, Kills=20, Deaths=17, Assists=4, KDA=1.41, First Kills=5, First Deaths=2
+GRUBINHO: Team=KOI, Kills=11, Deaths=13, Assists=5, KDA=1.23, First Kills=1, First Deaths=1

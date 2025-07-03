@@ -1,0 +1,167 @@
+Team 1: NRG
+Team 2: Giants
+Participating Players:
+Player 1: Fit1nho
+Player 2: nukkye
+Player 3: rhyme
+Player 4: Cloud
+Player 5: hoody
+Player 6: crashies
+Player 7: Victor
+Player 8: FNS
+Player 9: s0m
+Player 10: ardiis
+Winning Team: NRG
+Score: NRG 13 - 1 Giants
+Tournament Name: lock in brazil 2023
+Game Start Time: 2023-02-17T18:22:02Z
+Game End Time: 2023-02-17T18:57:57Z
+Rounds ended by ELIMINATION count: 7
+Rounds ended by DEFUSE count: 2
+Rounds ended by DETONATE count: 5
+SPIKE PLANTED count: 7
+platformGameId: val:31624b56-8d10-464c-8751-78ed137f51f3
+
+--- Events ---
+Game started at 2023-02-17T18:22:02Z
+crashies killed Cloud  in round 1
+ardiis killed rhyme  in round 1
+Fit1nho killed ardiis  in round 1
+crashies killed Fit1nho  in round 1
+hoody killed s0m  in round 1
+nukkye killed FNS  in round 1
+nukkye killed crashies  in round 1
+Victor killed hoody  in round 1
+Victor killed nukkye  in round 1
+Round 1 ended with elimination. The winning team is NRG.
+The current score is NRG 1 - 0 Giants.
+crashies killed hoody  in round 2
+FNS killed nukkye  in round 2
+s0m killed Fit1nho  in round 2
+s0m killed Cloud  in round 2
+rhyme killed FNS  in round 2
+crashies killed rhyme  in round 2
+Round 2 ended with elimination. The winning team is NRG.
+The current score is NRG 2 - 0 Giants.
+Victor killed rhyme  in round 3
+FNS killed Cloud  in round 3
+ardiis killed hoody  in round 3
+Fit1nho killed ardiis  in round 3
+Fit1nho killed Victor  in round 3
+s0m killed nukkye  in round 3
+Round 3 ended with detonate. The winning team is NRG.
+The current score is NRG 3 - 0 Giants.
+s0m killed Fit1nho  in round 4
+Cloud killed s0m  in round 4
+Cloud killed FNS  in round 4
+ardiis killed Cloud  in round 4
+Victor killed rhyme  in round 4
+hoody killed Victor  in round 4
+ardiis killed Fit1nho  in round 4
+ardiis killed hoody  in round 4
+nukkye killed crashies  in round 4
+ardiis killed nukkye  in round 4
+Round 4 ended with elimination. The winning team is NRG.
+The current score is NRG 4 - 0 Giants.
+rhyme killed ardiis  in round 5
+Victor killed rhyme  in round 5
+crashies killed hoody  in round 5
+crashies killed nukkye  in round 5
+Round 5 ended with detonate. The winning team is NRG.
+The current score is NRG 5 - 0 Giants.
+Fit1nho killed s0m  in round 6
+ardiis killed hoody  in round 6
+ardiis killed Fit1nho  in round 6
+ardiis killed rhyme  in round 6
+Victor killed nukkye  in round 6
+Round 6 ended with detonate. The winning team is NRG.
+The current score is NRG 6 - 0 Giants.
+Victor killed Cloud  in round 7
+Fit1nho killed FNS  in round 7
+Victor killed Fit1nho  in round 7
+hoody killed crashies  in round 7
+Victor killed hoody  in round 7
+rhyme killed ardiis  in round 7
+nukkye killed Victor  in round 7
+nukkye killed s0m  in round 7
+Round 7 ended with spike_defuse. The winning team is Giants.
+The current score is NRG 6 - 1 Giants.
+Fit1nho killed FNS  in round 8
+Cloud killed ardiis  in round 8
+Fit1nho killed s0m  in round 8
+crashies killed Fit1nho  in round 8
+Victor killed nukkye  in round 8
+crashies killed Cloud  in round 8
+crashies killed hoody  in round 8
+crashies killed rhyme  in round 8
+Round 8 ended with elimination. The winning team is NRG.
+The current score is NRG 7 - 1 Giants.
+Cloud killed FNS  in round 9
+s0m killed rhyme  in round 9
+crashies killed Cloud  in round 9
+Round 9 ended with detonate. The winning team is NRG.
+The current score is NRG 8 - 1 Giants.
+nukkye killed nukkye  in round 10
+Fit1nho killed Fit1nho  in round 10
+hoody killed hoody  in round 10
+ardiis killed rhyme  in round 10
+hoody killed ardiis  in round 10
+FNS killed nukkye  in round 10
+Victor killed hoody  in round 10
+Cloud killed Victor  in round 10
+Round 10 ended with detonate. The winning team is NRG.
+The current score is NRG 9 - 1 Giants.
+Cloud killed ardiis  in round 11
+Fit1nho killed Victor  in round 11
+FNS killed rhyme  in round 11
+FNS killed hoody  in round 11
+FNS killed nukkye  in round 11
+Fit1nho killed FNS  in round 11
+crashies killed Fit1nho  in round 11
+crashies killed Cloud  in round 11
+Round 11 ended with elimination. The winning team is NRG.
+The current score is NRG 10 - 1 Giants.
+ardiis killed rhyme  in round 12
+Cloud killed crashies  in round 12
+hoody killed ardiis  in round 12
+FNS killed Fit1nho  in round 12
+s0m killed hoody  in round 12
+nukkye killed s0m  in round 12
+Cloud killed FNS  in round 12
+Victor killed Cloud  in round 12
+nukkye killed Victor  in round 12
+nukkye killed nukkye  in round 12
+Round 12 ended with elimination. The winning team is NRG.
+The current score is NRG 11 - 1 Giants.
+FNS killed rhyme  in round 13
+crashies killed hoody  in round 13
+Cloud killed FNS  in round 13
+Cloud killed crashies  in round 13
+Cloud killed s0m  in round 13
+ardiis killed nukkye  in round 13
+ardiis killed Fit1nho  in round 13
+ardiis killed Cloud  in round 13
+Round 13 ended with spike_defuse. The winning team is NRG.
+The current score is NRG 12 - 1 Giants.
+Fit1nho killed FNS  in round 14
+crashies killed Fit1nho  in round 14
+crashies killed Cloud  in round 14
+crashies killed nukkye  in round 14
+rhyme killed s0m  in round 14
+Victor killed rhyme  in round 14
+Victor killed hoody  in round 14
+Round 14 ended with elimination. The winning team is NRG.
+The current score is NRG 13 - 1 Giants.
+Game ended with winning team: NRG at 2023-02-17T18:57:57Z
+
+--- Player Stats ---
+Fit1nho: Team=Giants, Kills=11, Deaths=12, Assists=1, KDA=1.0, First Kills=3, First Deaths=1
+nukkye: Team=Giants, Kills=9, Deaths=13, Assists=7, KDA=1.23, First Kills=1, First Deaths=1
+rhyme: Team=Giants, Kills=4, Deaths=13, Assists=2, KDA=0.46, First Kills=1, First Deaths=3
+Cloud: Team=Giants, Kills=11, Deaths=11, Assists=2, KDA=1.18, First Kills=2, First Deaths=2
+hoody: Team=Giants, Kills=6, Deaths=14, Assists=3, KDA=0.64, First Kills=0, First Deaths=1
+crashies: Team=NRG, Kills=17, Deaths=5, Assists=4, KDA=4.2, First Kills=2, First Deaths=0
+Victor: Team=NRG, Kills=14, Deaths=6, Assists=0, KDA=2.33, First Kills=2, First Deaths=0
+FNS: Team=NRG, Kills=8, Deaths=10, Assists=11, KDA=1.9, First Kills=1, First Deaths=3
+s0m: Team=NRG, Kills=6, Deaths=8, Assists=12, KDA=2.25, First Kills=1, First Deaths=1
+ardiis: Team=NRG, Kills=14, Deaths=8, Assists=3, KDA=2.12, First Kills=1, First Deaths=2

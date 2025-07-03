@@ -1,0 +1,234 @@
+Team 1: LOUD
+Team 2: G2 Esports
+Participating Players:
+Player 1: icy
+Player 2: Leaf
+Player 3: valyn
+Player 4: trent
+Player 5: JonahP
+Player 6: QcK
+Player 7: cauanzin
+Player 8: Saadhak
+Player 9: Less
+Player 10: tuyz
+Winning Team: LOUD
+Score: LOUD 13 - 11 G2 Esports
+Tournament Name: vct americas stage 1 2024
+Game Start Time: 2024-05-05T23:22:38Z
+Game End Time: 2024-05-06T00:25:47Z
+Rounds ended by ELIMINATION count: 10
+Rounds ended by DEFUSE count: 7
+Rounds ended by DETONATE count: 6
+SPIKE PLANTED count: 13
+platformGameId: val:6df6e392-d939-4e52-97ba-3b36d553d0e4
+
+--- Events ---
+Game started at 2024-05-05T23:22:38Z
+icy killed cauanzin  in round 1
+icy killed QcK  in round 1
+Less killed JonahP  in round 1
+trent killed Less  in round 1
+Leaf killed tuyz  in round 1
+Saadhak killed Leaf  in round 1
+valyn killed Saadhak  in round 1
+Round 1 ended with spike_defuse. The winning team is G2 Esports.
+The current score is LOUD 0 - 1 G2 Esports.
+Leaf killed tuyz  in round 2
+Leaf killed cauanzin  in round 2
+Less killed icy  in round 2
+trent killed Saadhak  in round 2
+Leaf killed Less  in round 2
+Leaf killed QcK  in round 2
+Round 2 ended with elimination. The winning team is G2 Esports.
+The current score is LOUD 0 - 2 G2 Esports.
+cauanzin killed JonahP  in round 3
+Saadhak killed trent  in round 3
+cauanzin killed Leaf  in round 3
+valyn killed Saadhak  in round 3
+QcK killed valyn  in round 3
+tuyz killed icy  in round 3
+Round 3 ended with elimination. The winning team is LOUD.
+The current score is LOUD 1 - 2 G2 Esports.
+QcK killed valyn  in round 4
+trent killed QcK  in round 4
+trent killed Saadhak  in round 4
+Less killed icy  in round 4
+cauanzin killed trent  in round 4
+tuyz killed JonahP  in round 4
+Less killed Leaf  in round 4
+Round 4 ended with elimination. The winning team is LOUD.
+The current score is LOUD 2 - 2 G2 Esports.
+Less killed JonahP  in round 5
+Leaf killed Saadhak  in round 5
+cauanzin killed Leaf  in round 5
+cauanzin killed trent  in round 5
+QcK killed valyn  in round 5
+tuyz killed icy  in round 5
+Round 5 ended with elimination. The winning team is LOUD.
+The current score is LOUD 3 - 2 G2 Esports.
+QcK killed icy  in round 6
+valyn killed Less  in round 6
+tuyz killed valyn  in round 6
+JonahP killed cauanzin  in round 6
+Leaf killed Saadhak  in round 6
+Leaf killed tuyz  in round 6
+Round 6 ended with spike_defuse. The winning team is G2 Esports.
+The current score is LOUD 3 - 3 G2 Esports.
+Leaf killed QcK  in round 7
+trent killed Less  in round 7
+Saadhak killed icy  in round 7
+trent killed cauanzin  in round 7
+valyn killed Saadhak  in round 7
+Round 7 ended with time_expired. The winning team is G2 Esports.
+The current score is LOUD 3 - 4 G2 Esports.
+Saadhak killed JonahP  in round 8
+tuyz killed Leaf  in round 8
+Less killed trent  in round 8
+icy killed Less  in round 8
+Round 8 ended with detonate. The winning team is LOUD.
+The current score is LOUD 4 - 4 G2 Esports.
+valyn killed QcK  in round 9
+Less killed Leaf  in round 9
+Saadhak killed valyn  in round 9
+trent killed Saadhak  in round 9
+cauanzin killed icy  in round 9
+Less killed JonahP  in round 9
+tuyz killed trent  in round 9
+Round 9 ended with elimination. The winning team is LOUD.
+The current score is LOUD 5 - 4 G2 Esports.
+JonahP killed Saadhak  in round 10
+QcK killed JonahP  in round 10
+cauanzin killed Leaf  in round 10
+QcK killed trent  in round 10
+Less killed icy  in round 10
+valyn killed tuyz  in round 10
+Round 10 ended with detonate. The winning team is LOUD.
+The current score is LOUD 6 - 4 G2 Esports.
+QcK killed Leaf  in round 11
+cauanzin killed icy  in round 11
+cauanzin killed valyn  in round 11
+JonahP killed Saadhak  in round 11
+tuyz killed JonahP  in round 11
+tuyz killed trent  in round 11
+Round 11 ended with elimination. The winning team is LOUD.
+The current score is LOUD 7 - 4 G2 Esports.
+Leaf killed tuyz  in round 12
+Less killed icy  in round 12
+Less killed Leaf  in round 12
+trent killed Less  in round 12
+valyn killed cauanzin  in round 12
+valyn killed Saadhak  in round 12
+trent killed QcK  in round 12
+Round 12 ended with spike_defuse. The winning team is G2 Esports.
+The current score is LOUD 7 - 5 G2 Esports.
+Leaf killed tuyz  in round 13
+icy killed cauanzin  in round 13
+QcK killed Leaf  in round 13
+valyn killed QcK  in round 13
+JonahP killed Less  in round 13
+trent killed Saadhak  in round 13
+Round 13 ended with elimination. The winning team is G2 Esports.
+The current score is LOUD 7 - 6 G2 Esports.
+tuyz killed Leaf  in round 14
+Less killed icy  in round 14
+trent killed Saadhak  in round 14
+trent killed Less  in round 14
+trent killed QcK  in round 14
+valyn killed cauanzin  in round 14
+valyn killed tuyz  in round 14
+Round 14 ended with elimination. The winning team is G2 Esports.
+The current score is LOUD 7 - 7 G2 Esports.
+icy killed Saadhak  in round 15
+Less killed JonahP  in round 15
+icy killed Less  in round 15
+Round 15 ended with detonate. The winning team is G2 Esports.
+The current score is LOUD 7 - 8 G2 Esports.
+icy killed QcK  in round 16
+tuyz killed valyn  in round 16
+JonahP killed Less  in round 16
+tuyz killed JonahP  in round 16
+cauanzin killed Leaf  in round 16
+trent killed cauanzin  in round 16
+tuyz killed trent  in round 16
+Saadhak killed icy  in round 16
+Round 16 ended with spike_defuse. The winning team is LOUD.
+The current score is LOUD 8 - 8 G2 Esports.
+icy killed QcK  in round 17
+Saadhak killed icy  in round 17
+valyn killed Saadhak  in round 17
+trent killed tuyz  in round 17
+Round 17 ended with detonate. The winning team is G2 Esports.
+The current score is LOUD 8 - 9 G2 Esports.
+icy killed cauanzin  in round 18
+trent killed Saadhak  in round 18
+trent killed tuyz  in round 18
+Round 18 ended with detonate. The winning team is G2 Esports.
+The current score is LOUD 8 - 10 G2 Esports.
+tuyz killed icy  in round 19
+cauanzin killed valyn  in round 19
+Leaf killed tuyz  in round 19
+cauanzin killed JonahP  in round 19
+Saadhak killed Leaf  in round 19
+Saadhak killed trent  in round 19
+Round 19 ended with elimination. The winning team is LOUD.
+The current score is LOUD 9 - 10 G2 Esports.
+trent killed Saadhak  in round 20
+Less killed valyn  in round 20
+Less killed trent  in round 20
+icy killed Less  in round 20
+Leaf killed cauanzin  in round 20
+icy killed QcK  in round 20
+tuyz killed JonahP  in round 20
+Round 20 ended with detonate. The winning team is G2 Esports.
+The current score is LOUD 9 - 11 G2 Esports.
+QcK killed Leaf  in round 21
+valyn killed QcK  in round 21
+tuyz killed icy  in round 21
+cauanzin killed trent  in round 21
+Less killed JonahP  in round 21
+tuyz killed valyn  in round 21
+Round 21 ended with spike_defuse. The winning team is LOUD.
+The current score is LOUD 10 - 11 G2 Esports.
+QcK killed Leaf  in round 22
+valyn killed QcK  in round 22
+cauanzin killed valyn  in round 22
+cauanzin killed JonahP  in round 22
+icy killed Saadhak  in round 22
+icy killed tuyz  in round 22
+Less killed icy  in round 22
+trent killed cauanzin  in round 22
+Less killed trent  in round 22
+Round 22 ended with spike_defuse. The winning team is LOUD.
+The current score is LOUD 11 - 11 G2 Esports.
+cauanzin killed icy  in round 23
+valyn killed cauanzin  in round 23
+Saadhak killed JonahP  in round 23
+Saadhak killed valyn  in round 23
+Less killed trent  in round 23
+Leaf killed tuyz  in round 23
+Less killed Leaf  in round 23
+Round 23 ended with elimination. The winning team is LOUD.
+The current score is LOUD 12 - 11 G2 Esports.
+Saadhak killed icy  in round 24
+valyn killed cauanzin  in round 24
+Saadhak killed valyn  in round 24
+JonahP killed Saadhak  in round 24
+tuyz killed trent  in round 24
+Leaf killed tuyz  in round 24
+QcK killed Leaf  in round 24
+Less killed JonahP  in round 24
+Round 24 ended with spike_defuse. The winning team is LOUD.
+The current score is LOUD 13 - 11 G2 Esports.
+Game ended with winning team: LOUD at 2024-05-06T00:25:47Z
+
+--- Player Stats ---
+icy: Team=G2 Esports, Kills=13, Deaths=18, Assists=2, KDA=0.83, First Kills=5, First Deaths=4
+Leaf: Team=G2 Esports, Kills=15, Deaths=17, Assists=11, KDA=1.53, First Kills=4, First Deaths=4
+valyn: Team=G2 Esports, Kills=16, Deaths=13, Assists=8, KDA=1.85, First Kills=1, First Deaths=1
+trent: Team=G2 Esports, Kills=19, Deaths=14, Assists=6, KDA=1.79, First Kills=1, First Deaths=0
+JonahP: Team=G2 Esports, Kills=6, Deaths=16, Assists=9, KDA=0.94, First Kills=1, First Deaths=3
+QcK: Team=LOUD, Kills=11, Deaths=13, Assists=1, KDA=0.92, First Kills=5, First Deaths=4
+cauanzin: Team=LOUD, Kills=16, Deaths=13, Assists=15, KDA=2.38, First Kills=2, First Deaths=2
+Saadhak: Team=LOUD, Kills=13, Deaths=19, Assists=14, KDA=1.42, First Kills=2, First Deaths=3
+Less: Team=LOUD, Kills=21, Deaths=11, Assists=5, KDA=2.36, First Kills=1, First Deaths=0
+tuyz: Team=LOUD, Kills=17, Deaths=13, Assists=16, KDA=2.54, First Kills=2, First Deaths=3

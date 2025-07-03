@@ -1,0 +1,204 @@
+Team 1: NAVI
+Team 2: Team Liquid
+Participating Players:
+Player 1: Mistic
+Player 2: nAts
+Player 3: Enzo 
+Player 4: Keiko
+Player 5: Jamppi
+Player 6: Zyppan
+Player 7: Shao
+Player 8: ANGE1
+Player 9: ardiis
+Player 10: suygetsu
+Winning Team: NAVI
+Score: NAVI 13 - 5 Team Liquid
+Tournament Name: vct emea stage 1 2024
+Game Start Time: 2024-04-11T17:13:49Z
+Game End Time: 2024-04-11T17:54:34Z
+Rounds ended by ELIMINATION count: 15
+Rounds ended by DEFUSE count: 1
+Rounds ended by DETONATE count: 2
+SPIKE PLANTED count: 3
+platformGameId: val:1265ac78-238a-477b-907c-bcba553556da
+
+--- Events ---
+Game started at 2024-04-11T17:13:49Z
+Zyppan killed nAts  in round 1
+suygetsu killed Mistic  in round 1
+Keiko killed ardiis  in round 1
+Keiko killed suygetsu  in round 1
+Zyppan killed Jamppi  in round 1
+Shao killed Keiko  in round 1
+ANGE1 killed Enzo   in round 1
+Round 1 ended with elimination. The winning team is NAVI.
+The current score is NAVI 1 - 0 Team Liquid.
+Zyppan killed Jamppi  in round 2
+ardiis killed Keiko  in round 2
+Mistic killed suygetsu  in round 2
+nAts killed Zyppan  in round 2
+Shao killed nAts  in round 2
+Enzo  killed ANGE1  in round 2
+Shao killed Enzo   in round 2
+Mistic killed ardiis  in round 2
+Shao killed Mistic  in round 2
+Round 2 ended with elimination. The winning team is NAVI.
+The current score is NAVI 2 - 0 Team Liquid.
+Mistic killed ardiis  in round 3
+Keiko killed ANGE1  in round 3
+Zyppan killed Jamppi  in round 3
+Zyppan killed Keiko  in round 3
+suygetsu killed Mistic  in round 3
+Shao killed nAts  in round 3
+Enzo  killed Shao  in round 3
+Round 3 ended with detonate. The winning team is NAVI.
+The current score is NAVI 3 - 0 Team Liquid.
+Enzo  killed Zyppan  in round 4
+Shao killed Jamppi  in round 4
+suygetsu killed Keiko  in round 4
+ANGE1 killed Mistic  in round 4
+Enzo  killed suygetsu  in round 4
+ardiis killed nAts  in round 4
+Enzo  killed Shao  in round 4
+ANGE1 killed Enzo   in round 4
+Round 4 ended with elimination. The winning team is NAVI.
+The current score is NAVI 4 - 0 Team Liquid.
+Keiko killed ardiis  in round 5
+Shao killed Keiko  in round 5
+Shao killed Mistic  in round 5
+suygetsu killed Enzo   in round 5
+Jamppi killed Shao  in round 5
+Jamppi killed Zyppan  in round 5
+suygetsu killed Jamppi  in round 5
+suygetsu killed nAts  in round 5
+Round 5 ended with elimination. The winning team is NAVI.
+The current score is NAVI 5 - 0 Team Liquid.
+ardiis killed Jamppi  in round 6
+ardiis killed Keiko  in round 6
+Mistic killed ANGE1  in round 6
+ardiis killed Mistic  in round 6
+Enzo  killed Zyppan  in round 6
+Round 6 ended with detonate. The winning team is NAVI.
+The current score is NAVI 6 - 0 Team Liquid.
+Enzo  killed suygetsu  in round 7
+ardiis killed Enzo   in round 7
+Mistic killed Zyppan  in round 7
+ANGE1 killed Enzo   in round 7
+ardiis killed Mistic  in round 7
+Shao killed nAts  in round 7
+ANGE1 killed Keiko  in round 7
+Jamppi killed ardiis  in round 7
+Jamppi killed suygetsu  in round 7
+ANGE1 killed Jamppi  in round 7
+Round 7 ended with elimination. The winning team is NAVI.
+The current score is NAVI 7 - 0 Team Liquid.
+ANGE1 killed Keiko  in round 8
+ardiis killed Enzo   in round 8
+Jamppi killed ardiis  in round 8
+ANGE1 killed nAts  in round 8
+suygetsu killed Jamppi  in round 8
+suygetsu killed Mistic  in round 8
+Round 8 ended with elimination. The winning team is NAVI.
+The current score is NAVI 8 - 0 Team Liquid.
+Keiko killed ardiis  in round 9
+Enzo  killed suygetsu  in round 9
+Shao killed Enzo   in round 9
+Keiko killed ANGE1  in round 9
+Zyppan killed Keiko  in round 9
+Mistic killed Zyppan  in round 9
+Shao killed Mistic  in round 9
+nAts killed Shao  in round 9
+Round 9 ended with spike_defuse. The winning team is Team Liquid.
+The current score is NAVI 8 - 1 Team Liquid.
+Enzo  killed ardiis  in round 10
+Shao killed Mistic  in round 10
+Enzo  killed Shao  in round 10
+Zyppan killed Enzo   in round 10
+Keiko killed Zyppan  in round 10
+Jamppi killed suygetsu  in round 10
+Jamppi killed ANGE1  in round 10
+Round 10 ended with elimination. The winning team is Team Liquid.
+The current score is NAVI 8 - 2 Team Liquid.
+Enzo  killed ardiis  in round 11
+Keiko killed Zyppan  in round 11
+Jamppi killed suygetsu  in round 11
+Jamppi killed Shao  in round 11
+ANGE1 killed Mistic  in round 11
+ANGE1 killed Jamppi  in round 11
+nAts killed ANGE1  in round 11
+Round 11 ended with elimination. The winning team is Team Liquid.
+The current score is NAVI 8 - 3 Team Liquid.
+Enzo  killed Shao  in round 12
+suygetsu killed Keiko  in round 12
+Enzo  killed ardiis  in round 12
+Zyppan killed Enzo   in round 12
+nAts killed Zyppan  in round 12
+suygetsu killed Jamppi  in round 12
+ANGE1 killed Mistic  in round 12
+ANGE1 killed nAts  in round 12
+Round 12 ended with elimination. The winning team is NAVI.
+The current score is NAVI 9 - 3 Team Liquid.
+Zyppan killed Enzo   in round 13
+Jamppi killed Shao  in round 13
+Keiko killed Zyppan  in round 13
+Keiko killed ardiis  in round 13
+nAts killed ANGE1  in round 13
+nAts killed suygetsu  in round 13
+Round 13 ended with elimination. The winning team is Team Liquid.
+The current score is NAVI 9 - 4 Team Liquid.
+suygetsu killed Keiko  in round 14
+nAts killed Shao  in round 14
+Jamppi killed suygetsu  in round 14
+Zyppan killed Jamppi  in round 14
+Zyppan killed nAts  in round 14
+Enzo  killed Zyppan  in round 14
+Enzo  killed ANGE1  in round 14
+Mistic killed ardiis  in round 14
+Round 14 ended with elimination. The winning team is Team Liquid.
+The current score is NAVI 9 - 5 Team Liquid.
+Zyppan killed Mistic  in round 15
+Zyppan killed Jamppi  in round 15
+ardiis killed Keiko  in round 15
+nAts killed Zyppan  in round 15
+nAts killed Shao  in round 15
+ardiis killed nAts  in round 15
+Enzo  killed ANGE1  in round 15
+ardiis killed Enzo   in round 15
+Round 15 ended with elimination. The winning team is NAVI.
+The current score is NAVI 10 - 5 Team Liquid.
+nAts killed Shao  in round 16
+Zyppan killed nAts  in round 16
+ANGE1 killed Keiko  in round 16
+ANGE1 killed Enzo   in round 16
+ANGE1 killed Mistic  in round 16
+ardiis killed Jamppi  in round 16
+Round 16 ended with elimination. The winning team is NAVI.
+The current score is NAVI 11 - 5 Team Liquid.
+ardiis killed Enzo   in round 17
+Zyppan killed Keiko  in round 17
+Zyppan killed Mistic  in round 17
+ardiis killed Jamppi  in round 17
+Shao killed nAts  in round 17
+Round 17 ended with elimination. The winning team is NAVI.
+The current score is NAVI 12 - 5 Team Liquid.
+ardiis killed Keiko  in round 18
+ardiis killed Mistic  in round 18
+Enzo  killed ardiis  in round 18
+Shao killed Enzo   in round 18
+Zyppan killed Jamppi  in round 18
+Shao killed nAts  in round 18
+Round 18 ended with elimination. The winning team is NAVI.
+The current score is NAVI 13 - 5 Team Liquid.
+Game ended with winning team: NAVI at 2024-04-11T17:54:34Z
+
+--- Player Stats ---
+Mistic: Team=Team Liquid, Kills=7, Deaths=16, Assists=5, KDA=0.75, First Kills=1, First Deaths=1
+nAts: Team=Team Liquid, Kills=10, Deaths=13, Assists=1, KDA=0.85, First Kills=1, First Deaths=1
+Enzo : Team=Team Liquid, Kills=17, Deaths=15, Assists=5, KDA=1.47, First Kills=5, First Deaths=2
+Keiko: Team=Team Liquid, Kills=10, Deaths=15, Assists=3, KDA=0.87, First Kills=2, First Deaths=3
+Jamppi: Team=Team Liquid, Kills=11, Deaths=15, Assists=7, KDA=1.2, First Kills=0, First Deaths=2
+Zyppan: Team=NAVI, Kills=17, Deaths=12, Assists=15, KDA=2.67, First Kills=4, First Deaths=1
+Shao: Team=NAVI, Kills=15, Deaths=11, Assists=4, KDA=1.73, First Kills=0, First Deaths=2
+ANGE1: Team=NAVI, Kills=15, Deaths=9, Assists=9, KDA=2.67, First Kills=1, First Deaths=0
+ardiis: Team=NAVI, Kills=16, Deaths=13, Assists=4, KDA=1.54, First Kills=3, First Deaths=5
+suygetsu: Team=NAVI, Kills=11, Deaths=10, Assists=4, KDA=1.5, First Kills=1, First Deaths=1

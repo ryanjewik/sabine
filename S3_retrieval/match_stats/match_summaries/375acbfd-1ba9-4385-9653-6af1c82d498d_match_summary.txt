@@ -1,0 +1,321 @@
+Team 1: Team Heretics
+Team 2: Team Liquid
+Participating Players:
+Player 1: Jamppi
+Player 2: Sayf
+Player 3: Redgar
+Player 4: nAts
+Player 5: soulcas
+Player 6: Boo
+Player 7: m1xwell
+Player 8: zeek
+Player 9: AvovA
+Player 10: keloqz
+Winning Team: Team Liquid
+Score: Team Heretics 15 - 17 Team Liquid
+Tournament Name: vct emea 2023
+Game Start Time: 2023-04-19T19:18:46Z
+Game End Time: 2023-04-19T20:34:17Z
+Rounds ended by ELIMINATION count: 18
+Rounds ended by DEFUSE count: 10
+Rounds ended by DETONATE count: 3
+SPIKE PLANTED count: 13
+platformGameId: val:375acbfd-1ba9-4385-9653-6af1c82d498d
+
+--- Events ---
+Game started at 2023-04-19T19:18:46Z
+soulcas killed keloqz  in round 1
+m1xwell killed soulcas  in round 1
+Sayf killed Boo  in round 1
+Sayf killed zeek  in round 1
+Jamppi killed m1xwell  in round 1
+Redgar killed AvovA  in round 1
+Round 1 ended with spike_defuse. The winning team is Team Liquid.
+The current score is Team Heretics 0 - 1 Team Liquid.
+zeek killed soulcas  in round 2
+nAts killed m1xwell  in round 2
+Boo killed Sayf  in round 2
+nAts killed AvovA  in round 2
+zeek killed nAts  in round 2
+Redgar killed Boo  in round 2
+Jamppi killed zeek  in round 2
+Redgar killed keloqz  in round 2
+Round 2 ended with spike_defuse. The winning team is Team Liquid.
+The current score is Team Heretics 0 - 2 Team Liquid.
+m1xwell killed nAts  in round 3
+m1xwell killed Sayf  in round 3
+AvovA killed Redgar  in round 3
+zeek killed Jamppi  in round 3
+Round 3 ended with detonate. The winning team is Team Heretics.
+The current score is Team Heretics 1 - 2 Team Liquid.
+keloqz killed Redgar  in round 4
+AvovA killed Jamppi  in round 4
+nAts killed m1xwell  in round 4
+nAts killed zeek  in round 4
+keloqz killed nAts  in round 4
+Boo killed Sayf  in round 4
+Boo killed soulcas  in round 4
+Round 4 ended with elimination. The winning team is Team Heretics.
+The current score is Team Heretics 2 - 2 Team Liquid.
+m1xwell killed Redgar  in round 5
+Boo killed nAts  in round 5
+Boo killed Jamppi  in round 5
+AvovA killed Sayf  in round 5
+AvovA killed soulcas  in round 5
+Round 5 ended with elimination. The winning team is Team Heretics.
+The current score is Team Heretics 3 - 2 Team Liquid.
+Jamppi killed zeek  in round 6
+Sayf killed Boo  in round 6
+Redgar killed m1xwell  in round 6
+Boo killed soulcas  in round 6
+keloqz killed Jamppi  in round 6
+AvovA killed Sayf  in round 6
+Redgar killed keloqz  in round 6
+Redgar killed AvovA  in round 6
+Round 6 ended with elimination. The winning team is Team Liquid.
+The current score is Team Heretics 3 - 3 Team Liquid.
+AvovA killed Sayf  in round 7
+nAts killed AvovA  in round 7
+nAts killed keloqz  in round 7
+zeek killed nAts  in round 7
+zeek killed Redgar  in round 7
+Jamppi killed zeek  in round 7
+soulcas killed m1xwell  in round 7
+Boo killed soulcas  in round 7
+Boo killed Jamppi  in round 7
+Round 7 ended with elimination. The winning team is Team Heretics.
+The current score is Team Heretics 4 - 3 Team Liquid.
+Sayf killed keloqz  in round 8
+zeek killed Jamppi  in round 8
+nAts killed zeek  in round 8
+Boo killed Sayf  in round 8
+soulcas killed m1xwell  in round 8
+Boo killed soulcas  in round 8
+nAts killed AvovA  in round 8
+Round 8 ended with spike_defuse. The winning team is Team Liquid.
+The current score is Team Heretics 4 - 4 Team Liquid.
+nAts killed Boo  in round 9
+zeek killed Redgar  in round 9
+zeek killed Sayf  in round 9
+nAts killed keloqz  in round 9
+nAts killed m1xwell  in round 9
+Jamppi killed Boo  in round 9
+nAts killed AvovA  in round 9
+nAts killed zeek  in round 9
+Round 9 ended with elimination. The winning team is Team Liquid.
+The current score is Team Heretics 4 - 5 Team Liquid.
+nAts killed keloqz  in round 10
+nAts killed m1xwell  in round 10
+Redgar killed Boo  in round 10
+Redgar killed AvovA  in round 10
+Sayf killed zeek  in round 10
+Round 10 ended with elimination. The winning team is Team Liquid.
+The current score is Team Heretics 4 - 6 Team Liquid.
+AvovA killed Redgar  in round 11
+Boo killed Sayf  in round 11
+AvovA killed Jamppi  in round 11
+nAts killed zeek  in round 11
+soulcas killed m1xwell  in round 11
+Boo killed soulcas  in round 11
+nAts killed keloqz  in round 11
+Boo killed nAts  in round 11
+Round 11 ended with elimination. The winning team is Team Heretics.
+The current score is Team Heretics 5 - 6 Team Liquid.
+Jamppi killed AvovA  in round 12
+keloqz killed nAts  in round 12
+Sayf killed m1xwell  in round 12
+zeek killed Sayf  in round 12
+Jamppi killed zeek  in round 12
+keloqz killed soulcas  in round 12
+Jamppi killed Boo  in round 12
+Redgar killed keloqz  in round 12
+Round 12 ended with spike_defuse. The winning team is Team Liquid.
+The current score is Team Heretics 5 - 7 Team Liquid.
+Jamppi killed m1xwell  in round 13
+Boo killed soulcas  in round 13
+Sayf killed keloqz  in round 13
+Redgar killed zeek  in round 13
+Redgar killed AvovA  in round 13
+nAts killed Boo  in round 13
+Round 13 ended with elimination. The winning team is Team Liquid.
+The current score is Team Heretics 5 - 8 Team Liquid.
+nAts killed Boo  in round 14
+zeek killed Jamppi  in round 14
+AvovA killed Redgar  in round 14
+Sayf killed AvovA  in round 14
+Sayf killed m1xwell  in round 14
+zeek killed soulcas  in round 14
+zeek killed nAts  in round 14
+keloqz killed Sayf  in round 14
+Round 14 ended with spike_defuse. The winning team is Team Heretics.
+The current score is Team Heretics 6 - 8 Team Liquid.
+AvovA killed Sayf  in round 15
+Jamppi killed keloqz  in round 15
+Redgar killed AvovA  in round 15
+Boo killed Redgar  in round 15
+Boo killed Jamppi  in round 15
+nAts killed Boo  in round 15
+Round 15 ended with spike_defuse. The winning team is Team Heretics.
+The current score is Team Heretics 7 - 8 Team Liquid.
+nAts killed zeek  in round 16
+keloqz killed nAts  in round 16
+Jamppi killed keloqz  in round 16
+Redgar killed zeek  in round 16
+m1xwell killed Jamppi  in round 16
+AvovA killed Redgar  in round 16
+soulcas killed AvovA  in round 16
+soulcas killed Boo  in round 16
+Sayf killed m1xwell  in round 16
+Round 16 ended with elimination. The winning team is Team Liquid.
+The current score is Team Heretics 7 - 9 Team Liquid.
+Sayf killed Sayf  in round 17
+AvovA killed nAts  in round 17
+Sayf killed zeek  in round 17
+Sayf killed keloqz  in round 17
+Sayf killed m1xwell  in round 17
+Sayf killed Boo  in round 17
+AvovA killed Jamppi  in round 17
+AvovA killed Sayf  in round 17
+AvovA killed Redgar  in round 17
+Round 17 ended with detonate. The winning team is Team Liquid.
+The current score is Team Heretics 7 - 10 Team Liquid.
+keloqz killed Sayf  in round 18
+Boo killed Redgar  in round 18
+Boo killed nAts  in round 18
+Jamppi killed zeek  in round 18
+Round 18 ended with time_expired. The winning team is Team Heretics.
+The current score is Team Heretics 8 - 10 Team Liquid.
+zeek killed Redgar  in round 19
+Jamppi killed m1xwell  in round 19
+zeek killed soulcas  in round 19
+Jamppi killed Boo  in round 19
+Sayf killed zeek  in round 19
+Sayf killed AvovA  in round 19
+Round 19 ended with detonate. The winning team is Team Liquid.
+The current score is Team Heretics 8 - 11 Team Liquid.
+keloqz killed Jamppi  in round 20
+keloqz killed soulcas  in round 20
+keloqz killed Sayf  in round 20
+zeek killed Jamppi  in round 20
+zeek killed Redgar  in round 20
+zeek killed nAts  in round 20
+Round 20 ended with elimination. The winning team is Team Heretics.
+The current score is Team Heretics 9 - 11 Team Liquid.
+zeek killed Jamppi  in round 21
+Boo killed Sayf  in round 21
+Boo killed soulcas  in round 21
+Boo killed nAts  in round 21
+zeek killed Redgar  in round 21
+Round 21 ended with elimination. The winning team is Team Heretics.
+The current score is Team Heretics 10 - 11 Team Liquid.
+Sayf killed AvovA  in round 22
+zeek killed Sayf  in round 22
+nAts killed zeek  in round 22
+m1xwell killed nAts  in round 22
+Boo killed Redgar  in round 22
+soulcas killed keloqz  in round 22
+Jamppi killed Boo  in round 22
+m1xwell killed soulcas  in round 22
+Jamppi killed m1xwell  in round 22
+Round 22 ended with elimination. The winning team is Team Liquid.
+The current score is Team Heretics 10 - 12 Team Liquid.
+m1xwell killed soulcas  in round 23
+Redgar killed zeek  in round 23
+m1xwell killed Sayf  in round 23
+Jamppi killed m1xwell  in round 23
+AvovA killed Redgar  in round 23
+nAts killed Boo  in round 23
+AvovA killed nAts  in round 23
+Jamppi killed keloqz  in round 23
+AvovA killed Jamppi  in round 23
+Round 23 ended with spike_defuse. The winning team is Team Heretics.
+The current score is Team Heretics 11 - 12 Team Liquid.
+m1xwell killed Sayf  in round 24
+Redgar killed keloqz  in round 24
+m1xwell killed nAts  in round 24
+Boo killed soulcas  in round 24
+Redgar killed Boo  in round 24
+zeek killed Redgar  in round 24
+Jamppi killed m1xwell  in round 24
+zeek killed Jamppi  in round 24
+Round 24 ended with spike_defuse. The winning team is Team Heretics.
+The current score is Team Heretics 12 - 12 Team Liquid.
+Jamppi killed zeek  in round 25
+Jamppi killed keloqz  in round 25
+m1xwell killed Jamppi  in round 25
+Sayf killed m1xwell  in round 25
+Boo killed soulcas  in round 25
+Sayf killed Boo  in round 25
+nAts killed AvovA  in round 25
+Round 25 ended with spike_defuse. The winning team is Team Liquid.
+The current score is Team Heretics 12 - 13 Team Liquid.
+keloqz killed soulcas  in round 26
+AvovA killed Redgar  in round 26
+m1xwell killed Jamppi  in round 26
+m1xwell killed nAts  in round 26
+Sayf killed AvovA  in round 26
+m1xwell killed Sayf  in round 26
+Round 26 ended with elimination. The winning team is Team Heretics.
+The current score is Team Heretics 13 - 13 Team Liquid.
+zeek killed Sayf  in round 27
+Redgar killed keloqz  in round 27
+Redgar killed zeek  in round 27
+nAts killed AvovA  in round 27
+m1xwell killed nAts  in round 27
+soulcas killed Boo  in round 27
+Jamppi killed m1xwell  in round 27
+Round 27 ended with spike_defuse. The winning team is Team Liquid.
+The current score is Team Heretics 13 - 14 Team Liquid.
+AvovA killed Redgar  in round 28
+AvovA killed Jamppi  in round 28
+m1xwell killed Sayf  in round 28
+nAts killed m1xwell  in round 28
+zeek killed soulcas  in round 28
+Boo killed nAts  in round 28
+Round 28 ended with elimination. The winning team is Team Heretics.
+The current score is Team Heretics 14 - 14 Team Liquid.
+nAts killed Boo  in round 29
+nAts killed m1xwell  in round 29
+nAts killed keloqz  in round 29
+Sayf killed zeek  in round 29
+Redgar killed AvovA  in round 29
+Round 29 ended with elimination. The winning team is Team Liquid.
+The current score is Team Heretics 14 - 15 Team Liquid.
+keloqz killed nAts  in round 30
+AvovA killed Redgar  in round 30
+AvovA killed Jamppi  in round 30
+Sayf killed zeek  in round 30
+m1xwell killed soulcas  in round 30
+AvovA killed Sayf  in round 30
+Round 30 ended with elimination. The winning team is Team Heretics.
+The current score is Team Heretics 15 - 15 Team Liquid.
+Sayf killed keloqz  in round 31
+Redgar killed Boo  in round 31
+m1xwell killed Redgar  in round 31
+Jamppi killed zeek  in round 31
+AvovA killed soulcas  in round 31
+Sayf killed m1xwell  in round 31
+nAts killed AvovA  in round 31
+Round 31 ended with elimination. The winning team is Team Liquid.
+The current score is Team Heretics 15 - 16 Team Liquid.
+soulcas killed keloqz  in round 32
+Jamppi killed zeek  in round 32
+nAts killed AvovA  in round 32
+m1xwell killed Jamppi  in round 32
+nAts killed m1xwell  in round 32
+nAts killed Boo  in round 32
+Round 32 ended with elimination. The winning team is Team Liquid.
+The current score is Team Heretics 15 - 17 Team Liquid.
+Game ended with winning team: Team Liquid at 2023-04-19T20:34:17Z
+
+--- Player Stats ---
+Jamppi: Team=Team Liquid, Kills=24, Deaths=21, Assists=13, KDA=1.76, First Kills=4, First Deaths=2
+Sayf: Team=Team Liquid, Kills=25, Deaths=24, Assists=7, KDA=1.33, First Kills=4, First Deaths=6
+Redgar: Team=Team Liquid, Kills=20, Deaths=21, Assists=12, KDA=1.52, First Kills=0, First Deaths=5
+nAts: Team=Team Liquid, Kills=33, Deaths=20, Assists=6, KDA=1.95, First Kills=5, First Deaths=2
+soulcas: Team=Team Liquid, Kills=9, Deaths=22, Assists=6, KDA=0.68, First Kills=2, First Deaths=3
+Boo: Team=Team Heretics, Kills=25, Deaths=21, Assists=9, KDA=1.62, First Kills=0, First Deaths=3
+m1xwell: Team=Team Heretics, Kills=20, Deaths=24, Assists=20, KDA=1.67, First Kills=4, First Deaths=1
+zeek: Team=Team Heretics, Kills=24, Deaths=24, Assists=5, KDA=1.21, First Kills=4, First Deaths=3
+AvovA: Team=Team Heretics, Kills=25, Deaths=20, Assists=4, KDA=1.45, First Kills=4, First Deaths=2
+keloqz: Team=Team Heretics, Kills=13, Deaths=21, Assists=2, KDA=0.71, First Kills=5, First Deaths=5

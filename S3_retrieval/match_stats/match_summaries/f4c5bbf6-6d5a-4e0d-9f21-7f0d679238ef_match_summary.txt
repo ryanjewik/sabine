@@ -1,0 +1,167 @@
+Team 1: FNATIC
+Team 2: 100 Thieves
+Participating Players:
+Player 1: Asuna
+Player 2: Cryo
+Player 3: stellar
+Player 4: Derrek
+Player 5: bangNA
+Player 6: Chronicle
+Player 7: Derke
+Player 8: Boaster
+Player 9: Alfajer
+Player 10: Leo 
+Winning Team: FNATIC
+Score: FNATIC 13 - 1 100 Thieves
+Tournament Name: lock in brazil 2023
+Game Start Time: 2023-02-27T19:18:23Z
+Game End Time: 2023-02-27T19:56:40Z
+Rounds ended by ELIMINATION count: 13
+Rounds ended by DEFUSE count: 0
+Rounds ended by DETONATE count: 1
+SPIKE PLANTED count: 1
+platformGameId: val:f4c5bbf6-6d5a-4e0d-9f21-7f0d679238ef
+
+--- Events ---
+Game started at 2023-02-27T19:18:23Z
+Derke killed stellar  in round 1
+Cryo killed Derke  in round 1
+Alfajer killed Cryo  in round 1
+Leo  killed bangNA  in round 1
+Asuna killed Boaster  in round 1
+Asuna killed Alfajer  in round 1
+Boaster killed Derrek  in round 1
+Asuna killed Chronicle  in round 1
+Leo  killed Asuna  in round 1
+Round 1 ended with elimination. The winning team is FNATIC.
+The current score is FNATIC 1 - 0 100 Thieves.
+Boaster killed stellar  in round 2
+Boaster killed Cryo  in round 2
+Asuna killed Boaster  in round 2
+Leo  killed bangNA  in round 2
+Derke killed Derrek  in round 2
+Chronicle killed Asuna  in round 2
+Round 2 ended with elimination. The winning team is FNATIC.
+The current score is FNATIC 2 - 0 100 Thieves.
+Cryo killed Boaster  in round 3
+Chronicle killed bangNA  in round 3
+Asuna killed Alfajer  in round 3
+Cryo killed Derke  in round 3
+Derrek killed Chronicle  in round 3
+Leo  killed Derrek  in round 3
+Leo  killed Asuna  in round 3
+Cryo killed Leo   in round 3
+Round 3 ended with elimination. The winning team is 100 Thieves.
+The current score is FNATIC 2 - 1 100 Thieves.
+Boaster killed Cryo  in round 4
+Asuna killed Derke  in round 4
+Chronicle killed Asuna  in round 4
+Chronicle killed Derrek  in round 4
+Alfajer killed bangNA  in round 4
+stellar killed Chronicle  in round 4
+stellar killed Alfajer  in round 4
+stellar killed Leo   in round 4
+Boaster killed stellar  in round 4
+Round 4 ended with elimination. The winning team is FNATIC.
+The current score is FNATIC 3 - 1 100 Thieves.
+stellar killed Alfajer  in round 5
+Leo  killed stellar  in round 5
+Leo  killed Cryo  in round 5
+Derke killed Derrek  in round 5
+Chronicle killed bangNA  in round 5
+Boaster killed Asuna  in round 5
+Round 5 ended with elimination. The winning team is FNATIC.
+The current score is FNATIC 4 - 1 100 Thieves.
+Leo  killed stellar  in round 6
+Derrek killed Alfajer  in round 6
+Derke killed Asuna  in round 6
+Cryo killed Derke  in round 6
+Leo  killed bangNA  in round 6
+Chronicle killed Cryo  in round 6
+Chronicle killed Derrek  in round 6
+Round 6 ended with elimination. The winning team is FNATIC.
+The current score is FNATIC 5 - 1 100 Thieves.
+bangNA killed Derke  in round 7
+Boaster killed bangNA  in round 7
+Leo  killed Asuna  in round 7
+Alfajer killed Derrek  in round 7
+Alfajer killed Cryo  in round 7
+stellar killed Alfajer  in round 7
+Leo  killed stellar  in round 7
+Round 7 ended with elimination. The winning team is FNATIC.
+The current score is FNATIC 6 - 1 100 Thieves.
+Boaster killed bangNA  in round 8
+Alfajer killed Derrek  in round 8
+Chronicle killed Asuna  in round 8
+Cryo killed Alfajer  in round 8
+Boaster killed stellar  in round 8
+Cryo killed Leo   in round 8
+Boaster killed Cryo  in round 8
+Round 8 ended with elimination. The winning team is FNATIC.
+The current score is FNATIC 7 - 1 100 Thieves.
+Chronicle killed Cryo  in round 9
+bangNA killed Chronicle  in round 9
+Alfajer killed bangNA  in round 9
+stellar killed Boaster  in round 9
+Alfajer killed Derrek  in round 9
+Leo  killed Asuna  in round 9
+Leo  killed stellar  in round 9
+Round 9 ended with elimination. The winning team is FNATIC.
+The current score is FNATIC 8 - 1 100 Thieves.
+Asuna killed Boaster  in round 10
+Derke killed Asuna  in round 10
+Derke killed Cryo  in round 10
+Chronicle killed stellar  in round 10
+Alfajer killed bangNA  in round 10
+Derrek killed Derke  in round 10
+Derrek killed Alfajer  in round 10
+Leo  killed Derrek  in round 10
+Round 10 ended with elimination. The winning team is FNATIC.
+The current score is FNATIC 9 - 1 100 Thieves.
+Alfajer killed Cryo  in round 11
+Alfajer killed bangNA  in round 11
+Derke killed Asuna  in round 11
+Derke killed Derrek  in round 11
+stellar killed Boaster  in round 11
+Round 11 ended with detonate. The winning team is FNATIC.
+The current score is FNATIC 10 - 1 100 Thieves.
+Leo  killed stellar  in round 12
+Alfajer killed Asuna  in round 12
+Cryo killed Alfajer  in round 12
+Derke killed stellar  in round 12
+Chronicle killed bangNA  in round 12
+Derke killed Cryo  in round 12
+Derrek killed Boaster  in round 12
+Derke killed Derrek  in round 12
+Round 12 ended with elimination. The winning team is FNATIC.
+The current score is FNATIC 11 - 1 100 Thieves.
+Leo  killed stellar  in round 13
+bangNA killed Chronicle  in round 13
+Leo  killed bangNA  in round 13
+Alfajer killed Derrek  in round 13
+Leo  killed Cryo  in round 13
+Alfajer killed Asuna  in round 13
+Round 13 ended with elimination. The winning team is FNATIC.
+The current score is FNATIC 12 - 1 100 Thieves.
+Derke killed stellar  in round 14
+Derke killed Asuna  in round 14
+Derrek killed Derke  in round 14
+Cryo killed Cryo  in round 14
+bangNA killed Boaster  in round 14
+Chronicle killed Derrek  in round 14
+Alfajer killed bangNA  in round 14
+Round 14 ended with elimination. The winning team is FNATIC.
+The current score is FNATIC 13 - 1 100 Thieves.
+Game ended with winning team: FNATIC at 2023-02-27T19:56:40Z
+
+--- Player Stats ---
+Asuna: Team=100 Thieves, Kills=7, Deaths=14, Assists=6, KDA=0.93, First Kills=1, First Deaths=0
+Cryo: Team=100 Thieves, Kills=9, Deaths=13, Assists=2, KDA=0.85, First Kills=1, First Deaths=3
+stellar: Team=100 Thieves, Kills=7, Deaths=13, Assists=0, KDA=0.54, First Kills=1, First Deaths=6
+Derrek: Team=100 Thieves, Kills=6, Deaths=14, Assists=2, KDA=0.57, First Kills=0, First Deaths=0
+bangNA: Team=100 Thieves, Kills=4, Deaths=14, Assists=1, KDA=0.36, First Kills=1, First Deaths=1
+Chronicle: Team=FNATIC, Kills=12, Deaths=5, Assists=8, KDA=4.0, First Kills=1, First Deaths=0
+Derke: Team=FNATIC, Kills=13, Deaths=7, Assists=3, KDA=2.29, First Kills=2, First Deaths=1
+Boaster: Team=FNATIC, Kills=10, Deaths=8, Assists=9, KDA=2.38, First Kills=3, First Deaths=2
+Alfajer: Team=FNATIC, Kills=14, Deaths=9, Assists=5, KDA=2.11, First Kills=1, First Deaths=1
+Leo : Team=FNATIC, Kills=18, Deaths=3, Assists=4, KDA=7.33, First Kills=3, First Deaths=0

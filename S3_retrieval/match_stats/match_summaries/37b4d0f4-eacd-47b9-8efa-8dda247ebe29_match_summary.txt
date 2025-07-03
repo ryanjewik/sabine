@@ -1,0 +1,214 @@
+Team 1: Talon Esports
+Team 2: DRX
+Participating Players:
+Player 1: MaKo
+Player 2: Flashback
+Player 3: stax
+Player 4: Foxy9
+Player 5: BuZz
+Player 6: Crws
+Player 7: JitBoyS
+Player 8: lenne
+Player 9: ban
+Player 10: Governor
+Winning Team: DRX
+Score: Talon Esports 8 - 13 DRX
+Tournament Name: vct pacific kickoff 2024
+Game Start Time: 2024-02-20T11:31:03Z
+Game End Time: 2024-02-20T12:17:04Z
+Rounds ended by ELIMINATION count: 14
+Rounds ended by DEFUSE count: 2
+Rounds ended by DETONATE count: 4
+SPIKE PLANTED count: 6
+platformGameId: val:37b4d0f4-eacd-47b9-8efa-8dda247ebe29
+
+--- Events ---
+Game started at 2024-02-20T11:31:03Z
+Governor killed Flashback  in round 1
+BuZz killed Governor  in round 1
+Foxy9 killed ban  in round 1
+Foxy9 killed lenne  in round 1
+BuZz killed Crws  in round 1
+JitBoyS killed BuZz  in round 1
+JitBoyS killed Foxy9  in round 1
+MaKo killed JitBoyS  in round 1
+Round 1 ended with spike_defuse. The winning team is DRX.
+The current score is Talon Esports 0 - 1 DRX.
+Flashback killed Crws  in round 2
+BuZz killed Governor  in round 2
+Flashback killed ban  in round 2
+stax killed JitBoyS  in round 2
+lenne killed Flashback  in round 2
+Foxy9 killed lenne  in round 2
+Round 2 ended with elimination. The winning team is DRX.
+The current score is Talon Esports 0 - 2 DRX.
+JitBoyS killed stax  in round 3
+JitBoyS killed BuZz  in round 3
+Foxy9 killed JitBoyS  in round 3
+lenne killed MaKo  in round 3
+Governor killed Foxy9  in round 3
+Governor killed Flashback  in round 3
+Round 3 ended with elimination. The winning team is Talon Esports.
+The current score is Talon Esports 1 - 2 DRX.
+JitBoyS killed Flashback  in round 4
+JitBoyS killed stax  in round 4
+JitBoyS killed BuZz  in round 4
+MaKo killed Crws  in round 4
+Round 4 ended with detonate. The winning team is Talon Esports.
+The current score is Talon Esports 2 - 2 DRX.
+BuZz killed JitBoyS  in round 5
+Governor killed BuZz  in round 5
+MaKo killed Governor  in round 5
+ban killed MaKo  in round 5
+ban killed Flashback  in round 5
+Crws killed stax  in round 5
+Foxy9 killed lenne  in round 5
+Crws killed Foxy9  in round 5
+Round 5 ended with elimination. The winning team is Talon Esports.
+The current score is Talon Esports 3 - 2 DRX.
+Governor killed stax  in round 6
+JitBoyS killed BuZz  in round 6
+Governor killed Flashback  in round 6
+Foxy9 killed lenne  in round 6
+Round 6 ended with detonate. The winning team is Talon Esports.
+The current score is Talon Esports 4 - 2 DRX.
+Foxy9 killed ban  in round 7
+Flashback killed JitBoyS  in round 7
+Governor killed Flashback  in round 7
+BuZz killed Governor  in round 7
+stax killed Crws  in round 7
+lenne killed MaKo  in round 7
+lenne killed BuZz  in round 7
+stax killed lenne  in round 7
+Round 7 ended with elimination. The winning team is DRX.
+The current score is Talon Esports 4 - 3 DRX.
+Flashback killed Governor  in round 8
+JitBoyS killed Flashback  in round 8
+BuZz killed lenne  in round 8
+Crws killed Foxy9  in round 8
+JitBoyS killed stax  in round 8
+JitBoyS killed BuZz  in round 8
+MaKo killed JitBoyS  in round 8
+Crws killed MaKo  in round 8
+Round 8 ended with elimination. The winning team is Talon Esports.
+The current score is Talon Esports 5 - 3 DRX.
+Governor killed Foxy9  in round 9
+BuZz killed ban  in round 9
+JitBoyS killed stax  in round 9
+Governor killed MaKo  in round 9
+Governor killed BuZz  in round 9
+Governor killed Flashback  in round 9
+Round 9 ended with elimination. The winning team is Talon Esports.
+The current score is Talon Esports 6 - 3 DRX.
+BuZz killed JitBoyS  in round 10
+ban killed stax  in round 10
+Foxy9 killed lenne  in round 10
+BuZz killed Governor  in round 10
+ban killed Flashback  in round 10
+Foxy9 killed Crws  in round 10
+ban killed MaKo  in round 10
+Round 10 ended with time_expired. The winning team is DRX.
+The current score is Talon Esports 6 - 4 DRX.
+BuZz killed Governor  in round 11
+BuZz killed ban  in round 11
+Flashback killed lenne  in round 11
+Flashback killed JitBoyS  in round 11
+Crws killed BuZz  in round 11
+Foxy9 killed Crws  in round 11
+Round 11 ended with elimination. The winning team is DRX.
+The current score is Talon Esports 6 - 5 DRX.
+MaKo killed Governor  in round 12
+Flashback killed Crws  in round 12
+Flashback killed lenne  in round 12
+JitBoyS killed Flashback  in round 12
+BuZz killed ban  in round 12
+stax killed JitBoyS  in round 12
+Round 12 ended with elimination. The winning team is DRX.
+The current score is Talon Esports 6 - 6 DRX.
+Flashback killed Governor  in round 13
+ban killed Flashback  in round 13
+lenne killed BuZz  in round 13
+ban killed MaKo  in round 13
+Crws killed stax  in round 13
+Foxy9 killed JitBoyS  in round 13
+lenne killed Foxy9  in round 13
+Round 13 ended with spike_defuse. The winning team is Talon Esports.
+The current score is Talon Esports 7 - 6 DRX.
+Governor killed Foxy9  in round 14
+stax killed Governor  in round 14
+Crws killed MaKo  in round 14
+lenne killed Flashback  in round 14
+Crws killed stax  in round 14
+ban killed BuZz  in round 14
+Round 14 ended with elimination. The winning team is Talon Esports.
+The current score is Talon Esports 8 - 6 DRX.
+Foxy9 killed Governor  in round 15
+BuZz killed ban  in round 15
+Foxy9 killed JitBoyS  in round 15
+Foxy9 killed Crws  in round 15
+stax killed lenne  in round 15
+Round 15 ended with elimination. The winning team is DRX.
+The current score is Talon Esports 8 - 7 DRX.
+Foxy9 killed Crws  in round 16
+Governor killed Foxy9  in round 16
+BuZz killed Governor  in round 16
+Flashback killed lenne  in round 16
+Flashback killed JitBoyS  in round 16
+Flashback killed ban  in round 16
+Round 16 ended with elimination. The winning team is DRX.
+The current score is Talon Esports 8 - 8 DRX.
+BuZz killed Crws  in round 17
+BuZz killed ban  in round 17
+Governor killed BuZz  in round 17
+Foxy9 killed Governor  in round 17
+stax killed JitBoyS  in round 17
+MaKo killed lenne  in round 17
+Round 17 ended with elimination. The winning team is DRX.
+The current score is Talon Esports 8 - 9 DRX.
+lenne killed stax  in round 18
+Flashback killed Crws  in round 18
+Flashback killed JitBoyS  in round 18
+Flashback killed lenne  in round 18
+Governor killed Flashback  in round 18
+BuZz killed Governor  in round 18
+Round 18 ended with detonate. The winning team is DRX.
+The current score is Talon Esports 8 - 10 DRX.
+BuZz killed ban  in round 19
+Flashback killed Governor  in round 19
+Crws killed Flashback  in round 19
+MaKo killed lenne  in round 19
+JitBoyS killed Foxy9  in round 19
+BuZz killed JitBoyS  in round 19
+Crws killed BuZz  in round 19
+Round 19 ended with detonate. The winning team is DRX.
+The current score is Talon Esports 8 - 11 DRX.
+BuZz killed lenne  in round 20
+JitBoyS killed Flashback  in round 20
+JitBoyS killed BuZz  in round 20
+Foxy9 killed Crws  in round 20
+MaKo killed JitBoyS  in round 20
+Foxy9 killed ban  in round 20
+MaKo killed Governor  in round 20
+Round 20 ended with elimination. The winning team is DRX.
+The current score is Talon Esports 8 - 12 DRX.
+BuZz killed lenne  in round 21
+Crws killed BuZz  in round 21
+Foxy9 killed Crws  in round 21
+Flashback killed ban  in round 21
+MaKo killed Governor  in round 21
+Flashback killed JitBoyS  in round 21
+Round 21 ended with elimination. The winning team is DRX.
+The current score is Talon Esports 8 - 13 DRX.
+Game ended with winning team: DRX at 2024-02-20T12:17:04Z
+
+--- Player Stats ---
+MaKo: Team=DRX, Kills=10, Deaths=8, Assists=14, KDA=3.0, First Kills=1, First Deaths=0
+Flashback: Team=DRX, Kills=18, Deaths=16, Assists=4, KDA=1.38, First Kills=3, First Deaths=2
+stax: Team=DRX, Kills=7, Deaths=10, Assists=6, KDA=1.3, First Kills=0, First Deaths=3
+Foxy9: Team=DRX, Kills=19, Deaths=9, Assists=6, KDA=2.78, First Kills=3, First Deaths=2
+BuZz: Team=DRX, Kills=21, Deaths=15, Assists=4, KDA=1.67, First Kills=7, First Deaths=0
+Crws: Team=Talon Esports, Kills=11, Deaths=13, Assists=5, KDA=1.23, First Kills=0, First Deaths=3
+JitBoyS: Team=Talon Esports, Kills=16, Deaths=17, Assists=1, KDA=1.0, First Kills=2, First Deaths=2
+lenne: Team=Talon Esports, Kills=8, Deaths=16, Assists=8, KDA=1.0, First Kills=1, First Deaths=2
+ban: Team=Talon Esports, Kills=8, Deaths=12, Assists=11, KDA=1.58, First Kills=0, First Deaths=2
+Governor: Team=Talon Esports, Kills=15, Deaths=17, Assists=1, KDA=0.94, First Kills=4, First Deaths=5

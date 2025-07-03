@@ -1,0 +1,207 @@
+Team 1: Futbolist
+Team 2: BBL Esports
+Participating Players:
+Player 1: Brave
+Player 2: QutionerX
+Player 3: pAura
+Player 4: Reazy
+Player 5: Elite
+Player 6: qRaxs
+Player 7: yetujey
+Player 8: MrFaliN
+Player 9: cNed
+Player 10: ATA KAPTAN
+Winning Team: Futbolist
+Score: Futbolist 13 - 6 BBL Esports
+Tournament Name: vct emea stage 1 2024
+Game Start Time: 2024-05-03T17:51:37Z
+Game End Time: 2024-05-03T18:31:09Z
+Rounds ended by ELIMINATION count: 14
+Rounds ended by DEFUSE count: 4
+Rounds ended by DETONATE count: 1
+SPIKE PLANTED count: 5
+platformGameId: val:abc7518f-c742-49e2-84fa-ac2d38d29078
+
+--- Events ---
+Game started at 2024-05-03T17:51:37Z
+ATA KAPTAN killed QutionerX  in round 1
+pAura killed ATA KAPTAN  in round 1
+MrFaliN killed Reazy  in round 1
+pAura killed MrFaliN  in round 1
+qRaxs killed Elite  in round 1
+yetujey killed Brave  in round 1
+qRaxs killed pAura  in round 1
+Round 1 ended with elimination. The winning team is Futbolist.
+The current score is Futbolist 1 - 0 BBL Esports.
+cNed killed Brave  in round 2
+MrFaliN killed pAura  in round 2
+MrFaliN killed QutionerX  in round 2
+MrFaliN killed Elite  in round 2
+ATA KAPTAN killed Reazy  in round 2
+Round 2 ended with elimination. The winning team is Futbolist.
+The current score is Futbolist 2 - 0 BBL Esports.
+ATA KAPTAN killed Brave  in round 3
+cNed killed Reazy  in round 3
+qRaxs killed Elite  in round 3
+ATA KAPTAN killed pAura  in round 3
+QutionerX killed cNed  in round 3
+MrFaliN killed QutionerX  in round 3
+Round 3 ended with elimination. The winning team is Futbolist.
+The current score is Futbolist 3 - 0 BBL Esports.
+ATA KAPTAN killed Brave  in round 4
+pAura killed ATA KAPTAN  in round 4
+qRaxs killed Reazy  in round 4
+qRaxs killed pAura  in round 4
+Elite killed qRaxs  in round 4
+MrFaliN killed Elite  in round 4
+yetujey killed QutionerX  in round 4
+Round 4 ended with elimination. The winning team is Futbolist.
+The current score is Futbolist 4 - 0 BBL Esports.
+cNed killed Reazy  in round 5
+ATA KAPTAN killed pAura  in round 5
+Elite killed cNed  in round 5
+qRaxs killed Elite  in round 5
+QutionerX killed qRaxs  in round 5
+yetujey killed Brave  in round 5
+QutionerX killed yetujey  in round 5
+MrFaliN killed QutionerX  in round 5
+Round 5 ended with elimination. The winning team is Futbolist.
+The current score is Futbolist 5 - 0 BBL Esports.
+QutionerX killed MrFaliN  in round 6
+Reazy killed cNed  in round 6
+ATA KAPTAN killed Brave  in round 6
+Elite killed yetujey  in round 6
+QutionerX killed qRaxs  in round 6
+ATA KAPTAN killed pAura  in round 6
+ATA KAPTAN killed Reazy  in round 6
+ATA KAPTAN killed Elite  in round 6
+Round 6 ended with detonate. The winning team is Futbolist.
+The current score is Futbolist 6 - 0 BBL Esports.
+QutionerX killed QutionerX  in round 7
+ATA KAPTAN killed ATA KAPTAN  in round 7
+ATA KAPTAN killed pAura  in round 7
+QutionerX killed cNed  in round 7
+QutionerX killed yetujey  in round 7
+Reazy killed qRaxs  in round 7
+MrFaliN killed Reazy  in round 7
+ATA KAPTAN killed QutionerX  in round 7
+Elite killed ATA KAPTAN  in round 7
+Elite killed MrFaliN  in round 7
+Round 7 ended with elimination. The winning team is BBL Esports.
+The current score is Futbolist 6 - 1 BBL Esports.
+pAura killed ATA KAPTAN  in round 8
+QutionerX killed yetujey  in round 8
+Reazy killed qRaxs  in round 8
+Brave killed MrFaliN  in round 8
+Round 8 ended with spike_defuse. The winning team is BBL Esports.
+The current score is Futbolist 6 - 2 BBL Esports.
+pAura killed yetujey  in round 9
+qRaxs killed Elite  in round 9
+qRaxs killed QutionerX  in round 9
+Brave killed cNed  in round 9
+MrFaliN killed Reazy  in round 9
+Brave killed MrFaliN  in round 9
+Brave killed qRaxs  in round 9
+Round 9 ended with spike_defuse. The winning team is BBL Esports.
+The current score is Futbolist 6 - 3 BBL Esports.
+ATA KAPTAN killed Brave  in round 10
+cNed killed Brave  in round 10
+Elite killed ATA KAPTAN  in round 10
+MrFaliN killed Elite  in round 10
+pAura killed MrFaliN  in round 10
+Reazy killed qRaxs  in round 10
+yetujey killed QutionerX  in round 10
+yetujey killed Reazy  in round 10
+cNed killed pAura  in round 10
+Round 10 ended with elimination. The winning team is Futbolist.
+The current score is Futbolist 7 - 3 BBL Esports.
+yetujey killed Reazy  in round 11
+MrFaliN killed Brave  in round 11
+ATA KAPTAN killed pAura  in round 11
+yetujey killed Elite  in round 11
+MrFaliN killed QutionerX  in round 11
+Round 11 ended with elimination. The winning team is Futbolist.
+The current score is Futbolist 8 - 3 BBL Esports.
+pAura killed ATA KAPTAN  in round 12
+pAura killed cNed  in round 12
+Reazy killed yetujey  in round 12
+MrFaliN killed Reazy  in round 12
+MrFaliN killed pAura  in round 12
+qRaxs killed QutionerX  in round 12
+MrFaliN killed Brave  in round 12
+qRaxs killed Elite  in round 12
+Round 12 ended with elimination. The winning team is Futbolist.
+The current score is Futbolist 9 - 3 BBL Esports.
+ATA KAPTAN killed pAura  in round 13
+qRaxs killed Brave  in round 13
+MrFaliN killed Reazy  in round 13
+cNed killed QutionerX  in round 13
+cNed killed Elite  in round 13
+Round 13 ended with spike_defuse. The winning team is Futbolist.
+The current score is Futbolist 10 - 3 BBL Esports.
+MrFaliN killed pAura  in round 14
+ATA KAPTAN killed Brave  in round 14
+QutionerX killed MrFaliN  in round 14
+ATA KAPTAN killed Reazy  in round 14
+cNed killed QutionerX  in round 14
+cNed killed Elite  in round 14
+Round 14 ended with elimination. The winning team is Futbolist.
+The current score is Futbolist 11 - 3 BBL Esports.
+cNed killed pAura  in round 15
+MrFaliN killed QutionerX  in round 15
+MrFaliN killed Reazy  in round 15
+Elite killed yetujey  in round 15
+ATA KAPTAN killed Elite  in round 15
+ATA KAPTAN killed Brave  in round 15
+Round 15 ended with elimination. The winning team is Futbolist.
+The current score is Futbolist 12 - 3 BBL Esports.
+QutionerX killed cNed  in round 16
+pAura killed ATA KAPTAN  in round 16
+Reazy killed qRaxs  in round 16
+MrFaliN killed pAura  in round 16
+Brave killed MrFaliN  in round 16
+yetujey killed QutionerX  in round 16
+Reazy killed yetujey  in round 16
+Round 16 ended with elimination. The winning team is BBL Esports.
+The current score is Futbolist 12 - 4 BBL Esports.
+yetujey killed pAura  in round 17
+Elite killed yetujey  in round 17
+QutionerX killed qRaxs  in round 17
+QutionerX killed MrFaliN  in round 17
+cNed killed QutionerX  in round 17
+ATA KAPTAN killed Reazy  in round 17
+Brave killed ATA KAPTAN  in round 17
+Elite killed cNed  in round 17
+Round 17 ended with elimination. The winning team is BBL Esports.
+The current score is Futbolist 12 - 5 BBL Esports.
+QutionerX killed ATA KAPTAN  in round 18
+QutionerX killed cNed  in round 18
+QutionerX killed MrFaliN  in round 18
+yetujey killed QutionerX  in round 18
+pAura killed yetujey  in round 18
+pAura killed qRaxs  in round 18
+Round 18 ended with elimination. The winning team is BBL Esports.
+The current score is Futbolist 12 - 6 BBL Esports.
+cNed killed Elite  in round 19
+yetujey killed Brave  in round 19
+QutionerX killed ATA KAPTAN  in round 19
+cNed killed QutionerX  in round 19
+Reazy killed cNed  in round 19
+yetujey killed pAura  in round 19
+qRaxs killed Reazy  in round 19
+MrFaliN killed Elite  in round 19
+Round 19 ended with spike_defuse. The winning team is Futbolist.
+The current score is Futbolist 13 - 6 BBL Esports.
+Game ended with winning team: Futbolist at 2024-05-03T18:31:09Z
+
+--- Player Stats ---
+Brave: Team=BBL Esports, Kills=6, Deaths=14, Assists=4, KDA=0.71, First Kills=0, First Deaths=4
+QutionerX: Team=BBL Esports, Kills=17, Deaths=18, Assists=4, KDA=1.17, First Kills=4, First Deaths=2
+pAura: Team=BBL Esports, Kills=11, Deaths=16, Assists=2, KDA=0.81, First Kills=3, First Deaths=4
+Reazy: Team=BBL Esports, Kills=8, Deaths=16, Assists=12, KDA=1.25, First Kills=0, First Deaths=2
+Elite: Team=BBL Esports, Kills=9, Deaths=15, Assists=0, KDA=0.6, First Kills=0, First Deaths=1
+qRaxs: Team=Futbolist, Kills=12, Deaths=10, Assists=8, KDA=2.0, First Kills=0, First Deaths=0
+yetujey: Team=Futbolist, Kills=12, Deaths=10, Assists=3, KDA=1.5, First Kills=2, First Deaths=1
+MrFaliN: Team=Futbolist, Kills=21, Deaths=10, Assists=4, KDA=2.5, First Kills=1, First Deaths=1
+cNed: Team=Futbolist, Kills=13, Deaths=10, Assists=5, KDA=1.8, First Kills=4, First Deaths=1
+ATA KAPTAN: Team=Futbolist, Kills=21, Deaths=11, Assists=11, KDA=2.91, First Kills=5, First Deaths=3

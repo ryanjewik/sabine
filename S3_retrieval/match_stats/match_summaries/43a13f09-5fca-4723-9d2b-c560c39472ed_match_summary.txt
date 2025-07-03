@@ -1,0 +1,208 @@
+Team 1: Cloud9 Blue
+Team 2: KRÜ Esports
+Participating Players:
+Player 1: KeznitdeuS
+Player 2: Shyy
+Player 3: Melser
+Player 4: mta
+Player 5: heat
+Player 6: moose
+Player 7: vanity
+Player 8: Oxy
+Player 9: runi
+Player 10: xeppaa
+Winning Team: KRÜ Esports
+Score: Cloud9 Blue 6 - 13 KRÜ Esports
+Tournament Name: vct americas stage 2 2024
+Game Start Time: 2024-07-17T23:18:45Z
+Game End Time: 2024-07-18T00:01:02Z
+Rounds ended by ELIMINATION count: 11
+Rounds ended by DEFUSE count: 7
+Rounds ended by DETONATE count: 1
+SPIKE PLANTED count: 8
+platformGameId: val:43a13f09-5fca-4723-9d2b-c560c39472ed
+
+--- Events ---
+Game started at 2024-07-17T23:18:45Z
+moose killed heat  in round 1
+mta killed xeppaa  in round 1
+mta killed runi  in round 1
+Melser killed vanity  in round 1
+Oxy killed Melser  in round 1
+moose killed mta  in round 1
+Round 1 ended with spike_defuse. The winning team is KRÜ Esports.
+The current score is Cloud9 Blue 0 - 1 KRÜ Esports.
+Shyy killed Oxy  in round 2
+Shyy killed moose  in round 2
+Melser killed vanity  in round 2
+moose killed Melser  in round 2
+heat killed runi  in round 2
+KeznitdeuS killed moose  in round 2
+xeppaa killed heat  in round 2
+Shyy killed xeppaa  in round 2
+mta killed Oxy  in round 2
+Round 2 ended with spike_defuse. The winning team is KRÜ Esports.
+The current score is Cloud9 Blue 0 - 2 KRÜ Esports.
+Oxy killed KeznitdeuS  in round 3
+mta killed Oxy  in round 3
+xeppaa killed heat  in round 3
+Melser killed xeppaa  in round 3
+moose killed Melser  in round 3
+vanity killed mta  in round 3
+Round 3 ended with detonate. The winning team is Cloud9 Blue.
+The current score is Cloud9 Blue 1 - 2 KRÜ Esports.
+Melser killed vanity  in round 4
+Oxy killed Melser  in round 4
+xeppaa killed KeznitdeuS  in round 4
+heat killed Oxy  in round 4
+Shyy killed runi  in round 4
+xeppaa killed Shyy  in round 4
+mta killed xeppaa  in round 4
+moose killed mta  in round 4
+heat killed moose  in round 4
+Round 4 ended with spike_defuse. The winning team is KRÜ Esports.
+The current score is Cloud9 Blue 1 - 3 KRÜ Esports.
+KeznitdeuS killed moose  in round 5
+runi killed KeznitdeuS  in round 5
+mta killed Oxy  in round 5
+xeppaa killed mta  in round 5
+Melser killed runi  in round 5
+vanity killed Melser  in round 5
+Shyy killed xeppaa  in round 5
+heat killed vanity  in round 5
+Round 5 ended with elimination. The winning team is KRÜ Esports.
+The current score is Cloud9 Blue 1 - 4 KRÜ Esports.
+runi killed Melser  in round 6
+heat killed xeppaa  in round 6
+moose killed heat  in round 6
+mta killed runi  in round 6
+mta killed moose  in round 6
+Oxy killed mta  in round 6
+Shyy killed Oxy  in round 6
+KeznitdeuS killed vanity  in round 6
+Round 6 ended with elimination. The winning team is KRÜ Esports.
+The current score is Cloud9 Blue 1 - 5 KRÜ Esports.
+Melser killed vanity  in round 7
+Oxy killed heat  in round 7
+Melser killed Oxy  in round 7
+runi killed Melser  in round 7
+runi killed Shyy  in round 7
+mta killed xeppaa  in round 7
+runi killed mta  in round 7
+moose killed KeznitdeuS  in round 7
+Round 7 ended with elimination. The winning team is Cloud9 Blue.
+The current score is Cloud9 Blue 2 - 5 KRÜ Esports.
+Oxy killed KeznitdeuS  in round 8
+Oxy killed Shyy  in round 8
+mta killed Oxy  in round 8
+xeppaa killed mta  in round 8
+heat killed vanity  in round 8
+xeppaa killed heat  in round 8
+moose killed Melser  in round 8
+Round 8 ended with elimination. The winning team is Cloud9 Blue.
+The current score is Cloud9 Blue 3 - 5 KRÜ Esports.
+Shyy killed moose  in round 9
+Oxy killed mta  in round 9
+KeznitdeuS killed Oxy  in round 9
+heat killed runi  in round 9
+Melser killed xeppaa  in round 9
+KeznitdeuS killed vanity  in round 9
+Round 9 ended with spike_defuse. The winning team is KRÜ Esports.
+The current score is Cloud9 Blue 3 - 6 KRÜ Esports.
+Shyy killed Oxy  in round 10
+Melser killed runi  in round 10
+vanity killed Shyy  in round 10
+heat killed vanity  in round 10
+heat killed xeppaa  in round 10
+moose killed Melser  in round 10
+moose killed KeznitdeuS  in round 10
+mta killed moose  in round 10
+Round 10 ended with elimination. The winning team is KRÜ Esports.
+The current score is Cloud9 Blue 3 - 7 KRÜ Esports.
+Oxy killed mta  in round 11
+Shyy killed Oxy  in round 11
+heat killed xeppaa  in round 11
+Melser killed moose  in round 11
+Shyy killed vanity  in round 11
+Shyy killed runi  in round 11
+Round 11 ended with elimination. The winning team is KRÜ Esports.
+The current score is Cloud9 Blue 3 - 8 KRÜ Esports.
+KeznitdeuS killed moose  in round 12
+mta killed xeppaa  in round 12
+Oxy killed Melser  in round 12
+mta killed runi  in round 12
+KeznitdeuS killed Oxy  in round 12
+heat killed vanity  in round 12
+Round 12 ended with spike_defuse. The winning team is KRÜ Esports.
+The current score is Cloud9 Blue 3 - 9 KRÜ Esports.
+Melser killed moose  in round 13
+Oxy killed mta  in round 13
+Shyy killed Oxy  in round 13
+runi killed Shyy  in round 13
+Melser killed runi  in round 13
+xeppaa killed KeznitdeuS  in round 13
+vanity killed Melser  in round 13
+Round 13 ended with spike_defuse. The winning team is Cloud9 Blue.
+The current score is Cloud9 Blue 4 - 9 KRÜ Esports.
+heat killed vanity  in round 14
+heat killed xeppaa  in round 14
+runi killed KeznitdeuS  in round 14
+Oxy killed Melser  in round 14
+runi killed mta  in round 14
+runi killed heat  in round 14
+Oxy killed Shyy  in round 14
+Round 14 ended with elimination. The winning team is Cloud9 Blue.
+The current score is Cloud9 Blue 5 - 9 KRÜ Esports.
+KeznitdeuS killed runi  in round 15
+mta killed moose  in round 15
+KeznitdeuS killed vanity  in round 15
+mta killed xeppaa  in round 15
+Melser killed Oxy  in round 15
+Round 15 ended with elimination. The winning team is KRÜ Esports.
+The current score is Cloud9 Blue 5 - 10 KRÜ Esports.
+moose killed KeznitdeuS  in round 16
+moose killed mta  in round 16
+Shyy killed xeppaa  in round 16
+runi killed Shyy  in round 16
+runi killed heat  in round 16
+Melser killed vanity  in round 16
+moose killed Melser  in round 16
+Round 16 ended with spike_defuse. The winning team is Cloud9 Blue.
+The current score is Cloud9 Blue 6 - 10 KRÜ Esports.
+Oxy killed Shyy  in round 17
+mta killed xeppaa  in round 17
+KeznitdeuS killed runi  in round 17
+mta killed Oxy  in round 17
+moose killed heat  in round 17
+mta killed vanity  in round 17
+KeznitdeuS killed moose  in round 17
+Round 17 ended with elimination. The winning team is KRÜ Esports.
+The current score is Cloud9 Blue 6 - 11 KRÜ Esports.
+Shyy killed Oxy  in round 18
+KeznitdeuS killed runi  in round 18
+KeznitdeuS killed xeppaa  in round 18
+moose killed Shyy  in round 18
+KeznitdeuS killed moose  in round 18
+mta killed vanity  in round 18
+Round 18 ended with elimination. The winning team is KRÜ Esports.
+The current score is Cloud9 Blue 6 - 12 KRÜ Esports.
+mta killed Oxy  in round 19
+Shyy killed runi  in round 19
+mta killed vanity  in round 19
+heat killed xeppaa  in round 19
+Shyy killed moose  in round 19
+Round 19 ended with elimination. The winning team is KRÜ Esports.
+The current score is Cloud9 Blue 6 - 13 KRÜ Esports.
+Game ended with winning team: KRÜ Esports at 2024-07-18T00:01:02Z
+
+--- Player Stats ---
+KeznitdeuS: Team=KRÜ Esports, Kills=14, Deaths=9, Assists=9, KDA=2.56, First Kills=3, First Deaths=3
+Shyy: Team=KRÜ Esports, Kills=16, Deaths=9, Assists=13, KDA=3.22, First Kills=4, First Deaths=1
+Melser: Team=KRÜ Esports, Kills=14, Deaths=13, Assists=12, KDA=2.0, First Kills=3, First Deaths=1
+mta: Team=KRÜ Esports, Kills=21, Deaths=12, Assists=2, KDA=1.92, First Kills=1, First Deaths=1
+heat: Team=KRÜ Esports, Kills=14, Deaths=9, Assists=8, KDA=2.44, First Kills=1, First Deaths=1
+moose: Team=Cloud9 Blue, Kills=15, Deaths=14, Assists=1, KDA=1.14, First Kills=2, First Deaths=4
+vanity: Team=Cloud9 Blue, Kills=4, Deaths=17, Assists=8, KDA=0.71, First Kills=0, First Deaths=3
+Oxy: Team=Cloud9 Blue, Kills=14, Deaths=17, Assists=0, KDA=0.82, First Kills=4, First Deaths=4
+runi: Team=Cloud9 Blue, Kills=11, Deaths=14, Assists=3, KDA=1.0, First Kills=1, First Deaths=1
+xeppaa: Team=Cloud9 Blue, Kills=8, Deaths=17, Assists=11, KDA=1.12, First Kills=0, First Deaths=0

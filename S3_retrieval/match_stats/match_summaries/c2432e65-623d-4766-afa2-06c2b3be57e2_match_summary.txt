@@ -1,0 +1,191 @@
+Team 1: Team Heretics
+Team 2: G2 Esports
+Participating Players:
+Player 1: icy
+Player 2: Leaf
+Player 3: valyn
+Player 4: trent
+Player 5: JonahP
+Player 6: paTiTek
+Player 7: RieNs
+Player 8: Boo
+Player 9: benjyfishy
+Player 10: Wo0t
+Winning Team: G2 Esports
+Score: Team Heretics 4 - 13 G2 Esports
+Tournament Name: vct masters shanghai 2024
+Game Start Time: 2024-06-02T12:16:14Z
+Game End Time: 2024-06-02T12:59:05Z
+Rounds ended by ELIMINATION count: 14
+Rounds ended by DEFUSE count: 2
+Rounds ended by DETONATE count: 1
+SPIKE PLANTED count: 3
+platformGameId: val:c2432e65-623d-4766-afa2-06c2b3be57e2
+
+--- Events ---
+Game started at 2024-06-02T12:16:14Z
+JonahP killed RieNs  in round 1
+valyn killed benjyfishy  in round 1
+trent killed Wo0t  in round 1
+paTiTek killed icy  in round 1
+trent killed Boo  in round 1
+trent killed paTiTek  in round 1
+Round 1 ended with elimination. The winning team is G2 Esports.
+The current score is Team Heretics 0 - 1 G2 Esports.
+JonahP killed Boo  in round 2
+valyn killed RieNs  in round 2
+benjyfishy killed valyn  in round 2
+Leaf killed paTiTek  in round 2
+Leaf killed benjyfishy  in round 2
+Leaf killed Wo0t  in round 2
+Round 2 ended with spike_defuse. The winning team is G2 Esports.
+The current score is Team Heretics 0 - 2 G2 Esports.
+Boo killed Leaf  in round 3
+benjyfishy killed valyn  in round 3
+Boo killed icy  in round 3
+Wo0t killed trent  in round 3
+JonahP killed Wo0t  in round 3
+paTiTek killed JonahP  in round 3
+Round 3 ended with elimination. The winning team is Team Heretics.
+The current score is Team Heretics 1 - 2 G2 Esports.
+Leaf killed benjyfishy  in round 4
+icy killed Wo0t  in round 4
+JonahP killed RieNs  in round 4
+JonahP killed paTiTek  in round 4
+Boo killed icy  in round 4
+JonahP killed Boo  in round 4
+Round 4 ended with elimination. The winning team is G2 Esports.
+The current score is Team Heretics 1 - 3 G2 Esports.
+icy killed Wo0t  in round 5
+paTiTek killed valyn  in round 5
+JonahP killed RieNs  in round 5
+icy killed paTiTek  in round 5
+Boo killed JonahP  in round 5
+benjyfishy killed Leaf  in round 5
+trent killed Boo  in round 5
+benjyfishy killed icy  in round 5
+benjyfishy killed trent  in round 5
+Round 5 ended with elimination. The winning team is Team Heretics.
+The current score is Team Heretics 2 - 3 G2 Esports.
+icy killed benjyfishy  in round 6
+JonahP killed paTiTek  in round 6
+Leaf killed Wo0t  in round 6
+Leaf killed RieNs  in round 6
+Boo killed valyn  in round 6
+Boo killed JonahP  in round 6
+trent killed Boo  in round 6
+Round 6 ended with elimination. The winning team is G2 Esports.
+The current score is Team Heretics 2 - 4 G2 Esports.
+Leaf killed benjyfishy  in round 7
+JonahP killed Wo0t  in round 7
+JonahP killed RieNs  in round 7
+JonahP killed paTiTek  in round 7
+Boo killed icy  in round 7
+JonahP killed Boo  in round 7
+Round 7 ended with elimination. The winning team is G2 Esports.
+The current score is Team Heretics 2 - 5 G2 Esports.
+JonahP killed Boo  in round 8
+Wo0t killed Leaf  in round 8
+valyn killed Wo0t  in round 8
+paTiTek killed icy  in round 8
+valyn killed RieNs  in round 8
+benjyfishy killed trent  in round 8
+JonahP killed benjyfishy  in round 8
+valyn killed paTiTek  in round 8
+Round 8 ended with elimination. The winning team is G2 Esports.
+The current score is Team Heretics 2 - 6 G2 Esports.
+trent killed Wo0t  in round 9
+icy killed paTiTek  in round 9
+RieNs killed valyn  in round 9
+trent killed RieNs  in round 9
+trent killed benjyfishy  in round 9
+Leaf killed Boo  in round 9
+Round 9 ended with spike_defuse. The winning team is G2 Esports.
+The current score is Team Heretics 2 - 7 G2 Esports.
+benjyfishy killed JonahP  in round 10
+paTiTek killed valyn  in round 10
+Leaf killed paTiTek  in round 10
+Wo0t killed Leaf  in round 10
+icy killed Wo0t  in round 10
+trent killed RieNs  in round 10
+Boo killed icy  in round 10
+Boo killed trent  in round 10
+Round 10 ended with elimination. The winning team is Team Heretics.
+The current score is Team Heretics 3 - 7 G2 Esports.
+benjyfishy killed benjyfishy  in round 11
+Wo0t killed icy  in round 11
+valyn killed Wo0t  in round 11
+benjyfishy killed valyn  in round 11
+Leaf killed paTiTek  in round 11
+Boo killed trent  in round 11
+Leaf killed Boo  in round 11
+benjyfishy killed Leaf  in round 11
+JonahP killed RieNs  in round 11
+JonahP killed benjyfishy  in round 11
+Round 11 ended with detonate. The winning team is Team Heretics.
+The current score is Team Heretics 4 - 7 G2 Esports.
+valyn killed Wo0t  in round 12
+JonahP killed benjyfishy  in round 12
+JonahP killed Boo  in round 12
+paTiTek killed valyn  in round 12
+Leaf killed RieNs  in round 12
+trent killed paTiTek  in round 12
+Round 12 ended with elimination. The winning team is G2 Esports.
+The current score is Team Heretics 4 - 8 G2 Esports.
+Boo killed Leaf  in round 13
+icy killed Boo  in round 13
+paTiTek killed icy  in round 13
+valyn killed paTiTek  in round 13
+trent killed Wo0t  in round 13
+benjyfishy killed trent  in round 13
+JonahP killed RieNs  in round 13
+JonahP killed benjyfishy  in round 13
+Round 13 ended with elimination. The winning team is G2 Esports.
+The current score is Team Heretics 4 - 9 G2 Esports.
+Boo killed JonahP  in round 14
+RieNs killed trent  in round 14
+Leaf killed RieNs  in round 14
+icy killed benjyfishy  in round 14
+valyn killed paTiTek  in round 14
+icy killed Wo0t  in round 14
+icy killed Boo  in round 14
+Round 14 ended with elimination. The winning team is G2 Esports.
+The current score is Team Heretics 4 - 10 G2 Esports.
+Wo0t killed trent  in round 15
+Leaf killed Wo0t  in round 15
+JonahP killed paTiTek  in round 15
+JonahP killed benjyfishy  in round 15
+RieNs killed JonahP  in round 15
+Leaf killed Boo  in round 15
+valyn killed RieNs  in round 15
+Round 15 ended with elimination. The winning team is G2 Esports.
+The current score is Team Heretics 4 - 11 G2 Esports.
+valyn killed Boo  in round 16
+JonahP killed paTiTek  in round 16
+JonahP killed RieNs  in round 16
+JonahP killed Wo0t  in round 16
+Leaf killed benjyfishy  in round 16
+Round 16 ended with elimination. The winning team is G2 Esports.
+The current score is Team Heretics 4 - 12 G2 Esports.
+Leaf killed Wo0t  in round 17
+benjyfishy killed icy  in round 17
+trent killed benjyfishy  in round 17
+RieNs killed valyn  in round 17
+JonahP killed RieNs  in round 17
+JonahP killed paTiTek  in round 17
+JonahP killed Boo  in round 17
+Round 17 ended with elimination. The winning team is G2 Esports.
+The current score is Team Heretics 4 - 13 G2 Esports.
+Game ended with winning team: G2 Esports at 2024-06-02T12:59:05Z
+
+--- Player Stats ---
+icy: Team=G2 Esports, Kills=10, Deaths=10, Assists=2, KDA=1.2, First Kills=2, First Deaths=0
+Leaf: Team=G2 Esports, Kills=17, Deaths=6, Assists=5, KDA=3.67, First Kills=3, First Deaths=2
+valyn: Team=G2 Esports, Kills=11, Deaths=9, Assists=9, KDA=2.22, First Kills=2, First Deaths=0
+trent: Team=G2 Esports, Kills=12, Deaths=8, Assists=10, KDA=2.75, First Kills=1, First Deaths=1
+JonahP: Team=G2 Esports, Kills=28, Deaths=6, Assists=12, KDA=6.67, First Kills=3, First Deaths=2
+paTiTek: Team=Team Heretics, Kills=7, Deaths=16, Assists=3, KDA=0.62, First Kills=0, First Deaths=0
+RieNs: Team=Team Heretics, Kills=4, Deaths=16, Assists=4, KDA=0.5, First Kills=0, First Deaths=1
+Boo: Team=Team Heretics, Kills=12, Deaths=15, Assists=4, KDA=1.07, First Kills=3, First Deaths=3
+benjyfishy: Team=Team Heretics, Kills=12, Deaths=15, Assists=2, KDA=0.93, First Kills=2, First Deaths=4
+Wo0t: Team=Team Heretics, Kills=5, Deaths=17, Assists=2, KDA=0.41, First Kills=1, First Deaths=4

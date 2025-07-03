@@ -1,0 +1,253 @@
+Team 1: Evil Geniuses
+Team 2: NRG
+Participating Players:
+Player 1: Demon1
+Player 2: Marved
+Player 3: Ethan
+Player 4: crashies
+Player 5: Victor
+Player 6: JAWGEMO
+Player 7: Derrek
+Player 8: NaturE
+Player 9: Apoth
+Player 10: supamen
+Winning Team: Evil Geniuses
+Score: Evil Geniuses 13 - 11 NRG
+Tournament Name: vct americas stage 1 2024
+Game Start Time: 2024-04-29T02:08:19Z
+Game End Time: 2024-04-29T03:00:50Z
+Rounds ended by ELIMINATION count: 15
+Rounds ended by DEFUSE count: 5
+Rounds ended by DETONATE count: 4
+SPIKE PLANTED count: 9
+platformGameId: val:c1f78ae9-a3cd-4924-9192-f115d5cc7048
+
+--- Events ---
+Game started at 2024-04-29T02:08:19Z
+Ethan killed JAWGEMO  in round 1
+crashies killed supamen  in round 1
+Demon1 killed Apoth  in round 1
+Victor killed Derrek  in round 1
+Victor killed NaturE  in round 1
+Round 1 ended with elimination. The winning team is NRG.
+The current score is Evil Geniuses 0 - 1 NRG.
+Demon1 killed Apoth  in round 2
+Ethan killed JAWGEMO  in round 2
+Derrek killed Victor  in round 2
+Marved killed supamen  in round 2
+Marved killed NaturE  in round 2
+Derrek killed Marved  in round 2
+Demon1 killed Derrek  in round 2
+Round 2 ended with spike_defuse. The winning team is NRG.
+The current score is Evil Geniuses 0 - 2 NRG.
+JAWGEMO killed crashies  in round 3
+supamen killed Victor  in round 3
+Marved killed Derrek  in round 3
+Marved killed JAWGEMO  in round 3
+Demon1 killed NaturE  in round 3
+Demon1 killed Apoth  in round 3
+supamen killed Demon1  in round 3
+Marved killed supamen  in round 3
+Round 3 ended with elimination. The winning team is NRG.
+The current score is Evil Geniuses 0 - 3 NRG.
+Ethan killed Apoth  in round 4
+NaturE killed Victor  in round 4
+Ethan killed Derrek  in round 4
+supamen killed Demon1  in round 4
+Marved killed supamen  in round 4
+crashies killed JAWGEMO  in round 4
+Ethan killed NaturE  in round 4
+Round 4 ended with spike_defuse. The winning team is NRG.
+The current score is Evil Geniuses 0 - 4 NRG.
+JAWGEMO killed Ethan  in round 5
+Derrek killed Marved  in round 5
+supamen killed Victor  in round 5
+Apoth killed Demon1  in round 5
+Apoth killed crashies  in round 5
+Round 5 ended with elimination. The winning team is Evil Geniuses.
+The current score is Evil Geniuses 1 - 4 NRG.
+JAWGEMO killed Demon1  in round 6
+JAWGEMO killed Ethan  in round 6
+crashies killed JAWGEMO  in round 6
+Marved killed Derrek  in round 6
+supamen killed Marved  in round 6
+Apoth killed Victor  in round 6
+crashies killed NaturE  in round 6
+supamen killed crashies  in round 6
+Round 6 ended with elimination. The winning team is Evil Geniuses.
+The current score is Evil Geniuses 2 - 4 NRG.
+Apoth killed crashies  in round 7
+Marved killed Apoth  in round 7
+NaturE killed Demon1  in round 7
+supamen killed Ethan  in round 7
+NaturE killed Victor  in round 7
+Marved killed NaturE  in round 7
+JAWGEMO killed Marved  in round 7
+Round 7 ended with elimination. The winning team is Evil Geniuses.
+The current score is Evil Geniuses 3 - 4 NRG.
+JAWGEMO killed Demon1  in round 8
+JAWGEMO killed Marved  in round 8
+Round 8 ended with detonate. The winning team is Evil Geniuses.
+The current score is Evil Geniuses 4 - 4 NRG.
+Victor killed JAWGEMO  in round 9
+supamen killed crashies  in round 9
+JAWGEMO killed Marved  in round 9
+Derrek killed Demon1  in round 9
+supamen killed Ethan  in round 9
+NaturE killed Victor  in round 9
+Round 9 ended with elimination. The winning team is Evil Geniuses.
+The current score is Evil Geniuses 5 - 4 NRG.
+Victor killed JAWGEMO  in round 10
+Apoth killed Marved  in round 10
+Ethan killed NaturE  in round 10
+Derrek killed Ethan  in round 10
+Derrek killed Demon1  in round 10
+Victor killed Derrek  in round 10
+crashies killed Apoth  in round 10
+supamen killed crashies  in round 10
+supamen killed Victor  in round 10
+Round 10 ended with elimination. The winning team is Evil Geniuses.
+The current score is Evil Geniuses 6 - 4 NRG.
+supamen killed Marved  in round 11
+Apoth killed Ethan  in round 11
+supamen killed Victor  in round 11
+crashies killed Apoth  in round 11
+Round 11 ended with detonate. The winning team is Evil Geniuses.
+The current score is Evil Geniuses 7 - 4 NRG.
+Derrek killed crashies  in round 12
+JAWGEMO killed Demon1  in round 12
+Marved killed JAWGEMO  in round 12
+supamen killed Marved  in round 12
+crashies killed Derrek  in round 12
+crashies killed NaturE  in round 12
+Apoth killed Demon1  in round 12
+supamen killed Ethan  in round 12
+crashies killed supamen  in round 12
+crashies killed Apoth  in round 12
+Round 12 ended with elimination. The winning team is NRG.
+The current score is Evil Geniuses 7 - 5 NRG.
+JAWGEMO killed Ethan  in round 13
+crashies killed JAWGEMO  in round 13
+Marved killed NaturE  in round 13
+Victor killed Derrek  in round 13
+crashies killed Apoth  in round 13
+supamen killed Demon1  in round 13
+supamen killed Victor  in round 13
+crashies killed supamen  in round 13
+Round 13 ended with elimination. The winning team is NRG.
+The current score is Evil Geniuses 7 - 6 NRG.
+Apoth killed Victor  in round 14
+Ethan killed Apoth  in round 14
+Ethan killed supamen  in round 14
+Ethan killed JAWGEMO  in round 14
+Ethan killed Derrek  in round 14
+NaturE killed crashies  in round 14
+Ethan killed NaturE  in round 14
+Round 14 ended with elimination. The winning team is NRG.
+The current score is Evil Geniuses 7 - 7 NRG.
+Demon1 killed Apoth  in round 15
+supamen killed Marved  in round 15
+supamen killed Demon1  in round 15
+Ethan killed supamen  in round 15
+Derrek killed Victor  in round 15
+Ethan killed JAWGEMO  in round 15
+NaturE killed Ethan  in round 15
+Derrek killed crashies  in round 15
+Round 15 ended with spike_defuse. The winning team is Evil Geniuses.
+The current score is Evil Geniuses 8 - 7 NRG.
+Victor killed JAWGEMO  in round 16
+NaturE killed Victor  in round 16
+Ethan killed Apoth  in round 16
+Ethan killed supamen  in round 16
+Demon1 killed NaturE  in round 16
+Derrek killed Marved  in round 16
+Derrek killed Demon1  in round 16
+Derrek killed crashies  in round 16
+Derrek killed Ethan  in round 16
+Round 16 ended with detonate. The winning team is NRG.
+The current score is Evil Geniuses 8 - 8 NRG.
+Apoth killed Demon1  in round 17
+Apoth killed Ethan  in round 17
+crashies killed Apoth  in round 17
+JAWGEMO killed Victor  in round 17
+JAWGEMO killed crashies  in round 17
+Marved killed JAWGEMO  in round 17
+NaturE killed Marved  in round 17
+Round 17 ended with elimination. The winning team is Evil Geniuses.
+The current score is Evil Geniuses 9 - 8 NRG.
+Marved killed supamen  in round 18
+JAWGEMO killed Victor  in round 18
+JAWGEMO killed Ethan  in round 18
+JAWGEMO killed Demon1  in round 18
+Demon1 killed JAWGEMO  in round 18
+Marved killed Apoth  in round 18
+Derrek killed Marved  in round 18
+crashies killed NaturE  in round 18
+crashies killed Derrek  in round 18
+Round 18 ended with elimination. The winning team is NRG.
+The current score is Evil Geniuses 9 - 9 NRG.
+crashies killed crashies  in round 19
+supamen killed crashies  in round 19
+Marved killed supamen  in round 19
+Victor killed JAWGEMO  in round 19
+Marved killed Apoth  in round 19
+Marved killed NaturE  in round 19
+Demon1 killed Derrek  in round 19
+Round 19 ended with elimination. The winning team is NRG.
+The current score is Evil Geniuses 9 - 10 NRG.
+NaturE killed Marved  in round 20
+supamen killed Ethan  in round 20
+JAWGEMO killed crashies  in round 20
+Demon1 killed Apoth  in round 20
+JAWGEMO killed Demon1  in round 20
+JAWGEMO killed Victor  in round 20
+Round 20 ended with spike_defuse. The winning team is Evil Geniuses.
+The current score is Evil Geniuses 10 - 10 NRG.
+Apoth killed Demon1  in round 21
+supamen killed Victor  in round 21
+supamen killed crashies  in round 21
+JAWGEMO killed Ethan  in round 21
+JAWGEMO killed Marved  in round 21
+Round 21 ended with elimination. The winning team is Evil Geniuses.
+The current score is Evil Geniuses 11 - 10 NRG.
+Marved killed JAWGEMO  in round 22
+Demon1 killed Apoth  in round 22
+Demon1 killed supamen  in round 22
+Derrek killed Marved  in round 22
+Derrek killed Demon1  in round 22
+Round 22 ended with detonate. The winning team is NRG.
+The current score is Evil Geniuses 11 - 11 NRG.
+NaturE killed Victor  in round 23
+NaturE killed crashies  in round 23
+NaturE killed Demon1  in round 23
+NaturE killed Ethan  in round 23
+Victor killed NaturE  in round 23
+Derrek killed Victor  in round 23
+Marved killed supamen  in round 23
+JAWGEMO killed Marved  in round 23
+Round 23 ended with elimination. The winning team is Evil Geniuses.
+The current score is Evil Geniuses 12 - 11 NRG.
+Apoth killed Demon1  in round 24
+Apoth killed Victor  in round 24
+Marved killed NaturE  in round 24
+Derrek killed crashies  in round 24
+Ethan killed supamen  in round 24
+Ethan killed JAWGEMO  in round 24
+Derrek killed Ethan  in round 24
+Marved killed Apoth  in round 24
+Derrek killed Marved  in round 24
+Round 24 ended with spike_defuse. The winning team is Evil Geniuses.
+The current score is Evil Geniuses 13 - 11 NRG.
+Game ended with winning team: Evil Geniuses at 2024-04-29T03:00:50Z
+
+--- Player Stats ---
+Demon1: Team=NRG, Kills=12, Deaths=20, Assists=5, KDA=0.85, First Kills=2, First Deaths=5
+Marved: Team=NRG, Kills=21, Deaths=18, Assists=5, KDA=1.44, First Kills=2, First Deaths=2
+Ethan: Team=NRG, Kills=17, Deaths=16, Assists=13, KDA=1.88, First Kills=2, First Deaths=2
+crashies: Team=NRG, Kills=17, Deaths=17, Assists=4, KDA=1.24, First Kills=1, First Deaths=4
+Victor: Team=NRG, Kills=9, Deaths=20, Assists=5, KDA=0.7, First Kills=3, First Deaths=2
+JAWGEMO: Team=Evil Geniuses, Kills=21, Deaths=17, Assists=4, KDA=1.47, First Kills=5, First Deaths=5
+Derrek: Team=Evil Geniuses, Kills=20, Deaths=11, Assists=7, KDA=2.45, First Kills=1, First Deaths=0
+NaturE: Team=Evil Geniuses, Kills=13, Deaths=15, Assists=15, KDA=1.87, First Kills=2, First Deaths=0
+Apoth: Team=Evil Geniuses, Kills=13, Deaths=18, Assists=12, KDA=1.39, First Kills=5, First Deaths=3
+supamen: Team=Evil Geniuses, Kills=23, Deaths=14, Assists=7, KDA=2.14, First Kills=1, First Deaths=1

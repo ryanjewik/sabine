@@ -1,0 +1,272 @@
+Team 1: PAPER REX
+Team 2: FNATIC
+Participating Players:
+Player 1: Mistic
+Player 2: Derke
+Player 3: Boaster
+Player 4: Alfajer
+Player 5: Enz0
+Player 6: Benkai
+Player 7: mindfreak
+Player 8: d4v41
+Player 9: f0rsakeN
+Player 10: Jinggg
+Winning Team: PAPER REX
+Score: PAPER REX 13 - 11 FNATIC
+Tournament Name: masters 2 2022 stage 2
+Game Start Time: 2022-07-17T15:12:09Z
+Game End Time: 2022-07-17T16:17:43Z
+Rounds ended by ELIMINATION count: 16
+Rounds ended by DEFUSE count: 6
+Rounds ended by DETONATE count: 1
+SPIKE PLANTED count: 7
+platformGameId: val:a8daf684-d48e-4be2-9ee4-9ad1ed8d0ce7
+
+--- Events ---
+Game started at 2022-07-17T15:12:09Z
+Jinggg killed Alfajer  in round 1
+Boaster killed mindfreak  in round 1
+Boaster killed d4v41  in round 1
+Benkai killed Boaster  in round 1
+Mistic killed Benkai  in round 1
+Derke killed Jinggg  in round 1
+f0rsakeN killed Derke  in round 1
+Mistic killed f0rsakeN  in round 1
+Round 1 ended with elimination. The winning team is FNATIC.
+The current score is PAPER REX 0 - 1 FNATIC.
+Derke killed d4v41  in round 2
+Benkai killed Derke  in round 2
+Alfajer killed f0rsakeN  in round 2
+Mistic killed Benkai  in round 2
+Boaster killed mindfreak  in round 2
+Boaster killed Jinggg  in round 2
+Round 2 ended with elimination. The winning team is FNATIC.
+The current score is PAPER REX 0 - 2 FNATIC.
+mindfreak killed Derke  in round 3
+f0rsakeN killed Alfajer  in round 3
+f0rsakeN killed Enz0  in round 3
+mindfreak killed Mistic  in round 3
+Boaster killed mindfreak  in round 3
+Boaster killed Jinggg  in round 3
+d4v41 killed Boaster  in round 3
+Round 3 ended with elimination. The winning team is PAPER REX.
+The current score is PAPER REX 1 - 2 FNATIC.
+Enz0 killed Jinggg  in round 4
+f0rsakeN killed Enz0  in round 4
+mindfreak killed Mistic  in round 4
+mindfreak killed Derke  in round 4
+f0rsakeN killed Boaster  in round 4
+Alfajer killed f0rsakeN  in round 4
+mindfreak killed Alfajer  in round 4
+Round 4 ended with elimination. The winning team is PAPER REX.
+The current score is PAPER REX 2 - 2 FNATIC.
+f0rsakeN killed Alfajer  in round 5
+f0rsakeN killed Enz0  in round 5
+d4v41 killed Derke  in round 5
+f0rsakeN killed Mistic  in round 5
+mindfreak killed Boaster  in round 5
+Round 5 ended with elimination. The winning team is PAPER REX.
+The current score is PAPER REX 3 - 2 FNATIC.
+Jinggg killed Mistic  in round 6
+Jinggg killed Boaster  in round 6
+Alfajer killed Jinggg  in round 6
+d4v41 killed Alfajer  in round 6
+mindfreak killed Derke  in round 6
+Enz0 killed Benkai  in round 6
+mindfreak killed Enz0  in round 6
+Round 6 ended with elimination. The winning team is PAPER REX.
+The current score is PAPER REX 4 - 2 FNATIC.
+Enz0 killed f0rsakeN  in round 7
+Derke killed Jinggg  in round 7
+Alfajer killed Benkai  in round 7
+Enz0 killed d4v41  in round 7
+mindfreak killed Enz0  in round 7
+Round 7 ended with time_expired. The winning team is FNATIC.
+The current score is PAPER REX 4 - 3 FNATIC.
+mindfreak killed Boaster  in round 8
+Alfajer killed mindfreak  in round 8
+f0rsakeN killed Enz0  in round 8
+Mistic killed Jinggg  in round 8
+Alfajer killed d4v41  in round 8
+f0rsakeN killed Alfajer  in round 8
+Derke killed f0rsakeN  in round 8
+Benkai killed Boaster  in round 8
+Derke killed mindfreak  in round 8
+Mistic killed Benkai  in round 8
+Round 8 ended with spike_defuse. The winning team is FNATIC.
+The current score is PAPER REX 4 - 4 FNATIC.
+Mistic killed Jinggg  in round 9
+Enz0 killed f0rsakeN  in round 9
+mindfreak killed Mistic  in round 9
+Derke killed mindfreak  in round 9
+Enz0 killed d4v41  in round 9
+Benkai killed Alfajer  in round 9
+Benkai killed Enz0  in round 9
+Boaster killed Benkai  in round 9
+Round 9 ended with elimination. The winning team is FNATIC.
+The current score is PAPER REX 4 - 5 FNATIC.
+d4v41 killed Boaster  in round 10
+Jinggg killed Enz0  in round 10
+Alfajer killed f0rsakeN  in round 10
+Jinggg killed Alfajer  in round 10
+d4v41 killed Derke  in round 10
+Mistic killed d4v41  in round 10
+Jinggg killed Mistic  in round 10
+Round 10 ended with elimination. The winning team is PAPER REX.
+The current score is PAPER REX 5 - 5 FNATIC.
+Derke killed f0rsakeN  in round 11
+Mistic killed Jinggg  in round 11
+mindfreak killed Mistic  in round 11
+Benkai killed Boaster  in round 11
+mindfreak killed Enz0  in round 11
+mindfreak killed Derke  in round 11
+Benkai killed Alfajer  in round 11
+Round 11 ended with elimination. The winning team is PAPER REX.
+The current score is PAPER REX 6 - 5 FNATIC.
+Mistic killed Jinggg  in round 12
+d4v41 killed Enz0  in round 12
+Alfajer killed d4v41  in round 12
+mindfreak killed Derke  in round 12
+Alfajer killed mindfreak  in round 12
+Boaster killed f0rsakeN  in round 12
+Benkai killed Boaster  in round 12
+Enz0 killed Benkai  in round 12
+Round 12 ended with spike_defuse. The winning team is FNATIC.
+The current score is PAPER REX 6 - 6 FNATIC.
+f0rsakeN killed Mistic  in round 13
+d4v41 killed Enz0  in round 13
+Derke killed f0rsakeN  in round 13
+d4v41 killed Derke  in round 13
+d4v41 killed Alfajer  in round 13
+Boaster killed d4v41  in round 13
+Boaster killed Benkai  in round 13
+Jinggg killed Boaster  in round 13
+Round 13 ended with elimination. The winning team is PAPER REX.
+The current score is PAPER REX 7 - 6 FNATIC.
+d4v41 killed Alfajer  in round 14
+mindfreak killed Derke  in round 14
+Enz0 killed mindfreak  in round 14
+Jinggg killed Enz0  in round 14
+Jinggg killed Mistic  in round 14
+Jinggg killed Boaster  in round 14
+Round 14 ended with elimination. The winning team is PAPER REX.
+The current score is PAPER REX 8 - 6 FNATIC.
+Jinggg killed Enz0  in round 15
+mindfreak killed Derke  in round 15
+Mistic killed d4v41  in round 15
+Alfajer killed mindfreak  in round 15
+Boaster killed Benkai  in round 15
+Jinggg killed Mistic  in round 15
+Alfajer killed Jinggg  in round 15
+f0rsakeN killed Alfajer  in round 15
+Boaster killed f0rsakeN  in round 15
+Round 15 ended with elimination. The winning team is FNATIC.
+The current score is PAPER REX 8 - 7 FNATIC.
+Alfajer killed Benkai  in round 16
+Derke killed d4v41  in round 16
+f0rsakeN killed Derke  in round 16
+mindfreak killed Mistic  in round 16
+mindfreak killed Enz0  in round 16
+f0rsakeN killed Alfajer  in round 16
+Boaster killed f0rsakeN  in round 16
+Boaster killed mindfreak  in round 16
+Boaster killed Jinggg  in round 16
+Round 16 ended with elimination. The winning team is FNATIC.
+The current score is PAPER REX 8 - 8 FNATIC.
+Boaster killed Boaster  in round 17
+f0rsakeN killed Enz0  in round 17
+d4v41 killed Mistic  in round 17
+f0rsakeN killed Alfajer  in round 17
+Derke killed Jinggg  in round 17
+Boaster killed d4v41  in round 17
+Boaster killed mindfreak  in round 17
+Derke killed Benkai  in round 17
+f0rsakeN killed Boaster  in round 17
+Derke killed f0rsakeN  in round 17
+Round 17 ended with elimination. The winning team is FNATIC.
+The current score is PAPER REX 8 - 9 FNATIC.
+Derke killed Jinggg  in round 18
+Benkai killed Boaster  in round 18
+f0rsakeN killed Mistic  in round 18
+Derke killed d4v41  in round 18
+Benkai killed Enz0  in round 18
+Alfajer killed f0rsakeN  in round 18
+Benkai killed Derke  in round 18
+Alfajer killed Benkai  in round 18
+mindfreak killed Alfajer  in round 18
+Round 18 ended with spike_defuse. The winning team is PAPER REX.
+The current score is PAPER REX 9 - 9 FNATIC.
+Alfajer killed Benkai  in round 19
+Alfajer killed mindfreak  in round 19
+Jinggg killed Boaster  in round 19
+Jinggg killed Derke  in round 19
+Alfajer killed Jinggg  in round 19
+f0rsakeN killed Alfajer  in round 19
+f0rsakeN killed Mistic  in round 19
+d4v41 killed Enz0  in round 19
+Round 19 ended with spike_defuse. The winning team is PAPER REX.
+The current score is PAPER REX 10 - 9 FNATIC.
+Jinggg killed Enz0  in round 20
+mindfreak killed Boaster  in round 20
+Jinggg killed Mistic  in round 20
+Derke killed f0rsakeN  in round 20
+Jinggg killed Alfajer  in round 20
+Jinggg killed Derke  in round 20
+Round 20 ended with elimination. The winning team is PAPER REX.
+The current score is PAPER REX 11 - 9 FNATIC.
+f0rsakeN killed Derke  in round 21
+Enz0 killed Benkai  in round 21
+Jinggg killed Derke  in round 21
+Mistic killed f0rsakeN  in round 21
+Alfajer killed d4v41  in round 21
+Alfajer killed Jinggg  in round 21
+mindfreak killed Alfajer  in round 21
+mindfreak killed Boaster  in round 21
+mindfreak killed Mistic  in round 21
+mindfreak killed Enz0  in round 21
+Round 21 ended with spike_defuse. The winning team is PAPER REX.
+The current score is PAPER REX 12 - 9 FNATIC.
+Alfajer killed Jinggg  in round 22
+Alfajer killed mindfreak  in round 22
+f0rsakeN killed Enz0  in round 22
+Mistic killed d4v41  in round 22
+f0rsakeN killed Mistic  in round 22
+Alfajer killed f0rsakeN  in round 22
+Benkai killed Alfajer  in round 22
+Derke killed Benkai  in round 22
+Round 22 ended with elimination. The winning team is FNATIC.
+The current score is PAPER REX 12 - 10 FNATIC.
+f0rsakeN killed Derke  in round 23
+Boaster killed Jinggg  in round 23
+Alfajer killed d4v41  in round 23
+Enz0 killed f0rsakeN  in round 23
+Boaster killed Benkai  in round 23
+mindfreak killed Boaster  in round 23
+Round 23 ended with detonate. The winning team is FNATIC.
+The current score is PAPER REX 12 - 11 FNATIC.
+mindfreak killed Derke  in round 24
+Alfajer killed mindfreak  in round 24
+Jinggg killed Alfajer  in round 24
+Jinggg killed Mistic  in round 24
+Boaster killed Jinggg  in round 24
+Benkai killed Derke  in round 24
+Enz0 killed Benkai  in round 24
+Enz0 killed d4v41  in round 24
+f0rsakeN killed Boaster  in round 24
+Enz0 killed f0rsakeN  in round 24
+mindfreak killed Enz0  in round 24
+Round 24 ended with spike_defuse. The winning team is PAPER REX.
+The current score is PAPER REX 13 - 11 FNATIC.
+Game ended with winning team: PAPER REX at 2022-07-17T16:17:43Z
+
+--- Player Stats ---
+Mistic: Team=FNATIC, Kills=12, Deaths=18, Assists=9, KDA=1.17, First Kills=2, First Deaths=2
+Derke: Team=FNATIC, Kills=16, Deaths=21, Assists=2, KDA=0.86, First Kills=3, First Deaths=4
+Boaster: Team=FNATIC, Kills=21, Deaths=20, Assists=13, KDA=1.7, First Kills=1, First Deaths=3
+Alfajer: Team=FNATIC, Kills=24, Deaths=20, Assists=7, KDA=1.55, First Kills=3, First Deaths=3
+Enz0: Team=FNATIC, Kills=13, Deaths=21, Assists=8, KDA=1.0, First Kills=2, First Deaths=2
+Benkai: Team=PAPER REX, Kills=13, Deaths=17, Assists=8, KDA=1.24, First Kills=0, First Deaths=2
+mindfreak: Team=PAPER REX, Kills=28, Deaths=14, Assists=8, KDA=2.57, First Kills=3, First Deaths=0
+d4v41: Team=PAPER REX, Kills=12, Deaths=16, Assists=19, KDA=1.94, First Kills=2, First Deaths=1
+f0rsakeN: Team=PAPER REX, Kills=25, Deaths=19, Assists=5, KDA=1.58, First Kills=4, First Deaths=2
+Jinggg: Team=PAPER REX, Kills=21, Deaths=19, Assists=4, KDA=1.32, First Kills=4, First Deaths=5

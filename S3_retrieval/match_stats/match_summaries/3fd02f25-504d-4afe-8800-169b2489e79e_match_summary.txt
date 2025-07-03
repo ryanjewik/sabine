@@ -1,0 +1,229 @@
+Team 1: Evil Geniuses
+Team 2: Team Heretics
+Participating Players:
+Player 1: keloqz
+Player 2: m1xwell
+Player 3: Boo
+Player 4: AvovA
+Player 5: zeek
+Player 6: BcJ
+Player 7: Ethan
+Player 8: JAWGEMO
+Player 9: C0M
+Player 10: Boostio
+Winning Team: Evil Geniuses
+Score: Evil Geniuses 13 - 8 Team Heretics
+Tournament Name: lock in brazil 2023
+Game Start Time: 2023-02-15T16:58:51Z
+Game End Time: 2023-02-15T17:54:20Z
+Rounds ended by ELIMINATION count: 15
+Rounds ended by DEFUSE count: 3
+Rounds ended by DETONATE count: 3
+SPIKE PLANTED count: 6
+platformGameId: val:3fd02f25-504d-4afe-8800-169b2489e79e
+
+--- Events ---
+Game started at 2023-02-15T16:58:51Z
+keloqz killed BcJ  in round 1
+Ethan killed zeek  in round 1
+Ethan killed keloqz  in round 1
+m1xwell killed Ethan  in round 1
+Boostio killed m1xwell  in round 1
+C0M killed AvovA  in round 1
+Boo killed C0M  in round 1
+Boostio killed Boo  in round 1
+Round 1 ended with elimination. The winning team is Evil Geniuses.
+The current score is Evil Geniuses 1 - 0 Team Heretics.
+JAWGEMO killed zeek  in round 2
+Ethan killed Boo  in round 2
+AvovA killed JAWGEMO  in round 2
+BcJ killed AvovA  in round 2
+m1xwell killed Ethan  in round 2
+BcJ killed m1xwell  in round 2
+keloqz killed BcJ  in round 2
+Boostio killed keloqz  in round 2
+Round 2 ended with elimination. The winning team is Evil Geniuses.
+The current score is Evil Geniuses 2 - 0 Team Heretics.
+AvovA killed JAWGEMO  in round 3
+Ethan killed AvovA  in round 3
+Boo killed Ethan  in round 3
+keloqz killed C0M  in round 3
+keloqz killed BcJ  in round 3
+Boostio killed Boo  in round 3
+Boostio killed m1xwell  in round 3
+zeek killed Boostio  in round 3
+Round 3 ended with spike_defuse. The winning team is Team Heretics.
+The current score is Evil Geniuses 2 - 1 Team Heretics.
+Ethan killed zeek  in round 4
+keloqz killed JAWGEMO  in round 4
+Boo killed C0M  in round 4
+keloqz killed Boostio  in round 4
+keloqz killed Ethan  in round 4
+AvovA killed BcJ  in round 4
+m1xwell killed m1xwell  in round 4
+Round 4 ended with detonate. The winning team is Evil Geniuses.
+The current score is Evil Geniuses 3 - 1 Team Heretics.
+keloqz killed Boostio  in round 5
+zeek killed C0M  in round 5
+JAWGEMO killed AvovA  in round 5
+keloqz killed JAWGEMO  in round 5
+m1xwell killed Ethan  in round 5
+m1xwell killed BcJ  in round 5
+Round 5 ended with elimination. The winning team is Team Heretics.
+The current score is Evil Geniuses 3 - 2 Team Heretics.
+zeek killed BcJ  in round 6
+Boostio killed m1xwell  in round 6
+keloqz killed Ethan  in round 6
+AvovA killed Boostio  in round 6
+keloqz killed JAWGEMO  in round 6
+keloqz killed C0M  in round 6
+Round 6 ended with elimination. The winning team is Team Heretics.
+The current score is Evil Geniuses 3 - 3 Team Heretics.
+JAWGEMO killed zeek  in round 7
+m1xwell killed JAWGEMO  in round 7
+C0M killed m1xwell  in round 7
+Ethan killed keloqz  in round 7
+Ethan killed AvovA  in round 7
+Boostio killed Boo  in round 7
+Round 7 ended with elimination. The winning team is Evil Geniuses.
+The current score is Evil Geniuses 4 - 3 Team Heretics.
+keloqz killed Boostio  in round 8
+keloqz killed C0M  in round 8
+keloqz killed BcJ  in round 8
+keloqz killed JAWGEMO  in round 8
+Ethan killed keloqz  in round 8
+Ethan killed AvovA  in round 8
+Ethan killed zeek  in round 8
+Boo killed Ethan  in round 8
+Round 8 ended with elimination. The winning team is Team Heretics.
+The current score is Evil Geniuses 4 - 4 Team Heretics.
+keloqz killed Boostio  in round 9
+zeek killed BcJ  in round 9
+Ethan killed keloqz  in round 9
+Boo killed Ethan  in round 9
+m1xwell killed C0M  in round 9
+JAWGEMO killed AvovA  in round 9
+JAWGEMO killed Boo  in round 9
+C0M killed zeek  in round 9
+m1xwell killed JAWGEMO  in round 9
+Round 9 ended with detonate. The winning team is Evil Geniuses.
+The current score is Evil Geniuses 5 - 4 Team Heretics.
+JAWGEMO killed Boo  in round 10
+Ethan killed m1xwell  in round 10
+zeek killed Ethan  in round 10
+JAWGEMO killed AvovA  in round 10
+C0M killed keloqz  in round 10
+zeek killed JAWGEMO  in round 10
+C0M killed zeek  in round 10
+Round 10 ended with elimination. The winning team is Evil Geniuses.
+The current score is Evil Geniuses 6 - 4 Team Heretics.
+AvovA killed Ethan  in round 11
+JAWGEMO killed AvovA  in round 11
+Boo killed C0M  in round 11
+zeek killed JAWGEMO  in round 11
+keloqz killed Boostio  in round 11
+Boo killed BcJ  in round 11
+Round 11 ended with spike_defuse. The winning team is Team Heretics.
+The current score is Evil Geniuses 6 - 5 Team Heretics.
+zeek killed JAWGEMO  in round 12
+C0M killed zeek  in round 12
+Boo killed C0M  in round 12
+keloqz killed Ethan  in round 12
+m1xwell killed BcJ  in round 12
+Boostio killed m1xwell  in round 12
+keloqz killed Boostio  in round 12
+Round 12 ended with elimination. The winning team is Team Heretics.
+The current score is Evil Geniuses 6 - 6 Team Heretics.
+JAWGEMO killed keloqz  in round 13
+C0M killed AvovA  in round 13
+zeek killed C0M  in round 13
+Ethan killed m1xwell  in round 13
+JAWGEMO killed zeek  in round 13
+Boo killed JAWGEMO  in round 13
+BcJ killed Boo  in round 13
+Round 13 ended with elimination. The winning team is Evil Geniuses.
+The current score is Evil Geniuses 7 - 6 Team Heretics.
+Ethan killed Boo  in round 14
+Ethan killed zeek  in round 14
+Ethan killed AvovA  in round 14
+m1xwell killed Ethan  in round 14
+Boostio killed m1xwell  in round 14
+C0M killed keloqz  in round 14
+Round 14 ended with elimination. The winning team is Evil Geniuses.
+The current score is Evil Geniuses 8 - 6 Team Heretics.
+AvovA killed JAWGEMO  in round 15
+C0M killed AvovA  in round 15
+BcJ killed zeek  in round 15
+keloqz killed BcJ  in round 15
+C0M killed Boo  in round 15
+Boostio killed m1xwell  in round 15
+C0M killed keloqz  in round 15
+Round 15 ended with elimination. The winning team is Evil Geniuses.
+The current score is Evil Geniuses 9 - 6 Team Heretics.
+Ethan killed keloqz  in round 16
+Ethan killed zeek  in round 16
+m1xwell killed Ethan  in round 16
+m1xwell killed Boostio  in round 16
+AvovA killed JAWGEMO  in round 16
+BcJ killed AvovA  in round 16
+BcJ killed m1xwell  in round 16
+Boo killed BcJ  in round 16
+Boo killed C0M  in round 16
+Round 16 ended with elimination. The winning team is Team Heretics.
+The current score is Evil Geniuses 9 - 7 Team Heretics.
+keloqz killed BcJ  in round 17
+Ethan killed keloqz  in round 17
+zeek killed C0M  in round 17
+AvovA killed Boostio  in round 17
+JAWGEMO killed m1xwell  in round 17
+Round 17 ended with detonate. The winning team is Team Heretics.
+The current score is Evil Geniuses 9 - 8 Team Heretics.
+JAWGEMO killed keloqz  in round 18
+zeek killed JAWGEMO  in round 18
+BcJ killed AvovA  in round 18
+C0M killed Boo  in round 18
+m1xwell killed C0M  in round 18
+BcJ killed zeek  in round 18
+Ethan killed m1xwell  in round 18
+Round 18 ended with elimination. The winning team is Evil Geniuses.
+The current score is Evil Geniuses 10 - 8 Team Heretics.
+Ethan killed Boo  in round 19
+Boostio killed m1xwell  in round 19
+Boostio killed zeek  in round 19
+keloqz killed C0M  in round 19
+Ethan killed AvovA  in round 19
+Boostio killed keloqz  in round 19
+Round 19 ended with elimination. The winning team is Evil Geniuses.
+The current score is Evil Geniuses 11 - 8 Team Heretics.
+C0M killed keloqz  in round 20
+C0M killed m1xwell  in round 20
+zeek killed C0M  in round 20
+JAWGEMO killed zeek  in round 20
+JAWGEMO killed AvovA  in round 20
+Ethan killed Boo  in round 20
+Round 20 ended with elimination. The winning team is Evil Geniuses.
+The current score is Evil Geniuses 12 - 8 Team Heretics.
+m1xwell killed JAWGEMO  in round 21
+Ethan killed keloqz  in round 21
+m1xwell killed Ethan  in round 21
+BcJ killed m1xwell  in round 21
+BcJ killed Boo  in round 21
+zeek killed BcJ  in round 21
+zeek killed Boostio  in round 21
+C0M killed AvovA  in round 21
+C0M killed zeek  in round 21
+Round 21 ended with spike_defuse. The winning team is Evil Geniuses.
+The current score is Evil Geniuses 13 - 8 Team Heretics.
+Game ended with winning team: Evil Geniuses at 2023-02-15T17:54:20Z
+
+--- Player Stats ---
+keloqz: Team=Team Heretics, Kills=23, Deaths=15, Assists=0, KDA=1.53, First Kills=5, First Deaths=4
+m1xwell: Team=Team Heretics, Kills=15, Deaths=17, Assists=10, KDA=1.47, First Kills=1, First Deaths=0
+Boo: Team=Team Heretics, Kills=11, Deaths=13, Assists=3, KDA=1.08, First Kills=0, First Deaths=3
+AvovA: Team=Team Heretics, Kills=8, Deaths=17, Assists=4, KDA=0.71, First Kills=3, First Deaths=0
+zeek: Team=Team Heretics, Kills=14, Deaths=16, Assists=14, KDA=1.75, First Kills=2, First Deaths=3
+BcJ: Team=Evil Geniuses, Kills=10, Deaths=14, Assists=11, KDA=1.5, First Kills=0, First Deaths=3
+Ethan: Team=Evil Geniuses, Kills=24, Deaths=14, Assists=9, KDA=2.36, First Kills=4, First Deaths=1
+JAWGEMO: Team=Evil Geniuses, Kills=14, Deaths=16, Assists=5, KDA=1.19, First Kills=5, First Deaths=4
+C0M: Team=Evil Geniuses, Kills=16, Deaths=15, Assists=10, KDA=1.73, First Kills=1, First Deaths=0
+Boostio: Team=Evil Geniuses, Kills=13, Deaths=11, Assists=4, KDA=1.55, First Kills=0, First Deaths=3

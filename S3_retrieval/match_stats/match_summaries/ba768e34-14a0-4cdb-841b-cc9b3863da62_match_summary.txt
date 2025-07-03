@@ -1,0 +1,219 @@
+Team 1: LOUD
+Team 2: Team Liquid
+Participating Players:
+Player 1: Jamppi
+Player 2: Sayf
+Player 3: Redgar
+Player 4: nAts
+Player 5: soulcas
+Player 6: aspas
+Player 7: cauanzin
+Player 8: Saadhak
+Player 9: Less
+Player 10: tuyz
+Winning Team: LOUD
+Score: LOUD 13 - 8 Team Liquid
+Tournament Name: vct champions 2023
+Game Start Time: 2023-08-10T20:00:09Z
+Game End Time: 2023-08-10T21:01:38Z
+Rounds ended by ELIMINATION count: 13
+Rounds ended by DEFUSE count: 3
+Rounds ended by DETONATE count: 3
+SPIKE PLANTED count: 6
+platformGameId: val:ba768e34-14a0-4cdb-841b-cc9b3863da62
+
+--- Events ---
+Game started at 2023-08-10T20:00:09Z
+Sayf killed Less  in round 1
+cauanzin killed Sayf  in round 1
+Redgar killed Saadhak  in round 1
+tuyz killed Redgar  in round 1
+tuyz killed soulcas  in round 1
+tuyz killed Jamppi  in round 1
+nAts killed aspas  in round 1
+cauanzin killed nAts  in round 1
+Round 1 ended with elimination. The winning team is LOUD.
+The current score is LOUD 1 - 0 Team Liquid.
+aspas killed Jamppi  in round 2
+Sayf killed aspas  in round 2
+Saadhak killed Sayf  in round 2
+Round 2 ended with detonate. The winning team is LOUD.
+The current score is LOUD 2 - 0 Team Liquid.
+Redgar killed Redgar  in round 3
+soulcas killed soulcas  in round 3
+nAts killed nAts  in round 3
+aspas killed nAts  in round 3
+Saadhak killed Sayf  in round 3
+tuyz killed Redgar  in round 3
+Saadhak killed Jamppi  in round 3
+Round 3 ended with detonate. The winning team is LOUD.
+The current score is LOUD 3 - 0 Team Liquid.
+soulcas killed Saadhak  in round 4
+Less killed Jamppi  in round 4
+soulcas killed Less  in round 4
+Redgar killed cauanzin  in round 4
+Saadhak killed Redgar  in round 4
+Sayf killed tuyz  in round 4
+Sayf killed Saadhak  in round 4
+soulcas killed aspas  in round 4
+Round 4 ended with elimination. The winning team is Team Liquid.
+The current score is LOUD 3 - 1 Team Liquid.
+cauanzin killed nAts  in round 5
+Sayf killed Saadhak  in round 5
+Sayf killed cauanzin  in round 5
+soulcas killed aspas  in round 5
+Redgar killed Less  in round 5
+Redgar killed tuyz  in round 5
+Round 5 ended with elimination. The winning team is Team Liquid.
+The current score is LOUD 3 - 2 Team Liquid.
+tuyz killed Jamppi  in round 6
+nAts killed cauanzin  in round 6
+Saadhak killed nAts  in round 6
+tuyz killed Redgar  in round 6
+Round 6 ended with detonate. The winning team is LOUD.
+The current score is LOUD 4 - 2 Team Liquid.
+aspas killed Sayf  in round 7
+nAts killed aspas  in round 7
+Redgar killed Saadhak  in round 7
+nAts killed Less  in round 7
+tuyz killed Redgar  in round 7
+cauanzin killed nAts  in round 7
+tuyz killed Jamppi  in round 7
+cauanzin killed soulcas  in round 7
+Round 7 ended with elimination. The winning team is LOUD.
+The current score is LOUD 5 - 2 Team Liquid.
+Jamppi killed Saadhak  in round 8
+Redgar killed cauanzin  in round 8
+Redgar killed aspas  in round 8
+Redgar killed tuyz  in round 8
+Round 8 ended with spike_defuse. The winning team is Team Liquid.
+The current score is LOUD 5 - 3 Team Liquid.
+Sayf killed Less  in round 9
+Redgar killed Saadhak  in round 9
+nAts killed aspas  in round 9
+Jamppi killed Less  in round 9
+Round 9 ended with time_expired. The winning team is Team Liquid.
+The current score is LOUD 5 - 4 Team Liquid.
+nAts killed aspas  in round 10
+Sayf killed Saadhak  in round 10
+cauanzin killed nAts  in round 10
+Jamppi killed cauanzin  in round 10
+Less killed soulcas  in round 10
+Less killed Redgar  in round 10
+tuyz killed Jamppi  in round 10
+Less killed Sayf  in round 10
+Round 10 ended with elimination. The winning team is LOUD.
+The current score is LOUD 6 - 4 Team Liquid.
+aspas killed Redgar  in round 11
+cauanzin killed nAts  in round 11
+soulcas killed Saadhak  in round 11
+soulcas killed aspas  in round 11
+cauanzin killed Sayf  in round 11
+cauanzin killed soulcas  in round 11
+Jamppi killed Less  in round 11
+Jamppi killed cauanzin  in round 11
+Jamppi killed tuyz  in round 11
+Round 11 ended with spike_defuse. The winning team is Team Liquid.
+The current score is LOUD 6 - 5 Team Liquid.
+Sayf killed aspas  in round 12
+Jamppi killed cauanzin  in round 12
+Less killed Jamppi  in round 12
+soulcas killed Less  in round 12
+Sayf killed Saadhak  in round 12
+tuyz killed soulcas  in round 12
+Sayf killed tuyz  in round 12
+Round 12 ended with elimination. The winning team is Team Liquid.
+The current score is LOUD 6 - 6 Team Liquid.
+Jamppi killed Saadhak  in round 13
+Redgar killed tuyz  in round 13
+Less killed Redgar  in round 13
+soulcas killed cauanzin  in round 13
+soulcas killed aspas  in round 13
+Sayf killed Less  in round 13
+Round 13 ended with elimination. The winning team is Team Liquid.
+The current score is LOUD 6 - 7 Team Liquid.
+Jamppi killed cauanzin  in round 14
+Sayf killed Less  in round 14
+Saadhak killed Sayf  in round 14
+Saadhak killed nAts  in round 14
+Jamppi killed Saadhak  in round 14
+Redgar killed tuyz  in round 14
+aspas killed Redgar  in round 14
+soulcas killed aspas  in round 14
+Round 14 ended with elimination. The winning team is Team Liquid.
+The current score is LOUD 6 - 8 Team Liquid.
+Saadhak killed Jamppi  in round 15
+aspas killed soulcas  in round 15
+Less killed Sayf  in round 15
+Redgar killed aspas  in round 15
+cauanzin killed Redgar  in round 15
+Saadhak killed nAts  in round 15
+Round 15 ended with elimination. The winning team is LOUD.
+The current score is LOUD 7 - 8 Team Liquid.
+Sayf killed aspas  in round 16
+tuyz killed Redgar  in round 16
+tuyz killed Sayf  in round 16
+tuyz killed nAts  in round 16
+soulcas killed tuyz  in round 16
+Jamppi killed Saadhak  in round 16
+Saadhak killed soulcas  in round 16
+cauanzin killed Jamppi  in round 16
+Round 16 ended with spike_defuse. The winning team is LOUD.
+The current score is LOUD 8 - 8 Team Liquid.
+Saadhak killed Jamppi  in round 17
+Redgar killed aspas  in round 17
+Saadhak killed soulcas  in round 17
+Less killed Redgar  in round 17
+cauanzin killed nAts  in round 17
+Sayf killed Less  in round 17
+Sayf killed Saadhak  in round 17
+Round 17 ended with time_expired. The winning team is LOUD.
+The current score is LOUD 9 - 8 Team Liquid.
+Sayf killed cauanzin  in round 18
+Saadhak killed Jamppi  in round 18
+nAts killed aspas  in round 18
+Redgar killed cauanzin  in round 18
+Saadhak killed soulcas  in round 18
+tuyz killed Redgar  in round 18
+Less killed Sayf  in round 18
+nAts killed tuyz  in round 18
+Saadhak killed nAts  in round 18
+Round 18 ended with elimination. The winning team is LOUD.
+The current score is LOUD 10 - 8 Team Liquid.
+aspas killed Sayf  in round 19
+aspas killed Jamppi  in round 19
+Less killed nAts  in round 19
+Less killed Redgar  in round 19
+soulcas killed Less  in round 19
+Saadhak killed soulcas  in round 19
+Round 19 ended with elimination. The winning team is LOUD.
+The current score is LOUD 11 - 8 Team Liquid.
+cauanzin killed Jamppi  in round 20
+aspas killed Sayf  in round 20
+aspas killed nAts  in round 20
+tuyz killed soulcas  in round 20
+tuyz killed Redgar  in round 20
+Round 20 ended with elimination. The winning team is LOUD.
+The current score is LOUD 12 - 8 Team Liquid.
+cauanzin killed Jamppi  in round 21
+soulcas killed tuyz  in round 21
+aspas killed nAts  in round 21
+Sayf killed aspas  in round 21
+Less killed Redgar  in round 21
+cauanzin killed Sayf  in round 21
+Saadhak killed soulcas  in round 21
+Round 21 ended with elimination. The winning team is LOUD.
+The current score is LOUD 13 - 8 Team Liquid.
+Game ended with winning team: LOUD at 2023-08-10T21:01:38Z
+
+--- Player Stats ---
+Jamppi: Team=Team Liquid, Kills=11, Deaths=15, Assists=1, KDA=0.8, First Kills=3, First Deaths=6
+Sayf: Team=Team Liquid, Kills=18, Deaths=13, Assists=5, KDA=1.77, First Kills=5, First Deaths=2
+Redgar: Team=Team Liquid, Kills=15, Deaths=17, Assists=8, KDA=1.35, First Kills=1, First Deaths=2
+nAts: Team=Team Liquid, Kills=9, Deaths=16, Assists=3, KDA=0.75, First Kills=1, First Deaths=1
+soulcas: Team=Team Liquid, Kills=14, Deaths=13, Assists=5, KDA=1.46, First Kills=1, First Deaths=0
+aspas: Team=LOUD, Kills=11, Deaths=17, Assists=5, KDA=0.94, First Kills=4, First Deaths=3
+cauanzin: Team=LOUD, Kills=15, Deaths=11, Assists=2, KDA=1.55, First Kills=3, First Deaths=2
+Saadhak: Team=LOUD, Kills=17, Deaths=14, Assists=7, KDA=1.71, First Kills=2, First Deaths=3
+Less: Team=LOUD, Kills=12, Deaths=12, Assists=3, KDA=1.25, First Kills=0, First Deaths=2
+tuyz: Team=LOUD, Kills=16, Deaths=10, Assists=9, KDA=2.5, First Kills=1, First Deaths=0

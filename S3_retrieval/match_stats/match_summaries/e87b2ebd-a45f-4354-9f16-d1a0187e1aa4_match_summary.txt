@@ -1,0 +1,222 @@
+Team 1: None
+Team 2: None
+Participating Players:
+Player 1: Surf
+Player 2: Crws
+Player 3: foxz
+Player 4: CGRS
+Player 5: sScary
+Player 6: None
+Player 7: None
+Player 8: Meteor 
+Player 9: JoxJo
+Player 10: xnfri
+Winning Team: None
+Score: None 13 - 8 None
+Tournament Name: masters 2 2022 stage 1
+Game Start Time: 2022-07-12T17:33:49Z
+Game End Time: 2022-07-12T18:19:06Z
+Rounds ended by ELIMINATION count: 17
+Rounds ended by DEFUSE count: 2
+Rounds ended by DETONATE count: 2
+SPIKE PLANTED count: 4
+platformGameId: val:e87b2ebd-a45f-4354-9f16-d1a0187e1aa4
+
+--- Events ---
+Game started at 2022-07-12T17:33:49Z
+foxz killed xnfri  in round 1
+None killed foxz  in round 1
+Surf killed None  in round 1
+Meteor  killed Crws  in round 1
+Meteor  killed Surf  in round 1
+CGRS killed Meteor   in round 1
+sScary killed JoxJo  in round 1
+None killed CGRS  in round 1
+Round 1 ended with spike_defuse. The winning team is None.
+The current score is None 0 - 1 None.
+sScary killed None  in round 2
+CGRS killed Meteor   in round 2
+foxz killed JoxJo  in round 2
+None killed foxz  in round 2
+Crws killed None  in round 2
+Crws killed None  in round 2
+Surf killed xnfri  in round 2
+Round 2 ended with elimination. The winning team is None.
+The current score is None 0 - 2 None.
+None killed sScary  in round 3
+None killed Surf  in round 3
+JoxJo killed Crws  in round 3
+None killed foxz  in round 3
+Meteor  killed CGRS  in round 3
+Round 3 ended with elimination. The winning team is None.
+The current score is None 1 - 2 None.
+None killed sScary  in round 4
+Meteor  killed Surf  in round 4
+JoxJo killed foxz  in round 4
+None killed Crws  in round 4
+Round 4 ended with detonate. The winning team is None.
+The current score is None 2 - 2 None.
+None killed Surf  in round 5
+JoxJo killed sScary  in round 5
+None killed CGRS  in round 5
+Meteor  killed Crws  in round 5
+None killed foxz  in round 5
+Round 5 ended with elimination. The winning team is None.
+The current score is None 3 - 2 None.
+None killed CGRS  in round 6
+foxz killed None  in round 6
+Crws killed xnfri  in round 6
+sScary killed JoxJo  in round 6
+None killed Surf  in round 6
+None killed Crws  in round 6
+sScary killed None  in round 6
+Meteor  killed sScary  in round 6
+Meteor  killed foxz  in round 6
+Round 6 ended with elimination. The winning team is None.
+The current score is None 4 - 2 None.
+None killed CGRS  in round 7
+JoxJo killed Surf  in round 7
+JoxJo killed foxz  in round 7
+Crws killed None  in round 7
+JoxJo killed Crws  in round 7
+Meteor  killed sScary  in round 7
+Round 7 ended with elimination. The winning team is None.
+The current score is None 5 - 2 None.
+None killed foxz  in round 8
+None killed Crws  in round 8
+sScary killed None  in round 8
+Meteor  killed Surf  in round 8
+CGRS killed None  in round 8
+Meteor  killed CGRS  in round 8
+JoxJo killed sScary  in round 8
+Round 8 ended with elimination. The winning team is None.
+The current score is None 6 - 2 None.
+CGRS killed None  in round 9
+JoxJo killed Surf  in round 9
+Meteor  killed Crws  in round 9
+foxz killed Meteor   in round 9
+xnfri killed foxz  in round 9
+None killed CGRS  in round 9
+xnfri killed sScary  in round 9
+Round 9 ended with elimination. The winning team is None.
+The current score is None 7 - 2 None.
+Meteor  killed sScary  in round 10
+CGRS killed Meteor   in round 10
+CGRS killed None  in round 10
+None killed CGRS  in round 10
+None killed foxz  in round 10
+xnfri killed Crws  in round 10
+Round 10 ended with detonate. The winning team is None.
+The current score is None 8 - 2 None.
+Surf killed None  in round 11
+JoxJo killed Surf  in round 11
+Crws killed JoxJo  in round 11
+foxz killed None  in round 11
+CGRS killed xnfri  in round 11
+Crws killed Meteor   in round 11
+Round 11 ended with elimination. The winning team is None.
+The current score is None 8 - 3 None.
+CGRS killed None  in round 12
+xnfri killed Crws  in round 12
+CGRS killed Meteor   in round 12
+CGRS killed xnfri  in round 12
+JoxJo killed sScary  in round 12
+JoxJo killed CGRS  in round 12
+foxz killed JoxJo  in round 12
+foxz killed None  in round 12
+Round 12 ended with elimination. The winning team is None.
+The current score is None 8 - 4 None.
+CGRS killed Meteor   in round 13
+xnfri killed Surf  in round 13
+Crws killed xnfri  in round 13
+JoxJo killed Crws  in round 13
+JoxJo killed sScary  in round 13
+None killed CGRS  in round 13
+foxz killed None  in round 13
+foxz killed JoxJo  in round 13
+None killed foxz  in round 13
+Round 13 ended with spike_defuse. The winning team is None.
+The current score is None 9 - 4 None.
+xnfri killed Surf  in round 14
+sScary killed xnfri  in round 14
+foxz killed JoxJo  in round 14
+None killed foxz  in round 14
+sScary killed None  in round 14
+None killed sScary  in round 14
+CGRS killed None  in round 14
+Meteor  killed CGRS  in round 14
+Meteor  killed Crws  in round 14
+Round 14 ended with elimination. The winning team is None.
+The current score is None 10 - 4 None.
+None killed foxz  in round 15
+xnfri killed Surf  in round 15
+xnfri killed Crws  in round 15
+None killed sScary  in round 15
+Meteor  killed CGRS  in round 15
+Round 15 ended with elimination. The winning team is None.
+The current score is None 11 - 4 None.
+CGRS killed Meteor   in round 16
+None killed foxz  in round 16
+Crws killed None  in round 16
+None killed CGRS  in round 16
+Crws killed None  in round 16
+xnfri killed Crws  in round 16
+xnfri killed sScary  in round 16
+Surf killed xnfri  in round 16
+JoxJo killed Surf  in round 16
+JoxJo killed JoxJo  in round 16
+Round 16 ended with elimination. The winning team is None.
+The current score is None 11 - 5 None.
+None killed Surf  in round 17
+Meteor  killed Crws  in round 17
+foxz killed None  in round 17
+Meteor  killed sScary  in round 17
+Meteor  killed CGRS  in round 17
+JoxJo killed foxz  in round 17
+Round 17 ended with elimination. The winning team is None.
+The current score is None 12 - 5 None.
+foxz killed None  in round 18
+xnfri killed Surf  in round 18
+None killed Crws  in round 18
+JoxJo killed CGRS  in round 18
+foxz killed xnfri  in round 18
+Meteor  killed sScary  in round 18
+foxz killed None  in round 18
+foxz killed Meteor   in round 18
+foxz killed JoxJo  in round 18
+Round 18 ended with elimination. The winning team is None.
+The current score is None 12 - 6 None.
+Meteor  killed sScary  in round 19
+Crws killed Meteor   in round 19
+foxz killed xnfri  in round 19
+foxz killed JoxJo  in round 19
+Surf killed None  in round 19
+Surf killed None  in round 19
+Round 19 ended with elimination. The winning team is None.
+The current score is None 12 - 7 None.
+foxz killed JoxJo  in round 20
+sScary killed None  in round 20
+sScary killed None  in round 20
+sScary killed Meteor   in round 20
+sScary killed xnfri  in round 20
+Round 20 ended with elimination. The winning team is None.
+The current score is None 12 - 8 None.
+Meteor  killed Surf  in round 21
+None killed CGRS  in round 21
+None killed sScary  in round 21
+JoxJo killed foxz  in round 21
+JoxJo killed Crws  in round 21
+Round 21 ended with elimination. The winning team is None.
+The current score is None 13 - 8 None.
+Game ended with winning team: None at 2022-07-12T18:19:06Z
+
+--- Player Stats ---
+Surf: Team=None, Kills=6, Deaths=16, Assists=0, KDA=0.38, First Kills=1, First Deaths=4
+Crws: Team=None, Kills=10, Deaths=17, Assists=5, KDA=0.88, First Kills=0, First Deaths=0
+foxz: Team=None, Kills=19, Deaths=16, Assists=7, KDA=1.62, First Kills=3, First Deaths=2
+CGRS: Team=None, Kills=13, Deaths=16, Assists=4, KDA=1.06, First Kills=4, First Deaths=2
+sScary: Team=None, Kills=11, Deaths=17, Assists=9, KDA=1.18, First Kills=1, First Deaths=4
+None: Team=None, Kills=32, Deaths=27, Assists=9, KDA=1.52, First Kills=8, First Deaths=5
+Meteor : Team=None, Kills=21, Deaths=11, Assists=4, KDA=2.27, First Kills=3, First Deaths=2
+JoxJo: Team=None, Kills=19, Deaths=11, Assists=11, KDA=2.73, First Kills=0, First Deaths=1
+xnfri: Team=None, Kills=11, Deaths=11, Assists=13, KDA=2.18, First Kills=1, First Deaths=1

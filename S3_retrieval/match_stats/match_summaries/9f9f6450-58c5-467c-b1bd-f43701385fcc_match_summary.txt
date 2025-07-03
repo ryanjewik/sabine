@@ -1,0 +1,204 @@
+Team 1: Karmine Corp
+Team 2: BBL Esports
+Participating Players:
+Player 1: Brave
+Player 2: QutionerX
+Player 3: pAura
+Player 4: Reazy
+Player 5: Elite
+Player 6: Shin 
+Player 7: Tomaszy
+Player 8: MAGNUM
+Player 9: marteen
+Player 10: N4RRATE
+Winning Team: Karmine Corp
+Score: Karmine Corp 13 - 6 BBL Esports
+Tournament Name: vct emea stage 2 2024
+Game Start Time: 2024-06-21T15:44:55Z
+Game End Time: 2024-06-21T16:41:13Z
+Rounds ended by ELIMINATION count: 10
+Rounds ended by DEFUSE count: 6
+Rounds ended by DETONATE count: 2
+SPIKE PLANTED count: 8
+platformGameId: val:9f9f6450-58c5-467c-b1bd-f43701385fcc
+
+--- Events ---
+Game started at 2024-06-21T15:44:55Z
+QutionerX killed Shin   in round 1
+Tomaszy killed QutionerX  in round 1
+N4RRATE killed Brave  in round 1
+marteen killed pAura  in round 1
+MAGNUM killed Reazy  in round 1
+MAGNUM killed Elite  in round 1
+Round 1 ended with elimination. The winning team is Karmine Corp.
+The current score is Karmine Corp 1 - 0 BBL Esports.
+Reazy killed MAGNUM  in round 2
+Round 2 ended with detonate. The winning team is Karmine Corp.
+The current score is Karmine Corp 2 - 0 BBL Esports.
+Elite killed Elite  in round 3
+QutionerX killed QutionerX  in round 3
+pAura killed pAura  in round 3
+Brave killed Brave  in round 3
+Reazy killed Reazy  in round 3
+MAGNUM killed pAura  in round 3
+Tomaszy killed QutionerX  in round 3
+Brave killed MAGNUM  in round 3
+Brave killed N4RRATE  in round 3
+Reazy killed marteen  in round 3
+Tomaszy killed Brave  in round 3
+Shin  killed Elite  in round 3
+Reazy killed Shin   in round 3
+Reazy killed Tomaszy  in round 3
+Round 3 ended with spike_defuse. The winning team is BBL Esports.
+The current score is Karmine Corp 2 - 1 BBL Esports.
+pAura killed MAGNUM  in round 4
+pAura killed marteen  in round 4
+pAura killed Shin   in round 4
+QutionerX killed N4RRATE  in round 4
+QutionerX killed Tomaszy  in round 4
+Round 4 ended with elimination. The winning team is BBL Esports.
+The current score is Karmine Corp 2 - 2 BBL Esports.
+marteen killed QutionerX  in round 5
+marteen killed pAura  in round 5
+Reazy killed marteen  in round 5
+Elite killed MAGNUM  in round 5
+Shin  killed Elite  in round 5
+Shin  killed Brave  in round 5
+Reazy killed Shin   in round 5
+Tomaszy killed Reazy  in round 5
+Round 5 ended with elimination. The winning team is Karmine Corp.
+The current score is Karmine Corp 3 - 2 BBL Esports.
+QutionerX killed Tomaszy  in round 6
+Reazy killed marteen  in round 6
+MAGNUM killed pAura  in round 6
+N4RRATE killed Reazy  in round 6
+Elite killed Shin   in round 6
+N4RRATE killed Elite  in round 6
+N4RRATE killed QutionerX  in round 6
+Brave killed N4RRATE  in round 6
+MAGNUM killed Brave  in round 6
+Round 6 ended with elimination. The winning team is Karmine Corp.
+The current score is Karmine Corp 4 - 2 BBL Esports.
+Shin  killed Brave  in round 7
+Reazy killed Tomaszy  in round 7
+QutionerX killed N4RRATE  in round 7
+QutionerX killed Shin   in round 7
+QutionerX killed MAGNUM  in round 7
+marteen killed QutionerX  in round 7
+Elite killed marteen  in round 7
+Round 7 ended with elimination. The winning team is BBL Esports.
+The current score is Karmine Corp 4 - 3 BBL Esports.
+Brave killed MAGNUM  in round 8
+Brave killed Shin   in round 8
+Tomaszy killed Brave  in round 8
+Reazy killed marteen  in round 8
+Tomaszy killed Reazy  in round 8
+Elite killed Tomaszy  in round 8
+N4RRATE killed QutionerX  in round 8
+pAura killed N4RRATE  in round 8
+Round 8 ended with spike_defuse. The winning team is BBL Esports.
+The current score is Karmine Corp 4 - 4 BBL Esports.
+N4RRATE killed pAura  in round 9
+MAGNUM killed Reazy  in round 9
+Round 9 ended with detonate. The winning team is Karmine Corp.
+The current score is Karmine Corp 5 - 4 BBL Esports.
+Brave killed MAGNUM  in round 10
+Reazy killed N4RRATE  in round 10
+Reazy killed Tomaszy  in round 10
+Round 10 ended with time_expired. The winning team is BBL Esports.
+The current score is Karmine Corp 5 - 5 BBL Esports.
+marteen killed Elite  in round 11
+pAura killed MAGNUM  in round 11
+Tomaszy killed pAura  in round 11
+QutionerX killed Shin   in round 11
+marteen killed QutionerX  in round 11
+N4RRATE killed Brave  in round 11
+N4RRATE killed Reazy  in round 11
+Round 11 ended with elimination. The winning team is Karmine Corp.
+The current score is Karmine Corp 6 - 5 BBL Esports.
+Elite killed Shin   in round 12
+MAGNUM killed Reazy  in round 12
+Elite killed marteen  in round 12
+QutionerX killed MAGNUM  in round 12
+Tomaszy killed pAura  in round 12
+Brave killed N4RRATE  in round 12
+Tomaszy killed QutionerX  in round 12
+Elite killed Tomaszy  in round 12
+Round 12 ended with spike_defuse. The winning team is BBL Esports.
+The current score is Karmine Corp 6 - 6 BBL Esports.
+Elite killed marteen  in round 13
+MAGNUM killed QutionerX  in round 13
+MAGNUM killed Brave  in round 13
+Shin  killed Reazy  in round 13
+MAGNUM killed pAura  in round 13
+Elite killed N4RRATE  in round 13
+Elite killed MAGNUM  in round 13
+Elite killed Shin   in round 13
+Tomaszy killed Elite  in round 13
+Round 13 ended with spike_defuse. The winning team is Karmine Corp.
+The current score is Karmine Corp 7 - 6 BBL Esports.
+N4RRATE killed QutionerX  in round 14
+N4RRATE killed Reazy  in round 14
+marteen killed pAura  in round 14
+marteen killed Elite  in round 14
+Shin  killed Brave  in round 14
+Round 14 ended with elimination. The winning team is Karmine Corp.
+The current score is Karmine Corp 8 - 6 BBL Esports.
+MAGNUM killed Brave  in round 15
+Tomaszy killed QutionerX  in round 15
+Elite killed Shin   in round 15
+N4RRATE killed Elite  in round 15
+pAura killed MAGNUM  in round 15
+N4RRATE killed pAura  in round 15
+N4RRATE killed Reazy  in round 15
+Round 15 ended with elimination. The winning team is Karmine Corp.
+The current score is Karmine Corp 9 - 6 BBL Esports.
+Tomaszy killed Elite  in round 16
+N4RRATE killed Brave  in round 16
+Reazy killed marteen  in round 16
+Tomaszy killed Reazy  in round 16
+N4RRATE killed pAura  in round 16
+QutionerX killed Tomaszy  in round 16
+N4RRATE killed QutionerX  in round 16
+Round 16 ended with elimination. The winning team is Karmine Corp.
+The current score is Karmine Corp 10 - 6 BBL Esports.
+N4RRATE killed pAura  in round 17
+marteen killed QutionerX  in round 17
+Brave killed marteen  in round 17
+N4RRATE killed Brave  in round 17
+Shin  killed Elite  in round 17
+Reazy killed Shin   in round 17
+MAGNUM killed Reazy  in round 17
+Round 17 ended with elimination. The winning team is Karmine Corp.
+The current score is Karmine Corp 11 - 6 BBL Esports.
+Shin  killed QutionerX  in round 18
+pAura killed Tomaszy  in round 18
+Brave killed Shin   in round 18
+MAGNUM killed Reazy  in round 18
+MAGNUM killed Brave  in round 18
+MAGNUM killed Elite  in round 18
+marteen killed pAura  in round 18
+Round 18 ended with spike_defuse. The winning team is Karmine Corp.
+The current score is Karmine Corp 12 - 6 BBL Esports.
+Tomaszy killed Elite  in round 19
+Reazy killed Shin   in round 19
+Tomaszy killed pAura  in round 19
+N4RRATE killed Brave  in round 19
+Tomaszy killed QutionerX  in round 19
+Reazy killed Tomaszy  in round 19
+N4RRATE killed Reazy  in round 19
+Round 19 ended with spike_defuse. The winning team is Karmine Corp.
+The current score is Karmine Corp 13 - 6 BBL Esports.
+Game ended with winning team: Karmine Corp at 2024-06-21T16:41:13Z
+
+--- Player Stats ---
+Brave: Team=BBL Esports, Kills=10, Deaths=15, Assists=3, KDA=0.87, First Kills=2, First Deaths=2
+QutionerX: Team=BBL Esports, Kills=11, Deaths=16, Assists=7, KDA=1.12, First Kills=2, First Deaths=3
+pAura: Team=BBL Esports, Kills=8, Deaths=15, Assists=4, KDA=0.8, First Kills=1, First Deaths=2
+Reazy: Team=BBL Esports, Kills=16, Deaths=15, Assists=1, KDA=1.13, First Kills=1, First Deaths=0
+Elite: Team=BBL Esports, Kills=13, Deaths=13, Assists=2, KDA=1.15, First Kills=3, First Deaths=4
+Shin : Team=Karmine Corp, Kills=8, Deaths=14, Assists=11, KDA=1.36, First Kills=2, First Deaths=2
+Tomaszy: Team=Karmine Corp, Kills=16, Deaths=10, Assists=2, KDA=1.8, First Kills=2, First Deaths=1
+MAGNUM: Team=Karmine Corp, Kills=15, Deaths=11, Assists=3, KDA=1.64, First Kills=1, First Deaths=4
+marteen: Team=Karmine Corp, Kills=10, Deaths=10, Assists=3, KDA=1.3, First Kills=2, First Deaths=1
+N4RRATE: Team=Karmine Corp, Kills=20, Deaths=8, Assists=10, KDA=3.75, First Kills=3, First Deaths=0

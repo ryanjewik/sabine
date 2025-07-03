@@ -1,0 +1,238 @@
+Team 1: None
+Team 2: Leviatán Esports
+Participating Players:
+Player 1: Melser
+Player 2: Shyy
+Player 3: kiNgg
+Player 4: adverso
+Player 5: Tacolilla
+Player 6: BcJ
+Player 7: zekken
+Player 8: dephh
+Player 9: AYRIN
+Player 10: Cryo
+Winning Team: None
+Score: None 13 - 9 Leviatán Esports
+Tournament Name: masters 2 2022 stage 2
+Game Start Time: 2022-07-16T18:14:52Z
+Game End Time: 2022-07-16T19:23:14Z
+Rounds ended by ELIMINATION count: 16
+Rounds ended by DEFUSE count: 3
+Rounds ended by DETONATE count: 2
+SPIKE PLANTED count: 5
+platformGameId: val:4dc2fe77-00fc-4e88-a8fa-699e98aa036b
+
+--- Events ---
+Game started at 2022-07-16T18:14:52Z
+Shyy killed AYRIN  in round 1
+BcJ killed Shyy  in round 1
+Tacolilla killed BcJ  in round 1
+kiNgg killed Cryo  in round 1
+Melser killed zekken  in round 1
+Melser killed dephh  in round 1
+Round 1 ended with elimination. The winning team is Leviatán Esports.
+The current score is None 0 - 1 Leviatán Esports.
+adverso killed BcJ  in round 2
+Shyy killed AYRIN  in round 2
+dephh killed Shyy  in round 2
+zekken killed adverso  in round 2
+Cryo killed Tacolilla  in round 2
+kiNgg killed Cryo  in round 2
+zekken killed kiNgg  in round 2
+zekken killed Melser  in round 2
+Round 2 ended with elimination. The winning team is None.
+The current score is None 1 - 1 Leviatán Esports.
+dephh killed kiNgg  in round 3
+dephh killed adverso  in round 3
+BcJ killed Tacolilla  in round 3
+AYRIN killed Melser  in round 3
+Cryo killed Shyy  in round 3
+Round 3 ended with elimination. The winning team is None.
+The current score is None 2 - 1 Leviatán Esports.
+zekken killed Tacolilla  in round 4
+Shyy killed dephh  in round 4
+Cryo killed kiNgg  in round 4
+BcJ killed Melser  in round 4
+Shyy killed AYRIN  in round 4
+zekken killed Shyy  in round 4
+adverso killed zekken  in round 4
+Cryo killed adverso  in round 4
+Round 4 ended with elimination. The winning team is None.
+The current score is None 3 - 1 Leviatán Esports.
+dephh killed Melser  in round 5
+Cryo killed adverso  in round 5
+Tacolilla killed dephh  in round 5
+Round 5 ended with detonate. The winning team is None.
+The current score is None 4 - 1 Leviatán Esports.
+kiNgg killed kiNgg  in round 6
+Tacolilla killed Tacolilla  in round 6
+Shyy killed Shyy  in round 6
+zekken killed adverso  in round 6
+Shyy killed dephh  in round 6
+Cryo killed Shyy  in round 6
+Tacolilla killed BcJ  in round 6
+Melser killed Cryo  in round 6
+kiNgg killed AYRIN  in round 6
+zekken killed Melser  in round 6
+zekken killed Tacolilla  in round 6
+kiNgg killed zekken  in round 6
+Round 6 ended with spike_defuse. The winning team is Leviatán Esports.
+The current score is None 4 - 2 Leviatán Esports.
+Cryo killed Tacolilla  in round 7
+kiNgg killed zekken  in round 7
+zekken killed kiNgg  in round 7
+Melser killed dephh  in round 7
+Melser killed AYRIN  in round 7
+Melser killed Cryo  in round 7
+BcJ killed adverso  in round 7
+Round 7 ended with time_expired. The winning team is Leviatán Esports.
+The current score is None 4 - 3 Leviatán Esports.
+Shyy killed BcJ  in round 8
+zekken killed kiNgg  in round 8
+BcJ killed Tacolilla  in round 8
+adverso killed dephh  in round 8
+zekken killed adverso  in round 8
+Cryo killed Melser  in round 8
+Cryo killed Shyy  in round 8
+Round 8 ended with elimination. The winning team is None.
+The current score is None 5 - 3 Leviatán Esports.
+dephh killed Melser  in round 9
+adverso killed dephh  in round 9
+adverso killed AYRIN  in round 9
+zekken killed adverso  in round 9
+Shyy killed zekken  in round 9
+BcJ killed Shyy  in round 9
+BcJ killed kiNgg  in round 9
+Cryo killed Tacolilla  in round 9
+Round 9 ended with elimination. The winning team is None.
+The current score is None 6 - 3 Leviatán Esports.
+kiNgg killed Cryo  in round 10
+kiNgg killed AYRIN  in round 10
+BcJ killed kiNgg  in round 10
+BcJ killed adverso  in round 10
+zekken killed Melser  in round 10
+Round 10 ended with detonate. The winning team is None.
+The current score is None 7 - 3 Leviatán Esports.
+zekken killed Tacolilla  in round 11
+Cryo killed adverso  in round 11
+kiNgg killed Cryo  in round 11
+AYRIN killed Shyy  in round 11
+kiNgg killed AYRIN  in round 11
+dephh killed kiNgg  in round 11
+dephh killed Melser  in round 11
+Round 11 ended with elimination. The winning team is None.
+The current score is None 8 - 3 Leviatán Esports.
+Tacolilla killed dephh  in round 12
+zekken killed Melser  in round 12
+Shyy killed zekken  in round 12
+kiNgg killed AYRIN  in round 12
+Shyy killed BcJ  in round 12
+kiNgg killed Cryo  in round 12
+Round 12 ended with elimination. The winning team is Leviatán Esports.
+The current score is None 8 - 4 Leviatán Esports.
+Shyy killed BcJ  in round 13
+zekken killed Shyy  in round 13
+AYRIN killed kiNgg  in round 13
+adverso killed zekken  in round 13
+adverso killed AYRIN  in round 13
+adverso killed dephh  in round 13
+Tacolilla killed Cryo  in round 13
+Round 13 ended with elimination. The winning team is Leviatán Esports.
+The current score is None 8 - 5 Leviatán Esports.
+AYRIN killed Shyy  in round 14
+kiNgg killed AYRIN  in round 14
+kiNgg killed BcJ  in round 14
+Melser killed Cryo  in round 14
+zekken killed kiNgg  in round 14
+Melser killed zekken  in round 14
+Melser killed dephh  in round 14
+Round 14 ended with elimination. The winning team is Leviatán Esports.
+The current score is None 8 - 6 Leviatán Esports.
+zekken killed kiNgg  in round 15
+BcJ killed adverso  in round 15
+BcJ killed Tacolilla  in round 15
+Shyy killed BcJ  in round 15
+dephh killed Shyy  in round 15
+zekken killed Melser  in round 15
+Round 15 ended with spike_defuse. The winning team is None.
+The current score is None 9 - 6 Leviatán Esports.
+Tacolilla killed zekken  in round 16
+BcJ killed Shyy  in round 16
+Cryo killed kiNgg  in round 16
+BcJ killed adverso  in round 16
+Cryo killed Tacolilla  in round 16
+Melser killed BcJ  in round 16
+Melser killed AYRIN  in round 16
+Melser killed Cryo  in round 16
+Melser killed dephh  in round 16
+Round 16 ended with elimination. The winning team is Leviatán Esports.
+The current score is None 9 - 7 Leviatán Esports.
+kiNgg killed Cryo  in round 17
+kiNgg killed dephh  in round 17
+zekken killed adverso  in round 17
+AYRIN killed kiNgg  in round 17
+AYRIN killed Shyy  in round 17
+Tacolilla killed zekken  in round 17
+Melser killed BcJ  in round 17
+Melser killed AYRIN  in round 17
+Round 17 ended with elimination. The winning team is Leviatán Esports.
+The current score is None 9 - 8 Leviatán Esports.
+zekken killed kiNgg  in round 18
+zekken killed Shyy  in round 18
+dephh killed Melser  in round 18
+adverso killed zekken  in round 18
+Tacolilla killed AYRIN  in round 18
+BcJ killed adverso  in round 18
+dephh killed Tacolilla  in round 18
+Round 18 ended with spike_defuse. The winning team is None.
+The current score is None 10 - 8 Leviatán Esports.
+BcJ killed Tacolilla  in round 19
+Cryo killed Melser  in round 19
+Shyy killed zekken  in round 19
+dephh killed adverso  in round 19
+AYRIN killed Shyy  in round 19
+Cryo killed kiNgg  in round 19
+Round 19 ended with elimination. The winning team is None.
+The current score is None 11 - 8 Leviatán Esports.
+Cryo killed kiNgg  in round 20
+BcJ killed adverso  in round 20
+Tacolilla killed zekken  in round 20
+BcJ killed Tacolilla  in round 20
+Shyy killed BcJ  in round 20
+Cryo killed Melser  in round 20
+AYRIN killed Shyy  in round 20
+Round 20 ended with elimination. The winning team is None.
+The current score is None 12 - 8 Leviatán Esports.
+kiNgg killed dephh  in round 21
+AYRIN killed Melser  in round 21
+Shyy killed AYRIN  in round 21
+Cryo killed Tacolilla  in round 21
+adverso killed zekken  in round 21
+Cryo killed adverso  in round 21
+BcJ killed Shyy  in round 21
+kiNgg killed Cryo  in round 21
+kiNgg killed BcJ  in round 21
+Round 21 ended with elimination. The winning team is Leviatán Esports.
+The current score is None 12 - 9 Leviatán Esports.
+adverso killed Cryo  in round 22
+AYRIN killed adverso  in round 22
+BcJ killed Shyy  in round 22
+AYRIN killed Melser  in round 22
+kiNgg killed BcJ  in round 22
+AYRIN killed Tacolilla  in round 22
+Cryo killed kiNgg  in round 22
+Round 22 ended with elimination. The winning team is None.
+The current score is None 13 - 9 Leviatán Esports.
+Game ended with winning team: None at 2022-07-16T19:23:14Z
+
+--- Player Stats ---
+Melser: Team=Leviatán Esports, Kills=15, Deaths=16, Assists=6, KDA=1.31, First Kills=0, First Deaths=2
+Shyy: Team=Leviatán Esports, Kills=15, Deaths=19, Assists=8, KDA=1.21, First Kills=3, First Deaths=1
+kiNgg: Team=Leviatán Esports, Kills=20, Deaths=18, Assists=2, KDA=1.22, First Kills=4, First Deaths=5
+adverso: Team=Leviatán Esports, Kills=11, Deaths=18, Assists=10, KDA=1.17, First Kills=2, First Deaths=0
+Tacolilla: Team=Leviatán Esports, Kills=10, Deaths=16, Assists=6, KDA=1.0, First Kills=2, First Deaths=4
+BcJ: Team=None, Kills=19, Deaths=13, Assists=6, KDA=1.92, First Kills=1, First Deaths=3
+zekken: Team=None, Kills=22, Deaths=14, Assists=9, KDA=2.21, First Kills=4, First Deaths=1
+dephh: Team=None, Kills=11, Deaths=13, Assists=10, KDA=1.62, First Kills=3, First Deaths=2
+AYRIN: Team=None, Kills=12, Deaths=15, Assists=12, KDA=1.6, First Kills=1, First Deaths=1
+Cryo: Team=None, Kills=20, Deaths=13, Assists=4, KDA=1.85, First Kills=2, First Deaths=3

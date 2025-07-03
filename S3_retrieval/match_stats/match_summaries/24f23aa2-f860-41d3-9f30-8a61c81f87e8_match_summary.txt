@@ -1,0 +1,269 @@
+Team 1: MIBR
+Team 2: KRÜ Esports
+Participating Players:
+Player 1: DAVEEYS
+Player 2: Klaus
+Player 3: Melser
+Player 4: KeznitdeuS
+Player 5: NagZet
+Player 6: frz
+Player 7: rglmeister
+Player 8: murizzz
+Player 9: heat
+Player 10: jzz
+Winning Team: MIBR
+Score: MIBR 14 - 12 KRÜ Esports
+Tournament Name: vct americas 2023
+Game Start Time: 2023-04-10T00:11:58Z
+Game End Time: 2023-04-10T01:17:34Z
+Rounds ended by ELIMINATION count: 13
+Rounds ended by DEFUSE count: 11
+Rounds ended by DETONATE count: 2
+SPIKE PLANTED count: 13
+platformGameId: val:24f23aa2-f860-41d3-9f30-8a61c81f87e8
+
+--- Events ---
+Game started at 2023-04-10T00:11:58Z
+KeznitdeuS killed jzz  in round 1
+KeznitdeuS killed rglmeister  in round 1
+heat killed Klaus  in round 1
+KeznitdeuS killed heat  in round 1
+murizzz killed KeznitdeuS  in round 1
+Melser killed frz  in round 1
+NagZet killed murizzz  in round 1
+Round 1 ended with spike_defuse. The winning team is KRÜ Esports.
+The current score is MIBR 0 - 1 KRÜ Esports.
+NagZet killed rglmeister  in round 2
+jzz killed Melser  in round 2
+Klaus killed jzz  in round 2
+murizzz killed Klaus  in round 2
+murizzz killed NagZet  in round 2
+DAVEEYS killed frz  in round 2
+DAVEEYS killed heat  in round 2
+KeznitdeuS killed murizzz  in round 2
+Round 2 ended with spike_defuse. The winning team is KRÜ Esports.
+The current score is MIBR 0 - 2 KRÜ Esports.
+KeznitdeuS killed jzz  in round 3
+NagZet killed frz  in round 3
+Melser killed rglmeister  in round 3
+heat killed DAVEEYS  in round 3
+Round 3 ended with spike_defuse. The winning team is KRÜ Esports.
+The current score is MIBR 0 - 3 KRÜ Esports.
+murizzz killed NagZet  in round 4
+DAVEEYS killed frz  in round 4
+KeznitdeuS killed heat  in round 4
+NagZet killed murizzz  in round 4
+NagZet killed jzz  in round 4
+KeznitdeuS killed rglmeister  in round 4
+Round 4 ended with spike_defuse. The winning team is KRÜ Esports.
+The current score is MIBR 0 - 4 KRÜ Esports.
+frz killed KeznitdeuS  in round 5
+frz killed Klaus  in round 5
+DAVEEYS killed frz  in round 5
+Melser killed murizzz  in round 5
+heat killed NagZet  in round 5
+rglmeister killed Melser  in round 5
+jzz killed DAVEEYS  in round 5
+Round 5 ended with elimination. The winning team is MIBR.
+The current score is MIBR 1 - 4 KRÜ Esports.
+heat killed KeznitdeuS  in round 6
+heat killed Klaus  in round 6
+heat killed DAVEEYS  in round 6
+heat killed Melser  in round 6
+NagZet killed heat  in round 6
+Round 6 ended with detonate. The winning team is MIBR.
+The current score is MIBR 2 - 4 KRÜ Esports.
+murizzz killed NagZet  in round 7
+KeznitdeuS killed heat  in round 7
+KeznitdeuS killed frz  in round 7
+Melser killed jzz  in round 7
+rglmeister killed Melser  in round 7
+murizzz killed NagZet  in round 7
+murizzz killed DAVEEYS  in round 7
+murizzz killed Klaus  in round 7
+murizzz killed KeznitdeuS  in round 7
+Round 7 ended with elimination. The winning team is MIBR.
+The current score is MIBR 3 - 4 KRÜ Esports.
+KeznitdeuS killed rglmeister  in round 8
+murizzz killed NagZet  in round 8
+Melser killed heat  in round 8
+frz killed Melser  in round 8
+KeznitdeuS killed frz  in round 8
+jzz killed KeznitdeuS  in round 8
+murizzz killed DAVEEYS  in round 8
+jzz killed Klaus  in round 8
+Round 8 ended with elimination. The winning team is MIBR.
+The current score is MIBR 4 - 4 KRÜ Esports.
+murizzz killed KeznitdeuS  in round 9
+heat killed NagZet  in round 9
+murizzz killed Klaus  in round 9
+murizzz killed Melser  in round 9
+murizzz killed DAVEEYS  in round 9
+Round 9 ended with elimination. The winning team is MIBR.
+The current score is MIBR 5 - 4 KRÜ Esports.
+KeznitdeuS killed rglmeister  in round 10
+KeznitdeuS killed heat  in round 10
+jzz killed Klaus  in round 10
+murizzz killed KeznitdeuS  in round 10
+DAVEEYS killed murizzz  in round 10
+frz killed Melser  in round 10
+NagZet killed frz  in round 10
+jzz killed DAVEEYS  in round 10
+jzz killed NagZet  in round 10
+Round 10 ended with elimination. The winning team is MIBR.
+The current score is MIBR 6 - 4 KRÜ Esports.
+KeznitdeuS killed rglmeister  in round 11
+jzz killed KeznitdeuS  in round 11
+heat killed Klaus  in round 11
+frz killed DAVEEYS  in round 11
+heat killed Melser  in round 11
+NagZet killed jzz  in round 11
+heat killed NagZet  in round 11
+Round 11 ended with elimination. The winning team is MIBR.
+The current score is MIBR 7 - 4 KRÜ Esports.
+rglmeister killed Melser  in round 12
+rglmeister killed NagZet  in round 12
+murizzz killed Klaus  in round 12
+heat killed DAVEEYS  in round 12
+Round 12 ended with spike_defuse. The winning team is KRÜ Esports.
+The current score is MIBR 7 - 5 KRÜ Esports.
+frz killed KeznitdeuS  in round 13
+jzz killed Klaus  in round 13
+KeznitdeuS killed jzz  in round 13
+rglmeister killed DAVEEYS  in round 13
+KeznitdeuS killed heat  in round 13
+NagZet killed frz  in round 13
+Melser killed murizzz  in round 13
+Melser killed rglmeister  in round 13
+Round 13 ended with elimination. The winning team is KRÜ Esports.
+The current score is MIBR 7 - 6 KRÜ Esports.
+Klaus killed jzz  in round 14
+DAVEEYS killed heat  in round 14
+rglmeister killed KeznitdeuS  in round 14
+DAVEEYS killed murizzz  in round 14
+rglmeister killed Melser  in round 14
+Round 14 ended with detonate. The winning team is KRÜ Esports.
+The current score is MIBR 7 - 7 KRÜ Esports.
+rglmeister killed rglmeister  in round 15
+frz killed frz  in round 15
+rglmeister killed NagZet  in round 15
+murizzz killed Klaus  in round 15
+jzz killed Melser  in round 15
+frz killed DAVEEYS  in round 15
+frz killed KeznitdeuS  in round 15
+Round 15 ended with spike_defuse. The winning team is MIBR.
+The current score is MIBR 8 - 7 KRÜ Esports.
+NagZet killed heat  in round 16
+jzz killed NagZet  in round 16
+DAVEEYS killed jzz  in round 16
+murizzz killed Melser  in round 16
+murizzz killed KeznitdeuS  in round 16
+murizzz killed Klaus  in round 16
+Round 16 ended with spike_defuse. The winning team is MIBR.
+The current score is MIBR 9 - 7 KRÜ Esports.
+rglmeister killed DAVEEYS  in round 17
+KeznitdeuS killed murizzz  in round 17
+frz killed DAVEEYS  in round 17
+NagZet killed frz  in round 17
+jzz killed NagZet  in round 17
+Klaus killed jzz  in round 17
+KeznitdeuS killed rglmeister  in round 17
+KeznitdeuS killed heat  in round 17
+Round 17 ended with elimination. The winning team is KRÜ Esports.
+The current score is MIBR 9 - 8 KRÜ Esports.
+heat killed Klaus  in round 18
+heat killed DAVEEYS  in round 18
+KeznitdeuS killed frz  in round 18
+murizzz killed Melser  in round 18
+heat killed KeznitdeuS  in round 18
+jzz killed NagZet  in round 18
+Round 18 ended with spike_defuse. The winning team is MIBR.
+The current score is MIBR 10 - 8 KRÜ Esports.
+Melser killed heat  in round 19
+Melser killed jzz  in round 19
+rglmeister killed KeznitdeuS  in round 19
+Klaus killed murizzz  in round 19
+frz killed Klaus  in round 19
+DAVEEYS killed rglmeister  in round 19
+frz killed NagZet  in round 19
+frz killed DAVEEYS  in round 19
+Round 19 ended with spike_defuse. The winning team is MIBR.
+The current score is MIBR 11 - 8 KRÜ Esports.
+frz killed Melser  in round 20
+murizzz killed KeznitdeuS  in round 20
+murizzz killed Klaus  in round 20
+Melser killed murizzz  in round 20
+Melser killed frz  in round 20
+jzz killed DAVEEYS  in round 20
+rglmeister killed NagZet  in round 20
+jzz killed Melser  in round 20
+Round 20 ended with spike_defuse. The winning team is MIBR.
+The current score is MIBR 12 - 8 KRÜ Esports.
+heat killed Klaus  in round 21
+NagZet killed frz  in round 21
+Melser killed murizzz  in round 21
+jzz killed DAVEEYS  in round 21
+KeznitdeuS killed jzz  in round 21
+rglmeister killed KeznitdeuS  in round 21
+NagZet killed heat  in round 21
+Melser killed rglmeister  in round 21
+Round 21 ended with elimination. The winning team is KRÜ Esports.
+The current score is MIBR 12 - 9 KRÜ Esports.
+Melser killed Melser  in round 22
+DAVEEYS killed frz  in round 22
+KeznitdeuS killed murizzz  in round 22
+Klaus killed rglmeister  in round 22
+jzz killed DAVEEYS  in round 22
+KeznitdeuS killed jzz  in round 22
+KeznitdeuS killed heat  in round 22
+Round 22 ended with elimination. The winning team is KRÜ Esports.
+The current score is MIBR 12 - 10 KRÜ Esports.
+DAVEEYS killed heat  in round 23
+Klaus killed murizzz  in round 23
+NagZet killed jzz  in round 23
+KeznitdeuS killed rglmeister  in round 23
+NagZet killed frz  in round 23
+Round 23 ended with elimination. The winning team is KRÜ Esports.
+The current score is MIBR 12 - 11 KRÜ Esports.
+jzz killed DAVEEYS  in round 24
+Klaus killed frz  in round 24
+rglmeister killed Klaus  in round 24
+KeznitdeuS killed rglmeister  in round 24
+NagZet killed murizzz  in round 24
+NagZet killed jzz  in round 24
+heat killed NagZet  in round 24
+KeznitdeuS killed heat  in round 24
+Round 24 ended with elimination. The winning team is KRÜ Esports.
+The current score is MIBR 12 - 12 KRÜ Esports.
+heat killed NagZet  in round 25
+frz killed Melser  in round 25
+heat killed Klaus  in round 25
+DAVEEYS killed rglmeister  in round 25
+DAVEEYS killed frz  in round 25
+DAVEEYS killed jzz  in round 25
+heat killed DAVEEYS  in round 25
+heat killed KeznitdeuS  in round 25
+Round 25 ended with elimination. The winning team is MIBR.
+The current score is MIBR 13 - 12 KRÜ Esports.
+heat killed KeznitdeuS  in round 26
+frz killed Melser  in round 26
+DAVEEYS killed murizzz  in round 26
+frz killed DAVEEYS  in round 26
+heat killed NagZet  in round 26
+Klaus killed jzz  in round 26
+rglmeister killed Klaus  in round 26
+Round 26 ended with spike_defuse. The winning team is MIBR.
+The current score is MIBR 14 - 12 KRÜ Esports.
+Game ended with winning team: MIBR at 2023-04-10T01:17:34Z
+
+--- Player Stats ---
+DAVEEYS: Team=KRÜ Esports, Kills=15, Deaths=21, Assists=8, KDA=1.1, First Kills=1, First Deaths=2
+Klaus: Team=KRÜ Esports, Kills=8, Deaths=20, Assists=16, KDA=1.2, First Kills=1, First Deaths=2
+Melser: Team=KRÜ Esports, Kills=14, Deaths=18, Assists=6, KDA=1.11, First Kills=2, First Deaths=3
+KeznitdeuS: Team=KRÜ Esports, Kills=27, Deaths=18, Assists=2, KDA=1.61, First Kills=5, First Deaths=5
+NagZet: Team=KRÜ Esports, Kills=17, Deaths=19, Assists=6, KDA=1.21, First Kills=2, First Deaths=3
+frz: Team=MIBR, Kills=17, Deaths=18, Assists=4, KDA=1.17, First Kills=3, First Deaths=0
+rglmeister: Team=MIBR, Kills=15, Deaths=16, Assists=8, KDA=1.44, First Kills=3, First Deaths=5
+murizzz: Team=MIBR, Kills=24, Deaths=15, Assists=9, KDA=2.2, First Kills=3, First Deaths=0
+heat: Team=MIBR, Kills=23, Deaths=16, Assists=3, KDA=1.62, First Kills=5, First Deaths=3
+jzz: Team=MIBR, Kills=18, Deaths=17, Assists=17, KDA=2.06, First Kills=1, First Deaths=3

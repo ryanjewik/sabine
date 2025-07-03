@@ -1,0 +1,256 @@
+Team 1: Gen.G Esports
+Team 2: LOUD
+Participating Players:
+Player 1: QcK
+Player 2: cauanzin
+Player 3: Saadhak
+Player 4: Less
+Player 5: tuyz
+Player 6: t3xture
+Player 7: Lakia
+Player 8: Munchkin
+Player 9: Meteor 
+Player 10: Karon
+Winning Team: Gen.G Esports
+Score: Gen.G Esports 13 - 11 LOUD
+Tournament Name: vct masters madrid 2024
+Game Start Time: 2024-03-14T17:24:33Z
+Game End Time: 2024-03-14T18:27:07Z
+Rounds ended by ELIMINATION count: 18
+Rounds ended by DEFUSE count: 5
+Rounds ended by DETONATE count: 1
+SPIKE PLANTED count: 6
+platformGameId: val:a2e4040e-25d8-400a-b7f5-7204e75aa4db
+
+--- Events ---
+Game started at 2024-03-14T17:24:33Z
+cauanzin killed Munchkin  in round 1
+Saadhak killed t3xture  in round 1
+Saadhak killed Meteor   in round 1
+Karon killed Saadhak  in round 1
+Less killed Lakia  in round 1
+cauanzin killed Karon  in round 1
+Round 1 ended with spike_defuse. The winning team is LOUD.
+The current score is Gen.G Esports 0 - 1 LOUD.
+cauanzin killed t3xture  in round 2
+Karon killed cauanzin  in round 2
+Less killed Lakia  in round 2
+tuyz killed Meteor   in round 2
+Munchkin killed Less  in round 2
+Saadhak killed Munchkin  in round 2
+Saadhak killed Karon  in round 2
+Round 2 ended with elimination. The winning team is LOUD.
+The current score is Gen.G Esports 0 - 2 LOUD.
+QcK killed Munchkin  in round 3
+QcK killed t3xture  in round 3
+Meteor  killed cauanzin  in round 3
+Saadhak killed Meteor   in round 3
+Less killed Lakia  in round 3
+Less killed Karon  in round 3
+Round 3 ended with elimination. The winning team is LOUD.
+The current score is Gen.G Esports 0 - 3 LOUD.
+Saadhak killed Lakia  in round 4
+t3xture killed cauanzin  in round 4
+Saadhak killed Meteor   in round 4
+Less killed Munchkin  in round 4
+Less killed Karon  in round 4
+t3xture killed Saadhak  in round 4
+Less killed t3xture  in round 4
+Round 4 ended with elimination. The winning team is LOUD.
+The current score is Gen.G Esports 0 - 4 LOUD.
+t3xture killed Less  in round 5
+Karon killed QcK  in round 5
+t3xture killed tuyz  in round 5
+Saadhak killed Meteor   in round 5
+Karon killed cauanzin  in round 5
+Saadhak killed t3xture  in round 5
+Munchkin killed Saadhak  in round 5
+Round 5 ended with elimination. The winning team is Gen.G Esports.
+The current score is Gen.G Esports 1 - 4 LOUD.
+t3xture killed QcK  in round 6
+Less killed Lakia  in round 6
+Meteor  killed Less  in round 6
+tuyz killed Meteor   in round 6
+t3xture killed tuyz  in round 6
+cauanzin killed Munchkin  in round 6
+Karon killed Saadhak  in round 6
+t3xture killed cauanzin  in round 6
+Round 6 ended with elimination. The winning team is Gen.G Esports.
+The current score is Gen.G Esports 2 - 4 LOUD.
+cauanzin killed Less  in round 7
+cauanzin killed t3xture  in round 7
+Lakia killed cauanzin  in round 7
+Lakia killed Saadhak  in round 7
+QcK killed Lakia  in round 7
+QcK killed Meteor   in round 7
+Round 7 ended with detonate. The winning team is Gen.G Esports.
+The current score is Gen.G Esports 3 - 4 LOUD.
+QcK killed Karon  in round 8
+Meteor  killed Less  in round 8
+t3xture killed cauanzin  in round 8
+Meteor  killed tuyz  in round 8
+Lakia killed Saadhak  in round 8
+QcK killed Lakia  in round 8
+QcK killed Munchkin  in round 8
+Meteor  killed QcK  in round 8
+Round 8 ended with elimination. The winning team is Gen.G Esports.
+The current score is Gen.G Esports 4 - 4 LOUD.
+Karon killed QcK  in round 9
+Meteor  killed tuyz  in round 9
+cauanzin killed Meteor   in round 9
+Karon killed cauanzin  in round 9
+Less killed Karon  in round 9
+t3xture killed Saadhak  in round 9
+t3xture killed Less  in round 9
+Round 9 ended with elimination. The winning team is Gen.G Esports.
+The current score is Gen.G Esports 5 - 4 LOUD.
+cauanzin killed Lakia  in round 10
+Less killed t3xture  in round 10
+Less killed Karon  in round 10
+Saadhak killed Meteor   in round 10
+Munchkin killed cauanzin  in round 10
+Munchkin killed Saadhak  in round 10
+QcK killed Munchkin  in round 10
+Round 10 ended with spike_defuse. The winning team is LOUD.
+The current score is Gen.G Esports 5 - 5 LOUD.
+Karon killed Saadhak  in round 11
+QcK killed t3xture  in round 11
+Lakia killed QcK  in round 11
+tuyz killed Lakia  in round 11
+Munchkin killed tuyz  in round 11
+cauanzin killed Munchkin  in round 11
+Karon killed cauanzin  in round 11
+Less killed Meteor   in round 11
+Karon killed Less  in round 11
+Round 11 ended with elimination. The winning team is Gen.G Esports.
+The current score is Gen.G Esports 6 - 5 LOUD.
+QcK killed Lakia  in round 12
+Meteor  killed QcK  in round 12
+Saadhak killed Karon  in round 12
+Saadhak killed t3xture  in round 12
+Meteor  killed tuyz  in round 12
+Meteor  killed Less  in round 12
+cauanzin killed Meteor   in round 12
+cauanzin killed Munchkin  in round 12
+Round 12 ended with spike_defuse. The winning team is LOUD.
+The current score is Gen.G Esports 6 - 6 LOUD.
+Munchkin killed QcK  in round 13
+Less killed Karon  in round 13
+t3xture killed Saadhak  in round 13
+Lakia killed Less  in round 13
+tuyz killed Munchkin  in round 13
+t3xture killed tuyz  in round 13
+t3xture killed cauanzin  in round 13
+Round 13 ended with elimination. The winning team is Gen.G Esports.
+The current score is Gen.G Esports 7 - 6 LOUD.
+Munchkin killed cauanzin  in round 14
+Munchkin killed tuyz  in round 14
+Munchkin killed QcK  in round 14
+Less killed Munchkin  in round 14
+Lakia killed Saadhak  in round 14
+Karon killed Less  in round 14
+Round 14 ended with elimination. The winning team is Gen.G Esports.
+The current score is Gen.G Esports 8 - 6 LOUD.
+Munchkin killed QcK  in round 15
+Karon killed Saadhak  in round 15
+tuyz killed Karon  in round 15
+tuyz killed Lakia  in round 15
+cauanzin killed Meteor   in round 15
+Munchkin killed cauanzin  in round 15
+tuyz killed Munchkin  in round 15
+t3xture killed Less  in round 15
+t3xture killed tuyz  in round 15
+Round 15 ended with elimination. The winning team is Gen.G Esports.
+The current score is Gen.G Esports 9 - 6 LOUD.
+t3xture killed Saadhak  in round 16
+Lakia killed Less  in round 16
+Meteor  killed QcK  in round 16
+Meteor  killed cauanzin  in round 16
+Karon killed tuyz  in round 16
+Round 16 ended with elimination. The winning team is Gen.G Esports.
+The current score is Gen.G Esports 10 - 6 LOUD.
+Saadhak killed Munchkin  in round 17
+Less killed t3xture  in round 17
+QcK killed Lakia  in round 17
+QcK killed Karon  in round 17
+Meteor  killed QcK  in round 17
+cauanzin killed Meteor   in round 17
+Round 17 ended with elimination. The winning team is LOUD.
+The current score is Gen.G Esports 10 - 7 LOUD.
+Lakia killed QcK  in round 18
+cauanzin killed t3xture  in round 18
+tuyz killed Karon  in round 18
+tuyz killed Meteor   in round 18
+cauanzin killed Munchkin  in round 18
+tuyz killed Lakia  in round 18
+Round 18 ended with elimination. The winning team is LOUD.
+The current score is Gen.G Esports 10 - 8 LOUD.
+Munchkin killed Saadhak  in round 19
+Karon killed cauanzin  in round 19
+Karon killed tuyz  in round 19
+Less killed Karon  in round 19
+Munchkin killed QcK  in round 19
+Less killed Lakia  in round 19
+Meteor  killed Less  in round 19
+Round 19 ended with elimination. The winning team is Gen.G Esports.
+The current score is Gen.G Esports 11 - 8 LOUD.
+Lakia killed tuyz  in round 20
+Munchkin killed cauanzin  in round 20
+Karon killed QcK  in round 20
+Saadhak killed Munchkin  in round 20
+Saadhak killed Karon  in round 20
+Less killed Lakia  in round 20
+Saadhak killed Meteor   in round 20
+Less killed t3xture  in round 20
+Round 20 ended with elimination. The winning team is LOUD.
+The current score is Gen.G Esports 11 - 9 LOUD.
+Less killed Lakia  in round 21
+tuyz killed t3xture  in round 21
+Saadhak killed Karon  in round 21
+Less killed Meteor   in round 21
+cauanzin killed Munchkin  in round 21
+Round 21 ended with elimination. The winning team is LOUD.
+The current score is Gen.G Esports 11 - 10 LOUD.
+Karon killed Less  in round 22
+Karon killed cauanzin  in round 22
+QcK killed Karon  in round 22
+QcK killed Meteor   in round 22
+t3xture killed QcK  in round 22
+Saadhak killed Lakia  in round 22
+Munchkin killed Saadhak  in round 22
+t3xture killed tuyz  in round 22
+Round 22 ended with spike_defuse. The winning team is Gen.G Esports.
+The current score is Gen.G Esports 12 - 10 LOUD.
+t3xture killed Saadhak  in round 23
+t3xture killed QcK  in round 23
+cauanzin killed t3xture  in round 23
+Lakia killed cauanzin  in round 23
+Less killed Lakia  in round 23
+Less killed Meteor   in round 23
+Less killed Munchkin  in round 23
+Less killed Karon  in round 23
+Round 23 ended with elimination. The winning team is LOUD.
+The current score is Gen.G Esports 12 - 11 LOUD.
+Meteor  killed QcK  in round 24
+cauanzin killed Meteor   in round 24
+Munchkin killed Saadhak  in round 24
+Munchkin killed cauanzin  in round 24
+Less killed Munchkin  in round 24
+Less killed t3xture  in round 24
+tuyz killed Lakia  in round 24
+Karon killed tuyz  in round 24
+Round 24 ended with spike_defuse. The winning team is Gen.G Esports.
+The current score is Gen.G Esports 13 - 11 LOUD.
+Game ended with winning team: Gen.G Esports at 2024-03-14T18:27:07Z
+
+--- Player Stats ---
+QcK: Team=LOUD, Kills=14, Deaths=17, Assists=1, KDA=0.88, First Kills=3, First Deaths=6
+cauanzin: Team=LOUD, Kills=18, Deaths=19, Assists=4, KDA=1.16, First Kills=4, First Deaths=1
+Saadhak: Team=LOUD, Kills=18, Deaths=17, Assists=8, KDA=1.53, First Kills=2, First Deaths=4
+Less: Team=LOUD, Kills=27, Deaths=14, Assists=8, KDA=2.5, First Kills=1, First Deaths=3
+tuyz: Team=LOUD, Kills=12, Deaths=14, Assists=5, KDA=1.21, First Kills=0, First Deaths=1
+t3xture: Team=Gen.G Esports, Kills=20, Deaths=15, Assists=5, KDA=1.67, First Kills=4, First Deaths=1
+Lakia: Team=Gen.G Esports, Kills=10, Deaths=19, Assists=6, KDA=0.84, First Kills=2, First Deaths=4
+Munchkin: Team=Gen.G Esports, Kills=17, Deaths=18, Assists=15, KDA=1.78, First Kills=4, First Deaths=3
+Meteor : Team=Gen.G Esports, Kills=14, Deaths=19, Assists=4, KDA=0.95, First Kills=1, First Deaths=0
+Karon: Team=Gen.G Esports, Kills=19, Deaths=17, Assists=3, KDA=1.29, First Kills=3, First Deaths=1

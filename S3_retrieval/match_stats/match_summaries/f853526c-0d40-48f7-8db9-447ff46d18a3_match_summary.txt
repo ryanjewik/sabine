@@ -1,0 +1,241 @@
+Team 1: MIBR
+Team 2: Talon Esports
+Participating Players:
+Player 1: sushiboys
+Player 2: garnetS
+Player 3: Crws
+Player 4: JitBoyS
+Player 5: foxz
+Player 6: frz
+Player 7: jzz
+Player 8: murizzz
+Player 9: rglmeister
+Player 10: heat
+Winning Team: Talon Esports
+Score: MIBR 8 - 13 Talon Esports
+Tournament Name: lock in brazil 2023
+Game Start Time: 2023-02-15T19:24:51Z
+Game End Time: 2023-02-15T20:20:09Z
+Rounds ended by ELIMINATION count: 14
+Rounds ended by DEFUSE count: 4
+Rounds ended by DETONATE count: 3
+SPIKE PLANTED count: 7
+platformGameId: val:f853526c-0d40-48f7-8db9-447ff46d18a3
+
+--- Events ---
+Game started at 2023-02-15T19:24:51Z
+Crws killed heat  in round 1
+foxz killed frz  in round 1
+rglmeister killed sushiboys  in round 1
+murizzz killed JitBoyS  in round 1
+Crws killed rglmeister  in round 1
+jzz killed foxz  in round 1
+jzz killed garnetS  in round 1
+Crws killed jzz  in round 1
+Crws killed murizzz  in round 1
+Round 1 ended with spike_defuse. The winning team is Talon Esports.
+The current score is MIBR 0 - 1 Talon Esports.
+heat killed foxz  in round 2
+Crws killed jzz  in round 2
+JitBoyS killed heat  in round 2
+murizzz killed Crws  in round 2
+frz killed sushiboys  in round 2
+garnetS killed frz  in round 2
+garnetS killed rglmeister  in round 2
+murizzz killed garnetS  in round 2
+murizzz killed JitBoyS  in round 2
+Round 2 ended with elimination. The winning team is MIBR.
+The current score is MIBR 1 - 1 Talon Esports.
+murizzz killed Crws  in round 3
+foxz killed jzz  in round 3
+heat killed foxz  in round 3
+rglmeister killed sushiboys  in round 3
+garnetS killed rglmeister  in round 3
+heat killed garnetS  in round 3
+murizzz killed JitBoyS  in round 3
+Round 3 ended with elimination. The winning team is MIBR.
+The current score is MIBR 2 - 1 Talon Esports.
+garnetS killed heat  in round 4
+garnetS killed murizzz  in round 4
+garnetS killed frz  in round 4
+Crws killed jzz  in round 4
+rglmeister killed garnetS  in round 4
+sushiboys killed rglmeister  in round 4
+Round 4 ended with elimination. The winning team is Talon Esports.
+The current score is MIBR 2 - 2 Talon Esports.
+frz killed foxz  in round 5
+frz killed Crws  in round 5
+garnetS killed rglmeister  in round 5
+garnetS killed heat  in round 5
+jzz killed JitBoyS  in round 5
+murizzz killed garnetS  in round 5
+sushiboys killed jzz  in round 5
+sushiboys killed murizzz  in round 5
+sushiboys killed frz  in round 5
+Round 5 ended with elimination. The winning team is Talon Esports.
+The current score is MIBR 2 - 3 Talon Esports.
+Crws killed jzz  in round 6
+heat killed Crws  in round 6
+heat killed foxz  in round 6
+heat killed garnetS  in round 6
+heat killed JitBoyS  in round 6
+heat killed sushiboys  in round 6
+Round 6 ended with elimination. The winning team is MIBR.
+The current score is MIBR 3 - 3 Talon Esports.
+frz killed garnetS  in round 7
+sushiboys killed heat  in round 7
+sushiboys killed murizzz  in round 7
+sushiboys killed frz  in round 7
+JitBoyS killed jzz  in round 7
+rglmeister killed sushiboys  in round 7
+rglmeister killed JitBoyS  in round 7
+foxz killed rglmeister  in round 7
+Round 7 ended with elimination. The winning team is Talon Esports.
+The current score is MIBR 3 - 4 Talon Esports.
+Crws killed jzz  in round 8
+Crws killed murizzz  in round 8
+rglmeister killed Crws  in round 8
+heat killed foxz  in round 8
+garnetS killed rglmeister  in round 8
+sushiboys killed frz  in round 8
+garnetS killed heat  in round 8
+Round 8 ended with elimination. The winning team is Talon Esports.
+The current score is MIBR 3 - 5 Talon Esports.
+heat killed sushiboys  in round 9
+murizzz killed JitBoyS  in round 9
+garnetS killed murizzz  in round 9
+jzz killed garnetS  in round 9
+Crws killed rglmeister  in round 9
+Crws killed jzz  in round 9
+Crws killed frz  in round 9
+heat killed foxz  in round 9
+Crws killed heat  in round 9
+Round 9 ended with spike_defuse. The winning team is Talon Esports.
+The current score is MIBR 3 - 6 Talon Esports.
+JitBoyS killed heat  in round 10
+garnetS killed jzz  in round 10
+frz killed garnetS  in round 10
+murizzz killed sushiboys  in round 10
+frz killed JitBoyS  in round 10
+Crws killed murizzz  in round 10
+foxz killed frz  in round 10
+foxz killed rglmeister  in round 10
+Round 10 ended with detonate. The winning team is MIBR.
+The current score is MIBR 4 - 6 Talon Esports.
+Crws killed Crws  in round 11
+foxz killed foxz  in round 11
+Crws killed murizzz  in round 11
+jzz killed garnetS  in round 11
+sushiboys killed frz  in round 11
+rglmeister killed sushiboys  in round 11
+rglmeister killed JitBoyS  in round 11
+foxz killed rglmeister  in round 11
+foxz killed heat  in round 11
+foxz killed jzz  in round 11
+Round 11 ended with elimination. The winning team is Talon Esports.
+The current score is MIBR 4 - 7 Talon Esports.
+garnetS killed rglmeister  in round 12
+heat killed foxz  in round 12
+JitBoyS killed jzz  in round 12
+Crws killed frz  in round 12
+murizzz killed garnetS  in round 12
+JitBoyS killed murizzz  in round 12
+heat killed Crws  in round 12
+JitBoyS killed heat  in round 12
+Round 12 ended with elimination. The winning team is Talon Esports.
+The current score is MIBR 4 - 8 Talon Esports.
+JitBoyS killed heat  in round 13
+heat killed JitBoyS  in round 13
+garnetS killed rglmeister  in round 13
+foxz killed jzz  in round 13
+sushiboys killed murizzz  in round 13
+frz killed foxz  in round 13
+frz killed sushiboys  in round 13
+garnetS killed frz  in round 13
+Round 13 ended with elimination. The winning team is Talon Esports.
+The current score is MIBR 4 - 9 Talon Esports.
+jzz killed garnetS  in round 14
+heat killed JitBoyS  in round 14
+foxz killed jzz  in round 14
+sushiboys killed murizzz  in round 14
+heat killed foxz  in round 14
+Crws killed rglmeister  in round 14
+Crws killed heat  in round 14
+frz killed Crws  in round 14
+Round 14 ended with detonate. The winning team is Talon Esports.
+The current score is MIBR 4 - 10 Talon Esports.
+frz killed frz  in round 15
+frz killed JitBoyS  in round 15
+frz killed garnetS  in round 15
+Crws killed jzz  in round 15
+heat killed sushiboys  in round 15
+frz killed Crws  in round 15
+murizzz killed foxz  in round 15
+Round 15 ended with spike_defuse. The winning team is MIBR.
+The current score is MIBR 5 - 10 Talon Esports.
+sushiboys killed murizzz  in round 16
+frz killed JitBoyS  in round 16
+frz killed garnetS  in round 16
+foxz killed rglmeister  in round 16
+frz killed foxz  in round 16
+sushiboys killed frz  in round 16
+Crws killed heat  in round 16
+Crws killed jzz  in round 16
+Round 16 ended with elimination. The winning team is Talon Esports.
+The current score is MIBR 5 - 11 Talon Esports.
+rglmeister killed garnetS  in round 17
+frz killed JitBoyS  in round 17
+jzz killed Crws  in round 17
+heat killed foxz  in round 17
+rglmeister killed sushiboys  in round 17
+Round 17 ended with elimination. The winning team is MIBR.
+The current score is MIBR 6 - 11 Talon Esports.
+murizzz killed JitBoyS  in round 18
+frz killed Crws  in round 18
+heat killed garnetS  in round 18
+heat killed sushiboys  in round 18
+foxz killed heat  in round 18
+jzz killed foxz  in round 18
+Round 18 ended with elimination. The winning team is MIBR.
+The current score is MIBR 7 - 11 Talon Esports.
+garnetS killed rglmeister  in round 19
+garnetS killed frz  in round 19
+sushiboys killed jzz  in round 19
+murizzz killed garnetS  in round 19
+heat killed Crws  in round 19
+murizzz killed JitBoyS  in round 19
+foxz killed murizzz  in round 19
+Round 19 ended with detonate. The winning team is Talon Esports.
+The current score is MIBR 7 - 12 Talon Esports.
+heat killed garnetS  in round 20
+foxz killed rglmeister  in round 20
+sushiboys killed jzz  in round 20
+sushiboys killed heat  in round 20
+murizzz killed JitBoyS  in round 20
+frz killed foxz  in round 20
+murizzz killed sushiboys  in round 20
+murizzz killed Crws  in round 20
+Round 20 ended with spike_defuse. The winning team is MIBR.
+The current score is MIBR 8 - 12 Talon Esports.
+sushiboys killed heat  in round 21
+garnetS killed frz  in round 21
+rglmeister killed garnetS  in round 21
+JitBoyS killed rglmeister  in round 21
+foxz killed murizzz  in round 21
+jzz killed foxz  in round 21
+sushiboys killed jzz  in round 21
+Round 21 ended with elimination. The winning team is Talon Esports.
+The current score is MIBR 8 - 13 Talon Esports.
+Game ended with winning team: Talon Esports at 2023-02-15T20:20:09Z
+
+--- Player Stats ---
+sushiboys: Team=Talon Esports, Kills=18, Deaths=13, Assists=5, KDA=1.77, First Kills=2, First Deaths=1
+garnetS: Team=Talon Esports, Kills=18, Deaths=19, Assists=5, KDA=1.21, First Kills=3, First Deaths=4
+Crws: Team=Talon Esports, Kills=22, Deaths=13, Assists=11, KDA=2.54, First Kills=4, First Deaths=2
+JitBoyS: Team=Talon Esports, Kills=8, Deaths=17, Assists=10, KDA=1.06, First Kills=2, First Deaths=1
+foxz: Team=Talon Esports, Kills=16, Deaths=17, Assists=7, KDA=1.35, First Kills=0, First Deaths=2
+frz: Team=MIBR, Kills=19, Deaths=15, Assists=6, KDA=1.67, First Kills=3, First Deaths=1
+jzz: Team=MIBR, Kills=9, Deaths=19, Assists=4, KDA=0.68, First Kills=1, First Deaths=2
+murizzz: Team=MIBR, Kills=17, Deaths=14, Assists=8, KDA=1.79, First Kills=2, First Deaths=1
+rglmeister: Team=MIBR, Kills=11, Deaths=17, Assists=16, KDA=1.59, First Kills=1, First Deaths=2
+heat: Team=MIBR, Kills=22, Deaths=16, Assists=6, KDA=1.75, First Kills=3, First Deaths=5

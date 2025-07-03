@@ -1,0 +1,223 @@
+Team 1: NOVA ESPORTS
+Team 2: Bilibili Gaming
+Participating Players:
+Player 1: Flex1n
+Player 2: Knight 
+Player 3: nephh
+Player 4: whzy
+Player 5: yosemite
+Player 6: GuanG
+Player 7: cb
+Player 8: o0o0o
+Player 9: Ezeir
+Player 10: Swerl
+Winning Team: Bilibili Gaming
+Score: NOVA ESPORTS 9 - 13 Bilibili Gaming
+Tournament Name: vct cn stage 2 2024
+Game Start Time: 2024-06-23T13:37:18Z
+Game End Time: 2024-06-23T14:24:53Z
+Rounds ended by ELIMINATION count: 12
+Rounds ended by DEFUSE count: 6
+Rounds ended by DETONATE count: 4
+SPIKE PLANTED count: 10
+platformGameId: val:691838f8-4670-45ed-9945-0ada7ca9d397
+
+--- Events ---
+Game started at 2024-06-23T13:37:18Z
+GuanG killed whzy  in round 1
+Swerl killed Knight   in round 1
+yosemite killed o0o0o  in round 1
+yosemite killed Swerl  in round 1
+Ezeir killed yosemite  in round 1
+Flex1n killed cb  in round 1
+GuanG killed Flex1n  in round 1
+Ezeir killed nephh  in round 1
+Round 1 ended with elimination. The winning team is NOVA ESPORTS.
+The current score is NOVA ESPORTS 1 - 0 Bilibili Gaming.
+cb killed nephh  in round 2
+yosemite killed cb  in round 2
+Round 2 ended with detonate. The winning team is NOVA ESPORTS.
+The current score is NOVA ESPORTS 2 - 0 Bilibili Gaming.
+Flex1n killed Flex1n  in round 3
+whzy killed whzy  in round 3
+yosemite killed yosemite  in round 3
+Knight  killed Knight   in round 3
+yosemite killed cb  in round 3
+whzy killed Swerl  in round 3
+whzy killed o0o0o  in round 3
+GuanG killed whzy  in round 3
+nephh killed GuanG  in round 3
+Ezeir killed nephh  in round 3
+Knight  killed Ezeir  in round 3
+Round 3 ended with elimination. The winning team is Bilibili Gaming.
+The current score is NOVA ESPORTS 2 - 1 Bilibili Gaming.
+Flex1n killed Ezeir  in round 4
+Swerl killed yosemite  in round 4
+whzy killed o0o0o  in round 4
+whzy killed cb  in round 4
+Swerl killed Flex1n  in round 4
+Knight  killed Swerl  in round 4
+Knight  killed GuanG  in round 4
+Round 4 ended with spike_defuse. The winning team is Bilibili Gaming.
+The current score is NOVA ESPORTS 2 - 2 Bilibili Gaming.
+whzy killed Swerl  in round 5
+Ezeir killed Flex1n  in round 5
+Knight  killed cb  in round 5
+GuanG killed whzy  in round 5
+Knight  killed GuanG  in round 5
+nephh killed o0o0o  in round 5
+Ezeir killed nephh  in round 5
+yosemite killed Ezeir  in round 5
+Round 5 ended with spike_defuse. The winning team is Bilibili Gaming.
+The current score is NOVA ESPORTS 2 - 3 Bilibili Gaming.
+Knight  killed cb  in round 6
+Swerl killed yosemite  in round 6
+nephh killed GuanG  in round 6
+Ezeir killed Flex1n  in round 6
+Ezeir killed Knight   in round 6
+nephh killed Swerl  in round 6
+o0o0o killed whzy  in round 6
+nephh killed o0o0o  in round 6
+Ezeir killed nephh  in round 6
+Round 6 ended with elimination. The winning team is NOVA ESPORTS.
+The current score is NOVA ESPORTS 3 - 3 Bilibili Gaming.
+Knight  killed Swerl  in round 7
+nephh killed Ezeir  in round 7
+nephh killed cb  in round 7
+nephh killed GuanG  in round 7
+Flex1n killed o0o0o  in round 7
+Round 7 ended with elimination. The winning team is Bilibili Gaming.
+The current score is NOVA ESPORTS 3 - 4 Bilibili Gaming.
+nephh killed GuanG  in round 8
+Knight  killed cb  in round 8
+Knight  killed Ezeir  in round 8
+Knight  killed Swerl  in round 8
+Knight  killed o0o0o  in round 8
+Round 8 ended with elimination. The winning team is Bilibili Gaming.
+The current score is NOVA ESPORTS 3 - 5 Bilibili Gaming.
+whzy killed o0o0o  in round 9
+yosemite killed GuanG  in round 9
+whzy killed cb  in round 9
+Swerl killed whzy  in round 9
+Flex1n killed Ezeir  in round 9
+Knight  killed Swerl  in round 9
+Round 9 ended with elimination. The winning team is Bilibili Gaming.
+The current score is NOVA ESPORTS 3 - 6 Bilibili Gaming.
+Knight  killed Swerl  in round 10
+nephh killed Ezeir  in round 10
+cb killed nephh  in round 10
+yosemite killed cb  in round 10
+yosemite killed GuanG  in round 10
+whzy killed o0o0o  in round 10
+Round 10 ended with spike_defuse. The winning team is Bilibili Gaming.
+The current score is NOVA ESPORTS 3 - 7 Bilibili Gaming.
+GuanG killed nephh  in round 11
+Swerl killed Knight   in round 11
+whzy killed Swerl  in round 11
+o0o0o killed Flex1n  in round 11
+cb killed whzy  in round 11
+o0o0o killed yosemite  in round 11
+Round 11 ended with elimination. The winning team is NOVA ESPORTS.
+The current score is NOVA ESPORTS 4 - 7 Bilibili Gaming.
+whzy killed Swerl  in round 12
+whzy killed cb  in round 12
+GuanG killed Knight   in round 12
+whzy killed Ezeir  in round 12
+whzy killed GuanG  in round 12
+yosemite killed o0o0o  in round 12
+Round 12 ended with spike_defuse. The winning team is Bilibili Gaming.
+The current score is NOVA ESPORTS 4 - 8 Bilibili Gaming.
+GuanG killed whzy  in round 13
+GuanG killed yosemite  in round 13
+GuanG killed Flex1n  in round 13
+o0o0o killed nephh  in round 13
+Knight  killed GuanG  in round 13
+Ezeir killed Knight   in round 13
+Round 13 ended with elimination. The winning team is NOVA ESPORTS.
+The current score is NOVA ESPORTS 5 - 8 Bilibili Gaming.
+GuanG killed whzy  in round 14
+nephh killed GuanG  in round 14
+Swerl killed nephh  in round 14
+Swerl killed yosemite  in round 14
+Swerl killed Flex1n  in round 14
+Swerl killed Knight   in round 14
+Round 14 ended with elimination. The winning team is NOVA ESPORTS.
+The current score is NOVA ESPORTS 6 - 8 Bilibili Gaming.
+Swerl killed yosemite  in round 15
+o0o0o killed whzy  in round 15
+Knight  killed Swerl  in round 15
+GuanG killed Knight   in round 15
+cb killed Flex1n  in round 15
+nephh killed Ezeir  in round 15
+o0o0o killed nephh  in round 15
+Round 15 ended with spike_defuse. The winning team is NOVA ESPORTS.
+The current score is NOVA ESPORTS 7 - 8 Bilibili Gaming.
+cb killed Knight   in round 16
+Swerl killed yosemite  in round 16
+whzy killed GuanG  in round 16
+Swerl killed nephh  in round 16
+o0o0o killed whzy  in round 16
+Flex1n killed Swerl  in round 16
+Flex1n killed o0o0o  in round 16
+Ezeir killed Flex1n  in round 16
+Round 16 ended with elimination. The winning team is NOVA ESPORTS.
+The current score is NOVA ESPORTS 8 - 8 Bilibili Gaming.
+Ezeir killed Knight   in round 17
+Flex1n killed o0o0o  in round 17
+Flex1n killed Swerl  in round 17
+nephh killed Ezeir  in round 17
+whzy killed GuanG  in round 17
+cb killed yosemite  in round 17
+Round 17 ended with detonate. The winning team is Bilibili Gaming.
+The current score is NOVA ESPORTS 8 - 9 Bilibili Gaming.
+whzy killed Ezeir  in round 18
+cb killed whzy  in round 18
+GuanG killed Knight   in round 18
+GuanG killed yosemite  in round 18
+cb killed Flex1n  in round 18
+Swerl killed nephh  in round 18
+Round 18 ended with spike_defuse. The winning team is NOVA ESPORTS.
+The current score is NOVA ESPORTS 9 - 9 Bilibili Gaming.
+yosemite killed Ezeir  in round 19
+Flex1n killed cb  in round 19
+Swerl killed nephh  in round 19
+yosemite killed Swerl  in round 19
+o0o0o killed yosemite  in round 19
+Knight  killed o0o0o  in round 19
+Round 19 ended with detonate. The winning team is Bilibili Gaming.
+The current score is NOVA ESPORTS 9 - 10 Bilibili Gaming.
+whzy killed cb  in round 20
+whzy killed o0o0o  in round 20
+whzy killed GuanG  in round 20
+Round 20 ended with detonate. The winning team is Bilibili Gaming.
+The current score is NOVA ESPORTS 9 - 11 Bilibili Gaming.
+whzy killed o0o0o  in round 21
+cb killed Flex1n  in round 21
+yosemite killed cb  in round 21
+yosemite killed Ezeir  in round 21
+nephh killed Swerl  in round 21
+Knight  killed GuanG  in round 21
+Round 21 ended with elimination. The winning team is Bilibili Gaming.
+The current score is NOVA ESPORTS 9 - 12 Bilibili Gaming.
+Swerl killed whzy  in round 22
+cb killed Knight   in round 22
+yosemite killed Ezeir  in round 22
+Flex1n killed cb  in round 22
+nephh killed Swerl  in round 22
+Flex1n killed o0o0o  in round 22
+nephh killed GuanG  in round 22
+Round 22 ended with elimination. The winning team is Bilibili Gaming.
+The current score is NOVA ESPORTS 9 - 13 Bilibili Gaming.
+Game ended with winning team: Bilibili Gaming at 2024-06-23T14:24:53Z
+
+--- Player Stats ---
+Flex1n: Team=Bilibili Gaming, Kills=12, Deaths=12, Assists=16, KDA=2.33, First Kills=2, First Deaths=1
+Knight : Team=Bilibili Gaming, Kills=18, Deaths=12, Assists=4, KDA=1.83, First Kills=3, First Deaths=2
+nephh: Team=Bilibili Gaming, Kills=16, Deaths=13, Assists=5, KDA=1.62, First Kills=1, First Deaths=2
+whzy: Team=Bilibili Gaming, Kills=21, Deaths=13, Assists=5, KDA=2.0, First Kills=6, First Deaths=4
+yosemite: Team=Bilibili Gaming, Kills=15, Deaths=12, Assists=11, KDA=2.17, First Kills=1, First Deaths=1
+GuanG: Team=NOVA ESPORTS, Kills=13, Deaths=16, Assists=3, KDA=1.0, First Kills=4, First Deaths=1
+cb: Team=NOVA ESPORTS, Kills=10, Deaths=15, Assists=3, KDA=0.87, First Kills=2, First Deaths=2
+o0o0o: Team=NOVA ESPORTS, Kills=8, Deaths=16, Assists=14, KDA=1.38, First Kills=0, First Deaths=2
+Ezeir: Team=NOVA ESPORTS, Kills=11, Deaths=14, Assists=7, KDA=1.29, First Kills=1, First Deaths=3
+Swerl: Team=NOVA ESPORTS, Kills=16, Deaths=17, Assists=4, KDA=1.18, First Kills=2, First Deaths=4

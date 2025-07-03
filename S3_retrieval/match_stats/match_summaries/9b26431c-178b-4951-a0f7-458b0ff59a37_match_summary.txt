@@ -1,0 +1,198 @@
+Team 1: NRG
+Team 2: FURIA
+Participating Players:
+Player 1: QcK
+Player 2: dgzin
+Player 3: mazin
+Player 4: mwzera
+Player 5: Khalil
+Player 6: crashies
+Player 7: Victor
+Player 8: FNS
+Player 9: s0m
+Player 10: ardiis
+Winning Team: NRG
+Score: NRG 13 - 6 FURIA
+Tournament Name: vct americas 2023
+Game Start Time: 2023-05-08T21:18:54Z
+Game End Time: 2023-05-08T22:04:05Z
+Rounds ended by ELIMINATION count: 8
+Rounds ended by DEFUSE count: 3
+Rounds ended by DETONATE count: 6
+SPIKE PLANTED count: 9
+platformGameId: val:9b26431c-178b-4951-a0f7-458b0ff59a37
+
+--- Events ---
+Game started at 2023-05-08T21:18:54Z
+mwzera killed Victor  in round 1
+s0m killed Khalil  in round 1
+FNS killed dgzin  in round 1
+mwzera killed FNS  in round 1
+ardiis killed mwzera  in round 1
+ardiis killed QcK  in round 1
+crashies killed mazin  in round 1
+Round 1 ended with elimination. The winning team is NRG.
+The current score is NRG 1 - 0 FURIA.
+ardiis killed dgzin  in round 2
+mwzera killed s0m  in round 2
+crashies killed QcK  in round 2
+crashies killed mwzera  in round 2
+crashies killed Khalil  in round 2
+Round 2 ended with detonate. The winning team is NRG.
+The current score is NRG 2 - 0 FURIA.
+mazin killed mazin  in round 3
+s0m killed mwzera  in round 3
+dgzin killed ardiis  in round 3
+s0m killed Khalil  in round 3
+dgzin killed FNS  in round 3
+s0m killed dgzin  in round 3
+QcK killed s0m  in round 3
+Victor killed mazin  in round 3
+Round 3 ended with detonate. The winning team is NRG.
+The current score is NRG 3 - 0 FURIA.
+s0m killed QcK  in round 4
+crashies killed dgzin  in round 4
+Victor killed mwzera  in round 4
+mazin killed ardiis  in round 4
+s0m killed Khalil  in round 4
+Round 4 ended with detonate. The winning team is NRG.
+The current score is NRG 4 - 0 FURIA.
+mazin killed mazin  in round 5
+QcK killed ardiis  in round 5
+s0m killed QcK  in round 5
+mazin killed s0m  in round 5
+mwzera killed FNS  in round 5
+crashies killed mwzera  in round 5
+Victor killed mazin  in round 5
+dgzin killed crashies  in round 5
+Victor killed Khalil  in round 5
+Round 5 ended with detonate. The winning team is NRG.
+The current score is NRG 5 - 0 FURIA.
+Victor killed Victor  in round 6
+dgzin killed dgzin  in round 6
+dgzin killed s0m  in round 6
+dgzin killed crashies  in round 6
+Victor killed dgzin  in round 6
+FNS killed QcK  in round 6
+mwzera killed ardiis  in round 6
+mwzera killed FNS  in round 6
+mwzera killed Victor  in round 6
+Round 6 ended with elimination. The winning team is FURIA.
+The current score is NRG 5 - 1 FURIA.
+Round 7 ended with detonate. The winning team is NRG.
+The current score is NRG 6 - 1 FURIA.
+ardiis killed ardiis  in round 8
+mwzera killed ardiis  in round 8
+mwzera killed s0m  in round 8
+Victor killed mwzera  in round 8
+mazin killed FNS  in round 8
+Khalil killed Victor  in round 8
+Round 8 ended with time_expired. The winning team is FURIA.
+The current score is NRG 6 - 2 FURIA.
+FNS killed mwzera  in round 9
+s0m killed QcK  in round 9
+crashies killed Khalil  in round 9
+ardiis killed mazin  in round 9
+Round 9 ended with detonate. The winning team is NRG.
+The current score is NRG 7 - 2 FURIA.
+FNS killed dgzin  in round 10
+ardiis killed QcK  in round 10
+mwzera killed ardiis  in round 10
+Khalil killed crashies  in round 10
+FNS killed Khalil  in round 10
+mwzera killed s0m  in round 10
+Victor killed mazin  in round 10
+mwzera killed FNS  in round 10
+mwzera killed Victor  in round 10
+Round 10 ended with spike_defuse. The winning team is FURIA.
+The current score is NRG 7 - 3 FURIA.
+QcK killed ardiis  in round 11
+QcK killed s0m  in round 11
+QcK killed Victor  in round 11
+mazin killed FNS  in round 11
+mwzera killed crashies  in round 11
+Round 11 ended with elimination. The winning team is FURIA.
+The current score is NRG 7 - 4 FURIA.
+ardiis killed Khalil  in round 12
+FNS killed dgzin  in round 12
+FNS killed QcK  in round 12
+mwzera killed ardiis  in round 12
+s0m killed mwzera  in round 12
+mazin killed crashies  in round 12
+Victor killed mazin  in round 12
+Round 12 ended with elimination. The winning team is NRG.
+The current score is NRG 8 - 4 FURIA.
+FNS killed FNS  in round 13
+FNS killed QcK  in round 13
+mwzera killed Victor  in round 13
+Khalil killed s0m  in round 13
+mazin killed ardiis  in round 13
+mwzera killed FNS  in round 13
+mazin killed crashies  in round 13
+Round 13 ended with elimination. The winning team is FURIA.
+The current score is NRG 8 - 5 FURIA.
+dgzin killed crashies  in round 14
+Victor killed dgzin  in round 14
+mazin killed Victor  in round 14
+mazin killed s0m  in round 14
+mazin killed FNS  in round 14
+ardiis killed mazin  in round 14
+QcK killed ardiis  in round 14
+Round 14 ended with elimination. The winning team is FURIA.
+The current score is NRG 8 - 6 FURIA.
+dgzin killed s0m  in round 15
+ardiis killed dgzin  in round 15
+ardiis killed QcK  in round 15
+ardiis killed mwzera  in round 15
+crashies killed Khalil  in round 15
+Round 15 ended with time_expired. The winning team is NRG.
+The current score is NRG 9 - 6 FURIA.
+Victor killed mazin  in round 16
+s0m killed Khalil  in round 16
+ardiis killed dgzin  in round 16
+mwzera killed crashies  in round 16
+ardiis killed mwzera  in round 16
+QcK killed ardiis  in round 16
+s0m killed QcK  in round 16
+Round 16 ended with elimination. The winning team is NRG.
+The current score is NRG 10 - 6 FURIA.
+ardiis killed Khalil  in round 17
+s0m killed mazin  in round 17
+dgzin killed s0m  in round 17
+crashies killed mwzera  in round 17
+FNS killed dgzin  in round 17
+Victor killed QcK  in round 17
+Round 17 ended with elimination. The winning team is NRG.
+The current score is NRG 11 - 6 FURIA.
+s0m killed mwzera  in round 18
+dgzin killed s0m  in round 18
+FNS killed dgzin  in round 18
+FNS killed QcK  in round 18
+mazin killed ardiis  in round 18
+crashies killed mazin  in round 18
+Khalil killed crashies  in round 18
+Victor killed Khalil  in round 18
+Round 18 ended with spike_defuse. The winning team is NRG.
+The current score is NRG 12 - 6 FURIA.
+ardiis killed mazin  in round 19
+QcK killed crashies  in round 19
+s0m killed dgzin  in round 19
+s0m killed mwzera  in round 19
+Khalil killed s0m  in round 19
+FNS killed Khalil  in round 19
+Victor killed QcK  in round 19
+Round 19 ended with spike_defuse. The winning team is NRG.
+The current score is NRG 13 - 6 FURIA.
+Game ended with winning team: NRG at 2023-05-08T22:04:05Z
+
+--- Player Stats ---
+QcK: Team=FURIA, Kills=8, Deaths=14, Assists=4, KDA=0.86, First Kills=1, First Deaths=1
+dgzin: Team=FURIA, Kills=10, Deaths=14, Assists=5, KDA=1.07, First Kills=2, First Deaths=2
+mazin: Team=FURIA, Kills=13, Deaths=13, Assists=5, KDA=1.38, First Kills=2, First Deaths=4
+mwzera: Team=FURIA, Kills=18, Deaths=13, Assists=6, KDA=1.85, First Kills=1, First Deaths=2
+Khalil: Team=FURIA, Kills=5, Deaths=13, Assists=4, KDA=0.69, First Kills=0, First Deaths=2
+crashies: Team=NRG, Kills=10, Deaths=10, Assists=17, KDA=2.7, First Kills=0, First Deaths=1
+Victor: Team=NRG, Kills=14, Deaths=8, Assists=2, KDA=2.0, First Kills=2, First Deaths=2
+FNS: Team=NRG, Kills=13, Deaths=10, Assists=6, KDA=1.9, First Kills=3, First Deaths=1
+s0m: Team=NRG, Kills=15, Deaths=13, Assists=5, KDA=1.54, First Kills=2, First Deaths=1
+ardiis: Team=NRG, Kills=15, Deaths=13, Assists=2, KDA=1.31, First Kills=5, First Deaths=2

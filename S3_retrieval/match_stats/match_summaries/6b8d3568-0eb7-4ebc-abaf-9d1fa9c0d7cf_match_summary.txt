@@ -1,0 +1,197 @@
+Team 1: FURIA
+Team 2: Evil Geniuses
+Participating Players:
+Player 1: JAWGEMO
+Player 2: Derrek
+Player 3: NaturE
+Player 4: Apoth
+Player 5: supamen
+Player 6: havoc
+Player 7: mwzera
+Player 8: Nozwer
+Player 9: xandeco
+Player 10: Khalil
+Winning Team: Evil Geniuses
+Score: FURIA 4 - 13 Evil Geniuses
+Tournament Name: vct americas stage 2 2024
+Game Start Time: 2024-06-29T22:03:15Z
+Game End Time: 2024-06-29T22:38:18Z
+Rounds ended by ELIMINATION count: 11
+Rounds ended by DEFUSE count: 6
+Rounds ended by DETONATE count: 0
+SPIKE PLANTED count: 6
+platformGameId: val:6b8d3568-0eb7-4ebc-abaf-9d1fa9c0d7cf
+
+--- Events ---
+Game started at 2024-06-29T22:03:15Z
+JAWGEMO killed mwzera  in round 1
+Nozwer killed Apoth  in round 1
+havoc killed JAWGEMO  in round 1
+supamen killed Khalil  in round 1
+NaturE killed xandeco  in round 1
+havoc killed NaturE  in round 1
+supamen killed Nozwer  in round 1
+Derrek killed havoc  in round 1
+Round 1 ended with spike_defuse. The winning team is Evil Geniuses.
+The current score is FURIA 0 - 1 Evil Geniuses.
+JAWGEMO killed havoc  in round 2
+JAWGEMO killed xandeco  in round 2
+Nozwer killed Derrek  in round 2
+NaturE killed Nozwer  in round 2
+NaturE killed mwzera  in round 2
+Khalil killed NaturE  in round 2
+Khalil killed Apoth  in round 2
+supamen killed Khalil  in round 2
+Round 2 ended with elimination. The winning team is Evil Geniuses.
+The current score is FURIA 0 - 2 Evil Geniuses.
+JAWGEMO killed xandeco  in round 3
+JAWGEMO killed mwzera  in round 3
+Derrek killed Nozwer  in round 3
+Khalil killed JAWGEMO  in round 3
+Derrek killed Khalil  in round 3
+Derrek killed havoc  in round 3
+Round 3 ended with spike_defuse. The winning team is Evil Geniuses.
+The current score is FURIA 0 - 3 Evil Geniuses.
+NaturE killed mwzera  in round 4
+NaturE killed Khalil  in round 4
+JAWGEMO killed xandeco  in round 4
+JAWGEMO killed havoc  in round 4
+Nozwer killed JAWGEMO  in round 4
+supamen killed Nozwer  in round 4
+Round 4 ended with elimination. The winning team is Evil Geniuses.
+The current score is FURIA 0 - 4 Evil Geniuses.
+JAWGEMO killed havoc  in round 5
+JAWGEMO killed Nozwer  in round 5
+mwzera killed Apoth  in round 5
+JAWGEMO killed xandeco  in round 5
+JAWGEMO killed mwzera  in round 5
+Round 5 ended with spike_defuse. The winning team is Evil Geniuses.
+The current score is FURIA 0 - 5 Evil Geniuses.
+Derrek killed Khalil  in round 6
+mwzera killed supamen  in round 6
+NaturE killed mwzera  in round 6
+JAWGEMO killed xandeco  in round 6
+JAWGEMO killed Khalil  in round 6
+Nozwer killed JAWGEMO  in round 6
+Derrek killed Nozwer  in round 6
+Derrek killed havoc  in round 6
+Round 6 ended with elimination. The winning team is Evil Geniuses.
+The current score is FURIA 0 - 6 Evil Geniuses.
+JAWGEMO killed havoc  in round 7
+mwzera killed Derrek  in round 7
+Apoth killed mwzera  in round 7
+Nozwer killed JAWGEMO  in round 7
+Apoth killed xandeco  in round 7
+Khalil killed Apoth  in round 7
+supamen killed Khalil  in round 7
+NaturE killed Nozwer  in round 7
+Round 7 ended with elimination. The winning team is Evil Geniuses.
+The current score is FURIA 0 - 7 Evil Geniuses.
+Nozwer killed JAWGEMO  in round 8
+Derrek killed mwzera  in round 8
+Derrek killed havoc  in round 8
+xandeco killed Derrek  in round 8
+supamen killed xandeco  in round 8
+NaturE killed Nozwer  in round 8
+NaturE killed Khalil  in round 8
+Round 8 ended with spike_defuse. The winning team is Evil Geniuses.
+The current score is FURIA 0 - 8 Evil Geniuses.
+JAWGEMO killed Khalil  in round 9
+Apoth killed mwzera  in round 9
+NaturE killed havoc  in round 9
+xandeco killed Derrek  in round 9
+NaturE killed Nozwer  in round 9
+JAWGEMO killed xandeco  in round 9
+Round 9 ended with elimination. The winning team is Evil Geniuses.
+The current score is FURIA 0 - 9 Evil Geniuses.
+supamen killed xandeco  in round 10
+Derrek killed mwzera  in round 10
+Khalil killed Derrek  in round 10
+Khalil killed JAWGEMO  in round 10
+supamen killed Khalil  in round 10
+Nozwer killed supamen  in round 10
+Nozwer killed NaturE  in round 10
+havoc killed Apoth  in round 10
+Round 10 ended with elimination. The winning team is FURIA.
+The current score is FURIA 1 - 9 Evil Geniuses.
+mwzera killed JAWGEMO  in round 11
+Apoth killed xandeco  in round 11
+NaturE killed mwzera  in round 11
+Round 11 ended with spike_defuse. The winning team is Evil Geniuses.
+The current score is FURIA 1 - 10 Evil Geniuses.
+Derrek killed Nozwer  in round 12
+NaturE killed Khalil  in round 12
+supamen killed havoc  in round 12
+JAWGEMO killed mwzera  in round 12
+Nozwer killed Apoth  in round 12
+NaturE killed Nozwer  in round 12
+NaturE killed xandeco  in round 12
+Khalil killed NaturE  in round 12
+Derrek killed Khalil  in round 12
+havoc killed JAWGEMO  in round 12
+havoc killed Derrek  in round 12
+havoc killed supamen  in round 12
+Round 12 ended with elimination. The winning team is FURIA.
+The current score is FURIA 2 - 10 Evil Geniuses.
+mwzera killed Apoth  in round 13
+JAWGEMO killed havoc  in round 13
+Nozwer killed supamen  in round 13
+Nozwer killed Derrek  in round 13
+JAWGEMO killed xandeco  in round 13
+mwzera killed NaturE  in round 13
+Khalil killed JAWGEMO  in round 13
+Round 13 ended with spike_defuse. The winning team is FURIA.
+The current score is FURIA 3 - 10 Evil Geniuses.
+JAWGEMO killed havoc  in round 14
+xandeco killed JAWGEMO  in round 14
+Apoth killed Nozwer  in round 14
+mwzera killed NaturE  in round 14
+Apoth killed Khalil  in round 14
+supamen killed xandeco  in round 14
+mwzera killed supamen  in round 14
+Derrek killed mwzera  in round 14
+Round 14 ended with elimination. The winning team is Evil Geniuses.
+The current score is FURIA 3 - 11 Evil Geniuses.
+havoc killed JAWGEMO  in round 15
+havoc killed Derrek  in round 15
+havoc killed Apoth  in round 15
+havoc killed supamen  in round 15
+NaturE killed mwzera  in round 15
+havoc killed NaturE  in round 15
+Round 15 ended with elimination. The winning team is FURIA.
+The current score is FURIA 4 - 11 Evil Geniuses.
+mwzera killed supamen  in round 16
+JAWGEMO killed mwzera  in round 16
+Apoth killed Khalil  in round 16
+Nozwer killed JAWGEMO  in round 16
+Apoth killed xandeco  in round 16
+Nozwer killed Apoth  in round 16
+Derrek killed Nozwer  in round 16
+havoc killed Derrek  in round 16
+NaturE killed havoc  in round 16
+Round 16 ended with elimination. The winning team is Evil Geniuses.
+The current score is FURIA 4 - 12 Evil Geniuses.
+Derrek killed mwzera  in round 17
+JAWGEMO killed xandeco  in round 17
+havoc killed Derrek  in round 17
+JAWGEMO killed Nozwer  in round 17
+havoc killed Apoth  in round 17
+supamen killed havoc  in round 17
+Khalil killed JAWGEMO  in round 17
+Khalil killed NaturE  in round 17
+supamen killed Khalil  in round 17
+Round 17 ended with elimination. The winning team is Evil Geniuses.
+The current score is FURIA 4 - 13 Evil Geniuses.
+Game ended with winning team: Evil Geniuses at 2024-06-29T22:38:18Z
+
+--- Player Stats ---
+JAWGEMO: Team=Evil Geniuses, Kills=23, Deaths=14, Assists=5, KDA=2.0, First Kills=7, First Deaths=3
+Derrek: Team=Evil Geniuses, Kills=15, Deaths=10, Assists=10, KDA=2.5, First Kills=3, First Deaths=0
+NaturE: Team=Evil Geniuses, Kills=17, Deaths=8, Assists=9, KDA=3.25, First Kills=1, First Deaths=0
+Apoth: Team=Evil Geniuses, Kills=8, Deaths=10, Assists=5, KDA=1.3, First Kills=0, First Deaths=1
+supamen: Team=Evil Geniuses, Kills=12, Deaths=7, Assists=8, KDA=2.86, First Kills=1, First Deaths=1
+havoc: Team=FURIA, Kills=14, Deaths=14, Assists=1, KDA=1.07, First Kills=1, First Deaths=4
+mwzera: Team=FURIA, Kills=9, Deaths=16, Assists=5, KDA=0.88, First Kills=3, First Deaths=3
+Nozwer: Team=FURIA, Kills=13, Deaths=14, Assists=5, KDA=1.29, First Kills=1, First Deaths=1
+xandeco: Team=FURIA, Kills=3, Deaths=16, Assists=5, KDA=0.5, First Kills=0, First Deaths=2
+Khalil: Team=FURIA, Kills=10, Deaths=15, Assists=2, KDA=0.8, First Kills=0, First Deaths=2

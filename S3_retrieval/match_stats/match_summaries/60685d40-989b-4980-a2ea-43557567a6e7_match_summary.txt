@@ -1,0 +1,195 @@
+Team 1: Giants
+Team 2: FNATIC
+Participating Players:
+Player 1: Chronicle
+Player 2: Derke
+Player 3: Boaster
+Player 4: kamyk
+Player 5: Leo 
+Player 6: Fit1nho
+Player 7: nukkye
+Player 8: rhyme
+Player 9: Cloud
+Player 10: hoody
+Winning Team: FNATIC
+Score: Giants 3 - 13 FNATIC
+Tournament Name: vct emea 2023
+Game Start Time: 2023-03-27T19:33:38Z
+Game End Time: 2023-03-27T20:33:51Z
+Rounds ended by ELIMINATION count: 8
+Rounds ended by DEFUSE count: 7
+Rounds ended by DETONATE count: 0
+SPIKE PLANTED count: 7
+platformGameId: val:60685d40-989b-4980-a2ea-43557567a6e7
+
+--- Events ---
+Game started at 2023-03-27T19:33:38Z
+Derke killed hoody  in round 1
+nukkye killed Derke  in round 1
+Boaster killed nukkye  in round 1
+rhyme killed Chronicle  in round 1
+Boaster killed rhyme  in round 1
+Fit1nho killed Boaster  in round 1
+kamyk killed Fit1nho  in round 1
+kamyk killed Cloud  in round 1
+Round 1 ended with elimination. The winning team is FNATIC.
+The current score is Giants 0 - 1 FNATIC.
+Fit1nho killed Chronicle  in round 2
+Derke killed rhyme  in round 2
+Leo  killed Fit1nho  in round 2
+Leo  killed hoody  in round 2
+Boaster killed nukkye  in round 2
+Derke killed Cloud  in round 2
+Round 2 ended with elimination. The winning team is FNATIC.
+The current score is Giants 0 - 2 FNATIC.
+kamyk killed hoody  in round 3
+rhyme killed kamyk  in round 3
+Chronicle killed rhyme  in round 3
+Derke killed nukkye  in round 3
+Fit1nho killed Boaster  in round 3
+Chronicle killed Fit1nho  in round 3
+Cloud killed Chronicle  in round 3
+Cloud killed Derke  in round 3
+Leo  killed Cloud  in round 3
+Round 3 ended with spike_defuse. The winning team is FNATIC.
+The current score is Giants 0 - 3 FNATIC.
+Derke killed rhyme  in round 4
+kamyk killed nukkye  in round 4
+Cloud killed Leo   in round 4
+Derke killed hoody  in round 4
+Derke killed Fit1nho  in round 4
+Cloud killed Derke  in round 4
+Round 4 ended with time_expired. The winning team is FNATIC.
+The current score is Giants 0 - 4 FNATIC.
+Cloud killed Chronicle  in round 5
+Leo  killed Cloud  in round 5
+Leo  killed rhyme  in round 5
+Boaster killed nukkye  in round 5
+kamyk killed hoody  in round 5
+Leo  killed Fit1nho  in round 5
+Round 5 ended with spike_defuse. The winning team is FNATIC.
+The current score is Giants 0 - 5 FNATIC.
+Derke killed Cloud  in round 6
+Fit1nho killed kamyk  in round 6
+nukkye killed Leo   in round 6
+Chronicle killed nukkye  in round 6
+Fit1nho killed Derke  in round 6
+Fit1nho killed kamyk  in round 6
+Boaster killed Fit1nho  in round 6
+Chronicle killed rhyme  in round 6
+Boaster killed hoody  in round 6
+Round 6 ended with spike_defuse. The winning team is FNATIC.
+The current score is Giants 0 - 6 FNATIC.
+Fit1nho killed Boaster  in round 7
+Leo  killed Fit1nho  in round 7
+Cloud killed Derke  in round 7
+hoody killed kamyk  in round 7
+hoody killed Chronicle  in round 7
+Leo  killed hoody  in round 7
+Leo  killed rhyme  in round 7
+Cloud killed Leo   in round 7
+Round 7 ended with elimination. The winning team is Giants.
+The current score is Giants 1 - 6 FNATIC.
+kamyk killed hoody  in round 8
+Chronicle killed rhyme  in round 8
+Cloud killed Chronicle  in round 8
+kamyk killed Cloud  in round 8
+kamyk killed Fit1nho  in round 8
+nukkye killed Derke  in round 8
+Leo  killed nukkye  in round 8
+Round 8 ended with elimination. The winning team is FNATIC.
+The current score is Giants 1 - 7 FNATIC.
+Cloud killed Derke  in round 9
+Leo  killed Fit1nho  in round 9
+Cloud killed Leo   in round 9
+Chronicle killed Cloud  in round 9
+Chronicle killed rhyme  in round 9
+nukkye killed kamyk  in round 9
+Leo  killed nukkye  in round 9
+Boaster killed hoody  in round 9
+Round 9 ended with spike_defuse. The winning team is FNATIC.
+The current score is Giants 1 - 8 FNATIC.
+Chronicle killed rhyme  in round 10
+Cloud killed kamyk  in round 10
+Chronicle killed Fit1nho  in round 10
+nukkye killed Derke  in round 10
+hoody killed Boaster  in round 10
+Leo  killed nukkye  in round 10
+hoody killed Chronicle  in round 10
+hoody killed Leo   in round 10
+Round 10 ended with elimination. The winning team is Giants.
+The current score is Giants 2 - 8 FNATIC.
+Fit1nho killed Chronicle  in round 11
+Derke killed nukkye  in round 11
+Fit1nho killed Derke  in round 11
+kamyk killed Fit1nho  in round 11
+kamyk killed hoody  in round 11
+Cloud killed kamyk  in round 11
+Boaster killed Cloud  in round 11
+Round 11 ended with spike_defuse. The winning team is FNATIC.
+The current score is Giants 2 - 9 FNATIC.
+Boaster killed rhyme  in round 12
+Derke killed Cloud  in round 12
+Fit1nho killed Derke  in round 12
+kamyk killed Fit1nho  in round 12
+rhyme killed kamyk  in round 12
+Boaster killed nukkye  in round 12
+Leo  killed rhyme  in round 12
+hoody killed Leo   in round 12
+Chronicle killed hoody  in round 12
+Round 12 ended with spike_defuse. The winning team is FNATIC.
+The current score is Giants 2 - 10 FNATIC.
+Derke killed rhyme  in round 13
+Derke killed Cloud  in round 13
+hoody killed Derke  in round 13
+Boaster killed hoody  in round 13
+Chronicle killed Fit1nho  in round 13
+Chronicle killed nukkye  in round 13
+Round 13 ended with elimination. The winning team is FNATIC.
+The current score is Giants 2 - 11 FNATIC.
+Chronicle killed Chronicle  in round 14
+kamyk killed kamyk  in round 14
+Derke killed hoody  in round 14
+Fit1nho killed Derke  in round 14
+Chronicle killed Fit1nho  in round 14
+kamyk killed rhyme  in round 14
+Chronicle killed Cloud  in round 14
+nukkye killed Boaster  in round 14
+Leo  killed nukkye  in round 14
+Round 14 ended with elimination. The winning team is FNATIC.
+The current score is Giants 2 - 12 FNATIC.
+Chronicle killed Fit1nho  in round 15
+Cloud killed Derke  in round 15
+Cloud killed Chronicle  in round 15
+Leo  killed Cloud  in round 15
+hoody killed kamyk  in round 15
+nukkye killed Leo   in round 15
+Boaster killed nukkye  in round 15
+rhyme killed Boaster  in round 15
+Round 15 ended with spike_defuse. The winning team is Giants.
+The current score is Giants 3 - 12 FNATIC.
+Cloud killed Derke  in round 16
+hoody killed Derke  in round 16
+Leo  killed Fit1nho  in round 16
+Leo  killed hoody  in round 16
+nukkye killed Leo   in round 16
+nukkye killed kamyk  in round 16
+Boaster killed Cloud  in round 16
+Boaster killed rhyme  in round 16
+nukkye killed Boaster  in round 16
+Chronicle killed nukkye  in round 16
+Round 16 ended with elimination. The winning team is FNATIC.
+The current score is Giants 3 - 13 FNATIC.
+Game ended with winning team: FNATIC at 2023-03-27T20:33:51Z
+
+--- Player Stats ---
+Chronicle: Team=FNATIC, Kills=17, Deaths=10, Assists=8, KDA=2.5, First Kills=3, First Deaths=4
+Derke: Team=FNATIC, Kills=13, Deaths=15, Assists=7, KDA=1.33, First Kills=4, First Deaths=2
+Boaster: Team=FNATIC, Kills=14, Deaths=7, Assists=10, KDA=3.43, First Kills=1, First Deaths=1
+kamyk: Team=FNATIC, Kills=13, Deaths=11, Assists=6, KDA=1.73, First Kills=2, First Deaths=0
+Leo : Team=FNATIC, Kills=18, Deaths=8, Assists=7, KDA=3.12, First Kills=0, First Deaths=0
+Fit1nho: Team=Giants, Kills=11, Deaths=16, Assists=1, KDA=0.75, First Kills=3, First Deaths=1
+nukkye: Team=Giants, Kills=10, Deaths=15, Assists=8, KDA=1.2, First Kills=0, First Deaths=0
+rhyme: Team=Giants, Kills=4, Deaths=15, Assists=1, KDA=0.33, First Kills=0, First Deaths=4
+Cloud: Team=Giants, Kills=15, Deaths=13, Assists=1, KDA=1.23, First Kills=3, First Deaths=1
+hoody: Team=Giants, Kills=9, Deaths=14, Assists=2, KDA=0.79, First Kills=0, First Deaths=3

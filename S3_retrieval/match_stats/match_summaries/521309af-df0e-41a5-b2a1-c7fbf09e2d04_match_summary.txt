@@ -1,0 +1,193 @@
+Team 1: Sentinels
+Team 2: Leviatán Esports
+Participating Players:
+Player 1: Mazino
+Player 2: Shyy
+Player 3: kiNgg
+Player 4: Nozwerr
+Player 5: Tacolilla
+Player 6: TenZ
+Player 7: Sacy
+Player 8: dephh
+Player 9: zekken
+Player 10: pANcada
+Winning Team: Leviatán Esports
+Score: Sentinels 4 - 13 Leviatán Esports
+Tournament Name: vct americas 2023
+Game Start Time: 2023-04-16T21:50:08Z
+Game End Time: 2023-04-16T22:31:15Z
+Rounds ended by ELIMINATION count: 7
+Rounds ended by DEFUSE count: 9
+Rounds ended by DETONATE count: 1
+SPIKE PLANTED count: 10
+platformGameId: val:521309af-df0e-41a5-b2a1-c7fbf09e2d04
+
+--- Events ---
+Game started at 2023-04-16T21:50:08Z
+Mazino killed Sacy  in round 1
+pANcada killed Tacolilla  in round 1
+kiNgg killed pANcada  in round 1
+TenZ killed kiNgg  in round 1
+Shyy killed TenZ  in round 1
+Nozwerr killed zekken  in round 1
+dephh killed Nozwerr  in round 1
+Mazino killed dephh  in round 1
+Round 1 ended with spike_defuse. The winning team is Leviatán Esports.
+The current score is Sentinels 0 - 1 Leviatán Esports.
+Mazino killed TenZ  in round 2
+Tacolilla killed pANcada  in round 2
+Mazino killed zekken  in round 2
+Nozwerr killed dephh  in round 2
+Tacolilla killed Sacy  in round 2
+Round 2 ended with elimination. The winning team is Leviatán Esports.
+The current score is Sentinels 0 - 2 Leviatán Esports.
+dephh killed Mazino  in round 3
+Nozwerr killed pANcada  in round 3
+dephh killed Shyy  in round 3
+dephh killed kiNgg  in round 3
+dephh killed Tacolilla  in round 3
+Nozwerr killed Sacy  in round 3
+Round 3 ended with detonate. The winning team is Sentinels.
+The current score is Sentinels 1 - 2 Leviatán Esports.
+Nozwerr killed Nozwerr  in round 4
+Tacolilla killed pANcada  in round 4
+Shyy killed TenZ  in round 4
+dephh killed Mazino  in round 4
+Tacolilla killed Sacy  in round 4
+dephh killed kiNgg  in round 4
+zekken killed Shyy  in round 4
+Nozwerr killed dephh  in round 4
+zekken killed Nozwerr  in round 4
+Round 4 ended with spike_defuse. The winning team is Leviatán Esports.
+The current score is Sentinels 1 - 3 Leviatán Esports.
+zekken killed Tacolilla  in round 5
+Tacolilla killed TenZ  in round 5
+Mazino killed dephh  in round 5
+Sacy killed Mazino  in round 5
+Tacolilla killed Sacy  in round 5
+zekken killed kiNgg  in round 5
+Shyy killed zekken  in round 5
+pANcada killed Tacolilla  in round 5
+Round 5 ended with spike_defuse. The winning team is Leviatán Esports.
+The current score is Sentinels 1 - 4 Leviatán Esports.
+Mazino killed TenZ  in round 6
+dephh killed Nozwerr  in round 6
+Shyy killed Sacy  in round 6
+dephh killed Mazino  in round 6
+zekken killed Tacolilla  in round 6
+Shyy killed zekken  in round 6
+Shyy killed pANcada  in round 6
+Shyy killed dephh  in round 6
+Round 6 ended with spike_defuse. The winning team is Leviatán Esports.
+The current score is Sentinels 1 - 5 Leviatán Esports.
+Mazino killed Sacy  in round 7
+zekken killed Tacolilla  in round 7
+TenZ killed Shyy  in round 7
+Mazino killed TenZ  in round 7
+Mazino killed dephh  in round 7
+Round 7 ended with spike_defuse. The winning team is Leviatán Esports.
+The current score is Sentinels 1 - 6 Leviatán Esports.
+Mazino killed zekken  in round 8
+Mazino killed zekken  in round 8
+dephh killed Mazino  in round 8
+Shyy killed Sacy  in round 8
+dephh killed kiNgg  in round 8
+pANcada killed Tacolilla  in round 8
+dephh killed Nozwerr  in round 8
+pANcada killed Shyy  in round 8
+Round 8 ended with elimination. The winning team is Sentinels.
+The current score is Sentinels 2 - 6 Leviatán Esports.
+Tacolilla killed Sacy  in round 9
+Shyy killed pANcada  in round 9
+kiNgg killed dephh  in round 9
+zekken killed Mazino  in round 9
+zekken killed Shyy  in round 9
+Tacolilla killed zekken  in round 9
+TenZ killed Tacolilla  in round 9
+kiNgg killed TenZ  in round 9
+Round 9 ended with spike_defuse. The winning team is Leviatán Esports.
+The current score is Sentinels 2 - 7 Leviatán Esports.
+Tacolilla killed Sacy  in round 10
+Tacolilla killed TenZ  in round 10
+Tacolilla killed pANcada  in round 10
+Mazino killed zekken  in round 10
+Mazino killed dephh  in round 10
+Round 10 ended with elimination. The winning team is Leviatán Esports.
+The current score is Sentinels 2 - 8 Leviatán Esports.
+kiNgg killed TenZ  in round 11
+Tacolilla killed Sacy  in round 11
+Tacolilla killed pANcada  in round 11
+kiNgg killed dephh  in round 11
+Mazino killed zekken  in round 11
+Round 11 ended with spike_defuse. The winning team is Leviatán Esports.
+The current score is Sentinels 2 - 9 Leviatán Esports.
+Mazino killed pANcada  in round 12
+kiNgg killed TenZ  in round 12
+dephh killed kiNgg  in round 12
+Shyy killed dephh  in round 12
+Mazino killed Sacy  in round 12
+zekken killed Mazino  in round 12
+zekken killed Nozwerr  in round 12
+Round 12 ended with spike_defuse. The winning team is Leviatán Esports.
+The current score is Sentinels 2 - 10 Leviatán Esports.
+Shyy killed zekken  in round 13
+TenZ killed Shyy  in round 13
+Sacy killed Tacolilla  in round 13
+Mazino killed dephh  in round 13
+TenZ killed Mazino  in round 13
+TenZ killed Nozwerr  in round 13
+Round 13 ended with spike_defuse. The winning team is Sentinels.
+The current score is Sentinels 3 - 10 Leviatán Esports.
+TenZ killed kiNgg  in round 14
+TenZ killed kiNgg  in round 14
+Sacy killed Shyy  in round 14
+dephh killed Mazino  in round 14
+dephh killed Tacolilla  in round 14
+zekken killed Nozwerr  in round 14
+Round 14 ended with elimination. The winning team is Sentinels.
+The current score is Sentinels 4 - 10 Leviatán Esports.
+Shyy killed pANcada  in round 15
+kiNgg killed TenZ  in round 15
+Sacy killed Mazino  in round 15
+Tacolilla killed dephh  in round 15
+kiNgg killed zekken  in round 15
+Sacy killed Tacolilla  in round 15
+Sacy killed Nozwerr  in round 15
+Shyy killed Sacy  in round 15
+Round 15 ended with elimination. The winning team is Leviatán Esports.
+The current score is Sentinels 4 - 11 Leviatán Esports.
+Tacolilla killed Sacy  in round 16
+pANcada killed Tacolilla  in round 16
+Mazino killed zekken  in round 16
+pANcada killed Shyy  in round 16
+dephh killed Nozwerr  in round 16
+Mazino killed dephh  in round 16
+kiNgg killed pANcada  in round 16
+Mazino killed TenZ  in round 16
+Round 16 ended with elimination. The winning team is Leviatán Esports.
+The current score is Sentinels 4 - 12 Leviatán Esports.
+pANcada killed Tacolilla  in round 17
+Sacy killed kiNgg  in round 17
+Shyy killed Sacy  in round 17
+Nozwerr killed TenZ  in round 17
+pANcada killed Nozwerr  in round 17
+Mazino killed pANcada  in round 17
+Mazino killed zekken  in round 17
+Shyy killed dephh  in round 17
+Round 17 ended with elimination. The winning team is Leviatán Esports.
+The current score is Sentinels 4 - 13 Leviatán Esports.
+Game ended with winning team: Leviatán Esports at 2023-04-16T22:31:15Z
+Mazino killed Mazino  in round 18
+Shyy killed Shyy  in round 18
+
+--- Player Stats ---
+Mazino: Team=Leviatán Esports, Kills=23, Deaths=11, Assists=5, KDA=2.55, First Kills=7, First Deaths=2
+Shyy: Team=Leviatán Esports, Kills=16, Deaths=9, Assists=0, KDA=1.78, First Kills=2, First Deaths=0
+kiNgg: Team=Leviatán Esports, Kills=9, Deaths=9, Assists=10, KDA=2.11, First Kills=1, First Deaths=1
+Nozwerr: Team=Leviatán Esports, Kills=7, Deaths=11, Assists=12, KDA=1.73, First Kills=1, First Deaths=1
+Tacolilla: Team=Leviatán Esports, Kills=15, Deaths=13, Assists=2, KDA=1.31, First Kills=3, First Deaths=2
+TenZ: Team=Sentinels, Kills=8, Deaths=13, Assists=2, KDA=0.77, First Kills=1, First Deaths=3
+Sacy: Team=Sentinels, Kills=7, Deaths=15, Assists=3, KDA=0.67, First Kills=0, First Deaths=5
+dephh: Team=Sentinels, Kills=16, Deaths=14, Assists=6, KDA=1.57, First Kills=1, First Deaths=0
+zekken: Team=Sentinels, Kills=11, Deaths=13, Assists=8, KDA=1.46, First Kills=1, First Deaths=2
+pANcada: Team=Sentinels, Kills=8, Deaths=12, Assists=6, KDA=1.17, First Kills=1, First Deaths=2

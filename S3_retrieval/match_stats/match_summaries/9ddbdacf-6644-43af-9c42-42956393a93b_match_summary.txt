@@ -1,0 +1,232 @@
+Team 1: KOI
+Team 2: Team Heretics
+Participating Players:
+Player 1: Boo
+Player 2: m1xwell
+Player 3: weber
+Player 4: AvovA
+Player 5: keloqz
+Player 6: Trexx
+Player 7: starxo
+Player 8: koldamenta
+Player 9: Sheydos
+Player 10: Wolfen
+Winning Team: Team Heretics
+Score: KOI 9 - 13 Team Heretics
+Tournament Name: vct emea 2023
+Game Start Time: 2023-05-12T21:43:23Z
+Game End Time: 2023-05-12T22:41:44Z
+Rounds ended by ELIMINATION count: 8
+Rounds ended by DEFUSE count: 5
+Rounds ended by DETONATE count: 8
+SPIKE PLANTED count: 13
+platformGameId: val:9ddbdacf-6644-43af-9c42-42956393a93b
+
+--- Events ---
+Game started at 2023-05-12T21:43:23Z
+Wolfen killed m1xwell  in round 1
+Wolfen killed AvovA  in round 1
+weber killed Wolfen  in round 1
+Trexx killed Boo  in round 1
+starxo killed keloqz  in round 1
+weber killed koldamenta  in round 1
+starxo killed weber  in round 1
+Round 1 ended with elimination. The winning team is KOI.
+The current score is KOI 1 - 0 Team Heretics.
+Wolfen killed AvovA  in round 2
+koldamenta killed keloqz  in round 2
+Boo killed Trexx  in round 2
+Boo killed starxo  in round 2
+Sheydos killed weber  in round 2
+Wolfen killed Boo  in round 2
+koldamenta killed m1xwell  in round 2
+Round 2 ended with elimination. The winning team is KOI.
+The current score is KOI 2 - 0 Team Heretics.
+Trexx killed keloqz  in round 3
+AvovA killed Trexx  in round 3
+AvovA killed starxo  in round 3
+weber killed Wolfen  in round 3
+Sheydos killed m1xwell  in round 3
+koldamenta killed AvovA  in round 3
+Boo killed Sheydos  in round 3
+koldamenta killed weber  in round 3
+Boo killed koldamenta  in round 3
+Round 3 ended with detonate. The winning team is KOI.
+The current score is KOI 3 - 0 Team Heretics.
+Boo killed Boo  in round 4
+Trexx killed m1xwell  in round 4
+Trexx killed AvovA  in round 4
+weber killed Trexx  in round 4
+starxo killed weber  in round 4
+keloqz killed koldamenta  in round 4
+starxo killed keloqz  in round 4
+Boo killed Wolfen  in round 4
+Boo killed Sheydos  in round 4
+starxo killed Boo  in round 4
+Round 4 ended with elimination. The winning team is KOI.
+The current score is KOI 4 - 0 Team Heretics.
+Trexx killed keloqz  in round 5
+Trexx killed AvovA  in round 5
+weber killed Trexx  in round 5
+starxo killed weber  in round 5
+koldamenta killed m1xwell  in round 5
+Boo killed koldamenta  in round 5
+Round 5 ended with detonate. The winning team is KOI.
+The current score is KOI 5 - 0 Team Heretics.
+Wolfen killed Boo  in round 6
+Trexx killed AvovA  in round 6
+m1xwell killed Trexx  in round 6
+m1xwell killed koldamenta  in round 6
+Sheydos killed m1xwell  in round 6
+keloqz killed Sheydos  in round 6
+keloqz killed starxo  in round 6
+Boo killed Wolfen  in round 6
+Round 6 ended with elimination. The winning team is Team Heretics.
+The current score is KOI 5 - 1 Team Heretics.
+keloqz killed Trexx  in round 7
+AvovA killed starxo  in round 7
+m1xwell killed Wolfen  in round 7
+Sheydos killed m1xwell  in round 7
+koldamenta killed keloqz  in round 7
+koldamenta killed AvovA  in round 7
+koldamenta killed weber  in round 7
+Boo killed koldamenta  in round 7
+Boo killed Sheydos  in round 7
+Round 7 ended with spike_defuse. The winning team is Team Heretics.
+The current score is KOI 5 - 2 Team Heretics.
+keloqz killed Wolfen  in round 8
+Trexx killed keloqz  in round 8
+Boo killed koldamenta  in round 8
+starxo killed Boo  in round 8
+weber killed Trexx  in round 8
+Sheydos killed weber  in round 8
+AvovA killed Sheydos  in round 8
+AvovA killed starxo  in round 8
+Round 8 ended with spike_defuse. The winning team is Team Heretics.
+The current score is KOI 5 - 3 Team Heretics.
+Sheydos killed AvovA  in round 9
+Sheydos killed keloqz  in round 9
+starxo killed weber  in round 9
+Sheydos killed m1xwell  in round 9
+starxo killed Boo  in round 9
+Round 9 ended with elimination. The winning team is KOI.
+The current score is KOI 6 - 3 Team Heretics.
+weber killed starxo  in round 10
+Trexx killed weber  in round 10
+m1xwell killed Trexx  in round 10
+m1xwell killed koldamenta  in round 10
+Wolfen killed Boo  in round 10
+Wolfen killed keloqz  in round 10
+AvovA killed Sheydos  in round 10
+m1xwell killed Wolfen  in round 10
+Round 10 ended with spike_defuse. The winning team is Team Heretics.
+The current score is KOI 6 - 4 Team Heretics.
+Boo killed koldamenta  in round 11
+Boo killed Wolfen  in round 11
+m1xwell killed Trexx  in round 11
+m1xwell killed starxo  in round 11
+Round 11 ended with time_expired. The winning team is Team Heretics.
+The current score is KOI 6 - 5 Team Heretics.
+Trexx killed AvovA  in round 12
+koldamenta killed keloqz  in round 12
+Sheydos killed Boo  in round 12
+m1xwell killed starxo  in round 12
+Trexx killed m1xwell  in round 12
+weber killed Sheydos  in round 12
+Wolfen killed weber  in round 12
+Round 12 ended with elimination. The winning team is KOI.
+The current score is KOI 7 - 5 Team Heretics.
+Boo killed koldamenta  in round 13
+Sheydos killed Boo  in round 13
+keloqz killed starxo  in round 13
+keloqz killed Wolfen  in round 13
+weber killed Trexx  in round 13
+keloqz killed Sheydos  in round 13
+Round 13 ended with elimination. The winning team is Team Heretics.
+The current score is KOI 7 - 6 Team Heretics.
+m1xwell killed starxo  in round 14
+m1xwell killed Wolfen  in round 14
+keloqz killed koldamenta  in round 14
+Trexx killed keloqz  in round 14
+m1xwell killed Sheydos  in round 14
+Round 14 ended with detonate. The winning team is Team Heretics.
+The current score is KOI 7 - 7 Team Heretics.
+Trexx killed Trexx  in round 15
+keloqz killed koldamenta  in round 15
+keloqz killed Sheydos  in round 15
+Round 15 ended with detonate. The winning team is Team Heretics.
+The current score is KOI 7 - 8 Team Heretics.
+Trexx killed keloqz  in round 16
+Boo killed Wolfen  in round 16
+m1xwell killed Trexx  in round 16
+koldamenta killed Boo  in round 16
+keloqz killed koldamenta  in round 16
+starxo killed m1xwell  in round 16
+Sheydos killed keloqz  in round 16
+starxo killed AvovA  in round 16
+Round 16 ended with detonate. The winning team is Team Heretics.
+The current score is KOI 7 - 9 Team Heretics.
+Wolfen killed m1xwell  in round 17
+AvovA killed koldamenta  in round 17
+AvovA killed Trexx  in round 17
+weber killed starxo  in round 17
+Sheydos killed weber  in round 17
+Round 17 ended with detonate. The winning team is Team Heretics.
+The current score is KOI 7 - 10 Team Heretics.
+keloqz killed Trexx  in round 18
+Sheydos killed keloqz  in round 18
+AvovA killed Sheydos  in round 18
+koldamenta killed m1xwell  in round 18
+Wolfen killed Boo  in round 18
+starxo killed AvovA  in round 18
+starxo killed weber  in round 18
+Round 18 ended with spike_defuse. The winning team is KOI.
+The current score is KOI 8 - 10 Team Heretics.
+Wolfen killed m1xwell  in round 19
+AvovA killed Trexx  in round 19
+AvovA killed starxo  in round 19
+Sheydos killed AvovA  in round 19
+keloqz killed koldamenta  in round 19
+Wolfen killed Boo  in round 19
+Sheydos killed keloqz  in round 19
+Wolfen killed weber  in round 19
+Round 19 ended with spike_defuse. The winning team is KOI.
+The current score is KOI 9 - 10 Team Heretics.
+m1xwell killed koldamenta  in round 20
+m1xwell killed Trexx  in round 20
+m1xwell killed starxo  in round 20
+Wolfen killed keloqz  in round 20
+Wolfen killed m1xwell  in round 20
+Round 20 ended with detonate. The winning team is Team Heretics.
+The current score is KOI 9 - 11 Team Heretics.
+Trexx killed Boo  in round 21
+Trexx killed keloqz  in round 21
+weber killed starxo  in round 21
+m1xwell killed Sheydos  in round 21
+koldamenta killed m1xwell  in round 21
+weber killed Wolfen  in round 21
+weber killed Trexx  in round 21
+Round 21 ended with detonate. The winning team is Team Heretics.
+The current score is KOI 9 - 12 Team Heretics.
+AvovA killed koldamenta  in round 22
+AvovA killed Trexx  in round 22
+Sheydos killed weber  in round 22
+keloqz killed Sheydos  in round 22
+m1xwell killed Wolfen  in round 22
+starxo killed keloqz  in round 22
+AvovA killed starxo  in round 22
+Round 22 ended with elimination. The winning team is Team Heretics.
+The current score is KOI 9 - 13 Team Heretics.
+Game ended with winning team: Team Heretics at 2023-05-12T22:41:44Z
+
+--- Player Stats ---
+Boo: Team=Team Heretics, Kills=16, Deaths=14, Assists=2, KDA=1.29, First Kills=3, First Deaths=3
+m1xwell: Team=Team Heretics, Kills=18, Deaths=15, Assists=10, KDA=1.87, First Kills=2, First Deaths=3
+weber: Team=Team Heretics, Kills=13, Deaths=14, Assists=8, KDA=1.5, First Kills=1, First Deaths=0
+AvovA: Team=Team Heretics, Kills=14, Deaths=12, Assists=7, KDA=1.75, First Kills=1, First Deaths=3
+keloqz: Team=Team Heretics, Kills=15, Deaths=18, Assists=3, KDA=1.0, First Kills=3, First Deaths=3
+Trexx: Team=KOI, Kills=16, Deaths=18, Assists=7, KDA=1.28, First Kills=6, First Deaths=3
+starxo: Team=KOI, Kills=14, Deaths=15, Assists=10, KDA=1.6, First Kills=0, First Deaths=2
+koldamenta: Team=KOI, Kills=12, Deaths=17, Assists=8, KDA=1.18, First Kills=0, First Deaths=4
+Sheydos: Team=KOI, Kills=16, Deaths=13, Assists=8, KDA=1.85, First Kills=1, First Deaths=0
+Wolfen: Team=KOI, Kills=15, Deaths=13, Assists=4, KDA=1.46, First Kills=5, First Deaths=1

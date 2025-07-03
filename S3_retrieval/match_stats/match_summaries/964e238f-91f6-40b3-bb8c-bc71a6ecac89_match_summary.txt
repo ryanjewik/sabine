@@ -1,0 +1,230 @@
+Team 1: DRX
+Team 2: DetonatioN FocusMe
+Participating Players:
+Player 1: xnfri
+Player 2: Anthem
+Player 3: Seoldam
+Player 4: Reita
+Player 5: takej
+Player 6: Foxy9
+Player 7: BuZz
+Player 8: stax
+Player 9: MaKo
+Player 10: Rb
+Winning Team: DRX
+Score: DRX 13 - 8 DetonatioN FocusMe
+Tournament Name: vct pacific 2023
+Game Start Time: 2023-05-08T09:47:36Z
+Game End Time: 2023-05-08T10:51:03Z
+Rounds ended by ELIMINATION count: 11
+Rounds ended by DEFUSE count: 9
+Rounds ended by DETONATE count: 1
+SPIKE PLANTED count: 10
+platformGameId: val:964e238f-91f6-40b3-bb8c-bc71a6ecac89
+
+--- Events ---
+Game started at 2023-05-08T09:47:36Z
+Seoldam killed Foxy9  in round 1
+Seoldam killed Rb  in round 1
+MaKo killed xnfri  in round 1
+takej killed MaKo  in round 1
+BuZz killed Anthem  in round 1
+takej killed stax  in round 1
+takej killed BuZz  in round 1
+Round 1 ended with spike_defuse. The winning team is DetonatioN FocusMe.
+The current score is DRX 0 - 1 DetonatioN FocusMe.
+Seoldam killed MaKo  in round 2
+Seoldam killed Foxy9  in round 2
+xnfri killed Rb  in round 2
+BuZz killed takej  in round 2
+xnfri killed BuZz  in round 2
+stax killed xnfri  in round 2
+Reita killed stax  in round 2
+Round 2 ended with elimination. The winning team is DetonatioN FocusMe.
+The current score is DRX 0 - 2 DetonatioN FocusMe.
+BuZz killed xnfri  in round 3
+BuZz killed takej  in round 3
+Seoldam killed BuZz  in round 3
+MaKo killed Reita  in round 3
+MaKo killed Seoldam  in round 3
+stax killed Anthem  in round 3
+Round 3 ended with elimination. The winning team is DRX.
+The current score is DRX 1 - 2 DetonatioN FocusMe.
+Seoldam killed MaKo  in round 4
+Foxy9 killed Anthem  in round 4
+xnfri killed Foxy9  in round 4
+Reita killed Rb  in round 4
+stax killed Reita  in round 4
+stax killed xnfri  in round 4
+Seoldam killed BuZz  in round 4
+takej killed stax  in round 4
+Round 4 ended with spike_defuse. The winning team is DetonatioN FocusMe.
+The current score is DRX 1 - 3 DetonatioN FocusMe.
+xnfri killed Foxy9  in round 5
+MaKo killed takej  in round 5
+xnfri killed stax  in round 5
+BuZz killed Seoldam  in round 5
+BuZz killed xnfri  in round 5
+Reita killed BuZz  in round 5
+MaKo killed Reita  in round 5
+Rb killed Anthem  in round 5
+Round 5 ended with elimination. The winning team is DRX.
+The current score is DRX 2 - 3 DetonatioN FocusMe.
+Seoldam killed BuZz  in round 6
+Seoldam killed Foxy9  in round 6
+Reita killed MaKo  in round 6
+Rb killed xnfri  in round 6
+Rb killed Anthem  in round 6
+Reita killed stax  in round 6
+Seoldam killed Rb  in round 6
+Round 6 ended with spike_defuse. The winning team is DetonatioN FocusMe.
+The current score is DRX 2 - 4 DetonatioN FocusMe.
+Seoldam killed BuZz  in round 7
+Seoldam killed MaKo  in round 7
+Foxy9 killed takej  in round 7
+Foxy9 killed xnfri  in round 7
+Reita killed Foxy9  in round 7
+Anthem killed Rb  in round 7
+Anthem killed stax  in round 7
+Round 7 ended with spike_defuse. The winning team is DetonatioN FocusMe.
+The current score is DRX 2 - 5 DetonatioN FocusMe.
+takej killed Foxy9  in round 8
+Foxy9 killed takej  in round 8
+stax killed Reita  in round 8
+Rb killed Anthem  in round 8
+stax killed Seoldam  in round 8
+BuZz killed xnfri  in round 8
+Round 8 ended with elimination. The winning team is DRX.
+The current score is DRX 3 - 5 DetonatioN FocusMe.
+takej killed BuZz  in round 9
+Reita killed Rb  in round 9
+takej killed stax  in round 9
+Foxy9 killed Seoldam  in round 9
+Foxy9 killed xnfri  in round 9
+Foxy9 killed takej  in round 9
+Round 9 ended with detonate. The winning team is DRX.
+The current score is DRX 4 - 5 DetonatioN FocusMe.
+Anthem killed Anthem  in round 10
+BuZz killed Seoldam  in round 10
+takej killed BuZz  in round 10
+takej killed MaKo  in round 10
+Anthem killed Rb  in round 10
+Anthem killed Foxy9  in round 10
+takej killed stax  in round 10
+Round 10 ended with spike_defuse. The winning team is DetonatioN FocusMe.
+The current score is DRX 4 - 6 DetonatioN FocusMe.
+takej killed BuZz  in round 11
+Seoldam killed MaKo  in round 11
+Seoldam killed stax  in round 11
+Anthem killed Foxy9  in round 11
+Seoldam killed Rb  in round 11
+Round 11 ended with spike_defuse. The winning team is DetonatioN FocusMe.
+The current score is DRX 4 - 7 DetonatioN FocusMe.
+Reita killed Rb  in round 12
+BuZz killed Anthem  in round 12
+BuZz killed Seoldam  in round 12
+MaKo killed xnfri  in round 12
+takej killed Foxy9  in round 12
+takej killed MaKo  in round 12
+BuZz killed Reita  in round 12
+takej killed stax  in round 12
+BuZz killed takej  in round 12
+Round 12 ended with elimination. The winning team is DRX.
+The current score is DRX 5 - 7 DetonatioN FocusMe.
+BuZz killed BuZz  in round 13
+MaKo killed takej  in round 13
+MaKo killed Anthem  in round 13
+Seoldam killed BuZz  in round 13
+Seoldam killed stax  in round 13
+MaKo killed Seoldam  in round 13
+Reita killed MaKo  in round 13
+xnfri killed Rb  in round 13
+Reita killed Foxy9  in round 13
+Round 13 ended with elimination. The winning team is DetonatioN FocusMe.
+The current score is DRX 5 - 8 DetonatioN FocusMe.
+Seoldam killed BuZz  in round 14
+Foxy9 killed takej  in round 14
+Anthem killed Foxy9  in round 14
+stax killed Reita  in round 14
+Seoldam killed MaKo  in round 14
+Rb killed Seoldam  in round 14
+xnfri killed stax  in round 14
+Round 14 ended with spike_defuse. The winning team is DRX.
+The current score is DRX 6 - 8 DetonatioN FocusMe.
+Anthem killed Rb  in round 15
+Foxy9 killed Anthem  in round 15
+BuZz killed Seoldam  in round 15
+takej killed BuZz  in round 15
+MaKo killed xnfri  in round 15
+stax killed takej  in round 15
+stax killed Reita  in round 15
+Round 15 ended with elimination. The winning team is DRX.
+The current score is DRX 7 - 8 DetonatioN FocusMe.
+Foxy9 killed Seoldam  in round 16
+takej killed BuZz  in round 16
+Rb killed Reita  in round 16
+Foxy9 killed takej  in round 16
+Foxy9 killed xnfri  in round 16
+Anthem killed Rb  in round 16
+Foxy9 killed Anthem  in round 16
+Round 16 ended with spike_defuse. The winning team is DRX.
+The current score is DRX 8 - 8 DetonatioN FocusMe.
+Seoldam killed Rb  in round 17
+Foxy9 killed Seoldam  in round 17
+Reita killed Foxy9  in round 17
+stax killed xnfri  in round 17
+MaKo killed Reita  in round 17
+MaKo killed Anthem  in round 17
+takej killed MaKo  in round 17
+BuZz killed takej  in round 17
+Round 17 ended with elimination. The winning team is DRX.
+The current score is DRX 9 - 8 DetonatioN FocusMe.
+Anthem killed Rb  in round 18
+Reita killed Foxy9  in round 18
+stax killed Seoldam  in round 18
+stax killed Reita  in round 18
+BuZz killed Anthem  in round 18
+stax killed xnfri  in round 18
+MaKo killed takej  in round 18
+Round 18 ended with spike_defuse. The winning team is DRX.
+The current score is DRX 10 - 8 DetonatioN FocusMe.
+xnfri killed MaKo  in round 19
+BuZz killed xnfri  in round 19
+takej killed BuZz  in round 19
+stax killed takej  in round 19
+Reita killed stax  in round 19
+Rb killed Seoldam  in round 19
+Rb killed Reita  in round 19
+Foxy9 killed Anthem  in round 19
+Round 19 ended with elimination. The winning team is DRX.
+The current score is DRX 11 - 8 DetonatioN FocusMe.
+MaKo killed Anthem  in round 20
+Seoldam killed MaKo  in round 20
+BuZz killed xnfri  in round 20
+BuZz killed Seoldam  in round 20
+Foxy9 killed Reita  in round 20
+Foxy9 killed takej  in round 20
+Round 20 ended with elimination. The winning team is DRX.
+The current score is DRX 12 - 8 DetonatioN FocusMe.
+MaKo killed Seoldam  in round 21
+BuZz killed takej  in round 21
+BuZz killed xnfri  in round 21
+Anthem killed MaKo  in round 21
+BuZz killed Anthem  in round 21
+Reita killed stax  in round 21
+Rb killed Reita  in round 21
+Round 21 ended with elimination. The winning team is DRX.
+The current score is DRX 13 - 8 DetonatioN FocusMe.
+Game ended with winning team: DRX at 2023-05-08T10:51:03Z
+
+--- Player Stats ---
+xnfri: Team=DetonatioN FocusMe, Kills=8, Deaths=17, Assists=6, KDA=0.82, First Kills=2, First Deaths=1
+Anthem: Team=DetonatioN FocusMe, Kills=11, Deaths=16, Assists=4, KDA=0.94, First Kills=3, First Deaths=2
+Seoldam: Team=DetonatioN FocusMe, Kills=21, Deaths=15, Assists=6, KDA=1.8, First Kills=7, First Deaths=2
+Reita: Team=DetonatioN FocusMe, Kills=14, Deaths=13, Assists=15, KDA=2.23, First Kills=1, First Deaths=0
+takej: Team=DetonatioN FocusMe, Kills=18, Deaths=16, Assists=11, KDA=1.81, First Kills=3, First Deaths=0
+Foxy9: Team=DRX, Kills=17, Deaths=14, Assists=4, KDA=1.5, First Kills=1, First Deaths=3
+BuZz: Team=DRX, Kills=22, Deaths=16, Assists=3, KDA=1.56, First Kills=2, First Deaths=6
+stax: Team=DRX, Kills=14, Deaths=14, Assists=14, KDA=2.0, First Kills=0, First Deaths=0
+MaKo: Team=DRX, Kills=15, Deaths=14, Assists=9, KDA=1.71, First Kills=2, First Deaths=3
+Rb: Team=DRX, Kills=9, Deaths=14, Assists=5, KDA=1.0, First Kills=0, First Deaths=4

@@ -1,0 +1,224 @@
+Team 1: Gentle Mates
+Team 2: NAVI
+Participating Players:
+Player 1: Zyppan
+Player 2: Shao
+Player 3: ANGE1
+Player 4: ardiis
+Player 5: suygetsu
+Player 6: Wailers
+Player 7: nataNk
+Player 8: beyAz
+Player 9: kAdavra
+Player 10: TakaS
+Winning Team: NAVI
+Score: Gentle Mates 7 - 13 NAVI
+Tournament Name: vct emea stage 2 2024
+Game Start Time: 2024-07-11T15:56:44Z
+Game End Time: 2024-07-11T16:48:21Z
+Rounds ended by ELIMINATION count: 14
+Rounds ended by DEFUSE count: 4
+Rounds ended by DETONATE count: 2
+SPIKE PLANTED count: 6
+platformGameId: val:e2abf494-e5dc-4188-9e22-ce128bd1e9c6
+
+--- Events ---
+Game started at 2024-07-11T15:56:44Z
+Wailers killed ANGE1  in round 1
+Zyppan killed Wailers  in round 1
+beyAz killed suygetsu  in round 1
+ardiis killed TakaS  in round 1
+ardiis killed kAdavra  in round 1
+nataNk killed Zyppan  in round 1
+nataNk killed ardiis  in round 1
+nataNk killed Shao  in round 1
+Round 1 ended with elimination. The winning team is Gentle Mates.
+The current score is Gentle Mates 1 - 0 NAVI.
+beyAz killed ANGE1  in round 2
+Zyppan killed TakaS  in round 2
+beyAz killed suygetsu  in round 2
+Wailers killed ardiis  in round 2
+Wailers killed Shao  in round 2
+kAdavra killed Zyppan  in round 2
+Round 2 ended with elimination. The winning team is Gentle Mates.
+The current score is Gentle Mates 2 - 0 NAVI.
+suygetsu killed beyAz  in round 3
+ANGE1 killed nataNk  in round 3
+Wailers killed ANGE1  in round 3
+kAdavra killed suygetsu  in round 3
+kAdavra killed Shao  in round 3
+kAdavra killed Zyppan  in round 3
+TakaS killed ardiis  in round 3
+Round 3 ended with elimination. The winning team is Gentle Mates.
+The current score is Gentle Mates 3 - 0 NAVI.
+TakaS killed Zyppan  in round 4
+suygetsu killed beyAz  in round 4
+nataNk killed Shao  in round 4
+TakaS killed ardiis  in round 4
+suygetsu killed TakaS  in round 4
+ANGE1 killed Wailers  in round 4
+nataNk killed ANGE1  in round 4
+kAdavra killed suygetsu  in round 4
+Round 4 ended with elimination. The winning team is Gentle Mates.
+The current score is Gentle Mates 4 - 0 NAVI.
+Wailers killed Zyppan  in round 5
+beyAz killed ardiis  in round 5
+beyAz killed ANGE1  in round 5
+Shao killed kAdavra  in round 5
+suygetsu killed TakaS  in round 5
+Wailers killed suygetsu  in round 5
+Shao killed nataNk  in round 5
+Shao killed beyAz  in round 5
+Shao killed Wailers  in round 5
+Round 5 ended with spike_defuse. The winning team is NAVI.
+The current score is Gentle Mates 4 - 1 NAVI.
+nataNk killed Zyppan  in round 6
+TakaS killed suygetsu  in round 6
+Shao killed TakaS  in round 6
+nataNk killed ardiis  in round 6
+Shao killed kAdavra  in round 6
+Wailers killed Shao  in round 6
+ANGE1 killed nataNk  in round 6
+Wailers killed ANGE1  in round 6
+Round 6 ended with elimination. The winning team is Gentle Mates.
+The current score is Gentle Mates 5 - 1 NAVI.
+nataNk killed Zyppan  in round 7
+TakaS killed ardiis  in round 7
+kAdavra killed suygetsu  in round 7
+TakaS killed Shao  in round 7
+nataNk killed ANGE1  in round 7
+Round 7 ended with elimination. The winning team is Gentle Mates.
+The current score is Gentle Mates 6 - 1 NAVI.
+kAdavra killed Zyppan  in round 8
+Shao killed TakaS  in round 8
+ANGE1 killed beyAz  in round 8
+ardiis killed nataNk  in round 8
+kAdavra killed suygetsu  in round 8
+Round 8 ended with spike_defuse. The winning team is NAVI.
+The current score is Gentle Mates 6 - 2 NAVI.
+ardiis killed beyAz  in round 9
+ardiis killed TakaS  in round 9
+nataNk killed ardiis  in round 9
+Shao killed kAdavra  in round 9
+nataNk killed Zyppan  in round 9
+ANGE1 killed nataNk  in round 9
+Wailers killed Shao  in round 9
+Wailers killed ANGE1  in round 9
+suygetsu killed Wailers  in round 9
+Round 9 ended with spike_defuse. The winning team is NAVI.
+The current score is Gentle Mates 6 - 3 NAVI.
+nataNk killed Zyppan  in round 10
+TakaS killed suygetsu  in round 10
+nataNk killed ardiis  in round 10
+Shao killed beyAz  in round 10
+kAdavra killed Shao  in round 10
+ANGE1 killed kAdavra  in round 10
+Round 10 ended with detonate. The winning team is Gentle Mates.
+The current score is Gentle Mates 7 - 3 NAVI.
+TakaS killed ANGE1  in round 11
+Zyppan killed beyAz  in round 11
+Zyppan killed TakaS  in round 11
+kAdavra killed ardiis  in round 11
+kAdavra killed Shao  in round 11
+Zyppan killed kAdavra  in round 11
+ANGE1 killed Wailers  in round 11
+nataNk killed ANGE1  in round 11
+suygetsu killed nataNk  in round 11
+Round 11 ended with elimination. The winning team is NAVI.
+The current score is Gentle Mates 7 - 4 NAVI.
+Wailers killed Zyppan  in round 12
+TakaS killed ardiis  in round 12
+suygetsu killed TakaS  in round 12
+Shao killed Wailers  in round 12
+ANGE1 killed beyAz  in round 12
+kAdavra killed suygetsu  in round 12
+Shao killed kAdavra  in round 12
+ANGE1 killed nataNk  in round 12
+Round 12 ended with spike_defuse. The winning team is NAVI.
+The current score is Gentle Mates 7 - 5 NAVI.
+Zyppan killed kAdavra  in round 13
+TakaS killed Zyppan  in round 13
+Shao killed TakaS  in round 13
+ANGE1 killed Wailers  in round 13
+ardiis killed nataNk  in round 13
+ANGE1 killed beyAz  in round 13
+Round 13 ended with elimination. The winning team is NAVI.
+The current score is Gentle Mates 7 - 6 NAVI.
+nataNk killed Zyppan  in round 14
+nataNk killed Shao  in round 14
+ardiis killed kAdavra  in round 14
+suygetsu killed beyAz  in round 14
+suygetsu killed Wailers  in round 14
+suygetsu killed nataNk  in round 14
+suygetsu killed TakaS  in round 14
+Round 14 ended with elimination. The winning team is NAVI.
+The current score is Gentle Mates 7 - 7 NAVI.
+Wailers killed Zyppan  in round 15
+suygetsu killed Wailers  in round 15
+ardiis killed TakaS  in round 15
+ardiis killed beyAz  in round 15
+nataNk killed suygetsu  in round 15
+ardiis killed nataNk  in round 15
+kAdavra killed ardiis  in round 15
+Shao killed kAdavra  in round 15
+Round 15 ended with elimination. The winning team is NAVI.
+The current score is Gentle Mates 7 - 8 NAVI.
+Zyppan killed TakaS  in round 16
+Zyppan killed beyAz  in round 16
+Zyppan killed kAdavra  in round 16
+Zyppan killed Wailers  in round 16
+nataNk killed Zyppan  in round 16
+nataNk killed ardiis  in round 16
+ANGE1 killed nataNk  in round 16
+Round 16 ended with elimination. The winning team is NAVI.
+The current score is Gentle Mates 7 - 9 NAVI.
+ardiis killed Wailers  in round 17
+Zyppan killed beyAz  in round 17
+Zyppan killed TakaS  in round 17
+kAdavra killed Zyppan  in round 17
+Round 17 ended with detonate. The winning team is NAVI.
+The current score is Gentle Mates 7 - 10 NAVI.
+ANGE1 killed kAdavra  in round 18
+ardiis killed TakaS  in round 18
+beyAz killed Zyppan  in round 18
+beyAz killed ardiis  in round 18
+suygetsu killed beyAz  in round 18
+suygetsu killed nataNk  in round 18
+ANGE1 killed Wailers  in round 18
+Round 18 ended with elimination. The winning team is NAVI.
+The current score is Gentle Mates 7 - 11 NAVI.
+ANGE1 killed TakaS  in round 19
+ANGE1 killed nataNk  in round 19
+kAdavra killed suygetsu  in round 19
+kAdavra killed ANGE1  in round 19
+suygetsu killed beyAz  in round 19
+Zyppan killed Wailers  in round 19
+kAdavra killed Shao  in round 19
+kAdavra killed Zyppan  in round 19
+ardiis killed kAdavra  in round 19
+Round 19 ended with elimination. The winning team is NAVI.
+The current score is Gentle Mates 7 - 12 NAVI.
+ardiis killed ardiis  in round 20
+Wailers killed Zyppan  in round 20
+suygetsu killed kAdavra  in round 20
+suygetsu killed beyAz  in round 20
+Wailers killed ANGE1  in round 20
+Shao killed TakaS  in round 20
+ardiis killed nataNk  in round 20
+Wailers killed ardiis  in round 20
+Shao killed Wailers  in round 20
+Round 20 ended with elimination. The winning team is NAVI.
+The current score is Gentle Mates 7 - 13 NAVI.
+Game ended with winning team: NAVI at 2024-07-11T16:48:21Z
+
+--- Player Stats ---
+Zyppan: Team=NAVI, Kills=13, Deaths=19, Assists=5, KDA=0.95, First Kills=2, First Deaths=9
+Shao: Team=NAVI, Kills=15, Deaths=11, Assists=4, KDA=1.73, First Kills=0, First Deaths=0
+ANGE1: Team=NAVI, Kills=16, Deaths=12, Assists=9, KDA=2.08, First Kills=2, First Deaths=3
+ardiis: Team=NAVI, Kills=15, Deaths=16, Assists=12, KDA=1.69, First Kills=3, First Deaths=1
+suygetsu: Team=NAVI, Kills=17, Deaths=12, Assists=5, KDA=1.83, First Kills=1, First Deaths=0
+Wailers: Team=Gentle Mates, Kills=15, Deaths=14, Assists=3, KDA=1.29, First Kills=4, First Deaths=1
+nataNk: Team=Gentle Mates, Kills=19, Deaths=14, Assists=3, KDA=1.57, First Kills=4, First Deaths=0
+beyAz: Team=Gentle Mates, Kills=7, Deaths=16, Assists=6, KDA=0.81, First Kills=1, First Deaths=2
+kAdavra: Team=Gentle Mates, Kills=18, Deaths=14, Assists=6, KDA=1.71, First Kills=1, First Deaths=2
+TakaS: Team=Gentle Mates, Kills=10, Deaths=17, Assists=7, KDA=1.0, First Kills=2, First Deaths=2

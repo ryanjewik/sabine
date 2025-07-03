@@ -1,0 +1,226 @@
+Team 1: None
+Team 2: Team Liquid
+Participating Players:
+Player 1: dimasick
+Player 2: soulcas
+Player 3: ScreaM
+Player 4: Nivera
+Player 5: Jamppi
+Player 6: crashies
+Player 7: Victor
+Player 8: FNS
+Player 9: Marved
+Player 10: yay
+Winning Team: Team Liquid
+Score: None 7 - 13 Team Liquid
+Tournament Name: champions 2022
+Game Start Time: 2022-09-10T13:58:36Z
+Game End Time: 2022-09-10T15:00:13Z
+Rounds ended by ELIMINATION count: 14
+Rounds ended by DEFUSE count: 4
+Rounds ended by DETONATE count: 1
+SPIKE PLANTED count: 5
+platformGameId: val:a90c6bfb-e656-4d0f-ab32-fa1c275374b4
+
+--- Events ---
+Game started at 2022-09-10T13:58:36Z
+Jamppi killed Marved  in round 1
+crashies killed Jamppi  in round 1
+ScreaM killed crashies  in round 1
+soulcas killed yay  in round 1
+Nivera killed Victor  in round 1
+ScreaM killed FNS  in round 1
+Round 1 ended with elimination. The winning team is Team Liquid.
+The current score is None 0 - 1 Team Liquid.
+soulcas killed Victor  in round 2
+dimasick killed yay  in round 2
+dimasick killed FNS  in round 2
+soulcas killed crashies  in round 2
+soulcas killed Marved  in round 2
+Round 2 ended with elimination. The winning team is Team Liquid.
+The current score is None 0 - 2 Team Liquid.
+yay killed Jamppi  in round 3
+ScreaM killed Victor  in round 3
+FNS killed Nivera  in round 3
+ScreaM killed crashies  in round 3
+yay killed dimasick  in round 3
+Marved killed ScreaM  in round 3
+FNS killed soulcas  in round 3
+Round 3 ended with elimination. The winning team is None.
+The current score is None 1 - 2 Team Liquid.
+Jamppi killed Victor  in round 4
+Jamppi killed yay  in round 4
+Round 4 ended with time_expired. The winning team is Team Liquid.
+The current score is None 1 - 3 Team Liquid.
+Victor killed ScreaM  in round 5
+soulcas killed Victor  in round 5
+Nivera killed yay  in round 5
+dimasick killed Marved  in round 5
+FNS killed dimasick  in round 5
+Nivera killed FNS  in round 5
+crashies killed Nivera  in round 5
+crashies killed soulcas  in round 5
+Jamppi killed crashies  in round 5
+Round 5 ended with spike_defuse. The winning team is Team Liquid.
+The current score is None 1 - 4 Team Liquid.
+ScreaM killed Victor  in round 6
+soulcas killed Marved  in round 6
+soulcas killed crashies  in round 6
+FNS killed soulcas  in round 6
+Jamppi killed FNS  in round 6
+yay killed Nivera  in round 6
+Jamppi killed yay  in round 6
+Round 6 ended with elimination. The winning team is Team Liquid.
+The current score is None 1 - 5 Team Liquid.
+ScreaM killed Victor  in round 7
+Nivera killed FNS  in round 7
+ScreaM killed yay  in round 7
+Marved killed ScreaM  in round 7
+crashies killed Nivera  in round 7
+crashies killed soulcas  in round 7
+crashies killed dimasick  in round 7
+Jamppi killed Marved  in round 7
+Jamppi killed crashies  in round 7
+Round 7 ended with spike_defuse. The winning team is Team Liquid.
+The current score is None 1 - 6 Team Liquid.
+yay killed dimasick  in round 8
+Victor killed ScreaM  in round 8
+Jamppi killed Victor  in round 8
+Marved killed Jamppi  in round 8
+soulcas killed Marved  in round 8
+soulcas killed crashies  in round 8
+Nivera killed FNS  in round 8
+soulcas killed yay  in round 8
+Round 8 ended with spike_defuse. The winning team is Team Liquid.
+The current score is None 1 - 7 Team Liquid.
+Victor killed Jamppi  in round 9
+FNS killed ScreaM  in round 9
+Nivera killed Victor  in round 9
+dimasick killed FNS  in round 9
+dimasick killed Marved  in round 9
+yay killed dimasick  in round 9
+Nivera killed crashies  in round 9
+soulcas killed yay  in round 9
+Round 9 ended with elimination. The winning team is Team Liquid.
+The current score is None 1 - 8 Team Liquid.
+crashies killed soulcas  in round 10
+Jamppi killed FNS  in round 10
+yay killed Nivera  in round 10
+dimasick killed Victor  in round 10
+crashies killed dimasick  in round 10
+Jamppi killed crashies  in round 10
+Jamppi killed Marved  in round 10
+ScreaM killed yay  in round 10
+Round 10 ended with spike_defuse. The winning team is Team Liquid.
+The current score is None 1 - 9 Team Liquid.
+Victor killed ScreaM  in round 11
+soulcas killed Victor  in round 11
+FNS killed Nivera  in round 11
+dimasick killed crashies  in round 11
+yay killed Jamppi  in round 11
+FNS killed dimasick  in round 11
+soulcas killed Marved  in round 11
+soulcas killed FNS  in round 11
+soulcas killed yay  in round 11
+Round 11 ended with detonate. The winning team is None.
+The current score is None 2 - 9 Team Liquid.
+soulcas killed soulcas  in round 12
+Jamppi killed Marved  in round 12
+yay killed Jamppi  in round 12
+yay killed soulcas  in round 12
+Victor killed dimasick  in round 12
+Victor killed Nivera  in round 12
+ScreaM killed yay  in round 12
+crashies killed ScreaM  in round 12
+Round 12 ended with elimination. The winning team is None.
+The current score is None 3 - 9 Team Liquid.
+Victor killed ScreaM  in round 13
+Victor killed Nivera  in round 13
+soulcas killed Victor  in round 13
+crashies killed dimasick  in round 13
+FNS killed Jamppi  in round 13
+soulcas killed Marved  in round 13
+crashies killed soulcas  in round 13
+Round 13 ended with elimination. The winning team is None.
+The current score is None 4 - 9 Team Liquid.
+yay killed Jamppi  in round 14
+Marved killed dimasick  in round 14
+Nivera killed Marved  in round 14
+FNS killed Nivera  in round 14
+FNS killed ScreaM  in round 14
+yay killed soulcas  in round 14
+Round 14 ended with elimination. The winning team is None.
+The current score is None 5 - 9 Team Liquid.
+yay killed Nivera  in round 15
+FNS killed dimasick  in round 15
+FNS killed Jamppi  in round 15
+ScreaM killed FNS  in round 15
+soulcas killed yay  in round 15
+Victor killed soulcas  in round 15
+Marved killed ScreaM  in round 15
+Round 15 ended with elimination. The winning team is None.
+The current score is None 6 - 9 Team Liquid.
+yay killed Nivera  in round 16
+yay killed Jamppi  in round 16
+ScreaM killed yay  in round 16
+soulcas killed crashies  in round 16
+ScreaM killed Victor  in round 16
+Marved killed soulcas  in round 16
+dimasick killed Marved  in round 16
+dimasick killed FNS  in round 16
+Round 16 ended with elimination. The winning team is Team Liquid.
+The current score is None 6 - 10 Team Liquid.
+ScreaM killed Victor  in round 17
+crashies killed soulcas  in round 17
+crashies killed Nivera  in round 17
+dimasick killed yay  in round 17
+dimasick killed Marved  in round 17
+Jamppi killed crashies  in round 17
+FNS killed dimasick  in round 17
+ScreaM killed FNS  in round 17
+Round 17 ended with elimination. The winning team is Team Liquid.
+The current score is None 6 - 11 Team Liquid.
+ScreaM killed Victor  in round 18
+Nivera killed Marved  in round 18
+FNS killed soulcas  in round 18
+ScreaM killed crashies  in round 18
+FNS killed dimasick  in round 18
+ScreaM killed yay  in round 18
+ScreaM killed FNS  in round 18
+Round 18 ended with elimination. The winning team is Team Liquid.
+The current score is None 6 - 12 Team Liquid.
+Jamppi killed Victor  in round 19
+Marved killed ScreaM  in round 19
+FNS killed Jamppi  in round 19
+yay killed Nivera  in round 19
+soulcas killed FNS  in round 19
+dimasick killed Marved  in round 19
+yay killed dimasick  in round 19
+soulcas killed yay  in round 19
+crashies killed soulcas  in round 19
+Round 19 ended with elimination. The winning team is None.
+The current score is None 7 - 12 Team Liquid.
+Nivera killed Victor  in round 20
+Jamppi killed crashies  in round 20
+soulcas killed FNS  in round 20
+ScreaM killed Marved  in round 20
+yay killed soulcas  in round 20
+yay killed ScreaM  in round 20
+yay killed Nivera  in round 20
+yay killed Jamppi  in round 20
+dimasick killed yay  in round 20
+Round 20 ended with elimination. The winning team is Team Liquid.
+The current score is None 7 - 13 Team Liquid.
+Game ended with winning team: Team Liquid at 2022-09-10T15:00:13Z
+
+--- Player Stats ---
+dimasick: Team=Team Liquid, Kills=13, Deaths=14, Assists=6, KDA=1.36, First Kills=0, First Deaths=1
+soulcas: Team=Team Liquid, Kills=23, Deaths=15, Assists=12, KDA=2.33, First Kills=2, First Deaths=2
+ScreaM: Team=Team Liquid, Kills=19, Deaths=12, Assists=5, KDA=2.0, First Kills=4, First Deaths=3
+Nivera: Team=Team Liquid, Kills=10, Deaths=14, Assists=3, KDA=0.93, First Kills=1, First Deaths=2
+Jamppi: Team=Team Liquid, Kills=16, Deaths=12, Assists=6, KDA=1.83, First Kills=3, First Deaths=3
+crashies: Team=None, Kills=14, Deaths=14, Assists=4, KDA=1.29, First Kills=1, First Deaths=0
+Victor: Team=None, Kills=9, Deaths=17, Assists=2, KDA=0.65, First Kills=4, First Deaths=8
+FNS: Team=None, Kills=16, Deaths=15, Assists=8, KDA=1.6, First Kills=0, First Deaths=0
+Marved: Team=None, Kills=7, Deaths=17, Assists=6, KDA=0.76, First Kills=0, First Deaths=1
+yay: Team=None, Kills=20, Deaths=17, Assists=4, KDA=1.41, First Kills=5, First Deaths=0

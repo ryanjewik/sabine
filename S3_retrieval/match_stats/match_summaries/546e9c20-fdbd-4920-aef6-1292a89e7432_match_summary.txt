@@ -1,0 +1,203 @@
+Team 1: KRÜ Esports
+Team 2: G2 Esports
+Participating Players:
+Player 1: icy
+Player 2: Leaf
+Player 3: valyn
+Player 4: trent
+Player 5: JonahP
+Player 6: KeznitdeuS
+Player 7: Shyy
+Player 8: Klaus
+Player 9: Melser
+Player 10: heat
+Winning Team: G2 Esports
+Score: KRÜ Esports 5 - 13 G2 Esports
+Tournament Name: vct americas stage 1 2024
+Game Start Time: 2024-05-09T20:50:35Z
+Game End Time: 2024-05-09T21:44:15Z
+Rounds ended by ELIMINATION count: 13
+Rounds ended by DEFUSE count: 5
+Rounds ended by DETONATE count: 0
+SPIKE PLANTED count: 5
+platformGameId: val:546e9c20-fdbd-4920-aef6-1292a89e7432
+
+--- Events ---
+Game started at 2024-05-09T20:50:35Z
+heat killed icy  in round 1
+trent killed heat  in round 1
+valyn killed Shyy  in round 1
+Melser killed trent  in round 1
+JonahP killed Melser  in round 1
+Klaus killed valyn  in round 1
+JonahP killed KeznitdeuS  in round 1
+JonahP killed Klaus  in round 1
+Round 1 ended with elimination. The winning team is G2 Esports.
+The current score is KRÜ Esports 0 - 1 G2 Esports.
+Leaf killed heat  in round 2
+Leaf killed Klaus  in round 2
+KeznitdeuS killed valyn  in round 2
+JonahP killed Shyy  in round 2
+Leaf killed Melser  in round 2
+trent killed KeznitdeuS  in round 2
+Round 2 ended with elimination. The winning team is G2 Esports.
+The current score is KRÜ Esports 0 - 2 G2 Esports.
+Leaf killed heat  in round 3
+KeznitdeuS killed Leaf  in round 3
+Melser killed trent  in round 3
+Klaus killed valyn  in round 3
+icy killed Shyy  in round 3
+icy killed KeznitdeuS  in round 3
+Melser killed icy  in round 3
+JonahP killed Klaus  in round 3
+Melser killed JonahP  in round 3
+Round 3 ended with elimination. The winning team is KRÜ Esports.
+The current score is KRÜ Esports 1 - 2 G2 Esports.
+Leaf killed Melser  in round 4
+icy killed KeznitdeuS  in round 4
+Leaf killed heat  in round 4
+Shyy killed icy  in round 4
+Shyy killed Leaf  in round 4
+Round 4 ended with spike_defuse. The winning team is G2 Esports.
+The current score is KRÜ Esports 1 - 3 G2 Esports.
+JonahP killed Klaus  in round 5
+Shyy killed valyn  in round 5
+Leaf killed Klaus  in round 5
+Leaf killed KeznitdeuS  in round 5
+JonahP killed Melser  in round 5
+trent killed heat  in round 5
+Leaf killed Shyy  in round 5
+Round 5 ended with spike_defuse. The winning team is G2 Esports.
+The current score is KRÜ Esports 1 - 4 G2 Esports.
+trent killed KeznitdeuS  in round 6
+Melser killed icy  in round 6
+heat killed JonahP  in round 6
+Leaf killed Melser  in round 6
+Klaus killed Leaf  in round 6
+Shyy killed valyn  in round 6
+trent killed Shyy  in round 6
+heat killed trent  in round 6
+Round 6 ended with elimination. The winning team is KRÜ Esports.
+The current score is KRÜ Esports 2 - 4 G2 Esports.
+JonahP killed KeznitdeuS  in round 7
+valyn killed Klaus  in round 7
+Leaf killed Shyy  in round 7
+Melser killed Leaf  in round 7
+icy killed heat  in round 7
+Round 7 ended with spike_defuse. The winning team is G2 Esports.
+The current score is KRÜ Esports 2 - 5 G2 Esports.
+Melser killed valyn  in round 8
+Leaf killed KeznitdeuS  in round 8
+heat killed icy  in round 8
+Leaf killed Klaus  in round 8
+Melser killed trent  in round 8
+JonahP killed Shyy  in round 8
+JonahP killed Melser  in round 8
+Leaf killed heat  in round 8
+Round 8 ended with spike_defuse. The winning team is G2 Esports.
+The current score is KRÜ Esports 2 - 6 G2 Esports.
+KeznitdeuS killed JonahP  in round 9
+Melser killed icy  in round 9
+Melser killed valyn  in round 9
+trent killed Klaus  in round 9
+trent killed KeznitdeuS  in round 9
+Leaf killed Melser  in round 9
+Leaf killed Shyy  in round 9
+heat killed Leaf  in round 9
+trent killed heat  in round 9
+Round 9 ended with spike_defuse. The winning team is G2 Esports.
+The current score is KRÜ Esports 2 - 7 G2 Esports.
+Melser killed Leaf  in round 10
+Klaus killed JonahP  in round 10
+trent killed heat  in round 10
+Melser killed valyn  in round 10
+Melser killed trent  in round 10
+Melser killed icy  in round 10
+Round 10 ended with elimination. The winning team is KRÜ Esports.
+The current score is KRÜ Esports 3 - 7 G2 Esports.
+Leaf killed heat  in round 11
+Leaf killed KeznitdeuS  in round 11
+Leaf killed Klaus  in round 11
+icy killed Melser  in round 11
+Shyy killed valyn  in round 11
+icy killed Shyy  in round 11
+Round 11 ended with elimination. The winning team is G2 Esports.
+The current score is KRÜ Esports 3 - 8 G2 Esports.
+trent killed KeznitdeuS  in round 12
+valyn killed Shyy  in round 12
+heat killed trent  in round 12
+Klaus killed JonahP  in round 12
+valyn killed Klaus  in round 12
+Melser killed icy  in round 12
+heat killed valyn  in round 12
+Leaf killed Melser  in round 12
+heat killed Leaf  in round 12
+Round 12 ended with elimination. The winning team is KRÜ Esports.
+The current score is KRÜ Esports 4 - 8 G2 Esports.
+valyn killed heat  in round 13
+icy killed KeznitdeuS  in round 13
+Klaus killed valyn  in round 13
+Leaf killed Klaus  in round 13
+JonahP killed Melser  in round 13
+Shyy killed JonahP  in round 13
+trent killed Shyy  in round 13
+Round 13 ended with elimination. The winning team is G2 Esports.
+The current score is KRÜ Esports 4 - 9 G2 Esports.
+JonahP killed heat  in round 14
+JonahP killed KeznitdeuS  in round 14
+icy killed Klaus  in round 14
+trent killed Melser  in round 14
+icy killed Shyy  in round 14
+Round 14 ended with elimination. The winning team is G2 Esports.
+The current score is KRÜ Esports 4 - 10 G2 Esports.
+Klaus killed JonahP  in round 15
+Shyy killed trent  in round 15
+icy killed Shyy  in round 15
+heat killed icy  in round 15
+valyn killed heat  in round 15
+Leaf killed Klaus  in round 15
+Leaf killed Melser  in round 15
+KeznitdeuS killed Leaf  in round 15
+valyn killed KeznitdeuS  in round 15
+Round 15 ended with elimination. The winning team is G2 Esports.
+The current score is KRÜ Esports 4 - 11 G2 Esports.
+icy killed Melser  in round 16
+Klaus killed icy  in round 16
+KeznitdeuS killed JonahP  in round 16
+valyn killed KeznitdeuS  in round 16
+valyn killed Klaus  in round 16
+heat killed valyn  in round 16
+heat killed Leaf  in round 16
+trent killed heat  in round 16
+trent killed Shyy  in round 16
+Round 16 ended with elimination. The winning team is G2 Esports.
+The current score is KRÜ Esports 4 - 12 G2 Esports.
+Melser killed icy  in round 17
+heat killed JonahP  in round 17
+heat killed valyn  in round 17
+KeznitdeuS killed trent  in round 17
+KeznitdeuS killed Leaf  in round 17
+Round 17 ended with elimination. The winning team is KRÜ Esports.
+The current score is KRÜ Esports 5 - 12 G2 Esports.
+trent killed heat  in round 18
+Klaus killed trent  in round 18
+valyn killed KeznitdeuS  in round 18
+valyn killed Klaus  in round 18
+Leaf killed Shyy  in round 18
+Melser killed icy  in round 18
+valyn killed Melser  in round 18
+Round 18 ended with elimination. The winning team is G2 Esports.
+The current score is KRÜ Esports 5 - 13 G2 Esports.
+Game ended with winning team: G2 Esports at 2024-05-09T21:44:15Z
+
+--- Player Stats ---
+icy: Team=G2 Esports, Kills=11, Deaths=12, Assists=5, KDA=1.33, First Kills=1, First Deaths=2
+Leaf: Team=G2 Esports, Kills=24, Deaths=10, Assists=4, KDA=2.8, First Kills=4, First Deaths=1
+valyn: Team=G2 Esports, Kills=12, Deaths=13, Assists=5, KDA=1.31, First Kills=1, First Deaths=1
+trent: Team=G2 Esports, Kills=15, Deaths=9, Assists=6, KDA=2.33, First Kills=3, First Deaths=0
+JonahP: Team=G2 Esports, Kills=13, Deaths=9, Assists=5, KDA=2.0, First Kills=3, First Deaths=2
+KeznitdeuS: Team=KRÜ Esports, Kills=7, Deaths=16, Assists=3, KDA=0.62, First Kills=1, First Deaths=3
+Shyy: Team=KRÜ Esports, Kills=7, Deaths=15, Assists=0, KDA=0.47, First Kills=0, First Deaths=0
+Klaus: Team=KRÜ Esports, Kills=9, Deaths=15, Assists=5, KDA=0.93, First Kills=1, First Deaths=1
+Melser: Team=KRÜ Esports, Kills=17, Deaths=14, Assists=4, KDA=1.5, First Kills=3, First Deaths=2
+heat: Team=KRÜ Esports, Kills=13, Deaths=15, Assists=10, KDA=1.53, First Kills=1, First Deaths=6

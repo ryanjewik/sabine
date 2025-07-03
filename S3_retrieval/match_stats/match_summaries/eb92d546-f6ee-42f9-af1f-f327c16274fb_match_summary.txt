@@ -1,0 +1,223 @@
+Team 1: 100 Thieves
+Team 2: MIBR
+Participating Players:
+Player 1: frz
+Player 2: rglmeister
+Player 3: murizzz
+Player 4: TxoziN
+Player 5: jzz
+Player 6: Asuna
+Player 7: Cryo
+Player 8: stellar
+Player 9: Derrek
+Player 10: bangNA
+Winning Team: MIBR
+Score: 100 Thieves 7 - 13 MIBR
+Tournament Name: vct americas 2023
+Game Start Time: 2023-05-20T21:04:57Z
+Game End Time: 2023-05-20T21:51:32Z
+Rounds ended by ELIMINATION count: 11
+Rounds ended by DEFUSE count: 6
+Rounds ended by DETONATE count: 3
+SPIKE PLANTED count: 9
+platformGameId: val:eb92d546-f6ee-42f9-af1f-f327c16274fb
+
+--- Events ---
+Game started at 2023-05-20T21:04:57Z
+murizzz killed bangNA  in round 1
+Cryo killed frz  in round 1
+murizzz killed Derrek  in round 1
+Asuna killed murizzz  in round 1
+Cryo killed jzz  in round 1
+rglmeister killed Cryo  in round 1
+rglmeister killed stellar  in round 1
+Asuna killed rglmeister  in round 1
+TxoziN killed Asuna  in round 1
+Round 1 ended with spike_defuse. The winning team is MIBR.
+The current score is 100 Thieves 0 - 1 MIBR.
+jzz killed Cryo  in round 2
+bangNA killed rglmeister  in round 2
+frz killed stellar  in round 2
+frz killed bangNA  in round 2
+jzz killed Derrek  in round 2
+murizzz killed Asuna  in round 2
+Round 2 ended with elimination. The winning team is MIBR.
+The current score is 100 Thieves 0 - 2 MIBR.
+TxoziN killed Cryo  in round 3
+Derrek killed rglmeister  in round 3
+stellar killed murizzz  in round 3
+TxoziN killed Asuna  in round 3
+Derrek killed jzz  in round 3
+frz killed bangNA  in round 3
+stellar killed frz  in round 3
+TxoziN killed stellar  in round 3
+TxoziN killed Derrek  in round 3
+Round 3 ended with spike_defuse. The winning team is MIBR.
+The current score is 100 Thieves 0 - 3 MIBR.
+Cryo killed murizzz  in round 4
+jzz killed Asuna  in round 4
+jzz killed bangNA  in round 4
+jzz killed Cryo  in round 4
+Derrek killed jzz  in round 4
+rglmeister killed stellar  in round 4
+Derrek killed frz  in round 4
+rglmeister killed Derrek  in round 4
+Round 4 ended with spike_defuse. The winning team is MIBR.
+The current score is 100 Thieves 0 - 4 MIBR.
+bangNA killed jzz  in round 5
+murizzz killed stellar  in round 5
+Asuna killed murizzz  in round 5
+frz killed bangNA  in round 5
+frz killed Asuna  in round 5
+Derrek killed rglmeister  in round 5
+TxoziN killed Cryo  in round 5
+TxoziN killed Derrek  in round 5
+Round 5 ended with elimination. The winning team is MIBR.
+The current score is 100 Thieves 0 - 5 MIBR.
+Cryo killed jzz  in round 6
+Cryo killed rglmeister  in round 6
+Derrek killed frz  in round 6
+TxoziN killed Derrek  in round 6
+TxoziN killed stellar  in round 6
+Cryo killed TxoziN  in round 6
+Asuna killed murizzz  in round 6
+Round 6 ended with elimination. The winning team is 100 Thieves.
+The current score is 100 Thieves 1 - 5 MIBR.
+Asuna killed murizzz  in round 7
+TxoziN killed bangNA  in round 7
+jzz killed Derrek  in round 7
+Round 7 ended with detonate. The winning team is 100 Thieves.
+The current score is 100 Thieves 2 - 5 MIBR.
+TxoziN killed Asuna  in round 8
+rglmeister killed Cryo  in round 8
+jzz killed bangNA  in round 8
+Derrek killed jzz  in round 8
+stellar killed TxoziN  in round 8
+rglmeister killed stellar  in round 8
+Derrek killed rglmeister  in round 8
+Round 8 ended with spike_defuse. The winning team is MIBR.
+The current score is 100 Thieves 2 - 6 MIBR.
+Derrek killed murizzz  in round 9
+Cryo killed murizzz  in round 9
+Cryo killed TxoziN  in round 9
+Cryo killed frz  in round 9
+Cryo killed jzz  in round 9
+bangNA killed rglmeister  in round 9
+Round 9 ended with elimination. The winning team is 100 Thieves.
+The current score is 100 Thieves 3 - 6 MIBR.
+Cryo killed jzz  in round 10
+bangNA killed TxoziN  in round 10
+bangNA killed rglmeister  in round 10
+Asuna killed frz  in round 10
+murizzz killed Asuna  in round 10
+murizzz killed Cryo  in round 10
+bangNA killed murizzz  in round 10
+Round 10 ended with elimination. The winning team is 100 Thieves.
+The current score is 100 Thieves 4 - 6 MIBR.
+jzz killed Cryo  in round 11
+Asuna killed jzz  in round 11
+rglmeister killed stellar  in round 11
+frz killed bangNA  in round 11
+rglmeister killed Derrek  in round 11
+rglmeister killed Asuna  in round 11
+Round 11 ended with elimination. The winning team is MIBR.
+The current score is 100 Thieves 4 - 7 MIBR.
+jzz killed Cryo  in round 12
+stellar killed murizzz  in round 12
+jzz killed stellar  in round 12
+Asuna killed jzz  in round 12
+rglmeister killed bangNA  in round 12
+Asuna killed TxoziN  in round 12
+Derrek killed rglmeister  in round 12
+Asuna killed frz  in round 12
+Round 12 ended with elimination. The winning team is 100 Thieves.
+The current score is 100 Thieves 5 - 7 MIBR.
+jzz killed Derrek  in round 13
+murizzz killed stellar  in round 13
+Asuna killed murizzz  in round 13
+rglmeister killed Cryo  in round 13
+TxoziN killed Asuna  in round 13
+bangNA killed jzz  in round 13
+frz killed bangNA  in round 13
+Round 13 ended with elimination. The winning team is MIBR.
+The current score is 100 Thieves 5 - 8 MIBR.
+murizzz killed stellar  in round 14
+jzz killed bangNA  in round 14
+Cryo killed jzz  in round 14
+murizzz killed Derrek  in round 14
+frz killed Cryo  in round 14
+TxoziN killed Asuna  in round 14
+Round 14 ended with elimination. The winning team is MIBR.
+The current score is 100 Thieves 5 - 9 MIBR.
+TxoziN killed Asuna  in round 15
+jzz killed stellar  in round 15
+bangNA killed murizzz  in round 15
+bangNA killed frz  in round 15
+Round 15 ended with detonate. The winning team is MIBR.
+The current score is 100 Thieves 5 - 10 MIBR.
+jzz killed jzz  in round 16
+Cryo killed jzz  in round 16
+murizzz killed Cryo  in round 16
+Asuna killed murizzz  in round 16
+Asuna killed frz  in round 16
+Derrek killed TxoziN  in round 16
+rglmeister killed bangNA  in round 16
+rglmeister killed Asuna  in round 16
+rglmeister killed stellar  in round 16
+rglmeister killed Derrek  in round 16
+Round 16 ended with elimination. The winning team is MIBR.
+The current score is 100 Thieves 5 - 11 MIBR.
+Asuna killed murizzz  in round 17
+rglmeister killed stellar  in round 17
+jzz killed Cryo  in round 17
+Derrek killed rglmeister  in round 17
+jzz killed Derrek  in round 17
+Asuna killed jzz  in round 17
+Asuna killed frz  in round 17
+TxoziN killed Asuna  in round 17
+bangNA killed TxoziN  in round 17
+Round 17 ended with spike_defuse. The winning team is 100 Thieves.
+The current score is 100 Thieves 6 - 11 MIBR.
+jzz killed Asuna  in round 18
+rglmeister killed Cryo  in round 18
+bangNA killed TxoziN  in round 18
+rglmeister killed bangNA  in round 18
+rglmeister killed Derrek  in round 18
+frz killed stellar  in round 18
+Round 18 ended with elimination. The winning team is MIBR.
+The current score is 100 Thieves 6 - 12 MIBR.
+Asuna killed jzz  in round 19
+murizzz killed Asuna  in round 19
+murizzz killed bangNA  in round 19
+Derrek killed murizzz  in round 19
+Cryo killed TxoziN  in round 19
+frz killed stellar  in round 19
+Cryo killed frz  in round 19
+Derrek killed rglmeister  in round 19
+Round 19 ended with spike_defuse. The winning team is 100 Thieves.
+The current score is 100 Thieves 7 - 12 MIBR.
+bangNA killed murizzz  in round 20
+Cryo killed jzz  in round 20
+frz killed Derrek  in round 20
+stellar killed rglmeister  in round 20
+TxoziN killed bangNA  in round 20
+stellar killed frz  in round 20
+TxoziN killed Cryo  in round 20
+Asuna killed TxoziN  in round 20
+Round 20 ended with detonate. The winning team is MIBR.
+The current score is 100 Thieves 7 - 13 MIBR.
+Asuna killed Asuna  in round 21
+Game ended with winning team: MIBR at 2023-05-20T21:51:32Z
+stellar killed stellar  in round 21
+
+--- Player Stats ---
+frz: Team=MIBR, Kills=11, Deaths=12, Assists=8, KDA=1.58, First Kills=0, First Deaths=0
+rglmeister: Team=MIBR, Kills=19, Deaths=12, Assists=4, KDA=1.92, First Kills=0, First Deaths=0
+murizzz: Team=MIBR, Kills=12, Deaths=16, Assists=8, KDA=1.25, First Kills=2, First Deaths=5
+TxoziN: Team=MIBR, Kills=17, Deaths=10, Assists=4, KDA=2.1, First Kills=3, First Deaths=0
+jzz: Team=MIBR, Kills=17, Deaths=17, Assists=7, KDA=1.41, First Kills=6, First Deaths=5
+Asuna: Team=100 Thieves, Kills=19, Deaths=16, Assists=11, KDA=1.88, First Kills=4, First Deaths=4
+Cryo: Team=100 Thieves, Kills=16, Deaths=15, Assists=7, KDA=1.53, First Kills=3, First Deaths=4
+stellar: Team=100 Thieves, Kills=7, Deaths=17, Assists=9, KDA=0.94, First Kills=0, First Deaths=1
+Derrek: Team=100 Thieves, Kills=14, Deaths=14, Assists=7, KDA=1.5, First Kills=1, First Deaths=1
+bangNA: Team=100 Thieves, Kills=12, Deaths=15, Assists=8, KDA=1.33, First Kills=2, First Deaths=1

@@ -1,0 +1,199 @@
+Team 1: Gen.G Esports
+Team 2: Team Secret
+Participating Players:
+Player 1: BORKUM
+Player 2: Jremy
+Player 3: JessieVash
+Player 4: invy
+Player 5: NDG
+Player 6: t3xture
+Player 7: Lakia
+Player 8: Munchkin
+Player 9: Meteor 
+Player 10: Karon
+Winning Team: Team Secret
+Score: Gen.G Esports 5 - 13 Team Secret
+Tournament Name: vct pacific kickoff 2024
+Game Start Time: 2024-02-22T05:53:45Z
+Game End Time: 2024-02-22T06:46:13Z
+Rounds ended by ELIMINATION count: 13
+Rounds ended by DEFUSE count: 3
+Rounds ended by DETONATE count: 0
+SPIKE PLANTED count: 3
+platformGameId: val:2952b725-0c70-4a4f-8db7-48a9097f3653
+
+--- Events ---
+Game started at 2024-02-22T05:53:45Z
+Jremy killed Meteor   in round 1
+Munchkin killed JessieVash  in round 1
+BORKUM killed Karon  in round 1
+Jremy killed Lakia  in round 1
+t3xture killed Jremy  in round 1
+Munchkin killed invy  in round 1
+t3xture killed BORKUM  in round 1
+t3xture killed NDG  in round 1
+Round 1 ended with elimination. The winning team is Gen.G Esports.
+The current score is Gen.G Esports 1 - 0 Team Secret.
+Jremy killed Munchkin  in round 2
+Jremy killed t3xture  in round 2
+invy killed Meteor   in round 2
+Karon killed Jremy  in round 2
+NDG killed Karon  in round 2
+Lakia killed JessieVash  in round 2
+invy killed Lakia  in round 2
+Round 2 ended with elimination. The winning team is Team Secret.
+The current score is Gen.G Esports 1 - 1 Team Secret.
+invy killed Lakia  in round 3
+Meteor  killed Jremy  in round 3
+invy killed t3xture  in round 3
+BORKUM killed Karon  in round 3
+Meteor  killed JessieVash  in round 3
+BORKUM killed Munchkin  in round 3
+Round 3 ended with time_expired. The winning team is Team Secret.
+The current score is Gen.G Esports 1 - 2 Team Secret.
+invy killed Meteor   in round 4
+NDG killed t3xture  in round 4
+Jremy killed Lakia  in round 4
+Jremy killed Meteor   in round 4
+Karon killed NDG  in round 4
+Munchkin killed Jremy  in round 4
+BORKUM killed Karon  in round 4
+JessieVash killed Munchkin  in round 4
+Round 4 ended with elimination. The winning team is Team Secret.
+The current score is Gen.G Esports 1 - 3 Team Secret.
+Meteor  killed invy  in round 5
+Karon killed BORKUM  in round 5
+Jremy killed Karon  in round 5
+Meteor  killed Jremy  in round 5
+NDG killed Meteor   in round 5
+Munchkin killed NDG  in round 5
+JessieVash killed t3xture  in round 5
+Munchkin killed JessieVash  in round 5
+Round 5 ended with elimination. The winning team is Gen.G Esports.
+The current score is Gen.G Esports 2 - 3 Team Secret.
+Lakia killed NDG  in round 6
+Jremy killed t3xture  in round 6
+Jremy killed Lakia  in round 6
+invy killed Meteor   in round 6
+JessieVash killed Munchkin  in round 6
+invy killed Karon  in round 6
+Round 6 ended with spike_defuse. The winning team is Team Secret.
+The current score is Gen.G Esports 2 - 4 Team Secret.
+Jremy killed Lakia  in round 7
+t3xture killed Jremy  in round 7
+NDG killed Karon  in round 7
+t3xture killed JessieVash  in round 7
+NDG killed Meteor   in round 7
+NDG killed Munchkin  in round 7
+Round 7 ended with time_expired. The winning team is Team Secret.
+The current score is Gen.G Esports 2 - 5 Team Secret.
+NDG killed t3xture  in round 8
+Jremy killed t3xture  in round 8
+Lakia killed invy  in round 8
+BORKUM killed Meteor   in round 8
+Munchkin killed BORKUM  in round 8
+JessieVash killed Karon  in round 8
+Jremy killed Munchkin  in round 8
+Lakia killed Jremy  in round 8
+JessieVash killed Lakia  in round 8
+Round 8 ended with spike_defuse. The winning team is Team Secret.
+The current score is Gen.G Esports 2 - 6 Team Secret.
+Karon killed BORKUM  in round 9
+Lakia killed JessieVash  in round 9
+invy killed t3xture  in round 9
+invy killed Meteor   in round 9
+Jremy killed Karon  in round 9
+Munchkin killed Jremy  in round 9
+Munchkin killed invy  in round 9
+Munchkin killed NDG  in round 9
+Round 9 ended with elimination. The winning team is Gen.G Esports.
+The current score is Gen.G Esports 3 - 6 Team Secret.
+invy killed Meteor   in round 10
+JessieVash killed t3xture  in round 10
+JessieVash killed Lakia  in round 10
+JessieVash killed Karon  in round 10
+BORKUM killed Munchkin  in round 10
+Round 10 ended with elimination. The winning team is Team Secret.
+The current score is Gen.G Esports 3 - 7 Team Secret.
+Jremy killed Karon  in round 11
+NDG killed t3xture  in round 11
+Lakia killed NDG  in round 11
+Jremy killed Munchkin  in round 11
+JessieVash killed Lakia  in round 11
+Jremy killed Meteor   in round 11
+Round 11 ended with elimination. The winning team is Team Secret.
+The current score is Gen.G Esports 3 - 8 Team Secret.
+Jremy killed Lakia  in round 12
+t3xture killed BORKUM  in round 12
+Karon killed JessieVash  in round 12
+Munchkin killed Jremy  in round 12
+Meteor  killed NDG  in round 12
+t3xture killed invy  in round 12
+Round 12 ended with elimination. The winning team is Gen.G Esports.
+The current score is Gen.G Esports 4 - 8 Team Secret.
+NDG killed t3xture  in round 13
+Meteor  killed BORKUM  in round 13
+Jremy killed Meteor   in round 13
+invy killed Munchkin  in round 13
+JessieVash killed Lakia  in round 13
+JessieVash killed Karon  in round 13
+Round 13 ended with elimination. The winning team is Team Secret.
+The current score is Gen.G Esports 4 - 9 Team Secret.
+invy killed Meteor   in round 14
+Jremy killed Munchkin  in round 14
+JessieVash killed t3xture  in round 14
+JessieVash killed Karon  in round 14
+Lakia killed Jremy  in round 14
+invy killed Lakia  in round 14
+Round 14 ended with elimination. The winning team is Team Secret.
+The current score is Gen.G Esports 4 - 10 Team Secret.
+Karon killed Jremy  in round 15
+NDG killed Munchkin  in round 15
+Karon killed JessieVash  in round 15
+BORKUM killed Lakia  in round 15
+invy killed Karon  in round 15
+NDG killed t3xture  in round 15
+Meteor  killed invy  in round 15
+BORKUM killed Meteor   in round 15
+Round 15 ended with elimination. The winning team is Team Secret.
+The current score is Gen.G Esports 4 - 11 Team Secret.
+JessieVash killed Meteor   in round 16
+BORKUM killed t3xture  in round 16
+Karon killed BORKUM  in round 16
+invy killed Karon  in round 16
+JessieVash killed Lakia  in round 16
+Munchkin killed JessieVash  in round 16
+Jremy killed Munchkin  in round 16
+Round 16 ended with elimination. The winning team is Team Secret.
+The current score is Gen.G Esports 4 - 12 Team Secret.
+Karon killed Jremy  in round 17
+Munchkin killed NDG  in round 17
+Meteor  killed invy  in round 17
+JessieVash killed t3xture  in round 17
+JessieVash killed Karon  in round 17
+Lakia killed BORKUM  in round 17
+Meteor  killed JessieVash  in round 17
+Round 17 ended with spike_defuse. The winning team is Gen.G Esports.
+The current score is Gen.G Esports 5 - 12 Team Secret.
+Jremy killed Lakia  in round 18
+JessieVash killed Munchkin  in round 18
+t3xture killed JessieVash  in round 18
+Jremy killed Meteor   in round 18
+Karon killed NDG  in round 18
+invy killed Karon  in round 18
+invy killed t3xture  in round 18
+Round 18 ended with elimination. The winning team is Team Secret.
+The current score is Gen.G Esports 5 - 13 Team Secret.
+Game ended with winning team: Team Secret at 2024-02-22T06:46:13Z
+
+--- Player Stats ---
+BORKUM: Team=Team Secret, Kills=9, Deaths=8, Assists=6, KDA=1.88, First Kills=0, First Deaths=1
+Jremy: Team=Team Secret, Kills=22, Deaths=12, Assists=5, KDA=2.25, First Kills=6, First Deaths=2
+JessieVash: Team=Team Secret, Kills=18, Deaths=11, Assists=6, KDA=2.18, First Kills=1, First Deaths=0
+invy: Team=Team Secret, Kills=17, Deaths=7, Assists=6, KDA=3.29, First Kills=4, First Deaths=1
+NDG: Team=Team Secret, Kills=11, Deaths=9, Assists=7, KDA=2.0, First Kills=2, First Deaths=1
+t3xture: Team=Gen.G Esports, Kills=8, Deaths=16, Assists=3, KDA=0.69, First Kills=0, First Deaths=2
+Lakia: Team=Gen.G Esports, Kills=8, Deaths=15, Assists=5, KDA=0.87, First Kills=1, First Deaths=4
+Munchkin: Team=Gen.G Esports, Kills=12, Deaths=13, Assists=4, KDA=1.23, First Kills=0, First Deaths=1
+Meteor : Team=Gen.G Esports, Kills=9, Deaths=16, Assists=1, KDA=0.62, First Kills=1, First Deaths=5
+Karon: Team=Gen.G Esports, Kills=10, Deaths=17, Assists=7, KDA=1.0, First Kills=3, First Deaths=1

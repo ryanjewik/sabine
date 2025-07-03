@@ -1,0 +1,209 @@
+Team 1: Team Secret
+Team 2: T1
+Participating Players:
+Player 1: stax
+Player 2: Rossy
+Player 3: Xccurate
+Player 4: iZu
+Player 5: Sayaplayer
+Player 6: 2GE
+Player 7: Jremy
+Player 8: JessieVash
+Player 9: invy
+Player 10: Wild0reoo
+Winning Team: Team Secret
+Score: Team Secret 13 - 6 T1
+Tournament Name: vct pacific stage 2 2024
+Game Start Time: 2024-06-24T11:25:14Z
+Game End Time: 2024-06-24T12:08:24Z
+Rounds ended by ELIMINATION count: 14
+Rounds ended by DEFUSE count: 1
+Rounds ended by DETONATE count: 2
+SPIKE PLANTED count: 3
+platformGameId: val:57d971e0-43dc-4b34-921b-8e0a201fe3ef
+
+--- Events ---
+Game started at 2024-06-24T11:25:14Z
+Xccurate killed JessieVash  in round 1
+invy killed Sayaplayer  in round 1
+Wild0reoo killed Rossy  in round 1
+Wild0reoo killed stax  in round 1
+2GE killed iZu  in round 1
+Xccurate killed Wild0reoo  in round 1
+2GE killed Xccurate  in round 1
+Round 1 ended with elimination. The winning team is Team Secret.
+The current score is Team Secret 1 - 0 T1.
+JessieVash killed Sayaplayer  in round 2
+Jremy killed Rossy  in round 2
+stax killed Jremy  in round 2
+invy killed stax  in round 2
+Xccurate killed JessieVash  in round 2
+invy killed Xccurate  in round 2
+invy killed iZu  in round 2
+Round 2 ended with elimination. The winning team is Team Secret.
+The current score is Team Secret 2 - 0 T1.
+Jremy killed stax  in round 3
+Xccurate killed Wild0reoo  in round 3
+2GE killed Rossy  in round 3
+iZu killed JessieVash  in round 3
+Xccurate killed Jremy  in round 3
+Xccurate killed 2GE  in round 3
+Round 3 ended with time_expired. The winning team is T1.
+The current score is Team Secret 2 - 1 T1.
+JessieVash killed Sayaplayer  in round 4
+Wild0reoo killed Xccurate  in round 4
+iZu killed invy  in round 4
+Jremy killed iZu  in round 4
+Jremy killed stax  in round 4
+Round 4 ended with detonate. The winning team is Team Secret.
+The current score is Team Secret 3 - 1 T1.
+2GE killed Sayaplayer  in round 5
+Rossy killed Jremy  in round 5
+stax killed JessieVash  in round 5
+Round 5 ended with detonate. The winning team is Team Secret.
+The current score is Team Secret 4 - 1 T1.
+iZu killed iZu  in round 6
+stax killed stax  in round 6
+iZu killed JessieVash  in round 6
+Sayaplayer killed invy  in round 6
+Wild0reoo killed iZu  in round 6
+Wild0reoo killed Xccurate  in round 6
+stax killed 2GE  in round 6
+stax killed Wild0reoo  in round 6
+Rossy killed Jremy  in round 6
+Round 6 ended with elimination. The winning team is T1.
+The current score is Team Secret 4 - 2 T1.
+Sayaplayer killed Wild0reoo  in round 7
+Jremy killed stax  in round 7
+JessieVash killed Rossy  in round 7
+Xccurate killed Jremy  in round 7
+Sayaplayer killed invy  in round 7
+JessieVash killed Xccurate  in round 7
+2GE killed Sayaplayer  in round 7
+JessieVash killed iZu  in round 7
+Round 7 ended with elimination. The winning team is Team Secret.
+The current score is Team Secret 5 - 2 T1.
+Xccurate killed JessieVash  in round 8
+Sayaplayer killed Jremy  in round 8
+Rossy killed 2GE  in round 8
+Rossy killed invy  in round 8
+Sayaplayer killed Wild0reoo  in round 8
+Round 8 ended with elimination. The winning team is T1.
+The current score is Team Secret 5 - 3 T1.
+JessieVash killed Xccurate  in round 9
+JessieVash killed iZu  in round 9
+Rossy killed invy  in round 9
+2GE killed Rossy  in round 9
+Jremy killed Sayaplayer  in round 9
+Jremy killed stax  in round 9
+Round 9 ended with elimination. The winning team is Team Secret.
+The current score is Team Secret 6 - 3 T1.
+Jremy killed Rossy  in round 10
+iZu killed Jremy  in round 10
+iZu killed JessieVash  in round 10
+iZu killed Wild0reoo  in round 10
+invy killed iZu  in round 10
+2GE killed Xccurate  in round 10
+stax killed invy  in round 10
+2GE killed stax  in round 10
+Sayaplayer killed 2GE  in round 10
+Round 10 ended with elimination. The winning team is T1.
+The current score is Team Secret 6 - 4 T1.
+iZu killed invy  in round 11
+Jremy killed Sayaplayer  in round 11
+iZu killed Wild0reoo  in round 11
+iZu killed Jremy  in round 11
+iZu killed 2GE  in round 11
+JessieVash killed Xccurate  in round 11
+iZu killed JessieVash  in round 11
+Round 11 ended with elimination. The winning team is T1.
+The current score is Team Secret 6 - 5 T1.
+Wild0reoo killed Rossy  in round 12
+Xccurate killed Wild0reoo  in round 12
+Jremy killed Xccurate  in round 12
+iZu killed invy  in round 12
+2GE killed iZu  in round 12
+Sayaplayer killed 2GE  in round 12
+JessieVash killed Sayaplayer  in round 12
+stax killed Jremy  in round 12
+JessieVash killed stax  in round 12
+Round 12 ended with elimination. The winning team is Team Secret.
+The current score is Team Secret 7 - 5 T1.
+Sayaplayer killed invy  in round 13
+2GE killed Xccurate  in round 13
+stax killed Wild0reoo  in round 13
+Jremy killed Rossy  in round 13
+Sayaplayer killed Jremy  in round 13
+iZu killed JessieVash  in round 13
+2GE killed Sayaplayer  in round 13
+2GE killed iZu  in round 13
+2GE killed stax  in round 13
+Round 13 ended with spike_defuse. The winning team is Team Secret.
+The current score is Team Secret 8 - 5 T1.
+JessieVash killed iZu  in round 14
+JessieVash killed Rossy  in round 14
+invy killed Xccurate  in round 14
+stax killed invy  in round 14
+Sayaplayer killed JessieVash  in round 14
+Wild0reoo killed stax  in round 14
+2GE killed Sayaplayer  in round 14
+Round 14 ended with elimination. The winning team is Team Secret.
+The current score is Team Secret 9 - 5 T1.
+Xccurate killed 2GE  in round 15
+Wild0reoo killed stax  in round 15
+Jremy killed Rossy  in round 15
+iZu killed JessieVash  in round 15
+iZu killed Jremy  in round 15
+Sayaplayer killed invy  in round 15
+Wild0reoo killed iZu  in round 15
+Sayaplayer killed Wild0reoo  in round 15
+Round 15 ended with elimination. The winning team is T1.
+The current score is Team Secret 9 - 6 T1.
+Jremy killed iZu  in round 16
+JessieVash killed stax  in round 16
+Jremy killed Xccurate  in round 16
+Rossy killed Wild0reoo  in round 16
+JessieVash killed Rossy  in round 16
+Round 16 ended with time_expired. The winning team is Team Secret.
+The current score is Team Secret 10 - 6 T1.
+invy killed Xccurate  in round 17
+stax killed Wild0reoo  in round 17
+2GE killed stax  in round 17
+2GE killed iZu  in round 17
+2GE killed Rossy  in round 17
+2GE killed Sayaplayer  in round 17
+Round 17 ended with elimination. The winning team is Team Secret.
+The current score is Team Secret 11 - 6 T1.
+Jremy killed iZu  in round 18
+Sayaplayer killed Wild0reoo  in round 18
+JessieVash killed Sayaplayer  in round 18
+Jremy killed Xccurate  in round 18
+stax killed Jremy  in round 18
+stax killed JessieVash  in round 18
+2GE killed stax  in round 18
+invy killed Rossy  in round 18
+Round 18 ended with elimination. The winning team is Team Secret.
+The current score is Team Secret 12 - 6 T1.
+Sayaplayer killed JessieVash  in round 19
+2GE killed Sayaplayer  in round 19
+Wild0reoo killed Xccurate  in round 19
+Rossy killed Wild0reoo  in round 19
+iZu killed 2GE  in round 19
+invy killed Rossy  in round 19
+invy killed stax  in round 19
+invy killed iZu  in round 19
+Round 19 ended with elimination. The winning team is Team Secret.
+The current score is Team Secret 13 - 6 T1.
+Game ended with winning team: Team Secret at 2024-06-24T12:08:24Z
+
+--- Player Stats ---
+stax: Team=T1, Kills=12, Deaths=16, Assists=4, KDA=1.0, First Kills=0, First Deaths=1
+Rossy: Team=T1, Kills=7, Deaths=14, Assists=3, KDA=0.71, First Kills=0, First Deaths=2
+Xccurate: Team=T1, Kills=10, Deaths=15, Assists=4, KDA=0.93, First Kills=3, First Deaths=2
+iZu: Team=T1, Kills=17, Deaths=16, Assists=2, KDA=1.19, First Kills=2, First Deaths=4
+Sayaplayer: Team=T1, Kills=14, Deaths=13, Assists=2, KDA=1.23, First Kills=3, First Deaths=3
+2GE: Team=Team Secret, Kills=20, Deaths=8, Assists=5, KDA=3.12, First Kills=1, First Deaths=1
+Jremy: Team=Team Secret, Kills=16, Deaths=12, Assists=5, KDA=1.75, First Kills=4, First Deaths=0
+JessieVash: Team=Team Secret, Kills=15, Deaths=13, Assists=4, KDA=1.46, First Kills=4, First Deaths=3
+invy: Team=Team Secret, Kills=11, Deaths=11, Assists=8, KDA=1.73, First Kills=1, First Deaths=2
+Wild0reoo: Team=Team Secret, Kills=10, Deaths=14, Assists=6, KDA=1.14, First Kills=1, First Deaths=1

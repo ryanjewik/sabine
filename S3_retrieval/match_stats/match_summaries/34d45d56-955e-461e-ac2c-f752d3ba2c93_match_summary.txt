@@ -1,0 +1,211 @@
+Team 1: Gen.G Esports
+Team 2: Rex Regum Qeon
+Participating Players:
+Player 1: patt
+Player 2: Lmemore
+Player 3: fl1pzjder
+Player 4: EJAY
+Player 5: 2GE
+Player 6: GodDead
+Player 7: Meteor 
+Player 8: TS
+Player 9: Sylvan
+Player 10: k1NgKR
+Winning Team: Gen.G Esports
+Score: Gen.G Esports 13 - 6 Rex Regum Qeon
+Tournament Name: vct pacific 2023
+Game Start Time: 2023-03-27T10:14:34Z
+Game End Time: 2023-03-27T10:53:27Z
+Rounds ended by ELIMINATION count: 13
+Rounds ended by DEFUSE count: 6
+Rounds ended by DETONATE count: 0
+SPIKE PLANTED count: 6
+platformGameId: val:34d45d56-955e-461e-ac2c-f752d3ba2c93
+
+--- Events ---
+Game started at 2023-03-27T10:14:34Z
+Lmemore killed Meteor   in round 1
+patt killed Sylvan  in round 1
+GodDead killed fl1pzjder  in round 1
+Lmemore killed k1NgKR  in round 1
+patt killed GodDead  in round 1
+TS killed Lmemore  in round 1
+EJAY killed TS  in round 1
+Round 1 ended with spike_defuse. The winning team is Rex Regum Qeon.
+The current score is Gen.G Esports 0 - 1 Rex Regum Qeon.
+fl1pzjder killed TS  in round 2
+EJAY killed k1NgKR  in round 2
+2GE killed Sylvan  in round 2
+EJAY killed Meteor   in round 2
+2GE killed GodDead  in round 2
+Round 2 ended with elimination. The winning team is Rex Regum Qeon.
+The current score is Gen.G Esports 0 - 2 Rex Regum Qeon.
+Meteor  killed 2GE  in round 3
+Meteor  killed patt  in round 3
+Meteor  killed EJAY  in round 3
+Meteor  killed Lmemore  in round 3
+fl1pzjder killed Meteor   in round 3
+Sylvan killed fl1pzjder  in round 3
+Round 3 ended with elimination. The winning team is Gen.G Esports.
+The current score is Gen.G Esports 1 - 2 Rex Regum Qeon.
+EJAY killed TS  in round 4
+Sylvan killed EJAY  in round 4
+patt killed GodDead  in round 4
+patt killed Sylvan  in round 4
+Meteor  killed patt  in round 4
+Meteor  killed 2GE  in round 4
+k1NgKR killed Lmemore  in round 4
+k1NgKR killed fl1pzjder  in round 4
+Round 4 ended with elimination. The winning team is Gen.G Esports.
+The current score is Gen.G Esports 2 - 2 Rex Regum Qeon.
+Meteor  killed Lmemore  in round 5
+Meteor  killed 2GE  in round 5
+patt killed Meteor   in round 5
+patt killed GodDead  in round 5
+Sylvan killed patt  in round 5
+EJAY killed Sylvan  in round 5
+TS killed fl1pzjder  in round 5
+TS killed EJAY  in round 5
+Round 5 ended with elimination. The winning team is Gen.G Esports.
+The current score is Gen.G Esports 3 - 2 Rex Regum Qeon.
+fl1pzjder killed GodDead  in round 6
+fl1pzjder killed Meteor   in round 6
+k1NgKR killed patt  in round 6
+Sylvan killed EJAY  in round 6
+Lmemore killed Sylvan  in round 6
+k1NgKR killed Lmemore  in round 6
+2GE killed TS  in round 6
+k1NgKR killed fl1pzjder  in round 6
+k1NgKR killed 2GE  in round 6
+Round 6 ended with elimination. The winning team is Gen.G Esports.
+The current score is Gen.G Esports 4 - 2 Rex Regum Qeon.
+Meteor  killed 2GE  in round 7
+EJAY killed GodDead  in round 7
+patt killed Meteor   in round 7
+fl1pzjder killed TS  in round 7
+fl1pzjder killed k1NgKR  in round 7
+Sylvan killed fl1pzjder  in round 7
+Sylvan killed patt  in round 7
+EJAY killed Sylvan  in round 7
+Round 7 ended with elimination. The winning team is Rex Regum Qeon.
+The current score is Gen.G Esports 4 - 3 Rex Regum Qeon.
+Sylvan killed EJAY  in round 8
+Lmemore killed Sylvan  in round 8
+Meteor  killed Lmemore  in round 8
+patt killed TS  in round 8
+2GE killed Meteor   in round 8
+GodDead killed 2GE  in round 8
+GodDead killed fl1pzjder  in round 8
+k1NgKR killed patt  in round 8
+Round 8 ended with elimination. The winning team is Gen.G Esports.
+The current score is Gen.G Esports 5 - 3 Rex Regum Qeon.
+patt killed Sylvan  in round 9
+k1NgKR killed patt  in round 9
+Meteor  killed 2GE  in round 9
+TS killed EJAY  in round 9
+Meteor  killed Lmemore  in round 9
+TS killed fl1pzjder  in round 9
+Round 9 ended with elimination. The winning team is Gen.G Esports.
+The current score is Gen.G Esports 6 - 3 Rex Regum Qeon.
+GodDead killed patt  in round 10
+EJAY killed GodDead  in round 10
+2GE killed Meteor   in round 10
+TS killed EJAY  in round 10
+Sylvan killed 2GE  in round 10
+Sylvan killed Lmemore  in round 10
+Sylvan killed fl1pzjder  in round 10
+Round 10 ended with elimination. The winning team is Gen.G Esports.
+The current score is Gen.G Esports 7 - 3 Rex Regum Qeon.
+fl1pzjder killed Meteor   in round 11
+TS killed fl1pzjder  in round 11
+Sylvan killed Lmemore  in round 11
+EJAY killed TS  in round 11
+GodDead killed EJAY  in round 11
+GodDead killed 2GE  in round 11
+GodDead killed patt  in round 11
+Round 11 ended with elimination. The winning team is Gen.G Esports.
+The current score is Gen.G Esports 8 - 3 Rex Regum Qeon.
+Meteor  killed EJAY  in round 12
+Lmemore killed Meteor   in round 12
+GodDead killed Lmemore  in round 12
+patt killed GodDead  in round 12
+patt killed Sylvan  in round 12
+patt killed TS  in round 12
+2GE killed k1NgKR  in round 12
+Round 12 ended with spike_defuse. The winning team is Rex Regum Qeon.
+The current score is Gen.G Esports 8 - 4 Rex Regum Qeon.
+EJAY killed Meteor   in round 13
+Sylvan killed EJAY  in round 13
+2GE killed GodDead  in round 13
+Lmemore killed Sylvan  in round 13
+2GE killed TS  in round 13
+2GE killed k1NgKR  in round 13
+Round 13 ended with elimination. The winning team is Rex Regum Qeon.
+The current score is Gen.G Esports 8 - 5 Rex Regum Qeon.
+TS killed EJAY  in round 14
+fl1pzjder killed TS  in round 14
+patt killed GodDead  in round 14
+2GE killed Sylvan  in round 14
+Lmemore killed k1NgKR  in round 14
+patt killed Meteor   in round 14
+Round 14 ended with elimination. The winning team is Rex Regum Qeon.
+The current score is Gen.G Esports 8 - 6 Rex Regum Qeon.
+Meteor  killed patt  in round 15
+GodDead killed 2GE  in round 15
+Sylvan killed EJAY  in round 15
+fl1pzjder killed Sylvan  in round 15
+TS killed fl1pzjder  in round 15
+Lmemore killed TS  in round 15
+k1NgKR killed Lmemore  in round 15
+Round 15 ended with spike_defuse. The winning team is Gen.G Esports.
+The current score is Gen.G Esports 9 - 6 Rex Regum Qeon.
+Meteor  killed Lmemore  in round 16
+Meteor  killed patt  in round 16
+GodDead killed fl1pzjder  in round 16
+EJAY killed TS  in round 16
+Meteor  killed EJAY  in round 16
+2GE killed GodDead  in round 16
+Meteor  killed 2GE  in round 16
+Round 16 ended with elimination. The winning team is Gen.G Esports.
+The current score is Gen.G Esports 10 - 6 Rex Regum Qeon.
+Lmemore killed Meteor   in round 17
+GodDead killed Lmemore  in round 17
+TS killed patt  in round 17
+k1NgKR killed 2GE  in round 17
+k1NgKR killed EJAY  in round 17
+fl1pzjder killed GodDead  in round 17
+Sylvan killed fl1pzjder  in round 17
+Round 17 ended with spike_defuse. The winning team is Gen.G Esports.
+The current score is Gen.G Esports 11 - 6 Rex Regum Qeon.
+k1NgKR killed 2GE  in round 18
+Sylvan killed Lmemore  in round 18
+fl1pzjder killed k1NgKR  in round 18
+patt killed TS  in round 18
+Meteor  killed EJAY  in round 18
+Meteor  killed patt  in round 18
+fl1pzjder killed Sylvan  in round 18
+GodDead killed fl1pzjder  in round 18
+Round 18 ended with spike_defuse. The winning team is Gen.G Esports.
+The current score is Gen.G Esports 12 - 6 Rex Regum Qeon.
+Meteor  killed EJAY  in round 19
+Lmemore killed TS  in round 19
+Lmemore killed k1NgKR  in round 19
+GodDead killed 2GE  in round 19
+Sylvan killed patt  in round 19
+GodDead killed Lmemore  in round 19
+GodDead killed fl1pzjder  in round 19
+Round 19 ended with spike_defuse. The winning team is Gen.G Esports.
+The current score is Gen.G Esports 13 - 6 Rex Regum Qeon.
+Game ended with winning team: Gen.G Esports at 2023-03-27T10:53:27Z
+
+--- Player Stats ---
+patt: Team=Rex Regum Qeon, Kills=15, Deaths=14, Assists=9, KDA=1.71, First Kills=1, First Deaths=2
+Lmemore: Team=Rex Regum Qeon, Kills=11, Deaths=15, Assists=3, KDA=0.93, First Kills=2, First Deaths=2
+fl1pzjder: Team=Rex Regum Qeon, Kills=12, Deaths=15, Assists=14, KDA=1.73, First Kills=3, First Deaths=0
+EJAY: Team=Rex Regum Qeon, Kills=11, Deaths=16, Assists=6, KDA=1.06, First Kills=2, First Deaths=4
+2GE: Team=Rex Regum Qeon, Kills=11, Deaths=14, Assists=4, KDA=1.07, First Kills=0, First Deaths=3
+GodDead: Team=Gen.G Esports, Kills=15, Deaths=12, Assists=19, KDA=2.83, First Kills=1, First Deaths=1
+Meteor : Team=Gen.G Esports, Kills=21, Deaths=13, Assists=5, KDA=2.0, First Kills=7, First Deaths=4
+TS: Team=Gen.G Esports, Kills=10, Deaths=14, Assists=6, KDA=1.14, First Kills=1, First Deaths=2
+Sylvan: Team=Gen.G Esports, Kills=16, Deaths=13, Assists=9, KDA=1.92, First Kills=1, First Deaths=1
+k1NgKR: Team=Gen.G Esports, Kills=12, Deaths=8, Assists=2, KDA=1.75, First Kills=1, First Deaths=0

@@ -1,0 +1,200 @@
+Team 1: Evil Geniuses
+Team 2: Sentinels
+Participating Players:
+Player 1: Marved
+Player 2: Sacy
+Player 3: dephh
+Player 4: zekken
+Player 5: pANcada
+Player 6: Demon1
+Player 7: Ethan
+Player 8: JAWGEMO
+Player 9: C0M
+Player 10: Boostio
+Winning Team: Evil Geniuses
+Score: Evil Geniuses 13 - 5 Sentinels
+Tournament Name: vct americas 2023
+Game Start Time: 2023-05-06T20:00:15Z
+Game End Time: 2023-05-06T20:44:54Z
+Rounds ended by ELIMINATION count: 13
+Rounds ended by DEFUSE count: 3
+Rounds ended by DETONATE count: 2
+SPIKE PLANTED count: 5
+platformGameId: val:23590df6-da7c-4a38-b77d-1432fe634730
+
+--- Events ---
+Game started at 2023-05-06T20:00:15Z
+zekken killed Demon1  in round 1
+Ethan killed Marved  in round 1
+JAWGEMO killed Sacy  in round 1
+zekken killed JAWGEMO  in round 1
+Ethan killed dephh  in round 1
+zekken killed Boostio  in round 1
+C0M killed pANcada  in round 1
+zekken killed Ethan  in round 1
+C0M killed zekken  in round 1
+Round 1 ended with elimination. The winning team is Evil Geniuses.
+The current score is Evil Geniuses 1 - 0 Sentinels.
+Demon1 killed dephh  in round 2
+Boostio killed Sacy  in round 2
+Boostio killed pANcada  in round 2
+Demon1 killed zekken  in round 2
+Demon1 killed Marved  in round 2
+Round 2 ended with elimination. The winning team is Evil Geniuses.
+The current score is Evil Geniuses 2 - 0 Sentinels.
+zekken killed Demon1  in round 3
+Ethan killed Marved  in round 3
+JAWGEMO killed dephh  in round 3
+Sacy killed JAWGEMO  in round 3
+C0M killed Sacy  in round 3
+pANcada killed Ethan  in round 3
+pANcada killed Boostio  in round 3
+C0M killed pANcada  in round 3
+zekken killed C0M  in round 3
+Round 3 ended with spike_defuse. The winning team is Sentinels.
+The current score is Evil Geniuses 2 - 1 Sentinels.
+zekken killed Demon1  in round 4
+Ethan killed zekken  in round 4
+Marved killed JAWGEMO  in round 4
+Boostio killed dephh  in round 4
+Ethan killed Sacy  in round 4
+Ethan killed Marved  in round 4
+pANcada killed Ethan  in round 4
+Round 4 ended with detonate. The winning team is Evil Geniuses.
+The current score is Evil Geniuses 3 - 1 Sentinels.
+pANcada killed Ethan  in round 5
+Boostio killed zekken  in round 5
+Marved killed JAWGEMO  in round 5
+Demon1 killed pANcada  in round 5
+Boostio killed Marved  in round 5
+Sacy killed Demon1  in round 5
+Boostio killed Sacy  in round 5
+Boostio killed dephh  in round 5
+Round 5 ended with elimination. The winning team is Evil Geniuses.
+The current score is Evil Geniuses 4 - 1 Sentinels.
+dephh killed Boostio  in round 6
+zekken killed C0M  in round 6
+dephh killed Ethan  in round 6
+dephh killed JAWGEMO  in round 6
+Demon1 killed dephh  in round 6
+Marved killed Demon1  in round 6
+Round 6 ended with elimination. The winning team is Sentinels.
+The current score is Evil Geniuses 4 - 2 Sentinels.
+C0M killed zekken  in round 7
+C0M killed Marved  in round 7
+JAWGEMO killed dephh  in round 7
+Sacy killed Ethan  in round 7
+pANcada killed JAWGEMO  in round 7
+C0M killed Sacy  in round 7
+Demon1 killed pANcada  in round 7
+Round 7 ended with elimination. The winning team is Evil Geniuses.
+The current score is Evil Geniuses 5 - 2 Sentinels.
+zekken killed Demon1  in round 8
+JAWGEMO killed zekken  in round 8
+Sacy killed Boostio  in round 8
+C0M killed Sacy  in round 8
+JAWGEMO killed pANcada  in round 8
+JAWGEMO killed Marved  in round 8
+dephh killed JAWGEMO  in round 8
+Ethan killed dephh  in round 8
+Round 8 ended with elimination. The winning team is Evil Geniuses.
+The current score is Evil Geniuses 6 - 2 Sentinels.
+Marved killed Boostio  in round 9
+Ethan killed pANcada  in round 9
+JAWGEMO killed Marved  in round 9
+zekken killed Ethan  in round 9
+JAWGEMO killed Sacy  in round 9
+Demon1 killed dephh  in round 9
+C0M killed zekken  in round 9
+Round 9 ended with elimination. The winning team is Evil Geniuses.
+The current score is Evil Geniuses 7 - 2 Sentinels.
+Ethan killed Sacy  in round 10
+C0M killed Marved  in round 10
+zekken killed JAWGEMO  in round 10
+Demon1 killed zekken  in round 10
+dephh killed Ethan  in round 10
+Boostio killed dephh  in round 10
+Demon1 killed pANcada  in round 10
+Round 10 ended with elimination. The winning team is Evil Geniuses.
+The current score is Evil Geniuses 8 - 2 Sentinels.
+Demon1 killed Sacy  in round 11
+zekken killed Boostio  in round 11
+Demon1 killed dephh  in round 11
+C0M killed pANcada  in round 11
+C0M killed zekken  in round 11
+JAWGEMO killed Marved  in round 11
+Round 11 ended with elimination. The winning team is Evil Geniuses.
+The current score is Evil Geniuses 9 - 2 Sentinels.
+Demon1 killed zekken  in round 12
+Sacy killed Demon1  in round 12
+Sacy killed Boostio  in round 12
+JAWGEMO killed Marved  in round 12
+Ethan killed dephh  in round 12
+Ethan killed Sacy  in round 12
+pANcada killed Ethan  in round 12
+JAWGEMO killed pANcada  in round 12
+Round 12 ended with elimination. The winning team is Evil Geniuses.
+The current score is Evil Geniuses 10 - 2 Sentinels.
+JAWGEMO killed zekken  in round 13
+JAWGEMO killed Sacy  in round 13
+Ethan killed dephh  in round 13
+pANcada killed Ethan  in round 13
+pANcada killed Demon1  in round 13
+pANcada killed Boostio  in round 13
+C0M killed Marved  in round 13
+pANcada killed JAWGEMO  in round 13
+pANcada killed C0M  in round 13
+Round 13 ended with elimination. The winning team is Sentinels.
+The current score is Evil Geniuses 10 - 3 Sentinels.
+Sacy killed Boostio  in round 14
+dephh killed Ethan  in round 14
+zekken killed JAWGEMO  in round 14
+zekken killed Demon1  in round 14
+zekken killed C0M  in round 14
+Round 14 ended with elimination. The winning team is Sentinels.
+The current score is Evil Geniuses 10 - 4 Sentinels.
+Demon1 killed dephh  in round 15
+zekken killed Demon1  in round 15
+Boostio killed Marved  in round 15
+pANcada killed Boostio  in round 15
+JAWGEMO killed pANcada  in round 15
+JAWGEMO killed Sacy  in round 15
+JAWGEMO killed zekken  in round 15
+Round 15 ended with elimination. The winning team is Evil Geniuses.
+The current score is Evil Geniuses 11 - 4 Sentinels.
+Ethan killed zekken  in round 16
+dephh killed JAWGEMO  in round 16
+Demon1 killed Sacy  in round 16
+Marved killed Boostio  in round 16
+Demon1 killed Marved  in round 16
+Demon1 killed pANcada  in round 16
+dephh killed Demon1  in round 16
+C0M killed dephh  in round 16
+Round 16 ended with spike_defuse. The winning team is Evil Geniuses.
+The current score is Evil Geniuses 12 - 4 Sentinels.
+zekken killed Demon1  in round 17
+C0M killed Marved  in round 17
+zekken killed Ethan  in round 17
+Round 17 ended with detonate. The winning team is Sentinels.
+The current score is Evil Geniuses 12 - 5 Sentinels.
+C0M killed zekken  in round 18
+C0M killed Marved  in round 18
+pANcada killed Demon1  in round 18
+Boostio killed pANcada  in round 18
+JAWGEMO killed Sacy  in round 18
+Ethan killed dephh  in round 18
+Round 18 ended with spike_defuse. The winning team is Evil Geniuses.
+The current score is Evil Geniuses 13 - 5 Sentinels.
+Game ended with winning team: Evil Geniuses at 2023-05-06T20:44:54Z
+
+--- Player Stats ---
+Marved: Team=Sentinels, Kills=5, Deaths=16, Assists=6, KDA=0.69, First Kills=1, First Deaths=0
+Sacy: Team=Sentinels, Kills=7, Deaths=15, Assists=6, KDA=0.87, First Kills=1, First Deaths=2
+dephh: Team=Sentinels, Kills=8, Deaths=16, Assists=5, KDA=0.81, First Kills=1, First Deaths=2
+zekken: Team=Sentinels, Kills=18, Deaths=14, Assists=0, KDA=1.29, First Kills=5, First Deaths=5
+pANcada: Team=Sentinels, Kills=13, Deaths=13, Assists=2, KDA=1.15, First Kills=1, First Deaths=0
+Demon1: Team=Evil Geniuses, Kills=16, Deaths=13, Assists=1, KDA=1.31, First Kills=4, First Deaths=5
+Ethan: Team=Evil Geniuses, Kills=14, Deaths=12, Assists=18, KDA=2.67, First Kills=2, First Deaths=1
+JAWGEMO: Team=Evil Geniuses, Kills=17, Deaths=11, Assists=4, KDA=1.91, First Kills=1, First Deaths=0
+C0M: Team=Evil Geniuses, Kills=17, Deaths=4, Assists=8, KDA=6.25, First Kills=2, First Deaths=0
+Boostio: Team=Evil Geniuses, Kills=10, Deaths=11, Assists=5, KDA=1.36, First Kills=0, First Deaths=3

@@ -1,0 +1,186 @@
+Team 1: FURIA
+Team 2: Leviatán Esports
+Participating Players:
+Player 1: Mazino
+Player 2: Shyy
+Player 3: kiNgg
+Player 4: Nozwerr
+Player 5: Tacolilla
+Player 6: QcK
+Player 7: dgzin
+Player 8: mazin
+Player 9: mwzera
+Player 10: Khalil
+Winning Team: FURIA
+Score: FURIA 13 - 5 Leviatán Esports
+Tournament Name: vct americas 2023
+Game Start Time: 2023-05-23T19:54:49Z
+Game End Time: 2023-05-23T20:47:37Z
+Rounds ended by ELIMINATION count: 9
+Rounds ended by DEFUSE count: 5
+Rounds ended by DETONATE count: 3
+SPIKE PLANTED count: 8
+platformGameId: val:b0f75794-c03d-4c02-9fe2-ca5ba69c859c
+
+--- Events ---
+Game started at 2023-05-23T19:54:49Z
+dgzin killed Nozwerr  in round 1
+dgzin killed Tacolilla  in round 1
+mazin killed Mazino  in round 1
+kiNgg killed dgzin  in round 1
+QcK killed kiNgg  in round 1
+mazin killed Shyy  in round 1
+Round 1 ended with elimination. The winning team is FURIA.
+The current score is FURIA 1 - 0 Leviatán Esports.
+Nozwerr killed dgzin  in round 2
+mazin killed Nozwerr  in round 2
+QcK killed kiNgg  in round 2
+Shyy killed mazin  in round 2
+mwzera killed Tacolilla  in round 2
+Khalil killed Shyy  in round 2
+Mazino killed Khalil  in round 2
+Mazino killed QcK  in round 2
+mwzera killed Mazino  in round 2
+Round 2 ended with elimination. The winning team is FURIA.
+The current score is FURIA 2 - 0 Leviatán Esports.
+Shyy killed dgzin  in round 3
+Mazino killed mazin  in round 3
+Mazino killed QcK  in round 3
+Shyy killed mwzera  in round 3
+Tacolilla killed Khalil  in round 3
+Round 3 ended with elimination. The winning team is Leviatán Esports.
+The current score is FURIA 2 - 1 Leviatán Esports.
+mazin killed Shyy  in round 4
+QcK killed Tacolilla  in round 4
+Khalil killed Nozwerr  in round 4
+Round 4 ended with detonate. The winning team is FURIA.
+The current score is FURIA 3 - 1 Leviatán Esports.
+Mazino killed dgzin  in round 5
+kiNgg killed QcK  in round 5
+kiNgg killed mazin  in round 5
+kiNgg killed mwzera  in round 5
+Khalil killed kiNgg  in round 5
+Khalil killed Mazino  in round 5
+Nozwerr killed Khalil  in round 5
+Round 5 ended with spike_defuse. The winning team is Leviatán Esports.
+The current score is FURIA 3 - 2 Leviatán Esports.
+dgzin killed Shyy  in round 6
+Tacolilla killed dgzin  in round 6
+mazin killed Nozwerr  in round 6
+QcK killed Mazino  in round 6
+Tacolilla killed mazin  in round 6
+mwzera killed Tacolilla  in round 6
+kiNgg killed QcK  in round 6
+Round 6 ended with detonate. The winning team is FURIA.
+The current score is FURIA 4 - 2 Leviatán Esports.
+Shyy killed dgzin  in round 7
+QcK killed Shyy  in round 7
+Nozwerr killed QcK  in round 7
+Khalil killed Tacolilla  in round 7
+kiNgg killed mazin  in round 7
+mwzera killed Mazino  in round 7
+Nozwerr killed Khalil  in round 7
+mwzera killed Nozwerr  in round 7
+Khalil killed kiNgg  in round 7
+Round 7 ended with elimination. The winning team is FURIA.
+The current score is FURIA 5 - 2 Leviatán Esports.
+QcK killed Mazino  in round 8
+Nozwerr killed Khalil  in round 8
+QcK killed Tacolilla  in round 8
+kiNgg killed dgzin  in round 8
+mwzera killed kiNgg  in round 8
+Shyy killed mwzera  in round 8
+Nozwerr killed QcK  in round 8
+Round 8 ended with spike_defuse. The winning team is Leviatán Esports.
+The current score is FURIA 5 - 3 Leviatán Esports.
+kiNgg killed dgzin  in round 9
+kiNgg killed QcK  in round 9
+kiNgg killed mwzera  in round 9
+Round 9 ended with time_expired. The winning team is Leviatán Esports.
+The current score is FURIA 5 - 4 Leviatán Esports.
+kiNgg killed QcK  in round 10
+mwzera killed Shyy  in round 10
+dgzin killed Nozwerr  in round 10
+mazin killed Tacolilla  in round 10
+Khalil killed Mazino  in round 10
+mwzera killed kiNgg  in round 10
+Round 10 ended with elimination. The winning team is FURIA.
+The current score is FURIA 6 - 4 Leviatán Esports.
+kiNgg killed mazin  in round 11
+dgzin killed Nozwerr  in round 11
+Khalil killed Mazino  in round 11
+Khalil killed kiNgg  in round 11
+Tacolilla killed QcK  in round 11
+Tacolilla killed Khalil  in round 11
+mwzera killed Shyy  in round 11
+Tacolilla killed mwzera  in round 11
+dgzin killed Tacolilla  in round 11
+Round 11 ended with elimination. The winning team is FURIA.
+The current score is FURIA 7 - 4 Leviatán Esports.
+dgzin killed Shyy  in round 12
+dgzin killed Nozwerr  in round 12
+kiNgg killed QcK  in round 12
+dgzin killed Tacolilla  in round 12
+mazin killed Mazino  in round 12
+mazin killed kiNgg  in round 12
+Round 12 ended with elimination. The winning team is FURIA.
+The current score is FURIA 8 - 4 Leviatán Esports.
+mazin killed kiNgg  in round 13
+dgzin killed Shyy  in round 13
+QcK killed Tacolilla  in round 13
+QcK killed Nozwerr  in round 13
+Mazino killed QcK  in round 13
+Khalil killed Mazino  in round 13
+Round 13 ended with spike_defuse. The winning team is FURIA.
+The current score is FURIA 9 - 4 Leviatán Esports.
+dgzin killed kiNgg  in round 14
+Tacolilla killed dgzin  in round 14
+mazin killed Mazino  in round 14
+QcK killed Shyy  in round 14
+Nozwerr killed Khalil  in round 14
+mazin killed Nozwerr  in round 14
+mazin killed Tacolilla  in round 14
+Round 14 ended with elimination. The winning team is FURIA.
+The current score is FURIA 10 - 4 Leviatán Esports.
+QcK killed Tacolilla  in round 15
+Khalil killed Mazino  in round 15
+kiNgg killed Khalil  in round 15
+dgzin killed Nozwerr  in round 15
+dgzin killed kiNgg  in round 15
+Shyy killed QcK  in round 15
+mazin killed Shyy  in round 15
+Round 15 ended with spike_defuse. The winning team is FURIA.
+The current score is FURIA 11 - 4 Leviatán Esports.
+Shyy killed mazin  in round 16
+Mazino killed dgzin  in round 16
+Tacolilla killed mwzera  in round 16
+Round 16 ended with detonate. The winning team is Leviatán Esports.
+The current score is FURIA 11 - 5 Leviatán Esports.
+Tacolilla killed mazin  in round 17
+Khalil killed Tacolilla  in round 17
+QcK killed Shyy  in round 17
+kiNgg killed Khalil  in round 17
+QcK killed kiNgg  in round 17
+mwzera killed Mazino  in round 17
+Round 17 ended with spike_defuse. The winning team is FURIA.
+The current score is FURIA 12 - 5 Leviatán Esports.
+dgzin killed Tacolilla  in round 18
+dgzin killed Mazino  in round 18
+dgzin killed Shyy  in round 18
+mwzera killed Nozwerr  in round 18
+mwzera killed kiNgg  in round 18
+Round 18 ended with elimination. The winning team is FURIA.
+The current score is FURIA 13 - 5 Leviatán Esports.
+Game ended with winning team: FURIA at 2023-05-23T20:47:37Z
+
+--- Player Stats ---
+Mazino: Team=Leviatán Esports, Kills=7, Deaths=14, Assists=5, KDA=0.86, First Kills=1, First Deaths=1
+Shyy: Team=Leviatán Esports, Kills=7, Deaths=13, Assists=3, KDA=0.77, First Kills=3, First Deaths=3
+kiNgg: Team=Leviatán Esports, Kills=15, Deaths=13, Assists=5, KDA=1.54, First Kills=3, First Deaths=2
+Nozwerr: Team=Leviatán Esports, Kills=7, Deaths=12, Assists=1, KDA=0.67, First Kills=1, First Deaths=1
+Tacolilla: Team=Leviatán Esports, Kills=9, Deaths=14, Assists=1, KDA=0.71, First Kills=1, First Deaths=2
+QcK: Team=FURIA, Kills=13, Deaths=12, Assists=0, KDA=1.08, First Kills=2, First Deaths=1
+dgzin: Team=FURIA, Kills=16, Deaths=10, Assists=0, KDA=1.6, First Kills=5, First Deaths=5
+mazin: Team=FURIA, Kills=13, Deaths=8, Assists=6, KDA=2.38, First Kills=2, First Deaths=3
+mwzera: Team=FURIA, Kills=12, Deaths=6, Assists=7, KDA=3.17, First Kills=0, First Deaths=0
+Khalil: Team=FURIA, Kills=12, Deaths=9, Assists=6, KDA=2.0, First Kills=0, First Deaths=0

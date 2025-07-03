@@ -1,0 +1,242 @@
+Team 1: Gen.G Esports
+Team 2: Bleed Esports
+Participating Players:
+Player 1: ZestKR
+Player 2: sScary
+Player 3: crazyguy
+Player 4: Deryeon
+Player 5: Retla
+Player 6: t3xture
+Player 7: Lakia
+Player 8: Munchkin
+Player 9: Meteor 
+Player 10: Karon
+Winning Team: Gen.G Esports
+Score: Gen.G Esports 13 - 11 Bleed Esports
+Tournament Name: vct pacific stage 2 2024
+Game Start Time: 2024-06-30T13:04:24Z
+Game End Time: 2024-06-30T13:53:59Z
+Rounds ended by ELIMINATION count: 20
+Rounds ended by DEFUSE count: 1
+Rounds ended by DETONATE count: 3
+SPIKE PLANTED count: 4
+platformGameId: val:b1dfa0ae-170b-4d71-aff4-6b006b700330
+
+--- Events ---
+Game started at 2024-06-30T13:04:24Z
+Deryeon killed Meteor   in round 1
+Lakia killed crazyguy  in round 1
+t3xture killed ZestKR  in round 1
+Lakia killed Deryeon  in round 1
+Munchkin killed Retla  in round 1
+Munchkin killed sScary  in round 1
+Round 1 ended with elimination. The winning team is Gen.G Esports.
+The current score is Gen.G Esports 1 - 0 Bleed Esports.
+Lakia killed crazyguy  in round 2
+Meteor  killed Deryeon  in round 2
+Munchkin killed sScary  in round 2
+Munchkin killed ZestKR  in round 2
+Meteor  killed Retla  in round 2
+Round 2 ended with elimination. The winning team is Gen.G Esports.
+The current score is Gen.G Esports 2 - 0 Bleed Esports.
+t3xture killed Deryeon  in round 3
+Karon killed sScary  in round 3
+Retla killed t3xture  in round 3
+Karon killed Retla  in round 3
+Round 3 ended with detonate. The winning team is Gen.G Esports.
+The current score is Gen.G Esports 3 - 0 Bleed Esports.
+ZestKR killed t3xture  in round 4
+crazyguy killed Lakia  in round 4
+crazyguy killed Munchkin  in round 4
+Karon killed crazyguy  in round 4
+Meteor  killed Retla  in round 4
+Meteor  killed sScary  in round 4
+Deryeon killed Meteor   in round 4
+ZestKR killed Karon  in round 4
+Round 4 ended with spike_defuse. The winning team is Bleed Esports.
+The current score is Gen.G Esports 3 - 1 Bleed Esports.
+t3xture killed ZestKR  in round 5
+Round 5 ended with detonate. The winning team is Gen.G Esports.
+The current score is Gen.G Esports 4 - 1 Bleed Esports.
+Deryeon killed Lakia  in round 6
+t3xture killed crazyguy  in round 6
+t3xture killed ZestKR  in round 6
+Deryeon killed t3xture  in round 6
+Deryeon killed Meteor   in round 6
+Deryeon killed Munchkin  in round 6
+Deryeon killed Karon  in round 6
+Round 6 ended with elimination. The winning team is Bleed Esports.
+The current score is Gen.G Esports 4 - 2 Bleed Esports.
+Karon killed ZestKR  in round 7
+sScary killed Munchkin  in round 7
+t3xture killed crazyguy  in round 7
+Meteor  killed sScary  in round 7
+Meteor  killed Retla  in round 7
+Round 7 ended with detonate. The winning team is Gen.G Esports.
+The current score is Gen.G Esports 5 - 2 Bleed Esports.
+Deryeon killed Munchkin  in round 8
+sScary killed t3xture  in round 8
+sScary killed Meteor   in round 8
+Retla killed Lakia  in round 8
+Karon killed sScary  in round 8
+Retla killed Karon  in round 8
+Round 8 ended with elimination. The winning team is Bleed Esports.
+The current score is Gen.G Esports 5 - 3 Bleed Esports.
+Meteor  killed Deryeon  in round 9
+Meteor  killed Retla  in round 9
+crazyguy killed Meteor   in round 9
+ZestKR killed Lakia  in round 9
+Munchkin killed ZestKR  in round 9
+t3xture killed crazyguy  in round 9
+sScary killed t3xture  in round 9
+Munchkin killed sScary  in round 9
+Round 9 ended with elimination. The winning team is Gen.G Esports.
+The current score is Gen.G Esports 6 - 3 Bleed Esports.
+Lakia killed Deryeon  in round 10
+ZestKR killed t3xture  in round 10
+Meteor  killed ZestKR  in round 10
+crazyguy killed Karon  in round 10
+Retla killed Munchkin  in round 10
+Lakia killed Retla  in round 10
+Meteor  killed crazyguy  in round 10
+Meteor  killed sScary  in round 10
+Round 10 ended with elimination. The winning team is Gen.G Esports.
+The current score is Gen.G Esports 7 - 3 Bleed Esports.
+Lakia killed Deryeon  in round 11
+Lakia killed crazyguy  in round 11
+t3xture killed Retla  in round 11
+ZestKR killed t3xture  in round 11
+Lakia killed ZestKR  in round 11
+sScary killed Lakia  in round 11
+Karon killed sScary  in round 11
+Round 11 ended with elimination. The winning team is Gen.G Esports.
+The current score is Gen.G Esports 8 - 3 Bleed Esports.
+ZestKR killed Munchkin  in round 12
+Lakia killed ZestKR  in round 12
+crazyguy killed Lakia  in round 12
+crazyguy killed Karon  in round 12
+crazyguy killed Meteor   in round 12
+t3xture killed crazyguy  in round 12
+Retla killed t3xture  in round 12
+Round 12 ended with elimination. The winning team is Bleed Esports.
+The current score is Gen.G Esports 8 - 4 Bleed Esports.
+Deryeon killed t3xture  in round 13
+ZestKR killed Munchkin  in round 13
+Meteor  killed crazyguy  in round 13
+Karon killed Retla  in round 13
+sScary killed Meteor   in round 13
+Karon killed ZestKR  in round 13
+Lakia killed Deryeon  in round 13
+Lakia killed sScary  in round 13
+Round 13 ended with elimination. The winning team is Gen.G Esports.
+The current score is Gen.G Esports 9 - 4 Bleed Esports.
+Munchkin killed ZestKR  in round 14
+t3xture killed sScary  in round 14
+t3xture killed Deryeon  in round 14
+t3xture killed Retla  in round 14
+Karon killed crazyguy  in round 14
+Round 14 ended with elimination. The winning team is Gen.G Esports.
+The current score is Gen.G Esports 10 - 4 Bleed Esports.
+t3xture killed ZestKR  in round 15
+Meteor  killed Deryeon  in round 15
+Lakia killed crazyguy  in round 15
+Meteor  killed sScary  in round 15
+Munchkin killed Retla  in round 15
+Round 15 ended with elimination. The winning team is Gen.G Esports.
+The current score is Gen.G Esports 11 - 4 Bleed Esports.
+t3xture killed sScary  in round 16
+Munchkin killed Deryeon  in round 16
+ZestKR killed Karon  in round 16
+Munchkin killed crazyguy  in round 16
+Munchkin killed Retla  in round 16
+Meteor  killed ZestKR  in round 16
+Round 16 ended with elimination. The winning team is Gen.G Esports.
+The current score is Gen.G Esports 12 - 4 Bleed Esports.
+Deryeon killed Munchkin  in round 17
+Retla killed Lakia  in round 17
+ZestKR killed Karon  in round 17
+Deryeon killed t3xture  in round 17
+Deryeon killed Meteor   in round 17
+Round 17 ended with elimination. The winning team is Bleed Esports.
+The current score is Gen.G Esports 12 - 5 Bleed Esports.
+sScary killed Meteor   in round 18
+Deryeon killed t3xture  in round 18
+Lakia killed crazyguy  in round 18
+sScary killed Karon  in round 18
+Munchkin killed Retla  in round 18
+sScary killed Munchkin  in round 18
+Lakia killed Deryeon  in round 18
+sScary killed Lakia  in round 18
+Round 18 ended with elimination. The winning team is Bleed Esports.
+The current score is Gen.G Esports 12 - 6 Bleed Esports.
+Deryeon killed Munchkin  in round 19
+Deryeon killed Lakia  in round 19
+Meteor  killed Deryeon  in round 19
+sScary killed Meteor   in round 19
+sScary killed Karon  in round 19
+t3xture killed crazyguy  in round 19
+t3xture killed ZestKR  in round 19
+Retla killed t3xture  in round 19
+Round 19 ended with elimination. The winning team is Bleed Esports.
+The current score is Gen.G Esports 12 - 7 Bleed Esports.
+t3xture killed ZestKR  in round 20
+Lakia killed Retla  in round 20
+sScary killed Karon  in round 20
+Deryeon killed Lakia  in round 20
+Deryeon killed Munchkin  in round 20
+Meteor  killed Deryeon  in round 20
+sScary killed t3xture  in round 20
+Meteor  killed crazyguy  in round 20
+sScary killed Meteor   in round 20
+Round 20 ended with elimination. The winning team is Bleed Esports.
+The current score is Gen.G Esports 12 - 8 Bleed Esports.
+Deryeon killed Munchkin  in round 21
+Retla killed Lakia  in round 21
+Karon killed Deryeon  in round 21
+sScary killed t3xture  in round 21
+Retla killed Meteor   in round 21
+Karon killed Retla  in round 21
+sScary killed Karon  in round 21
+Round 21 ended with elimination. The winning team is Bleed Esports.
+The current score is Gen.G Esports 12 - 9 Bleed Esports.
+t3xture killed crazyguy  in round 22
+Deryeon killed t3xture  in round 22
+Retla killed Lakia  in round 22
+Deryeon killed Meteor   in round 22
+sScary killed Munchkin  in round 22
+Karon killed Retla  in round 22
+Deryeon killed Karon  in round 22
+Round 22 ended with elimination. The winning team is Bleed Esports.
+The current score is Gen.G Esports 12 - 10 Bleed Esports.
+Deryeon killed t3xture  in round 23
+Karon killed Deryeon  in round 23
+Meteor  killed ZestKR  in round 23
+sScary killed Munchkin  in round 23
+sScary killed Karon  in round 23
+Meteor  killed sScary  in round 23
+crazyguy killed Meteor   in round 23
+Retla killed Lakia  in round 23
+Round 23 ended with elimination. The winning team is Bleed Esports.
+The current score is Gen.G Esports 12 - 11 Bleed Esports.
+t3xture killed crazyguy  in round 24
+ZestKR killed t3xture  in round 24
+Deryeon killed Lakia  in round 24
+Munchkin killed sScary  in round 24
+Munchkin killed Deryeon  in round 24
+Meteor  killed Retla  in round 24
+Munchkin killed ZestKR  in round 24
+Round 24 ended with elimination. The winning team is Gen.G Esports.
+The current score is Gen.G Esports 13 - 11 Bleed Esports.
+Game ended with winning team: Gen.G Esports at 2024-06-30T13:53:59Z
+
+--- Player Stats ---
+ZestKR: Team=Bleed Esports, Kills=10, Deaths=17, Assists=12, KDA=1.29, First Kills=2, First Deaths=5
+sScary: Team=Bleed Esports, Kills=20, Deaths=15, Assists=3, KDA=1.53, First Kills=1, First Deaths=1
+crazyguy: Team=Bleed Esports, Kills=8, Deaths=18, Assists=4, KDA=0.67, First Kills=0, First Deaths=3
+Deryeon: Team=Bleed Esports, Kills=23, Deaths=16, Assists=2, KDA=1.56, First Kills=8, First Deaths=4
+Retla: Team=Bleed Esports, Kills=11, Deaths=17, Assists=3, KDA=0.82, First Kills=0, First Deaths=0
+t3xture: Team=Gen.G Esports, Kills=19, Deaths=17, Assists=7, KDA=1.53, First Kills=7, First Deaths=3
+Lakia: Team=Gen.G Esports, Kills=15, Deaths=14, Assists=7, KDA=1.57, First Kills=3, First Deaths=1
+Munchkin: Team=Gen.G Esports, Kills=15, Deaths=14, Assists=14, KDA=2.07, First Kills=1, First Deaths=5
+Meteor : Team=Gen.G Esports, Kills=21, Deaths=14, Assists=3, KDA=1.71, First Kills=1, First Deaths=2
+Karon: Team=Gen.G Esports, Kills=13, Deaths=13, Assists=9, KDA=1.69, First Kills=1, First Deaths=0

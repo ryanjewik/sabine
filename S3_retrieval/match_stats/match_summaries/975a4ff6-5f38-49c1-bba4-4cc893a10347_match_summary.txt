@@ -1,0 +1,316 @@
+Team 1: PAPER REX
+Team 2: DRX
+Participating Players:
+Player 1: ZestKR
+Player 2: BuZz
+Player 3: stax
+Player 4: MaKo
+Player 5: Rb
+Player 6: f0rsakeN
+Player 7: mindfreak
+Player 8: d4v41
+Player 9: something
+Player 10: Jinggg
+Winning Team: DRX
+Score: PAPER REX 14 - 16 DRX
+Tournament Name: vct pacific 2023
+Game Start Time: 2023-05-28T08:35:57Z
+Game End Time: 2023-05-28T09:45:07Z
+Rounds ended by ELIMINATION count: 19
+Rounds ended by DEFUSE count: 9
+Rounds ended by DETONATE count: 2
+SPIKE PLANTED count: 11
+platformGameId: val:975a4ff6-5f38-49c1-bba4-4cc893a10347
+
+--- Events ---
+Game started at 2023-05-28T08:35:57Z
+mindfreak killed MaKo  in round 1
+d4v41 killed stax  in round 1
+something killed ZestKR  in round 1
+Jinggg killed BuZz  in round 1
+Rb killed something  in round 1
+f0rsakeN killed Rb  in round 1
+Round 1 ended with elimination. The winning team is PAPER REX.
+The current score is PAPER REX 1 - 0 DRX.
+something killed BuZz  in round 2
+stax killed something  in round 2
+Jinggg killed stax  in round 2
+Jinggg killed MaKo  in round 2
+ZestKR killed f0rsakeN  in round 2
+d4v41 killed ZestKR  in round 2
+mindfreak killed Rb  in round 2
+Round 2 ended with elimination. The winning team is PAPER REX.
+The current score is PAPER REX 2 - 0 DRX.
+something killed MaKo  in round 3
+d4v41 killed BuZz  in round 3
+stax killed mindfreak  in round 3
+Jinggg killed stax  in round 3
+Rb killed Jinggg  in round 3
+Rb killed d4v41  in round 3
+f0rsakeN killed Rb  in round 3
+f0rsakeN killed ZestKR  in round 3
+Round 3 ended with elimination. The winning team is PAPER REX.
+The current score is PAPER REX 3 - 0 DRX.
+Jinggg killed MaKo  in round 4
+Jinggg killed stax  in round 4
+BuZz killed mindfreak  in round 4
+BuZz killed Jinggg  in round 4
+something killed BuZz  in round 4
+ZestKR killed f0rsakeN  in round 4
+something killed Rb  in round 4
+d4v41 killed ZestKR  in round 4
+Round 4 ended with elimination. The winning team is PAPER REX.
+The current score is PAPER REX 4 - 0 DRX.
+BuZz killed Jinggg  in round 5
+BuZz killed d4v41  in round 5
+BuZz killed f0rsakeN  in round 5
+stax killed something  in round 5
+mindfreak killed ZestKR  in round 5
+BuZz killed mindfreak  in round 5
+Round 5 ended with elimination. The winning team is DRX.
+The current score is PAPER REX 4 - 1 DRX.
+Rb killed d4v41  in round 6
+Jinggg killed Rb  in round 6
+stax killed mindfreak  in round 6
+stax killed f0rsakeN  in round 6
+something killed MaKo  in round 6
+stax killed something  in round 6
+BuZz killed Jinggg  in round 6
+Round 6 ended with spike_defuse. The winning team is DRX.
+The current score is PAPER REX 4 - 2 DRX.
+BuZz killed f0rsakeN  in round 7
+mindfreak killed MaKo  in round 7
+stax killed Jinggg  in round 7
+stax killed something  in round 7
+d4v41 killed stax  in round 7
+BuZz killed d4v41  in round 7
+Rb killed mindfreak  in round 7
+Round 7 ended with spike_defuse. The winning team is DRX.
+The current score is PAPER REX 4 - 3 DRX.
+f0rsakeN killed BuZz  in round 8
+ZestKR killed Jinggg  in round 8
+MaKo killed d4v41  in round 8
+mindfreak killed MaKo  in round 8
+Rb killed something  in round 8
+ZestKR killed mindfreak  in round 8
+f0rsakeN killed stax  in round 8
+ZestKR killed f0rsakeN  in round 8
+Round 8 ended with elimination. The winning team is DRX.
+The current score is PAPER REX 4 - 4 DRX.
+something killed stax  in round 9
+Jinggg killed MaKo  in round 9
+Jinggg killed BuZz  in round 9
+Round 9 ended with detonate. The winning team is PAPER REX.
+The current score is PAPER REX 5 - 4 DRX.
+d4v41 killed ZestKR  in round 10
+d4v41 killed stax  in round 10
+BuZz killed Jinggg  in round 10
+something killed MaKo  in round 10
+Rb killed mindfreak  in round 10
+f0rsakeN killed Rb  in round 10
+Round 10 ended with detonate. The winning team is PAPER REX.
+The current score is PAPER REX 6 - 4 DRX.
+something killed BuZz  in round 11
+BuZz killed f0rsakeN  in round 11
+BuZz killed Jinggg  in round 11
+mindfreak killed Rb  in round 11
+stax killed mindfreak  in round 11
+something killed stax  in round 11
+d4v41 killed BuZz  in round 11
+something killed MaKo  in round 11
+Round 11 ended with spike_defuse. The winning team is DRX.
+The current score is PAPER REX 6 - 5 DRX.
+stax killed d4v41  in round 12
+something killed stax  in round 12
+Rb killed f0rsakeN  in round 12
+BuZz killed Jinggg  in round 12
+something killed MaKo  in round 12
+ZestKR killed something  in round 12
+BuZz killed mindfreak  in round 12
+Round 12 ended with spike_defuse. The winning team is DRX.
+The current score is PAPER REX 6 - 6 DRX.
+something killed ZestKR  in round 13
+something killed Rb  in round 13
+BuZz killed something  in round 13
+stax killed d4v41  in round 13
+stax killed f0rsakeN  in round 13
+Jinggg killed BuZz  in round 13
+Jinggg killed MaKo  in round 13
+stax killed mindfreak  in round 13
+Jinggg killed stax  in round 13
+Round 13 ended with spike_defuse. The winning team is PAPER REX.
+The current score is PAPER REX 7 - 6 DRX.
+f0rsakeN killed Rb  in round 14
+Jinggg killed BuZz  in round 14
+f0rsakeN killed ZestKR  in round 14
+f0rsakeN killed MaKo  in round 14
+Jinggg killed stax  in round 14
+Round 14 ended with elimination. The winning team is PAPER REX.
+The current score is PAPER REX 8 - 6 DRX.
+ZestKR killed d4v41  in round 15
+something killed ZestKR  in round 15
+f0rsakeN killed BuZz  in round 15
+MaKo killed mindfreak  in round 15
+f0rsakeN killed stax  in round 15
+Rb killed f0rsakeN  in round 15
+MaKo killed Jinggg  in round 15
+Rb killed something  in round 15
+Round 15 ended with elimination. The winning team is DRX.
+The current score is PAPER REX 8 - 7 DRX.
+MaKo killed d4v41  in round 16
+something killed MaKo  in round 16
+BuZz killed something  in round 16
+BuZz killed f0rsakeN  in round 16
+Jinggg killed BuZz  in round 16
+Jinggg killed stax  in round 16
+Jinggg killed Rb  in round 16
+Round 16 ended with spike_defuse. The winning team is PAPER REX.
+The current score is PAPER REX 9 - 7 DRX.
+Jinggg killed ZestKR  in round 17
+ZestKR killed Jinggg  in round 17
+BuZz killed f0rsakeN  in round 17
+something killed stax  in round 17
+MaKo killed something  in round 17
+MaKo killed mindfreak  in round 17
+BuZz killed d4v41  in round 17
+Round 17 ended with elimination. The winning team is DRX.
+The current score is PAPER REX 9 - 8 DRX.
+BuZz killed something  in round 18
+MaKo killed d4v41  in round 18
+f0rsakeN killed stax  in round 18
+Jinggg killed Rb  in round 18
+Jinggg killed BuZz  in round 18
+MaKo killed Jinggg  in round 18
+MaKo killed f0rsakeN  in round 18
+ZestKR killed mindfreak  in round 18
+Round 18 ended with elimination. The winning team is DRX.
+The current score is PAPER REX 9 - 9 DRX.
+mindfreak killed MaKo  in round 19
+something killed Rb  in round 19
+BuZz killed something  in round 19
+ZestKR killed mindfreak  in round 19
+BuZz killed d4v41  in round 19
+BuZz killed Jinggg  in round 19
+f0rsakeN killed stax  in round 19
+BuZz killed f0rsakeN  in round 19
+Round 19 ended with elimination. The winning team is DRX.
+The current score is PAPER REX 9 - 10 DRX.
+f0rsakeN killed ZestKR  in round 20
+something killed Rb  in round 20
+mindfreak killed MaKo  in round 20
+something killed BuZz  in round 20
+mindfreak killed stax  in round 20
+Round 20 ended with elimination. The winning team is PAPER REX.
+The current score is PAPER REX 10 - 10 DRX.
+Rb killed f0rsakeN  in round 21
+BuZz killed d4v41  in round 21
+Jinggg killed BuZz  in round 21
+something killed MaKo  in round 21
+stax killed something  in round 21
+Jinggg killed stax  in round 21
+Jinggg killed ZestKR  in round 21
+mindfreak killed Rb  in round 21
+Round 21 ended with spike_defuse. The winning team is PAPER REX.
+The current score is PAPER REX 11 - 10 DRX.
+f0rsakeN killed BuZz  in round 22
+f0rsakeN killed stax  in round 22
+ZestKR killed f0rsakeN  in round 22
+something killed ZestKR  in round 22
+MaKo killed Jinggg  in round 22
+Rb killed d4v41  in round 22
+something killed MaKo  in round 22
+something killed Rb  in round 22
+Round 22 ended with elimination. The winning team is PAPER REX.
+The current score is PAPER REX 12 - 10 DRX.
+BuZz killed mindfreak  in round 23
+BuZz killed Jinggg  in round 23
+f0rsakeN killed MaKo  in round 23
+stax killed something  in round 23
+d4v41 killed BuZz  in round 23
+ZestKR killed f0rsakeN  in round 23
+stax killed d4v41  in round 23
+Round 23 ended with elimination. The winning team is DRX.
+The current score is PAPER REX 12 - 11 DRX.
+something killed stax  in round 24
+Rb killed mindfreak  in round 24
+BuZz killed f0rsakeN  in round 24
+d4v41 killed BuZz  in round 24
+Rb killed Jinggg  in round 24
+Rb killed something  in round 24
+MaKo killed d4v41  in round 24
+Round 24 ended with elimination. The winning team is DRX.
+The current score is PAPER REX 12 - 12 DRX.
+MaKo killed something  in round 25
+MaKo killed Jinggg  in round 25
+stax killed mindfreak  in round 25
+d4v41 killed stax  in round 25
+BuZz killed d4v41  in round 25
+f0rsakeN killed BuZz  in round 25
+MaKo killed f0rsakeN  in round 25
+Round 25 ended with elimination. The winning team is DRX.
+The current score is PAPER REX 12 - 13 DRX.
+d4v41 killed BuZz  in round 26
+mindfreak killed Rb  in round 26
+f0rsakeN killed stax  in round 26
+MaKo killed mindfreak  in round 26
+MaKo killed d4v41  in round 26
+f0rsakeN killed MaKo  in round 26
+ZestKR killed f0rsakeN  in round 26
+something killed ZestKR  in round 26
+Round 26 ended with elimination. The winning team is PAPER REX.
+The current score is PAPER REX 13 - 13 DRX.
+MaKo killed something  in round 27
+Jinggg killed MaKo  in round 27
+mindfreak killed stax  in round 27
+f0rsakeN killed BuZz  in round 27
+ZestKR killed d4v41  in round 27
+Rb killed f0rsakeN  in round 27
+ZestKR killed Jinggg  in round 27
+Jinggg killed ZestKR  in round 27
+Rb killed mindfreak  in round 27
+Round 27 ended with spike_defuse. The winning team is DRX.
+The current score is PAPER REX 13 - 14 DRX.
+BuZz killed mindfreak  in round 28
+something killed Rb  in round 28
+ZestKR killed d4v41  in round 28
+ZestKR killed f0rsakeN  in round 28
+Jinggg killed ZestKR  in round 28
+Jinggg killed stax  in round 28
+something killed BuZz  in round 28
+Jinggg killed MaKo  in round 28
+Round 28 ended with elimination. The winning team is PAPER REX.
+The current score is PAPER REX 14 - 14 DRX.
+f0rsakeN killed Rb  in round 29
+BuZz killed something  in round 29
+BuZz killed mindfreak  in round 29
+f0rsakeN killed stax  in round 29
+Jinggg killed MaKo  in round 29
+BuZz killed f0rsakeN  in round 29
+BuZz killed Jinggg  in round 29
+BuZz killed d4v41  in round 29
+Round 29 ended with spike_defuse. The winning team is DRX.
+The current score is PAPER REX 14 - 15 DRX.
+something killed stax  in round 30
+BuZz killed Jinggg  in round 30
+f0rsakeN killed BuZz  in round 30
+Rb killed f0rsakeN  in round 30
+Rb killed d4v41  in round 30
+Rb killed something  in round 30
+mindfreak killed MaKo  in round 30
+mindfreak killed ZestKR  in round 30
+Rb killed mindfreak  in round 30
+Round 30 ended with elimination. The winning team is DRX.
+The current score is PAPER REX 14 - 16 DRX.
+Game ended with winning team: DRX at 2023-05-28T09:45:07Z
+
+--- Player Stats ---
+ZestKR: Team=DRX, Kills=17, Deaths=17, Assists=10, KDA=1.59, First Kills=1, First Deaths=4
+BuZz: Team=DRX, Kills=36, Deaths=23, Assists=2, KDA=1.65, First Kills=5, First Deaths=5
+stax: Team=DRX, Kills=17, Deaths=27, Assists=22, KDA=1.44, First Kills=1, First Deaths=3
+MaKo: Team=DRX, Kills=17, Deaths=24, Assists=19, KDA=1.5, First Kills=3, First Deaths=4
+Rb: Team=DRX, Kills=21, Deaths=18, Assists=2, KDA=1.28, First Kills=2, First Deaths=2
+f0rsakeN: Team=PAPER REX, Kills=24, Deaths=24, Assists=6, KDA=1.25, First Kills=5, First Deaths=2
+mindfreak: Team=PAPER REX, Kills=14, Deaths=22, Assists=8, KDA=1.0, First Kills=2, First Deaths=2
+d4v41: Team=PAPER REX, Kills=12, Deaths=22, Assists=12, KDA=1.09, First Kills=2, First Deaths=4
+something: Team=PAPER REX, Kills=30, Deaths=20, Assists=4, KDA=1.7, First Kills=7, First Deaths=3
+Jinggg: Team=PAPER REX, Kills=29, Deaths=20, Assists=1, KDA=1.5, First Kills=2, First Deaths=1

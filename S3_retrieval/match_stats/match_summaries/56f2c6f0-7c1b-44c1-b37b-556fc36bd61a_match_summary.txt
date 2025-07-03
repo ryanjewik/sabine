@@ -1,0 +1,218 @@
+Team 1: LOUD
+Team 2: Leviatán Esports
+Participating Players:
+Player 1: Mazino
+Player 2: Shyy
+Player 3: kiNgg
+Player 4: Nozwerr
+Player 5: Tacolilla
+Player 6: aspas
+Player 7: cauanzin
+Player 8: Saadhak
+Player 9: Less
+Player 10: tuyz
+Winning Team: LOUD
+Score: LOUD 13 - 8 Leviatán Esports
+Tournament Name: vct americas 2023
+Game Start Time: 2023-05-19T22:32:00Z
+Game End Time: 2023-05-20T00:09:06Z
+Rounds ended by ELIMINATION count: 12
+Rounds ended by DEFUSE count: 2
+Rounds ended by DETONATE count: 5
+SPIKE PLANTED count: 7
+platformGameId: val:56f2c6f0-7c1b-44c1-b37b-556fc36bd61a
+
+--- Events ---
+Game started at 2023-05-19T22:32:00Z
+Tacolilla killed Less  in round 1
+Shyy killed aspas  in round 1
+Mazino killed Saadhak  in round 1
+Shyy killed cauanzin  in round 1
+tuyz killed Mazino  in round 1
+Shyy killed tuyz  in round 1
+Round 1 ended with elimination. The winning team is Leviatán Esports.
+The current score is LOUD 0 - 1 Leviatán Esports.
+Shyy killed cauanzin  in round 2
+aspas killed Shyy  in round 2
+kiNgg killed aspas  in round 2
+kiNgg killed Saadhak  in round 2
+tuyz killed Mazino  in round 2
+kiNgg killed tuyz  in round 2
+Less killed kiNgg  in round 2
+Nozwerr killed Less  in round 2
+Round 2 ended with elimination. The winning team is Leviatán Esports.
+The current score is LOUD 0 - 2 Leviatán Esports.
+aspas killed Tacolilla  in round 3
+Nozwerr killed cauanzin  in round 3
+Saadhak killed Mazino  in round 3
+Shyy killed Saadhak  in round 3
+kiNgg killed aspas  in round 3
+tuyz killed kiNgg  in round 3
+Less killed Shyy  in round 3
+tuyz killed Nozwerr  in round 3
+Round 3 ended with elimination. The winning team is LOUD.
+The current score is LOUD 1 - 2 Leviatán Esports.
+Shyy killed Less  in round 4
+Mazino killed aspas  in round 4
+kiNgg killed cauanzin  in round 4
+Saadhak killed Mazino  in round 4
+Round 4 ended with spike_defuse. The winning team is Leviatán Esports.
+The current score is LOUD 1 - 3 Leviatán Esports.
+kiNgg killed Saadhak  in round 5
+tuyz killed Nozwerr  in round 5
+Tacolilla killed aspas  in round 5
+Less killed Tacolilla  in round 5
+kiNgg killed cauanzin  in round 5
+tuyz killed kiNgg  in round 5
+Shyy killed Saadhak  in round 5
+Less killed Shyy  in round 5
+tuyz killed Mazino  in round 5
+Round 5 ended with elimination. The winning team is LOUD.
+The current score is LOUD 2 - 3 Leviatán Esports.
+Less killed kiNgg  in round 6
+Mazino killed Less  in round 6
+Tacolilla killed Saadhak  in round 6
+Mazino killed cauanzin  in round 6
+tuyz killed Mazino  in round 6
+aspas killed Tacolilla  in round 6
+Shyy killed tuyz  in round 6
+Round 6 ended with detonate. The winning team is LOUD.
+The current score is LOUD 3 - 3 Leviatán Esports.
+aspas killed aspas  in round 7
+Nozwerr killed Nozwerr  in round 7
+Less killed Shyy  in round 7
+Saadhak killed Mazino  in round 7
+Nozwerr killed Saadhak  in round 7
+Round 7 ended with detonate. The winning team is LOUD.
+The current score is LOUD 4 - 3 Leviatán Esports.
+cauanzin killed Mazino  in round 8
+Tacolilla killed Saadhak  in round 8
+Shyy killed Less  in round 8
+Nozwerr killed tuyz  in round 8
+cauanzin killed Tacolilla  in round 8
+Shyy killed cauanzin  in round 8
+Round 8 ended with time_expired. The winning team is Leviatán Esports.
+The current score is LOUD 4 - 4 Leviatán Esports.
+aspas killed Shyy  in round 9
+Saadhak killed Nozwerr  in round 9
+Less killed Tacolilla  in round 9
+Round 9 ended with detonate. The winning team is LOUD.
+The current score is LOUD 5 - 4 Leviatán Esports.
+Saadhak killed Mazino  in round 10
+Shyy killed tuyz  in round 10
+aspas killed Shyy  in round 10
+Nozwerr killed cauanzin  in round 10
+Saadhak killed kiNgg  in round 10
+Nozwerr killed Saadhak  in round 10
+Less killed Tacolilla  in round 10
+aspas killed Nozwerr  in round 10
+Round 10 ended with elimination. The winning team is LOUD.
+The current score is LOUD 6 - 4 Leviatán Esports.
+Shyy killed aspas  in round 11
+cauanzin killed kiNgg  in round 11
+Shyy killed tuyz  in round 11
+cauanzin killed Shyy  in round 11
+Nozwerr killed cauanzin  in round 11
+Saadhak killed Nozwerr  in round 11
+Less killed Mazino  in round 11
+Less killed Tacolilla  in round 11
+Round 11 ended with elimination. The winning team is LOUD.
+The current score is LOUD 7 - 4 Leviatán Esports.
+cauanzin killed Tacolilla  in round 12
+Nozwerr killed aspas  in round 12
+cauanzin killed kiNgg  in round 12
+cauanzin killed Mazino  in round 12
+Saadhak killed Nozwerr  in round 12
+tuyz killed Shyy  in round 12
+Round 12 ended with elimination. The winning team is LOUD.
+The current score is LOUD 8 - 4 Leviatán Esports.
+Nozwerr killed Saadhak  in round 13
+Nozwerr killed cauanzin  in round 13
+Nozwerr killed aspas  in round 13
+tuyz killed Nozwerr  in round 13
+Tacolilla killed Less  in round 13
+kiNgg killed tuyz  in round 13
+Round 13 ended with elimination. The winning team is Leviatán Esports.
+The current score is LOUD 8 - 5 Leviatán Esports.
+Tacolilla killed cauanzin  in round 14
+aspas killed Tacolilla  in round 14
+tuyz killed kiNgg  in round 14
+Shyy killed Less  in round 14
+Mazino killed tuyz  in round 14
+Mazino killed aspas  in round 14
+Saadhak killed Shyy  in round 14
+Mazino killed Saadhak  in round 14
+Round 14 ended with elimination. The winning team is Leviatán Esports.
+The current score is LOUD 8 - 6 Leviatán Esports.
+kiNgg killed Saadhak  in round 15
+Mazino killed cauanzin  in round 15
+Shyy killed tuyz  in round 15
+Round 15 ended with detonate. The winning team is Leviatán Esports.
+The current score is LOUD 8 - 7 Leviatán Esports.
+Less killed Less  in round 16
+aspas killed aspas  in round 16
+Tacolilla killed Less  in round 16
+Tacolilla killed Saadhak  in round 16
+Tacolilla killed cauanzin  in round 16
+aspas killed Tacolilla  in round 16
+Nozwerr killed tuyz  in round 16
+aspas killed kiNgg  in round 16
+Round 16 ended with detonate. The winning team is Leviatán Esports.
+The current score is LOUD 8 - 8 Leviatán Esports.
+Mazino killed Mazino  in round 17
+Saadhak killed Tacolilla  in round 17
+kiNgg killed Saadhak  in round 17
+cauanzin killed kiNgg  in round 17
+Nozwerr killed cauanzin  in round 17
+tuyz killed Mazino  in round 17
+Less killed Shyy  in round 17
+Nozwerr killed Less  in round 17
+Nozwerr killed tuyz  in round 17
+aspas killed Nozwerr  in round 17
+Round 17 ended with elimination. The winning team is LOUD.
+The current score is LOUD 9 - 8 Leviatán Esports.
+Saadhak killed Mazino  in round 18
+Less killed kiNgg  in round 18
+aspas killed Shyy  in round 18
+Less killed Tacolilla  in round 18
+Round 18 ended with time_expired. The winning team is LOUD.
+The current score is LOUD 10 - 8 Leviatán Esports.
+Saadhak killed Nozwerr  in round 19
+Tacolilla killed Less  in round 19
+aspas killed kiNgg  in round 19
+aspas killed Shyy  in round 19
+Nozwerr killed cauanzin  in round 19
+Saadhak killed Mazino  in round 19
+Saadhak killed Tacolilla  in round 19
+Nozwerr killed Saadhak  in round 19
+tuyz killed Nozwerr  in round 19
+Round 19 ended with spike_defuse. The winning team is LOUD.
+The current score is LOUD 11 - 8 Leviatán Esports.
+aspas killed Nozwerr  in round 20
+aspas killed Shyy  in round 20
+Mazino killed cauanzin  in round 20
+Less killed kiNgg  in round 20
+tuyz killed Tacolilla  in round 20
+tuyz killed Mazino  in round 20
+Round 20 ended with elimination. The winning team is LOUD.
+The current score is LOUD 12 - 8 Leviatán Esports.
+aspas killed Tacolilla  in round 21
+aspas killed kiNgg  in round 21
+cauanzin killed Shyy  in round 21
+Saadhak killed Mazino  in round 21
+cauanzin killed Nozwerr  in round 21
+Round 21 ended with elimination. The winning team is LOUD.
+The current score is LOUD 13 - 8 Leviatán Esports.
+Game ended with winning team: LOUD at 2023-05-20T00:09:06Z
+
+--- Player Stats ---
+Mazino: Team=Leviatán Esports, Kills=10, Deaths=17, Assists=9, KDA=1.12, First Kills=1, First Deaths=4
+Shyy: Team=Leviatán Esports, Kills=15, Deaths=14, Assists=1, KDA=1.14, First Kills=3, First Deaths=1
+kiNgg: Team=Leviatán Esports, Kills=10, Deaths=14, Assists=4, KDA=1.0, First Kills=2, First Deaths=1
+Nozwerr: Team=Leviatán Esports, Kills=18, Deaths=13, Assists=2, KDA=1.54, First Kills=1, First Deaths=2
+Tacolilla: Team=Leviatán Esports, Kills=10, Deaths=15, Assists=5, KDA=1.0, First Kills=2, First Deaths=3
+aspas: Team=LOUD, Kills=19, Deaths=11, Assists=3, KDA=2.0, First Kills=5, First Deaths=2
+cauanzin: Team=LOUD, Kills=10, Deaths=16, Assists=8, KDA=1.12, First Kills=2, First Deaths=2
+Saadhak: Team=LOUD, Kills=15, Deaths=15, Assists=7, KDA=1.47, First Kills=3, First Deaths=3
+Less: Team=LOUD, Kills=15, Deaths=11, Assists=2, KDA=1.55, First Kills=2, First Deaths=3
+tuyz: Team=LOUD, Kills=15, Deaths=11, Assists=6, KDA=1.91, First Kills=0, First Deaths=0

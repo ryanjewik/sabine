@@ -1,0 +1,325 @@
+Team 1: FNATIC
+Team 2: Leviatán Esports
+Participating Players:
+Player 1: Melser
+Player 2: Shyy
+Player 3: kiNgg
+Player 4: adverso
+Player 5: Tacolilla
+Player 6: Mistic
+Player 7: Derke
+Player 8: Boaster
+Player 9: Alfajer
+Player 10: Enz0
+Winning Team: FNATIC
+Score: FNATIC 17 - 15 Leviatán Esports
+Tournament Name: masters 2 2022 stage 2
+Game Start Time: 2022-07-18T17:33:25Z
+Game End Time: 2022-07-18T18:45:42Z
+Rounds ended by ELIMINATION count: 19
+Rounds ended by DEFUSE count: 7
+Rounds ended by DETONATE count: 4
+SPIKE PLANTED count: 11
+platformGameId: val:15007dc7-2e37-4867-bba0-b2fb9a72bc63
+
+--- Events ---
+Game started at 2022-07-18T17:33:25Z
+adverso killed Boaster  in round 1
+Shyy killed Mistic  in round 1
+Alfajer killed Shyy  in round 1
+adverso killed Alfajer  in round 1
+Derke killed adverso  in round 1
+kiNgg killed Derke  in round 1
+kiNgg killed Enz0  in round 1
+Round 1 ended with elimination. The winning team is Leviatán Esports.
+The current score is FNATIC 0 - 1 Leviatán Esports.
+Derke killed adverso  in round 2
+Derke killed Shyy  in round 2
+kiNgg killed Derke  in round 2
+kiNgg killed Mistic  in round 2
+kiNgg killed Alfajer  in round 2
+Boaster killed kiNgg  in round 2
+Tacolilla killed Boaster  in round 2
+Tacolilla killed Enz0  in round 2
+Round 2 ended with spike_defuse. The winning team is Leviatán Esports.
+The current score is FNATIC 0 - 2 Leviatán Esports.
+Enz0 killed adverso  in round 3
+Alfajer killed Tacolilla  in round 3
+Boaster killed Shyy  in round 3
+Round 3 ended with detonate. The winning team is FNATIC.
+The current score is FNATIC 1 - 2 Leviatán Esports.
+Melser killed Melser  in round 4
+kiNgg killed kiNgg  in round 4
+Shyy killed Alfajer  in round 4
+Shyy killed Boaster  in round 4
+Derke killed Shyy  in round 4
+adverso killed Enz0  in round 4
+Derke killed adverso  in round 4
+kiNgg killed Derke  in round 4
+Mistic killed kiNgg  in round 4
+Mistic killed Tacolilla  in round 4
+Melser killed Mistic  in round 4
+Round 4 ended with elimination. The winning team is Leviatán Esports.
+The current score is FNATIC 1 - 3 Leviatán Esports.
+Derke killed adverso  in round 5
+kiNgg killed Derke  in round 5
+kiNgg killed Boaster  in round 5
+Mistic killed Melser  in round 5
+Tacolilla killed Mistic  in round 5
+Enz0 killed kiNgg  in round 5
+Shyy killed Enz0  in round 5
+Alfajer killed Tacolilla  in round 5
+Shyy killed Alfajer  in round 5
+Round 5 ended with spike_defuse. The winning team is Leviatán Esports.
+The current score is FNATIC 1 - 4 Leviatán Esports.
+kiNgg killed Boaster  in round 6
+adverso killed Alfajer  in round 6
+adverso killed Derke  in round 6
+adverso killed Mistic  in round 6
+Enz0 killed adverso  in round 6
+Shyy killed Enz0  in round 6
+Round 6 ended with elimination. The winning team is Leviatán Esports.
+The current score is FNATIC 1 - 5 Leviatán Esports.
+Enz0 killed kiNgg  in round 7
+Melser killed Boaster  in round 7
+Mistic killed Melser  in round 7
+Mistic killed Shyy  in round 7
+Round 7 ended with detonate. The winning team is FNATIC.
+The current score is FNATIC 2 - 5 Leviatán Esports.
+Melser killed Derke  in round 8
+Alfajer killed Melser  in round 8
+kiNgg killed Enz0  in round 8
+Tacolilla killed Alfajer  in round 8
+Tacolilla killed Boaster  in round 8
+adverso killed Mistic  in round 8
+Round 8 ended with elimination. The winning team is Leviatán Esports.
+The current score is FNATIC 2 - 6 Leviatán Esports.
+Alfajer killed adverso  in round 9
+Boaster killed kiNgg  in round 9
+Alfajer killed Shyy  in round 9
+Melser killed Derke  in round 9
+Tacolilla killed Enz0  in round 9
+Alfajer killed Tacolilla  in round 9
+Melser killed Alfajer  in round 9
+Melser killed Mistic  in round 9
+Boaster killed Melser  in round 9
+Round 9 ended with elimination. The winning team is FNATIC.
+The current score is FNATIC 3 - 6 Leviatán Esports.
+adverso killed Derke  in round 10
+Mistic killed adverso  in round 10
+Mistic killed kiNgg  in round 10
+Boaster killed Shyy  in round 10
+Mistic killed Melser  in round 10
+Round 10 ended with detonate. The winning team is FNATIC.
+The current score is FNATIC 4 - 6 Leviatán Esports.
+Tacolilla killed Mistic  in round 11
+Derke killed Melser  in round 11
+Derke killed Shyy  in round 11
+kiNgg killed Boaster  in round 11
+adverso killed Derke  in round 11
+Alfajer killed kiNgg  in round 11
+Alfajer killed adverso  in round 11
+Alfajer killed Tacolilla  in round 11
+Round 11 ended with elimination. The winning team is FNATIC.
+The current score is FNATIC 5 - 6 Leviatán Esports.
+adverso killed Derke  in round 12
+Shyy killed Boaster  in round 12
+adverso killed Mistic  in round 12
+kiNgg killed Alfajer  in round 12
+Enz0 killed Shyy  in round 12
+Enz0 killed adverso  in round 12
+Tacolilla killed Enz0  in round 12
+Round 12 ended with elimination. The winning team is Leviatán Esports.
+The current score is FNATIC 5 - 7 Leviatán Esports.
+Melser killed Derke  in round 13
+Mistic killed adverso  in round 13
+Mistic killed Shyy  in round 13
+Enz0 killed kiNgg  in round 13
+Mistic killed Tacolilla  in round 13
+Boaster killed Melser  in round 13
+Round 13 ended with elimination. The winning team is FNATIC.
+The current score is FNATIC 6 - 7 Leviatán Esports.
+Derke killed kiNgg  in round 14
+Alfajer killed Melser  in round 14
+Boaster killed adverso  in round 14
+Mistic killed Tacolilla  in round 14
+Derke killed Shyy  in round 14
+Round 14 ended with elimination. The winning team is FNATIC.
+The current score is FNATIC 7 - 7 Leviatán Esports.
+kiNgg killed Enz0  in round 15
+kiNgg killed Mistic  in round 15
+Derke killed kiNgg  in round 15
+Boaster killed Melser  in round 15
+Shyy killed Boaster  in round 15
+Tacolilla killed Alfajer  in round 15
+adverso killed Derke  in round 15
+Round 15 ended with elimination. The winning team is Leviatán Esports.
+The current score is FNATIC 7 - 8 Leviatán Esports.
+Derke killed kiNgg  in round 16
+Shyy killed Derke  in round 16
+Boaster killed Shyy  in round 16
+Enz0 killed adverso  in round 16
+Boaster killed Melser  in round 16
+Alfajer killed Tacolilla  in round 16
+Round 16 ended with spike_defuse. The winning team is FNATIC.
+The current score is FNATIC 8 - 8 Leviatán Esports.
+Derke killed adverso  in round 17
+Alfajer killed Tacolilla  in round 17
+Shyy killed Alfajer  in round 17
+Boaster killed Shyy  in round 17
+Mistic killed kiNgg  in round 17
+Melser killed Enz0  in round 17
+Boaster killed Melser  in round 17
+Round 17 ended with elimination. The winning team is FNATIC.
+The current score is FNATIC 9 - 8 Leviatán Esports.
+Melser killed Derke  in round 18
+Boaster killed adverso  in round 18
+Mistic killed kiNgg  in round 18
+Shyy killed Mistic  in round 18
+Shyy killed Boaster  in round 18
+Alfajer killed Shyy  in round 18
+Tacolilla killed Enz0  in round 18
+Tacolilla killed Alfajer  in round 18
+Round 18 ended with elimination. The winning team is Leviatán Esports.
+The current score is FNATIC 9 - 9 Leviatán Esports.
+Derke killed kiNgg  in round 19
+Boaster killed adverso  in round 19
+Round 19 ended with time_expired. The winning team is FNATIC.
+The current score is FNATIC 10 - 9 Leviatán Esports.
+Boaster killed Melser  in round 20
+Boaster killed Shyy  in round 20
+kiNgg killed Mistic  in round 20
+Boaster killed kiNgg  in round 20
+Round 20 ended with time_expired. The winning team is FNATIC.
+The current score is FNATIC 11 - 9 Leviatán Esports.
+Alfajer killed Tacolilla  in round 21
+Enz0 killed kiNgg  in round 21
+Melser killed Alfajer  in round 21
+adverso killed Enz0  in round 21
+adverso killed Derke  in round 21
+adverso killed Mistic  in round 21
+adverso killed Boaster  in round 21
+Round 21 ended with elimination. The winning team is Leviatán Esports.
+The current score is FNATIC 11 - 10 Leviatán Esports.
+kiNgg killed Derke  in round 22
+Enz0 killed kiNgg  in round 22
+Boaster killed Shyy  in round 22
+Boaster killed Tacolilla  in round 22
+Melser killed Boaster  in round 22
+Mistic killed adverso  in round 22
+Alfajer killed Melser  in round 22
+Round 22 ended with spike_defuse. The winning team is FNATIC.
+The current score is FNATIC 12 - 10 Leviatán Esports.
+Mistic killed Tacolilla  in round 23
+Melser killed Mistic  in round 23
+Melser killed Alfajer  in round 23
+adverso killed Derke  in round 23
+Enz0 killed kiNgg  in round 23
+Boaster killed adverso  in round 23
+Shyy killed Boaster  in round 23
+Melser killed Enz0  in round 23
+Round 23 ended with elimination. The winning team is Leviatán Esports.
+The current score is FNATIC 12 - 11 Leviatán Esports.
+Alfajer killed adverso  in round 24
+Tacolilla killed Alfajer  in round 24
+Shyy killed Mistic  in round 24
+Boaster killed kiNgg  in round 24
+Melser killed Derke  in round 24
+Enz0 killed Tacolilla  in round 24
+Enz0 killed Melser  in round 24
+Enz0 killed Shyy  in round 24
+Boaster killed Boaster  in round 24
+Round 24 ended with detonate. The winning team is Leviatán Esports.
+The current score is FNATIC 12 - 12 Leviatán Esports.
+Enz0 killed Enz0  in round 25
+Melser killed Derke  in round 25
+Tacolilla killed Boaster  in round 25
+Melser killed Mistic  in round 25
+Alfajer killed Melser  in round 25
+Alfajer killed Shyy  in round 25
+Alfajer killed Tacolilla  in round 25
+adverso killed Alfajer  in round 25
+adverso killed Enz0  in round 25
+Round 25 ended with elimination. The winning team is Leviatán Esports.
+The current score is FNATIC 12 - 13 Leviatán Esports.
+kiNgg killed Alfajer  in round 26
+Boaster killed kiNgg  in round 26
+Shyy killed Mistic  in round 26
+Boaster killed Shyy  in round 26
+adverso killed Boaster  in round 26
+Melser killed Derke  in round 26
+Enz0 killed adverso  in round 26
+Enz0 killed Tacolilla  in round 26
+Round 26 ended with spike_defuse. The winning team is FNATIC.
+The current score is FNATIC 13 - 13 Leviatán Esports.
+Enz0 killed Melser  in round 27
+Derke killed Melser  in round 27
+adverso killed Derke  in round 27
+Tacolilla killed Alfajer  in round 27
+adverso killed Enz0  in round 27
+Shyy killed Mistic  in round 27
+adverso killed Boaster  in round 27
+Round 27 ended with spike_defuse. The winning team is Leviatán Esports.
+The current score is FNATIC 13 - 14 Leviatán Esports.
+Boaster killed kiNgg  in round 28
+Alfajer killed Melser  in round 28
+Mistic killed Shyy  in round 28
+adverso killed Alfajer  in round 28
+Boaster killed adverso  in round 28
+Tacolilla killed Derke  in round 28
+Enz0 killed Tacolilla  in round 28
+Round 28 ended with elimination. The winning team is FNATIC.
+The current score is FNATIC 14 - 14 Leviatán Esports.
+Boaster killed kiNgg  in round 29
+Boaster killed adverso  in round 29
+Enz0 killed Melser  in round 29
+Boaster killed Shyy  in round 29
+Boaster killed Tacolilla  in round 29
+Round 29 ended with elimination. The winning team is FNATIC.
+The current score is FNATIC 15 - 14 Leviatán Esports.
+Mistic killed Shyy  in round 30
+Boaster killed kiNgg  in round 30
+Mistic killed Melser  in round 30
+adverso killed Mistic  in round 30
+Tacolilla killed Alfajer  in round 30
+Tacolilla killed Boaster  in round 30
+Enz0 killed Tacolilla  in round 30
+adverso killed Derke  in round 30
+adverso killed Enz0  in round 30
+Round 30 ended with elimination. The winning team is Leviatán Esports.
+The current score is FNATIC 15 - 15 Leviatán Esports.
+kiNgg killed Boaster  in round 31
+Derke killed adverso  in round 31
+Tacolilla killed Mistic  in round 31
+Enz0 killed Tacolilla  in round 31
+Alfajer killed kiNgg  in round 31
+Melser killed Derke  in round 31
+Alfajer killed Shyy  in round 31
+Melser killed Alfajer  in round 31
+Enz0 killed Melser  in round 31
+Round 31 ended with elimination. The winning team is FNATIC.
+The current score is FNATIC 16 - 15 Leviatán Esports.
+kiNgg killed Derke  in round 32
+Boaster killed kiNgg  in round 32
+Enz0 killed Shyy  in round 32
+Tacolilla killed Boaster  in round 32
+Alfajer killed Tacolilla  in round 32
+adverso killed Alfajer  in round 32
+Mistic killed Melser  in round 32
+adverso killed Mistic  in round 32
+Enz0 killed adverso  in round 32
+Round 32 ended with spike_defuse. The winning team is FNATIC.
+The current score is FNATIC 17 - 15 Leviatán Esports.
+Game ended with winning team: FNATIC at 2022-07-18T18:45:42Z
+
+--- Player Stats ---
+Melser: Team=Leviatán Esports, Kills=21, Deaths=23, Assists=7, KDA=1.22, First Kills=4, First Deaths=3
+Shyy: Team=Leviatán Esports, Kills=16, Deaths=24, Assists=14, KDA=1.25, First Kills=0, First Deaths=1
+kiNgg: Team=Leviatán Esports, Kills=20, Deaths=26, Assists=10, KDA=1.15, First Kills=6, First Deaths=6
+adverso: Team=Leviatán Esports, Kills=29, Deaths=24, Assists=7, KDA=1.5, First Kills=3, First Deaths=6
+Tacolilla: Team=Leviatán Esports, Kills=19, Deaths=20, Assists=5, KDA=1.2, First Kills=1, First Deaths=2
+Mistic: Team=FNATIC, Kills=20, Deaths=21, Assists=11, KDA=1.48, First Kills=2, First Deaths=1
+Derke: Team=FNATIC, Kills=16, Deaths=25, Assists=10, KDA=1.04, First Kills=6, First Deaths=7
+Boaster: Team=FNATIC, Kills=32, Deaths=21, Assists=16, KDA=2.29, First Kills=3, First Deaths=3
+Alfajer: Team=FNATIC, Kills=24, Deaths=21, Assists=11, KDA=1.67, First Kills=3, First Deaths=1
+Enz0: Team=FNATIC, Kills=25, Deaths=17, Assists=15, KDA=2.35, First Kills=4, First Deaths=2

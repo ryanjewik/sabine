@@ -1,0 +1,180 @@
+Team 1: DRX
+Team 2: None
+Participating Players:
+Player 1: crashies
+Player 2: Victor
+Player 3: FNS
+Player 4: Marved
+Player 5: yay
+Player 6: BuZz
+Player 7: MaKo
+Player 8: ZestKR
+Player 9: Rb
+Player 10: stax
+Winning Team: None
+Score: DRX 5 - 13 None
+Tournament Name: champions 2022
+Game Start Time: 2022-09-17T15:13:16Z
+Game End Time: 2022-09-17T15:54:14Z
+Rounds ended by ELIMINATION count: 12
+Rounds ended by DEFUSE count: 3
+Rounds ended by DETONATE count: 3
+SPIKE PLANTED count: 6
+platformGameId: val:bc6ce737-c2e1-4c6b-b18a-173467f5cbb0
+
+--- Events ---
+Game started at 2022-09-17T15:13:16Z
+crashies killed BuZz  in round 1
+crashies killed Rb  in round 1
+FNS killed MaKo  in round 1
+crashies killed stax  in round 1
+ZestKR killed FNS  in round 1
+crashies killed ZestKR  in round 1
+Round 1 ended with elimination. The winning team is None.
+The current score is DRX 0 - 1 None.
+crashies killed BuZz  in round 2
+Marved killed ZestKR  in round 2
+Marved killed stax  in round 2
+crashies killed Rb  in round 2
+FNS killed MaKo  in round 2
+Round 2 ended with spike_defuse. The winning team is None.
+The current score is DRX 0 - 2 None.
+Marved killed ZestKR  in round 3
+BuZz killed Marved  in round 3
+Victor killed stax  in round 3
+yay killed BuZz  in round 3
+yay killed MaKo  in round 3
+Rb killed yay  in round 3
+crashies killed Rb  in round 3
+Round 3 ended with elimination. The winning team is None.
+The current score is DRX 0 - 3 None.
+BuZz killed yay  in round 4
+FNS killed BuZz  in round 4
+crashies killed Rb  in round 4
+crashies killed MaKo  in round 4
+FNS killed stax  in round 4
+ZestKR killed crashies  in round 4
+FNS killed ZestKR  in round 4
+Round 4 ended with elimination. The winning team is None.
+The current score is DRX 0 - 4 None.
+BuZz killed crashies  in round 5
+MaKo killed FNS  in round 5
+Victor killed ZestKR  in round 5
+Round 5 ended with detonate. The winning team is DRX.
+The current score is DRX 1 - 4 None.
+yay killed Rb  in round 6
+ZestKR killed Marved  in round 6
+yay killed BuZz  in round 6
+stax killed crashies  in round 6
+MaKo killed Victor  in round 6
+ZestKR killed FNS  in round 6
+Round 6 ended with detonate. The winning team is DRX.
+The current score is DRX 2 - 4 None.
+yay killed stax  in round 7
+BuZz killed crashies  in round 7
+Victor killed BuZz  in round 7
+Rb killed Victor  in round 7
+MaKo killed FNS  in round 7
+Rb killed yay  in round 7
+MaKo killed Marved  in round 7
+Round 7 ended with elimination. The winning team is DRX.
+The current score is DRX 3 - 4 None.
+MaKo killed Victor  in round 8
+yay killed ZestKR  in round 8
+FNS killed stax  in round 8
+BuZz killed crashies  in round 8
+FNS killed BuZz  in round 8
+FNS killed MaKo  in round 8
+Rb killed Marved  in round 8
+yay killed Rb  in round 8
+Round 8 ended with elimination. The winning team is None.
+The current score is DRX 3 - 5 None.
+FNS killed BuZz  in round 9
+Rb killed FNS  in round 9
+crashies killed stax  in round 9
+crashies killed Rb  in round 9
+crashies killed MaKo  in round 9
+crashies killed ZestKR  in round 9
+Round 9 ended with elimination. The winning team is None.
+The current score is DRX 3 - 6 None.
+yay killed Rb  in round 10
+yay killed stax  in round 10
+Marved killed BuZz  in round 10
+yay killed ZestKR  in round 10
+Marved killed MaKo  in round 10
+Round 10 ended with elimination. The winning team is None.
+The current score is DRX 3 - 7 None.
+yay killed BuZz  in round 11
+Marved killed MaKo  in round 11
+ZestKR killed Marved  in round 11
+yay killed ZestKR  in round 11
+yay killed Rb  in round 11
+crashies killed stax  in round 11
+Round 11 ended with spike_defuse. The winning team is None.
+The current score is DRX 3 - 8 None.
+BuZz killed FNS  in round 12
+yay killed MaKo  in round 12
+BuZz killed yay  in round 12
+Rb killed crashies  in round 12
+BuZz killed Victor  in round 12
+stax killed Marved  in round 12
+Round 12 ended with elimination. The winning team is DRX.
+The current score is DRX 4 - 8 None.
+yay killed BuZz  in round 13
+FNS killed MaKo  in round 13
+Marved killed stax  in round 13
+Victor killed ZestKR  in round 13
+yay killed Rb  in round 13
+Round 13 ended with elimination. The winning team is None.
+The current score is DRX 4 - 9 None.
+Marved killed Rb  in round 14
+Victor killed ZestKR  in round 14
+Victor killed MaKo  in round 14
+BuZz killed Victor  in round 14
+Marved killed BuZz  in round 14
+Round 14 ended with detonate. The winning team is None.
+The current score is DRX 4 - 10 None.
+stax killed stax  in round 15
+Victor killed Rb  in round 15
+Victor killed stax  in round 15
+ZestKR killed Marved  in round 15
+BuZz killed FNS  in round 15
+Victor killed MaKo  in round 15
+crashies killed ZestKR  in round 15
+crashies killed BuZz  in round 15
+Round 15 ended with elimination. The winning team is None.
+The current score is DRX 4 - 11 None.
+Victor killed ZestKR  in round 16
+Victor killed Rb  in round 16
+crashies killed stax  in round 16
+yay killed BuZz  in round 16
+Marved killed MaKo  in round 16
+Round 16 ended with elimination. The winning team is None.
+The current score is DRX 4 - 12 None.
+MaKo killed yay  in round 17
+crashies killed MaKo  in round 17
+BuZz killed Victor  in round 17
+Rb killed crashies  in round 17
+Round 17 ended with spike_defuse. The winning team is DRX.
+The current score is DRX 5 - 12 None.
+Victor killed stax  in round 18
+BuZz killed Marved  in round 18
+yay killed BuZz  in round 18
+crashies killed MaKo  in round 18
+yay killed Rb  in round 18
+FNS killed ZestKR  in round 18
+Round 18 ended with elimination. The winning team is None.
+The current score is DRX 5 - 13 None.
+Game ended with winning team: None at 2022-09-17T15:54:14Z
+
+--- Player Stats ---
+crashies: Team=None, Kills=19, Deaths=7, Assists=7, KDA=3.71, First Kills=2, First Deaths=1
+Victor: Team=None, Kills=12, Deaths=6, Assists=3, KDA=2.5, First Kills=2, First Deaths=1
+FNS: Team=None, Kills=11, Deaths=7, Assists=12, KDA=3.29, First Kills=1, First Deaths=1
+Marved: Team=None, Kills=10, Deaths=8, Assists=12, KDA=2.75, First Kills=2, First Deaths=0
+yay: Team=None, Kills=19, Deaths=5, Assists=0, KDA=3.8, First Kills=5, First Deaths=2
+BuZz: Team=DRX, Kills=12, Deaths=15, Assists=0, KDA=0.8, First Kills=3, First Deaths=5
+MaKo: Team=DRX, Kills=6, Deaths=15, Assists=7, KDA=0.87, First Kills=2, First Deaths=0
+ZestKR: Team=DRX, Kills=6, Deaths=14, Assists=3, KDA=0.64, First Kills=0, First Deaths=2
+Rb: Team=DRX, Kills=7, Deaths=14, Assists=0, KDA=0.5, First Kills=0, First Deaths=3
+stax: Team=DRX, Kills=3, Deaths=14, Assists=3, KDA=0.43, First Kills=1, First Deaths=3

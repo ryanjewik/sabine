@@ -1,0 +1,242 @@
+Team 1: NAVI
+Team 2: BBL Esports
+Participating Players:
+Player 1: Brave
+Player 2: QutionerX
+Player 3: pAura
+Player 4: Reazy
+Player 5: Elite
+Player 6: Zyppan
+Player 7: Shao
+Player 8: ANGE1
+Player 9: ardiis
+Player 10: suygetsu
+Winning Team: BBL Esports
+Score: NAVI 8 - 13 BBL Esports
+Tournament Name: vct emea kickoff 2024
+Game Start Time: 2024-02-21T13:06:35Z
+Game End Time: 2024-02-21T13:55:49Z
+Rounds ended by ELIMINATION count: 8
+Rounds ended by DEFUSE count: 8
+Rounds ended by DETONATE count: 4
+SPIKE PLANTED count: 12
+platformGameId: val:033962fa-00b3-4784-9852-15f27bf22893
+
+--- Events ---
+Game started at 2024-02-21T13:06:35Z
+QutionerX killed Shao  in round 1
+QutionerX killed ANGE1  in round 1
+QutionerX killed Zyppan  in round 1
+ardiis killed QutionerX  in round 1
+Round 1 ended with spike_defuse. The winning team is BBL Esports.
+The current score is NAVI 0 - 1 BBL Esports.
+pAura killed ardiis  in round 2
+pAura killed suygetsu  in round 2
+Elite killed suygetsu  in round 2
+Shao killed Elite  in round 2
+pAura killed Zyppan  in round 2
+ANGE1 killed pAura  in round 2
+QutionerX killed ANGE1  in round 2
+Brave killed ardiis  in round 2
+QutionerX killed Shao  in round 2
+Round 2 ended with spike_defuse. The winning team is BBL Esports.
+The current score is NAVI 0 - 2 BBL Esports.
+Zyppan killed Brave  in round 3
+ANGE1 killed Reazy  in round 3
+pAura killed Zyppan  in round 3
+ANGE1 killed QutionerX  in round 3
+Shao killed pAura  in round 3
+Elite killed ANGE1  in round 3
+ardiis killed Elite  in round 3
+Round 3 ended with elimination. The winning team is NAVI.
+The current score is NAVI 1 - 2 BBL Esports.
+suygetsu killed QutionerX  in round 4
+Elite killed suygetsu  in round 4
+pAura killed ANGE1  in round 4
+Zyppan killed Elite  in round 4
+Shao killed Reazy  in round 4
+Zyppan killed Zyppan  in round 4
+Brave killed Shao  in round 4
+ardiis killed pAura  in round 4
+Brave killed ardiis  in round 4
+Round 4 ended with spike_defuse. The winning team is BBL Esports.
+The current score is NAVI 1 - 3 BBL Esports.
+suygetsu killed Elite  in round 5
+suygetsu killed QutionerX  in round 5
+Shao killed Brave  in round 5
+pAura killed ardiis  in round 5
+Shao killed pAura  in round 5
+Round 5 ended with detonate. The winning team is NAVI.
+The current score is NAVI 2 - 3 BBL Esports.
+Zyppan killed Brave  in round 6
+Zyppan killed Reazy  in round 6
+ANGE1 killed Elite  in round 6
+QutionerX killed ANGE1  in round 6
+Shao killed QutionerX  in round 6
+pAura killed Zyppan  in round 6
+pAura killed ardiis  in round 6
+pAura killed Shao  in round 6
+suygetsu killed pAura  in round 6
+Round 6 ended with elimination. The winning team is NAVI.
+The current score is NAVI 3 - 3 BBL Esports.
+suygetsu killed suygetsu  in round 7
+pAura killed Zyppan  in round 7
+ANGE1 killed Brave  in round 7
+Reazy killed ANGE1  in round 7
+suygetsu killed Reazy  in round 7
+Elite killed Shao  in round 7
+QutionerX killed suygetsu  in round 7
+Brave killed ardiis  in round 7
+Round 7 ended with elimination. The winning team is BBL Esports.
+The current score is NAVI 3 - 4 BBL Esports.
+pAura killed ardiis  in round 8
+QutionerX killed Zyppan  in round 8
+Shao killed Brave  in round 8
+Reazy killed Shao  in round 8
+QutionerX killed suygetsu  in round 8
+ANGE1 killed QutionerX  in round 8
+pAura killed ANGE1  in round 8
+Round 8 ended with elimination. The winning team is BBL Esports.
+The current score is NAVI 3 - 5 BBL Esports.
+Elite killed ANGE1  in round 9
+Shao killed QutionerX  in round 9
+Zyppan killed Elite  in round 9
+Brave killed Zyppan  in round 9
+Brave killed Shao  in round 9
+suygetsu killed Brave  in round 9
+pAura killed suygetsu  in round 9
+ardiis killed pAura  in round 9
+Reazy killed ardiis  in round 9
+Round 9 ended with spike_defuse. The winning team is BBL Esports.
+The current score is NAVI 3 - 6 BBL Esports.
+QutionerX killed ANGE1  in round 10
+Zyppan killed QutionerX  in round 10
+Elite killed Zyppan  in round 10
+suygetsu killed Elite  in round 10
+Shao killed Brave  in round 10
+pAura killed ardiis  in round 10
+Shao killed pAura  in round 10
+Reazy killed Shao  in round 10
+suygetsu killed Reazy  in round 10
+Round 10 ended with elimination. The winning team is NAVI.
+The current score is NAVI 4 - 6 BBL Esports.
+ANGE1 killed QutionerX  in round 11
+ANGE1 killed Elite  in round 11
+suygetsu killed ANGE1  in round 11
+Brave killed Zyppan  in round 11
+Shao killed Reazy  in round 11
+Brave killed ardiis  in round 11
+Shao killed Brave  in round 11
+pAura killed Shao  in round 11
+pAura killed suygetsu  in round 11
+Round 11 ended with spike_defuse. The winning team is BBL Esports.
+The current score is NAVI 4 - 7 BBL Esports.
+Elite killed Shao  in round 12
+Elite killed ANGE1  in round 12
+Zyppan killed Elite  in round 12
+QutionerX killed Zyppan  in round 12
+ardiis killed pAura  in round 12
+Brave killed ardiis  in round 12
+suygetsu killed QutionerX  in round 12
+suygetsu killed Brave  in round 12
+Reazy killed suygetsu  in round 12
+Round 12 ended with spike_defuse. The winning team is BBL Esports.
+The current score is NAVI 4 - 8 BBL Esports.
+QutionerX killed suygetsu  in round 13
+Shao killed pAura  in round 13
+Brave killed Zyppan  in round 13
+QutionerX killed ANGE1  in round 13
+ardiis killed Reazy  in round 13
+Shao killed QutionerX  in round 13
+Brave killed Shao  in round 13
+ardiis killed Elite  in round 13
+ardiis killed Brave  in round 13
+Round 13 ended with detonate. The winning team is BBL Esports.
+The current score is NAVI 4 - 9 BBL Esports.
+Brave killed Zyppan  in round 14
+ardiis killed Brave  in round 14
+Elite killed ANGE1  in round 14
+Reazy killed suygetsu  in round 14
+ardiis killed QutionerX  in round 14
+Elite killed ardiis  in round 14
+Shao killed Reazy  in round 14
+Elite killed Shao  in round 14
+Round 14 ended with elimination. The winning team is BBL Esports.
+The current score is NAVI 4 - 10 BBL Esports.
+pAura killed Zyppan  in round 15
+ANGE1 killed Brave  in round 15
+Shao killed Elite  in round 15
+ardiis killed Reazy  in round 15
+suygetsu killed QutionerX  in round 15
+ANGE1 killed pAura  in round 15
+Round 15 ended with spike_defuse. The winning team is NAVI.
+The current score is NAVI 5 - 10 BBL Esports.
+suygetsu killed Brave  in round 16
+suygetsu killed pAura  in round 16
+Reazy killed suygetsu  in round 16
+Zyppan killed Reazy  in round 16
+Elite killed ANGE1  in round 16
+ardiis killed QutionerX  in round 16
+ardiis killed Elite  in round 16
+Round 16 ended with spike_defuse. The winning team is NAVI.
+The current score is NAVI 6 - 10 BBL Esports.
+QutionerX killed Zyppan  in round 17
+ardiis killed Brave  in round 17
+Elite killed suygetsu  in round 17
+ardiis killed pAura  in round 17
+ardiis killed QutionerX  in round 17
+ardiis killed Reazy  in round 17
+Elite killed ardiis  in round 17
+Shao killed Elite  in round 17
+Round 17 ended with elimination. The winning team is NAVI.
+The current score is NAVI 7 - 10 BBL Esports.
+Zyppan killed QutionerX  in round 18
+Zyppan killed Reazy  in round 18
+ANGE1 killed Brave  in round 18
+ANGE1 killed Elite  in round 18
+pAura killed ardiis  in round 18
+Round 18 ended with time_expired. The winning team is NAVI.
+The current score is NAVI 8 - 10 BBL Esports.
+pAura killed ANGE1  in round 19
+Shao killed pAura  in round 19
+ANGE1 killed pAura  in round 19
+Brave killed Shao  in round 19
+Zyppan killed Reazy  in round 19
+Brave killed suygetsu  in round 19
+ardiis killed QutionerX  in round 19
+Brave killed ardiis  in round 19
+Elite killed ANGE1  in round 19
+Zyppan killed Elite  in round 19
+Zyppan killed Brave  in round 19
+Round 19 ended with detonate. The winning team is BBL Esports.
+The current score is NAVI 8 - 11 BBL Esports.
+Zyppan killed Zyppan  in round 20
+pAura killed suygetsu  in round 20
+Brave killed ardiis  in round 20
+ANGE1 killed Brave  in round 20
+Reazy killed Zyppan  in round 20
+Reazy killed ANGE1  in round 20
+Round 20 ended with detonate. The winning team is BBL Esports.
+The current score is NAVI 8 - 12 BBL Esports.
+Zyppan killed pAura  in round 21
+Brave killed Zyppan  in round 21
+QutionerX killed ardiis  in round 21
+Reazy killed ANGE1  in round 21
+Reazy killed Shao  in round 21
+suygetsu killed Reazy  in round 21
+QutionerX killed suygetsu  in round 21
+Round 21 ended with elimination. The winning team is BBL Esports.
+The current score is NAVI 8 - 13 BBL Esports.
+Game ended with winning team: BBL Esports at 2024-02-21T13:55:49Z
+
+--- Player Stats ---
+Brave: Team=BBL Esports, Kills=17, Deaths=17, Assists=10, KDA=1.59, First Kills=1, First Deaths=3
+QutionerX: Team=BBL Esports, Kills=16, Deaths=17, Assists=5, KDA=1.24, First Kills=4, First Deaths=3
+pAura: Team=BBL Esports, Kills=20, Deaths=15, Assists=3, KDA=1.53, First Kills=4, First Deaths=1
+Reazy: Team=BBL Esports, Kills=11, Deaths=14, Assists=11, KDA=1.57, First Kills=0, First Deaths=0
+Elite: Team=BBL Esports, Kills=15, Deaths=15, Assists=10, KDA=1.67, First Kills=2, First Deaths=1
+Zyppan: Team=NAVI, Kills=16, Deaths=18, Assists=5, KDA=1.17, First Kills=5, First Deaths=4
+Shao: Team=NAVI, Kills=18, Deaths=14, Assists=11, KDA=2.07, First Kills=0, First Deaths=2
+ANGE1: Team=NAVI, Kills=14, Deaths=18, Assists=3, KDA=0.94, First Kills=1, First Deaths=3
+ardiis: Team=NAVI, Kills=18, Deaths=17, Assists=13, KDA=1.82, First Kills=0, First Deaths=2
+suygetsu: Team=NAVI, Kills=16, Deaths=16, Assists=5, KDA=1.31, First Kills=4, First Deaths=2

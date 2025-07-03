@@ -1,0 +1,235 @@
+Team 1: Leviatán Esports
+Team 2: Team Liquid
+Participating Players:
+Player 1: dimasick
+Player 2: soulcas
+Player 3: ScreaM
+Player 4: Nivera
+Player 5: Jamppi
+Player 6: Melser
+Player 7: Shyy
+Player 8: kiNgg
+Player 9: adverso
+Player 10: Tacolilla
+Winning Team: Team Liquid
+Score: Leviatán Esports 10 - 13 Team Liquid
+Tournament Name: champions 2022
+Game Start Time: 2022-08-31T17:35:03Z
+Game End Time: 2022-08-31T18:39:29Z
+Rounds ended by ELIMINATION count: 14
+Rounds ended by DEFUSE count: 7
+Rounds ended by DETONATE count: 1
+SPIKE PLANTED count: 8
+platformGameId: val:839afe65-115c-4ac2-9fd3-ead0b00cc755
+
+--- Events ---
+Game started at 2022-08-31T17:35:03Z
+Jamppi killed kiNgg  in round 1
+Melser killed ScreaM  in round 1
+dimasick killed Melser  in round 1
+dimasick killed Tacolilla  in round 1
+Shyy killed dimasick  in round 1
+Jamppi killed Shyy  in round 1
+Nivera killed adverso  in round 1
+Round 1 ended with elimination. The winning team is Team Liquid.
+The current score is Leviatán Esports 0 - 1 Team Liquid.
+ScreaM killed kiNgg  in round 2
+ScreaM killed Tacolilla  in round 2
+dimasick killed adverso  in round 2
+Shyy killed Nivera  in round 2
+soulcas killed Shyy  in round 2
+Jamppi killed Melser  in round 2
+Round 2 ended with elimination. The winning team is Team Liquid.
+The current score is Leviatán Esports 0 - 2 Team Liquid.
+soulcas killed adverso  in round 3
+Shyy killed dimasick  in round 3
+ScreaM killed Shyy  in round 3
+Melser killed Nivera  in round 3
+ScreaM killed kiNgg  in round 3
+Melser killed Jamppi  in round 3
+ScreaM killed Melser  in round 3
+soulcas killed Tacolilla  in round 3
+Round 3 ended with spike_defuse. The winning team is Team Liquid.
+The current score is Leviatán Esports 0 - 3 Team Liquid.
+dimasick killed Tacolilla  in round 4
+Melser killed soulcas  in round 4
+Nivera killed Melser  in round 4
+Jamppi killed Shyy  in round 4
+ScreaM killed kiNgg  in round 4
+Jamppi killed adverso  in round 4
+Round 4 ended with spike_defuse. The winning team is Team Liquid.
+The current score is Leviatán Esports 0 - 4 Team Liquid.
+Jamppi killed kiNgg  in round 5
+Jamppi killed Shyy  in round 5
+dimasick killed Tacolilla  in round 5
+dimasick killed Melser  in round 5
+adverso killed Jamppi  in round 5
+adverso killed dimasick  in round 5
+ScreaM killed adverso  in round 5
+Round 5 ended with spike_defuse. The winning team is Team Liquid.
+The current score is Leviatán Esports 0 - 5 Team Liquid.
+kiNgg killed soulcas  in round 6
+Melser killed dimasick  in round 6
+kiNgg killed Nivera  in round 6
+Shyy killed ScreaM  in round 6
+Tacolilla killed Jamppi  in round 6
+Round 6 ended with elimination. The winning team is Leviatán Esports.
+The current score is Leviatán Esports 1 - 5 Team Liquid.
+Tacolilla killed Jamppi  in round 7
+dimasick killed adverso  in round 7
+dimasick killed Tacolilla  in round 7
+Nivera killed kiNgg  in round 7
+Nivera killed Shyy  in round 7
+dimasick killed Melser  in round 7
+Round 7 ended with elimination. The winning team is Team Liquid.
+The current score is Leviatán Esports 1 - 6 Team Liquid.
+ScreaM killed Melser  in round 8
+Tacolilla killed ScreaM  in round 8
+Tacolilla killed soulcas  in round 8
+kiNgg killed Nivera  in round 8
+Jamppi killed kiNgg  in round 8
+adverso killed Jamppi  in round 8
+Shyy killed dimasick  in round 8
+Round 8 ended with elimination. The winning team is Leviatán Esports.
+The current score is Leviatán Esports 2 - 6 Team Liquid.
+adverso killed dimasick  in round 9
+Jamppi killed Melser  in round 9
+kiNgg killed Nivera  in round 9
+kiNgg killed soulcas  in round 9
+Tacolilla killed ScreaM  in round 9
+Round 9 ended with detonate. The winning team is Leviatán Esports.
+The current score is Leviatán Esports 3 - 6 Team Liquid.
+Shyy killed ScreaM  in round 10
+Tacolilla killed Jamppi  in round 10
+dimasick killed Tacolilla  in round 10
+soulcas killed kiNgg  in round 10
+dimasick killed adverso  in round 10
+dimasick killed Melser  in round 10
+soulcas killed Shyy  in round 10
+Round 10 ended with spike_defuse. The winning team is Team Liquid.
+The current score is Leviatán Esports 3 - 7 Team Liquid.
+Tacolilla killed Jamppi  in round 11
+ScreaM killed kiNgg  in round 11
+Nivera killed Melser  in round 11
+Tacolilla killed ScreaM  in round 11
+adverso killed dimasick  in round 11
+Tacolilla killed Nivera  in round 11
+Shyy killed soulcas  in round 11
+Round 11 ended with elimination. The winning team is Leviatán Esports.
+The current score is Leviatán Esports 4 - 7 Team Liquid.
+kiNgg killed dimasick  in round 12
+Jamppi killed kiNgg  in round 12
+ScreaM killed adverso  in round 12
+soulcas killed Melser  in round 12
+ScreaM killed Tacolilla  in round 12
+Shyy killed ScreaM  in round 12
+Shyy killed soulcas  in round 12
+Jamppi killed Shyy  in round 12
+Round 12 ended with spike_defuse. The winning team is Team Liquid.
+The current score is Leviatán Esports 4 - 8 Team Liquid.
+Melser killed Jamppi  in round 13
+Nivera killed Melser  in round 13
+Shyy killed soulcas  in round 13
+Nivera killed Shyy  in round 13
+ScreaM killed kiNgg  in round 13
+adverso killed ScreaM  in round 13
+dimasick killed Tacolilla  in round 13
+Nivera killed adverso  in round 13
+Round 13 ended with elimination. The winning team is Team Liquid.
+The current score is Leviatán Esports 4 - 9 Team Liquid.
+ScreaM killed Shyy  in round 14
+soulcas killed kiNgg  in round 14
+ScreaM killed Melser  in round 14
+Nivera killed adverso  in round 14
+Jamppi killed Tacolilla  in round 14
+Round 14 ended with elimination. The winning team is Team Liquid.
+The current score is Leviatán Esports 4 - 10 Team Liquid.
+adverso killed Jamppi  in round 15
+adverso killed soulcas  in round 15
+Tacolilla killed dimasick  in round 15
+Shyy killed ScreaM  in round 15
+Tacolilla killed Nivera  in round 15
+Round 15 ended with elimination. The winning team is Leviatán Esports.
+The current score is Leviatán Esports 5 - 10 Team Liquid.
+Shyy killed ScreaM  in round 16
+Shyy killed Nivera  in round 16
+kiNgg killed soulcas  in round 16
+dimasick killed Tacolilla  in round 16
+Round 16 ended with time_expired. The winning team is Leviatán Esports.
+The current score is Leviatán Esports 6 - 10 Team Liquid.
+ScreaM killed Melser  in round 17
+kiNgg killed ScreaM  in round 17
+kiNgg killed Nivera  in round 17
+kiNgg killed soulcas  in round 17
+adverso killed Jamppi  in round 17
+adverso killed dimasick  in round 17
+Round 17 ended with elimination. The winning team is Leviatán Esports.
+The current score is Leviatán Esports 7 - 10 Team Liquid.
+kiNgg killed dimasick  in round 18
+ScreaM killed adverso  in round 18
+Shyy killed ScreaM  in round 18
+Tacolilla killed soulcas  in round 18
+Round 18 ended with spike_defuse. The winning team is Leviatán Esports.
+The current score is Leviatán Esports 8 - 10 Team Liquid.
+Tacolilla killed Nivera  in round 19
+dimasick killed Tacolilla  in round 19
+Jamppi killed kiNgg  in round 19
+Jamppi killed Shyy  in round 19
+ScreaM killed Melser  in round 19
+ScreaM killed adverso  in round 19
+Round 19 ended with elimination. The winning team is Team Liquid.
+The current score is Leviatán Esports 8 - 11 Team Liquid.
+Tacolilla killed Jamppi  in round 20
+Nivera killed Tacolilla  in round 20
+Melser killed soulcas  in round 20
+adverso killed Nivera  in round 20
+Melser killed ScreaM  in round 20
+dimasick killed Melser  in round 20
+kiNgg killed dimasick  in round 20
+Round 20 ended with elimination. The winning team is Leviatán Esports.
+The current score is Leviatán Esports 9 - 11 Team Liquid.
+kiNgg killed Jamppi  in round 21
+Nivera killed Shyy  in round 21
+ScreaM killed adverso  in round 21
+kiNgg killed ScreaM  in round 21
+dimasick killed kiNgg  in round 21
+dimasick killed Melser  in round 21
+Tacolilla killed soulcas  in round 21
+dimasick killed Tacolilla  in round 21
+Round 21 ended with elimination. The winning team is Team Liquid.
+The current score is Leviatán Esports 9 - 12 Team Liquid.
+ScreaM killed Shyy  in round 22
+kiNgg killed ScreaM  in round 22
+soulcas killed kiNgg  in round 22
+Melser killed Nivera  in round 22
+Jamppi killed Melser  in round 22
+dimasick killed adverso  in round 22
+Tacolilla killed Jamppi  in round 22
+Tacolilla killed dimasick  in round 22
+Tacolilla killed soulcas  in round 22
+Round 22 ended with spike_defuse. The winning team is Leviatán Esports.
+The current score is Leviatán Esports 10 - 12 Team Liquid.
+ScreaM killed adverso  in round 23
+Shyy killed ScreaM  in round 23
+soulcas killed Shyy  in round 23
+Nivera killed kiNgg  in round 23
+Melser killed dimasick  in round 23
+Tacolilla killed Jamppi  in round 23
+soulcas killed Tacolilla  in round 23
+Melser killed Nivera  in round 23
+soulcas killed Melser  in round 23
+Round 23 ended with elimination. The winning team is Team Liquid.
+The current score is Leviatán Esports 10 - 13 Team Liquid.
+Game ended with winning team: Team Liquid at 2022-08-31T18:39:29Z
+
+--- Player Stats ---
+dimasick: Team=Team Liquid, Kills=20, Deaths=14, Assists=7, KDA=1.93, First Kills=1, First Deaths=3
+soulcas: Team=Team Liquid, Kills=11, Deaths=14, Assists=14, KDA=1.79, First Kills=1, First Deaths=1
+ScreaM: Team=Team Liquid, Kills=21, Deaths=16, Assists=6, KDA=1.69, First Kills=6, First Deaths=2
+Nivera: Team=Team Liquid, Kills=12, Deaths=13, Assists=7, KDA=1.46, First Kills=0, First Deaths=1
+Jamppi: Team=Team Liquid, Kills=15, Deaths=14, Assists=4, KDA=1.36, First Kills=2, First Deaths=6
+Melser: Team=Leviatán Esports, Kills=11, Deaths=19, Assists=7, KDA=0.95, First Kills=1, First Deaths=2
+Shyy: Team=Leviatán Esports, Kills=15, Deaths=14, Assists=5, KDA=1.43, First Kills=2, First Deaths=2
+kiNgg: Team=Leviatán Esports, Kills=15, Deaths=16, Assists=2, KDA=1.06, First Kills=4, First Deaths=3
+adverso: Team=Leviatán Esports, Kills=11, Deaths=15, Assists=6, KDA=1.13, First Kills=2, First Deaths=2
+Tacolilla: Team=Leviatán Esports, Kills=19, Deaths=15, Assists=5, KDA=1.6, First Kills=4, First Deaths=1

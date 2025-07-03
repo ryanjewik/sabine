@@ -1,0 +1,237 @@
+Team 1: Leviatán Esports
+Team 2: Evil Geniuses
+Participating Players:
+Player 1: Demon1
+Player 2: Ethan
+Player 3: JAWGEMO
+Player 4: C0M
+Player 5: Boostio
+Player 6: Mazino
+Player 7: Shyy
+Player 8: kiNgg
+Player 9: Nozwerr
+Player 10: Tacolilla
+Winning Team: Evil Geniuses
+Score: Leviatán Esports 10 - 13 Evil Geniuses
+Tournament Name: vct americas 2023
+Game Start Time: 2023-04-30T23:52:37Z
+Game End Time: 2023-05-01T00:42:38Z
+Rounds ended by ELIMINATION count: 15
+Rounds ended by DEFUSE count: 5
+Rounds ended by DETONATE count: 2
+SPIKE PLANTED count: 7
+platformGameId: val:7b8c554e-97a1-41a0-bbec-a8ac511c52fd
+
+--- Events ---
+Game started at 2023-04-30T23:52:37Z
+C0M killed Tacolilla  in round 1
+C0M killed Mazino  in round 1
+Nozwerr killed JAWGEMO  in round 1
+Demon1 killed Shyy  in round 1
+Boostio killed kiNgg  in round 1
+Boostio killed Nozwerr  in round 1
+Round 1 ended with elimination. The winning team is Evil Geniuses.
+The current score is Leviatán Esports 0 - 1 Evil Geniuses.
+Ethan killed Tacolilla  in round 2
+Demon1 killed kiNgg  in round 2
+JAWGEMO killed Mazino  in round 2
+Demon1 killed Shyy  in round 2
+Boostio killed Nozwerr  in round 2
+Round 2 ended with elimination. The winning team is Evil Geniuses.
+The current score is Leviatán Esports 0 - 2 Evil Geniuses.
+Mazino killed Ethan  in round 3
+Tacolilla killed C0M  in round 3
+Nozwerr killed Demon1  in round 3
+Mazino killed Boostio  in round 3
+JAWGEMO killed Tacolilla  in round 3
+Nozwerr killed JAWGEMO  in round 3
+Round 3 ended with elimination. The winning team is Leviatán Esports.
+The current score is Leviatán Esports 1 - 2 Evil Geniuses.
+Demon1 killed kiNgg  in round 4
+Shyy killed Boostio  in round 4
+Mazino killed JAWGEMO  in round 4
+Tacolilla killed Ethan  in round 4
+Round 4 ended with detonate. The winning team is Leviatán Esports.
+The current score is Leviatán Esports 2 - 2 Evil Geniuses.
+Demon1 killed Mazino  in round 5
+Demon1 killed kiNgg  in round 5
+Shyy killed JAWGEMO  in round 5
+Shyy killed Boostio  in round 5
+Ethan killed Shyy  in round 5
+Demon1 killed Mazino  in round 5
+Nozwerr killed Demon1  in round 5
+C0M killed Nozwerr  in round 5
+Tacolilla killed Ethan  in round 5
+C0M killed Tacolilla  in round 5
+Round 5 ended with spike_defuse. The winning team is Evil Geniuses.
+The current score is Leviatán Esports 2 - 3 Evil Geniuses.
+Tacolilla killed JAWGEMO  in round 6
+Ethan killed Tacolilla  in round 6
+Ethan killed Mazino  in round 6
+Shyy killed Ethan  in round 6
+Demon1 killed kiNgg  in round 6
+Boostio killed Shyy  in round 6
+Boostio killed Nozwerr  in round 6
+Round 6 ended with elimination. The winning team is Evil Geniuses.
+The current score is Leviatán Esports 2 - 4 Evil Geniuses.
+JAWGEMO killed Mazino  in round 7
+JAWGEMO killed Tacolilla  in round 7
+kiNgg killed JAWGEMO  in round 7
+kiNgg killed Boostio  in round 7
+Ethan killed kiNgg  in round 7
+Shyy killed Ethan  in round 7
+C0M killed Shyy  in round 7
+C0M killed Nozwerr  in round 7
+Round 7 ended with spike_defuse. The winning team is Evil Geniuses.
+The current score is Leviatán Esports 2 - 5 Evil Geniuses.
+C0M killed kiNgg  in round 8
+Mazino killed JAWGEMO  in round 8
+Ethan killed Tacolilla  in round 8
+Ethan killed Shyy  in round 8
+Ethan killed Mazino  in round 8
+Ethan killed Nozwerr  in round 8
+Round 8 ended with elimination. The winning team is Evil Geniuses.
+The current score is Leviatán Esports 2 - 6 Evil Geniuses.
+Mazino killed Boostio  in round 9
+C0M killed Tacolilla  in round 9
+Nozwerr killed C0M  in round 9
+JAWGEMO killed Mazino  in round 9
+Ethan killed kiNgg  in round 9
+Ethan killed Nozwerr  in round 9
+Ethan killed Shyy  in round 9
+Round 9 ended with elimination. The winning team is Evil Geniuses.
+The current score is Leviatán Esports 2 - 7 Evil Geniuses.
+C0M killed Tacolilla  in round 10
+Nozwerr killed Ethan  in round 10
+JAWGEMO killed Shyy  in round 10
+Demon1 killed Mazino  in round 10
+Boostio killed Nozwerr  in round 10
+kiNgg killed Demon1  in round 10
+Boostio killed kiNgg  in round 10
+Round 10 ended with spike_defuse. The winning team is Evil Geniuses.
+The current score is Leviatán Esports 2 - 8 Evil Geniuses.
+Boostio killed Tacolilla  in round 11
+Boostio killed Shyy  in round 11
+C0M killed kiNgg  in round 11
+Demon1 killed Mazino  in round 11
+Nozwerr killed JAWGEMO  in round 11
+Nozwerr killed Boostio  in round 11
+Demon1 killed Nozwerr  in round 11
+Round 11 ended with elimination. The winning team is Evil Geniuses.
+The current score is Leviatán Esports 2 - 9 Evil Geniuses.
+JAWGEMO killed Mazino  in round 12
+Tacolilla killed C0M  in round 12
+kiNgg killed Boostio  in round 12
+Shyy killed JAWGEMO  in round 12
+Ethan killed Tacolilla  in round 12
+Shyy killed Ethan  in round 12
+Demon1 killed Nozwerr  in round 12
+kiNgg killed Demon1  in round 12
+Round 12 ended with elimination. The winning team is Leviatán Esports.
+The current score is Leviatán Esports 3 - 9 Evil Geniuses.
+Demon1 killed Mazino  in round 13
+kiNgg killed Demon1  in round 13
+kiNgg killed Boostio  in round 13
+Nozwerr killed C0M  in round 13
+Ethan killed kiNgg  in round 13
+JAWGEMO killed Nozwerr  in round 13
+Shyy killed Ethan  in round 13
+Shyy killed JAWGEMO  in round 13
+Round 13 ended with spike_defuse. The winning team is Leviatán Esports.
+The current score is Leviatán Esports 4 - 9 Evil Geniuses.
+Mazino killed JAWGEMO  in round 14
+Tacolilla killed Boostio  in round 14
+Tacolilla killed C0M  in round 14
+Tacolilla killed Demon1  in round 14
+Mazino killed Ethan  in round 14
+Round 14 ended with elimination. The winning team is Leviatán Esports.
+The current score is Leviatán Esports 5 - 9 Evil Geniuses.
+Tacolilla killed Demon1  in round 15
+Mazino killed JAWGEMO  in round 15
+C0M killed Shyy  in round 15
+Ethan killed Mazino  in round 15
+Boostio killed kiNgg  in round 15
+Ethan killed Tacolilla  in round 15
+Nozwerr killed C0M  in round 15
+Ethan killed Nozwerr  in round 15
+Round 15 ended with elimination. The winning team is Evil Geniuses.
+The current score is Leviatán Esports 5 - 10 Evil Geniuses.
+Nozwerr killed Boostio  in round 16
+Ethan killed Shyy  in round 16
+Tacolilla killed Demon1  in round 16
+Ethan killed Tacolilla  in round 16
+Nozwerr killed JAWGEMO  in round 16
+Ethan killed Nozwerr  in round 16
+kiNgg killed C0M  in round 16
+kiNgg killed Ethan  in round 16
+Round 16 ended with spike_defuse. The winning team is Leviatán Esports.
+The current score is Leviatán Esports 6 - 10 Evil Geniuses.
+Tacolilla killed Ethan  in round 17
+Demon1 killed Shyy  in round 17
+Nozwerr killed C0M  in round 17
+Demon1 killed Nozwerr  in round 17
+Tacolilla killed Demon1  in round 17
+Tacolilla killed Boostio  in round 17
+kiNgg killed JAWGEMO  in round 17
+Round 17 ended with elimination. The winning team is Leviatán Esports.
+The current score is Leviatán Esports 7 - 10 Evil Geniuses.
+Nozwerr killed Ethan  in round 18
+Nozwerr killed Demon1  in round 18
+Mazino killed C0M  in round 18
+Boostio killed Mazino  in round 18
+kiNgg killed Boostio  in round 18
+kiNgg killed JAWGEMO  in round 18
+Round 18 ended with elimination. The winning team is Leviatán Esports.
+The current score is Leviatán Esports 8 - 10 Evil Geniuses.
+Mazino killed JAWGEMO  in round 19
+Mazino killed Boostio  in round 19
+Demon1 killed Mazino  in round 19
+kiNgg killed Ethan  in round 19
+Tacolilla killed Demon1  in round 19
+kiNgg killed C0M  in round 19
+Round 19 ended with elimination. The winning team is Leviatán Esports.
+The current score is Leviatán Esports 9 - 10 Evil Geniuses.
+Mazino killed C0M  in round 20
+Boostio killed Mazino  in round 20
+JAWGEMO killed Tacolilla  in round 20
+Demon1 killed kiNgg  in round 20
+Nozwerr killed JAWGEMO  in round 20
+Boostio killed Shyy  in round 20
+Boostio killed Nozwerr  in round 20
+Round 20 ended with elimination. The winning team is Evil Geniuses.
+The current score is Leviatán Esports 9 - 11 Evil Geniuses.
+Tacolilla killed Ethan  in round 21
+Demon1 killed kiNgg  in round 21
+C0M killed Mazino  in round 21
+Boostio killed Shyy  in round 21
+Nozwerr killed Boostio  in round 21
+Round 21 ended with detonate. The winning team is Evil Geniuses.
+The current score is Leviatán Esports 9 - 12 Evil Geniuses.
+Ethan killed kiNgg  in round 22
+Nozwerr killed Demon1  in round 22
+Nozwerr killed JAWGEMO  in round 22
+C0M killed Nozwerr  in round 22
+Shyy killed C0M  in round 22
+Shyy killed Boostio  in round 22
+Round 22 ended with time_expired. The winning team is Leviatán Esports.
+The current score is Leviatán Esports 10 - 12 Evil Geniuses.
+JAWGEMO killed kiNgg  in round 23
+Demon1 killed Shyy  in round 23
+Boostio killed Mazino  in round 23
+Demon1 killed Nozwerr  in round 23
+Boostio killed Tacolilla  in round 23
+Round 23 ended with elimination. The winning team is Evil Geniuses.
+The current score is Leviatán Esports 10 - 13 Evil Geniuses.
+Game ended with winning team: Evil Geniuses at 2023-05-01T00:42:38Z
+
+--- Player Stats ---
+Demon1: Team=Evil Geniuses, Kills=20, Deaths=12, Assists=2, KDA=1.83, First Kills=3, First Deaths=1
+Ethan: Team=Evil Geniuses, Kills=21, Deaths=14, Assists=14, KDA=2.5, First Kills=2, First Deaths=4
+JAWGEMO: Team=Evil Geniuses, Kills=10, Deaths=18, Assists=9, KDA=1.06, First Kills=3, First Deaths=3
+C0M: Team=Evil Geniuses, Kills=13, Deaths=12, Assists=6, KDA=1.58, First Kills=3, First Deaths=1
+Boostio: Team=Evil Geniuses, Kills=17, Deaths=15, Assists=4, KDA=1.4, First Kills=1, First Deaths=2
+Mazino: Team=Leviatán Esports, Kills=12, Deaths=18, Assists=14, KDA=1.44, First Kills=5, First Deaths=4
+Shyy: Team=Leviatán Esports, Kills=11, Deaths=15, Assists=6, KDA=1.13, First Kills=0, First Deaths=0
+kiNgg: Team=Leviatán Esports, Kills=14, Deaths=16, Assists=7, KDA=1.31, First Kills=0, First Deaths=4
+Nozwerr: Team=Leviatán Esports, Kills=19, Deaths=17, Assists=6, KDA=1.47, First Kills=2, First Deaths=0
+Tacolilla: Team=Leviatán Esports, Kills=15, Deaths=15, Assists=4, KDA=1.27, First Kills=4, First Deaths=4

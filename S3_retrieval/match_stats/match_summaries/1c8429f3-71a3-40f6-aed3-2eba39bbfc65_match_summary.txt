@@ -1,0 +1,240 @@
+Team 1: Trace Esports
+Team 2: Leviatán Esports
+Participating Players:
+Player 1: aspas
+Player 2: tex
+Player 3: kiNgg
+Player 4: C0M
+Player 5: Mazino
+Player 6: FengF
+Player 7: Kai 
+Player 8: heybay
+Player 9: Biank
+Player 10: LuoK1ng
+Winning Team: Leviatán Esports
+Score: Trace Esports 9 - 13 Leviatán Esports
+Tournament Name: vct champions 2024
+Game Start Time: 2024-08-07T09:11:17Z
+Game End Time: 2024-08-07T09:57:59Z
+Rounds ended by ELIMINATION count: 12
+Rounds ended by DEFUSE count: 6
+Rounds ended by DETONATE count: 4
+SPIKE PLANTED count: 10
+platformGameId: val:1c8429f3-71a3-40f6-aed3-2eba39bbfc65
+
+--- Events ---
+Game started at 2024-08-07T09:11:17Z
+LuoK1ng killed kiNgg  in round 1
+Mazino killed LuoK1ng  in round 1
+tex killed Kai   in round 1
+FengF killed aspas  in round 1
+Mazino killed FengF  in round 1
+heybay killed Mazino  in round 1
+heybay killed tex  in round 1
+heybay killed C0M  in round 1
+Round 1 ended with elimination. The winning team is Trace Esports.
+The current score is Trace Esports 1 - 0 Leviatán Esports.
+Biank killed kiNgg  in round 2
+Mazino killed FengF  in round 2
+Biank killed Mazino  in round 2
+LuoK1ng killed tex  in round 2
+Biank killed C0M  in round 2
+aspas killed Biank  in round 2
+heybay killed aspas  in round 2
+Round 2 ended with elimination. The winning team is Trace Esports.
+The current score is Trace Esports 2 - 0 Leviatán Esports.
+Mazino killed Biank  in round 3
+aspas killed FengF  in round 3
+kiNgg killed LuoK1ng  in round 3
+Mazino killed heybay  in round 3
+Kai  killed Mazino  in round 3
+C0M killed Kai   in round 3
+Round 3 ended with elimination. The winning team is Leviatán Esports.
+The current score is Trace Esports 2 - 1 Leviatán Esports.
+FengF killed aspas  in round 4
+FengF killed tex  in round 4
+kiNgg killed FengF  in round 4
+Biank killed kiNgg  in round 4
+heybay killed Mazino  in round 4
+Round 4 ended with detonate. The winning team is Trace Esports.
+The current score is Trace Esports 3 - 1 Leviatán Esports.
+kiNgg killed Kai   in round 5
+LuoK1ng killed kiNgg  in round 5
+FengF killed tex  in round 5
+Mazino killed Biank  in round 5
+heybay killed Mazino  in round 5
+FengF killed C0M  in round 5
+Round 5 ended with detonate. The winning team is Trace Esports.
+The current score is Trace Esports 4 - 1 Leviatán Esports.
+Mazino killed Kai   in round 6
+FengF killed kiNgg  in round 6
+Mazino killed FengF  in round 6
+Biank killed Mazino  in round 6
+aspas killed Biank  in round 6
+heybay killed C0M  in round 6
+heybay killed tex  in round 6
+aspas killed LuoK1ng  in round 6
+aspas killed heybay  in round 6
+Round 6 ended with detonate. The winning team is Trace Esports.
+The current score is Trace Esports 5 - 1 Leviatán Esports.
+FengF killed tex  in round 7
+C0M killed FengF  in round 7
+C0M killed LuoK1ng  in round 7
+C0M killed Kai   in round 7
+C0M killed Biank  in round 7
+heybay killed C0M  in round 7
+aspas killed heybay  in round 7
+Round 7 ended with spike_defuse. The winning team is Leviatán Esports.
+The current score is Trace Esports 5 - 2 Leviatán Esports.
+kiNgg killed Biank  in round 8
+heybay killed Mazino  in round 8
+C0M killed FengF  in round 8
+kiNgg killed heybay  in round 8
+Kai  killed kiNgg  in round 8
+LuoK1ng killed C0M  in round 8
+tex killed LuoK1ng  in round 8
+tex killed Kai   in round 8
+Round 8 ended with spike_defuse. The winning team is Leviatán Esports.
+The current score is Trace Esports 5 - 3 Leviatán Esports.
+C0M killed Biank  in round 9
+tex killed heybay  in round 9
+FengF killed aspas  in round 9
+kiNgg killed LuoK1ng  in round 9
+tex killed FengF  in round 9
+Kai  killed C0M  in round 9
+Kai  killed Mazino  in round 9
+Kai  killed tex  in round 9
+Round 9 ended with spike_defuse. The winning team is Leviatán Esports.
+The current score is Trace Esports 5 - 4 Leviatán Esports.
+tex killed Biank  in round 10
+aspas killed LuoK1ng  in round 10
+tex killed FengF  in round 10
+aspas killed Kai   in round 10
+heybay killed tex  in round 10
+aspas killed heybay  in round 10
+Round 10 ended with elimination. The winning team is Leviatán Esports.
+The current score is Trace Esports 5 - 5 Leviatán Esports.
+C0M killed FengF  in round 11
+heybay killed C0M  in round 11
+aspas killed heybay  in round 11
+Biank killed tex  in round 11
+aspas killed Biank  in round 11
+kiNgg killed LuoK1ng  in round 11
+Kai  killed Mazino  in round 11
+aspas killed Kai   in round 11
+Round 11 ended with elimination. The winning team is Leviatán Esports.
+The current score is Trace Esports 5 - 6 Leviatán Esports.
+C0M killed FengF  in round 12
+heybay killed tex  in round 12
+C0M killed Kai   in round 12
+heybay killed Mazino  in round 12
+kiNgg killed Biank  in round 12
+LuoK1ng killed aspas  in round 12
+kiNgg killed heybay  in round 12
+kiNgg killed LuoK1ng  in round 12
+Round 12 ended with elimination. The winning team is Leviatán Esports.
+The current score is Trace Esports 5 - 7 Leviatán Esports.
+aspas killed FengF  in round 13
+heybay killed aspas  in round 13
+Biank killed tex  in round 13
+kiNgg killed heybay  in round 13
+LuoK1ng killed kiNgg  in round 13
+Mazino killed Kai   in round 13
+LuoK1ng killed Mazino  in round 13
+C0M killed LuoK1ng  in round 13
+Biank killed C0M  in round 13
+Round 13 ended with spike_defuse. The winning team is Trace Esports.
+The current score is Trace Esports 6 - 7 Leviatán Esports.
+tex killed FengF  in round 14
+LuoK1ng killed aspas  in round 14
+LuoK1ng killed kiNgg  in round 14
+tex killed LuoK1ng  in round 14
+Kai  killed tex  in round 14
+Round 14 ended with spike_defuse. The winning team is Trace Esports.
+The current score is Trace Esports 7 - 7 Leviatán Esports.
+heybay killed C0M  in round 15
+Mazino killed heybay  in round 15
+Mazino killed Biank  in round 15
+Kai  killed Mazino  in round 15
+Kai  killed kiNgg  in round 15
+tex killed Biank  in round 15
+tex killed FengF  in round 15
+tex killed heybay  in round 15
+LuoK1ng killed tex  in round 15
+aspas killed LuoK1ng  in round 15
+Kai  killed aspas  in round 15
+Mazino killed Kai   in round 15
+Round 15 ended with elimination. The winning team is Leviatán Esports.
+The current score is Trace Esports 7 - 8 Leviatán Esports.
+aspas killed Biank  in round 16
+aspas killed heybay  in round 16
+kiNgg killed FengF  in round 16
+Round 16 ended with detonate. The winning team is Leviatán Esports.
+The current score is Trace Esports 7 - 9 Leviatán Esports.
+Mazino killed LuoK1ng  in round 17
+FengF killed tex  in round 17
+kiNgg killed FengF  in round 17
+aspas killed Biank  in round 17
+aspas killed heybay  in round 17
+Kai  killed aspas  in round 17
+C0M killed Kai   in round 17
+Round 17 ended with elimination. The winning team is Leviatán Esports.
+The current score is Trace Esports 7 - 10 Leviatán Esports.
+aspas killed LuoK1ng  in round 18
+Mazino killed heybay  in round 18
+aspas killed FengF  in round 18
+tex killed Biank  in round 18
+aspas killed Kai   in round 18
+Round 18 ended with elimination. The winning team is Leviatán Esports.
+The current score is Trace Esports 7 - 11 Leviatán Esports.
+Biank killed aspas  in round 19
+Biank killed kiNgg  in round 19
+FengF killed C0M  in round 19
+Mazino killed LuoK1ng  in round 19
+FengF killed Mazino  in round 19
+Biank killed tex  in round 19
+Round 19 ended with elimination. The winning team is Trace Esports.
+The current score is Trace Esports 8 - 11 Leviatán Esports.
+aspas killed FengF  in round 20
+heybay killed aspas  in round 20
+LuoK1ng killed C0M  in round 20
+LuoK1ng killed Mazino  in round 20
+kiNgg killed heybay  in round 20
+tex killed LuoK1ng  in round 20
+Kai  killed tex  in round 20
+Kai  killed kiNgg  in round 20
+Round 20 ended with spike_defuse. The winning team is Trace Esports.
+The current score is Trace Esports 9 - 11 Leviatán Esports.
+Kai  killed aspas  in round 21
+tex killed LuoK1ng  in round 21
+tex killed FengF  in round 21
+Kai  killed C0M  in round 21
+kiNgg killed Biank  in round 21
+heybay killed kiNgg  in round 21
+Kai  killed Mazino  in round 21
+tex killed Kai   in round 21
+tex killed heybay  in round 21
+Round 21 ended with elimination. The winning team is Leviatán Esports.
+The current score is Trace Esports 9 - 12 Leviatán Esports.
+aspas killed heybay  in round 22
+FengF killed aspas  in round 22
+kiNgg killed FengF  in round 22
+C0M killed Biank  in round 22
+LuoK1ng killed Mazino  in round 22
+kiNgg killed Kai   in round 22
+C0M killed LuoK1ng  in round 22
+Round 22 ended with elimination. The winning team is Leviatán Esports.
+The current score is Trace Esports 9 - 13 Leviatán Esports.
+Game ended with winning team: Leviatán Esports at 2024-08-07T09:57:59Z
+
+--- Player Stats ---
+aspas: Team=Leviatán Esports, Kills=23, Deaths=13, Assists=8, KDA=2.38, First Kills=5, First Deaths=3
+tex: Team=Leviatán Esports, Kills=18, Deaths=16, Assists=4, KDA=1.38, First Kills=2, First Deaths=1
+kiNgg: Team=Leviatán Esports, Kills=17, Deaths=12, Assists=5, KDA=1.83, First Kills=2, First Deaths=2
+C0M: Team=Leviatán Esports, Kills=14, Deaths=13, Assists=9, KDA=1.77, First Kills=3, First Deaths=1
+Mazino: Team=Leviatán Esports, Kills=15, Deaths=16, Assists=10, KDA=1.56, First Kills=3, First Deaths=0
+FengF: Team=Trace Esports, Kills=12, Deaths=20, Assists=5, KDA=0.85, First Kills=2, First Deaths=5
+Kai : Team=Trace Esports, Kills=16, Deaths=15, Assists=3, KDA=1.27, First Kills=1, First Deaths=2
+heybay: Team=Trace Esports, Kills=18, Deaths=17, Assists=12, KDA=1.76, First Kills=1, First Deaths=1
+Biank: Team=Trace Esports, Kills=11, Deaths=17, Assists=11, KDA=1.29, First Kills=2, First Deaths=5
+LuoK1ng: Team=Trace Esports, Kills=13, Deaths=18, Assists=7, KDA=1.11, First Kills=1, First Deaths=2

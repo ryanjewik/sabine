@@ -1,0 +1,383 @@
+Team 1: KOI
+Team 2: NAVI
+Participating Players:
+Player 1: Zyppan
+Player 2: cNed
+Player 3: ANGE1
+Player 4: Shao
+Player 5: suygetsu
+Player 6: Trexx
+Player 7: starxo
+Player 8: koldamenta
+Player 9: Sheydos
+Player 10: Wolfen
+Winning Team: KOI
+Score: KOI 20 - 18 NAVI
+Tournament Name: vct emea 2023
+Game Start Time: 2023-03-27T17:31:04Z
+Game End Time: 2023-03-27T18:58:49Z
+Rounds ended by ELIMINATION count: 19
+Rounds ended by DEFUSE count: 18
+Rounds ended by DETONATE count: 1
+SPIKE PLANTED count: 19
+platformGameId: val:eb8ea509-f74a-4837-be34-3584c7bf56de
+
+--- Events ---
+Game started at 2023-03-27T17:31:04Z
+suygetsu killed starxo  in round 1
+Trexx killed ANGE1  in round 1
+suygetsu killed koldamenta  in round 1
+Shao killed Sheydos  in round 1
+Wolfen killed Shao  in round 1
+suygetsu killed Wolfen  in round 1
+cNed killed Trexx  in round 1
+Round 1 ended with elimination. The winning team is NAVI.
+The current score is KOI 0 - 1 NAVI.
+Zyppan killed Trexx  in round 2
+koldamenta killed Zyppan  in round 2
+koldamenta killed cNed  in round 2
+suygetsu killed Wolfen  in round 2
+Shao killed starxo  in round 2
+Shao killed Sheydos  in round 2
+ANGE1 killed koldamenta  in round 2
+Round 2 ended with spike_defuse. The winning team is NAVI.
+The current score is KOI 0 - 2 NAVI.
+Trexx killed ANGE1  in round 3
+Sheydos killed Zyppan  in round 3
+Sheydos killed suygetsu  in round 3
+starxo killed cNed  in round 3
+Shao killed starxo  in round 3
+Sheydos killed Shao  in round 3
+Round 3 ended with elimination. The winning team is KOI.
+The current score is KOI 1 - 2 NAVI.
+Wolfen killed cNed  in round 4
+Zyppan killed Trexx  in round 4
+ANGE1 killed starxo  in round 4
+koldamenta killed Zyppan  in round 4
+suygetsu killed koldamenta  in round 4
+suygetsu killed Sheydos  in round 4
+ANGE1 killed Wolfen  in round 4
+Round 4 ended with spike_defuse. The winning team is NAVI.
+The current score is KOI 1 - 3 NAVI.
+ANGE1 killed Trexx  in round 5
+starxo killed ANGE1  in round 5
+Shao killed Sheydos  in round 5
+starxo killed cNed  in round 5
+Shao killed Wolfen  in round 5
+Shao killed starxo  in round 5
+koldamenta killed suygetsu  in round 5
+koldamenta killed Shao  in round 5
+Zyppan killed koldamenta  in round 5
+Round 5 ended with spike_defuse. The winning team is NAVI.
+The current score is KOI 1 - 4 NAVI.
+starxo killed Zyppan  in round 6
+Shao killed starxo  in round 6
+suygetsu killed Trexx  in round 6
+Shao killed Wolfen  in round 6
+Sheydos killed Shao  in round 6
+Sheydos killed suygetsu  in round 6
+ANGE1 killed Sheydos  in round 6
+Round 6 ended with spike_defuse. The winning team is NAVI.
+The current score is KOI 1 - 5 NAVI.
+ANGE1 killed koldamenta  in round 7
+suygetsu killed Trexx  in round 7
+suygetsu killed Sheydos  in round 7
+ANGE1 killed Wolfen  in round 7
+starxo killed suygetsu  in round 7
+Shao killed koldamenta  in round 7
+Zyppan killed starxo  in round 7
+Round 7 ended with elimination. The winning team is NAVI.
+The current score is KOI 1 - 6 NAVI.
+Trexx killed cNed  in round 8
+starxo killed Zyppan  in round 8
+suygetsu killed Trexx  in round 8
+starxo killed ANGE1  in round 8
+koldamenta killed suygetsu  in round 8
+Wolfen killed Shao  in round 8
+Round 8 ended with elimination. The winning team is KOI.
+The current score is KOI 2 - 6 NAVI.
+Shao killed starxo  in round 9
+Trexx killed Shao  in round 9
+cNed killed koldamenta  in round 9
+Trexx killed ANGE1  in round 9
+Trexx killed suygetsu  in round 9
+Trexx killed Zyppan  in round 9
+Round 9 ended with spike_defuse. The winning team is NAVI.
+The current score is KOI 2 - 7 NAVI.
+Trexx killed cNed  in round 10
+Shao killed Trexx  in round 10
+cNed killed Sheydos  in round 10
+Wolfen killed Shao  in round 10
+cNed killed koldamenta  in round 10
+Zyppan killed Wolfen  in round 10
+starxo killed cNed  in round 10
+suygetsu killed starxo  in round 10
+Round 10 ended with spike_defuse. The winning team is NAVI.
+The current score is KOI 2 - 8 NAVI.
+Shao killed Trexx  in round 11
+Wolfen killed Shao  in round 11
+suygetsu killed koldamenta  in round 11
+Wolfen killed cNed  in round 11
+ANGE1 killed Wolfen  in round 11
+starxo killed suygetsu  in round 11
+Sheydos killed ANGE1  in round 11
+starxo killed Zyppan  in round 11
+Round 11 ended with elimination. The winning team is KOI.
+The current score is KOI 3 - 8 NAVI.
+cNed killed Trexx  in round 12
+Sheydos killed ANGE1  in round 12
+suygetsu killed Sheydos  in round 12
+suygetsu killed Wolfen  in round 12
+starxo killed Shao  in round 12
+cNed killed koldamenta  in round 12
+cNed killed starxo  in round 12
+Round 12 ended with spike_defuse. The winning team is NAVI.
+The current score is KOI 3 - 9 NAVI.
+Trexx killed suygetsu  in round 13
+Trexx killed cNed  in round 13
+Wolfen killed Zyppan  in round 13
+Trexx killed ANGE1  in round 13
+Wolfen killed Shao  in round 13
+Round 13 ended with spike_defuse. The winning team is KOI.
+The current score is KOI 4 - 9 NAVI.
+starxo killed ANGE1  in round 14
+starxo killed Shao  in round 14
+Sheydos killed cNed  in round 14
+Sheydos killed suygetsu  in round 14
+Trexx killed Zyppan  in round 14
+Round 14 ended with elimination. The winning team is KOI.
+The current score is KOI 5 - 9 NAVI.
+Shao killed koldamenta  in round 15
+cNed killed starxo  in round 15
+cNed killed Wolfen  in round 15
+Sheydos killed cNed  in round 15
+Zyppan killed Trexx  in round 15
+Shao killed Sheydos  in round 15
+Round 15 ended with elimination. The winning team is NAVI.
+The current score is KOI 5 - 10 NAVI.
+Trexx killed cNed  in round 16
+ANGE1 killed starxo  in round 16
+suygetsu killed Trexx  in round 16
+Trexx killed suygetsu  in round 16
+Zyppan killed Wolfen  in round 16
+Sheydos killed Zyppan  in round 16
+Round 16 ended with spike_defuse. The winning team is KOI.
+The current score is KOI 6 - 10 NAVI.
+ANGE1 killed Sheydos  in round 17
+starxo killed cNed  in round 17
+Trexx killed Zyppan  in round 17
+ANGE1 killed starxo  in round 17
+Wolfen killed ANGE1  in round 17
+Trexx killed Shao  in round 17
+suygetsu killed Wolfen  in round 17
+suygetsu killed Sheydos  in round 17
+Trexx killed suygetsu  in round 17
+Round 17 ended with spike_defuse. The winning team is KOI.
+The current score is KOI 7 - 10 NAVI.
+Sheydos killed ANGE1  in round 18
+Trexx killed Shao  in round 18
+Sheydos killed cNed  in round 18
+Trexx killed Zyppan  in round 18
+Wolfen killed suygetsu  in round 18
+Round 18 ended with elimination. The winning team is KOI.
+The current score is KOI 8 - 10 NAVI.
+starxo killed suygetsu  in round 19
+ANGE1 killed koldamenta  in round 19
+cNed killed Sheydos  in round 19
+Wolfen killed cNed  in round 19
+Trexx killed Shao  in round 19
+starxo killed Zyppan  in round 19
+Trexx killed ANGE1  in round 19
+Round 19 ended with spike_defuse. The winning team is KOI.
+The current score is KOI 9 - 10 NAVI.
+Trexx killed cNed  in round 20
+Trexx killed suygetsu  in round 20
+Shao killed koldamenta  in round 20
+Zyppan killed Trexx  in round 20
+Sheydos killed Zyppan  in round 20
+starxo killed Shao  in round 20
+starxo killed ANGE1  in round 20
+Round 20 ended with spike_defuse. The winning team is KOI.
+The current score is KOI 10 - 10 NAVI.
+Wolfen killed ANGE1  in round 21
+cNed killed Wolfen  in round 21
+Sheydos killed cNed  in round 21
+Sheydos killed Shao  in round 21
+Zyppan killed Trexx  in round 21
+Sheydos killed Zyppan  in round 21
+Round 21 ended with spike_defuse. The winning team is KOI.
+The current score is KOI 11 - 10 NAVI.
+suygetsu killed starxo  in round 22
+suygetsu killed koldamenta  in round 22
+Sheydos killed suygetsu  in round 22
+Zyppan killed Trexx  in round 22
+starxo killed Zyppan  in round 22
+suygetsu killed starxo  in round 22
+ANGE1 killed Wolfen  in round 22
+cNed killed Sheydos  in round 22
+koldamenta killed ANGE1  in round 22
+cNed killed koldamenta  in round 22
+Round 22 ended with elimination. The winning team is NAVI.
+The current score is KOI 11 - 11 NAVI.
+ANGE1 killed koldamenta  in round 23
+Trexx killed ANGE1  in round 23
+Shao killed Trexx  in round 23
+suygetsu killed Wolfen  in round 23
+Shao killed Sheydos  in round 23
+Round 23 ended with detonate. The winning team is NAVI.
+The current score is KOI 11 - 12 NAVI.
+Trexx killed ANGE1  in round 24
+suygetsu killed Wolfen  in round 24
+Trexx killed Shao  in round 24
+koldamenta killed cNed  in round 24
+suygetsu killed Trexx  in round 24
+Sheydos killed suygetsu  in round 24
+Sheydos killed Zyppan  in round 24
+Round 24 ended with elimination. The winning team is KOI.
+The current score is KOI 12 - 12 NAVI.
+Trexx killed suygetsu  in round 25
+Zyppan killed Trexx  in round 25
+Shao killed starxo  in round 25
+ANGE1 killed koldamenta  in round 25
+cNed killed Wolfen  in round 25
+Sheydos killed cNed  in round 25
+ANGE1 killed Sheydos  in round 25
+Round 25 ended with spike_defuse. The winning team is NAVI.
+The current score is KOI 12 - 13 NAVI.
+Wolfen killed cNed  in round 26
+Sheydos killed Zyppan  in round 26
+Wolfen killed suygetsu  in round 26
+starxo killed Shao  in round 26
+ANGE1 killed Wolfen  in round 26
+starxo killed ANGE1  in round 26
+Round 26 ended with elimination. The winning team is KOI.
+The current score is KOI 13 - 13 NAVI.
+starxo killed suygetsu  in round 27
+ANGE1 killed starxo  in round 27
+ANGE1 killed Wolfen  in round 27
+koldamenta killed ANGE1  in round 27
+Zyppan killed Trexx  in round 27
+cNed killed koldamenta  in round 27
+Sheydos killed cNed  in round 27
+Zyppan killed Sheydos  in round 27
+Round 27 ended with spike_defuse. The winning team is NAVI.
+The current score is KOI 13 - 14 NAVI.
+Trexx killed ANGE1  in round 28
+Shao killed koldamenta  in round 28
+starxo killed Zyppan  in round 28
+Shao killed starxo  in round 28
+Wolfen killed cNed  in round 28
+Wolfen killed Shao  in round 28
+Wolfen killed suygetsu  in round 28
+Round 28 ended with spike_defuse. The winning team is KOI.
+The current score is KOI 14 - 14 NAVI.
+Shao killed Wolfen  in round 29
+Sheydos killed Shao  in round 29
+Sheydos killed cNed  in round 29
+Zyppan killed Sheydos  in round 29
+ANGE1 killed starxo  in round 29
+suygetsu killed koldamenta  in round 29
+suygetsu killed Trexx  in round 29
+Round 29 ended with spike_defuse. The winning team is NAVI.
+The current score is KOI 14 - 15 NAVI.
+Trexx killed ANGE1  in round 30
+Sheydos killed cNed  in round 30
+Sheydos killed Shao  in round 30
+starxo killed suygetsu  in round 30
+Zyppan killed starxo  in round 30
+koldamenta killed Zyppan  in round 30
+Round 30 ended with elimination. The winning team is KOI.
+The current score is KOI 15 - 15 NAVI.
+ANGE1 killed Trexx  in round 31
+Wolfen killed cNed  in round 31
+starxo killed Zyppan  in round 31
+starxo killed ANGE1  in round 31
+Shao killed Sheydos  in round 31
+koldamenta killed suygetsu  in round 31
+Shao killed koldamenta  in round 31
+Shao killed Wolfen  in round 31
+starxo killed Shao  in round 31
+Round 31 ended with elimination. The winning team is KOI.
+The current score is KOI 16 - 15 NAVI.
+cNed killed Trexx  in round 32
+cNed killed koldamenta  in round 32
+Sheydos killed cNed  in round 32
+ANGE1 killed Sheydos  in round 32
+starxo killed Shao  in round 32
+starxo killed Zyppan  in round 32
+suygetsu killed starxo  in round 32
+Wolfen killed suygetsu  in round 32
+ANGE1 killed Wolfen  in round 32
+Round 32 ended with elimination. The winning team is NAVI.
+The current score is KOI 16 - 16 NAVI.
+ANGE1 killed starxo  in round 33
+suygetsu killed koldamenta  in round 33
+Trexx killed ANGE1  in round 33
+Trexx killed suygetsu  in round 33
+cNed killed Wolfen  in round 33
+Sheydos killed cNed  in round 33
+Zyppan killed Trexx  in round 33
+Sheydos killed Shao  in round 33
+Sheydos killed Zyppan  in round 33
+Round 33 ended with elimination. The winning team is KOI.
+The current score is KOI 17 - 16 NAVI.
+Trexx killed ANGE1  in round 34
+suygetsu killed starxo  in round 34
+Wolfen killed Shao  in round 34
+cNed killed Sheydos  in round 34
+suygetsu killed Wolfen  in round 34
+koldamenta killed suygetsu  in round 34
+cNed killed Trexx  in round 34
+cNed killed koldamenta  in round 34
+Round 34 ended with elimination. The winning team is NAVI.
+The current score is KOI 17 - 17 NAVI.
+Trexx killed ANGE1  in round 35
+suygetsu killed starxo  in round 35
+cNed killed koldamenta  in round 35
+cNed killed Sheydos  in round 35
+Shao killed Trexx  in round 35
+Wolfen killed Shao  in round 35
+Zyppan killed Wolfen  in round 35
+Round 35 ended with elimination. The winning team is NAVI.
+The current score is KOI 17 - 18 NAVI.
+cNed killed Trexx  in round 36
+ANGE1 killed koldamenta  in round 36
+Sheydos killed cNed  in round 36
+Shao killed Sheydos  in round 36
+Wolfen killed ANGE1  in round 36
+Zyppan killed Wolfen  in round 36
+starxo killed Shao  in round 36
+starxo killed suygetsu  in round 36
+starxo killed Zyppan  in round 36
+Round 36 ended with spike_defuse. The winning team is KOI.
+The current score is KOI 18 - 18 NAVI.
+cNed killed Trexx  in round 37
+starxo killed Zyppan  in round 37
+starxo killed cNed  in round 37
+Wolfen killed Shao  in round 37
+Sheydos killed suygetsu  in round 37
+Sheydos killed ANGE1  in round 37
+Round 37 ended with elimination. The winning team is KOI.
+The current score is KOI 19 - 18 NAVI.
+starxo killed cNed  in round 38
+starxo killed Zyppan  in round 38
+suygetsu killed Trexx  in round 38
+Sheydos killed ANGE1  in round 38
+Wolfen killed Shao  in round 38
+suygetsu killed Wolfen  in round 38
+Sheydos killed suygetsu  in round 38
+Round 38 ended with elimination. The winning team is KOI.
+The current score is KOI 20 - 18 NAVI.
+Game ended with winning team: KOI at 2023-03-27T18:58:49Z
+
+--- Player Stats ---
+Zyppan: Team=NAVI, Kills=18, Deaths=26, Assists=18, KDA=1.38, First Kills=1, First Deaths=1
+cNed: Team=NAVI, Kills=25, Deaths=30, Assists=15, KDA=1.33, First Kills=4, First Deaths=7
+ANGE1: Team=NAVI, Kills=25, Deaths=28, Assists=9, KDA=1.21, First Kills=6, First Deaths=9
+Shao: Team=NAVI, Kills=27, Deaths=29, Assists=10, KDA=1.28, First Kills=4, First Deaths=0
+suygetsu: Team=NAVI, Kills=32, Deaths=28, Assists=5, KDA=1.32, First Kills=2, First Deaths=4
+Trexx: Team=KOI, Kills=33, Deaths=28, Assists=10, KDA=1.54, First Kills=12, First Deaths=8
+starxo: Team=KOI, Kills=36, Deaths=24, Assists=21, KDA=2.38, First Kills=5, First Deaths=4
+koldamenta: Team=KOI, Kills=12, Deaths=26, Assists=10, KDA=0.85, First Kills=0, First Deaths=3
+Sheydos: Team=KOI, Kills=36, Deaths=22, Assists=20, KDA=2.55, First Kills=1, First Deaths=1
+Wolfen: Team=KOI, Kills=24, Deaths=27, Assists=9, KDA=1.22, First Kills=3, First Deaths=1

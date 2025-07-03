@@ -1,0 +1,261 @@
+Team 1: Talon Esports
+Team 2: GLOBAL ESPORTS
+Participating Players:
+Player 1: t3xture
+Player 2: SkRossi
+Player 3: AYRIN
+Player 4: Bazzi
+Player 5: Monyet
+Player 6: sushiboys
+Player 7: Patiphan
+Player 8: Crws
+Player 9: garnetS
+Player 10: foxz
+Winning Team: GLOBAL ESPORTS
+Score: Talon Esports 11 - 13 GLOBAL ESPORTS
+Tournament Name: vct pacific 2023
+Game Start Time: 2023-04-17T10:04:35Z
+Game End Time: 2023-04-17T11:01:00Z
+Rounds ended by ELIMINATION count: 16
+Rounds ended by DEFUSE count: 6
+Rounds ended by DETONATE count: 2
+SPIKE PLANTED count: 8
+platformGameId: val:67b5cd52-e719-4360-82f4-caad4b2fa982
+
+--- Events ---
+Game started at 2023-04-17T10:04:35Z
+AYRIN killed garnetS  in round 1
+Bazzi killed Patiphan  in round 1
+Bazzi killed sushiboys  in round 1
+t3xture killed Crws  in round 1
+SkRossi killed foxz  in round 1
+Round 1 ended with spike_defuse. The winning team is GLOBAL ESPORTS.
+The current score is Talon Esports 0 - 1 GLOBAL ESPORTS.
+garnetS killed SkRossi  in round 2
+Bazzi killed garnetS  in round 2
+AYRIN killed Crws  in round 2
+Bazzi killed foxz  in round 2
+Patiphan killed Bazzi  in round 2
+sushiboys killed AYRIN  in round 2
+t3xture killed Patiphan  in round 2
+sushiboys killed t3xture  in round 2
+Monyet killed sushiboys  in round 2
+Round 2 ended with elimination. The winning team is GLOBAL ESPORTS.
+The current score is Talon Esports 0 - 2 GLOBAL ESPORTS.
+Monyet killed garnetS  in round 3
+foxz killed t3xture  in round 3
+Crws killed AYRIN  in round 3
+Monyet killed Patiphan  in round 3
+SkRossi killed Crws  in round 3
+Bazzi killed foxz  in round 3
+sushiboys killed Monyet  in round 3
+Bazzi killed sushiboys  in round 3
+Round 3 ended with spike_defuse. The winning team is GLOBAL ESPORTS.
+The current score is Talon Esports 0 - 3 GLOBAL ESPORTS.
+garnetS killed AYRIN  in round 4
+SkRossi killed Patiphan  in round 4
+SkRossi killed garnetS  in round 4
+SkRossi killed Crws  in round 4
+SkRossi killed sushiboys  in round 4
+Bazzi killed foxz  in round 4
+Round 4 ended with spike_defuse. The winning team is GLOBAL ESPORTS.
+The current score is Talon Esports 0 - 4 GLOBAL ESPORTS.
+Monyet killed Patiphan  in round 5
+garnetS killed Monyet  in round 5
+Crws killed t3xture  in round 5
+sushiboys killed AYRIN  in round 5
+foxz killed garnetS  in round 5
+sushiboys killed Bazzi  in round 5
+SkRossi killed sushiboys  in round 5
+SkRossi killed Crws  in round 5
+foxz killed SkRossi  in round 5
+Round 5 ended with elimination. The winning team is Talon Esports.
+The current score is Talon Esports 1 - 4 GLOBAL ESPORTS.
+garnetS killed Monyet  in round 6
+Crws killed Bazzi  in round 6
+Crws killed SkRossi  in round 6
+AYRIN killed Crws  in round 6
+Round 6 ended with detonate. The winning team is Talon Esports.
+The current score is Talon Esports 2 - 4 GLOBAL ESPORTS.
+garnetS killed AYRIN  in round 7
+Bazzi killed sushiboys  in round 7
+foxz killed Bazzi  in round 7
+garnetS killed AYRIN  in round 7
+Monyet killed garnetS  in round 7
+foxz killed Monyet  in round 7
+Patiphan killed SkRossi  in round 7
+t3xture killed Crws  in round 7
+Patiphan killed t3xture  in round 7
+Round 7 ended with elimination. The winning team is Talon Esports.
+The current score is Talon Esports 3 - 4 GLOBAL ESPORTS.
+Bazzi killed Crws  in round 8
+garnetS killed Bazzi  in round 8
+t3xture killed foxz  in round 8
+garnetS killed t3xture  in round 8
+sushiboys killed Monyet  in round 8
+SkRossi killed sushiboys  in round 8
+Patiphan killed SkRossi  in round 8
+garnetS killed AYRIN  in round 8
+Round 8 ended with elimination. The winning team is Talon Esports.
+The current score is Talon Esports 4 - 4 GLOBAL ESPORTS.
+Monyet killed garnetS  in round 9
+Monyet killed sushiboys  in round 9
+Patiphan killed Monyet  in round 9
+foxz killed Bazzi  in round 9
+Crws killed AYRIN  in round 9
+foxz killed SkRossi  in round 9
+t3xture killed Crws  in round 9
+Patiphan killed t3xture  in round 9
+Round 9 ended with elimination. The winning team is Talon Esports.
+The current score is Talon Esports 5 - 4 GLOBAL ESPORTS.
+SkRossi killed Crws  in round 10
+Monyet killed foxz  in round 10
+Monyet killed Patiphan  in round 10
+t3xture killed garnetS  in round 10
+sushiboys killed Monyet  in round 10
+sushiboys killed AYRIN  in round 10
+sushiboys killed SkRossi  in round 10
+t3xture killed sushiboys  in round 10
+Round 10 ended with spike_defuse. The winning team is GLOBAL ESPORTS.
+The current score is Talon Esports 5 - 5 GLOBAL ESPORTS.
+Crws killed Monyet  in round 11
+t3xture killed Crws  in round 11
+garnetS killed Bazzi  in round 11
+SkRossi killed sushiboys  in round 11
+AYRIN killed garnetS  in round 11
+AYRIN killed Patiphan  in round 11
+t3xture killed foxz  in round 11
+Round 11 ended with elimination. The winning team is GLOBAL ESPORTS.
+The current score is Talon Esports 5 - 6 GLOBAL ESPORTS.
+foxz killed t3xture  in round 12
+foxz killed AYRIN  in round 12
+Patiphan killed Bazzi  in round 12
+garnetS killed Monyet  in round 12
+garnetS killed SkRossi  in round 12
+Round 12 ended with elimination. The winning team is Talon Esports.
+The current score is Talon Esports 6 - 6 GLOBAL ESPORTS.
+garnetS killed Monyet  in round 13
+foxz killed t3xture  in round 13
+SkRossi killed Crws  in round 13
+AYRIN killed foxz  in round 13
+sushiboys killed AYRIN  in round 13
+garnetS killed SkRossi  in round 13
+Bazzi killed sushiboys  in round 13
+Bazzi killed garnetS  in round 13
+Patiphan killed Bazzi  in round 13
+Round 13 ended with spike_defuse. The winning team is Talon Esports.
+The current score is Talon Esports 7 - 6 GLOBAL ESPORTS.
+Monyet killed foxz  in round 14
+Crws killed Monyet  in round 14
+Bazzi killed sushiboys  in round 14
+Bazzi killed Crws  in round 14
+garnetS killed Bazzi  in round 14
+AYRIN killed Patiphan  in round 14
+garnetS killed SkRossi  in round 14
+t3xture killed garnetS  in round 14
+Round 14 ended with elimination. The winning team is GLOBAL ESPORTS.
+The current score is Talon Esports 7 - 7 GLOBAL ESPORTS.
+Monyet killed sushiboys  in round 15
+t3xture killed Patiphan  in round 15
+t3xture killed garnetS  in round 15
+Monyet killed Crws  in round 15
+t3xture killed foxz  in round 15
+Round 15 ended with elimination. The winning team is GLOBAL ESPORTS.
+The current score is Talon Esports 7 - 8 GLOBAL ESPORTS.
+garnetS killed t3xture  in round 16
+garnetS killed Monyet  in round 16
+Patiphan killed SkRossi  in round 16
+Patiphan killed AYRIN  in round 16
+Patiphan killed Bazzi  in round 16
+Round 16 ended with elimination. The winning team is Talon Esports.
+The current score is Talon Esports 8 - 8 GLOBAL ESPORTS.
+Patiphan killed AYRIN  in round 17
+foxz killed SkRossi  in round 17
+Monyet killed foxz  in round 17
+sushiboys killed Monyet  in round 17
+Crws killed Bazzi  in round 17
+sushiboys killed t3xture  in round 17
+Round 17 ended with elimination. The winning team is Talon Esports.
+The current score is Talon Esports 9 - 8 GLOBAL ESPORTS.
+sushiboys killed SkRossi  in round 18
+Crws killed Monyet  in round 18
+garnetS killed t3xture  in round 18
+sushiboys killed AYRIN  in round 18
+Bazzi killed garnetS  in round 18
+Bazzi killed sushiboys  in round 18
+Bazzi killed Crws  in round 18
+foxz killed Bazzi  in round 18
+Round 18 ended with elimination. The winning team is Talon Esports.
+The current score is Talon Esports 10 - 8 GLOBAL ESPORTS.
+Patiphan killed AYRIN  in round 19
+Monyet killed Patiphan  in round 19
+t3xture killed sushiboys  in round 19
+garnetS killed Bazzi  in round 19
+SkRossi killed foxz  in round 19
+garnetS killed Monyet  in round 19
+SkRossi killed garnetS  in round 19
+Crws killed SkRossi  in round 19
+t3xture killed Crws  in round 19
+Round 19 ended with elimination. The winning team is GLOBAL ESPORTS.
+The current score is Talon Esports 10 - 9 GLOBAL ESPORTS.
+foxz killed Monyet  in round 20
+foxz killed AYRIN  in round 20
+Bazzi killed Crws  in round 20
+t3xture killed sushiboys  in round 20
+Bazzi killed Patiphan  in round 20
+foxz killed Bazzi  in round 20
+foxz killed SkRossi  in round 20
+t3xture killed foxz  in round 20
+t3xture killed garnetS  in round 20
+Round 20 ended with elimination. The winning team is GLOBAL ESPORTS.
+The current score is Talon Esports 10 - 10 GLOBAL ESPORTS.
+SkRossi killed Patiphan  in round 21
+t3xture killed garnetS  in round 21
+Monyet killed sushiboys  in round 21
+Crws killed t3xture  in round 21
+Bazzi killed Crws  in round 21
+Round 21 ended with detonate. The winning team is GLOBAL ESPORTS.
+The current score is Talon Esports 10 - 11 GLOBAL ESPORTS.
+Bazzi killed foxz  in round 22
+foxz killed AYRIN  in round 22
+Bazzi killed sushiboys  in round 22
+SkRossi killed Crws  in round 22
+Patiphan killed SkRossi  in round 22
+Patiphan killed Monyet  in round 22
+Patiphan killed Bazzi  in round 22
+t3xture killed garnetS  in round 22
+Round 22 ended with spike_defuse. The winning team is Talon Esports.
+The current score is Talon Esports 11 - 11 GLOBAL ESPORTS.
+t3xture killed foxz  in round 23
+Patiphan killed t3xture  in round 23
+garnetS killed SkRossi  in round 23
+AYRIN killed garnetS  in round 23
+Patiphan killed Monyet  in round 23
+Bazzi killed Patiphan  in round 23
+AYRIN killed sushiboys  in round 23
+AYRIN killed Crws  in round 23
+foxz killed AYRIN  in round 23
+Bazzi killed foxz  in round 23
+Round 23 ended with elimination. The winning team is GLOBAL ESPORTS.
+The current score is Talon Esports 11 - 12 GLOBAL ESPORTS.
+garnetS killed t3xture  in round 24
+SkRossi killed Patiphan  in round 24
+Bazzi killed garnetS  in round 24
+SkRossi killed sushiboys  in round 24
+Bazzi killed Crws  in round 24
+Monyet killed foxz  in round 24
+Round 24 ended with elimination. The winning team is GLOBAL ESPORTS.
+The current score is Talon Esports 11 - 13 GLOBAL ESPORTS.
+Game ended with winning team: GLOBAL ESPORTS at 2023-04-17T11:01:00Z
+
+--- Player Stats ---
+t3xture: Team=GLOBAL ESPORTS, Kills=21, Deaths=14, Assists=2, KDA=1.64, First Kills=1, First Deaths=3
+SkRossi: Team=GLOBAL ESPORTS, Kills=18, Deaths=17, Assists=9, KDA=1.59, First Kills=2, First Deaths=2
+AYRIN: Team=GLOBAL ESPORTS, Kills=10, Deaths=18, Assists=10, KDA=1.11, First Kills=1, First Deaths=4
+Bazzi: Team=GLOBAL ESPORTS, Kills=25, Deaths=16, Assists=13, KDA=2.38, First Kills=2, First Deaths=0
+Monyet: Team=GLOBAL ESPORTS, Kills=16, Deaths=18, Assists=8, KDA=1.33, First Kills=5, First Deaths=4
+sushiboys: Team=Talon Esports, Kills=14, Deaths=20, Assists=3, KDA=0.85, First Kills=1, First Deaths=1
+Patiphan: Team=Talon Esports, Kills=18, Deaths=14, Assists=4, KDA=1.57, First Kills=2, First Deaths=2
+Crws: Team=Talon Esports, Kills=11, Deaths=21, Assists=6, KDA=0.81, First Kills=1, First Deaths=2
+garnetS: Team=Talon Esports, Kills=23, Deaths=19, Assists=3, KDA=1.37, First Kills=7, First Deaths=3
+foxz: Team=Talon Esports, Kills=18, Deaths=17, Assists=9, KDA=1.59, First Kills=2, First Deaths=3

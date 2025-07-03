@@ -1,0 +1,193 @@
+Team 1: Gen.G Esports
+Team 2: T1
+Participating Players:
+Player 1: carpe
+Player 2: Sayaplayer
+Player 3: xeta
+Player 4: iNTRO
+Player 5: Munchkin
+Player 6: k1NgKR
+Player 7: Sylvan
+Player 8: TS
+Player 9: Meteor 
+Player 10: GodDead
+Winning Team: Gen.G Esports
+Score: Gen.G Esports 13 - 5 T1
+Tournament Name: vct pacific 2023
+Game Start Time: 2023-04-16T10:03:42Z
+Game End Time: 2023-04-16T10:47:29Z
+Rounds ended by ELIMINATION count: 8
+Rounds ended by DEFUSE count: 5
+Rounds ended by DETONATE count: 5
+SPIKE PLANTED count: 10
+platformGameId: val:8722694a-07fc-410c-bf71-a7000c24cf0e
+
+--- Events ---
+Game started at 2023-04-16T10:03:42Z
+Sayaplayer killed Meteor   in round 1
+Sylvan killed Sayaplayer  in round 1
+k1NgKR killed Munchkin  in round 1
+TS killed carpe  in round 1
+k1NgKR killed xeta  in round 1
+Sylvan killed iNTRO  in round 1
+Round 1 ended with elimination. The winning team is Gen.G Esports.
+The current score is Gen.G Esports 1 - 0 T1.
+k1NgKR killed xeta  in round 2
+Sylvan killed Sayaplayer  in round 2
+Round 2 ended with detonate. The winning team is Gen.G Esports.
+The current score is Gen.G Esports 2 - 0 T1.
+Munchkin killed Munchkin  in round 3
+iNTRO killed iNTRO  in round 3
+carpe killed carpe  in round 3
+Munchkin killed Meteor   in round 3
+TS killed carpe  in round 3
+TS killed Munchkin  in round 3
+TS killed iNTRO  in round 3
+xeta killed TS  in round 3
+Sylvan killed Sayaplayer  in round 3
+xeta killed k1NgKR  in round 3
+Round 3 ended with detonate. The winning team is Gen.G Esports.
+The current score is Gen.G Esports 3 - 0 T1.
+Sylvan killed xeta  in round 4
+k1NgKR killed Sayaplayer  in round 4
+Sylvan killed carpe  in round 4
+Meteor  killed iNTRO  in round 4
+Round 4 ended with detonate. The winning team is Gen.G Esports.
+The current score is Gen.G Esports 4 - 0 T1.
+Munchkin killed Munchkin  in round 5
+Sayaplayer killed TS  in round 5
+Sylvan killed xeta  in round 5
+Sylvan killed Munchkin  in round 5
+GodDead killed Sayaplayer  in round 5
+iNTRO killed Sylvan  in round 5
+carpe killed GodDead  in round 5
+carpe killed k1NgKR  in round 5
+Meteor  killed iNTRO  in round 5
+carpe killed Meteor   in round 5
+Round 5 ended with spike_defuse. The winning team is T1.
+The current score is Gen.G Esports 4 - 1 T1.
+Sylvan killed xeta  in round 6
+iNTRO killed Sylvan  in round 6
+k1NgKR killed carpe  in round 6
+GodDead killed Munchkin  in round 6
+TS killed Sayaplayer  in round 6
+iNTRO killed TS  in round 6
+Round 6 ended with detonate. The winning team is Gen.G Esports.
+The current score is Gen.G Esports 5 - 1 T1.
+iNTRO killed Meteor   in round 7
+Munchkin killed Meteor   in round 7
+k1NgKR killed Sayaplayer  in round 7
+carpe killed TS  in round 7
+Munchkin killed k1NgKR  in round 7
+Munchkin killed GodDead  in round 7
+carpe killed Sylvan  in round 7
+Round 7 ended with elimination. The winning team is T1.
+The current score is Gen.G Esports 5 - 2 T1.
+Munchkin killed Meteor   in round 8
+Sylvan killed Munchkin  in round 8
+iNTRO killed GodDead  in round 8
+iNTRO killed k1NgKR  in round 8
+Sylvan killed xeta  in round 8
+carpe killed Sylvan  in round 8
+TS killed iNTRO  in round 8
+Sayaplayer killed TS  in round 8
+Round 8 ended with spike_defuse. The winning team is T1.
+The current score is Gen.G Esports 5 - 3 T1.
+carpe killed TS  in round 9
+Meteor  killed carpe  in round 9
+xeta killed Meteor   in round 9
+GodDead killed Munchkin  in round 9
+Sylvan killed xeta  in round 9
+iNTRO killed GodDead  in round 9
+k1NgKR killed iNTRO  in round 9
+k1NgKR killed Sayaplayer  in round 9
+Round 9 ended with elimination. The winning team is Gen.G Esports.
+The current score is Gen.G Esports 6 - 3 T1.
+Meteor  killed Munchkin  in round 10
+Sylvan killed iNTRO  in round 10
+xeta killed k1NgKR  in round 10
+xeta killed Meteor   in round 10
+carpe killed GodDead  in round 10
+carpe killed TS  in round 10
+Sayaplayer killed Sylvan  in round 10
+Round 10 ended with elimination. The winning team is T1.
+The current score is Gen.G Esports 6 - 4 T1.
+k1NgKR killed iNTRO  in round 11
+Meteor  killed Munchkin  in round 11
+Sylvan killed xeta  in round 11
+Round 11 ended with detonate. The winning team is Gen.G Esports.
+The current score is Gen.G Esports 7 - 4 T1.
+Munchkin killed TS  in round 12
+Munchkin killed Meteor   in round 12
+Sylvan killed Sayaplayer  in round 12
+carpe killed Sylvan  in round 12
+xeta killed GodDead  in round 12
+k1NgKR killed xeta  in round 12
+carpe killed k1NgKR  in round 12
+Round 12 ended with elimination. The winning team is T1.
+The current score is Gen.G Esports 7 - 5 T1.
+k1NgKR killed carpe  in round 13
+Meteor  killed xeta  in round 13
+Meteor  killed Sayaplayer  in round 13
+Meteor  killed Munchkin  in round 13
+TS killed iNTRO  in round 13
+Round 13 ended with spike_defuse. The winning team is Gen.G Esports.
+The current score is Gen.G Esports 8 - 5 T1.
+Sayaplayer killed TS  in round 14
+Meteor  killed Munchkin  in round 14
+carpe killed Meteor   in round 14
+k1NgKR killed carpe  in round 14
+k1NgKR killed Sayaplayer  in round 14
+Sylvan killed xeta  in round 14
+iNTRO killed Sylvan  in round 14
+k1NgKR killed iNTRO  in round 14
+Round 14 ended with spike_defuse. The winning team is Gen.G Esports.
+The current score is Gen.G Esports 9 - 5 T1.
+TS killed Munchkin  in round 15
+k1NgKR killed carpe  in round 15
+TS killed xeta  in round 15
+TS killed iNTRO  in round 15
+Sylvan killed Sayaplayer  in round 15
+Round 15 ended with elimination. The winning team is Gen.G Esports.
+The current score is Gen.G Esports 10 - 5 T1.
+k1NgKR killed carpe  in round 16
+Sayaplayer killed Sylvan  in round 16
+k1NgKR killed xeta  in round 16
+TS killed Sayaplayer  in round 16
+k1NgKR killed iNTRO  in round 16
+Munchkin killed TS  in round 16
+GodDead killed Munchkin  in round 16
+Round 16 ended with elimination. The winning team is Gen.G Esports.
+The current score is Gen.G Esports 11 - 5 T1.
+carpe killed TS  in round 17
+GodDead killed carpe  in round 17
+GodDead killed Sayaplayer  in round 17
+Munchkin killed Meteor   in round 17
+k1NgKR killed Munchkin  in round 17
+k1NgKR killed iNTRO  in round 17
+xeta killed Sylvan  in round 17
+xeta killed GodDead  in round 17
+k1NgKR killed xeta  in round 17
+Round 17 ended with spike_defuse. The winning team is Gen.G Esports.
+The current score is Gen.G Esports 12 - 5 T1.
+Meteor  killed Munchkin  in round 18
+Sayaplayer killed Meteor   in round 18
+k1NgKR killed Sayaplayer  in round 18
+k1NgKR killed xeta  in round 18
+GodDead killed iNTRO  in round 18
+GodDead killed carpe  in round 18
+Round 18 ended with elimination. The winning team is Gen.G Esports.
+The current score is Gen.G Esports 13 - 5 T1.
+Game ended with winning team: Gen.G Esports at 2023-04-16T10:47:29Z
+
+--- Player Stats ---
+carpe: Team=T1, Kills=14, Deaths=12, Assists=8, KDA=1.83, First Kills=2, First Deaths=2
+Sayaplayer: Team=T1, Kills=7, Deaths=15, Assists=4, KDA=0.73, First Kills=2, First Deaths=0
+xeta: Team=T1, Kills=8, Deaths=15, Assists=4, KDA=0.8, First Kills=0, First Deaths=3
+iNTRO: Team=T1, Kills=9, Deaths=15, Assists=4, KDA=0.87, First Kills=1, First Deaths=1
+Munchkin: Team=T1, Kills=11, Deaths=16, Assists=2, KDA=0.81, First Kills=4, First Deaths=5
+k1NgKR: Team=Gen.G Esports, Kills=23, Deaths=6, Assists=7, KDA=5.0, First Kills=4, First Deaths=0
+Sylvan: Team=Gen.G Esports, Kills=17, Deaths=9, Assists=4, KDA=2.33, First Kills=2, First Deaths=0
+TS: Team=Gen.G Esports, Kills=11, Deaths=11, Assists=12, KDA=2.09, First Kills=1, First Deaths=4
+Meteor : Team=Gen.G Esports, Kills=10, Deaths=12, Assists=5, KDA=1.25, First Kills=2, First Deaths=3
+GodDead: Team=Gen.G Esports, Kills=8, Deaths=7, Assists=10, KDA=2.57, First Kills=0, First Deaths=0

@@ -1,0 +1,206 @@
+Team 1: Sentinels
+Team 2: FNATIC
+Participating Players:
+Player 1: Chronicle
+Player 2: Derke
+Player 3: Boaster
+Player 4: Alfajer
+Player 5: Leo 
+Player 6: TenZ
+Player 7: Sacy
+Player 8: dephh
+Player 9: zekken
+Player 10: pANcada
+Winning Team: FNATIC
+Score: Sentinels 7 - 13 FNATIC
+Tournament Name: lock in brazil 2023
+Game Start Time: 2023-02-24T17:55:34Z
+Game End Time: 2023-02-24T18:48:01Z
+Rounds ended by ELIMINATION count: 13
+Rounds ended by DEFUSE count: 1
+Rounds ended by DETONATE count: 5
+SPIKE PLANTED count: 6
+platformGameId: val:d5f6edd3-e45e-433c-89a8-69bde1e9a791
+
+--- Events ---
+Game started at 2023-02-24T17:55:34Z
+Derke killed TenZ  in round 1
+Chronicle killed zekken  in round 1
+Sacy killed Chronicle  in round 1
+Derke killed dephh  in round 1
+Derke killed Sacy  in round 1
+Derke killed pANcada  in round 1
+Round 1 ended with elimination. The winning team is FNATIC.
+The current score is Sentinels 0 - 1 FNATIC.
+Chronicle killed dephh  in round 2
+Leo  killed pANcada  in round 2
+Leo  killed zekken  in round 2
+Chronicle killed Sacy  in round 2
+Chronicle killed TenZ  in round 2
+Round 2 ended with elimination. The winning team is FNATIC.
+The current score is Sentinels 0 - 2 FNATIC.
+Derke killed Sacy  in round 3
+pANcada killed Derke  in round 3
+Chronicle killed pANcada  in round 3
+zekken killed Boaster  in round 3
+dephh killed Leo   in round 3
+dephh killed Alfajer  in round 3
+dephh killed Chronicle  in round 3
+Round 3 ended with elimination. The winning team is Sentinels.
+The current score is Sentinels 1 - 2 FNATIC.
+zekken killed Derke  in round 4
+Chronicle killed zekken  in round 4
+Leo  killed dephh  in round 4
+Sacy killed Leo   in round 4
+Sacy killed Boaster  in round 4
+Alfajer killed TenZ  in round 4
+pANcada killed Chronicle  in round 4
+Sacy killed Alfajer  in round 4
+Round 4 ended with elimination. The winning team is Sentinels.
+The current score is Sentinels 2 - 2 FNATIC.
+TenZ killed Alfajer  in round 5
+TenZ killed Leo   in round 5
+dephh killed Boaster  in round 5
+pANcada killed Derke  in round 5
+pANcada killed Chronicle  in round 5
+Round 5 ended with elimination. The winning team is Sentinels.
+The current score is Sentinels 3 - 2 FNATIC.
+TenZ killed Boaster  in round 6
+TenZ killed Chronicle  in round 6
+Round 6 ended with detonate. The winning team is Sentinels.
+The current score is Sentinels 4 - 2 FNATIC.
+Derke killed zekken  in round 7
+Alfajer killed TenZ  in round 7
+pANcada killed Chronicle  in round 7
+Alfajer killed Sacy  in round 7
+dephh killed Derke  in round 7
+Leo  killed pANcada  in round 7
+Alfajer killed dephh  in round 7
+Round 7 ended with elimination. The winning team is FNATIC.
+The current score is Sentinels 4 - 3 FNATIC.
+Derke killed dephh  in round 8
+Derke killed pANcada  in round 8
+Chronicle killed zekken  in round 8
+Sacy killed Leo   in round 8
+dephh killed Chronicle  in round 8
+Boaster killed Sacy  in round 8
+Alfajer killed dephh  in round 8
+TenZ killed Boaster  in round 8
+TenZ killed Alfajer  in round 8
+TenZ killed Derke  in round 8
+Round 8 ended with elimination. The winning team is Sentinels.
+The current score is Sentinels 5 - 3 FNATIC.
+zekken killed Chronicle  in round 9
+Derke killed zekken  in round 9
+Sacy killed Derke  in round 9
+Round 9 ended with detonate. The winning team is Sentinels.
+The current score is Sentinels 6 - 3 FNATIC.
+Sacy killed Chronicle  in round 10
+TenZ killed Leo   in round 10
+Alfajer killed zekken  in round 10
+Alfajer killed TenZ  in round 10
+Boaster killed Sacy  in round 10
+Alfajer killed pANcada  in round 10
+Alfajer killed dephh  in round 10
+Round 10 ended with elimination. The winning team is FNATIC.
+The current score is Sentinels 6 - 4 FNATIC.
+Derke killed pANcada  in round 11
+Chronicle killed Sacy  in round 11
+zekken killed Chronicle  in round 11
+Derke killed TenZ  in round 11
+Boaster killed zekken  in round 11
+zekken killed Boaster  in round 11
+Derke killed pANcada  in round 11
+Round 11 ended with time_expired. The winning team is FNATIC.
+The current score is Sentinels 6 - 5 FNATIC.
+Boaster killed zekken  in round 12
+Boaster killed dephh  in round 12
+Derke killed Sacy  in round 12
+pANcada killed Derke  in round 12
+Alfajer killed TenZ  in round 12
+pANcada killed Boaster  in round 12
+pANcada killed Chronicle  in round 12
+pANcada killed Alfajer  in round 12
+Leo  killed pANcada  in round 12
+Round 12 ended with spike_defuse. The winning team is FNATIC.
+The current score is Sentinels 6 - 6 FNATIC.
+TenZ killed Derke  in round 13
+Alfajer killed TenZ  in round 13
+Alfajer killed dephh  in round 13
+pANcada killed Boaster  in round 13
+Chronicle killed pANcada  in round 13
+Chronicle killed zekken  in round 13
+Alfajer killed Sacy  in round 13
+Round 13 ended with elimination. The winning team is FNATIC.
+The current score is Sentinels 6 - 7 FNATIC.
+Boaster killed Sacy  in round 14
+Derke killed zekken  in round 14
+Alfajer killed TenZ  in round 14
+pANcada killed Alfajer  in round 14
+Derke killed dephh  in round 14
+Derke killed pANcada  in round 14
+Round 14 ended with elimination. The winning team is FNATIC.
+The current score is Sentinels 6 - 8 FNATIC.
+Derke killed Sacy  in round 15
+Alfajer killed zekken  in round 15
+Derke killed TenZ  in round 15
+Round 15 ended with detonate. The winning team is FNATIC.
+The current score is Sentinels 6 - 9 FNATIC.
+Alfajer killed Sacy  in round 16
+Derke killed zekken  in round 16
+TenZ killed Alfajer  in round 16
+Derke killed TenZ  in round 16
+Round 16 ended with detonate. The winning team is FNATIC.
+The current score is Sentinels 6 - 10 FNATIC.
+Sacy killed Boaster  in round 17
+TenZ killed Alfajer  in round 17
+Derke killed TenZ  in round 17
+Sacy killed Leo   in round 17
+Derke killed Sacy  in round 17
+Chronicle killed pANcada  in round 17
+dephh killed Derke  in round 17
+Chronicle killed zekken  in round 17
+Chronicle killed dephh  in round 17
+Round 17 ended with elimination. The winning team is FNATIC.
+The current score is Sentinels 6 - 11 FNATIC.
+pANcada killed Derke  in round 18
+pANcada killed Alfajer  in round 18
+pANcada killed Chronicle  in round 18
+TenZ killed Leo   in round 18
+dephh killed Boaster  in round 18
+Round 18 ended with elimination. The winning team is Sentinels.
+The current score is Sentinels 7 - 11 FNATIC.
+Boaster killed zekken  in round 19
+Boaster killed TenZ  in round 19
+Derke killed dephh  in round 19
+Sacy killed Chronicle  in round 19
+Alfajer killed Sacy  in round 19
+pANcada killed Alfajer  in round 19
+pANcada killed Derke  in round 19
+Round 19 ended with detonate. The winning team is FNATIC.
+The current score is Sentinels 7 - 12 FNATIC.
+dephh killed Boaster  in round 20
+pANcada killed Chronicle  in round 20
+Chronicle killed pANcada  in round 20
+Leo  killed dephh  in round 20
+Leo  killed TenZ  in round 20
+zekken killed Boaster  in round 20
+zekken killed Derke  in round 20
+Sacy killed Alfajer  in round 20
+Leo  killed Sacy  in round 20
+Leo  killed zekken  in round 20
+Round 20 ended with elimination. The winning team is FNATIC.
+The current score is Sentinels 7 - 13 FNATIC.
+Game ended with winning team: FNATIC at 2023-02-24T18:48:01Z
+
+--- Player Stats ---
+Chronicle: Team=FNATIC, Kills=14, Deaths=14, Assists=1, KDA=1.07, First Kills=1, First Deaths=2
+Derke: Team=FNATIC, Kills=23, Deaths=12, Assists=0, KDA=1.92, First Kills=6, First Deaths=3
+Boaster: Team=FNATIC, Kills=8, Deaths=12, Assists=7, KDA=1.25, First Kills=3, First Deaths=3
+Alfajer: Team=FNATIC, Kills=17, Deaths=11, Assists=3, KDA=1.82, First Kills=1, First Deaths=1
+Leo : Team=FNATIC, Kills=9, Deaths=7, Assists=4, KDA=1.86, First Kills=0, First Deaths=0
+TenZ: Team=Sentinels, Kills=12, Deaths=14, Assists=5, KDA=1.21, First Kills=3, First Deaths=1
+Sacy: Team=Sentinels, Kills=11, Deaths=15, Assists=3, KDA=0.93, First Kills=2, First Deaths=4
+dephh: Team=Sentinels, Kills=9, Deaths=13, Assists=1, KDA=0.77, First Kills=1, First Deaths=2
+zekken: Team=Sentinels, Kills=7, Deaths=16, Assists=2, KDA=0.56, First Kills=2, First Deaths=3
+pANcada: Team=Sentinels, Kills=17, Deaths=13, Assists=2, KDA=1.46, First Kills=1, First Deaths=1

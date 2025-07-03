@@ -1,0 +1,223 @@
+Team 1: Team Liquid
+Team 2: Team Vitality
+Participating Players:
+Player 1: Destrian
+Player 2: Twisten
+Player 3: BONECOLD
+Player 4: MOLSI
+Player 5: ceNder
+Player 6: Jamppi
+Player 7: Sayf
+Player 8: Redgar
+Player 9: nAts
+Player 10: soulcas
+Winning Team: Team Vitality
+Score: Team Liquid 6 - 13 Team Vitality
+Tournament Name: vct emea 2023
+Game Start Time: 2023-05-23T17:09:09Z
+Game End Time: 2023-05-23T18:05:07Z
+Rounds ended by ELIMINATION count: 13
+Rounds ended by DEFUSE count: 6
+Rounds ended by DETONATE count: 0
+SPIKE PLANTED count: 6
+platformGameId: val:a16708f6-199f-4303-ab9e-18424779bf57
+
+--- Events ---
+Game started at 2023-05-23T17:09:09Z
+Jamppi killed Destrian  in round 1
+soulcas killed MOLSI  in round 1
+soulcas killed ceNder  in round 1
+nAts killed Twisten  in round 1
+BONECOLD killed soulcas  in round 1
+Sayf killed BONECOLD  in round 1
+Round 1 ended with elimination. The winning team is Team Liquid.
+The current score is Team Liquid 1 - 0 Team Vitality.
+Destrian killed nAts  in round 2
+Twisten killed Sayf  in round 2
+ceNder killed soulcas  in round 2
+Jamppi killed MOLSI  in round 2
+BONECOLD killed Jamppi  in round 2
+BONECOLD killed Redgar  in round 2
+Round 2 ended with spike_defuse. The winning team is Team Vitality.
+The current score is Team Liquid 1 - 1 Team Vitality.
+ceNder killed Redgar  in round 3
+BONECOLD killed Sayf  in round 3
+BONECOLD killed soulcas  in round 3
+Twisten killed nAts  in round 3
+Twisten killed Jamppi  in round 3
+Round 3 ended with elimination. The winning team is Team Vitality.
+The current score is Team Liquid 1 - 2 Team Vitality.
+ceNder killed nAts  in round 4
+ceNder killed Jamppi  in round 4
+Twisten killed soulcas  in round 4
+MOLSI killed Sayf  in round 4
+Redgar killed MOLSI  in round 4
+Redgar killed Twisten  in round 4
+BONECOLD killed Redgar  in round 4
+Round 4 ended with spike_defuse. The winning team is Team Vitality.
+The current score is Team Liquid 1 - 3 Team Vitality.
+BONECOLD killed nAts  in round 5
+ceNder killed Redgar  in round 5
+MOLSI killed Sayf  in round 5
+soulcas killed MOLSI  in round 5
+ceNder killed soulcas  in round 5
+Twisten killed Jamppi  in round 5
+Round 5 ended with elimination. The winning team is Team Vitality.
+The current score is Team Liquid 1 - 4 Team Vitality.
+soulcas killed Twisten  in round 6
+BONECOLD killed nAts  in round 6
+Destrian killed Jamppi  in round 6
+BONECOLD killed Redgar  in round 6
+BONECOLD killed soulcas  in round 6
+Sayf killed BONECOLD  in round 6
+Sayf killed Destrian  in round 6
+MOLSI killed Sayf  in round 6
+Round 6 ended with elimination. The winning team is Team Vitality.
+The current score is Team Liquid 1 - 5 Team Vitality.
+Destrian killed Sayf  in round 7
+Twisten killed Redgar  in round 7
+soulcas killed BONECOLD  in round 7
+soulcas killed Twisten  in round 7
+nAts killed Destrian  in round 7
+MOLSI killed Jamppi  in round 7
+MOLSI killed soulcas  in round 7
+nAts killed MOLSI  in round 7
+ceNder killed nAts  in round 7
+Round 7 ended with spike_defuse. The winning team is Team Vitality.
+The current score is Team Liquid 1 - 6 Team Vitality.
+BONECOLD killed Redgar  in round 8
+nAts killed Destrian  in round 8
+Twisten killed Sayf  in round 8
+Twisten killed soulcas  in round 8
+Jamppi killed BONECOLD  in round 8
+Twisten killed nAts  in round 8
+Twisten killed Jamppi  in round 8
+Round 8 ended with elimination. The winning team is Team Vitality.
+The current score is Team Liquid 1 - 7 Team Vitality.
+ceNder killed nAts  in round 9
+soulcas killed ceNder  in round 9
+Jamppi killed BONECOLD  in round 9
+Sayf killed Twisten  in round 9
+MOLSI killed Jamppi  in round 9
+Destrian killed soulcas  in round 9
+MOLSI killed Redgar  in round 9
+Sayf killed MOLSI  in round 9
+Sayf killed Destrian  in round 9
+Round 9 ended with elimination. The winning team is Team Liquid.
+The current score is Team Liquid 2 - 7 Team Vitality.
+Sayf killed Sayf  in round 10
+Sayf killed Destrian  in round 10
+Redgar killed MOLSI  in round 10
+Twisten killed nAts  in round 10
+Twisten killed soulcas  in round 10
+Jamppi killed Twisten  in round 10
+ceNder killed Redgar  in round 10
+Sayf killed ceNder  in round 10
+BONECOLD killed Jamppi  in round 10
+Sayf killed BONECOLD  in round 10
+Round 10 ended with elimination. The winning team is Team Liquid.
+The current score is Team Liquid 3 - 7 Team Vitality.
+Twisten killed Sayf  in round 11
+Destrian killed soulcas  in round 11
+Destrian killed Redgar  in round 11
+Destrian killed nAts  in round 11
+Jamppi killed Destrian  in round 11
+BONECOLD killed Jamppi  in round 11
+Round 11 ended with elimination. The winning team is Team Vitality.
+The current score is Team Liquid 3 - 8 Team Vitality.
+Sayf killed MOLSI  in round 12
+Twisten killed Sayf  in round 12
+Twisten killed Redgar  in round 12
+Twisten killed soulcas  in round 12
+nAts killed BONECOLD  in round 12
+Twisten killed Jamppi  in round 12
+nAts killed Destrian  in round 12
+Twisten killed nAts  in round 12
+Round 12 ended with elimination. The winning team is Team Vitality.
+The current score is Team Liquid 3 - 9 Team Vitality.
+ceNder killed nAts  in round 13
+Redgar killed MOLSI  in round 13
+Jamppi killed Twisten  in round 13
+BONECOLD killed Redgar  in round 13
+Sayf killed BONECOLD  in round 13
+Sayf killed ceNder  in round 13
+Destrian killed Sayf  in round 13
+Destrian killed soulcas  in round 13
+Jamppi killed Destrian  in round 13
+Round 13 ended with spike_defuse. The winning team is Team Liquid.
+The current score is Team Liquid 4 - 9 Team Vitality.
+nAts killed BONECOLD  in round 14
+Sayf killed MOLSI  in round 14
+soulcas killed Twisten  in round 14
+Destrian killed soulcas  in round 14
+Jamppi killed Destrian  in round 14
+ceNder killed Redgar  in round 14
+ceNder killed Jamppi  in round 14
+nAts killed ceNder  in round 14
+Round 14 ended with spike_defuse. The winning team is Team Liquid.
+The current score is Team Liquid 5 - 9 Team Vitality.
+Jamppi killed MOLSI  in round 15
+soulcas killed Destrian  in round 15
+Twisten killed nAts  in round 15
+Twisten killed soulcas  in round 15
+Sayf killed Twisten  in round 15
+ceNder killed Jamppi  in round 15
+ceNder killed Redgar  in round 15
+ceNder killed Sayf  in round 15
+Round 15 ended with elimination. The winning team is Team Vitality.
+The current score is Team Liquid 5 - 10 Team Vitality.
+Destrian killed Redgar  in round 16
+Destrian killed nAts  in round 16
+Sayf killed BONECOLD  in round 16
+Twisten killed Sayf  in round 16
+Twisten killed soulcas  in round 16
+Jamppi killed Twisten  in round 16
+Destrian killed Jamppi  in round 16
+Round 16 ended with elimination. The winning team is Team Vitality.
+The current score is Team Liquid 5 - 11 Team Vitality.
+ceNder killed soulcas  in round 17
+Sayf killed ceNder  in round 17
+MOLSI killed Jamppi  in round 17
+Redgar killed MOLSI  in round 17
+nAts killed Twisten  in round 17
+nAts killed BONECOLD  in round 17
+Destrian killed nAts  in round 17
+Destrian killed Sayf  in round 17
+Destrian killed Redgar  in round 17
+Round 17 ended with elimination. The winning team is Team Vitality.
+The current score is Team Liquid 5 - 12 Team Vitality.
+Sayf killed ceNder  in round 18
+Twisten killed soulcas  in round 18
+Sayf killed BONECOLD  in round 18
+Sayf killed Twisten  in round 18
+MOLSI killed nAts  in round 18
+Destrian killed Sayf  in round 18
+Jamppi killed MOLSI  in round 18
+Destrian killed Jamppi  in round 18
+Redgar killed Destrian  in round 18
+Round 18 ended with spike_defuse. The winning team is Team Liquid.
+The current score is Team Liquid 6 - 12 Team Vitality.
+Redgar killed Destrian  in round 19
+Sayf killed BONECOLD  in round 19
+Jamppi killed Twisten  in round 19
+ceNder killed Jamppi  in round 19
+MOLSI killed Redgar  in round 19
+MOLSI killed Sayf  in round 19
+ceNder killed soulcas  in round 19
+nAts killed ceNder  in round 19
+MOLSI killed nAts  in round 19
+Round 19 ended with elimination. The winning team is Team Vitality.
+The current score is Team Liquid 6 - 13 Team Vitality.
+Game ended with winning team: Team Vitality at 2023-05-23T18:05:07Z
+
+--- Player Stats ---
+Destrian: Team=Team Vitality, Kills=18, Deaths=13, Assists=9, KDA=2.08, First Kills=3, First Deaths=2
+Twisten: Team=Team Vitality, Kills=23, Deaths=13, Assists=2, KDA=1.92, First Kills=1, First Deaths=1
+BONECOLD: Team=Team Vitality, Kills=14, Deaths=13, Assists=8, KDA=1.69, First Kills=2, First Deaths=1
+MOLSI: Team=Team Vitality, Kills=12, Deaths=13, Assists=2, KDA=1.08, First Kills=0, First Deaths=2
+ceNder: Team=Team Vitality, Kills=18, Deaths=8, Assists=7, KDA=3.12, First Kills=5, First Deaths=1
+Jamppi: Team=Team Liquid, Kills=13, Deaths=17, Assists=4, KDA=1.0, First Kills=2, First Deaths=0
+Sayf: Team=Team Liquid, Kills=21, Deaths=16, Assists=7, KDA=1.75, First Kills=3, First Deaths=3
+Redgar: Team=Team Liquid, Kills=7, Deaths=17, Assists=7, KDA=0.82, First Kills=1, First Deaths=3
+nAts: Team=Team Liquid, Kills=11, Deaths=17, Assists=5, KDA=0.94, First Kills=1, First Deaths=5
+soulcas: Team=Team Liquid, Kills=9, Deaths=19, Assists=4, KDA=0.68, First Kills=1, First Deaths=1

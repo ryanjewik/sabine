@@ -1,0 +1,220 @@
+Team 1: G2 Esports
+Team 2: Cloud9 Blue
+Participating Players:
+Player 1: moose
+Player 2: vanity
+Player 3: Oxy
+Player 4: runi
+Player 5: xeppaa
+Player 6: icy
+Player 7: Leaf
+Player 8: valyn
+Player 9: trent
+Player 10: JonahP
+Winning Team: G2 Esports
+Score: G2 Esports 13 - 8 Cloud9 Blue
+Tournament Name: vct americas stage 2 2024
+Game Start Time: 2024-06-24T22:59:33Z
+Game End Time: 2024-06-24T23:47:40Z
+Rounds ended by ELIMINATION count: 10
+Rounds ended by DEFUSE count: 8
+Rounds ended by DETONATE count: 2
+SPIKE PLANTED count: 10
+platformGameId: val:02c14a5d-807f-41a9-9992-d36a1e2ef927
+
+--- Events ---
+Game started at 2024-06-24T22:59:33Z
+JonahP killed xeppaa  in round 1
+trent killed moose  in round 1
+Oxy killed trent  in round 1
+icy killed vanity  in round 1
+Oxy killed valyn  in round 1
+Leaf killed runi  in round 1
+Oxy killed Leaf  in round 1
+icy killed Oxy  in round 1
+Round 1 ended with elimination. The winning team is G2 Esports.
+The current score is G2 Esports 1 - 0 Cloud9 Blue.
+Oxy killed Leaf  in round 2
+trent killed vanity  in round 2
+Round 2 ended with detonate. The winning team is G2 Esports.
+The current score is G2 Esports 2 - 0 Cloud9 Blue.
+Oxy killed Oxy  in round 3
+runi killed runi  in round 3
+xeppaa killed xeppaa  in round 3
+moose killed moose  in round 3
+valyn killed xeppaa  in round 3
+Oxy killed valyn  in round 3
+trent killed Oxy  in round 3
+runi killed Leaf  in round 3
+runi killed icy  in round 3
+JonahP killed vanity  in round 3
+JonahP killed moose  in round 3
+Round 3 ended with detonate. The winning team is G2 Esports.
+The current score is G2 Esports 3 - 0 Cloud9 Blue.
+JonahP killed runi  in round 4
+xeppaa killed JonahP  in round 4
+vanity killed Leaf  in round 4
+trent killed vanity  in round 4
+moose killed icy  in round 4
+Oxy killed trent  in round 4
+moose killed valyn  in round 4
+Round 4 ended with elimination. The winning team is Cloud9 Blue.
+The current score is G2 Esports 3 - 1 Cloud9 Blue.
+valyn killed xeppaa  in round 5
+Oxy killed trent  in round 5
+Oxy killed icy  in round 5
+vanity killed valyn  in round 5
+moose killed JonahP  in round 5
+vanity killed Leaf  in round 5
+Round 5 ended with elimination. The winning team is Cloud9 Blue.
+The current score is G2 Esports 3 - 2 Cloud9 Blue.
+runi killed valyn  in round 6
+Oxy killed icy  in round 6
+Oxy killed JonahP  in round 6
+moose killed Leaf  in round 6
+Oxy killed trent  in round 6
+Round 6 ended with elimination. The winning team is Cloud9 Blue.
+The current score is G2 Esports 3 - 3 Cloud9 Blue.
+Oxy killed JonahP  in round 7
+trent killed Oxy  in round 7
+vanity killed icy  in round 7
+trent killed vanity  in round 7
+xeppaa killed trent  in round 7
+valyn killed xeppaa  in round 7
+moose killed Leaf  in round 7
+moose killed valyn  in round 7
+Round 7 ended with spike_defuse. The winning team is Cloud9 Blue.
+The current score is G2 Esports 3 - 4 Cloud9 Blue.
+vanity killed trent  in round 8
+icy killed vanity  in round 8
+runi killed valyn  in round 8
+JonahP killed xeppaa  in round 8
+Oxy killed JonahP  in round 8
+Leaf killed moose  in round 8
+icy killed runi  in round 8
+Oxy killed Leaf  in round 8
+Oxy killed icy  in round 8
+Round 8 ended with spike_defuse. The winning team is Cloud9 Blue.
+The current score is G2 Esports 3 - 5 Cloud9 Blue.
+valyn killed Oxy  in round 9
+runi killed valyn  in round 9
+vanity killed Leaf  in round 9
+vanity killed JonahP  in round 9
+vanity killed trent  in round 9
+vanity killed icy  in round 9
+Round 9 ended with elimination. The winning team is Cloud9 Blue.
+The current score is G2 Esports 3 - 6 Cloud9 Blue.
+vanity killed Leaf  in round 10
+Oxy killed JonahP  in round 10
+trent killed vanity  in round 10
+valyn killed moose  in round 10
+xeppaa killed valyn  in round 10
+icy killed Oxy  in round 10
+xeppaa killed trent  in round 10
+xeppaa killed icy  in round 10
+Round 10 ended with elimination. The winning team is Cloud9 Blue.
+The current score is G2 Esports 3 - 7 Cloud9 Blue.
+icy killed xeppaa  in round 11
+valyn killed vanity  in round 11
+Leaf killed Oxy  in round 11
+Leaf killed xeppaa  in round 11
+runi killed Leaf  in round 11
+JonahP killed runi  in round 11
+trent killed moose  in round 11
+Round 11 ended with elimination. The winning team is G2 Esports.
+The current score is G2 Esports 4 - 7 Cloud9 Blue.
+vanity killed Leaf  in round 12
+Oxy killed icy  in round 12
+valyn killed Oxy  in round 12
+vanity killed trent  in round 12
+vanity killed valyn  in round 12
+vanity killed JonahP  in round 12
+Round 12 ended with spike_defuse. The winning team is Cloud9 Blue.
+The current score is G2 Esports 4 - 8 Cloud9 Blue.
+trent killed vanity  in round 13
+Leaf killed Oxy  in round 13
+JonahP killed xeppaa  in round 13
+JonahP killed runi  in round 13
+Leaf killed moose  in round 13
+Round 13 ended with elimination. The winning team is G2 Esports.
+The current score is G2 Esports 5 - 8 Cloud9 Blue.
+valyn killed Oxy  in round 14
+Leaf killed runi  in round 14
+icy killed moose  in round 14
+icy killed vanity  in round 14
+Leaf killed xeppaa  in round 14
+Round 14 ended with spike_defuse. The winning team is G2 Esports.
+The current score is G2 Esports 6 - 8 Cloud9 Blue.
+valyn killed moose  in round 15
+trent killed runi  in round 15
+JonahP killed vanity  in round 15
+JonahP killed Oxy  in round 15
+icy killed xeppaa  in round 15
+Round 15 ended with elimination. The winning team is G2 Esports.
+The current score is G2 Esports 7 - 8 Cloud9 Blue.
+JonahP killed xeppaa  in round 16
+valyn killed Oxy  in round 16
+icy killed runi  in round 16
+vanity killed valyn  in round 16
+icy killed vanity  in round 16
+moose killed JonahP  in round 16
+icy killed moose  in round 16
+Round 16 ended with spike_defuse. The winning team is G2 Esports.
+The current score is G2 Esports 8 - 8 Cloud9 Blue.
+icy killed Oxy  in round 17
+Leaf killed moose  in round 17
+JonahP killed xeppaa  in round 17
+Round 17 ended with time_expired. The winning team is G2 Esports.
+The current score is G2 Esports 9 - 8 Cloud9 Blue.
+Leaf killed xeppaa  in round 18
+Leaf killed moose  in round 18
+Leaf killed runi  in round 18
+trent killed Oxy  in round 18
+vanity killed icy  in round 18
+valyn killed vanity  in round 18
+Round 18 ended with elimination. The winning team is G2 Esports.
+The current score is G2 Esports 10 - 8 Cloud9 Blue.
+Oxy killed valyn  in round 19
+vanity killed trent  in round 19
+vanity killed icy  in round 19
+Leaf killed vanity  in round 19
+JonahP killed moose  in round 19
+Leaf killed Oxy  in round 19
+Leaf killed xeppaa  in round 19
+JonahP killed runi  in round 19
+Round 19 ended with spike_defuse. The winning team is G2 Esports.
+The current score is G2 Esports 11 - 8 Cloud9 Blue.
+trent killed moose  in round 20
+Leaf killed Oxy  in round 20
+runi killed icy  in round 20
+runi killed valyn  in round 20
+vanity killed JonahP  in round 20
+trent killed xeppaa  in round 20
+trent killed runi  in round 20
+Leaf killed vanity  in round 20
+Round 20 ended with spike_defuse. The winning team is G2 Esports.
+The current score is G2 Esports 12 - 8 Cloud9 Blue.
+xeppaa killed valyn  in round 21
+JonahP killed Oxy  in round 21
+icy killed xeppaa  in round 21
+vanity killed icy  in round 21
+vanity killed JonahP  in round 21
+trent killed moose  in round 21
+runi killed trent  in round 21
+Leaf killed runi  in round 21
+Leaf killed vanity  in round 21
+Round 21 ended with spike_defuse. The winning team is G2 Esports.
+The current score is G2 Esports 13 - 8 Cloud9 Blue.
+Game ended with winning team: G2 Esports at 2024-06-24T23:47:40Z
+
+--- Player Stats ---
+moose: Team=Cloud9 Blue, Kills=8, Deaths=15, Assists=1, KDA=0.6, First Kills=0, First Deaths=2
+vanity: Team=Cloud9 Blue, Kills=21, Deaths=16, Assists=7, KDA=1.75, First Kills=3, First Deaths=1
+Oxy: Team=Cloud9 Blue, Kills=19, Deaths=17, Assists=7, KDA=1.53, First Kills=4, First Deaths=4
+runi: Team=Cloud9 Blue, Kills=10, Deaths=13, Assists=8, KDA=1.38, First Kills=1, First Deaths=1
+xeppaa: Team=Cloud9 Blue, Kills=7, Deaths=17, Assists=5, KDA=0.71, First Kills=1, First Deaths=5
+icy: Team=G2 Esports, Kills=14, Deaths=13, Assists=5, KDA=1.46, First Kills=2, First Deaths=0
+Leaf: Team=G2 Esports, Kills=19, Deaths=12, Assists=8, KDA=2.25, First Kills=1, First Deaths=3
+valyn: Team=G2 Esports, Kills=11, Deaths=14, Assists=8, KDA=1.36, First Kills=4, First Deaths=3
+trent: Team=G2 Esports, Kills=15, Deaths=11, Assists=6, KDA=1.91, First Kills=2, First Deaths=1
+JonahP: Team=G2 Esports, Kills=15, Deaths=11, Assists=4, KDA=1.73, First Kills=3, First Deaths=1

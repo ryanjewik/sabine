@@ -1,0 +1,242 @@
+Team 1: BBL Esports
+Team 2: FNATIC
+Participating Players:
+Player 1: Chronicle
+Player 2: Derke
+Player 3: Boaster
+Player 4: kamyk
+Player 5: Leo 
+Player 6: Brave
+Player 7: QutionerX
+Player 8: SouhcNi
+Player 9: Turko
+Player 10: AsLanMshadW
+Winning Team: FNATIC
+Score: BBL Esports 9 - 13 FNATIC
+Tournament Name: vct emea 2023
+Game Start Time: 2023-03-31T17:02:28Z
+Game End Time: 2023-03-31T17:56:19Z
+Rounds ended by ELIMINATION count: 15
+Rounds ended by DEFUSE count: 6
+Rounds ended by DETONATE count: 1
+SPIKE PLANTED count: 7
+platformGameId: val:9d24ad57-6f9a-41ac-bc30-03b69373f536
+
+--- Events ---
+Game started at 2023-03-31T17:02:28Z
+kamyk killed AsLanMshadW  in round 1
+kamyk killed Turko  in round 1
+Leo  killed QutionerX  in round 1
+Chronicle killed SouhcNi  in round 1
+Brave killed Leo   in round 1
+Derke killed Brave  in round 1
+Round 1 ended with elimination. The winning team is FNATIC.
+The current score is BBL Esports 0 - 1 FNATIC.
+Chronicle killed QutionerX  in round 2
+Derke killed Turko  in round 2
+Derke killed Brave  in round 2
+Leo  killed AsLanMshadW  in round 2
+SouhcNi killed kamyk  in round 2
+Boaster killed SouhcNi  in round 2
+Round 2 ended with elimination. The winning team is FNATIC.
+The current score is BBL Esports 0 - 2 FNATIC.
+QutionerX killed kamyk  in round 3
+QutionerX killed Derke  in round 3
+Chronicle killed QutionerX  in round 3
+AsLanMshadW killed Chronicle  in round 3
+SouhcNi killed Boaster  in round 3
+AsLanMshadW killed Leo   in round 3
+Round 3 ended with elimination. The winning team is BBL Esports.
+The current score is BBL Esports 1 - 2 FNATIC.
+kamyk killed QutionerX  in round 4
+Brave killed kamyk  in round 4
+Leo  killed SouhcNi  in round 4
+Turko killed Chronicle  in round 4
+Derke killed AsLanMshadW  in round 4
+Turko killed Leo   in round 4
+Boaster killed Brave  in round 4
+Derke killed Turko  in round 4
+Round 4 ended with spike_defuse. The winning team is FNATIC.
+The current score is BBL Esports 1 - 3 FNATIC.
+Derke killed SouhcNi  in round 5
+Derke killed QutionerX  in round 5
+Brave killed Derke  in round 5
+Brave killed Chronicle  in round 5
+Leo  killed Brave  in round 5
+Turko killed Leo   in round 5
+Boaster killed AsLanMshadW  in round 5
+kamyk killed Turko  in round 5
+Round 5 ended with elimination. The winning team is FNATIC.
+The current score is BBL Esports 1 - 4 FNATIC.
+Brave killed kamyk  in round 6
+Derke killed AsLanMshadW  in round 6
+QutionerX killed Derke  in round 6
+Boaster killed SouhcNi  in round 6
+QutionerX killed Boaster  in round 6
+Leo  killed Turko  in round 6
+Leo  killed QutionerX  in round 6
+Chronicle killed Brave  in round 6
+Round 6 ended with spike_defuse. The winning team is FNATIC.
+The current score is BBL Esports 1 - 5 FNATIC.
+QutionerX killed Leo   in round 7
+SouhcNi killed Derke  in round 7
+AsLanMshadW killed Chronicle  in round 7
+QutionerX killed Boaster  in round 7
+Round 7 ended with detonate. The winning team is BBL Esports.
+The current score is BBL Esports 2 - 5 FNATIC.
+Derke killed QutionerX  in round 8
+Turko killed Derke  in round 8
+Leo  killed Turko  in round 8
+Chronicle killed Brave  in round 8
+AsLanMshadW killed Chronicle  in round 8
+kamyk killed SouhcNi  in round 8
+AsLanMshadW killed Leo   in round 8
+AsLanMshadW killed Boaster  in round 8
+AsLanMshadW killed kamyk  in round 8
+Round 8 ended with elimination. The winning team is BBL Esports.
+The current score is BBL Esports 3 - 5 FNATIC.
+QutionerX killed Boaster  in round 9
+kamyk killed QutionerX  in round 9
+kamyk killed Brave  in round 9
+Turko killed kamyk  in round 9
+Chronicle killed SouhcNi  in round 9
+Chronicle killed Turko  in round 9
+AsLanMshadW killed Chronicle  in round 9
+Derke killed AsLanMshadW  in round 9
+Round 9 ended with elimination. The winning team is FNATIC.
+The current score is BBL Esports 3 - 6 FNATIC.
+QutionerX killed kamyk  in round 10
+AsLanMshadW killed Derke  in round 10
+Boaster killed QutionerX  in round 10
+Turko killed Leo   in round 10
+Turko killed Boaster  in round 10
+Chronicle killed SouhcNi  in round 10
+Brave killed Chronicle  in round 10
+Round 10 ended with elimination. The winning team is BBL Esports.
+The current score is BBL Esports 4 - 6 FNATIC.
+kamyk killed Brave  in round 11
+QutionerX killed Leo   in round 11
+Turko killed Derke  in round 11
+kamyk killed Turko  in round 11
+kamyk killed AsLanMshadW  in round 11
+QutionerX killed kamyk  in round 11
+Boaster killed SouhcNi  in round 11
+QutionerX killed Chronicle  in round 11
+Boaster killed QutionerX  in round 11
+Round 11 ended with spike_defuse. The winning team is FNATIC.
+The current score is BBL Esports 4 - 7 FNATIC.
+Derke killed SouhcNi  in round 12
+Derke killed Turko  in round 12
+Derke killed AsLanMshadW  in round 12
+QutionerX killed Derke  in round 12
+Leo  killed Brave  in round 12
+Chronicle killed QutionerX  in round 12
+Round 12 ended with elimination. The winning team is FNATIC.
+The current score is BBL Esports 4 - 8 FNATIC.
+Boaster killed Brave  in round 13
+SouhcNi killed Derke  in round 13
+QutionerX killed Boaster  in round 13
+Chronicle killed QutionerX  in round 13
+Turko killed Chronicle  in round 13
+Leo  killed Turko  in round 13
+AsLanMshadW killed kamyk  in round 13
+SouhcNi killed Leo   in round 13
+Round 13 ended with spike_defuse. The winning team is BBL Esports.
+The current score is BBL Esports 5 - 8 FNATIC.
+QutionerX killed Derke  in round 14
+QutionerX killed kamyk  in round 14
+Leo  killed QutionerX  in round 14
+Boaster killed AsLanMshadW  in round 14
+Brave killed Leo   in round 14
+Brave killed Boaster  in round 14
+Brave killed Chronicle  in round 14
+Round 14 ended with elimination. The winning team is BBL Esports.
+The current score is BBL Esports 6 - 8 FNATIC.
+kamyk killed QutionerX  in round 15
+Brave killed Boaster  in round 15
+Derke killed Brave  in round 15
+Leo  killed SouhcNi  in round 15
+Leo  killed Turko  in round 15
+Derke killed AsLanMshadW  in round 15
+Round 15 ended with elimination. The winning team is FNATIC.
+The current score is BBL Esports 6 - 9 FNATIC.
+kamyk killed Brave  in round 16
+Chronicle killed AsLanMshadW  in round 16
+QutionerX killed Boaster  in round 16
+SouhcNi killed Leo   in round 16
+Turko killed Derke  in round 16
+Chronicle killed QutionerX  in round 16
+kamyk killed Turko  in round 16
+kamyk killed SouhcNi  in round 16
+Round 16 ended with elimination. The winning team is FNATIC.
+The current score is BBL Esports 6 - 10 FNATIC.
+SouhcNi killed Leo   in round 17
+Derke killed QutionerX  in round 17
+Brave killed Boaster  in round 17
+kamyk killed Brave  in round 17
+SouhcNi killed Derke  in round 17
+kamyk killed SouhcNi  in round 17
+AsLanMshadW killed Chronicle  in round 17
+AsLanMshadW killed kamyk  in round 17
+Round 17 ended with elimination. The winning team is BBL Esports.
+The current score is BBL Esports 7 - 10 FNATIC.
+Derke killed QutionerX  in round 18
+SouhcNi killed Derke  in round 18
+Boaster killed SouhcNi  in round 18
+kamyk killed Brave  in round 18
+Boaster killed AsLanMshadW  in round 18
+Chronicle killed Turko  in round 18
+Round 18 ended with elimination. The winning team is FNATIC.
+The current score is BBL Esports 7 - 11 FNATIC.
+AsLanMshadW killed Derke  in round 19
+kamyk killed AsLanMshadW  in round 19
+QutionerX killed Leo   in round 19
+Brave killed kamyk  in round 19
+Chronicle killed Brave  in round 19
+Turko killed Boaster  in round 19
+QutionerX killed Chronicle  in round 19
+Round 19 ended with spike_defuse. The winning team is BBL Esports.
+The current score is BBL Esports 8 - 11 FNATIC.
+Brave killed Chronicle  in round 20
+AsLanMshadW killed Derke  in round 20
+kamyk killed AsLanMshadW  in round 20
+Brave killed kamyk  in round 20
+Boaster killed Brave  in round 20
+Boaster killed Turko  in round 20
+Boaster killed QutionerX  in round 20
+Leo  killed SouhcNi  in round 20
+Round 20 ended with elimination. The winning team is FNATIC.
+The current score is BBL Esports 8 - 12 FNATIC.
+Derke killed SouhcNi  in round 21
+QutionerX killed Derke  in round 21
+QutionerX killed Chronicle  in round 21
+kamyk killed Brave  in round 21
+Turko killed Leo   in round 21
+kamyk killed Turko  in round 21
+QutionerX killed kamyk  in round 21
+AsLanMshadW killed Boaster  in round 21
+Round 21 ended with spike_defuse. The winning team is BBL Esports.
+The current score is BBL Esports 9 - 12 FNATIC.
+Derke killed SouhcNi  in round 22
+AsLanMshadW killed Chronicle  in round 22
+Boaster killed AsLanMshadW  in round 22
+Turko killed Boaster  in round 22
+Brave killed Derke  in round 22
+Leo  killed QutionerX  in round 22
+Leo  killed Turko  in round 22
+kamyk killed Brave  in round 22
+Round 22 ended with elimination. The winning team is FNATIC.
+The current score is BBL Esports 9 - 13 FNATIC.
+Game ended with winning team: FNATIC at 2023-03-31T17:56:19Z
+
+--- Player Stats ---
+Chronicle: Team=FNATIC, Kills=14, Deaths=15, Assists=16, KDA=2.0, First Kills=1, First Deaths=1
+Derke: Team=FNATIC, Kills=19, Deaths=17, Assists=4, KDA=1.35, First Kills=6, First Deaths=2
+Boaster: Team=FNATIC, Kills=15, Deaths=14, Assists=9, KDA=1.71, First Kills=1, First Deaths=1
+kamyk: Team=FNATIC, Kills=22, Deaths=14, Assists=2, KDA=1.71, First Kills=5, First Deaths=3
+Leo : Team=FNATIC, Kills=15, Deaths=14, Assists=16, KDA=2.21, First Kills=0, First Deaths=2
+Brave: Team=BBL Esports, Kills=15, Deaths=18, Assists=5, KDA=1.11, First Kills=2, First Deaths=3
+QutionerX: Team=BBL Esports, Kills=21, Deaths=19, Assists=2, KDA=1.21, First Kills=5, First Deaths=5
+SouhcNi: Team=BBL Esports, Kills=9, Deaths=17, Assists=6, KDA=0.88, First Kills=1, First Deaths=4
+Turko: Team=BBL Esports, Kills=13, Deaths=16, Assists=5, KDA=1.12, First Kills=0, First Deaths=0
+AsLanMshadW: Team=BBL Esports, Kills=16, Deaths=15, Assists=3, KDA=1.27, First Kills=1, First Deaths=1

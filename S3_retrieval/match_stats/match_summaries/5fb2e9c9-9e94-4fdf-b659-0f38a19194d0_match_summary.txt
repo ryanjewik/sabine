@@ -1,0 +1,255 @@
+Team 1: Evil Geniuses
+Team 2: Sentinels
+Participating Players:
+Player 1: TenZ
+Player 2: zekken
+Player 3: johnqt
+Player 4: Zellsis
+Player 5: Sacy
+Player 6: JAWGEMO
+Player 7: Derrek
+Player 8: NaturE
+Player 9: Apoth
+Player 10: supamen
+Winning Team: Sentinels
+Score: Evil Geniuses 10 - 13 Sentinels
+Tournament Name: vct americas stage 1 2024
+Game Start Time: 2024-04-23T20:50:23Z
+Game End Time: 2024-04-23T22:01:46Z
+Rounds ended by ELIMINATION count: 16
+Rounds ended by DEFUSE count: 4
+Rounds ended by DETONATE count: 3
+SPIKE PLANTED count: 7
+platformGameId: val:5fb2e9c9-9e94-4fdf-b659-0f38a19194d0
+
+--- Events ---
+Game started at 2024-04-23T20:50:23Z
+zekken killed NaturE  in round 1
+Apoth killed Zellsis  in round 1
+johnqt killed Derrek  in round 1
+supamen killed TenZ  in round 1
+johnqt killed supamen  in round 1
+JAWGEMO killed johnqt  in round 1
+JAWGEMO killed zekken  in round 1
+Sacy killed JAWGEMO  in round 1
+Apoth killed Sacy  in round 1
+Round 1 ended with elimination. The winning team is Evil Geniuses.
+The current score is Evil Geniuses 1 - 0 Sentinels.
+Zellsis killed NaturE  in round 2
+JAWGEMO killed zekken  in round 2
+supamen killed johnqt  in round 2
+Derrek killed Zellsis  in round 2
+JAWGEMO killed TenZ  in round 2
+JAWGEMO killed Sacy  in round 2
+Round 2 ended with elimination. The winning team is Evil Geniuses.
+The current score is Evil Geniuses 2 - 0 Sentinels.
+Derrek killed Zellsis  in round 3
+JAWGEMO killed johnqt  in round 3
+JAWGEMO killed Sacy  in round 3
+zekken killed supamen  in round 3
+JAWGEMO killed zekken  in round 3
+Apoth killed TenZ  in round 3
+Round 3 ended with elimination. The winning team is Evil Geniuses.
+The current score is Evil Geniuses 3 - 0 Sentinels.
+JAWGEMO killed johnqt  in round 4
+Derrek killed zekken  in round 4
+JAWGEMO killed Sacy  in round 4
+Apoth killed TenZ  in round 4
+NaturE killed Zellsis  in round 4
+Round 4 ended with elimination. The winning team is Evil Geniuses.
+The current score is Evil Geniuses 4 - 0 Sentinels.
+JAWGEMO killed Sacy  in round 5
+Apoth killed johnqt  in round 5
+JAWGEMO killed Zellsis  in round 5
+zekken killed supamen  in round 5
+Derrek killed zekken  in round 5
+TenZ killed Derrek  in round 5
+TenZ killed Apoth  in round 5
+TenZ killed JAWGEMO  in round 5
+NaturE killed TenZ  in round 5
+Round 5 ended with elimination. The winning team is Evil Geniuses.
+The current score is Evil Geniuses 5 - 0 Sentinels.
+zekken killed NaturE  in round 6
+JAWGEMO killed Zellsis  in round 6
+JAWGEMO killed TenZ  in round 6
+JAWGEMO killed Sacy  in round 6
+supamen killed johnqt  in round 6
+zekken killed supamen  in round 6
+Apoth killed zekken  in round 6
+Round 6 ended with elimination. The winning team is Evil Geniuses.
+The current score is Evil Geniuses 6 - 0 Sentinels.
+zekken killed NaturE  in round 7
+Apoth killed zekken  in round 7
+Apoth killed johnqt  in round 7
+Apoth killed TenZ  in round 7
+Apoth killed Sacy  in round 7
+Zellsis killed JAWGEMO  in round 7
+Round 7 ended with detonate. The winning team is Evil Geniuses.
+The current score is Evil Geniuses 7 - 0 Sentinels.
+Zellsis killed Apoth  in round 8
+Derrek killed Zellsis  in round 8
+supamen killed Zellsis  in round 8
+johnqt killed JAWGEMO  in round 8
+supamen killed johnqt  in round 8
+TenZ killed supamen  in round 8
+TenZ killed Derrek  in round 8
+NaturE killed zekken  in round 8
+Sacy killed NaturE  in round 8
+Apoth killed Sacy  in round 8
+TenZ killed Apoth  in round 8
+Round 8 ended with spike_defuse. The winning team is Sentinels.
+The current score is Evil Geniuses 7 - 1 Sentinels.
+JAWGEMO killed zekken  in round 9
+JAWGEMO killed Sacy  in round 9
+JAWGEMO killed TenZ  in round 9
+Zellsis killed supamen  in round 9
+Zellsis killed Apoth  in round 9
+Zellsis killed JAWGEMO  in round 9
+johnqt killed NaturE  in round 9
+johnqt killed Derrek  in round 9
+Round 9 ended with spike_defuse. The winning team is Sentinels.
+The current score is Evil Geniuses 7 - 2 Sentinels.
+TenZ killed Derrek  in round 10
+JAWGEMO killed Sacy  in round 10
+NaturE killed johnqt  in round 10
+TenZ killed Apoth  in round 10
+zekken killed NaturE  in round 10
+JAWGEMO killed TenZ  in round 10
+JAWGEMO killed Zellsis  in round 10
+zekken killed JAWGEMO  in round 10
+supamen killed zekken  in round 10
+Round 10 ended with elimination. The winning team is Evil Geniuses.
+The current score is Evil Geniuses 8 - 2 Sentinels.
+JAWGEMO killed Zellsis  in round 11
+JAWGEMO killed johnqt  in round 11
+TenZ killed NaturE  in round 11
+zekken killed JAWGEMO  in round 11
+zekken killed supamen  in round 11
+TenZ killed Apoth  in round 11
+Derrek killed zekken  in round 11
+Derrek killed TenZ  in round 11
+Round 11 ended with spike_defuse. The winning team is Sentinels.
+The current score is Evil Geniuses 8 - 3 Sentinels.
+Derrek killed Sacy  in round 12
+zekken killed Derrek  in round 12
+supamen killed zekken  in round 12
+Apoth killed TenZ  in round 12
+Apoth killed johnqt  in round 12
+Zellsis killed JAWGEMO  in round 12
+Zellsis killed NaturE  in round 12
+supamen killed Sacy  in round 12
+supamen killed Zellsis  in round 12
+Round 12 ended with elimination. The winning team is Evil Geniuses.
+The current score is Evil Geniuses 9 - 3 Sentinels.
+JAWGEMO killed Zellsis  in round 13
+JAWGEMO killed TenZ  in round 13
+Sacy killed Apoth  in round 13
+zekken killed NaturE  in round 13
+johnqt killed JAWGEMO  in round 13
+Sacy killed supamen  in round 13
+Derrek killed Sacy  in round 13
+zekken killed Derrek  in round 13
+Round 13 ended with elimination. The winning team is Sentinels.
+The current score is Evil Geniuses 9 - 4 Sentinels.
+Zellsis killed JAWGEMO  in round 14
+Zellsis killed Apoth  in round 14
+Zellsis killed Derrek  in round 14
+johnqt killed supamen  in round 14
+NaturE killed johnqt  in round 14
+NaturE killed Zellsis  in round 14
+zekken killed NaturE  in round 14
+Round 14 ended with elimination. The winning team is Sentinels.
+The current score is Evil Geniuses 9 - 5 Sentinels.
+JAWGEMO killed Sacy  in round 15
+TenZ killed NaturE  in round 15
+Zellsis killed Apoth  in round 15
+TenZ killed supamen  in round 15
+JAWGEMO killed TenZ  in round 15
+johnqt killed JAWGEMO  in round 15
+Zellsis killed Derrek  in round 15
+Round 15 ended with elimination. The winning team is Sentinels.
+The current score is Evil Geniuses 9 - 6 Sentinels.
+Zellsis killed JAWGEMO  in round 16
+TenZ killed Derrek  in round 16
+TenZ killed NaturE  in round 16
+supamen killed Sacy  in round 16
+johnqt killed supamen  in round 16
+zekken killed Apoth  in round 16
+Round 16 ended with elimination. The winning team is Sentinels.
+The current score is Evil Geniuses 9 - 7 Sentinels.
+supamen killed zekken  in round 17
+johnqt killed supamen  in round 17
+johnqt killed JAWGEMO  in round 17
+TenZ killed Derrek  in round 17
+Apoth killed Zellsis  in round 17
+Apoth killed TenZ  in round 17
+Round 17 ended with detonate. The winning team is Sentinels.
+The current score is Evil Geniuses 9 - 8 Sentinels.
+zekken killed supamen  in round 18
+Apoth killed Zellsis  in round 18
+johnqt killed Derrek  in round 18
+Sacy killed JAWGEMO  in round 18
+NaturE killed zekken  in round 18
+TenZ killed NaturE  in round 18
+Apoth killed Sacy  in round 18
+johnqt killed Apoth  in round 18
+Round 18 ended with elimination. The winning team is Sentinels.
+The current score is Evil Geniuses 9 - 9 Sentinels.
+zekken killed JAWGEMO  in round 19
+Apoth killed TenZ  in round 19
+Sacy killed supamen  in round 19
+Sacy killed Apoth  in round 19
+Derrek killed Sacy  in round 19
+zekken killed Derrek  in round 19
+johnqt killed NaturE  in round 19
+Round 19 ended with elimination. The winning team is Sentinels.
+The current score is Evil Geniuses 9 - 10 Sentinels.
+zekken killed Apoth  in round 20
+johnqt killed JAWGEMO  in round 20
+TenZ killed Derrek  in round 20
+johnqt killed supamen  in round 20
+NaturE killed Zellsis  in round 20
+Round 20 ended with detonate. The winning team is Sentinels.
+The current score is Evil Geniuses 9 - 11 Sentinels.
+johnqt killed Apoth  in round 21
+zekken killed NaturE  in round 21
+Sacy killed JAWGEMO  in round 21
+zekken killed Derrek  in round 21
+supamen killed TenZ  in round 21
+zekken killed supamen  in round 21
+Round 21 ended with elimination. The winning team is Sentinels.
+The current score is Evil Geniuses 9 - 12 Sentinels.
+Apoth killed zekken  in round 22
+johnqt killed Apoth  in round 22
+NaturE killed johnqt  in round 22
+TenZ killed NaturE  in round 22
+JAWGEMO killed TenZ  in round 22
+supamen killed Zellsis  in round 22
+Sacy killed JAWGEMO  in round 22
+Sacy killed supamen  in round 22
+Derrek killed Sacy  in round 22
+Round 22 ended with spike_defuse. The winning team is Evil Geniuses.
+The current score is Evil Geniuses 10 - 12 Sentinels.
+JAWGEMO killed zekken  in round 23
+TenZ killed JAWGEMO  in round 23
+Derrek killed Sacy  in round 23
+TenZ killed Apoth  in round 23
+Zellsis killed Derrek  in round 23
+supamen killed johnqt  in round 23
+Zellsis killed supamen  in round 23
+TenZ killed NaturE  in round 23
+Round 23 ended with elimination. The winning team is Sentinels.
+The current score is Evil Geniuses 10 - 13 Sentinels.
+Game ended with winning team: Sentinels at 2024-04-23T22:01:46Z
+
+--- Player Stats ---
+TenZ: Team=Sentinels, Kills=21, Deaths=17, Assists=14, KDA=2.06, First Kills=1, First Deaths=0
+zekken: Team=Sentinels, Kills=22, Deaths=16, Assists=3, KDA=1.56, First Kills=6, First Deaths=4
+johnqt: Team=Sentinels, Kills=18, Deaths=14, Assists=11, KDA=2.07, First Kills=1, First Deaths=1
+Zellsis: Team=Sentinels, Kills=16, Deaths=17, Assists=6, KDA=1.29, First Kills=4, First Deaths=3
+Sacy: Team=Sentinels, Kills=10, Deaths=19, Assists=5, KDA=0.79, First Kills=0, First Deaths=3
+JAWGEMO: Team=Evil Geniuses, Kills=29, Deaths=19, Assists=3, KDA=1.68, First Kills=7, First Deaths=3
+Derrek: Team=Evil Geniuses, Kills=12, Deaths=16, Assists=1, KDA=0.81, First Kills=2, First Deaths=1
+NaturE: Team=Evil Geniuses, Kills=9, Deaths=18, Assists=3, KDA=0.67, First Kills=0, First Deaths=4
+Apoth: Team=Evil Geniuses, Kills=19, Deaths=16, Assists=3, KDA=1.38, First Kills=1, First Deaths=3
+supamen: Team=Evil Geniuses, Kills=14, Deaths=18, Assists=6, KDA=1.11, First Kills=1, First Deaths=1

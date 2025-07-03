@@ -1,0 +1,192 @@
+Team 1: Cloud9 Blue
+Team 2: Leviatán Esports
+Participating Players:
+Player 1: Mazino
+Player 2: Shyy
+Player 3: kiNgg
+Player 4: Nozwerr
+Player 5: Tacolilla
+Player 6: Leaf
+Player 7: xeppaa
+Player 8: runi
+Player 9: Zellsis
+Player 10: jakee
+Winning Team: Cloud9 Blue
+Score: Cloud9 Blue 13 - 4 Leviatán Esports
+Tournament Name: vct americas 2023
+Game Start Time: 2023-05-15T20:05:08Z
+Game End Time: 2023-05-15T20:45:05Z
+Rounds ended by ELIMINATION count: 8
+Rounds ended by DEFUSE count: 2
+Rounds ended by DETONATE count: 6
+SPIKE PLANTED count: 8
+platformGameId: val:4f1c6117-019f-4895-ad6b-2f7c4c8105a2
+
+--- Events ---
+Game started at 2023-05-15T20:05:08Z
+Leaf killed Nozwerr  in round 1
+Shyy killed jakee  in round 1
+kiNgg killed Leaf  in round 1
+Zellsis killed Shyy  in round 1
+Tacolilla killed runi  in round 1
+Zellsis killed Tacolilla  in round 1
+Mazino killed xeppaa  in round 1
+Zellsis killed Mazino  in round 1
+Zellsis killed kiNgg  in round 1
+Round 1 ended with elimination. The winning team is Cloud9 Blue.
+The current score is Cloud9 Blue 1 - 0 Leviatán Esports.
+Leaf killed Mazino  in round 2
+Tacolilla killed Leaf  in round 2
+runi killed Tacolilla  in round 2
+xeppaa killed kiNgg  in round 2
+xeppaa killed Nozwerr  in round 2
+Round 2 ended with detonate. The winning team is Cloud9 Blue.
+The current score is Cloud9 Blue 2 - 0 Leviatán Esports.
+xeppaa killed Shyy  in round 3
+Leaf killed Mazino  in round 3
+runi killed Shyy  in round 3
+Tacolilla killed jakee  in round 3
+Leaf killed kiNgg  in round 3
+Round 3 ended with detonate. The winning team is Cloud9 Blue.
+The current score is Cloud9 Blue 3 - 0 Leviatán Esports.
+Nozwerr killed Leaf  in round 4
+Nozwerr killed xeppaa  in round 4
+runi killed Tacolilla  in round 4
+Nozwerr killed runi  in round 4
+Tacolilla killed runi  in round 4
+Leaf killed kiNgg  in round 4
+Leaf killed Tacolilla  in round 4
+Zellsis killed Shyy  in round 4
+xeppaa killed Mazino  in round 4
+Nozwerr killed Zellsis  in round 4
+Leaf killed Nozwerr  in round 4
+Round 4 ended with elimination. The winning team is Cloud9 Blue.
+The current score is Cloud9 Blue 4 - 0 Leviatán Esports.
+xeppaa killed Tacolilla  in round 5
+Nozwerr killed runi  in round 5
+xeppaa killed kiNgg  in round 5
+Shyy killed xeppaa  in round 5
+Leaf killed Nozwerr  in round 5
+Leaf killed Mazino  in round 5
+Round 5 ended with detonate. The winning team is Cloud9 Blue.
+The current score is Cloud9 Blue 5 - 0 Leviatán Esports.
+Leaf killed Mazino  in round 6
+Tacolilla killed Leaf  in round 6
+jakee killed Shyy  in round 6
+Tacolilla killed Zellsis  in round 6
+xeppaa killed kiNgg  in round 6
+jakee killed Tacolilla  in round 6
+Round 6 ended with detonate. The winning team is Cloud9 Blue.
+The current score is Cloud9 Blue 6 - 0 Leviatán Esports.
+Mazino killed xeppaa  in round 7
+Nozwerr killed jakee  in round 7
+kiNgg killed Leaf  in round 7
+Mazino killed runi  in round 7
+Tacolilla killed Zellsis  in round 7
+Round 7 ended with elimination. The winning team is Leviatán Esports.
+The current score is Cloud9 Blue 6 - 1 Leviatán Esports.
+jakee killed Mazino  in round 8
+runi killed Nozwerr  in round 8
+Tacolilla killed jakee  in round 8
+kiNgg killed Zellsis  in round 8
+Leaf killed Shyy  in round 8
+kiNgg killed Leaf  in round 8
+Tacolilla killed runi  in round 8
+xeppaa killed kiNgg  in round 8
+xeppaa killed Tacolilla  in round 8
+Round 8 ended with elimination. The winning team is Cloud9 Blue.
+The current score is Cloud9 Blue 7 - 1 Leviatán Esports.
+runi killed Tacolilla  in round 9
+xeppaa killed Shyy  in round 9
+kiNgg killed runi  in round 9
+Round 9 ended with detonate. The winning team is Cloud9 Blue.
+The current score is Cloud9 Blue 8 - 1 Leviatán Esports.
+Mazino killed xeppaa  in round 10
+jakee killed kiNgg  in round 10
+Zellsis killed Nozwerr  in round 10
+runi killed Tacolilla  in round 10
+jakee killed Mazino  in round 10
+Shyy killed jakee  in round 10
+kiNgg killed Leaf  in round 10
+Shyy killed xeppaa  in round 10
+Shyy killed runi  in round 10
+Shyy killed Zellsis  in round 10
+Round 10 ended with spike_defuse. The winning team is Leviatán Esports.
+The current score is Cloud9 Blue 8 - 2 Leviatán Esports.
+Leaf killed Shyy  in round 11
+Mazino killed Leaf  in round 11
+xeppaa killed Mazino  in round 11
+Nozwerr killed xeppaa  in round 11
+runi killed kiNgg  in round 11
+Nozwerr killed Zellsis  in round 11
+Round 11 ended with detonate. The winning team is Cloud9 Blue.
+The current score is Cloud9 Blue 9 - 2 Leviatán Esports.
+Leaf killed Shyy  in round 12
+jakee killed kiNgg  in round 12
+Leaf killed Mazino  in round 12
+Nozwerr killed runi  in round 12
+xeppaa killed Tacolilla  in round 12
+Nozwerr killed Zellsis  in round 12
+xeppaa killed Nozwerr  in round 12
+Round 12 ended with elimination. The winning team is Cloud9 Blue.
+The current score is Cloud9 Blue 10 - 2 Leviatán Esports.
+kiNgg killed runi  in round 13
+Tacolilla killed Leaf  in round 13
+Tacolilla killed jakee  in round 13
+Tacolilla killed xeppaa  in round 13
+Zellsis killed Mazino  in round 13
+kiNgg killed Zellsis  in round 13
+Round 13 ended with elimination. The winning team is Leviatán Esports.
+The current score is Cloud9 Blue 10 - 3 Leviatán Esports.
+Tacolilla killed Leaf  in round 14
+Mazino killed xeppaa  in round 14
+Zellsis killed Tacolilla  in round 14
+Mazino killed jakee  in round 14
+runi killed Mazino  in round 14
+Nozwerr killed Zellsis  in round 14
+runi killed Nozwerr  in round 14
+Shyy killed runi  in round 14
+Round 14 ended with elimination. The winning team is Leviatán Esports.
+The current score is Cloud9 Blue 10 - 4 Leviatán Esports.
+Leaf killed Tacolilla  in round 15
+runi killed Mazino  in round 15
+jakee killed Shyy  in round 15
+kiNgg killed jakee  in round 15
+kiNgg killed xeppaa  in round 15
+Round 15 ended with time_expired. The winning team is Cloud9 Blue.
+The current score is Cloud9 Blue 11 - 4 Leviatán Esports.
+jakee killed Mazino  in round 16
+Tacolilla killed xeppaa  in round 16
+Nozwerr killed Zellsis  in round 16
+Leaf killed Nozwerr  in round 16
+Shyy killed jakee  in round 16
+runi killed Shyy  in round 16
+runi killed Tacolilla  in round 16
+kiNgg killed runi  in round 16
+Leaf killed kiNgg  in round 16
+Round 16 ended with elimination. The winning team is Cloud9 Blue.
+The current score is Cloud9 Blue 12 - 4 Leviatán Esports.
+jakee killed Tacolilla  in round 17
+runi killed kiNgg  in round 17
+Nozwerr killed Zellsis  in round 17
+Nozwerr killed Leaf  in round 17
+xeppaa killed Mazino  in round 17
+Shyy killed xeppaa  in round 17
+Nozwerr killed jakee  in round 17
+runi killed Shyy  in round 17
+runi killed Nozwerr  in round 17
+Round 17 ended with spike_defuse. The winning team is Cloud9 Blue.
+The current score is Cloud9 Blue 13 - 4 Leviatán Esports.
+Game ended with winning team: Cloud9 Blue at 2023-05-15T20:45:05Z
+
+--- Player Stats ---
+Mazino: Team=Leviatán Esports, Kills=7, Deaths=15, Assists=10, KDA=1.13, First Kills=2, First Deaths=4
+Shyy: Team=Leviatán Esports, Kills=9, Deaths=12, Assists=1, KDA=0.83, First Kills=0, First Deaths=3
+kiNgg: Team=Leviatán Esports, Kills=11, Deaths=12, Assists=4, KDA=1.25, First Kills=1, First Deaths=0
+Nozwerr: Team=Leviatán Esports, Kills=15, Deaths=10, Assists=3, KDA=1.8, First Kills=1, First Deaths=1
+Tacolilla: Team=Leviatán Esports, Kills=14, Deaths=14, Assists=4, KDA=1.29, First Kills=1, First Deaths=4
+Leaf: Team=Cloud9 Blue, Kills=17, Deaths=11, Assists=8, KDA=2.27, First Kills=6, First Deaths=2
+xeppaa: Team=Cloud9 Blue, Kills=14, Deaths=12, Assists=3, KDA=1.42, First Kills=2, First Deaths=2
+runi: Team=Cloud9 Blue, Kills=15, Deaths=12, Assists=3, KDA=1.5, First Kills=1, First Deaths=1
+Zellsis: Team=Cloud9 Blue, Kills=8, Deaths=11, Assists=12, KDA=1.82, First Kills=0, First Deaths=0
+jakee: Team=Cloud9 Blue, Kills=9, Deaths=10, Assists=10, KDA=1.9, First Kills=3, First Deaths=0

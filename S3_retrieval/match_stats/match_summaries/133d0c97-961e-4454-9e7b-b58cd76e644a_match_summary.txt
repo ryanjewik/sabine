@@ -1,0 +1,257 @@
+Team 1: FNATIC
+Team 2: FURIA
+Participating Players:
+Player 1: Khalil
+Player 2: mazin
+Player 3: Nozwer
+Player 4: dgzin
+Player 5: QcK
+Player 6: Mistic
+Player 7: Derke
+Player 8: Boaster
+Player 9: Alfajer
+Player 10: Enz0
+Winning Team: FURIA
+Score: FNATIC 9 - 13 FURIA
+Tournament Name: champions 2022
+Game Start Time: 2022-09-05T15:13:28Z
+Game End Time: 2022-09-05T16:23:00Z
+Rounds ended by ELIMINATION count: 15
+Rounds ended by DEFUSE count: 6
+Rounds ended by DETONATE count: 0
+SPIKE PLANTED count: 6
+platformGameId: val:133d0c97-961e-4454-9e7b-b58cd76e644a
+
+--- Events ---
+Game started at 2022-09-05T15:13:28Z
+dgzin killed Alfajer  in round 1
+mazin killed Derke  in round 1
+dgzin killed Enz0  in round 1
+QcK killed Boaster  in round 1
+Mistic killed QcK  in round 1
+Nozwer killed Mistic  in round 1
+Round 1 ended with elimination. The winning team is FURIA.
+The current score is FNATIC 0 - 1 FURIA.
+Khalil killed Enz0  in round 2
+Khalil killed Boaster  in round 2
+Khalil killed Derke  in round 2
+Mistic killed mazin  in round 2
+Nozwer killed Mistic  in round 2
+Khalil killed Alfajer  in round 2
+Round 2 ended with elimination. The winning team is FURIA.
+The current score is FNATIC 0 - 2 FURIA.
+Alfajer killed QcK  in round 3
+Nozwer killed Alfajer  in round 3
+Mistic killed Nozwer  in round 3
+dgzin killed Mistic  in round 3
+Derke killed dgzin  in round 3
+mazin killed Derke  in round 3
+Khalil killed Boaster  in round 3
+Khalil killed Enz0  in round 3
+Round 3 ended with spike_defuse. The winning team is FURIA.
+The current score is FNATIC 0 - 3 FURIA.
+dgzin killed Boaster  in round 4
+Khalil killed Derke  in round 4
+Enz0 killed Khalil  in round 4
+mazin killed Alfajer  in round 4
+Mistic killed dgzin  in round 4
+mazin killed Mistic  in round 4
+Nozwer killed Enz0  in round 4
+QcK killed Boaster  in round 4
+Round 4 ended with elimination. The winning team is FURIA.
+The current score is FNATIC 0 - 4 FURIA.
+QcK killed Derke  in round 5
+Alfajer killed mazin  in round 5
+Boaster killed QcK  in round 5
+Enz0 killed Nozwer  in round 5
+Enz0 killed dgzin  in round 5
+Khalil killed Alfajer  in round 5
+Enz0 killed Khalil  in round 5
+Round 5 ended with elimination. The winning team is FNATIC.
+The current score is FNATIC 1 - 4 FURIA.
+Khalil killed Boaster  in round 6
+Alfajer killed Nozwer  in round 6
+Khalil killed Alfajer  in round 6
+QcK killed Mistic  in round 6
+Enz0 killed QcK  in round 6
+Derke killed mazin  in round 6
+Khalil killed Derke  in round 6
+dgzin killed Enz0  in round 6
+Round 6 ended with spike_defuse. The winning team is FURIA.
+The current score is FNATIC 1 - 5 FURIA.
+Alfajer killed QcK  in round 7
+dgzin killed Boaster  in round 7
+Mistic killed dgzin  in round 7
+Khalil killed Derke  in round 7
+Mistic killed Khalil  in round 7
+Alfajer killed Nozwer  in round 7
+Mistic killed mazin  in round 7
+Round 7 ended with elimination. The winning team is FNATIC.
+The current score is FNATIC 2 - 5 FURIA.
+dgzin killed Boaster  in round 8
+Nozwer killed Mistic  in round 8
+Alfajer killed mazin  in round 8
+Derke killed Khalil  in round 8
+Derke killed mazin  in round 8
+Derke killed Nozwer  in round 8
+QcK killed Alfajer  in round 8
+QcK killed Enz0  in round 8
+Derke killed QcK  in round 8
+Derke killed dgzin  in round 8
+Round 8 ended with elimination. The winning team is FNATIC.
+The current score is FNATIC 3 - 5 FURIA.
+dgzin killed Boaster  in round 9
+dgzin killed Alfajer  in round 9
+Mistic killed dgzin  in round 9
+mazin killed Enz0  in round 9
+Boaster killed Khalil  in round 9
+Nozwer killed Derke  in round 9
+Boaster killed Nozwer  in round 9
+mazin killed Boaster  in round 9
+Mistic killed QcK  in round 9
+Mistic killed mazin  in round 9
+Round 9 ended with elimination. The winning team is FNATIC.
+The current score is FNATIC 4 - 5 FURIA.
+Nozwer killed Mistic  in round 10
+Alfajer killed Nozwer  in round 10
+QcK killed Alfajer  in round 10
+Khalil killed Derke  in round 10
+Enz0 killed dgzin  in round 10
+mazin killed Enz0  in round 10
+QcK killed Boaster  in round 10
+Round 10 ended with spike_defuse. The winning team is FURIA.
+The current score is FNATIC 4 - 6 FURIA.
+Mistic killed mazin  in round 11
+Khalil killed Alfajer  in round 11
+QcK killed Derke  in round 11
+Mistic killed dgzin  in round 11
+Nozwer killed Boaster  in round 11
+Mistic killed Nozwer  in round 11
+Mistic killed QcK  in round 11
+Khalil killed Mistic  in round 11
+Enz0 killed Khalil  in round 11
+Enz0 killed Nozwer  in round 11
+Round 11 ended with elimination. The winning team is FNATIC.
+The current score is FNATIC 5 - 6 FURIA.
+Enz0 killed QcK  in round 12
+Nozwer killed Enz0  in round 12
+Nozwer killed Alfajer  in round 12
+dgzin killed Mistic  in round 12
+dgzin killed Enz0  in round 12
+dgzin killed Derke  in round 12
+Boaster killed Nozwer  in round 12
+Boaster killed Khalil  in round 12
+dgzin killed Boaster  in round 12
+Round 12 ended with elimination. The winning team is FURIA.
+The current score is FNATIC 5 - 7 FURIA.
+Mistic killed mazin  in round 13
+Derke killed Khalil  in round 13
+Nozwer killed Alfajer  in round 13
+Boaster killed Nozwer  in round 13
+Mistic killed QcK  in round 13
+Derke killed dgzin  in round 13
+Round 13 ended with spike_defuse. The winning team is FNATIC.
+The current score is FNATIC 6 - 7 FURIA.
+dgzin killed Enz0  in round 14
+Derke killed dgzin  in round 14
+Alfajer killed QcK  in round 14
+Nozwer killed Alfajer  in round 14
+Boaster killed Nozwer  in round 14
+Derke killed mazin  in round 14
+Boaster killed Khalil  in round 14
+Round 14 ended with spike_defuse. The winning team is FNATIC.
+The current score is FNATIC 7 - 7 FURIA.
+dgzin killed Derke  in round 15
+Alfajer killed dgzin  in round 15
+Alfajer killed mazin  in round 15
+Nozwer killed Alfajer  in round 15
+QcK killed Mistic  in round 15
+Nozwer killed Enz0  in round 15
+QcK killed Boaster  in round 15
+Round 15 ended with elimination. The winning team is FURIA.
+The current score is FNATIC 7 - 8 FURIA.
+Mistic killed QcK  in round 16
+Khalil killed Mistic  in round 16
+Derke killed mazin  in round 16
+Khalil killed Boaster  in round 16
+Nozwer killed Derke  in round 16
+Alfajer killed Nozwer  in round 16
+dgzin killed Enz0  in round 16
+Alfajer killed Khalil  in round 16
+dgzin killed Alfajer  in round 16
+Round 16 ended with elimination. The winning team is FURIA.
+The current score is FNATIC 7 - 9 FURIA.
+dgzin killed Derke  in round 17
+Enz0 killed QcK  in round 17
+Alfajer killed mazin  in round 17
+Nozwer killed Alfajer  in round 17
+dgzin killed Mistic  in round 17
+dgzin killed Enz0  in round 17
+Boaster killed dgzin  in round 17
+Boaster killed Khalil  in round 17
+Nozwer killed Boaster  in round 17
+Round 17 ended with elimination. The winning team is FURIA.
+The current score is FNATIC 7 - 10 FURIA.
+Alfajer killed dgzin  in round 18
+Mistic killed QcK  in round 18
+Khalil killed Mistic  in round 18
+dgzin killed Alfajer  in round 18
+Enz0 killed Khalil  in round 18
+Enz0 killed mazin  in round 18
+dgzin killed Enz0  in round 18
+Round 18 ended with time_expired. The winning team is FNATIC.
+The current score is FNATIC 8 - 10 FURIA.
+Boaster killed Khalil  in round 19
+QcK killed Boaster  in round 19
+QcK killed Alfajer  in round 19
+dgzin killed Derke  in round 19
+Nozwer killed Mistic  in round 19
+QcK killed Enz0  in round 19
+Round 19 ended with elimination. The winning team is FURIA.
+The current score is FNATIC 8 - 11 FURIA.
+Mistic killed Khalil  in round 20
+dgzin killed Mistic  in round 20
+Derke killed dgzin  in round 20
+mazin killed Derke  in round 20
+mazin killed Alfajer  in round 20
+mazin killed Boaster  in round 20
+Enz0 killed Nozwer  in round 20
+Enz0 killed mazin  in round 20
+QcK killed Enz0  in round 20
+Round 20 ended with elimination. The winning team is FURIA.
+The current score is FNATIC 8 - 12 FURIA.
+Derke killed Khalil  in round 21
+Derke killed dgzin  in round 21
+mazin killed Derke  in round 21
+Alfajer killed QcK  in round 21
+Round 21 ended with spike_defuse. The winning team is FNATIC.
+The current score is FNATIC 9 - 12 FURIA.
+mazin killed Derke  in round 22
+mazin killed Alfajer  in round 22
+Mistic killed mazin  in round 22
+Mistic killed Nozwer  in round 22
+QcK killed Derke  in round 22
+mazin killed Enz0  in round 22
+Mistic killed QcK  in round 22
+Mistic killed Khalil  in round 22
+dgzin killed Alfajer  in round 22
+Mistic killed mazin  in round 22
+Nozwer killed Mistic  in round 22
+Boaster killed dgzin  in round 22
+Nozwer killed Boaster  in round 22
+Round 22 ended with elimination. The winning team is FURIA.
+The current score is FNATIC 9 - 13 FURIA.
+Game ended with winning team: FURIA at 2022-09-05T16:23:00Z
+Nozwer killed Nozwer  in round 23
+
+--- Player Stats ---
+Khalil: Team=FURIA, Kills=18, Deaths=16, Assists=6, KDA=1.5, First Kills=2, First Deaths=3
+mazin: Team=FURIA, Kills=14, Deaths=17, Assists=17, KDA=1.82, First Kills=1, First Deaths=2
+Nozwer: Team=FURIA, Kills=21, Deaths=16, Assists=3, KDA=1.5, First Kills=2, First Deaths=1
+dgzin: Team=FURIA, Kills=25, Deaths=16, Assists=5, KDA=1.88, First Kills=7, First Deaths=1
+QcK: Team=FURIA, Kills=16, Deaths=16, Assists=10, KDA=1.62, First Kills=1, First Deaths=4
+Mistic: Team=FNATIC, Kills=24, Deaths=16, Assists=6, KDA=1.88, First Kills=4, First Deaths=1
+Derke: Team=FNATIC, Kills=15, Deaths=19, Assists=5, KDA=1.05, First Kills=1, First Deaths=4
+Boaster: Team=FNATIC, Kills=12, Deaths=19, Assists=10, KDA=1.16, First Kills=1, First Deaths=4
+Alfajer: Team=FNATIC, Kills=15, Deaths=21, Assists=3, KDA=0.86, First Kills=3, First Deaths=1
+Enz0: Team=FNATIC, Kills=14, Deaths=18, Assists=5, KDA=1.06, First Kills=1, First Deaths=2

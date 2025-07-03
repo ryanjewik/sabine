@@ -1,0 +1,196 @@
+Team 1: KOI
+Team 2: Giants
+Participating Players:
+Player 1: Fit1nho
+Player 2: purp0
+Player 3: Redgar
+Player 4: Cloud
+Player 5: hoody
+Player 6: Sheydos
+Player 7: starxo
+Player 8: Shadow 
+Player 9: kamo
+Player 10: GRUBINHO
+Winning Team: KOI
+Score: KOI 13 - 5 Giants
+Tournament Name: vct emea stage 2 2024
+Game Start Time: 2024-06-25T17:42:20Z
+Game End Time: 2024-06-25T18:42:25Z
+Rounds ended by ELIMINATION count: 9
+Rounds ended by DEFUSE count: 6
+Rounds ended by DETONATE count: 1
+SPIKE PLANTED count: 7
+platformGameId: val:7e0a9865-9c8e-4e32-84f7-1c0037b09121
+
+--- Events ---
+Game started at 2024-06-25T17:42:20Z
+hoody killed Shadow   in round 1
+hoody killed kamo  in round 1
+starxo killed hoody  in round 1
+purp0 killed starxo  in round 1
+Fit1nho killed Sheydos  in round 1
+Cloud killed GRUBINHO  in round 1
+Round 1 ended with spike_defuse. The winning team is Giants.
+The current score is KOI 0 - 1 Giants.
+starxo killed Redgar  in round 2
+Fit1nho killed kamo  in round 2
+Fit1nho killed starxo  in round 2
+Fit1nho killed Sheydos  in round 2
+GRUBINHO killed purp0  in round 2
+Cloud killed Shadow   in round 2
+hoody killed GRUBINHO  in round 2
+Round 2 ended with elimination. The winning team is Giants.
+The current score is KOI 0 - 2 Giants.
+hoody killed kamo  in round 3
+starxo killed hoody  in round 3
+purp0 killed starxo  in round 3
+Shadow  killed Redgar  in round 3
+Shadow  killed Fit1nho  in round 3
+GRUBINHO killed purp0  in round 3
+GRUBINHO killed Cloud  in round 3
+Round 3 ended with elimination. The winning team is KOI.
+The current score is KOI 1 - 2 Giants.
+Redgar killed kamo  in round 4
+GRUBINHO killed hoody  in round 4
+Shadow  killed Redgar  in round 4
+Sheydos killed purp0  in round 4
+Round 4 ended with detonate. The winning team is KOI.
+The current score is KOI 2 - 2 Giants.
+Cloud killed Cloud  in round 5
+Shadow  killed Shadow   in round 5
+Cloud killed Shadow   in round 5
+kamo killed Cloud  in round 5
+starxo killed purp0  in round 5
+starxo killed Redgar  in round 5
+Sheydos killed Fit1nho  in round 5
+hoody killed starxo  in round 5
+hoody killed GRUBINHO  in round 5
+kamo killed hoody  in round 5
+Round 5 ended with elimination. The winning team is KOI.
+The current score is KOI 3 - 2 Giants.
+hoody killed kamo  in round 6
+starxo killed purp0  in round 6
+hoody killed Sheydos  in round 6
+GRUBINHO killed Cloud  in round 6
+starxo killed hoody  in round 6
+Redgar killed starxo  in round 6
+Fit1nho killed Shadow   in round 6
+GRUBINHO killed Fit1nho  in round 6
+Redgar killed GRUBINHO  in round 6
+Round 6 ended with spike_defuse. The winning team is Giants.
+The current score is KOI 3 - 3 Giants.
+kamo killed hoody  in round 7
+kamo killed Cloud  in round 7
+Fit1nho killed kamo  in round 7
+Shadow  killed Redgar  in round 7
+Sheydos killed purp0  in round 7
+Shadow  killed Fit1nho  in round 7
+Round 7 ended with elimination. The winning team is KOI.
+The current score is KOI 4 - 3 Giants.
+kamo killed purp0  in round 8
+Shadow  killed Redgar  in round 8
+starxo killed hoody  in round 8
+Fit1nho killed Shadow   in round 8
+kamo killed Fit1nho  in round 8
+kamo killed Cloud  in round 8
+Round 8 ended with elimination. The winning team is KOI.
+The current score is KOI 5 - 3 Giants.
+GRUBINHO killed purp0  in round 9
+GRUBINHO killed Fit1nho  in round 9
+Cloud killed GRUBINHO  in round 9
+starxo killed Cloud  in round 9
+Sheydos killed hoody  in round 9
+kamo killed Redgar  in round 9
+Round 9 ended with elimination. The winning team is KOI.
+The current score is KOI 6 - 3 Giants.
+purp0 killed kamo  in round 10
+purp0 killed GRUBINHO  in round 10
+Shadow  killed Redgar  in round 10
+Sheydos killed purp0  in round 10
+Fit1nho killed starxo  in round 10
+Sheydos killed Cloud  in round 10
+hoody killed Sheydos  in round 10
+hoody killed Shadow   in round 10
+Round 10 ended with spike_defuse. The winning team is Giants.
+The current score is KOI 6 - 4 Giants.
+kamo killed purp0  in round 11
+kamo killed Redgar  in round 11
+kamo killed Cloud  in round 11
+Shadow  killed hoody  in round 11
+kamo killed Fit1nho  in round 11
+Round 11 ended with elimination. The winning team is KOI.
+The current score is KOI 7 - 4 Giants.
+hoody killed Shadow   in round 12
+GRUBINHO killed Cloud  in round 12
+Sheydos killed hoody  in round 12
+GRUBINHO killed Fit1nho  in round 12
+Round 12 ended with time_expired. The winning team is Giants.
+The current score is KOI 7 - 5 Giants.
+GRUBINHO killed purp0  in round 13
+purp0 killed GRUBINHO  in round 13
+Sheydos killed purp0  in round 13
+kamo killed hoody  in round 13
+GRUBINHO killed Redgar  in round 13
+Cloud killed GRUBINHO  in round 13
+kamo killed Fit1nho  in round 13
+Sheydos killed Cloud  in round 13
+Round 13 ended with elimination. The winning team is KOI.
+The current score is KOI 8 - 5 Giants.
+Sheydos killed hoody  in round 14
+Sheydos killed purp0  in round 14
+Sheydos killed Redgar  in round 14
+Cloud killed Sheydos  in round 14
+starxo killed Cloud  in round 14
+kamo killed Fit1nho  in round 14
+Round 14 ended with spike_defuse. The winning team is KOI.
+The current score is KOI 9 - 5 Giants.
+GRUBINHO killed Cloud  in round 15
+GRUBINHO killed purp0  in round 15
+Fit1nho killed GRUBINHO  in round 15
+hoody killed kamo  in round 15
+Round 15 ended with time_expired. The winning team is KOI.
+The current score is KOI 10 - 5 Giants.
+starxo killed Redgar  in round 16
+Fit1nho killed starxo  in round 16
+hoody killed Shadow   in round 16
+starxo killed hoody  in round 16
+GRUBINHO killed purp0  in round 16
+kamo killed Fit1nho  in round 16
+Cloud killed kamo  in round 16
+starxo killed Cloud  in round 16
+Redgar killed Sheydos  in round 16
+GRUBINHO killed Redgar  in round 16
+Round 16 ended with spike_defuse. The winning team is KOI.
+The current score is KOI 11 - 5 Giants.
+purp0 killed GRUBINHO  in round 17
+Sheydos killed purp0  in round 17
+hoody killed Shadow   in round 17
+Redgar killed starxo  in round 17
+Sheydos killed Fit1nho  in round 17
+Cloud killed Sheydos  in round 17
+kamo killed Cloud  in round 17
+kamo killed Redgar  in round 17
+kamo killed hoody  in round 17
+Round 17 ended with elimination. The winning team is KOI.
+The current score is KOI 12 - 5 Giants.
+Shadow  killed Cloud  in round 18
+purp0 killed starxo  in round 18
+Shadow  killed Redgar  in round 18
+Shadow  killed hoody  in round 18
+kamo killed purp0  in round 18
+GRUBINHO killed Fit1nho  in round 18
+Round 18 ended with spike_defuse. The winning team is KOI.
+The current score is KOI 13 - 5 Giants.
+Game ended with winning team: KOI at 2024-06-25T18:42:25Z
+
+--- Player Stats ---
+Fit1nho: Team=Giants, Kills=10, Deaths=13, Assists=5, KDA=1.15, First Kills=0, First Deaths=0
+purp0: Team=Giants, Kills=7, Deaths=17, Assists=5, KDA=0.71, First Kills=2, First Deaths=4
+Redgar: Team=Giants, Kills=5, Deaths=15, Assists=11, KDA=1.07, First Kills=1, First Deaths=2
+Cloud: Team=Giants, Kills=9, Deaths=16, Assists=5, KDA=0.88, First Kills=1, First Deaths=3
+hoody: Team=Giants, Kills=14, Deaths=15, Assists=3, KDA=1.13, First Kills=4, First Deaths=2
+Sheydos: Team=KOI, Kills=14, Deaths=7, Assists=4, KDA=2.57, First Kills=1, First Deaths=0
+starxo: Team=KOI, Kills=13, Deaths=9, Assists=11, KDA=2.67, First Kills=2, First Deaths=0
+Shadow : Team=KOI, Kills=12, Deaths=10, Assists=7, KDA=1.9, First Kills=1, First Deaths=2
+kamo: Team=KOI, Kills=20, Deaths=9, Assists=5, KDA=2.78, First Kills=3, First Deaths=4
+GRUBINHO: Team=KOI, Kills=17, Deaths=10, Assists=12, KDA=2.9, First Kills=3, First Deaths=1

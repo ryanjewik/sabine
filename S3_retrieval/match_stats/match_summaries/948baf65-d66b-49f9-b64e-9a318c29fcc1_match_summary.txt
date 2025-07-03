@@ -1,0 +1,182 @@
+Team 1: Rex Regum Qeon
+Team 2: Gen.G Esports
+Participating Players:
+Player 1: t3xture
+Player 2: Lakia
+Player 3: Munchkin
+Player 4: Meteor 
+Player 5: Karon
+Player 6: patt
+Player 7: Lmemore
+Player 8: fl1pzjder
+Player 9: Jemkin
+Player 10: Estrella
+Winning Team: Gen.G Esports
+Score: Rex Regum Qeon 3 - 13 Gen.G Esports
+Tournament Name: vct pacific stage 1 2024
+Game Start Time: 2024-04-29T10:10:04Z
+Game End Time: 2024-04-29T10:52:44Z
+Rounds ended by ELIMINATION count: 11
+Rounds ended by DEFUSE count: 2
+Rounds ended by DETONATE count: 0
+SPIKE PLANTED count: 2
+platformGameId: val:948baf65-d66b-49f9-b64e-9a318c29fcc1
+
+--- Events ---
+Game started at 2024-04-29T10:10:04Z
+t3xture killed Lmemore  in round 1
+patt killed Munchkin  in round 1
+Karon killed fl1pzjder  in round 1
+t3xture killed Jemkin  in round 1
+Lakia killed patt  in round 1
+Lakia killed Estrella  in round 1
+Round 1 ended with elimination. The winning team is Gen.G Esports.
+The current score is Rex Regum Qeon 0 - 1 Gen.G Esports.
+Karon killed Jemkin  in round 2
+Karon killed Estrella  in round 2
+t3xture killed patt  in round 2
+Lakia killed fl1pzjder  in round 2
+t3xture killed Lmemore  in round 2
+Round 2 ended with elimination. The winning team is Gen.G Esports.
+The current score is Rex Regum Qeon 0 - 2 Gen.G Esports.
+fl1pzjder killed Lakia  in round 3
+Jemkin killed Meteor   in round 3
+Karon killed Jemkin  in round 3
+Karon killed Lmemore  in round 3
+fl1pzjder killed Karon  in round 3
+t3xture killed Estrella  in round 3
+t3xture killed fl1pzjder  in round 3
+patt killed t3xture  in round 3
+Munchkin killed patt  in round 3
+Round 3 ended with elimination. The winning team is Gen.G Esports.
+The current score is Rex Regum Qeon 0 - 3 Gen.G Esports.
+t3xture killed Jemkin  in round 4
+Karon killed Lmemore  in round 4
+Meteor  killed patt  in round 4
+Estrella killed Meteor   in round 4
+Munchkin killed fl1pzjder  in round 4
+Munchkin killed Estrella  in round 4
+Round 4 ended with elimination. The winning team is Gen.G Esports.
+The current score is Rex Regum Qeon 0 - 4 Gen.G Esports.
+Lmemore killed Meteor   in round 5
+Munchkin killed Lmemore  in round 5
+patt killed Munchkin  in round 5
+Jemkin killed Karon  in round 5
+t3xture killed patt  in round 5
+Jemkin killed Lakia  in round 5
+t3xture killed Jemkin  in round 5
+Estrella killed t3xture  in round 5
+Round 5 ended with elimination. The winning team is Rex Regum Qeon.
+The current score is Rex Regum Qeon 1 - 4 Gen.G Esports.
+Karon killed Lmemore  in round 6
+Karon killed fl1pzjder  in round 6
+Jemkin killed Karon  in round 6
+t3xture killed patt  in round 6
+Meteor  killed Jemkin  in round 6
+Round 6 ended with time_expired. The winning team is Gen.G Esports.
+The current score is Rex Regum Qeon 1 - 5 Gen.G Esports.
+Jemkin killed t3xture  in round 7
+Munchkin killed fl1pzjder  in round 7
+Lmemore killed Munchkin  in round 7
+Meteor  killed patt  in round 7
+Estrella killed Meteor   in round 7
+Karon killed Lmemore  in round 7
+Lakia killed Jemkin  in round 7
+Estrella killed Karon  in round 7
+Lakia killed Estrella  in round 7
+Round 7 ended with spike_defuse. The winning team is Gen.G Esports.
+The current score is Rex Regum Qeon 1 - 6 Gen.G Esports.
+t3xture killed fl1pzjder  in round 8
+Lakia killed Lmemore  in round 8
+patt killed Lakia  in round 8
+Karon killed Jemkin  in round 8
+Estrella killed Munchkin  in round 8
+t3xture killed patt  in round 8
+Round 8 ended with time_expired. The winning team is Gen.G Esports.
+The current score is Rex Regum Qeon 1 - 7 Gen.G Esports.
+Karon killed fl1pzjder  in round 9
+patt killed t3xture  in round 9
+Jemkin killed Meteor   in round 9
+Jemkin killed Lakia  in round 9
+Munchkin killed Estrella  in round 9
+Karon killed Lmemore  in round 9
+Karon killed patt  in round 9
+Munchkin killed Jemkin  in round 9
+Round 9 ended with elimination. The winning team is Gen.G Esports.
+The current score is Rex Regum Qeon 1 - 8 Gen.G Esports.
+t3xture killed fl1pzjder  in round 10
+patt killed Lakia  in round 10
+Meteor  killed patt  in round 10
+Meteor  killed Lmemore  in round 10
+Round 10 ended with time_expired. The winning team is Gen.G Esports.
+The current score is Rex Regum Qeon 1 - 9 Gen.G Esports.
+Lakia killed Jemkin  in round 11
+Estrella killed Lakia  in round 11
+Meteor  killed patt  in round 11
+Karon killed Lmemore  in round 11
+Karon killed Estrella  in round 11
+Karon killed fl1pzjder  in round 11
+Round 11 ended with elimination. The winning team is Gen.G Esports.
+The current score is Rex Regum Qeon 1 - 10 Gen.G Esports.
+t3xture killed Lmemore  in round 12
+t3xture killed fl1pzjder  in round 12
+Karon killed Jemkin  in round 12
+Estrella killed Karon  in round 12
+patt killed Lakia  in round 12
+Estrella killed t3xture  in round 12
+Meteor  killed patt  in round 12
+Estrella killed Meteor   in round 12
+Munchkin killed Estrella  in round 12
+Round 12 ended with spike_defuse. The winning team is Gen.G Esports.
+The current score is Rex Regum Qeon 1 - 11 Gen.G Esports.
+Munchkin killed Jemkin  in round 13
+patt killed Munchkin  in round 13
+patt killed t3xture  in round 13
+Lmemore killed Karon  in round 13
+patt killed Lakia  in round 13
+Lmemore killed Meteor   in round 13
+Round 13 ended with elimination. The winning team is Rex Regum Qeon.
+The current score is Rex Regum Qeon 2 - 11 Gen.G Esports.
+Meteor  killed Lmemore  in round 14
+fl1pzjder killed Meteor   in round 14
+Jemkin killed Munchkin  in round 14
+Estrella killed Lakia  in round 14
+patt killed t3xture  in round 14
+fl1pzjder killed Karon  in round 14
+Round 14 ended with elimination. The winning team is Rex Regum Qeon.
+The current score is Rex Regum Qeon 3 - 11 Gen.G Esports.
+patt killed t3xture  in round 15
+Lmemore killed Meteor   in round 15
+Karon killed Estrella  in round 15
+Karon killed fl1pzjder  in round 15
+Jemkin killed Lakia  in round 15
+Munchkin killed Jemkin  in round 15
+patt killed Karon  in round 15
+Munchkin killed patt  in round 15
+Munchkin killed Lmemore  in round 15
+Round 15 ended with elimination. The winning team is Gen.G Esports.
+The current score is Rex Regum Qeon 3 - 12 Gen.G Esports.
+Meteor  killed Estrella  in round 16
+Jemkin killed Meteor   in round 16
+Munchkin killed Lmemore  in round 16
+Karon killed patt  in round 16
+t3xture killed fl1pzjder  in round 16
+Jemkin killed Lakia  in round 16
+Jemkin killed t3xture  in round 16
+Munchkin killed Jemkin  in round 16
+Round 16 ended with elimination. The winning team is Gen.G Esports.
+The current score is Rex Regum Qeon 3 - 13 Gen.G Esports.
+Game ended with winning team: Gen.G Esports at 2024-04-29T10:52:44Z
+Karon killed Karon  in round 17
+
+--- Player Stats ---
+t3xture: Team=Gen.G Esports, Kills=16, Deaths=9, Assists=2, KDA=2.0, First Kills=5, First Deaths=2
+Lakia: Team=Gen.G Esports, Kills=7, Deaths=11, Assists=9, KDA=1.45, First Kills=1, First Deaths=1
+Munchkin: Team=Gen.G Esports, Kills=14, Deaths=6, Assists=3, KDA=2.83, First Kills=1, First Deaths=0
+Meteor : Team=Gen.G Esports, Kills=9, Deaths=10, Assists=4, KDA=1.3, First Kills=2, First Deaths=1
+Karon: Team=Gen.G Esports, Kills=21, Deaths=9, Assists=2, KDA=2.56, First Kills=4, First Deaths=1
+patt: Team=Rex Regum Qeon, Kills=13, Deaths=14, Assists=1, KDA=1.0, First Kills=1, First Deaths=0
+Lmemore: Team=Rex Regum Qeon, Kills=5, Deaths=15, Assists=3, KDA=0.53, First Kills=1, First Deaths=4
+fl1pzjder: Team=Rex Regum Qeon, Kills=4, Deaths=13, Assists=2, KDA=0.46, First Kills=1, First Deaths=3
+Jemkin: Team=Rex Regum Qeon, Kills=12, Deaths=14, Assists=0, KDA=0.86, First Kills=1, First Deaths=4
+Estrella: Team=Rex Regum Qeon, Kills=10, Deaths=10, Assists=1, KDA=1.1, First Kills=0, First Deaths=1

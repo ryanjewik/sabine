@@ -1,0 +1,191 @@
+Team 1: Leviatán Esports
+Team 2: Sentinels
+Participating Players:
+Player 1: TenZ
+Player 2: Zellsis
+Player 3: johnqt
+Player 4: zekken
+Player 5: Sacy
+Player 6: aspas
+Player 7: C0M
+Player 8: kiNgg
+Player 9: tex
+Player 10: Mazino
+Winning Team: Sentinels
+Score: Leviatán Esports 3 - 13 Sentinels
+Tournament Name: vct americas kickoff 2024
+Game Start Time: 2024-02-25T22:37:06Z
+Game End Time: 2024-02-25T23:27:06Z
+Rounds ended by ELIMINATION count: 8
+Rounds ended by DEFUSE count: 6
+Rounds ended by DETONATE count: 1
+SPIKE PLANTED count: 7
+platformGameId: val:18e3b7bf-6a80-4f63-afda-4465e2318dfe
+
+--- Events ---
+Game started at 2024-02-25T22:37:06Z
+johnqt killed aspas  in round 1
+kiNgg killed zekken  in round 1
+kiNgg killed Zellsis  in round 1
+tex killed Sacy  in round 1
+kiNgg killed TenZ  in round 1
+johnqt killed tex  in round 1
+C0M killed johnqt  in round 1
+Round 1 ended with elimination. The winning team is Leviatán Esports.
+The current score is Leviatán Esports 1 - 0 Sentinels.
+johnqt killed kiNgg  in round 2
+TenZ killed tex  in round 2
+aspas killed TenZ  in round 2
+C0M killed johnqt  in round 2
+Zellsis killed C0M  in round 2
+Mazino killed Zellsis  in round 2
+zekken killed Mazino  in round 2
+zekken killed aspas  in round 2
+Round 2 ended with spike_defuse. The winning team is Sentinels.
+The current score is Leviatán Esports 1 - 1 Sentinels.
+TenZ killed aspas  in round 3
+Zellsis killed tex  in round 3
+TenZ killed kiNgg  in round 3
+Zellsis killed C0M  in round 3
+Sacy killed Mazino  in round 3
+Round 3 ended with elimination. The winning team is Sentinels.
+The current score is Leviatán Esports 1 - 2 Sentinels.
+tex killed Zellsis  in round 4
+Sacy killed tex  in round 4
+aspas killed zekken  in round 4
+aspas killed Sacy  in round 4
+TenZ killed Mazino  in round 4
+johnqt killed C0M  in round 4
+aspas killed TenZ  in round 4
+Round 4 ended with time_expired. The winning team is Sentinels.
+The current score is Leviatán Esports 1 - 3 Sentinels.
+aspas killed johnqt  in round 5
+tex killed TenZ  in round 5
+Sacy killed tex  in round 5
+zekken killed Mazino  in round 5
+Sacy killed C0M  in round 5
+kiNgg killed Sacy  in round 5
+Zellsis killed kiNgg  in round 5
+zekken killed aspas  in round 5
+Round 5 ended with elimination. The winning team is Sentinels.
+The current score is Leviatán Esports 1 - 4 Sentinels.
+aspas killed Zellsis  in round 6
+Sacy killed C0M  in round 6
+tex killed Sacy  in round 6
+zekken killed tex  in round 6
+zekken killed kiNgg  in round 6
+aspas killed TenZ  in round 6
+aspas killed johnqt  in round 6
+zekken killed Mazino  in round 6
+aspas killed zekken  in round 6
+Round 6 ended with elimination. The winning team is Leviatán Esports.
+The current score is Leviatán Esports 2 - 4 Sentinels.
+Zellsis killed C0M  in round 7
+zekken killed tex  in round 7
+kiNgg killed zekken  in round 7
+aspas killed Sacy  in round 7
+Zellsis killed Mazino  in round 7
+Zellsis killed aspas  in round 7
+kiNgg killed TenZ  in round 7
+kiNgg killed johnqt  in round 7
+Zellsis killed kiNgg  in round 7
+Round 7 ended with spike_defuse. The winning team is Sentinels.
+The current score is Leviatán Esports 2 - 5 Sentinels.
+zekken killed tex  in round 8
+johnqt killed aspas  in round 8
+Mazino killed johnqt  in round 8
+Round 8 ended with spike_defuse. The winning team is Sentinels.
+The current score is Leviatán Esports 2 - 6 Sentinels.
+zekken killed Mazino  in round 9
+TenZ killed C0M  in round 9
+kiNgg killed TenZ  in round 9
+Sacy killed kiNgg  in round 9
+johnqt killed tex  in round 9
+Mazino killed johnqt  in round 9
+kiNgg killed Sacy  in round 9
+kiNgg killed TenZ  in round 9
+zekken killed C0M  in round 9
+Round 9 ended with detonate. The winning team is Leviatán Esports.
+The current score is Leviatán Esports 3 - 6 Sentinels.
+Zellsis killed tex  in round 10
+aspas killed Zellsis  in round 10
+johnqt killed aspas  in round 10
+johnqt killed C0M  in round 10
+kiNgg killed johnqt  in round 10
+kiNgg killed Sacy  in round 10
+zekken killed Mazino  in round 10
+TenZ killed kiNgg  in round 10
+Round 10 ended with spike_defuse. The winning team is Sentinels.
+The current score is Leviatán Esports 3 - 7 Sentinels.
+Zellsis killed C0M  in round 11
+Zellsis killed aspas  in round 11
+Mazino killed Zellsis  in round 11
+tex killed Sacy  in round 11
+TenZ killed Mazino  in round 11
+TenZ killed kiNgg  in round 11
+zekken killed tex  in round 11
+Round 11 ended with spike_defuse. The winning team is Sentinels.
+The current score is Leviatán Esports 3 - 8 Sentinels.
+zekken killed tex  in round 12
+johnqt killed Mazino  in round 12
+aspas killed zekken  in round 12
+kiNgg killed Sacy  in round 12
+Zellsis killed kiNgg  in round 12
+TenZ killed C0M  in round 12
+Zellsis killed aspas  in round 12
+Round 12 ended with spike_defuse. The winning team is Sentinels.
+The current score is Leviatán Esports 3 - 9 Sentinels.
+Mazino killed Sacy  in round 13
+tex killed Zellsis  in round 13
+johnqt killed Mazino  in round 13
+C0M killed zekken  in round 13
+johnqt killed C0M  in round 13
+johnqt killed aspas  in round 13
+johnqt killed kiNgg  in round 13
+tex killed johnqt  in round 13
+TenZ killed tex  in round 13
+Round 13 ended with elimination. The winning team is Sentinels.
+The current score is Leviatán Esports 3 - 10 Sentinels.
+TenZ killed Mazino  in round 14
+aspas killed TenZ  in round 14
+zekken killed aspas  in round 14
+zekken killed C0M  in round 14
+johnqt killed tex  in round 14
+kiNgg killed Zellsis  in round 14
+zekken killed kiNgg  in round 14
+Round 14 ended with elimination. The winning team is Sentinels.
+The current score is Leviatán Esports 3 - 11 Sentinels.
+Sacy killed tex  in round 15
+kiNgg killed TenZ  in round 15
+tex killed kiNgg  in round 15
+aspas killed Sacy  in round 15
+Zellsis killed aspas  in round 15
+C0M killed zekken  in round 15
+johnqt killed C0M  in round 15
+Zellsis killed Mazino  in round 15
+Round 15 ended with elimination. The winning team is Sentinels.
+The current score is Leviatán Esports 3 - 12 Sentinels.
+C0M killed Zellsis  in round 16
+kiNgg killed johnqt  in round 16
+zekken killed kiNgg  in round 16
+zekken killed Mazino  in round 16
+aspas killed TenZ  in round 16
+C0M killed zekken  in round 16
+Sacy killed C0M  in round 16
+Sacy killed tex  in round 16
+Sacy killed aspas  in round 16
+Round 16 ended with elimination. The winning team is Sentinels.
+The current score is Leviatán Esports 3 - 13 Sentinels.
+Game ended with winning team: Sentinels at 2024-02-25T23:27:06Z
+
+--- Player Stats ---
+TenZ: Team=Sentinels, Kills=11, Deaths=11, Assists=7, KDA=1.64, First Kills=2, First Deaths=0
+Zellsis: Team=Sentinels, Kills=15, Deaths=9, Assists=10, KDA=2.78, First Kills=3, First Deaths=3
+johnqt: Team=Sentinels, Kills=15, Deaths=10, Assists=6, KDA=2.1, First Kills=2, First Deaths=1
+zekken: Team=Sentinels, Kills=19, Deaths=8, Assists=8, KDA=3.38, First Kills=3, First Deaths=0
+Sacy: Team=Sentinels, Kills=10, Deaths=11, Assists=10, KDA=1.82, First Kills=1, First Deaths=1
+aspas: Team=Leviatán Esports, Kills=15, Deaths=13, Assists=1, KDA=1.23, First Kills=2, First Deaths=2
+C0M: Team=Leviatán Esports, Kills=6, Deaths=15, Assists=17, KDA=1.53, First Kills=1, First Deaths=2
+kiNgg: Team=Leviatán Esports, Kills=16, Deaths=13, Assists=1, KDA=1.31, First Kills=0, First Deaths=1
+tex: Team=Leviatán Esports, Kills=8, Deaths=16, Assists=5, KDA=0.81, First Kills=1, First Deaths=4
+Mazino: Team=Leviatán Esports, Kills=5, Deaths=14, Assists=5, KDA=0.71, First Kills=1, First Deaths=2

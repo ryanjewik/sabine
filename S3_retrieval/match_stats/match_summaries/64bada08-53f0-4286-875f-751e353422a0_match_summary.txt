@@ -1,0 +1,234 @@
+Team 1: Evil Geniuses
+Team 2: G2 Esports
+Participating Players:
+Player 1: icy
+Player 2: Leaf
+Player 3: valyn
+Player 4: trent
+Player 5: JonahP
+Player 6: JAWGEMO
+Player 7: Derrek
+Player 8: NaturE
+Player 9: Apoth
+Player 10: supamen
+Winning Team: G2 Esports
+Score: Evil Geniuses 8 - 13 G2 Esports
+Tournament Name: vct americas stage 1 2024
+Game Start Time: 2024-04-07T20:50:23Z
+Game End Time: 2024-04-07T21:57:42Z
+Rounds ended by ELIMINATION count: 15
+Rounds ended by DEFUSE count: 4
+Rounds ended by DETONATE count: 1
+SPIKE PLANTED count: 5
+platformGameId: val:64bada08-53f0-4286-875f-751e353422a0
+
+--- Events ---
+Game started at 2024-04-07T20:50:23Z
+trent killed JAWGEMO  in round 1
+JonahP killed Apoth  in round 1
+icy killed Derrek  in round 1
+supamen killed trent  in round 1
+valyn killed NaturE  in round 1
+valyn killed supamen  in round 1
+Round 1 ended with elimination. The winning team is G2 Esports.
+The current score is Evil Geniuses 0 - 1 G2 Esports.
+icy killed Apoth  in round 2
+icy killed NaturE  in round 2
+supamen killed JonahP  in round 2
+trent killed JAWGEMO  in round 2
+valyn killed Derrek  in round 2
+Leaf killed supamen  in round 2
+Round 2 ended with spike_defuse. The winning team is G2 Esports.
+The current score is Evil Geniuses 0 - 2 G2 Esports.
+Leaf killed supamen  in round 3
+Leaf killed JAWGEMO  in round 3
+NaturE killed icy  in round 3
+JonahP killed NaturE  in round 3
+valyn killed Derrek  in round 3
+Apoth killed valyn  in round 3
+JonahP killed Apoth  in round 3
+Round 3 ended with spike_defuse. The winning team is G2 Esports.
+The current score is Evil Geniuses 0 - 3 G2 Esports.
+Leaf killed supamen  in round 4
+NaturE killed Leaf  in round 4
+JonahP killed NaturE  in round 4
+valyn killed JAWGEMO  in round 4
+trent killed Apoth  in round 4
+valyn killed Derrek  in round 4
+Round 4 ended with spike_defuse. The winning team is G2 Esports.
+The current score is Evil Geniuses 0 - 4 G2 Esports.
+valyn killed NaturE  in round 5
+icy killed Apoth  in round 5
+JAWGEMO killed Leaf  in round 5
+JonahP killed supamen  in round 5
+JonahP killed Derrek  in round 5
+JAWGEMO killed icy  in round 5
+icy killed JAWGEMO  in round 5
+Round 5 ended with elimination. The winning team is G2 Esports.
+The current score is Evil Geniuses 0 - 5 G2 Esports.
+valyn killed NaturE  in round 6
+supamen killed icy  in round 6
+JonahP killed supamen  in round 6
+JAWGEMO killed Leaf  in round 6
+JonahP killed Apoth  in round 6
+Derrek killed valyn  in round 6
+JonahP killed JAWGEMO  in round 6
+Derrek killed JonahP  in round 6
+Derrek killed trent  in round 6
+Round 6 ended with elimination. The winning team is Evil Geniuses.
+The current score is Evil Geniuses 1 - 5 G2 Esports.
+Derrek killed Derrek  in round 7
+icy killed JAWGEMO  in round 7
+Leaf killed Apoth  in round 7
+NaturE killed icy  in round 7
+Leaf killed supamen  in round 7
+valyn killed Derrek  in round 7
+NaturE killed valyn  in round 7
+NaturE killed JonahP  in round 7
+NaturE killed Leaf  in round 7
+NaturE killed trent  in round 7
+Round 7 ended with elimination. The winning team is Evil Geniuses.
+The current score is Evil Geniuses 2 - 5 G2 Esports.
+icy killed Apoth  in round 8
+NaturE killed icy  in round 8
+Derrek killed valyn  in round 8
+Derrek killed trent  in round 8
+NaturE killed Leaf  in round 8
+JonahP killed JAWGEMO  in round 8
+Round 8 ended with detonate. The winning team is Evil Geniuses.
+The current score is Evil Geniuses 3 - 5 G2 Esports.
+NaturE killed valyn  in round 9
+supamen killed JonahP  in round 9
+Leaf killed Derrek  in round 9
+NaturE killed Leaf  in round 9
+NaturE killed trent  in round 9
+Apoth killed icy  in round 9
+Round 9 ended with elimination. The winning team is Evil Geniuses.
+The current score is Evil Geniuses 4 - 5 G2 Esports.
+icy killed JAWGEMO  in round 10
+Apoth killed icy  in round 10
+trent killed Apoth  in round 10
+JonahP killed Derrek  in round 10
+NaturE killed Leaf  in round 10
+NaturE killed JonahP  in round 10
+trent killed NaturE  in round 10
+supamen killed trent  in round 10
+valyn killed supamen  in round 10
+Round 10 ended with spike_defuse. The winning team is G2 Esports.
+The current score is Evil Geniuses 4 - 6 G2 Esports.
+trent killed JAWGEMO  in round 11
+NaturE killed icy  in round 11
+valyn killed Apoth  in round 11
+supamen killed valyn  in round 11
+trent killed supamen  in round 11
+NaturE killed Leaf  in round 11
+Derrek killed trent  in round 11
+NaturE killed JonahP  in round 11
+Round 11 ended with elimination. The winning team is Evil Geniuses.
+The current score is Evil Geniuses 5 - 6 G2 Esports.
+JAWGEMO killed JonahP  in round 12
+icy killed supamen  in round 12
+Derrek killed icy  in round 12
+Derrek killed trent  in round 12
+NaturE killed Leaf  in round 12
+Apoth killed valyn  in round 12
+Round 12 ended with elimination. The winning team is Evil Geniuses.
+The current score is Evil Geniuses 6 - 6 G2 Esports.
+Apoth killed JonahP  in round 13
+Apoth killed icy  in round 13
+valyn killed Derrek  in round 13
+valyn killed NaturE  in round 13
+supamen killed valyn  in round 13
+Leaf killed Apoth  in round 13
+trent killed supamen  in round 13
+trent killed JAWGEMO  in round 13
+Round 13 ended with elimination. The winning team is G2 Esports.
+The current score is Evil Geniuses 6 - 7 G2 Esports.
+trent killed NaturE  in round 14
+Derrek killed icy  in round 14
+Apoth killed Leaf  in round 14
+valyn killed supamen  in round 14
+valyn killed Derrek  in round 14
+Apoth killed JonahP  in round 14
+valyn killed JAWGEMO  in round 14
+trent killed Apoth  in round 14
+Round 14 ended with elimination. The winning team is G2 Esports.
+The current score is Evil Geniuses 6 - 8 G2 Esports.
+JAWGEMO killed trent  in round 15
+NaturE killed valyn  in round 15
+NaturE killed icy  in round 15
+JonahP killed supamen  in round 15
+Round 15 ended with time_expired. The winning team is Evil Geniuses.
+The current score is Evil Geniuses 7 - 8 G2 Esports.
+Apoth killed icy  in round 16
+Apoth killed JonahP  in round 16
+Leaf killed Apoth  in round 16
+NaturE killed trent  in round 16
+Leaf killed NaturE  in round 16
+valyn killed supamen  in round 16
+Derrek killed valyn  in round 16
+Leaf killed Derrek  in round 16
+Leaf killed JAWGEMO  in round 16
+Round 16 ended with elimination. The winning team is G2 Esports.
+The current score is Evil Geniuses 7 - 9 G2 Esports.
+supamen killed icy  in round 17
+Leaf killed Derrek  in round 17
+Apoth killed Leaf  in round 17
+NaturE killed valyn  in round 17
+JAWGEMO killed JonahP  in round 17
+Apoth killed trent  in round 17
+Round 17 ended with elimination. The winning team is Evil Geniuses.
+The current score is Evil Geniuses 8 - 9 G2 Esports.
+Leaf killed Apoth  in round 18
+JonahP killed NaturE  in round 18
+supamen killed JonahP  in round 18
+Derrek killed trent  in round 18
+Derrek killed icy  in round 18
+Leaf killed Derrek  in round 18
+valyn killed JAWGEMO  in round 18
+supamen killed Leaf  in round 18
+valyn killed supamen  in round 18
+Round 18 ended with elimination. The winning team is G2 Esports.
+The current score is Evil Geniuses 8 - 10 G2 Esports.
+icy killed Derrek  in round 19
+Apoth killed icy  in round 19
+JonahP killed NaturE  in round 19
+trent killed JAWGEMO  in round 19
+valyn killed supamen  in round 19
+valyn killed Apoth  in round 19
+Round 19 ended with elimination. The winning team is G2 Esports.
+The current score is Evil Geniuses 8 - 11 G2 Esports.
+JAWGEMO killed valyn  in round 20
+supamen killed icy  in round 20
+trent killed JAWGEMO  in round 20
+NaturE killed trent  in round 20
+JonahP killed NaturE  in round 20
+JonahP killed supamen  in round 20
+Leaf killed Derrek  in round 20
+Apoth killed JonahP  in round 20
+Leaf killed Apoth  in round 20
+Round 20 ended with elimination. The winning team is G2 Esports.
+The current score is Evil Geniuses 8 - 12 G2 Esports.
+supamen killed valyn  in round 21
+trent killed supamen  in round 21
+JAWGEMO killed icy  in round 21
+trent killed JAWGEMO  in round 21
+JonahP killed Derrek  in round 21
+NaturE killed Leaf  in round 21
+trent killed Apoth  in round 21
+trent killed NaturE  in round 21
+Round 21 ended with elimination. The winning team is G2 Esports.
+The current score is Evil Geniuses 8 - 13 G2 Esports.
+Game ended with winning team: G2 Esports at 2024-04-07T21:57:42Z
+
+--- Player Stats ---
+icy: Team=G2 Esports, Kills=10, Deaths=18, Assists=5, KDA=0.83, First Kills=4, First Deaths=2
+Leaf: Team=G2 Esports, Kills=17, Deaths=13, Assists=8, KDA=1.92, First Kills=3, First Deaths=0
+valyn: Team=G2 Esports, Kills=21, Deaths=13, Assists=8, KDA=2.23, First Kills=2, First Deaths=3
+trent: Team=G2 Esports, Kills=17, Deaths=13, Assists=11, KDA=2.15, First Kills=3, First Deaths=1
+JonahP: Team=G2 Esports, Kills=17, Deaths=13, Assists=12, KDA=2.23, First Kills=0, First Deaths=2
+JAWGEMO: Team=Evil Geniuses, Kills=8, Deaths=17, Assists=4, KDA=0.71, First Kills=3, First Deaths=3
+Derrek: Team=Evil Geniuses, Kills=13, Deaths=17, Assists=11, KDA=1.41, First Kills=1, First Deaths=2
+NaturE: Team=Evil Geniuses, Kills=24, Deaths=14, Assists=9, KDA=2.36, First Kills=1, First Deaths=3
+Apoth: Team=Evil Geniuses, Kills=14, Deaths=17, Assists=6, KDA=1.18, First Kills=2, First Deaths=3
+supamen: Team=Evil Geniuses, Kills=12, Deaths=18, Assists=7, KDA=1.06, First Kills=2, First Deaths=2

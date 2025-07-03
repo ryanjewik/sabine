@@ -1,0 +1,97 @@
+Team 1: Team Liquid
+Team 2: BBL Esports
+Participating Players:
+Player 1: Brave
+Player 2: QutionerX
+Player 3: SouhcNi
+Player 4: Turko
+Player 5: AsLanMshadW
+Player 6: Jamppi
+Player 7: Sayf
+Player 8: Redgar
+Player 9: nAts
+Player 10: soulcas
+Winning Team: Team Liquid
+Score: Team Liquid 6 - 1 BBL Esports
+Tournament Name: vct emea 2023
+Game Start Time: 2023-05-12T15:55:13Z
+Game End Time: 2023-05-12T16:27:57Z
+Rounds ended by ELIMINATION count: 2
+Rounds ended by DEFUSE count: 0
+Rounds ended by DETONATE count: 4
+SPIKE PLANTED count: 4
+platformGameId: val:cca56de7-1b5e-4934-b4c1-52d60abbdeb3
+
+--- Events ---
+Game started at 2023-05-12T15:55:13Z
+AsLanMshadW killed nAts  in round 1
+Brave killed soulcas  in round 1
+Redgar killed SouhcNi  in round 1
+AsLanMshadW killed Jamppi  in round 1
+Redgar killed Brave  in round 1
+Sayf killed AsLanMshadW  in round 1
+Redgar killed Turko  in round 1
+QutionerX killed Sayf  in round 1
+QutionerX killed Redgar  in round 1
+Round 1 ended with detonate. The winning team is Team Liquid.
+The current score is Team Liquid 1 - 0 BBL Esports.
+QutionerX killed QutionerX  in round 2
+Redgar killed AsLanMshadW  in round 2
+Redgar killed Turko  in round 2
+Jamppi killed Brave  in round 2
+Redgar killed SouhcNi  in round 2
+Jamppi killed QutionerX  in round 2
+Round 2 ended with elimination. The winning team is Team Liquid.
+The current score is Team Liquid 2 - 0 BBL Esports.
+Sayf killed AsLanMshadW  in round 3
+Brave killed Redgar  in round 3
+Brave killed Jamppi  in round 3
+Sayf killed Brave  in round 3
+Sayf killed QutionerX  in round 3
+soulcas killed Turko  in round 3
+Round 3 ended with detonate. The winning team is Team Liquid.
+The current score is Team Liquid 3 - 0 BBL Esports.
+nAts killed AsLanMshadW  in round 4
+Redgar killed Turko  in round 4
+Redgar killed QutionerX  in round 4
+soulcas killed Brave  in round 4
+Jamppi killed SouhcNi  in round 4
+Round 4 ended with elimination. The winning team is Team Liquid.
+The current score is Team Liquid 4 - 0 BBL Esports.
+Brave killed Sayf  in round 5
+Jamppi killed Brave  in round 5
+AsLanMshadW killed soulcas  in round 5
+QutionerX killed Redgar  in round 5
+AsLanMshadW killed Jamppi  in round 5
+nAts killed Turko  in round 5
+nAts killed AsLanMshadW  in round 5
+Round 5 ended with time_expired. The winning team is BBL Esports.
+The current score is Team Liquid 4 - 1 BBL Esports.
+nAts killed QutionerX  in round 6
+nAts killed QutionerX  in round 6
+Redgar killed SouhcNi  in round 6
+Redgar killed SouhcNi  in round 6
+Turko killed Redgar  in round 6
+soulcas killed Brave  in round 6
+Turko killed Jamppi  in round 6
+Round 6 ended with detonate. The winning team is Team Liquid.
+The current score is Team Liquid 5 - 1 BBL Esports.
+AsLanMshadW killed Sayf  in round 7
+Jamppi killed AsLanMshadW  in round 7
+Jamppi killed QutionerX  in round 7
+Redgar killed Brave  in round 7
+nAts killed SouhcNi  in round 7
+Round 7 ended with detonate. The winning team is Team Liquid.
+The current score is Team Liquid 6 - 1 BBL Esports.
+
+--- Player Stats ---
+Brave: Team=BBL Esports, Kills=4, Deaths=7, Assists=3, KDA=1.0, First Kills=1, First Deaths=0
+QutionerX: Team=BBL Esports, Kills=4, Deaths=7, Assists=1, KDA=0.71, First Kills=1, First Deaths=2
+SouhcNi: Team=BBL Esports, Kills=0, Deaths=6, Assists=1, KDA=0.17, First Kills=0, First Deaths=0
+Turko: Team=BBL Esports, Kills=2, Deaths=5, Assists=2, KDA=0.8, First Kills=0, First Deaths=0
+AsLanMshadW: Team=BBL Esports, Kills=5, Deaths=6, Assists=4, KDA=1.5, First Kills=2, First Deaths=2
+Jamppi: Team=Team Liquid, Kills=6, Deaths=4, Assists=6, KDA=3.0, First Kills=0, First Deaths=0
+Sayf: Team=Team Liquid, Kills=4, Deaths=3, Assists=0, KDA=1.33, First Kills=1, First Deaths=2
+Redgar: Team=Team Liquid, Kills=11, Deaths=4, Assists=2, KDA=3.25, First Kills=0, First Deaths=0
+nAts: Team=Team Liquid, Kills=6, Deaths=1, Assists=0, KDA=6.0, First Kills=2, First Deaths=1
+soulcas: Team=Team Liquid, Kills=3, Deaths=2, Assists=7, KDA=5.0, First Kills=0, First Deaths=0

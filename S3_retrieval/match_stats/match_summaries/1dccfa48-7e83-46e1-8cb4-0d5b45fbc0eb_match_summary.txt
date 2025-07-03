@@ -1,0 +1,238 @@
+Team 1: LOUD
+Team 2: DRX
+Participating Players:
+Player 1: ZestKR
+Player 2: BuZz
+Player 3: stax
+Player 4: MaKo
+Player 5: Rb
+Player 6: aspas
+Player 7: cauanzin
+Player 8: Saadhak
+Player 9: Less
+Player 10: tuyz
+Winning Team: DRX
+Score: LOUD 8 - 13 DRX
+Tournament Name: vct champions 2023
+Game Start Time: 2023-08-07T00:33:53Z
+Game End Time: 2023-08-07T01:26:29Z
+Rounds ended by ELIMINATION count: 15
+Rounds ended by DEFUSE count: 5
+Rounds ended by DETONATE count: 1
+SPIKE PLANTED count: 6
+platformGameId: val:1dccfa48-7e83-46e1-8cb4-0d5b45fbc0eb
+
+--- Events ---
+Game started at 2023-08-07T00:33:53Z
+Less killed stax  in round 1
+Less killed BuZz  in round 1
+MaKo killed Less  in round 1
+Rb killed cauanzin  in round 1
+Rb killed Saadhak  in round 1
+Rb killed aspas  in round 1
+tuyz killed ZestKR  in round 1
+tuyz killed MaKo  in round 1
+Round 1 ended with spike_defuse. The winning team is DRX.
+The current score is LOUD 0 - 1 DRX.
+tuyz killed Rb  in round 2
+aspas killed stax  in round 2
+ZestKR killed aspas  in round 2
+Less killed ZestKR  in round 2
+Saadhak killed MaKo  in round 2
+Saadhak killed BuZz  in round 2
+Rb killed tuyz  in round 2
+Rb killed cauanzin  in round 2
+Rb killed Saadhak  in round 2
+Less killed Rb  in round 2
+Round 2 ended with elimination. The winning team is LOUD.
+The current score is LOUD 1 - 1 DRX.
+cauanzin killed MaKo  in round 3
+ZestKR killed cauanzin  in round 3
+Less killed ZestKR  in round 3
+Less killed BuZz  in round 3
+stax killed aspas  in round 3
+Saadhak killed Rb  in round 3
+stax killed Saadhak  in round 3
+tuyz killed stax  in round 3
+Round 3 ended with elimination. The winning team is LOUD.
+The current score is LOUD 2 - 1 DRX.
+tuyz killed Rb  in round 4
+ZestKR killed aspas  in round 4
+ZestKR killed cauanzin  in round 4
+ZestKR killed Saadhak  in round 4
+ZestKR killed tuyz  in round 4
+Less killed ZestKR  in round 4
+MaKo killed Less  in round 4
+Round 4 ended with elimination. The winning team is DRX.
+The current score is LOUD 2 - 2 DRX.
+BuZz killed tuyz  in round 5
+BuZz killed Saadhak  in round 5
+Rb killed cauanzin  in round 5
+Less killed stax  in round 5
+ZestKR killed Less  in round 5
+aspas killed Rb  in round 5
+BuZz killed aspas  in round 5
+Round 5 ended with elimination. The winning team is DRX.
+The current score is LOUD 2 - 3 DRX.
+cauanzin killed BuZz  in round 6
+cauanzin killed ZestKR  in round 6
+stax killed Less  in round 6
+cauanzin killed Rb  in round 6
+stax killed cauanzin  in round 6
+tuyz killed MaKo  in round 6
+stax killed aspas  in round 6
+tuyz killed stax  in round 6
+Round 6 ended with elimination. The winning team is LOUD.
+The current score is LOUD 3 - 3 DRX.
+BuZz killed Less  in round 7
+MaKo killed Saadhak  in round 7
+Rb killed aspas  in round 7
+tuyz killed MaKo  in round 7
+cauanzin killed Rb  in round 7
+tuyz killed ZestKR  in round 7
+BuZz killed tuyz  in round 7
+BuZz killed cauanzin  in round 7
+Round 7 ended with spike_defuse. The winning team is DRX.
+The current score is LOUD 3 - 4 DRX.
+ZestKR killed aspas  in round 8
+MaKo killed tuyz  in round 8
+MaKo killed Saadhak  in round 8
+cauanzin killed MaKo  in round 8
+ZestKR killed cauanzin  in round 8
+Less killed Rb  in round 8
+Less killed ZestKR  in round 8
+Less killed stax  in round 8
+Less killed BuZz  in round 8
+Round 8 ended with elimination. The winning team is LOUD.
+The current score is LOUD 4 - 4 DRX.
+BuZz killed Saadhak  in round 9
+stax killed tuyz  in round 9
+cauanzin killed Rb  in round 9
+cauanzin killed ZestKR  in round 9
+BuZz killed aspas  in round 9
+cauanzin killed BuZz  in round 9
+stax killed Less  in round 9
+cauanzin killed MaKo  in round 9
+stax killed cauanzin  in round 9
+Round 9 ended with spike_defuse. The winning team is DRX.
+The current score is LOUD 4 - 5 DRX.
+aspas killed ZestKR  in round 10
+MaKo killed tuyz  in round 10
+BuZz killed aspas  in round 10
+Rb killed Saadhak  in round 10
+Rb killed Less  in round 10
+stax killed cauanzin  in round 10
+Round 10 ended with elimination. The winning team is DRX.
+The current score is LOUD 4 - 6 DRX.
+cauanzin killed BuZz  in round 11
+MaKo killed cauanzin  in round 11
+MaKo killed Less  in round 11
+Rb killed tuyz  in round 11
+stax killed aspas  in round 11
+ZestKR killed Saadhak  in round 11
+Round 11 ended with elimination. The winning team is DRX.
+The current score is LOUD 4 - 7 DRX.
+BuZz killed aspas  in round 12
+cauanzin killed ZestKR  in round 12
+stax killed Less  in round 12
+tuyz killed stax  in round 12
+BuZz killed tuyz  in round 12
+Rb killed Saadhak  in round 12
+Rb killed cauanzin  in round 12
+Round 12 ended with elimination. The winning team is DRX.
+The current score is LOUD 4 - 8 DRX.
+stax killed Less  in round 13
+aspas killed MaKo  in round 13
+aspas killed stax  in round 13
+ZestKR killed Saadhak  in round 13
+aspas killed ZestKR  in round 13
+cauanzin killed BuZz  in round 13
+cauanzin killed Rb  in round 13
+Round 13 ended with spike_defuse. The winning team is LOUD.
+The current score is LOUD 5 - 8 DRX.
+aspas killed BuZz  in round 14
+Saadhak killed Rb  in round 14
+aspas killed stax  in round 14
+MaKo killed tuyz  in round 14
+ZestKR killed aspas  in round 14
+Saadhak killed ZestKR  in round 14
+cauanzin killed MaKo  in round 14
+Round 14 ended with elimination. The winning team is LOUD.
+The current score is LOUD 6 - 8 DRX.
+aspas killed Rb  in round 15
+aspas killed MaKo  in round 15
+aspas killed BuZz  in round 15
+Less killed ZestKR  in round 15
+aspas killed stax  in round 15
+Round 15 ended with elimination. The winning team is LOUD.
+The current score is LOUD 7 - 8 DRX.
+Less killed ZestKR  in round 16
+aspas killed MaKo  in round 16
+aspas killed stax  in round 16
+BuZz killed tuyz  in round 16
+aspas killed BuZz  in round 16
+Saadhak killed Rb  in round 16
+Round 16 ended with spike_defuse. The winning team is LOUD.
+The current score is LOUD 8 - 8 DRX.
+stax killed Saadhak  in round 17
+stax killed aspas  in round 17
+tuyz killed BuZz  in round 17
+tuyz killed stax  in round 17
+Rb killed tuyz  in round 17
+Rb killed Less  in round 17
+Rb killed cauanzin  in round 17
+Round 17 ended with elimination. The winning team is DRX.
+The current score is LOUD 8 - 9 DRX.
+tuyz killed Rb  in round 18
+MaKo killed Saadhak  in round 18
+aspas killed MaKo  in round 18
+cauanzin killed stax  in round 18
+tuyz killed BuZz  in round 18
+ZestKR killed aspas  in round 18
+cauanzin killed ZestKR  in round 18
+Round 18 ended with detonate. The winning team is DRX.
+The current score is LOUD 8 - 10 DRX.
+cauanzin killed cauanzin  in round 19
+Less killed Less  in round 19
+ZestKR killed cauanzin  in round 19
+aspas killed BuZz  in round 19
+ZestKR killed Saadhak  in round 19
+ZestKR killed Less  in round 19
+tuyz killed ZestKR  in round 19
+MaKo killed tuyz  in round 19
+aspas killed stax  in round 19
+MaKo killed aspas  in round 19
+Round 19 ended with elimination. The winning team is DRX.
+The current score is LOUD 8 - 11 DRX.
+Saadhak killed BuZz  in round 20
+Rb killed aspas  in round 20
+Rb killed tuyz  in round 20
+MaKo killed cauanzin  in round 20
+MaKo killed Saadhak  in round 20
+stax killed Less  in round 20
+Round 20 ended with elimination. The winning team is DRX.
+The current score is LOUD 8 - 12 DRX.
+MaKo killed aspas  in round 21
+cauanzin killed MaKo  in round 21
+ZestKR killed Less  in round 21
+Saadhak killed stax  in round 21
+cauanzin killed BuZz  in round 21
+Saadhak killed ZestKR  in round 21
+Rb killed Saadhak  in round 21
+Rb killed cauanzin  in round 21
+Rb killed tuyz  in round 21
+Round 21 ended with elimination. The winning team is DRX.
+The current score is LOUD 8 - 13 DRX.
+Game ended with winning team: DRX at 2023-08-07T01:26:29Z
+
+--- Player Stats ---
+ZestKR: Team=DRX, Kills=17, Deaths=17, Assists=7, KDA=1.41, First Kills=1, First Deaths=2
+BuZz: Team=DRX, Kills=12, Deaths=16, Assists=3, KDA=0.94, First Kills=4, First Deaths=4
+stax: Team=DRX, Kills=15, Deaths=15, Assists=13, KDA=1.87, First Kills=2, First Deaths=1
+MaKo: Team=DRX, Kills=15, Deaths=13, Assists=14, KDA=2.23, First Kills=1, First Deaths=1
+Rb: Team=DRX, Kills=21, Deaths=14, Assists=4, KDA=1.79, First Kills=0, First Deaths=4
+aspas: Team=LOUD, Kills=18, Deaths=18, Assists=4, KDA=1.22, First Kills=3, First Deaths=3
+cauanzin: Team=LOUD, Kills=20, Deaths=17, Assists=12, KDA=1.88, First Kills=4, First Deaths=1
+Saadhak: Team=LOUD, Kills=9, Deaths=17, Assists=7, KDA=0.94, First Kills=1, First Deaths=2
+Less: Team=LOUD, Kills=15, Deaths=15, Assists=7, KDA=1.47, First Kills=2, First Deaths=2
+tuyz: Team=LOUD, Kills=15, Deaths=15, Assists=7, KDA=1.47, First Kills=3, First Deaths=1

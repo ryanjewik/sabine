@@ -1,0 +1,255 @@
+Team 1: Futbolist
+Team 2: Team Heretics
+Participating Players:
+Player 1: MiniBoo
+Player 2: RieNs
+Player 3: Boo
+Player 4: benjyfishy
+Player 5: Wo0t
+Player 6: qRaxs
+Player 7: yetujey
+Player 8: MrFaliN
+Player 9: cNed
+Player 10: ATA KAPTAN
+Winning Team: Team Heretics
+Score: Futbolist 10 - 13 Team Heretics
+Tournament Name: vct emea stage 2 2024
+Game Start Time: 2024-06-26T15:47:10Z
+Game End Time: 2024-06-26T16:58:15Z
+Rounds ended by ELIMINATION count: 14
+Rounds ended by DEFUSE count: 6
+Rounds ended by DETONATE count: 3
+SPIKE PLANTED count: 9
+platformGameId: val:4cde9ed6-55f7-4b36-a902-ebe7ebc926c7
+
+--- Events ---
+Game started at 2024-06-26T15:47:10Z
+RieNs killed qRaxs  in round 1
+RieNs killed MrFaliN  in round 1
+ATA KAPTAN killed MiniBoo  in round 1
+RieNs killed ATA KAPTAN  in round 1
+RieNs killed cNed  in round 1
+yetujey killed benjyfishy  in round 1
+RieNs killed yetujey  in round 1
+Round 1 ended with elimination. The winning team is Team Heretics.
+The current score is Futbolist 0 - 1 Team Heretics.
+Wo0t killed ATA KAPTAN  in round 2
+MiniBoo killed cNed  in round 2
+yetujey killed Wo0t  in round 2
+MiniBoo killed qRaxs  in round 2
+benjyfishy killed MrFaliN  in round 2
+benjyfishy killed yetujey  in round 2
+Round 2 ended with elimination. The winning team is Team Heretics.
+The current score is Futbolist 0 - 2 Team Heretics.
+RieNs killed ATA KAPTAN  in round 3
+Boo killed yetujey  in round 3
+cNed killed Wo0t  in round 3
+cNed killed MiniBoo  in round 3
+qRaxs killed Boo  in round 3
+qRaxs killed benjyfishy  in round 3
+RieNs killed cNed  in round 3
+RieNs killed qRaxs  in round 3
+RieNs killed MrFaliN  in round 3
+Round 3 ended with detonate. The winning team is Futbolist.
+The current score is Futbolist 1 - 2 Team Heretics.
+RieNs killed RieNs  in round 4
+ATA KAPTAN killed MiniBoo  in round 4
+Boo killed ATA KAPTAN  in round 4
+Wo0t killed yetujey  in round 4
+qRaxs killed Boo  in round 4
+MrFaliN killed benjyfishy  in round 4
+Wo0t killed qRaxs  in round 4
+RieNs killed cNed  in round 4
+RieNs killed MrFaliN  in round 4
+Round 4 ended with spike_defuse. The winning team is Team Heretics.
+The current score is Futbolist 1 - 3 Team Heretics.
+cNed killed MiniBoo  in round 5
+Boo killed cNed  in round 5
+ATA KAPTAN killed Boo  in round 5
+qRaxs killed Wo0t  in round 5
+RieNs killed qRaxs  in round 5
+RieNs killed MrFaliN  in round 5
+benjyfishy killed ATA KAPTAN  in round 5
+yetujey killed benjyfishy  in round 5
+Round 5 ended with spike_defuse. The winning team is Team Heretics.
+The current score is Futbolist 1 - 4 Team Heretics.
+RieNs killed yetujey  in round 6
+benjyfishy killed cNed  in round 6
+MrFaliN killed benjyfishy  in round 6
+MiniBoo killed yetujey  in round 6
+Wo0t killed ATA KAPTAN  in round 6
+qRaxs killed Wo0t  in round 6
+RieNs killed qRaxs  in round 6
+MrFaliN killed Boo  in round 6
+MiniBoo killed MrFaliN  in round 6
+Round 6 ended with spike_defuse. The winning team is Team Heretics.
+The current score is Futbolist 1 - 5 Team Heretics.
+MrFaliN killed MiniBoo  in round 7
+Wo0t killed ATA KAPTAN  in round 7
+cNed killed RieNs  in round 7
+Wo0t killed qRaxs  in round 7
+Wo0t killed MrFaliN  in round 7
+Wo0t killed cNed  in round 7
+yetujey killed Boo  in round 7
+yetujey killed benjyfishy  in round 7
+yetujey killed Wo0t  in round 7
+Round 7 ended with elimination. The winning team is Futbolist.
+The current score is Futbolist 2 - 5 Team Heretics.
+cNed killed RieNs  in round 8
+cNed killed Boo  in round 8
+MiniBoo killed yetujey  in round 8
+Wo0t killed cNed  in round 8
+MrFaliN killed Wo0t  in round 8
+ATA KAPTAN killed MiniBoo  in round 8
+MrFaliN killed benjyfishy  in round 8
+Round 8 ended with elimination. The winning team is Futbolist.
+The current score is Futbolist 3 - 5 Team Heretics.
+Boo killed MrFaliN  in round 9
+ATA KAPTAN killed Boo  in round 9
+MiniBoo killed cNed  in round 9
+Wo0t killed ATA KAPTAN  in round 9
+qRaxs killed MiniBoo  in round 9
+benjyfishy killed qRaxs  in round 9
+yetujey killed benjyfishy  in round 9
+yetujey killed Wo0t  in round 9
+yetujey killed RieNs  in round 9
+Round 9 ended with elimination. The winning team is Futbolist.
+The current score is Futbolist 4 - 5 Team Heretics.
+cNed killed RieNs  in round 10
+cNed killed benjyfishy  in round 10
+cNed killed Wo0t  in round 10
+ATA KAPTAN killed MiniBoo  in round 10
+Boo killed ATA KAPTAN  in round 10
+qRaxs killed Boo  in round 10
+Round 10 ended with elimination. The winning team is Futbolist.
+The current score is Futbolist 5 - 5 Team Heretics.
+qRaxs killed Boo  in round 11
+MiniBoo killed ATA KAPTAN  in round 11
+cNed killed RieNs  in round 11
+benjyfishy killed MrFaliN  in round 11
+benjyfishy killed qRaxs  in round 11
+MiniBoo killed cNed  in round 11
+MiniBoo killed yetujey  in round 11
+Round 11 ended with elimination. The winning team is Team Heretics.
+The current score is Futbolist 5 - 6 Team Heretics.
+cNed killed benjyfishy  in round 12
+qRaxs killed MiniBoo  in round 12
+RieNs killed qRaxs  in round 12
+cNed killed RieNs  in round 12
+MrFaliN killed Boo  in round 12
+Wo0t killed yetujey  in round 12
+MrFaliN killed Wo0t  in round 12
+Round 12 ended with elimination. The winning team is Futbolist.
+The current score is Futbolist 6 - 6 Team Heretics.
+cNed killed MiniBoo  in round 13
+RieNs killed qRaxs  in round 13
+yetujey killed RieNs  in round 13
+ATA KAPTAN killed Wo0t  in round 13
+benjyfishy killed ATA KAPTAN  in round 13
+yetujey killed benjyfishy  in round 13
+Boo killed yetujey  in round 13
+cNed killed Boo  in round 13
+Round 13 ended with elimination. The winning team is Futbolist.
+The current score is Futbolist 7 - 6 Team Heretics.
+MiniBoo killed yetujey  in round 14
+Boo killed qRaxs  in round 14
+MiniBoo killed MrFaliN  in round 14
+MiniBoo killed cNed  in round 14
+ATA KAPTAN killed MiniBoo  in round 14
+ATA KAPTAN killed benjyfishy  in round 14
+Boo killed ATA KAPTAN  in round 14
+Round 14 ended with elimination. The winning team is Team Heretics.
+The current score is Futbolist 7 - 7 Team Heretics.
+qRaxs killed MiniBoo  in round 15
+RieNs killed qRaxs  in round 15
+MrFaliN killed Wo0t  in round 15
+Boo killed ATA KAPTAN  in round 15
+RieNs killed MrFaliN  in round 15
+benjyfishy killed yetujey  in round 15
+Boo killed cNed  in round 15
+Round 15 ended with elimination. The winning team is Team Heretics.
+The current score is Futbolist 7 - 8 Team Heretics.
+cNed killed MiniBoo  in round 16
+ATA KAPTAN killed Boo  in round 16
+Round 16 ended with spike_defuse. The winning team is Futbolist.
+The current score is Futbolist 8 - 8 Team Heretics.
+benjyfishy killed qRaxs  in round 17
+MrFaliN killed benjyfishy  in round 17
+yetujey killed MiniBoo  in round 17
+MrFaliN killed Wo0t  in round 17
+ATA KAPTAN killed RieNs  in round 17
+cNed killed Boo  in round 17
+Round 17 ended with spike_defuse. The winning team is Futbolist.
+The current score is Futbolist 9 - 8 Team Heretics.
+MrFaliN killed Boo  in round 18
+MrFaliN killed RieNs  in round 18
+Wo0t killed qRaxs  in round 18
+cNed killed MiniBoo  in round 18
+MrFaliN killed Wo0t  in round 18
+MrFaliN killed benjyfishy  in round 18
+Round 18 ended with spike_defuse. The winning team is Futbolist.
+The current score is Futbolist 10 - 8 Team Heretics.
+RieNs killed yetujey  in round 19
+cNed killed Wo0t  in round 19
+qRaxs killed MiniBoo  in round 19
+RieNs killed MrFaliN  in round 19
+Boo killed cNed  in round 19
+RieNs killed ATA KAPTAN  in round 19
+qRaxs killed Boo  in round 19
+qRaxs killed benjyfishy  in round 19
+Round 19 ended with detonate. The winning team is Team Heretics.
+The current score is Futbolist 10 - 9 Team Heretics.
+RieNs killed qRaxs  in round 20
+Wo0t killed ATA KAPTAN  in round 20
+cNed killed Wo0t  in round 20
+cNed killed MiniBoo  in round 20
+RieNs killed qRaxs  in round 20
+RieNs killed MrFaliN  in round 20
+cNed killed Boo  in round 20
+cNed killed benjyfishy  in round 20
+RieNs killed cNed  in round 20
+RieNs killed yetujey  in round 20
+Round 20 ended with elimination. The winning team is Team Heretics.
+The current score is Futbolist 10 - 10 Team Heretics.
+Wo0t killed cNed  in round 21
+RieNs killed MrFaliN  in round 21
+qRaxs killed benjyfishy  in round 21
+Wo0t killed ATA KAPTAN  in round 21
+Boo killed qRaxs  in round 21
+Round 21 ended with detonate. The winning team is Team Heretics.
+The current score is Futbolist 10 - 11 Team Heretics.
+Wo0t killed ATA KAPTAN  in round 22
+MiniBoo killed qRaxs  in round 22
+yetujey killed MiniBoo  in round 22
+RieNs killed cNed  in round 22
+yetujey killed RieNs  in round 22
+benjyfishy killed MrFaliN  in round 22
+yetujey killed Boo  in round 22
+benjyfishy killed yetujey  in round 22
+Round 22 ended with elimination. The winning team is Team Heretics.
+The current score is Futbolist 10 - 12 Team Heretics.
+MiniBoo killed ATA KAPTAN  in round 23
+MiniBoo killed cNed  in round 23
+qRaxs killed RieNs  in round 23
+Wo0t killed qRaxs  in round 23
+MiniBoo killed MrFaliN  in round 23
+yetujey killed benjyfishy  in round 23
+yetujey killed MiniBoo  in round 23
+yetujey killed Wo0t  in round 23
+Boo killed yetujey  in round 23
+Round 23 ended with elimination. The winning team is Team Heretics.
+The current score is Futbolist 10 - 13 Team Heretics.
+Game ended with winning team: Team Heretics at 2024-06-26T16:58:15Z
+Boo killed Boo  in round 24
+
+--- Player Stats ---
+MiniBoo: Team=Team Heretics, Kills=16, Deaths=19, Assists=7, KDA=1.21, First Kills=2, First Deaths=5
+RieNs: Team=Team Heretics, Kills=30, Deaths=12, Assists=8, KDA=3.17, First Kills=6, First Deaths=3
+Boo: Team=Team Heretics, Kills=14, Deaths=18, Assists=14, KDA=1.56, First Kills=2, First Deaths=3
+benjyfishy: Team=Team Heretics, Kills=12, Deaths=18, Assists=8, KDA=1.11, First Kills=1, First Deaths=1
+Wo0t: Team=Team Heretics, Kills=17, Deaths=16, Assists=13, KDA=1.88, First Kills=3, First Deaths=0
+qRaxs: Team=Futbolist, Kills=15, Deaths=20, Assists=6, KDA=1.05, First Kills=2, First Deaths=3
+yetujey: Team=Futbolist, Kills=18, Deaths=16, Assists=3, KDA=1.31, First Kills=0, First Deaths=3
+MrFaliN: Team=Futbolist, Kills=15, Deaths=16, Assists=20, KDA=2.19, First Kills=2, First Deaths=1
+cNed: Team=Futbolist, Kills=22, Deaths=17, Assists=7, KDA=1.71, First Kills=6, First Deaths=1
+ATA KAPTAN: Team=Futbolist, Kills=11, Deaths=18, Assists=8, KDA=1.06, First Kills=0, First Deaths=4

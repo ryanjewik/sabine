@@ -1,0 +1,168 @@
+Team 1: DRX
+Team 2: Cloud9 Blue
+Participating Players:
+Player 1: Leaf
+Player 2: xeppaa
+Player 3: vanity
+Player 4: Zellsis
+Player 5: yay
+Player 6: ZestKR
+Player 7: BuZz
+Player 8: stax
+Player 9: MaKo
+Player 10: Rb
+Winning Team: DRX
+Score: DRX 13 - 2 Cloud9 Blue
+Tournament Name: lock in brazil 2023
+Game Start Time: 2023-02-18T18:46:50Z
+Game End Time: 2023-02-18T19:16:56Z
+Rounds ended by ELIMINATION count: 12
+Rounds ended by DEFUSE count: 1
+Rounds ended by DETONATE count: 2
+SPIKE PLANTED count: 3
+platformGameId: val:c6ad541f-097f-4f6c-b845-114a0f472be4
+
+--- Events ---
+Game started at 2023-02-18T18:46:50Z
+yay killed stax  in round 1
+BuZz killed Zellsis  in round 1
+yay killed BuZz  in round 1
+MaKo killed yay  in round 1
+vanity killed MaKo  in round 1
+ZestKR killed Leaf  in round 1
+Rb killed xeppaa  in round 1
+vanity killed Rb  in round 1
+ZestKR killed vanity  in round 1
+Round 1 ended with elimination. The winning team is DRX.
+The current score is DRX 1 - 0 Cloud9 Blue.
+stax killed yay  in round 2
+Rb killed Leaf  in round 2
+Rb killed Zellsis  in round 2
+Rb killed vanity  in round 2
+BuZz killed xeppaa  in round 2
+Round 2 ended with elimination. The winning team is DRX.
+The current score is DRX 2 - 0 Cloud9 Blue.
+Zellsis killed ZestKR  in round 3
+Zellsis killed stax  in round 3
+BuZz killed xeppaa  in round 3
+vanity killed BuZz  in round 3
+MaKo killed Zellsis  in round 3
+Leaf killed MaKo  in round 3
+Rb killed yay  in round 3
+Rb killed vanity  in round 3
+Rb killed Leaf  in round 3
+Round 3 ended with elimination. The winning team is DRX.
+The current score is DRX 3 - 0 Cloud9 Blue.
+BuZz killed yay  in round 4
+BuZz killed Leaf  in round 4
+BuZz killed xeppaa  in round 4
+vanity killed BuZz  in round 4
+Rb killed vanity  in round 4
+Rb killed Zellsis  in round 4
+Round 4 ended with elimination. The winning team is DRX.
+The current score is DRX 4 - 0 Cloud9 Blue.
+BuZz killed Leaf  in round 5
+xeppaa killed BuZz  in round 5
+MaKo killed vanity  in round 5
+Rb killed xeppaa  in round 5
+Zellsis killed MaKo  in round 5
+yay killed Rb  in round 5
+ZestKR killed yay  in round 5
+ZestKR killed vanity  in round 5
+stax killed Zellsis  in round 5
+Round 5 ended with elimination. The winning team is DRX.
+The current score is DRX 5 - 0 Cloud9 Blue.
+ZestKR killed Leaf  in round 6
+yay killed ZestKR  in round 6
+yay killed MaKo  in round 6
+stax killed yay  in round 6
+BuZz killed Zellsis  in round 6
+xeppaa killed Rb  in round 6
+stax killed xeppaa  in round 6
+BuZz killed vanity  in round 6
+Round 6 ended with elimination. The winning team is DRX.
+The current score is DRX 6 - 0 Cloud9 Blue.
+xeppaa killed Rb  in round 7
+BuZz killed Zellsis  in round 7
+vanity killed ZestKR  in round 7
+Leaf killed BuZz  in round 7
+xeppaa killed MaKo  in round 7
+yay killed stax  in round 7
+Round 7 ended with spike_defuse. The winning team is Cloud9 Blue.
+The current score is DRX 6 - 1 Cloud9 Blue.
+BuZz killed Zellsis  in round 8
+stax killed Leaf  in round 8
+BuZz killed vanity  in round 8
+stax killed xeppaa  in round 8
+Round 8 ended with detonate. The winning team is DRX.
+The current score is DRX 7 - 1 Cloud9 Blue.
+Rb killed Leaf  in round 9
+BuZz killed yay  in round 9
+vanity killed BuZz  in round 9
+Round 9 ended with detonate. The winning team is DRX.
+The current score is DRX 8 - 1 Cloud9 Blue.
+xeppaa killed Rb  in round 10
+MaKo killed Zellsis  in round 10
+MaKo killed xeppaa  in round 10
+ZestKR killed Leaf  in round 10
+BuZz killed vanity  in round 10
+MaKo killed yay  in round 10
+Round 10 ended with elimination. The winning team is DRX.
+The current score is DRX 9 - 1 Cloud9 Blue.
+BuZz killed Zellsis  in round 11
+yay killed BuZz  in round 11
+Rb killed yay  in round 11
+stax killed xeppaa  in round 11
+stax killed vanity  in round 11
+Leaf killed stax  in round 11
+Rb killed Leaf  in round 11
+Round 11 ended with elimination. The winning team is DRX.
+The current score is DRX 10 - 1 Cloud9 Blue.
+yay killed BuZz  in round 12
+yay killed Rb  in round 12
+MaKo killed Leaf  in round 12
+yay killed ZestKR  in round 12
+stax killed yay  in round 12
+stax killed Leaf  in round 12
+stax killed Zellsis  in round 12
+MaKo killed xeppaa  in round 12
+stax killed vanity  in round 12
+Round 12 ended with elimination. The winning team is DRX.
+The current score is DRX 11 - 1 Cloud9 Blue.
+Leaf killed BuZz  in round 13
+xeppaa killed ZestKR  in round 13
+Leaf killed stax  in round 13
+yay killed MaKo  in round 13
+Zellsis killed Rb  in round 13
+Round 13 ended with elimination. The winning team is Cloud9 Blue.
+The current score is DRX 11 - 2 Cloud9 Blue.
+MaKo killed Leaf  in round 14
+xeppaa killed Rb  in round 14
+BuZz killed Zellsis  in round 14
+xeppaa killed BuZz  in round 14
+stax killed xeppaa  in round 14
+MaKo killed yay  in round 14
+stax killed vanity  in round 14
+Round 14 ended with elimination. The winning team is DRX.
+The current score is DRX 12 - 2 Cloud9 Blue.
+BuZz killed Zellsis  in round 15
+stax killed vanity  in round 15
+ZestKR killed Leaf  in round 15
+xeppaa killed BuZz  in round 15
+Rb killed xeppaa  in round 15
+stax killed yay  in round 15
+Round 15 ended with elimination. The winning team is DRX.
+The current score is DRX 13 - 2 Cloud9 Blue.
+Game ended with winning team: DRX at 2023-02-18T19:16:56Z
+
+--- Player Stats ---
+Leaf: Team=Cloud9 Blue, Kills=5, Deaths=14, Assists=6, KDA=0.79, First Kills=1, First Deaths=4
+xeppaa: Team=Cloud9 Blue, Kills=9, Deaths=12, Assists=2, KDA=0.92, First Kills=2, First Deaths=0
+vanity: Team=Cloud9 Blue, Kills=6, Deaths=13, Assists=3, KDA=0.69, First Kills=0, First Deaths=0
+Zellsis: Team=Cloud9 Blue, Kills=4, Deaths=13, Assists=2, KDA=0.46, First Kills=1, First Deaths=3
+yay: Team=Cloud9 Blue, Kills=11, Deaths=12, Assists=0, KDA=0.92, First Kills=2, First Deaths=2
+ZestKR: Team=DRX, Kills=7, Deaths=5, Assists=2, KDA=1.8, First Kills=1, First Deaths=1
+BuZz: Team=DRX, Kills=17, Deaths=11, Assists=4, KDA=1.91, First Kills=5, First Deaths=2
+stax: Team=DRX, Kills=16, Deaths=5, Assists=5, KDA=4.2, First Kills=1, First Deaths=1
+MaKo: Team=DRX, Kills=10, Deaths=6, Assists=13, KDA=3.83, First Kills=1, First Deaths=0
+Rb: Team=DRX, Kills=14, Deaths=8, Assists=3, KDA=2.12, First Kills=1, First Deaths=2

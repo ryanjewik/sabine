@@ -1,0 +1,239 @@
+Team 1: KRÜ Esports
+Team 2: Giants
+Participating Players:
+Player 1: Fit1nho
+Player 2: nukkye
+Player 3: rhyme
+Player 4: Cloud
+Player 5: hoody
+Player 6: DAVEEYS
+Player 7: Klaus
+Player 8: Melser
+Player 9: KeznitdeuS
+Player 10: NagZet
+Winning Team: Giants
+Score: KRÜ Esports 10 - 13 Giants
+Tournament Name: vct champions 2023
+Game Start Time: 2023-08-11T18:53:35Z
+Game End Time: 2023-08-11T20:01:02Z
+Rounds ended by ELIMINATION count: 14
+Rounds ended by DEFUSE count: 4
+Rounds ended by DETONATE count: 4
+SPIKE PLANTED count: 8
+platformGameId: val:49a38df8-386a-41b5-833d-b9f6d45d2716
+
+--- Events ---
+Game started at 2023-08-11T18:53:35Z
+Cloud killed Melser  in round 1
+nukkye killed Klaus  in round 1
+Cloud killed NagZet  in round 1
+rhyme killed DAVEEYS  in round 1
+rhyme killed KeznitdeuS  in round 1
+Round 1 ended with spike_defuse. The winning team is Giants.
+The current score is KRÜ Esports 0 - 1 Giants.
+DAVEEYS killed Fit1nho  in round 2
+rhyme killed Melser  in round 2
+rhyme killed KeznitdeuS  in round 2
+nukkye killed DAVEEYS  in round 2
+rhyme killed Klaus  in round 2
+nukkye killed NagZet  in round 2
+Round 2 ended with spike_defuse. The winning team is Giants.
+The current score is KRÜ Esports 0 - 2 Giants.
+hoody killed Klaus  in round 3
+KeznitdeuS killed hoody  in round 3
+DAVEEYS killed rhyme  in round 3
+DAVEEYS killed Fit1nho  in round 3
+DAVEEYS killed Cloud  in round 3
+nukkye killed Melser  in round 3
+KeznitdeuS killed nukkye  in round 3
+Round 3 ended with elimination. The winning team is KRÜ Esports.
+The current score is KRÜ Esports 1 - 2 Giants.
+KeznitdeuS killed Cloud  in round 4
+Klaus killed nukkye  in round 4
+Klaus killed Fit1nho  in round 4
+rhyme killed Klaus  in round 4
+rhyme killed KeznitdeuS  in round 4
+Round 4 ended with detonate. The winning team is KRÜ Esports.
+The current score is KRÜ Esports 2 - 2 Giants.
+hoody killed NagZet  in round 5
+NagZet killed hoody  in round 5
+KeznitdeuS killed Cloud  in round 5
+nukkye killed KeznitdeuS  in round 5
+Melser killed nukkye  in round 5
+rhyme killed Melser  in round 5
+DAVEEYS killed rhyme  in round 5
+DAVEEYS killed Fit1nho  in round 5
+Round 5 ended with elimination. The winning team is KRÜ Esports.
+The current score is KRÜ Esports 3 - 2 Giants.
+NagZet killed hoody  in round 6
+Melser killed rhyme  in round 6
+Klaus killed Cloud  in round 6
+nukkye killed Klaus  in round 6
+DAVEEYS killed nukkye  in round 6
+Fit1nho killed KeznitdeuS  in round 6
+Round 6 ended with detonate. The winning team is KRÜ Esports.
+The current score is KRÜ Esports 4 - 2 Giants.
+Fit1nho killed NagZet  in round 7
+rhyme killed Klaus  in round 7
+Melser killed nukkye  in round 7
+rhyme killed Melser  in round 7
+hoody killed DAVEEYS  in round 7
+hoody killed NagZet  in round 7
+Cloud killed KeznitdeuS  in round 7
+Round 7 ended with spike_defuse. The winning team is Giants.
+The current score is KRÜ Esports 4 - 3 Giants.
+DAVEEYS killed hoody  in round 8
+nukkye killed DAVEEYS  in round 8
+Klaus killed Cloud  in round 8
+Klaus killed rhyme  in round 8
+Fit1nho killed Klaus  in round 8
+nukkye killed KeznitdeuS  in round 8
+Melser killed Fit1nho  in round 8
+Melser killed nukkye  in round 8
+Round 8 ended with elimination. The winning team is KRÜ Esports.
+The current score is KRÜ Esports 5 - 3 Giants.
+KeznitdeuS killed rhyme  in round 9
+Klaus killed Cloud  in round 9
+Fit1nho killed Klaus  in round 9
+KeznitdeuS killed Fit1nho  in round 9
+NagZet killed hoody  in round 9
+Round 9 ended with detonate. The winning team is KRÜ Esports.
+The current score is KRÜ Esports 6 - 3 Giants.
+nukkye killed KeznitdeuS  in round 10
+hoody killed Klaus  in round 10
+DAVEEYS killed rhyme  in round 10
+DAVEEYS killed Fit1nho  in round 10
+DAVEEYS killed hoody  in round 10
+nukkye killed DAVEEYS  in round 10
+Melser killed Cloud  in round 10
+nukkye killed Melser  in round 10
+nukkye killed NagZet  in round 10
+Round 10 ended with spike_defuse. The winning team is Giants.
+The current score is KRÜ Esports 6 - 4 Giants.
+KeznitdeuS killed nukkye  in round 11
+Klaus killed hoody  in round 11
+Melser killed Cloud  in round 11
+DAVEEYS killed rhyme  in round 11
+KeznitdeuS killed Fit1nho  in round 11
+Round 11 ended with elimination. The winning team is KRÜ Esports.
+The current score is KRÜ Esports 7 - 4 Giants.
+nukkye killed KeznitdeuS  in round 12
+NagZet killed nukkye  in round 12
+hoody killed Melser  in round 12
+DAVEEYS killed Fit1nho  in round 12
+Round 12 ended with time_expired. The winning team is Giants.
+The current score is KRÜ Esports 7 - 5 Giants.
+hoody killed Klaus  in round 13
+DAVEEYS killed hoody  in round 13
+Cloud killed DAVEEYS  in round 13
+NagZet killed rhyme  in round 13
+Cloud killed NagZet  in round 13
+hoody killed Melser  in round 13
+Cloud killed Klaus  in round 13
+rhyme killed DAVEEYS  in round 13
+hoody killed KeznitdeuS  in round 13
+NagZet killed Cloud  in round 13
+rhyme killed NagZet  in round 13
+Round 13 ended with elimination. The winning team is Giants.
+The current score is KRÜ Esports 7 - 6 Giants.
+nukkye killed Klaus  in round 14
+Melser killed Fit1nho  in round 14
+hoody killed KeznitdeuS  in round 14
+Melser killed rhyme  in round 14
+hoody killed Melser  in round 14
+hoody killed NagZet  in round 14
+Cloud killed DAVEEYS  in round 14
+Round 14 ended with elimination. The winning team is Giants.
+The current score is KRÜ Esports 7 - 7 Giants.
+KeznitdeuS killed Cloud  in round 15
+hoody killed KeznitdeuS  in round 15
+DAVEEYS killed nukkye  in round 15
+Klaus killed rhyme  in round 15
+Fit1nho killed Klaus  in round 15
+Fit1nho killed DAVEEYS  in round 15
+Fit1nho killed NagZet  in round 15
+Fit1nho killed Melser  in round 15
+Round 15 ended with elimination. The winning team is Giants.
+The current score is KRÜ Esports 7 - 8 Giants.
+Melser killed hoody  in round 16
+Cloud killed Melser  in round 16
+KeznitdeuS killed rhyme  in round 16
+Fit1nho killed Klaus  in round 16
+nukkye killed KeznitdeuS  in round 16
+nukkye killed NagZet  in round 16
+Round 16 ended with detonate. The winning team is Giants.
+The current score is KRÜ Esports 7 - 9 Giants.
+DAVEEYS killed DAVEEYS  in round 17
+Melser killed Fit1nho  in round 17
+hoody killed Melser  in round 17
+rhyme killed KeznitdeuS  in round 17
+DAVEEYS killed nukkye  in round 17
+DAVEEYS killed Cloud  in round 17
+rhyme killed DAVEEYS  in round 17
+hoody killed Klaus  in round 17
+rhyme killed NagZet  in round 17
+Round 17 ended with elimination. The winning team is Giants.
+The current score is KRÜ Esports 7 - 10 Giants.
+Cloud killed Melser  in round 18
+Fit1nho killed NagZet  in round 18
+rhyme killed Klaus  in round 18
+Fit1nho killed DAVEEYS  in round 18
+KeznitdeuS killed hoody  in round 18
+rhyme killed KeznitdeuS  in round 18
+Round 18 ended with elimination. The winning team is Giants.
+The current score is KRÜ Esports 7 - 11 Giants.
+KeznitdeuS killed Cloud  in round 19
+NagZet killed rhyme  in round 19
+Klaus killed Fit1nho  in round 19
+nukkye killed Klaus  in round 19
+DAVEEYS killed nukkye  in round 19
+DAVEEYS killed hoody  in round 19
+Round 19 ended with elimination. The winning team is KRÜ Esports.
+The current score is KRÜ Esports 8 - 11 Giants.
+KeznitdeuS killed hoody  in round 20
+rhyme killed KeznitdeuS  in round 20
+Klaus killed rhyme  in round 20
+nukkye killed DAVEEYS  in round 20
+Klaus killed nukkye  in round 20
+Fit1nho killed Klaus  in round 20
+Cloud killed NagZet  in round 20
+Fit1nho killed Melser  in round 20
+Round 20 ended with elimination. The winning team is Giants.
+The current score is KRÜ Esports 8 - 12 Giants.
+KeznitdeuS killed Fit1nho  in round 21
+NagZet killed rhyme  in round 21
+DAVEEYS killed Cloud  in round 21
+DAVEEYS killed hoody  in round 21
+NagZet killed nukkye  in round 21
+Round 21 ended with elimination. The winning team is KRÜ Esports.
+The current score is KRÜ Esports 9 - 12 Giants.
+KeznitdeuS killed rhyme  in round 22
+Klaus killed Fit1nho  in round 22
+Cloud killed Melser  in round 22
+Cloud killed Klaus  in round 22
+KeznitdeuS killed Cloud  in round 22
+KeznitdeuS killed hoody  in round 22
+KeznitdeuS killed nukkye  in round 22
+Round 22 ended with elimination. The winning team is KRÜ Esports.
+The current score is KRÜ Esports 10 - 12 Giants.
+Fit1nho killed KeznitdeuS  in round 23
+NagZet killed Fit1nho  in round 23
+nukkye killed NagZet  in round 23
+nukkye killed DAVEEYS  in round 23
+hoody killed Klaus  in round 23
+nukkye killed Melser  in round 23
+Round 23 ended with elimination. The winning team is Giants.
+The current score is KRÜ Esports 10 - 13 Giants.
+Game ended with winning team: Giants at 2023-08-11T20:01:02Z
+
+--- Player Stats ---
+Fit1nho: Team=Giants, Kills=14, Deaths=15, Assists=7, KDA=1.4, First Kills=2, First Deaths=2
+nukkye: Team=Giants, Kills=21, Deaths=14, Assists=5, KDA=1.86, First Kills=3, First Deaths=1
+rhyme: Team=Giants, Kills=18, Deaths=15, Assists=15, KDA=2.2, First Kills=0, First Deaths=2
+Cloud: Team=Giants, Kills=12, Deaths=14, Assists=15, KDA=1.93, First Kills=2, First Deaths=3
+hoody: Team=Giants, Kills=16, Deaths=14, Assists=8, KDA=1.71, First Kills=3, First Deaths=4
+DAVEEYS: Team=KRÜ Esports, Kills=22, Deaths=14, Assists=4, KDA=1.86, First Kills=3, First Deaths=1
+Klaus: Team=KRÜ Esports, Kills=12, Deaths=20, Assists=6, KDA=0.9, First Kills=0, First Deaths=3
+Melser: Team=KRÜ Esports, Kills=11, Deaths=16, Assists=6, KDA=1.06, First Kills=1, First Deaths=2
+KeznitdeuS: Team=KRÜ Esports, Kills=18, Deaths=17, Assists=4, KDA=1.29, First Kills=8, First Deaths=3
+NagZet: Team=KRÜ Esports, Kills=10, Deaths=15, Assists=6, KDA=1.07, First Kills=1, First Deaths=2

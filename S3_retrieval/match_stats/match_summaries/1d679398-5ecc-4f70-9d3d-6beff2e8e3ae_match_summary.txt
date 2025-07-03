@@ -1,0 +1,203 @@
+Team 1: ALL GAMERS
+Team 2: TITAN ESPORTS CLUB
+Participating Players:
+Player 1: kawaii
+Player 2: LockM
+Player 3: Abo
+Player 4: AC
+Player 5: Rb
+Player 6: Spitfires
+Player 7: Bunt
+Player 8: sword9
+Player 9: deLb
+Player 10: monk2
+Winning Team: ALL GAMERS
+Score: ALL GAMERS 13 - 6 TITAN ESPORTS CLUB
+Tournament Name: vct cn stage 2 2024
+Game Start Time: 2024-06-22T10:03:19Z
+Game End Time: 2024-06-22T10:43:06Z
+Rounds ended by ELIMINATION count: 15
+Rounds ended by DEFUSE count: 2
+Rounds ended by DETONATE count: 2
+SPIKE PLANTED count: 4
+platformGameId: val:1d679398-5ecc-4f70-9d3d-6beff2e8e3ae
+
+--- Events ---
+Game started at 2024-06-22T10:03:19Z
+monk2 killed Abo  in round 1
+AC killed monk2  in round 1
+Spitfires killed AC  in round 1
+deLb killed Rb  in round 1
+kawaii killed Spitfires  in round 1
+sword9 killed kawaii  in round 1
+LockM killed sword9  in round 1
+Bunt killed LockM  in round 1
+Round 1 ended with elimination. The winning team is ALL GAMERS.
+The current score is ALL GAMERS 1 - 0 TITAN ESPORTS CLUB.
+Spitfires killed AC  in round 2
+monk2 killed Abo  in round 2
+Bunt killed kawaii  in round 2
+Spitfires killed Rb  in round 2
+Spitfires killed LockM  in round 2
+Round 2 ended with elimination. The winning team is ALL GAMERS.
+The current score is ALL GAMERS 2 - 0 TITAN ESPORTS CLUB.
+Spitfires killed AC  in round 3
+Spitfires killed Rb  in round 3
+Bunt killed kawaii  in round 3
+Round 3 ended with detonate. The winning team is ALL GAMERS.
+The current score is ALL GAMERS 3 - 0 TITAN ESPORTS CLUB.
+Spitfires killed Abo  in round 4
+Spitfires killed LockM  in round 4
+Rb killed Spitfires  in round 4
+monk2 killed AC  in round 4
+Bunt killed kawaii  in round 4
+monk2 killed Rb  in round 4
+Round 4 ended with elimination. The winning team is ALL GAMERS.
+The current score is ALL GAMERS 4 - 0 TITAN ESPORTS CLUB.
+Spitfires killed LockM  in round 5
+Rb killed monk2  in round 5
+sword9 killed Rb  in round 5
+AC killed Spitfires  in round 5
+deLb killed kawaii  in round 5
+deLb killed Abo  in round 5
+sword9 killed AC  in round 5
+Round 5 ended with elimination. The winning team is ALL GAMERS.
+The current score is ALL GAMERS 5 - 0 TITAN ESPORTS CLUB.
+sword9 killed LockM  in round 6
+sword9 killed Rb  in round 6
+Spitfires killed AC  in round 6
+Bunt killed kawaii  in round 6
+Abo killed Bunt  in round 6
+Abo killed Spitfires  in round 6
+deLb killed Abo  in round 6
+Round 6 ended with elimination. The winning team is ALL GAMERS.
+The current score is ALL GAMERS 6 - 0 TITAN ESPORTS CLUB.
+Bunt killed kawaii  in round 7
+AC killed sword9  in round 7
+Bunt killed Rb  in round 7
+Bunt killed AC  in round 7
+Spitfires killed LockM  in round 7
+Abo killed Spitfires  in round 7
+Round 7 ended with detonate. The winning team is ALL GAMERS.
+The current score is ALL GAMERS 7 - 0 TITAN ESPORTS CLUB.
+Abo killed Spitfires  in round 8
+Rb killed monk2  in round 8
+Bunt killed Rb  in round 8
+sword9 killed LockM  in round 8
+sword9 killed Abo  in round 8
+kawaii killed Bunt  in round 8
+sword9 killed kawaii  in round 8
+AC killed sword9  in round 8
+AC killed deLb  in round 8
+Round 8 ended with spike_defuse. The winning team is TITAN ESPORTS CLUB.
+The current score is ALL GAMERS 7 - 1 TITAN ESPORTS CLUB.
+monk2 killed Abo  in round 9
+sword9 killed Rb  in round 9
+LockM killed Spitfires  in round 9
+deLb killed LockM  in round 9
+Bunt killed kawaii  in round 9
+AC killed deLb  in round 9
+AC killed monk2  in round 9
+sword9 killed AC  in round 9
+Round 9 ended with elimination. The winning team is ALL GAMERS.
+The current score is ALL GAMERS 8 - 1 TITAN ESPORTS CLUB.
+Bunt killed Rb  in round 10
+deLb killed Abo  in round 10
+monk2 killed kawaii  in round 10
+Spitfires killed LockM  in round 10
+AC killed Spitfires  in round 10
+deLb killed AC  in round 10
+Round 10 ended with elimination. The winning team is ALL GAMERS.
+The current score is ALL GAMERS 9 - 1 TITAN ESPORTS CLUB.
+Spitfires killed Rb  in round 11
+AC killed monk2  in round 11
+AC killed Spitfires  in round 11
+Bunt killed AC  in round 11
+Bunt killed kawaii  in round 11
+LockM killed Bunt  in round 11
+LockM killed sword9  in round 11
+Abo killed deLb  in round 11
+Round 11 ended with spike_defuse. The winning team is TITAN ESPORTS CLUB.
+The current score is ALL GAMERS 9 - 2 TITAN ESPORTS CLUB.
+AC killed Spitfires  in round 12
+AC killed Bunt  in round 12
+Rb killed monk2  in round 12
+Rb killed deLb  in round 12
+kawaii killed sword9  in round 12
+Round 12 ended with elimination. The winning team is TITAN ESPORTS CLUB.
+The current score is ALL GAMERS 9 - 3 TITAN ESPORTS CLUB.
+Spitfires killed Abo  in round 13
+AC killed sword9  in round 13
+AC killed monk2  in round 13
+LockM killed Spitfires  in round 13
+deLb killed AC  in round 13
+kawaii killed deLb  in round 13
+kawaii killed Bunt  in round 13
+Round 13 ended with elimination. The winning team is TITAN ESPORTS CLUB.
+The current score is ALL GAMERS 9 - 4 TITAN ESPORTS CLUB.
+LockM killed Bunt  in round 14
+LockM killed deLb  in round 14
+LockM killed monk2  in round 14
+Rb killed Spitfires  in round 14
+AC killed sword9  in round 14
+Round 14 ended with elimination. The winning team is TITAN ESPORTS CLUB.
+The current score is ALL GAMERS 9 - 5 TITAN ESPORTS CLUB.
+Spitfires killed LockM  in round 15
+sword9 killed Rb  in round 15
+Spitfires killed AC  in round 15
+Spitfires killed kawaii  in round 15
+Abo killed Spitfires  in round 15
+sword9 killed Abo  in round 15
+Round 15 ended with elimination. The winning team is ALL GAMERS.
+The current score is ALL GAMERS 10 - 5 TITAN ESPORTS CLUB.
+Rb killed Spitfires  in round 16
+sword9 killed Rb  in round 16
+sword9 killed LockM  in round 16
+AC killed sword9  in round 16
+monk2 killed AC  in round 16
+Abo killed deLb  in round 16
+monk2 killed Abo  in round 16
+monk2 killed kawaii  in round 16
+Round 16 ended with elimination. The winning team is ALL GAMERS.
+The current score is ALL GAMERS 11 - 5 TITAN ESPORTS CLUB.
+Rb killed Spitfires  in round 17
+sword9 killed Rb  in round 17
+monk2 killed LockM  in round 17
+monk2 killed Abo  in round 17
+monk2 killed kawaii  in round 17
+monk2 killed AC  in round 17
+Round 17 ended with elimination. The winning team is ALL GAMERS.
+The current score is ALL GAMERS 12 - 5 TITAN ESPORTS CLUB.
+deLb killed Rb  in round 18
+LockM killed deLb  in round 18
+Bunt killed Abo  in round 18
+AC killed Bunt  in round 18
+monk2 killed LockM  in round 18
+AC killed sword9  in round 18
+kawaii killed Spitfires  in round 18
+kawaii killed monk2  in round 18
+Round 18 ended with elimination. The winning team is TITAN ESPORTS CLUB.
+The current score is ALL GAMERS 12 - 6 TITAN ESPORTS CLUB.
+Spitfires killed Abo  in round 19
+kawaii killed Spitfires  in round 19
+monk2 killed AC  in round 19
+Rb killed monk2  in round 19
+Rb killed deLb  in round 19
+sword9 killed Rb  in round 19
+sword9 killed LockM  in round 19
+Bunt killed kawaii  in round 19
+Round 19 ended with elimination. The winning team is ALL GAMERS.
+The current score is ALL GAMERS 13 - 6 TITAN ESPORTS CLUB.
+Game ended with winning team: ALL GAMERS at 2024-06-22T10:43:06Z
+
+--- Player Stats ---
+kawaii: Team=TITAN ESPORTS CLUB, Kills=8, Deaths=15, Assists=2, KDA=0.67, First Kills=0, First Deaths=1
+LockM: Team=TITAN ESPORTS CLUB, Kills=9, Deaths=14, Assists=3, KDA=0.86, First Kills=1, First Deaths=3
+Abo: Team=TITAN ESPORTS CLUB, Kills=7, Deaths=14, Assists=2, KDA=0.64, First Kills=1, First Deaths=5
+AC: Team=TITAN ESPORTS CLUB, Kills=18, Deaths=15, Assists=4, KDA=1.47, First Kills=1, First Deaths=2
+Rb: Team=TITAN ESPORTS CLUB, Kills=10, Deaths=16, Assists=11, KDA=1.31, First Kills=2, First Deaths=3
+Spitfires: Team=ALL GAMERS, Kills=18, Deaths=17, Assists=3, KDA=1.24, First Kills=8, First Deaths=4
+Bunt: Team=ALL GAMERS, Kills=15, Deaths=7, Assists=6, KDA=3.0, First Kills=2, First Deaths=1
+sword9: Team=ALL GAMERS, Kills=17, Deaths=9, Assists=7, KDA=2.67, First Kills=1, First Deaths=0
+deLb: Team=ALL GAMERS, Kills=9, Deaths=9, Assists=2, KDA=1.22, First Kills=1, First Deaths=0
+monk2: Team=ALL GAMERS, Kills=15, Deaths=10, Assists=15, KDA=3.0, First Kills=2, First Deaths=0

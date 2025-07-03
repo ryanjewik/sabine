@@ -1,0 +1,223 @@
+Team 1: DRX
+Team 2: None
+Participating Players:
+Player 1: None
+Player 2: None
+Player 3: Meteor 
+Player 4: JoxJo
+Player 5: xnfri
+Player 6: BuZz
+Player 7: stax
+Player 8: MaKo
+Player 9: ZestKR
+Player 10: Rb
+Winning Team: DRX
+Score: DRX 13 - 8 None
+Tournament Name: masters 2 2022 stage 1
+Game Start Time: 2022-07-10T13:03:01Z
+Game End Time: 2022-07-10T14:02:48Z
+Rounds ended by ELIMINATION count: 15
+Rounds ended by DEFUSE count: 2
+Rounds ended by DETONATE count: 4
+SPIKE PLANTED count: 6
+platformGameId: val:b96bb7c1-4448-41ff-a9e3-6f068139833d
+
+--- Events ---
+Game started at 2022-07-10T13:03:01Z
+Rb killed xnfri  in round 1
+MaKo killed JoxJo  in round 1
+None killed Rb  in round 1
+None killed stax  in round 1
+ZestKR killed Meteor   in round 1
+None killed MaKo  in round 1
+ZestKR killed None  in round 1
+ZestKR killed None  in round 1
+Round 1 ended with elimination. The winning team is DRX.
+The current score is DRX 1 - 0 None.
+BuZz killed None  in round 2
+ZestKR killed xnfri  in round 2
+ZestKR killed JoxJo  in round 2
+ZestKR killed None  in round 2
+Rb killed Meteor   in round 2
+Round 2 ended with elimination. The winning team is DRX.
+The current score is DRX 2 - 0 None.
+Meteor  killed Rb  in round 3
+xnfri killed Meteor   in round 3
+xnfri killed MaKo  in round 3
+xnfri killed ZestKR  in round 3
+stax killed JoxJo  in round 3
+xnfri killed BuZz  in round 3
+None killed stax  in round 3
+Round 3 ended with elimination. The winning team is None.
+The current score is DRX 2 - 1 None.
+None killed BuZz  in round 4
+xnfri killed Rb  in round 4
+Meteor  killed MaKo  in round 4
+stax killed None  in round 4
+Meteor  killed ZestKR  in round 4
+xnfri killed stax  in round 4
+Round 4 ended with elimination. The winning team is None.
+The current score is DRX 2 - 2 None.
+Meteor  killed ZestKR  in round 5
+Meteor  killed BuZz  in round 5
+stax killed Meteor   in round 5
+None killed Rb  in round 5
+None killed MaKo  in round 5
+None killed stax  in round 5
+Round 5 ended with elimination. The winning team is None.
+The current score is DRX 2 - 3 None.
+Rb killed None  in round 6
+xnfri killed MaKo  in round 6
+None killed BuZz  in round 6
+Rb killed None  in round 6
+Meteor  killed ZestKR  in round 6
+Rb killed Meteor   in round 6
+BuZz killed xnfri  in round 6
+None killed stax  in round 6
+JoxJo killed Rb  in round 6
+Round 6 ended with elimination. The winning team is None.
+The current score is DRX 2 - 4 None.
+Rb killed None  in round 7
+Meteor  killed stax  in round 7
+Meteor  killed MaKo  in round 7
+ZestKR killed Meteor   in round 7
+JoxJo killed ZestKR  in round 7
+BuZz killed JoxJo  in round 7
+BuZz killed None  in round 7
+xnfri killed Rb  in round 7
+BuZz killed xnfri  in round 7
+Round 7 ended with elimination. The winning team is DRX.
+The current score is DRX 3 - 4 None.
+Rb killed None  in round 8
+xnfri killed stax  in round 8
+ZestKR killed xnfri  in round 8
+Round 8 ended with detonate. The winning team is DRX.
+The current score is DRX 4 - 4 None.
+JoxJo killed Rb  in round 9
+JoxJo killed ZestKR  in round 9
+stax killed JoxJo  in round 9
+MaKo killed xnfri  in round 9
+BuZz killed Meteor   in round 9
+None killed stax  in round 9
+BuZz killed None  in round 9
+MaKo killed None  in round 9
+Round 9 ended with elimination. The winning team is DRX.
+The current score is DRX 5 - 4 None.
+Rb killed JoxJo  in round 10
+None killed BuZz  in round 10
+MaKo killed Meteor   in round 10
+stax killed None  in round 10
+None killed stax  in round 10
+None killed Rb  in round 10
+ZestKR killed xnfri  in round 10
+None killed MaKo  in round 10
+ZestKR killed None  in round 10
+Round 10 ended with elimination. The winning team is DRX.
+The current score is DRX 6 - 4 None.
+xnfri killed ZestKR  in round 11
+Rb killed None  in round 11
+Rb killed xnfri  in round 11
+None killed Rb  in round 11
+stax killed None  in round 11
+stax killed JoxJo  in round 11
+Meteor  killed stax  in round 11
+BuZz killed Meteor   in round 11
+Round 11 ended with elimination. The winning team is DRX.
+The current score is DRX 7 - 4 None.
+Rb killed None  in round 12
+stax killed None  in round 12
+MaKo killed Meteor   in round 12
+xnfri killed MaKo  in round 12
+BuZz killed JoxJo  in round 12
+stax killed xnfri  in round 12
+Round 12 ended with elimination. The winning team is DRX.
+The current score is DRX 8 - 4 None.
+Meteor  killed ZestKR  in round 13
+stax killed Meteor   in round 13
+Rb killed xnfri  in round 13
+BuZz killed None  in round 13
+stax killed None  in round 13
+BuZz killed JoxJo  in round 13
+Round 13 ended with spike_defuse. The winning team is DRX.
+The current score is DRX 9 - 4 None.
+ZestKR killed None  in round 14
+ZestKR killed JoxJo  in round 14
+ZestKR killed None  in round 14
+ZestKR killed xnfri  in round 14
+ZestKR killed Meteor   in round 14
+Round 14 ended with elimination. The winning team is DRX.
+The current score is DRX 10 - 4 None.
+ZestKR killed Meteor   in round 15
+None killed ZestKR  in round 15
+xnfri killed BuZz  in round 15
+None killed stax  in round 15
+MaKo killed None  in round 15
+JoxJo killed Rb  in round 15
+MaKo killed xnfri  in round 15
+Round 15 ended with detonate. The winning team is None.
+The current score is DRX 10 - 5 None.
+Meteor  killed Rb  in round 16
+ZestKR killed None  in round 16
+Meteor  killed ZestKR  in round 16
+stax killed xnfri  in round 16
+JoxJo killed stax  in round 16
+None killed BuZz  in round 16
+Round 16 ended with detonate. The winning team is None.
+The current score is DRX 10 - 6 None.
+Meteor  killed stax  in round 17
+Meteor  killed MaKo  in round 17
+Rb killed JoxJo  in round 17
+xnfri killed BuZz  in round 17
+Meteor  killed ZestKR  in round 17
+Rb killed None  in round 17
+Round 17 ended with detonate. The winning team is None.
+The current score is DRX 10 - 7 None.
+Rb killed Rb  in round 18
+None killed MaKo  in round 18
+stax killed None  in round 18
+None killed stax  in round 18
+Meteor  killed ZestKR  in round 18
+BuZz killed Meteor   in round 18
+JoxJo killed BuZz  in round 18
+JoxJo killed Rb  in round 18
+Round 18 ended with elimination. The winning team is None.
+The current score is DRX 10 - 8 None.
+Rb killed Meteor   in round 19
+stax killed None  in round 19
+Rb killed xnfri  in round 19
+None killed MaKo  in round 19
+Rb killed None  in round 19
+JoxJo killed ZestKR  in round 19
+stax killed JoxJo  in round 19
+Round 19 ended with elimination. The winning team is DRX.
+The current score is DRX 11 - 8 None.
+ZestKR killed None  in round 20
+xnfri killed Rb  in round 20
+Meteor  killed BuZz  in round 20
+MaKo killed None  in round 20
+stax killed Meteor   in round 20
+xnfri killed ZestKR  in round 20
+MaKo killed xnfri  in round 20
+MaKo killed JoxJo  in round 20
+JoxJo killed stax  in round 20
+Round 20 ended with spike_defuse. The winning team is DRX.
+The current score is DRX 12 - 8 None.
+Rb killed None  in round 21
+MaKo killed None  in round 21
+stax killed Meteor   in round 21
+Rb killed JoxJo  in round 21
+stax killed xnfri  in round 21
+Round 21 ended with elimination. The winning team is DRX.
+The current score is DRX 13 - 8 None.
+Game ended with winning team: DRX at 2022-07-10T14:02:48Z
+
+--- Player Stats ---
+None: Team=None, Kills=22, Deaths=32, Assists=2, KDA=0.75, First Kills=1, First Deaths=8
+Meteor : Team=None, Kills=17, Deaths=17, Assists=5, KDA=1.29, First Kills=5, First Deaths=2
+JoxJo: Team=None, Kills=10, Deaths=14, Assists=8, KDA=1.29, First Kills=1, First Deaths=1
+xnfri: Team=None, Kills=15, Deaths=16, Assists=7, KDA=1.38, First Kills=1, First Deaths=1
+BuZz: Team=DRX, Kills=12, Deaths=10, Assists=3, KDA=1.5, First Kills=1, First Deaths=1
+stax: Team=DRX, Kills=18, Deaths=15, Assists=13, KDA=2.07, First Kills=0, First Deaths=1
+MaKo: Team=DRX, Kills=11, Deaths=11, Assists=12, KDA=2.09, First Kills=0, First Deaths=0
+ZestKR: Team=DRX, Kills=18, Deaths=14, Assists=6, KDA=1.71, First Kills=3, First Deaths=3
+Rb: Team=DRX, Kills=20, Deaths=14, Assists=5, KDA=1.79, First Kills=9, First Deaths=4

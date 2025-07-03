@@ -1,0 +1,255 @@
+Team 1: FNATIC
+Team 2: G2 Esports
+Participating Players:
+Player 1: Leaf
+Player 2: icy
+Player 3: valyn
+Player 4: trent
+Player 5: JonahP
+Player 6: Chronicle
+Player 7: Derke
+Player 8: Boaster
+Player 9: Alfajer
+Player 10: Hiro  
+Winning Team: FNATIC
+Score: FNATIC 13 - 11 G2 Esports
+Tournament Name: vct champions 2024
+Game Start Time: 2024-08-16T10:39:44Z
+Game End Time: 2024-08-16T11:37:43Z
+Rounds ended by ELIMINATION count: 10
+Rounds ended by DEFUSE count: 5
+Rounds ended by DETONATE count: 7
+SPIKE PLANTED count: 12
+platformGameId: val:0be9929a-ee58-4941-8750-ae044e0479bb
+
+--- Events ---
+Game started at 2024-08-16T10:39:44Z
+icy killed Hiro    in round 1
+JonahP killed Alfajer  in round 1
+Chronicle killed trent  in round 1
+Chronicle killed JonahP  in round 1
+Leaf killed Boaster  in round 1
+icy killed Derke  in round 1
+Round 1 ended with time_expired. The winning team is G2 Esports.
+The current score is FNATIC 0 - 1 G2 Esports.
+Chronicle killed Leaf  in round 2
+Chronicle killed icy  in round 2
+valyn killed Chronicle  in round 2
+Hiro   killed trent  in round 2
+trent killed Hiro    in round 2
+Alfajer killed Leaf  in round 2
+JonahP killed Boaster  in round 2
+JonahP killed Alfajer  in round 2
+Derke killed JonahP  in round 2
+Chronicle killed valyn  in round 2
+icy killed Chronicle  in round 2
+Round 2 ended with detonate. The winning team is FNATIC.
+The current score is FNATIC 1 - 1 G2 Esports.
+icy killed icy  in round 3
+Derke killed Derke  in round 3
+Derke killed Leaf  in round 3
+Derke killed icy  in round 3
+Chronicle killed valyn  in round 3
+trent killed Derke  in round 3
+Hiro   killed JonahP  in round 3
+Alfajer killed trent  in round 3
+Round 3 ended with elimination. The winning team is FNATIC.
+The current score is FNATIC 2 - 1 G2 Esports.
+Chronicle killed JonahP  in round 4
+valyn killed Boaster  in round 4
+Chronicle killed trent  in round 4
+Chronicle killed Leaf  in round 4
+Chronicle killed icy  in round 4
+valyn killed Alfajer  in round 4
+Derke killed valyn  in round 4
+Round 4 ended with elimination. The winning team is FNATIC.
+The current score is FNATIC 3 - 1 G2 Esports.
+Leaf killed Boaster  in round 5
+Hiro   killed icy  in round 5
+Hiro   killed valyn  in round 5
+trent killed Hiro    in round 5
+Chronicle killed Leaf  in round 5
+Derke killed JonahP  in round 5
+Alfajer killed trent  in round 5
+Round 5 ended with elimination. The winning team is FNATIC.
+The current score is FNATIC 4 - 1 G2 Esports.
+Alfajer killed Leaf  in round 6
+Derke killed JonahP  in round 6
+trent killed Chronicle  in round 6
+trent killed Hiro    in round 6
+Derke killed trent  in round 6
+icy killed Derke  in round 6
+Alfajer killed valyn  in round 6
+icy killed Alfajer  in round 6
+icy killed Boaster  in round 6
+Round 6 ended with spike_defuse. The winning team is G2 Esports.
+The current score is FNATIC 4 - 2 G2 Esports.
+Derke killed Leaf  in round 7
+trent killed Derke  in round 7
+Chronicle killed JonahP  in round 7
+Chronicle killed valyn  in round 7
+Alfajer killed icy  in round 7
+Alfajer killed trent  in round 7
+Round 7 ended with elimination. The winning team is FNATIC.
+The current score is FNATIC 5 - 2 G2 Esports.
+icy killed Chronicle  in round 8
+Alfajer killed valyn  in round 8
+Derke killed icy  in round 8
+Derke killed trent  in round 8
+Alfajer killed Leaf  in round 8
+Hiro   killed JonahP  in round 8
+Round 8 ended with elimination. The winning team is FNATIC.
+The current score is FNATIC 6 - 2 G2 Esports.
+JonahP killed Boaster  in round 9
+Derke killed JonahP  in round 9
+Leaf killed Hiro    in round 9
+Leaf killed Alfajer  in round 9
+Leaf killed Derke  in round 9
+Chronicle killed icy  in round 9
+Round 9 ended with time_expired. The winning team is G2 Esports.
+The current score is FNATIC 6 - 3 G2 Esports.
+trent killed Alfajer  in round 10
+trent killed Hiro    in round 10
+valyn killed Chronicle  in round 10
+Derke killed valyn  in round 10
+Derke killed icy  in round 10
+trent killed Derke  in round 10
+Boaster killed Leaf  in round 10
+Boaster killed trent  in round 10
+JonahP killed Boaster  in round 10
+Round 10 ended with spike_defuse. The winning team is G2 Esports.
+The current score is FNATIC 6 - 4 G2 Esports.
+Chronicle killed Leaf  in round 11
+icy killed Chronicle  in round 11
+trent killed Hiro    in round 11
+icy killed Alfajer  in round 11
+Boaster killed JonahP  in round 11
+Derke killed icy  in round 11
+Derke killed trent  in round 11
+Derke killed valyn  in round 11
+Round 11 ended with elimination. The winning team is FNATIC.
+The current score is FNATIC 7 - 4 G2 Esports.
+JonahP killed Hiro    in round 12
+Derke killed trent  in round 12
+Chronicle killed icy  in round 12
+Chronicle killed JonahP  in round 12
+valyn killed Chronicle  in round 12
+valyn killed Alfajer  in round 12
+Derke killed Leaf  in round 12
+valyn killed Derke  in round 12
+Round 12 ended with detonate. The winning team is FNATIC.
+The current score is FNATIC 8 - 4 G2 Esports.
+Boaster killed Boaster  in round 13
+valyn killed valyn  in round 13
+Chronicle killed JonahP  in round 13
+icy killed Derke  in round 13
+Alfajer killed icy  in round 13
+valyn killed Chronicle  in round 13
+Alfajer killed valyn  in round 13
+Leaf killed Hiro    in round 13
+Leaf killed Alfajer  in round 13
+Boaster killed Leaf  in round 13
+Boaster killed trent  in round 13
+Round 13 ended with detonate. The winning team is G2 Esports.
+The current score is FNATIC 8 - 5 G2 Esports.
+Boaster killed Boaster  in round 14
+valyn killed Chronicle  in round 14
+trent killed Alfajer  in round 14
+valyn killed Derke  in round 14
+Leaf killed Boaster  in round 14
+icy killed Hiro    in round 14
+Round 14 ended with elimination. The winning team is G2 Esports.
+The current score is FNATIC 8 - 6 G2 Esports.
+valyn killed Boaster  in round 15
+trent killed Alfajer  in round 15
+valyn killed Derke  in round 15
+valyn killed Hiro    in round 15
+Round 15 ended with detonate. The winning team is G2 Esports.
+The current score is FNATIC 8 - 7 G2 Esports.
+valyn killed Derke  in round 16
+JonahP killed Chronicle  in round 16
+Leaf killed Boaster  in round 16
+Leaf killed Alfajer  in round 16
+Round 16 ended with detonate. The winning team is G2 Esports.
+The current score is FNATIC 8 - 8 G2 Esports.
+Hiro   killed Hiro    in round 17
+Leaf killed Chronicle  in round 17
+Hiro   killed Leaf  in round 17
+Alfajer killed valyn  in round 17
+Hiro   killed trent  in round 17
+Derke killed icy  in round 17
+Derke killed JonahP  in round 17
+Round 17 ended with spike_defuse. The winning team is FNATIC.
+The current score is FNATIC 9 - 8 G2 Esports.
+Chronicle killed valyn  in round 18
+Derke killed JonahP  in round 18
+Alfajer killed icy  in round 18
+Leaf killed Chronicle  in round 18
+Alfajer killed trent  in round 18
+Hiro   killed Leaf  in round 18
+Round 18 ended with spike_defuse. The winning team is FNATIC.
+The current score is FNATIC 10 - 8 G2 Esports.
+icy killed Derke  in round 19
+Alfajer killed trent  in round 19
+icy killed Alfajer  in round 19
+Chronicle killed icy  in round 19
+Leaf killed Chronicle  in round 19
+Boaster killed JonahP  in round 19
+Leaf killed Hiro    in round 19
+valyn killed Boaster  in round 19
+Round 19 ended with elimination. The winning team is G2 Esports.
+The current score is FNATIC 10 - 9 G2 Esports.
+icy killed Boaster  in round 20
+JonahP killed Hiro    in round 20
+Alfajer killed JonahP  in round 20
+Derke killed valyn  in round 20
+Alfajer killed icy  in round 20
+Leaf killed Derke  in round 20
+Round 20 ended with detonate. The winning team is G2 Esports.
+The current score is FNATIC 10 - 10 G2 Esports.
+Leaf killed Leaf  in round 21
+Leaf killed Chronicle  in round 21
+Leaf killed Hiro    in round 21
+Derke killed JonahP  in round 21
+icy killed Alfajer  in round 21
+Round 21 ended with detonate. The winning team is G2 Esports.
+The current score is FNATIC 10 - 11 G2 Esports.
+Hiro   killed trent  in round 22
+Hiro   killed icy  in round 22
+Alfajer killed JonahP  in round 22
+Alfajer killed valyn  in round 22
+Boaster killed Leaf  in round 22
+Round 22 ended with elimination. The winning team is FNATIC.
+The current score is FNATIC 11 - 11 G2 Esports.
+Chronicle killed Leaf  in round 23
+Alfajer killed icy  in round 23
+Derke killed valyn  in round 23
+Boaster killed JonahP  in round 23
+trent killed Alfajer  in round 23
+Hiro   killed trent  in round 23
+Round 23 ended with elimination. The winning team is FNATIC.
+The current score is FNATIC 12 - 11 G2 Esports.
+Derke killed icy  in round 24
+JonahP killed Derke  in round 24
+trent killed Hiro    in round 24
+JonahP killed Alfajer  in round 24
+Boaster killed Leaf  in round 24
+Chronicle killed valyn  in round 24
+Chronicle killed trent  in round 24
+JonahP killed Boaster  in round 24
+Chronicle killed JonahP  in round 24
+Round 24 ended with spike_defuse. The winning team is FNATIC.
+The current score is FNATIC 13 - 11 G2 Esports.
+Game ended with winning team: FNATIC at 2024-08-16T11:37:43Z
+
+--- Player Stats ---
+Leaf: Team=G2 Esports, Kills=18, Deaths=18, Assists=4, KDA=1.22, First Kills=2, First Deaths=6
+icy: Team=G2 Esports, Kills=16, Deaths=19, Assists=7, KDA=1.21, First Kills=5, First Deaths=2
+valyn: Team=G2 Esports, Kills=16, Deaths=17, Assists=10, KDA=1.53, First Kills=2, First Deaths=1
+trent: Team=G2 Esports, Kills=14, Deaths=18, Assists=8, KDA=1.22, First Kills=1, First Deaths=1
+JonahP: Team=G2 Esports, Kills=11, Deaths=20, Assists=6, KDA=0.85, First Kills=2, First Deaths=1
+Chronicle: Team=FNATIC, Kills=24, Deaths=14, Assists=5, KDA=2.07, First Kills=5, First Deaths=1
+Derke: Team=FNATIC, Kills=26, Deaths=15, Assists=2, KDA=1.87, First Kills=2, First Deaths=2
+Boaster: Team=FNATIC, Kills=11, Deaths=15, Assists=12, KDA=1.53, First Kills=2, First Deaths=6
+Alfajer: Team=FNATIC, Kills=20, Deaths=16, Assists=2, KDA=1.38, First Kills=1, First Deaths=1
+Hiro  : Team=FNATIC, Kills=12, Deaths=16, Assists=6, KDA=1.12, First Kills=2, First Deaths=3

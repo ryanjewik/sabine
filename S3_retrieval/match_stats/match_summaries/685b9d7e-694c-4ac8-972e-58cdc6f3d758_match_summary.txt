@@ -1,0 +1,244 @@
+Team 1: Talon Esports
+Team 2: PAPER REX
+Participating Players:
+Player 1: f0rsakeN
+Player 2: mindfreak
+Player 3: d4v41
+Player 4: something
+Player 5: Jinggg
+Player 6: foxz
+Player 7: JitBoyS
+Player 8: Crws
+Player 9: garnetS
+Player 10: Patiphan
+Winning Team: PAPER REX
+Score: Talon Esports 10 - 13 PAPER REX
+Tournament Name: vct pacific 2023
+Game Start Time: 2023-05-01T12:09:08Z
+Game End Time: 2023-05-01T13:00:08Z
+Rounds ended by ELIMINATION count: 16
+Rounds ended by DEFUSE count: 4
+Rounds ended by DETONATE count: 2
+SPIKE PLANTED count: 6
+platformGameId: val:685b9d7e-694c-4ac8-972e-58cdc6f3d758
+
+--- Events ---
+Game started at 2023-05-01T12:09:08Z
+Jinggg killed Patiphan  in round 1
+f0rsakeN killed JitBoyS  in round 1
+f0rsakeN killed garnetS  in round 1
+mindfreak killed foxz  in round 1
+f0rsakeN killed Crws  in round 1
+Round 1 ended with elimination. The winning team is PAPER REX.
+The current score is Talon Esports 0 - 1 PAPER REX.
+d4v41 killed garnetS  in round 2
+Patiphan killed d4v41  in round 2
+Crws killed f0rsakeN  in round 2
+something killed Crws  in round 2
+foxz killed Jinggg  in round 2
+foxz killed something  in round 2
+foxz killed mindfreak  in round 2
+Round 2 ended with elimination. The winning team is Talon Esports.
+The current score is Talon Esports 1 - 1 PAPER REX.
+f0rsakeN killed foxz  in round 3
+Crws killed f0rsakeN  in round 3
+Patiphan killed Jinggg  in round 3
+d4v41 killed Patiphan  in round 3
+something killed JitBoyS  in round 3
+garnetS killed mindfreak  in round 3
+Crws killed something  in round 3
+garnetS killed d4v41  in round 3
+Round 3 ended with elimination. The winning team is Talon Esports.
+The current score is Talon Esports 2 - 1 PAPER REX.
+something killed garnetS  in round 4
+something killed Patiphan  in round 4
+foxz killed mindfreak  in round 4
+f0rsakeN killed JitBoyS  in round 4
+Crws killed something  in round 4
+f0rsakeN killed Crws  in round 4
+f0rsakeN killed foxz  in round 4
+Round 4 ended with elimination. The winning team is PAPER REX.
+The current score is Talon Esports 2 - 2 PAPER REX.
+Jinggg killed foxz  in round 5
+garnetS killed Jinggg  in round 5
+f0rsakeN killed JitBoyS  in round 5
+f0rsakeN killed garnetS  in round 5
+d4v41 killed Crws  in round 5
+mindfreak killed Patiphan  in round 5
+Round 5 ended with spike_defuse. The winning team is PAPER REX.
+The current score is Talon Esports 2 - 3 PAPER REX.
+d4v41 killed garnetS  in round 6
+foxz killed Jinggg  in round 6
+foxz killed mindfreak  in round 6
+JitBoyS killed something  in round 6
+f0rsakeN killed Patiphan  in round 6
+d4v41 killed foxz  in round 6
+JitBoyS killed f0rsakeN  in round 6
+d4v41 killed JitBoyS  in round 6
+Round 6 ended with detonate. The winning team is Talon Esports.
+The current score is Talon Esports 3 - 3 PAPER REX.
+Patiphan killed Jinggg  in round 7
+f0rsakeN killed garnetS  in round 7
+JitBoyS killed f0rsakeN  in round 7
+Crws killed d4v41  in round 7
+mindfreak killed Crws  in round 7
+JitBoyS killed mindfreak  in round 7
+foxz killed something  in round 7
+Round 7 ended with elimination. The winning team is Talon Esports.
+The current score is Talon Esports 4 - 3 PAPER REX.
+Patiphan killed f0rsakeN  in round 8
+foxz killed d4v41  in round 8
+mindfreak killed foxz  in round 8
+Patiphan killed Jinggg  in round 8
+Patiphan killed mindfreak  in round 8
+Round 8 ended with detonate. The winning team is Talon Esports.
+The current score is Talon Esports 5 - 3 PAPER REX.
+garnetS killed something  in round 9
+something killed garnetS  in round 9
+JitBoyS killed something  in round 9
+Jinggg killed JitBoyS  in round 9
+Crws killed Jinggg  in round 9
+Patiphan killed f0rsakeN  in round 9
+mindfreak killed foxz  in round 9
+Crws killed mindfreak  in round 9
+d4v41 killed Crws  in round 9
+d4v41 killed Patiphan  in round 9
+Round 9 ended with spike_defuse. The winning team is PAPER REX.
+The current score is Talon Esports 5 - 4 PAPER REX.
+Jinggg killed JitBoyS  in round 10
+garnetS killed f0rsakeN  in round 10
+d4v41 killed garnetS  in round 10
+Patiphan killed d4v41  in round 10
+mindfreak killed Crws  in round 10
+something killed Patiphan  in round 10
+foxz killed something  in round 10
+foxz killed Jinggg  in round 10
+mindfreak killed foxz  in round 10
+Round 10 ended with elimination. The winning team is PAPER REX.
+The current score is Talon Esports 5 - 5 PAPER REX.
+f0rsakeN killed garnetS  in round 11
+foxz killed d4v41  in round 11
+f0rsakeN killed Patiphan  in round 11
+mindfreak killed foxz  in round 11
+Crws killed mindfreak  in round 11
+f0rsakeN killed Crws  in round 11
+Jinggg killed JitBoyS  in round 11
+Round 11 ended with spike_defuse. The winning team is PAPER REX.
+The current score is Talon Esports 5 - 6 PAPER REX.
+f0rsakeN killed foxz  in round 12
+garnetS killed f0rsakeN  in round 12
+d4v41 killed garnetS  in round 12
+JitBoyS killed d4v41  in round 12
+Crws killed Jinggg  in round 12
+JitBoyS killed something  in round 12
+mindfreak killed Patiphan  in round 12
+Crws killed mindfreak  in round 12
+Round 12 ended with elimination. The winning team is Talon Esports.
+The current score is Talon Esports 6 - 6 PAPER REX.
+JitBoyS killed Jinggg  in round 13
+garnetS killed f0rsakeN  in round 13
+foxz killed something  in round 13
+foxz killed mindfreak  in round 13
+d4v41 killed Crws  in round 13
+Round 13 ended with time_expired. The winning team is Talon Esports.
+The current score is Talon Esports 7 - 6 PAPER REX.
+Patiphan killed mindfreak  in round 14
+foxz killed f0rsakeN  in round 14
+foxz killed something  in round 14
+foxz killed Jinggg  in round 14
+foxz killed d4v41  in round 14
+Round 14 ended with elimination. The winning team is Talon Esports.
+The current score is Talon Esports 8 - 6 PAPER REX.
+f0rsakeN killed JitBoyS  in round 15
+something killed foxz  in round 15
+mindfreak killed Crws  in round 15
+something killed Patiphan  in round 15
+mindfreak killed garnetS  in round 15
+Round 15 ended with elimination. The winning team is PAPER REX.
+The current score is Talon Esports 8 - 7 PAPER REX.
+Jinggg killed Crws  in round 16
+JitBoyS killed f0rsakeN  in round 16
+d4v41 killed garnetS  in round 16
+foxz killed d4v41  in round 16
+foxz killed mindfreak  in round 16
+Jinggg killed Patiphan  in round 16
+Jinggg killed JitBoyS  in round 16
+Jinggg killed foxz  in round 16
+Round 16 ended with elimination. The winning team is PAPER REX.
+The current score is Talon Esports 8 - 8 PAPER REX.
+f0rsakeN killed Crws  in round 17
+JitBoyS killed f0rsakeN  in round 17
+d4v41 killed Patiphan  in round 17
+garnetS killed mindfreak  in round 17
+d4v41 killed JitBoyS  in round 17
+foxz killed d4v41  in round 17
+Jinggg killed garnetS  in round 17
+Jinggg killed foxz  in round 17
+Round 17 ended with elimination. The winning team is PAPER REX.
+The current score is Talon Esports 8 - 9 PAPER REX.
+something killed JitBoyS  in round 18
+Patiphan killed f0rsakeN  in round 18
+something killed Crws  in round 18
+foxz killed Jinggg  in round 18
+something killed garnetS  in round 18
+mindfreak killed Patiphan  in round 18
+mindfreak killed foxz  in round 18
+Round 18 ended with elimination. The winning team is PAPER REX.
+The current score is Talon Esports 8 - 10 PAPER REX.
+f0rsakeN killed JitBoyS  in round 19
+Jinggg killed foxz  in round 19
+Jinggg killed Patiphan  in round 19
+Crws killed something  in round 19
+Crws killed Jinggg  in round 19
+Crws killed d4v41  in round 19
+f0rsakeN killed Crws  in round 19
+mindfreak killed garnetS  in round 19
+Round 19 ended with elimination. The winning team is PAPER REX.
+The current score is Talon Esports 8 - 11 PAPER REX.
+d4v41 killed foxz  in round 20
+JitBoyS killed f0rsakeN  in round 20
+JitBoyS killed something  in round 20
+JitBoyS killed mindfreak  in round 20
+d4v41 killed JitBoyS  in round 20
+Crws killed Jinggg  in round 20
+garnetS killed d4v41  in round 20
+Round 20 ended with spike_defuse. The winning team is Talon Esports.
+The current score is Talon Esports 9 - 11 PAPER REX.
+garnetS killed d4v41  in round 21
+garnetS killed something  in round 21
+f0rsakeN killed garnetS  in round 21
+Crws killed mindfreak  in round 21
+foxz killed Jinggg  in round 21
+f0rsakeN killed Crws  in round 21
+JitBoyS killed f0rsakeN  in round 21
+Round 21 ended with elimination. The winning team is Talon Esports.
+The current score is Talon Esports 10 - 11 PAPER REX.
+Jinggg killed foxz  in round 22
+Jinggg killed JitBoyS  in round 22
+Jinggg killed Patiphan  in round 22
+Crws killed Jinggg  in round 22
+something killed Crws  in round 22
+mindfreak killed garnetS  in round 22
+Round 22 ended with elimination. The winning team is PAPER REX.
+The current score is Talon Esports 10 - 12 PAPER REX.
+garnetS killed mindfreak  in round 23
+d4v41 killed Crws  in round 23
+d4v41 killed garnetS  in round 23
+Jinggg killed JitBoyS  in round 23
+d4v41 killed Patiphan  in round 23
+Jinggg killed foxz  in round 23
+Round 23 ended with elimination. The winning team is PAPER REX.
+The current score is Talon Esports 10 - 13 PAPER REX.
+Game ended with winning team: PAPER REX at 2023-05-01T13:00:08Z
+
+--- Player Stats ---
+f0rsakeN: Team=PAPER REX, Kills=21, Deaths=15, Assists=6, KDA=1.8, First Kills=6, First Deaths=1
+mindfreak: Team=PAPER REX, Kills=15, Deaths=16, Assists=16, KDA=1.94, First Kills=0, First Deaths=2
+d4v41: Team=PAPER REX, Kills=19, Deaths=13, Assists=6, KDA=1.92, First Kills=3, First Deaths=1
+something: Team=PAPER REX, Kills=12, Deaths=14, Assists=11, KDA=1.64, First Kills=2, First Deaths=1
+Jinggg: Team=PAPER REX, Kills=18, Deaths=16, Assists=4, KDA=1.38, First Kills=5, First Deaths=2
+foxz: Team=Talon Esports, Kills=22, Deaths=18, Assists=6, KDA=1.56, First Kills=0, First Deaths=5
+JitBoyS: Team=Talon Esports, Kills=14, Deaths=16, Assists=5, KDA=1.19, First Kills=1, First Deaths=4
+Crws: Team=Talon Esports, Kills=16, Deaths=17, Assists=13, KDA=1.71, First Kills=0, First Deaths=2
+garnetS: Team=Talon Esports, Kills=12, Deaths=18, Assists=6, KDA=1.0, First Kills=3, First Deaths=4
+Patiphan: Team=Talon Esports, Kills=10, Deaths=16, Assists=10, KDA=1.25, First Kills=3, First Deaths=1

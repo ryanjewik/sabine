@@ -1,0 +1,269 @@
+Team 1: FNATIC
+Team 2: Team Liquid
+Participating Players:
+Player 1: Jamppi
+Player 2: Sayf
+Player 3: Redgar
+Player 4: nAts
+Player 5: soulcas
+Player 6: Chronicle
+Player 7: Derke
+Player 8: Boaster
+Player 9: Alfajer
+Player 10: Leo 
+Winning Team: Team Liquid
+Score: FNATIC 12 - 14 Team Liquid
+Tournament Name: vct emea 2023
+Game Start Time: 2023-05-28T16:27:55Z
+Game End Time: 2023-05-28T17:29:54Z
+Rounds ended by ELIMINATION count: 18
+Rounds ended by DEFUSE count: 6
+Rounds ended by DETONATE count: 2
+SPIKE PLANTED count: 8
+platformGameId: val:5f12a511-0f1e-4663-8d76-d139746ee39b
+
+--- Events ---
+Game started at 2023-05-28T16:27:55Z
+Redgar killed Derke  in round 1
+Leo  killed Redgar  in round 1
+Leo  killed nAts  in round 1
+Boaster killed Sayf  in round 1
+Boaster killed Jamppi  in round 1
+Chronicle killed soulcas  in round 1
+Round 1 ended with elimination. The winning team is FNATIC.
+The current score is FNATIC 1 - 0 Team Liquid.
+Alfajer killed soulcas  in round 2
+Leo  killed Jamppi  in round 2
+Derke killed Sayf  in round 2
+Alfajer killed Redgar  in round 2
+Chronicle killed nAts  in round 2
+Round 2 ended with elimination. The winning team is FNATIC.
+The current score is FNATIC 2 - 0 Team Liquid.
+Redgar killed Derke  in round 3
+soulcas killed Boaster  in round 3
+Jamppi killed Alfajer  in round 3
+Leo  killed soulcas  in round 3
+Sayf killed Leo   in round 3
+Jamppi killed Chronicle  in round 3
+Round 3 ended with spike_defuse. The winning team is Team Liquid.
+The current score is FNATIC 2 - 1 Team Liquid.
+Leo  killed soulcas  in round 4
+Alfajer killed Redgar  in round 4
+Derke killed Jamppi  in round 4
+Sayf killed Boaster  in round 4
+Alfajer killed Sayf  in round 4
+Round 4 ended with detonate. The winning team is FNATIC.
+The current score is FNATIC 3 - 1 Team Liquid.
+Chronicle killed nAts  in round 5
+Leo  killed Jamppi  in round 5
+Sayf killed Derke  in round 5
+Round 5 ended with detonate. The winning team is FNATIC.
+The current score is FNATIC 4 - 1 Team Liquid.
+Redgar killed Redgar  in round 6
+nAts killed Derke  in round 6
+Jamppi killed Chronicle  in round 6
+Boaster killed nAts  in round 6
+Redgar killed Boaster  in round 6
+Leo  killed Redgar  in round 6
+Alfajer killed Sayf  in round 6
+Jamppi killed Leo   in round 6
+soulcas killed Alfajer  in round 6
+Round 6 ended with elimination. The winning team is Team Liquid.
+The current score is FNATIC 4 - 2 Team Liquid.
+nAts killed Derke  in round 7
+Jamppi killed Boaster  in round 7
+Alfajer killed soulcas  in round 7
+Alfajer killed Jamppi  in round 7
+nAts killed Alfajer  in round 7
+Sayf killed Chronicle  in round 7
+Leo  killed nAts  in round 7
+Redgar killed Leo   in round 7
+Round 7 ended with elimination. The winning team is Team Liquid.
+The current score is FNATIC 4 - 3 Team Liquid.
+nAts killed Boaster  in round 8
+Sayf killed Derke  in round 8
+Redgar killed Alfajer  in round 8
+nAts killed Chronicle  in round 8
+Jamppi killed Leo   in round 8
+Round 8 ended with spike_defuse. The winning team is Team Liquid.
+The current score is FNATIC 4 - 4 Team Liquid.
+nAts killed Derke  in round 9
+nAts killed Boaster  in round 9
+Chronicle killed nAts  in round 9
+soulcas killed Chronicle  in round 9
+Sayf killed Alfajer  in round 9
+Leo  killed Sayf  in round 9
+soulcas killed Leo   in round 9
+Round 9 ended with elimination. The winning team is Team Liquid.
+The current score is FNATIC 4 - 5 Team Liquid.
+nAts killed Derke  in round 10
+Redgar killed Boaster  in round 10
+soulcas killed Leo   in round 10
+nAts killed Chronicle  in round 10
+Redgar killed Alfajer  in round 10
+Round 10 ended with elimination. The winning team is Team Liquid.
+The current score is FNATIC 4 - 6 Team Liquid.
+Derke killed Redgar  in round 11
+soulcas killed Derke  in round 11
+soulcas killed Leo   in round 11
+Sayf killed Chronicle  in round 11
+soulcas killed Boaster  in round 11
+Alfajer killed nAts  in round 11
+soulcas killed Alfajer  in round 11
+Round 11 ended with elimination. The winning team is Team Liquid.
+The current score is FNATIC 4 - 7 Team Liquid.
+Redgar killed Chronicle  in round 12
+Derke killed Redgar  in round 12
+Leo  killed soulcas  in round 12
+Derke killed nAts  in round 12
+Sayf killed Derke  in round 12
+Sayf killed Leo   in round 12
+Boaster killed Sayf  in round 12
+Jamppi killed Boaster  in round 12
+Jamppi killed Alfajer  in round 12
+Round 12 ended with spike_defuse. The winning team is Team Liquid.
+The current score is FNATIC 4 - 8 Team Liquid.
+Sayf killed Derke  in round 13
+Boaster killed nAts  in round 13
+Sayf killed Boaster  in round 13
+Alfajer killed Redgar  in round 13
+Jamppi killed Alfajer  in round 13
+Leo  killed Jamppi  in round 13
+soulcas killed Chronicle  in round 13
+Leo  killed Sayf  in round 13
+soulcas killed Leo   in round 13
+Round 13 ended with elimination. The winning team is Team Liquid.
+The current score is FNATIC 4 - 9 Team Liquid.
+Jamppi killed Boaster  in round 14
+Sayf killed Derke  in round 14
+Jamppi killed Leo   in round 14
+soulcas killed Chronicle  in round 14
+Redgar killed Alfajer  in round 14
+Round 14 ended with elimination. The winning team is Team Liquid.
+The current score is FNATIC 4 - 10 Team Liquid.
+Jamppi killed Alfajer  in round 15
+Leo  killed nAts  in round 15
+Derke killed Jamppi  in round 15
+Derke killed Redgar  in round 15
+soulcas killed Leo   in round 15
+Derke killed Sayf  in round 15
+Chronicle killed soulcas  in round 15
+Round 15 ended with elimination. The winning team is FNATIC.
+The current score is FNATIC 5 - 10 Team Liquid.
+Alfajer killed nAts  in round 16
+soulcas killed Chronicle  in round 16
+soulcas killed Derke  in round 16
+Boaster killed Redgar  in round 16
+Sayf killed Leo   in round 16
+Boaster killed soulcas  in round 16
+Jamppi killed Alfajer  in round 16
+Sayf killed Boaster  in round 16
+Round 16 ended with elimination. The winning team is Team Liquid.
+The current score is FNATIC 5 - 11 Team Liquid.
+Alfajer killed Redgar  in round 17
+Jamppi killed Leo   in round 17
+Jamppi killed Derke  in round 17
+Chronicle killed soulcas  in round 17
+Jamppi killed Boaster  in round 17
+Chronicle killed nAts  in round 17
+Sayf killed Chronicle  in round 17
+Alfajer killed Sayf  in round 17
+Jamppi killed Alfajer  in round 17
+Round 17 ended with elimination. The winning team is Team Liquid.
+The current score is FNATIC 5 - 12 Team Liquid.
+Leo  killed nAts  in round 18
+Derke killed Jamppi  in round 18
+soulcas killed Derke  in round 18
+Sayf killed Chronicle  in round 18
+Alfajer killed Redgar  in round 18
+Boaster killed soulcas  in round 18
+Alfajer killed Sayf  in round 18
+Round 18 ended with spike_defuse. The winning team is FNATIC.
+The current score is FNATIC 6 - 12 Team Liquid.
+Leo  killed Sayf  in round 19
+Derke killed Redgar  in round 19
+Derke killed soulcas  in round 19
+Derke killed Jamppi  in round 19
+nAts killed Derke  in round 19
+Leo  killed nAts  in round 19
+Round 19 ended with elimination. The winning team is FNATIC.
+The current score is FNATIC 7 - 12 Team Liquid.
+Alfajer killed nAts  in round 20
+Derke killed Sayf  in round 20
+soulcas killed Derke  in round 20
+Leo  killed Jamppi  in round 20
+Alfajer killed Redgar  in round 20
+Alfajer killed soulcas  in round 20
+Round 20 ended with elimination. The winning team is FNATIC.
+The current score is FNATIC 8 - 12 Team Liquid.
+Boaster killed Sayf  in round 21
+Boaster killed Redgar  in round 21
+Boaster killed soulcas  in round 21
+nAts killed Boaster  in round 21
+Leo  killed nAts  in round 21
+Alfajer killed Jamppi  in round 21
+Round 21 ended with elimination. The winning team is FNATIC.
+The current score is FNATIC 9 - 12 Team Liquid.
+Sayf killed Chronicle  in round 22
+Boaster killed Sayf  in round 22
+Boaster killed nAts  in round 22
+soulcas killed Boaster  in round 22
+Leo  killed soulcas  in round 22
+Redgar killed Alfajer  in round 22
+Leo  killed Redgar  in round 22
+Jamppi killed Leo   in round 22
+Derke killed Jamppi  in round 22
+Round 22 ended with elimination. The winning team is FNATIC.
+The current score is FNATIC 10 - 12 Team Liquid.
+Derke killed Redgar  in round 23
+Alfajer killed soulcas  in round 23
+Sayf killed Leo   in round 23
+Sayf killed Alfajer  in round 23
+Chronicle killed Sayf  in round 23
+nAts killed Chronicle  in round 23
+Derke killed nAts  in round 23
+Jamppi killed Derke  in round 23
+Boaster killed Jamppi  in round 23
+Round 23 ended with spike_defuse. The winning team is FNATIC.
+The current score is FNATIC 11 - 12 Team Liquid.
+Derke killed Sayf  in round 24
+Leo  killed Redgar  in round 24
+nAts killed Boaster  in round 24
+nAts killed Chronicle  in round 24
+Leo  killed nAts  in round 24
+Leo  killed soulcas  in round 24
+Alfajer killed Jamppi  in round 24
+Round 24 ended with elimination. The winning team is FNATIC.
+The current score is FNATIC 12 - 12 Team Liquid.
+Sayf killed Derke  in round 25
+Boaster killed Sayf  in round 25
+Alfajer killed nAts  in round 25
+Jamppi killed Boaster  in round 25
+Redgar killed Leo   in round 25
+soulcas killed Chronicle  in round 25
+Alfajer killed soulcas  in round 25
+Jamppi killed Alfajer  in round 25
+Round 25 ended with spike_defuse. The winning team is Team Liquid.
+The current score is FNATIC 12 - 13 Team Liquid.
+Derke killed nAts  in round 26
+Sayf killed Derke  in round 26
+Boaster killed Jamppi  in round 26
+Redgar killed Boaster  in round 26
+Sayf killed Chronicle  in round 26
+Sayf killed Leo   in round 26
+Redgar killed Alfajer  in round 26
+Round 26 ended with elimination. The winning team is Team Liquid.
+The current score is FNATIC 12 - 14 Team Liquid.
+Game ended with winning team: Team Liquid at 2023-05-28T17:29:54Z
+
+--- Player Stats ---
+Jamppi: Team=Team Liquid, Kills=21, Deaths=15, Assists=6, KDA=1.8, First Kills=2, First Deaths=0
+Sayf: Team=Team Liquid, Kills=23, Deaths=17, Assists=2, KDA=1.47, First Kills=3, First Deaths=3
+Redgar: Team=Team Liquid, Kills=14, Deaths=18, Assists=19, KDA=1.83, First Kills=4, First Deaths=4
+nAts: Team=Team Liquid, Kills=14, Deaths=21, Assists=10, KDA=1.14, First Kills=4, First Deaths=5
+soulcas: Team=Team Liquid, Kills=19, Deaths=17, Assists=10, KDA=1.71, First Kills=0, First Deaths=2
+Chronicle: Team=FNATIC, Kills=8, Deaths=18, Assists=21, KDA=1.61, First Kills=1, First Deaths=2
+Derke: Team=FNATIC, Kills=18, Deaths=20, Assists=4, KDA=1.1, First Kills=4, First Deaths=7
+Boaster: Team=FNATIC, Kills=16, Deaths=18, Assists=18, KDA=1.89, First Kills=1, First Deaths=2
+Alfajer: Team=FNATIC, Kills=22, Deaths=17, Assists=3, KDA=1.47, First Kills=4, First Deaths=1
+Leo : Team=FNATIC, Kills=23, Deaths=17, Assists=9, KDA=1.88, First Kills=3, First Deaths=0

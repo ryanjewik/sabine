@@ -1,0 +1,227 @@
+Team 1: G2 Esports
+Team 2: NRG
+Participating Players:
+Player 1: Ethan
+Player 2: s0m
+Player 3: FNS
+Player 4: crashies
+Player 5: Victor
+Player 6: icy
+Player 7: Leaf
+Player 8: valyn
+Player 9: trent
+Player 10: JonahP
+Winning Team: G2 Esports
+Score: G2 Esports 13 - 8 NRG
+Tournament Name: vct americas stage 2 2024
+Game Start Time: 2024-07-01T22:08:00Z
+Game End Time: 2024-07-01T22:58:09Z
+Rounds ended by ELIMINATION count: 12
+Rounds ended by DEFUSE count: 3
+Rounds ended by DETONATE count: 6
+SPIKE PLANTED count: 9
+platformGameId: val:32c024e8-bb40-4844-9318-418f3d11eb40
+
+--- Events ---
+Game started at 2024-07-01T22:08:00Z
+trent killed s0m  in round 1
+icy killed crashies  in round 1
+Victor killed icy  in round 1
+FNS killed Leaf  in round 1
+Ethan killed JonahP  in round 1
+trent killed FNS  in round 1
+trent killed Ethan  in round 1
+Victor killed trent  in round 1
+valyn killed Victor  in round 1
+Round 1 ended with elimination. The winning team is G2 Esports.
+The current score is G2 Esports 1 - 0 NRG.
+trent killed FNS  in round 2
+icy killed s0m  in round 2
+Victor killed Leaf  in round 2
+Round 2 ended with detonate. The winning team is G2 Esports.
+The current score is G2 Esports 2 - 0 NRG.
+crashies killed crashies  in round 3
+Ethan killed Ethan  in round 3
+Victor killed Victor  in round 3
+Leaf killed Victor  in round 3
+Leaf killed s0m  in round 3
+Round 3 ended with detonate. The winning team is G2 Esports.
+The current score is G2 Esports 3 - 0 NRG.
+Ethan killed trent  in round 4
+icy killed s0m  in round 4
+crashies killed icy  in round 4
+valyn killed Victor  in round 4
+JonahP killed crashies  in round 4
+valyn killed Ethan  in round 4
+JonahP killed FNS  in round 4
+Round 4 ended with elimination. The winning team is G2 Esports.
+The current score is G2 Esports 4 - 0 NRG.
+trent killed Victor  in round 5
+Leaf killed FNS  in round 5
+s0m killed valyn  in round 5
+Leaf killed s0m  in round 5
+crashies killed Leaf  in round 5
+trent killed crashies  in round 5
+Ethan killed trent  in round 5
+JonahP killed Ethan  in round 5
+Round 5 ended with elimination. The winning team is G2 Esports.
+The current score is G2 Esports 5 - 0 NRG.
+Leaf killed Victor  in round 6
+trent killed s0m  in round 6
+trent killed FNS  in round 6
+crashies killed Leaf  in round 6
+Round 6 ended with detonate. The winning team is G2 Esports.
+The current score is G2 Esports 6 - 0 NRG.
+s0m killed Leaf  in round 7
+Ethan killed icy  in round 7
+valyn killed crashies  in round 7
+Victor killed valyn  in round 7
+trent killed FNS  in round 7
+trent killed Ethan  in round 7
+Victor killed JonahP  in round 7
+crashies killed trent  in round 7
+Round 7 ended with spike_defuse. The winning team is NRG.
+The current score is G2 Esports 6 - 1 NRG.
+FNS killed icy  in round 8
+FNS killed trent  in round 8
+Ethan killed JonahP  in round 8
+Leaf killed FNS  in round 8
+Ethan killed Leaf  in round 8
+Ethan killed valyn  in round 8
+Round 8 ended with elimination. The winning team is NRG.
+The current score is G2 Esports 6 - 2 NRG.
+JonahP killed Ethan  in round 9
+Leaf killed s0m  in round 9
+icy killed FNS  in round 9
+crashies killed trent  in round 9
+Victor killed icy  in round 9
+Victor killed valyn  in round 9
+JonahP killed Victor  in round 9
+Round 9 ended with detonate. The winning team is G2 Esports.
+The current score is G2 Esports 7 - 2 NRG.
+crashies killed Leaf  in round 10
+Ethan killed Leaf  in round 10
+icy killed crashies  in round 10
+Victor killed icy  in round 10
+Ethan killed trent  in round 10
+JonahP killed s0m  in round 10
+JonahP killed Victor  in round 10
+JonahP killed FNS  in round 10
+Ethan killed JonahP  in round 10
+valyn killed Ethan  in round 10
+Round 10 ended with elimination. The winning team is G2 Esports.
+The current score is G2 Esports 8 - 2 NRG.
+s0m killed trent  in round 11
+JonahP killed FNS  in round 11
+crashies killed Leaf  in round 11
+Ethan killed valyn  in round 11
+icy killed Ethan  in round 11
+s0m killed icy  in round 11
+Victor killed JonahP  in round 11
+Round 11 ended with elimination. The winning team is NRG.
+The current score is G2 Esports 8 - 3 NRG.
+icy killed Victor  in round 12
+s0m killed icy  in round 12
+Ethan killed valyn  in round 12
+trent killed Ethan  in round 12
+JonahP killed s0m  in round 12
+JonahP killed crashies  in round 12
+trent killed FNS  in round 12
+Round 12 ended with elimination. The winning team is G2 Esports.
+The current score is G2 Esports 9 - 3 NRG.
+FNS killed icy  in round 13
+s0m killed Leaf  in round 13
+Victor killed valyn  in round 13
+trent killed s0m  in round 13
+FNS killed trent  in round 13
+JonahP killed FNS  in round 13
+Victor killed JonahP  in round 13
+Round 13 ended with elimination. The winning team is NRG.
+The current score is G2 Esports 9 - 4 NRG.
+Victor killed JonahP  in round 14
+icy killed Victor  in round 14
+FNS killed icy  in round 14
+FNS killed valyn  in round 14
+s0m killed Leaf  in round 14
+s0m killed trent  in round 14
+Round 14 ended with elimination. The winning team is NRG.
+The current score is G2 Esports 9 - 5 NRG.
+icy killed Victor  in round 15
+JonahP killed FNS  in round 15
+valyn killed s0m  in round 15
+Ethan killed valyn  in round 15
+trent killed Ethan  in round 15
+crashies killed trent  in round 15
+JonahP killed crashies  in round 15
+Round 15 ended with spike_defuse. The winning team is G2 Esports.
+The current score is G2 Esports 10 - 5 NRG.
+Ethan killed icy  in round 16
+Leaf killed FNS  in round 16
+JonahP killed crashies  in round 16
+Ethan killed valyn  in round 16
+s0m killed JonahP  in round 16
+Ethan killed trent  in round 16
+Leaf killed Ethan  in round 16
+Leaf killed Victor  in round 16
+Leaf killed s0m  in round 16
+Round 16 ended with detonate. The winning team is NRG.
+The current score is G2 Esports 10 - 6 NRG.
+Leaf killed s0m  in round 17
+icy killed FNS  in round 17
+crashies killed JonahP  in round 17
+crashies killed trent  in round 17
+valyn killed Ethan  in round 17
+FNS killed valyn  in round 17
+Victor killed icy  in round 17
+Leaf killed Victor  in round 17
+crashies killed Leaf  in round 17
+Round 17 ended with elimination. The winning team is NRG.
+The current score is G2 Esports 10 - 7 NRG.
+trent killed Victor  in round 18
+Ethan killed JonahP  in round 18
+valyn killed Ethan  in round 18
+icy killed crashies  in round 18
+FNS killed valyn  in round 18
+s0m killed trent  in round 18
+icy killed FNS  in round 18
+icy killed s0m  in round 18
+Round 18 ended with elimination. The winning team is G2 Esports.
+The current score is G2 Esports 11 - 7 NRG.
+s0m killed Leaf  in round 19
+s0m killed JonahP  in round 19
+Victor killed trent  in round 19
+Ethan killed valyn  in round 19
+icy killed FNS  in round 19
+Round 19 ended with detonate. The winning team is NRG.
+The current score is G2 Esports 11 - 8 NRG.
+icy killed Victor  in round 20
+Ethan killed icy  in round 20
+JonahP killed FNS  in round 20
+trent killed crashies  in round 20
+Leaf killed Ethan  in round 20
+s0m killed Leaf  in round 20
+valyn killed s0m  in round 20
+Round 20 ended with spike_defuse. The winning team is G2 Esports.
+The current score is G2 Esports 12 - 8 NRG.
+valyn killed FNS  in round 21
+trent killed Victor  in round 21
+valyn killed FNS  in round 21
+valyn killed Ethan  in round 21
+Leaf killed s0m  in round 21
+crashies killed trent  in round 21
+valyn killed crashies  in round 21
+Round 21 ended with elimination. The winning team is G2 Esports.
+The current score is G2 Esports 13 - 8 NRG.
+Game ended with winning team: G2 Esports at 2024-07-01T22:58:09Z
+
+--- Player Stats ---
+Ethan: Team=NRG, Kills=20, Deaths=15, Assists=8, KDA=1.87, First Kills=2, First Deaths=1
+s0m: Team=NRG, Kills=13, Deaths=16, Assists=10, KDA=1.44, First Kills=3, First Deaths=2
+FNS: Team=NRG, Kills=9, Deaths=20, Assists=6, KDA=0.75, First Kills=2, First Deaths=2
+crashies: Team=NRG, Kills=13, Deaths=12, Assists=8, KDA=1.75, First Kills=2, First Deaths=1
+Victor: Team=NRG, Kills=15, Deaths=16, Assists=4, KDA=1.19, First Kills=1, First Deaths=6
+icy: Team=G2 Esports, Kills=15, Deaths=13, Assists=1, KDA=1.23, First Kills=3, First Deaths=3
+Leaf: Team=G2 Esports, Kills=15, Deaths=14, Assists=3, KDA=1.29, First Kills=2, First Deaths=3
+valyn: Team=G2 Esports, Kills=13, Deaths=13, Assists=9, KDA=1.69, First Kills=1, First Deaths=0
+trent: Team=G2 Esports, Kills=17, Deaths=16, Assists=7, KDA=1.5, First Kills=4, First Deaths=2
+JonahP: Team=G2 Esports, Kills=16, Deaths=11, Assists=13, KDA=2.64, First Kills=1, First Deaths=1

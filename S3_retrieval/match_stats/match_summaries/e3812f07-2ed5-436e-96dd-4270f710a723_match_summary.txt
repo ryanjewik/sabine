@@ -1,0 +1,192 @@
+Team 1: Team Vitality
+Team 2: Gentle Mates
+Participating Players:
+Player 1: Wailers
+Player 2: nataNk
+Player 3: beyAz
+Player 4: logaN
+Player 5: TakaS
+Player 6: Kicks
+Player 7: runneR
+Player 8: ceNder
+Player 9: Sayf
+Player 10: Trexx
+Winning Team: Gentle Mates
+Score: Team Vitality 5 - 13 Gentle Mates
+Tournament Name: vct emea stage 1 2024
+Game Start Time: 2024-04-24T16:51:18Z
+Game End Time: 2024-04-24T17:35:33Z
+Rounds ended by ELIMINATION count: 10
+Rounds ended by DEFUSE count: 5
+Rounds ended by DETONATE count: 3
+SPIKE PLANTED count: 8
+platformGameId: val:e3812f07-2ed5-436e-96dd-4270f710a723
+
+--- Events ---
+Game started at 2024-04-24T16:51:18Z
+Kicks killed beyAz  in round 1
+ceNder killed Wailers  in round 1
+TakaS killed Kicks  in round 1
+TakaS killed runneR  in round 1
+nataNk killed ceNder  in round 1
+nataNk killed Trexx  in round 1
+Sayf killed nataNk  in round 1
+TakaS killed Sayf  in round 1
+Round 1 ended with elimination. The winning team is Gentle Mates.
+The current score is Team Vitality 0 - 1 Gentle Mates.
+runneR killed nataNk  in round 2
+runneR killed Wailers  in round 2
+ceNder killed logaN  in round 2
+Kicks killed TakaS  in round 2
+Round 2 ended with detonate. The winning team is Team Vitality.
+The current score is Team Vitality 1 - 1 Gentle Mates.
+Sayf killed beyAz  in round 3
+Kicks killed TakaS  in round 3
+Kicks killed logaN  in round 3
+Kicks killed nataNk  in round 3
+runneR killed Wailers  in round 3
+Round 3 ended with elimination. The winning team is Team Vitality.
+The current score is Team Vitality 2 - 1 Gentle Mates.
+runneR killed TakaS  in round 4
+runneR killed nataNk  in round 4
+Sayf killed beyAz  in round 4
+Sayf killed Wailers  in round 4
+Round 4 ended with detonate. The winning team is Team Vitality.
+The current score is Team Vitality 3 - 1 Gentle Mates.
+Sayf killed logaN  in round 5
+Kicks killed beyAz  in round 5
+TakaS killed ceNder  in round 5
+Trexx killed TakaS  in round 5
+Wailers killed Trexx  in round 5
+logaN killed Sayf  in round 5
+Kicks killed logaN  in round 5
+nataNk killed runneR  in round 5
+nataNk killed Kicks  in round 5
+Round 5 ended with spike_defuse. The winning team is Gentle Mates.
+The current score is Team Vitality 3 - 2 Gentle Mates.
+ceNder killed Wailers  in round 6
+Sayf killed TakaS  in round 6
+nataNk killed Sayf  in round 6
+Round 6 ended with detonate. The winning team is Team Vitality.
+The current score is Team Vitality 4 - 2 Gentle Mates.
+Kicks killed beyAz  in round 7
+TakaS killed runneR  in round 7
+ceNder killed TakaS  in round 7
+beyAz killed ceNder  in round 7
+Trexx killed beyAz  in round 7
+Sayf killed Wailers  in round 7
+logaN killed Kicks  in round 7
+logaN killed Sayf  in round 7
+Round 7 ended with spike_defuse. The winning team is Gentle Mates.
+The current score is Team Vitality 4 - 3 Gentle Mates.
+Trexx killed logaN  in round 8
+nataNk killed Trexx  in round 8
+logaN killed ceNder  in round 8
+logaN killed runneR  in round 8
+Sayf killed TakaS  in round 8
+logaN killed Sayf  in round 8
+Trexx killed Wailers  in round 8
+logaN killed Kicks  in round 8
+beyAz killed Trexx  in round 8
+Round 8 ended with elimination. The winning team is Gentle Mates.
+The current score is Team Vitality 4 - 4 Gentle Mates.
+Wailers killed Trexx  in round 9
+Wailers killed runneR  in round 9
+Wailers killed ceNder  in round 9
+Kicks killed Wailers  in round 9
+beyAz killed Kicks  in round 9
+Sayf killed beyAz  in round 9
+Sayf killed nataNk  in round 9
+TakaS killed Sayf  in round 9
+Round 9 ended with elimination. The winning team is Gentle Mates.
+The current score is Team Vitality 4 - 5 Gentle Mates.
+Wailers killed runneR  in round 10
+beyAz killed Kicks  in round 10
+logaN killed Trexx  in round 10
+beyAz killed ceNder  in round 10
+beyAz killed Sayf  in round 10
+Round 10 ended with elimination. The winning team is Gentle Mates.
+The current score is Team Vitality 4 - 6 Gentle Mates.
+nataNk killed Sayf  in round 11
+runneR killed nataNk  in round 11
+ceNder killed beyAz  in round 11
+Wailers killed Trexx  in round 11
+TakaS killed Kicks  in round 11
+TakaS killed ceNder  in round 11
+runneR killed TakaS  in round 11
+Wailers killed runneR  in round 11
+Round 11 ended with spike_defuse. The winning team is Gentle Mates.
+The current score is Team Vitality 4 - 7 Gentle Mates.
+beyAz killed runneR  in round 12
+nataNk killed ceNder  in round 12
+Kicks killed nataNk  in round 12
+beyAz killed Kicks  in round 12
+Sayf killed Wailers  in round 12
+Trexx killed logaN  in round 12
+TakaS killed Sayf  in round 12
+TakaS killed Trexx  in round 12
+Round 12 ended with spike_defuse. The winning team is Gentle Mates.
+The current score is Team Vitality 4 - 8 Gentle Mates.
+logaN killed runneR  in round 13
+logaN killed Trexx  in round 13
+Kicks killed logaN  in round 13
+ceNder killed nataNk  in round 13
+Wailers killed ceNder  in round 13
+Wailers killed Sayf  in round 13
+TakaS killed Kicks  in round 13
+Round 13 ended with elimination. The winning team is Gentle Mates.
+The current score is Team Vitality 4 - 9 Gentle Mates.
+nataNk killed ceNder  in round 14
+nataNk killed Kicks  in round 14
+nataNk killed runneR  in round 14
+nataNk killed Trexx  in round 14
+logaN killed Sayf  in round 14
+Round 14 ended with elimination. The winning team is Gentle Mates.
+The current score is Team Vitality 4 - 10 Gentle Mates.
+nataNk killed Sayf  in round 15
+logaN killed ceNder  in round 15
+nataNk killed Kicks  in round 15
+beyAz killed runneR  in round 15
+Trexx killed beyAz  in round 15
+Trexx killed nataNk  in round 15
+TakaS killed Trexx  in round 15
+Round 15 ended with elimination. The winning team is Gentle Mates.
+The current score is Team Vitality 4 - 11 Gentle Mates.
+TakaS killed runneR  in round 16
+nataNk killed ceNder  in round 16
+logaN killed Sayf  in round 16
+TakaS killed Trexx  in round 16
+nataNk killed Kicks  in round 16
+Round 16 ended with elimination. The winning team is Gentle Mates.
+The current score is Team Vitality 4 - 12 Gentle Mates.
+Sayf killed nataNk  in round 17
+Trexx killed Wailers  in round 17
+ceNder killed TakaS  in round 17
+beyAz killed Kicks  in round 17
+ceNder killed beyAz  in round 17
+logaN killed ceNder  in round 17
+Sayf killed logaN  in round 17
+Round 17 ended with spike_defuse. The winning team is Team Vitality.
+The current score is Team Vitality 5 - 12 Gentle Mates.
+nataNk killed Sayf  in round 18
+runneR killed TakaS  in round 18
+nataNk killed Kicks  in round 18
+nataNk killed ceNder  in round 18
+Trexx killed Wailers  in round 18
+nataNk killed runneR  in round 18
+beyAz killed Trexx  in round 18
+Round 18 ended with elimination. The winning team is Gentle Mates.
+The current score is Team Vitality 5 - 13 Gentle Mates.
+Game ended with winning team: Gentle Mates at 2024-04-24T17:35:33Z
+
+--- Player Stats ---
+Wailers: Team=Gentle Mates, Kills=9, Deaths=11, Assists=4, KDA=1.18, First Kills=2, First Deaths=1
+nataNk: Team=Gentle Mates, Kills=20, Deaths=10, Assists=2, KDA=2.2, First Kills=4, First Deaths=2
+beyAz: Team=Gentle Mates, Kills=11, Deaths=10, Assists=11, KDA=2.2, First Kills=1, First Deaths=3
+logaN: Team=Gentle Mates, Kills=14, Deaths=8, Assists=4, KDA=2.25, First Kills=1, First Deaths=2
+TakaS: Team=Gentle Mates, Kills=14, Deaths=10, Assists=4, KDA=1.8, First Kills=1, First Deaths=1
+Kicks: Team=Team Vitality, Kills=11, Deaths=14, Assists=2, KDA=0.93, First Kills=2, First Deaths=0
+runneR: Team=Team Vitality, Kills=8, Deaths=13, Assists=3, KDA=0.85, First Kills=2, First Deaths=4
+ceNder: Team=Team Vitality, Kills=8, Deaths=14, Assists=5, KDA=0.93, First Kills=1, First Deaths=1
+Sayf: Team=Team Vitality, Kills=13, Deaths=14, Assists=1, KDA=1.0, First Kills=3, First Deaths=3
+Trexx: Team=Team Vitality, Kills=9, Deaths=13, Assists=10, KDA=1.46, First Kills=1, First Deaths=1

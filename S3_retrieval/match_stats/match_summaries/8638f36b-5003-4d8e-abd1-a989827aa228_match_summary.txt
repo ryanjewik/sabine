@@ -1,0 +1,172 @@
+Team 1: PAPER REX
+Team 2: Gen.G Esports
+Participating Players:
+Player 1: k1NgKR
+Player 2: eKo
+Player 3: TS
+Player 4: Meteor 
+Player 5: GodDead
+Player 6: f0rsakeN
+Player 7: mindfreak
+Player 8: d4v41
+Player 9: something
+Player 10: Jinggg
+Winning Team: PAPER REX
+Score: PAPER REX 13 - 2 Gen.G Esports
+Tournament Name: vct pacific 2023
+Game Start Time: 2023-05-12T10:41:09Z
+Game End Time: 2023-05-12T11:13:56Z
+Rounds ended by ELIMINATION count: 14
+Rounds ended by DEFUSE count: 0
+Rounds ended by DETONATE count: 1
+SPIKE PLANTED count: 1
+platformGameId: val:8638f36b-5003-4d8e-abd1-a989827aa228
+
+--- Events ---
+Game started at 2023-05-12T10:41:09Z
+something killed Meteor   in round 1
+eKo killed Jinggg  in round 1
+mindfreak killed k1NgKR  in round 1
+d4v41 killed eKo  in round 1
+d4v41 killed GodDead  in round 1
+f0rsakeN killed TS  in round 1
+Round 1 ended with elimination. The winning team is PAPER REX.
+The current score is PAPER REX 1 - 0 Gen.G Esports.
+TS killed Jinggg  in round 2
+mindfreak killed TS  in round 2
+k1NgKR killed something  in round 2
+eKo killed mindfreak  in round 2
+f0rsakeN killed k1NgKR  in round 2
+f0rsakeN killed Meteor   in round 2
+d4v41 killed GodDead  in round 2
+d4v41 killed eKo  in round 2
+Round 2 ended with elimination. The winning team is PAPER REX.
+The current score is PAPER REX 2 - 0 Gen.G Esports.
+Meteor  killed d4v41  in round 3
+GodDead killed something  in round 3
+GodDead killed f0rsakeN  in round 3
+GodDead killed mindfreak  in round 3
+k1NgKR killed Jinggg  in round 3
+Round 3 ended with elimination. The winning team is Gen.G Esports.
+The current score is PAPER REX 2 - 1 Gen.G Esports.
+Jinggg killed GodDead  in round 4
+d4v41 killed eKo  in round 4
+Meteor  killed something  in round 4
+TS killed f0rsakeN  in round 4
+Jinggg killed TS  in round 4
+d4v41 killed k1NgKR  in round 4
+Meteor  killed d4v41  in round 4
+mindfreak killed Meteor   in round 4
+Round 4 ended with elimination. The winning team is PAPER REX.
+The current score is PAPER REX 3 - 1 Gen.G Esports.
+mindfreak killed GodDead  in round 5
+TS killed something  in round 5
+d4v41 killed TS  in round 5
+Meteor  killed f0rsakeN  in round 5
+k1NgKR killed Jinggg  in round 5
+d4v41 killed Meteor   in round 5
+k1NgKR killed mindfreak  in round 5
+k1NgKR killed d4v41  in round 5
+Round 5 ended with elimination. The winning team is Gen.G Esports.
+The current score is PAPER REX 3 - 2 Gen.G Esports.
+something killed k1NgKR  in round 6
+GodDead killed f0rsakeN  in round 6
+Jinggg killed eKo  in round 6
+TS killed d4v41  in round 6
+Jinggg killed Meteor   in round 6
+something killed GodDead  in round 6
+TS killed mindfreak  in round 6
+Jinggg killed TS  in round 6
+Round 6 ended with elimination. The winning team is PAPER REX.
+The current score is PAPER REX 4 - 2 Gen.G Esports.
+Jinggg killed k1NgKR  in round 7
+d4v41 killed TS  in round 7
+d4v41 killed GodDead  in round 7
+d4v41 killed eKo  in round 7
+something killed Meteor   in round 7
+Round 7 ended with elimination. The winning team is PAPER REX.
+The current score is PAPER REX 5 - 2 Gen.G Esports.
+something killed k1NgKR  in round 8
+TS killed something  in round 8
+f0rsakeN killed TS  in round 8
+GodDead killed f0rsakeN  in round 8
+Jinggg killed GodDead  in round 8
+Round 8 ended with detonate. The winning team is PAPER REX.
+The current score is PAPER REX 6 - 2 Gen.G Esports.
+d4v41 killed k1NgKR  in round 9
+Jinggg killed eKo  in round 9
+f0rsakeN killed GodDead  in round 9
+f0rsakeN killed Meteor   in round 9
+d4v41 killed TS  in round 9
+Round 9 ended with elimination. The winning team is PAPER REX.
+The current score is PAPER REX 7 - 2 Gen.G Esports.
+Meteor  killed Jinggg  in round 10
+mindfreak killed Meteor   in round 10
+something killed GodDead  in round 10
+mindfreak killed TS  in round 10
+f0rsakeN killed eKo  in round 10
+k1NgKR killed f0rsakeN  in round 10
+d4v41 killed k1NgKR  in round 10
+Round 10 ended with elimination. The winning team is PAPER REX.
+The current score is PAPER REX 8 - 2 Gen.G Esports.
+f0rsakeN killed k1NgKR  in round 11
+f0rsakeN killed GodDead  in round 11
+f0rsakeN killed TS  in round 11
+eKo killed f0rsakeN  in round 11
+Jinggg killed Meteor   in round 11
+mindfreak killed eKo  in round 11
+Round 11 ended with elimination. The winning team is PAPER REX.
+The current score is PAPER REX 9 - 2 Gen.G Esports.
+Meteor  killed mindfreak  in round 12
+f0rsakeN killed GodDead  in round 12
+Meteor  killed something  in round 12
+d4v41 killed Meteor   in round 12
+f0rsakeN killed eKo  in round 12
+f0rsakeN killed k1NgKR  in round 12
+TS killed Jinggg  in round 12
+f0rsakeN killed TS  in round 12
+Round 12 ended with elimination. The winning team is PAPER REX.
+The current score is PAPER REX 10 - 2 Gen.G Esports.
+something killed GodDead  in round 13
+Meteor  killed f0rsakeN  in round 13
+something killed Meteor   in round 13
+something killed eKo  in round 13
+TS killed something  in round 13
+TS killed d4v41  in round 13
+k1NgKR killed mindfreak  in round 13
+Jinggg killed TS  in round 13
+Jinggg killed k1NgKR  in round 13
+Round 13 ended with elimination. The winning team is PAPER REX.
+The current score is PAPER REX 11 - 2 Gen.G Esports.
+f0rsakeN killed k1NgKR  in round 14
+eKo killed f0rsakeN  in round 14
+d4v41 killed eKo  in round 14
+Jinggg killed Meteor   in round 14
+d4v41 killed GodDead  in round 14
+TS killed something  in round 14
+Jinggg killed TS  in round 14
+Round 14 ended with elimination. The winning team is PAPER REX.
+The current score is PAPER REX 12 - 2 Gen.G Esports.
+eKo killed Jinggg  in round 15
+mindfreak killed Meteor   in round 15
+mindfreak killed eKo  in round 15
+GodDead killed mindfreak  in round 15
+something killed TS  in round 15
+d4v41 killed GodDead  in round 15
+k1NgKR killed d4v41  in round 15
+f0rsakeN killed k1NgKR  in round 15
+Round 15 ended with elimination. The winning team is PAPER REX.
+The current score is PAPER REX 13 - 2 Gen.G Esports.
+Game ended with winning team: PAPER REX at 2023-05-12T11:13:56Z
+
+--- Player Stats ---
+k1NgKR: Team=Gen.G Esports, Kills=8, Deaths=13, Assists=2, KDA=0.77, First Kills=0, First Deaths=6
+eKo: Team=Gen.G Esports, Kills=5, Deaths=12, Assists=5, KDA=0.83, First Kills=1, First Deaths=0
+TS: Team=Gen.G Esports, Kills=10, Deaths=14, Assists=2, KDA=0.86, First Kills=1, First Deaths=0
+Meteor : Team=Gen.G Esports, Kills=8, Deaths=13, Assists=2, KDA=0.77, First Kills=3, First Deaths=1
+GodDead: Team=Gen.G Esports, Kills=6, Deaths=14, Assists=5, KDA=0.79, First Kills=0, First Deaths=3
+f0rsakeN: Team=PAPER REX, Kills=16, Deaths=9, Assists=4, KDA=2.22, First Kills=2, First Deaths=0
+mindfreak: Team=PAPER REX, Kills=9, Deaths=7, Assists=5, KDA=2.0, First Kills=1, First Deaths=1
+d4v41: Team=PAPER REX, Kills=18, Deaths=6, Assists=9, KDA=4.5, First Kills=1, First Deaths=1
+something: Team=PAPER REX, Kills=10, Deaths=8, Assists=6, KDA=2.0, First Kills=4, First Deaths=0
+Jinggg: Team=PAPER REX, Kills=13, Deaths=7, Assists=4, KDA=2.43, First Kills=2, First Deaths=3

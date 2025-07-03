@@ -1,0 +1,286 @@
+Team 1: G2 Esports
+Team 2: T1
+Participating Players:
+Player 1: Sayaplayer
+Player 2: iZu
+Player 3: carpe
+Player 4: Rossy
+Player 5: Xccurate
+Player 6: icy
+Player 7: Leaf
+Player 8: valyn
+Player 9: trent
+Player 10: JonahP
+Winning Team: G2 Esports
+Score: G2 Esports 14 - 12 T1
+Tournament Name: vct masters shanghai 2024
+Game Start Time: 2024-05-23T09:47:44Z
+Game End Time: 2024-05-23T10:45:17Z
+Rounds ended by ELIMINATION count: 15
+Rounds ended by DEFUSE count: 8
+Rounds ended by DETONATE count: 2
+SPIKE PLANTED count: 10
+platformGameId: val:c437bef4-1983-48e1-8829-51352581a64f
+
+--- Events ---
+Game started at 2024-05-23T09:47:44Z
+Xccurate killed Leaf  in round 1
+trent killed Xccurate  in round 1
+carpe killed icy  in round 1
+carpe killed trent  in round 1
+Sayaplayer killed JonahP  in round 1
+Rossy killed valyn  in round 1
+Round 1 ended with spike_defuse. The winning team is T1.
+The current score is G2 Esports 0 - 1 T1.
+carpe killed icy  in round 2
+carpe killed trent  in round 2
+Xccurate killed JonahP  in round 2
+valyn killed iZu  in round 2
+carpe killed Leaf  in round 2
+Rossy killed valyn  in round 2
+Round 2 ended with elimination. The winning team is T1.
+The current score is G2 Esports 0 - 2 T1.
+iZu killed Leaf  in round 3
+Rossy killed valyn  in round 3
+trent killed iZu  in round 3
+Rossy killed JonahP  in round 3
+icy killed Rossy  in round 3
+carpe killed icy  in round 3
+carpe killed trent  in round 3
+Round 3 ended with elimination. The winning team is T1.
+The current score is G2 Esports 0 - 3 T1.
+iZu killed JonahP  in round 4
+iZu killed icy  in round 4
+trent killed iZu  in round 4
+Xccurate killed Leaf  in round 4
+trent killed carpe  in round 4
+Sayaplayer killed trent  in round 4
+Sayaplayer killed valyn  in round 4
+Round 4 ended with elimination. The winning team is T1.
+The current score is G2 Esports 0 - 4 T1.
+icy killed Rossy  in round 5
+icy killed iZu  in round 5
+Sayaplayer killed valyn  in round 5
+icy killed Sayaplayer  in round 5
+Xccurate killed JonahP  in round 5
+icy killed carpe  in round 5
+Xccurate killed icy  in round 5
+Round 5 ended with detonate. The winning team is G2 Esports.
+The current score is G2 Esports 1 - 4 T1.
+JonahP killed Xccurate  in round 6
+iZu killed icy  in round 6
+trent killed iZu  in round 6
+carpe killed trent  in round 6
+carpe killed valyn  in round 6
+Leaf killed Rossy  in round 6
+Leaf killed carpe  in round 6
+Sayaplayer killed JonahP  in round 6
+Sayaplayer killed Leaf  in round 6
+Round 6 ended with elimination. The winning team is T1.
+The current score is G2 Esports 1 - 5 T1.
+trent killed Rossy  in round 7
+Sayaplayer killed trent  in round 7
+iZu killed icy  in round 7
+iZu killed Leaf  in round 7
+JonahP killed Xccurate  in round 7
+Sayaplayer killed valyn  in round 7
+Sayaplayer killed JonahP  in round 7
+Round 7 ended with spike_defuse. The winning team is T1.
+The current score is G2 Esports 1 - 6 T1.
+Sayaplayer killed icy  in round 8
+Leaf killed iZu  in round 8
+Sayaplayer killed Leaf  in round 8
+JonahP killed Sayaplayer  in round 8
+Xccurate killed JonahP  in round 8
+carpe killed trent  in round 8
+Rossy killed valyn  in round 8
+Round 8 ended with elimination. The winning team is T1.
+The current score is G2 Esports 1 - 7 T1.
+icy killed Sayaplayer  in round 9
+iZu killed icy  in round 9
+JonahP killed Xccurate  in round 9
+carpe killed JonahP  in round 9
+valyn killed iZu  in round 9
+carpe killed valyn  in round 9
+Rossy killed Leaf  in round 9
+Rossy killed trent  in round 9
+Round 9 ended with detonate. The winning team is G2 Esports.
+The current score is G2 Esports 2 - 7 T1.
+carpe killed carpe  in round 10
+Rossy killed Rossy  in round 10
+iZu killed icy  in round 10
+Leaf killed Sayaplayer  in round 10
+Leaf killed iZu  in round 10
+Xccurate killed Leaf  in round 10
+JonahP killed Rossy  in round 10
+JonahP killed Xccurate  in round 10
+carpe killed JonahP  in round 10
+valyn killed carpe  in round 10
+Round 10 ended with elimination. The winning team is G2 Esports.
+The current score is G2 Esports 3 - 7 T1.
+Sayaplayer killed Leaf  in round 11
+icy killed Sayaplayer  in round 11
+iZu killed icy  in round 11
+JonahP killed iZu  in round 11
+Xccurate killed trent  in round 11
+JonahP killed Rossy  in round 11
+Round 11 ended with time_expired. The winning team is T1.
+The current score is G2 Esports 3 - 8 T1.
+Xccurate killed JonahP  in round 12
+Xccurate killed valyn  in round 12
+Sayaplayer killed icy  in round 12
+Sayaplayer killed trent  in round 12
+carpe killed Leaf  in round 12
+JonahP killed Sayaplayer  in round 12
+JonahP killed iZu  in round 12
+carpe killed JonahP  in round 12
+valyn killed carpe  in round 12
+valyn killed Xccurate  in round 12
+Rossy killed valyn  in round 12
+Round 12 ended with elimination. The winning team is T1.
+The current score is G2 Esports 3 - 9 T1.
+Sayaplayer killed JonahP  in round 13
+valyn killed Sayaplayer  in round 13
+Rossy killed valyn  in round 13
+iZu killed icy  in round 13
+trent killed iZu  in round 13
+trent killed carpe  in round 13
+Xccurate killed trent  in round 13
+Leaf killed Rossy  in round 13
+Leaf killed Xccurate  in round 13
+Round 13 ended with elimination. The winning team is G2 Esports.
+The current score is G2 Esports 4 - 9 T1.
+Leaf killed Sayaplayer  in round 14
+icy killed Xccurate  in round 14
+icy killed iZu  in round 14
+valyn killed carpe  in round 14
+Rossy killed JonahP  in round 14
+Rossy killed valyn  in round 14
+icy killed Rossy  in round 14
+Round 14 ended with spike_defuse. The winning team is G2 Esports.
+The current score is G2 Esports 5 - 9 T1.
+iZu killed valyn  in round 15
+trent killed iZu  in round 15
+carpe killed trent  in round 15
+Leaf killed Rossy  in round 15
+icy killed carpe  in round 15
+Sayaplayer killed icy  in round 15
+Xccurate killed JonahP  in round 15
+Xccurate killed Leaf  in round 15
+Round 15 ended with elimination. The winning team is T1.
+The current score is G2 Esports 5 - 10 T1.
+valyn killed carpe  in round 16
+valyn killed iZu  in round 16
+Rossy killed valyn  in round 16
+Leaf killed Sayaplayer  in round 16
+JonahP killed Xccurate  in round 16
+JonahP killed Rossy  in round 16
+Round 16 ended with spike_defuse. The winning team is G2 Esports.
+The current score is G2 Esports 6 - 10 T1.
+Leaf killed Rossy  in round 17
+Xccurate killed icy  in round 17
+carpe killed valyn  in round 17
+Leaf killed iZu  in round 17
+trent killed Sayaplayer  in round 17
+Leaf killed Xccurate  in round 17
+Leaf killed carpe  in round 17
+Round 17 ended with spike_defuse. The winning team is G2 Esports.
+The current score is G2 Esports 7 - 10 T1.
+Leaf killed Sayaplayer  in round 18
+JonahP killed iZu  in round 18
+JonahP killed carpe  in round 18
+JonahP killed Xccurate  in round 18
+icy killed Rossy  in round 18
+Round 18 ended with elimination. The winning team is G2 Esports.
+The current score is G2 Esports 8 - 10 T1.
+JonahP killed Rossy  in round 19
+Leaf killed iZu  in round 19
+Leaf killed Sayaplayer  in round 19
+Leaf killed Xccurate  in round 19
+carpe killed Leaf  in round 19
+valyn killed carpe  in round 19
+Round 19 ended with elimination. The winning team is G2 Esports.
+The current score is G2 Esports 9 - 10 T1.
+trent killed Rossy  in round 20
+trent killed Sayaplayer  in round 20
+iZu killed trent  in round 20
+Xccurate killed JonahP  in round 20
+carpe killed icy  in round 20
+carpe killed Leaf  in round 20
+valyn killed Xccurate  in round 20
+carpe killed valyn  in round 20
+Round 20 ended with elimination. The winning team is T1.
+The current score is G2 Esports 9 - 11 T1.
+trent killed Xccurate  in round 21
+icy killed Sayaplayer  in round 21
+trent killed Rossy  in round 21
+iZu killed Leaf  in round 21
+carpe killed trent  in round 21
+carpe killed icy  in round 21
+valyn killed carpe  in round 21
+iZu killed valyn  in round 21
+JonahP killed iZu  in round 21
+Round 21 ended with spike_defuse. The winning team is G2 Esports.
+The current score is G2 Esports 10 - 11 T1.
+Rossy killed valyn  in round 22
+Leaf killed Xccurate  in round 22
+Leaf killed Rossy  in round 22
+iZu killed Leaf  in round 22
+Sayaplayer killed icy  in round 22
+trent killed carpe  in round 22
+JonahP killed iZu  in round 22
+JonahP killed Sayaplayer  in round 22
+Round 22 ended with spike_defuse. The winning team is G2 Esports.
+The current score is G2 Esports 11 - 11 T1.
+icy killed Sayaplayer  in round 23
+carpe killed icy  in round 23
+carpe killed Leaf  in round 23
+Xccurate killed trent  in round 23
+valyn killed carpe  in round 23
+iZu killed valyn  in round 23
+JonahP killed Xccurate  in round 23
+iZu killed JonahP  in round 23
+Round 23 ended with elimination. The winning team is T1.
+The current score is G2 Esports 11 - 12 T1.
+Xccurate killed trent  in round 24
+icy killed iZu  in round 24
+Rossy killed icy  in round 24
+valyn killed Xccurate  in round 24
+valyn killed Rossy  in round 24
+JonahP killed Sayaplayer  in round 24
+carpe killed Leaf  in round 24
+valyn killed carpe  in round 24
+Round 24 ended with spike_defuse. The winning team is G2 Esports.
+The current score is G2 Esports 12 - 12 T1.
+Rossy killed JonahP  in round 25
+Sayaplayer killed icy  in round 25
+Leaf killed iZu  in round 25
+Sayaplayer killed trent  in round 25
+Leaf killed Sayaplayer  in round 25
+Leaf killed carpe  in round 25
+valyn killed Rossy  in round 25
+Xccurate killed Leaf  in round 25
+valyn killed Xccurate  in round 25
+Round 25 ended with elimination. The winning team is G2 Esports.
+The current score is G2 Esports 13 - 12 T1.
+icy killed Xccurate  in round 26
+icy killed Sayaplayer  in round 26
+valyn killed iZu  in round 26
+icy killed carpe  in round 26
+Rossy killed icy  in round 26
+valyn killed Rossy  in round 26
+Round 26 ended with elimination. The winning team is G2 Esports.
+The current score is G2 Esports 14 - 12 T1.
+Game ended with winning team: G2 Esports at 2024-05-23T10:45:17Z
+
+--- Player Stats ---
+Sayaplayer: Team=T1, Kills=19, Deaths=19, Assists=4, KDA=1.21, First Kills=3, First Deaths=4
+iZu: Team=T1, Kills=17, Deaths=22, Assists=16, KDA=1.5, First Kills=3, First Deaths=0
+carpe: Team=T1, Kills=27, Deaths=19, Assists=12, KDA=2.05, First Kills=2, First Deaths=2
+Rossy: Team=T1, Kills=17, Deaths=20, Assists=8, KDA=1.25, First Kills=2, First Deaths=5
+Xccurate: Team=T1, Kills=18, Deaths=19, Assists=1, KDA=1.0, First Kills=3, First Deaths=3
+icy: Team=G2 Esports, Kills=18, Deaths=22, Assists=4, KDA=1.0, First Kills=4, First Deaths=2
+Leaf: Team=G2 Esports, Kills=23, Deaths=19, Assists=3, KDA=1.37, First Kills=3, First Deaths=3
+valyn: Team=G2 Esports, Kills=20, Deaths=20, Assists=13, KDA=1.65, First Kills=1, First Deaths=2
+trent: Team=G2 Esports, Kills=15, Deaths=17, Assists=11, KDA=1.53, First Kills=3, First Deaths=1
+JonahP: Team=G2 Esports, Kills=21, Deaths=18, Assists=6, KDA=1.5, First Kills=2, First Deaths=4

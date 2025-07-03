@@ -1,0 +1,210 @@
+Team 1: Trace Esports
+Team 2: EDWARD Gaming
+Participating Players:
+Player 1: CHICHOO
+Player 2: ZmjjKK
+Player 3: S1Mon
+Player 4: nobody 
+Player 5: Smoggy
+Player 6: FengF
+Player 7: Kai 
+Player 8: heybay
+Player 9: Biank
+Player 10: LuoK1ng
+Winning Team: EDWARD Gaming
+Score: Trace Esports 5 - 13 EDWARD Gaming
+Tournament Name: vct cn stage 2 2024
+Game Start Time: 2024-07-18T08:46:52Z
+Game End Time: 2024-07-18T09:24:53Z
+Rounds ended by ELIMINATION count: 14
+Rounds ended by DEFUSE count: 3
+Rounds ended by DETONATE count: 1
+SPIKE PLANTED count: 4
+platformGameId: val:7fdc3a4b-9343-485e-bcfa-8e1caa3c08ce
+
+--- Events ---
+Game started at 2024-07-18T08:46:52Z
+S1Mon killed Kai   in round 1
+nobody  killed FengF  in round 1
+ZmjjKK killed Biank  in round 1
+LuoK1ng killed CHICHOO  in round 1
+nobody  killed heybay  in round 1
+nobody  killed LuoK1ng  in round 1
+Round 1 ended with elimination. The winning team is EDWARD Gaming.
+The current score is Trace Esports 0 - 1 EDWARD Gaming.
+Kai  killed S1Mon  in round 2
+Biank killed nobody   in round 2
+CHICHOO killed Biank  in round 2
+CHICHOO killed FengF  in round 2
+CHICHOO killed heybay  in round 2
+Kai  killed CHICHOO  in round 2
+Smoggy killed Kai   in round 2
+Smoggy killed LuoK1ng  in round 2
+heybay killed Smoggy  in round 2
+Round 2 ended with spike_defuse. The winning team is EDWARD Gaming.
+The current score is Trace Esports 0 - 2 EDWARD Gaming.
+Biank killed Smoggy  in round 3
+FengF killed S1Mon  in round 3
+ZmjjKK killed FengF  in round 3
+Biank killed nobody   in round 3
+ZmjjKK killed heybay  in round 3
+Kai  killed ZmjjKK  in round 3
+CHICHOO killed LuoK1ng  in round 3
+Biank killed CHICHOO  in round 3
+Round 3 ended with elimination. The winning team is Trace Esports.
+The current score is Trace Esports 1 - 2 EDWARD Gaming.
+Kai  killed ZmjjKK  in round 4
+nobody  killed Kai   in round 4
+Biank killed Smoggy  in round 4
+nobody  killed Biank  in round 4
+heybay killed S1Mon  in round 4
+CHICHOO killed heybay  in round 4
+CHICHOO killed FengF  in round 4
+LuoK1ng killed nobody   in round 4
+CHICHOO killed LuoK1ng  in round 4
+Round 4 ended with detonate. The winning team is Trace Esports.
+The current score is Trace Esports 2 - 2 EDWARD Gaming.
+CHICHOO killed Biank  in round 5
+CHICHOO killed heybay  in round 5
+ZmjjKK killed LuoK1ng  in round 5
+Smoggy killed FengF  in round 5
+CHICHOO killed Kai   in round 5
+Round 5 ended with elimination. The winning team is EDWARD Gaming.
+The current score is Trace Esports 2 - 3 EDWARD Gaming.
+CHICHOO killed FengF  in round 6
+Biank killed CHICHOO  in round 6
+nobody  killed Biank  in round 6
+nobody  killed Kai   in round 6
+heybay killed nobody   in round 6
+Smoggy killed LuoK1ng  in round 6
+ZmjjKK killed heybay  in round 6
+Round 6 ended with elimination. The winning team is EDWARD Gaming.
+The current score is Trace Esports 2 - 4 EDWARD Gaming.
+heybay killed nobody   in round 7
+ZmjjKK killed LuoK1ng  in round 7
+CHICHOO killed Biank  in round 7
+heybay killed CHICHOO  in round 7
+ZmjjKK killed heybay  in round 7
+FengF killed Smoggy  in round 7
+FengF killed S1Mon  in round 7
+Kai  killed ZmjjKK  in round 7
+Round 7 ended with elimination. The winning team is Trace Esports.
+The current score is Trace Esports 3 - 4 EDWARD Gaming.
+Smoggy killed heybay  in round 8
+Smoggy killed LuoK1ng  in round 8
+heybay killed Smoggy  in round 8
+FengF killed CHICHOO  in round 8
+ZmjjKK killed FengF  in round 8
+nobody  killed Kai   in round 8
+Biank killed S1Mon  in round 8
+ZmjjKK killed Biank  in round 8
+Round 8 ended with spike_defuse. The winning team is EDWARD Gaming.
+The current score is Trace Esports 3 - 5 EDWARD Gaming.
+FengF killed ZmjjKK  in round 9
+heybay killed nobody   in round 9
+S1Mon killed LuoK1ng  in round 9
+CHICHOO killed FengF  in round 9
+Biank killed S1Mon  in round 9
+CHICHOO killed Kai   in round 9
+Biank killed CHICHOO  in round 9
+Smoggy killed Biank  in round 9
+Smoggy killed heybay  in round 9
+Round 9 ended with elimination. The winning team is EDWARD Gaming.
+The current score is Trace Esports 3 - 6 EDWARD Gaming.
+Biank killed Smoggy  in round 10
+Biank killed S1Mon  in round 10
+ZmjjKK killed Biank  in round 10
+ZmjjKK killed Kai   in round 10
+ZmjjKK killed heybay  in round 10
+FengF killed nobody   in round 10
+LuoK1ng killed ZmjjKK  in round 10
+CHICHOO killed LuoK1ng  in round 10
+FengF killed CHICHOO  in round 10
+Round 10 ended with elimination. The winning team is Trace Esports.
+The current score is Trace Esports 4 - 6 EDWARD Gaming.
+Biank killed ZmjjKK  in round 11
+Smoggy killed Biank  in round 11
+LuoK1ng killed Smoggy  in round 11
+CHICHOO killed LuoK1ng  in round 11
+FengF killed S1Mon  in round 11
+nobody  killed Kai   in round 11
+heybay killed nobody   in round 11
+CHICHOO killed FengF  in round 11
+heybay killed CHICHOO  in round 11
+Round 11 ended with elimination. The winning team is Trace Esports.
+The current score is Trace Esports 5 - 6 EDWARD Gaming.
+ZmjjKK killed Biank  in round 12
+FengF killed ZmjjKK  in round 12
+LuoK1ng killed CHICHOO  in round 12
+nobody  killed LuoK1ng  in round 12
+Smoggy killed FengF  in round 12
+S1Mon killed Kai   in round 12
+Smoggy killed heybay  in round 12
+Round 12 ended with spike_defuse. The winning team is EDWARD Gaming.
+The current score is Trace Esports 5 - 7 EDWARD Gaming.
+ZmjjKK killed Kai   in round 13
+heybay killed ZmjjKK  in round 13
+nobody  killed heybay  in round 13
+Smoggy killed LuoK1ng  in round 13
+CHICHOO killed Biank  in round 13
+nobody  killed FengF  in round 13
+Round 13 ended with elimination. The winning team is EDWARD Gaming.
+The current score is Trace Esports 5 - 8 EDWARD Gaming.
+ZmjjKK killed Biank  in round 14
+FengF killed Smoggy  in round 14
+nobody  killed Kai   in round 14
+nobody  killed heybay  in round 14
+nobody  killed FengF  in round 14
+LuoK1ng killed nobody   in round 14
+S1Mon killed LuoK1ng  in round 14
+Round 14 ended with elimination. The winning team is EDWARD Gaming.
+The current score is Trace Esports 5 - 9 EDWARD Gaming.
+ZmjjKK killed Kai   in round 15
+Biank killed Smoggy  in round 15
+heybay killed nobody   in round 15
+S1Mon killed heybay  in round 15
+LuoK1ng killed ZmjjKK  in round 15
+S1Mon killed LuoK1ng  in round 15
+CHICHOO killed FengF  in round 15
+Biank killed S1Mon  in round 15
+CHICHOO killed Biank  in round 15
+Round 15 ended with elimination. The winning team is EDWARD Gaming.
+The current score is Trace Esports 5 - 10 EDWARD Gaming.
+ZmjjKK killed Kai   in round 16
+ZmjjKK killed heybay  in round 16
+Biank killed CHICHOO  in round 16
+Smoggy killed FengF  in round 16
+ZmjjKK killed Biank  in round 16
+nobody  killed LuoK1ng  in round 16
+Round 16 ended with elimination. The winning team is EDWARD Gaming.
+The current score is Trace Esports 5 - 11 EDWARD Gaming.
+FengF killed Smoggy  in round 17
+nobody  killed FengF  in round 17
+ZmjjKK killed Kai   in round 17
+CHICHOO killed LuoK1ng  in round 17
+ZmjjKK killed Biank  in round 17
+heybay killed ZmjjKK  in round 17
+nobody  killed heybay  in round 17
+Round 17 ended with elimination. The winning team is EDWARD Gaming.
+The current score is Trace Esports 5 - 12 EDWARD Gaming.
+heybay killed S1Mon  in round 18
+nobody  killed heybay  in round 18
+ZmjjKK killed LuoK1ng  in round 18
+Smoggy killed Biank  in round 18
+ZmjjKK killed Kai   in round 18
+ZmjjKK killed FengF  in round 18
+Round 18 ended with elimination. The winning team is EDWARD Gaming.
+The current score is Trace Esports 5 - 13 EDWARD Gaming.
+Game ended with winning team: EDWARD Gaming at 2024-07-18T09:24:53Z
+
+--- Player Stats ---
+CHICHOO: Team=EDWARD Gaming, Kills=21, Deaths=11, Assists=9, KDA=2.73, First Kills=2, First Deaths=0
+ZmjjKK: Team=EDWARD Gaming, Kills=24, Deaths=10, Assists=6, KDA=3.0, First Kills=5, First Deaths=3
+S1Mon: Team=EDWARD Gaming, Kills=6, Deaths=10, Assists=4, KDA=1.0, First Kills=1, First Deaths=2
+nobody : Team=EDWARD Gaming, Kills=19, Deaths=10, Assists=11, KDA=3.0, First Kills=0, First Deaths=1
+Smoggy: Team=EDWARD Gaming, Kills=14, Deaths=10, Assists=5, KDA=1.9, First Kills=1, First Deaths=3
+FengF: Team=Trace Esports, Kills=11, Deaths=16, Assists=6, KDA=1.06, First Kills=2, First Deaths=1
+Kai : Team=Trace Esports, Kills=5, Deaths=16, Assists=7, KDA=0.75, First Kills=2, First Deaths=4
+heybay: Team=Trace Esports, Kills=13, Deaths=17, Assists=2, KDA=0.88, First Kills=2, First Deaths=1
+Biank: Team=Trace Esports, Kills=15, Deaths=17, Assists=2, KDA=1.0, First Kills=3, First Deaths=3
+LuoK1ng: Team=Trace Esports, Kills=7, Deaths=18, Assists=3, KDA=0.56, First Kills=0, First Deaths=0

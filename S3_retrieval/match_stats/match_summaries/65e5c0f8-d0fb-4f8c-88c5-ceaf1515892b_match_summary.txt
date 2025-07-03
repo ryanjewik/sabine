@@ -1,0 +1,238 @@
+Team 1: GLOBAL ESPORTS
+Team 2: Team Secret
+Participating Players:
+Player 1: invy
+Player 2: Jremy
+Player 3: JessieVash
+Player 4: DubsteP
+Player 5: BORKUM
+Player 6: t3xture
+Player 7: SkRossi
+Player 8: AYRIN
+Player 9: Bazzi
+Player 10: Monyet
+Winning Team: Team Secret
+Score: GLOBAL ESPORTS 9 - 13 Team Secret
+Tournament Name: vct pacific 2023
+Game Start Time: 2023-05-15T10:51:50Z
+Game End Time: 2023-05-15T11:52:01Z
+Rounds ended by ELIMINATION count: 13
+Rounds ended by DEFUSE count: 6
+Rounds ended by DETONATE count: 3
+SPIKE PLANTED count: 9
+platformGameId: val:65e5c0f8-d0fb-4f8c-88c5-ceaf1515892b
+
+--- Events ---
+Game started at 2023-05-15T10:51:50Z
+Monyet killed JessieVash  in round 1
+Jremy killed Monyet  in round 1
+Jremy killed AYRIN  in round 1
+SkRossi killed invy  in round 1
+SkRossi killed Jremy  in round 1
+t3xture killed DubsteP  in round 1
+BORKUM killed SkRossi  in round 1
+t3xture killed BORKUM  in round 1
+Round 1 ended with elimination. The winning team is GLOBAL ESPORTS.
+The current score is GLOBAL ESPORTS 1 - 0 Team Secret.
+Bazzi killed Jremy  in round 2
+Monyet killed invy  in round 2
+Monyet killed JessieVash  in round 2
+SkRossi killed BORKUM  in round 2
+Round 2 ended with detonate. The winning team is GLOBAL ESPORTS.
+The current score is GLOBAL ESPORTS 2 - 0 Team Secret.
+DubsteP killed DubsteP  in round 3
+invy killed SkRossi  in round 3
+invy killed AYRIN  in round 3
+BORKUM killed Bazzi  in round 3
+Monyet killed Jremy  in round 3
+DubsteP killed t3xture  in round 3
+Monyet killed invy  in round 3
+JessieVash killed Monyet  in round 3
+Round 3 ended with elimination. The winning team is Team Secret.
+The current score is GLOBAL ESPORTS 2 - 1 Team Secret.
+invy killed AYRIN  in round 4
+invy killed SkRossi  in round 4
+Bazzi killed invy  in round 4
+t3xture killed Jremy  in round 4
+Bazzi killed JessieVash  in round 4
+t3xture killed BORKUM  in round 4
+DubsteP killed Monyet  in round 4
+Round 4 ended with detonate. The winning team is GLOBAL ESPORTS.
+The current score is GLOBAL ESPORTS 3 - 1 Team Secret.
+BORKUM killed Monyet  in round 5
+BORKUM killed SkRossi  in round 5
+DubsteP killed Bazzi  in round 5
+AYRIN killed DubsteP  in round 5
+AYRIN killed invy  in round 5
+Jremy killed AYRIN  in round 5
+t3xture killed Jremy  in round 5
+t3xture killed JessieVash  in round 5
+t3xture killed BORKUM  in round 5
+Round 5 ended with elimination. The winning team is GLOBAL ESPORTS.
+The current score is GLOBAL ESPORTS 4 - 1 Team Secret.
+BORKUM killed t3xture  in round 6
+DubsteP killed Bazzi  in round 6
+DubsteP killed AYRIN  in round 6
+BORKUM killed Monyet  in round 6
+Jremy killed SkRossi  in round 6
+Round 6 ended with elimination. The winning team is Team Secret.
+The current score is GLOBAL ESPORTS 4 - 2 Team Secret.
+Bazzi killed DubsteP  in round 7
+Bazzi killed invy  in round 7
+Round 7 ended with detonate. The winning team is GLOBAL ESPORTS.
+The current score is GLOBAL ESPORTS 5 - 2 Team Secret.
+t3xture killed BORKUM  in round 8
+invy killed SkRossi  in round 8
+Monyet killed JessieVash  in round 8
+invy killed Monyet  in round 8
+Bazzi killed invy  in round 8
+Jremy killed Bazzi  in round 8
+AYRIN killed Jremy  in round 8
+DubsteP killed AYRIN  in round 8
+DubsteP killed t3xture  in round 8
+Round 8 ended with spike_defuse. The winning team is Team Secret.
+The current score is GLOBAL ESPORTS 5 - 3 Team Secret.
+SkRossi killed DubsteP  in round 9
+Monyet killed BORKUM  in round 9
+invy killed Monyet  in round 9
+Bazzi killed JessieVash  in round 9
+invy killed SkRossi  in round 9
+Jremy killed Bazzi  in round 9
+AYRIN killed invy  in round 9
+Jremy killed AYRIN  in round 9
+Jremy killed t3xture  in round 9
+Round 9 ended with spike_defuse. The winning team is Team Secret.
+The current score is GLOBAL ESPORTS 5 - 4 Team Secret.
+Jremy killed t3xture  in round 10
+BORKUM killed SkRossi  in round 10
+invy killed AYRIN  in round 10
+Monyet killed invy  in round 10
+Monyet killed BORKUM  in round 10
+JessieVash killed Monyet  in round 10
+Bazzi killed JessieVash  in round 10
+DubsteP killed Bazzi  in round 10
+Round 10 ended with spike_defuse. The winning team is Team Secret.
+The current score is GLOBAL ESPORTS 5 - 5 Team Secret.
+JessieVash killed Monyet  in round 11
+Jremy killed Bazzi  in round 11
+Jremy killed SkRossi  in round 11
+Jremy killed AYRIN  in round 11
+t3xture killed invy  in round 11
+JessieVash killed t3xture  in round 11
+Round 11 ended with elimination. The winning team is Team Secret.
+The current score is GLOBAL ESPORTS 5 - 6 Team Secret.
+invy killed AYRIN  in round 12
+invy killed t3xture  in round 12
+Bazzi killed Jremy  in round 12
+Bazzi killed invy  in round 12
+JessieVash killed Bazzi  in round 12
+JessieVash killed SkRossi  in round 12
+Monyet killed BORKUM  in round 12
+Monyet killed DubsteP  in round 12
+Monyet killed JessieVash  in round 12
+Round 12 ended with elimination. The winning team is GLOBAL ESPORTS.
+The current score is GLOBAL ESPORTS 6 - 6 Team Secret.
+Monyet killed JessieVash  in round 13
+DubsteP killed Monyet  in round 13
+t3xture killed DubsteP  in round 13
+Jremy killed AYRIN  in round 13
+t3xture killed Jremy  in round 13
+invy killed t3xture  in round 13
+BORKUM killed SkRossi  in round 13
+invy killed Bazzi  in round 13
+Round 13 ended with elimination. The winning team is Team Secret.
+The current score is GLOBAL ESPORTS 6 - 7 Team Secret.
+Jremy killed Bazzi  in round 14
+AYRIN killed invy  in round 14
+AYRIN killed BORKUM  in round 14
+JessieVash killed AYRIN  in round 14
+JessieVash killed SkRossi  in round 14
+t3xture killed Jremy  in round 14
+JessieVash killed t3xture  in round 14
+DubsteP killed Monyet  in round 14
+Round 14 ended with elimination. The winning team is Team Secret.
+The current score is GLOBAL ESPORTS 6 - 8 Team Secret.
+Bazzi killed Jremy  in round 15
+DubsteP killed Bazzi  in round 15
+AYRIN killed DubsteP  in round 15
+BORKUM killed AYRIN  in round 15
+Monyet killed JessieVash  in round 15
+t3xture killed invy  in round 15
+BORKUM killed t3xture  in round 15
+SkRossi killed BORKUM  in round 15
+Round 15 ended with spike_defuse. The winning team is GLOBAL ESPORTS.
+The current score is GLOBAL ESPORTS 7 - 8 Team Secret.
+Jremy killed AYRIN  in round 16
+JessieVash killed Monyet  in round 16
+DubsteP killed t3xture  in round 16
+Jremy killed SkRossi  in round 16
+invy killed Bazzi  in round 16
+Round 16 ended with elimination. The winning team is Team Secret.
+The current score is GLOBAL ESPORTS 7 - 9 Team Secret.
+JessieVash killed SkRossi  in round 17
+JessieVash killed AYRIN  in round 17
+t3xture killed invy  in round 17
+BORKUM killed t3xture  in round 17
+DubsteP killed Monyet  in round 17
+DubsteP killed Bazzi  in round 17
+Round 17 ended with elimination. The winning team is Team Secret.
+The current score is GLOBAL ESPORTS 7 - 10 Team Secret.
+SkRossi killed Jremy  in round 18
+Jremy killed AYRIN  in round 18
+Monyet killed invy  in round 18
+DubsteP killed SkRossi  in round 18
+BORKUM killed t3xture  in round 18
+Monyet killed BORKUM  in round 18
+Monyet killed DubsteP  in round 18
+Monyet killed JessieVash  in round 18
+Round 18 ended with spike_defuse. The winning team is GLOBAL ESPORTS.
+The current score is GLOBAL ESPORTS 8 - 10 Team Secret.
+t3xture killed Jremy  in round 19
+BORKUM killed Bazzi  in round 19
+Monyet killed BORKUM  in round 19
+Monyet killed JessieVash  in round 19
+SkRossi killed DubsteP  in round 19
+AYRIN killed invy  in round 19
+Round 19 ended with spike_defuse. The winning team is GLOBAL ESPORTS.
+The current score is GLOBAL ESPORTS 9 - 10 Team Secret.
+Jremy killed t3xture  in round 20
+invy killed AYRIN  in round 20
+JessieVash killed SkRossi  in round 20
+invy killed Monyet  in round 20
+Bazzi killed Jremy  in round 20
+BORKUM killed Bazzi  in round 20
+Round 20 ended with elimination. The winning team is Team Secret.
+The current score is GLOBAL ESPORTS 9 - 11 Team Secret.
+Jremy killed Bazzi  in round 21
+SkRossi killed Jremy  in round 21
+DubsteP killed SkRossi  in round 21
+invy killed AYRIN  in round 21
+Monyet killed JessieVash  in round 21
+invy killed Monyet  in round 21
+t3xture killed invy  in round 21
+t3xture killed BORKUM  in round 21
+DubsteP killed t3xture  in round 21
+Round 21 ended with elimination. The winning team is Team Secret.
+The current score is GLOBAL ESPORTS 9 - 12 Team Secret.
+BORKUM killed SkRossi  in round 22
+Monyet killed JessieVash  in round 22
+BORKUM killed t3xture  in round 22
+Monyet killed invy  in round 22
+Jremy killed AYRIN  in round 22
+DubsteP killed Monyet  in round 22
+DubsteP killed Bazzi  in round 22
+Round 22 ended with elimination. The winning team is Team Secret.
+The current score is GLOBAL ESPORTS 9 - 13 Team Secret.
+Game ended with winning team: Team Secret at 2023-05-15T11:52:01Z
+
+--- Player Stats ---
+invy: Team=Team Secret, Kills=18, Deaths=18, Assists=10, KDA=1.56, First Kills=2, First Deaths=0
+Jremy: Team=Team Secret, Kills=20, Deaths=14, Assists=7, KDA=1.93, First Kills=5, First Deaths=4
+JessieVash: Team=Team Secret, Kills=13, Deaths=14, Assists=6, KDA=1.36, First Kills=2, First Deaths=2
+DubsteP: Team=Team Secret, Kills=20, Deaths=10, Assists=4, KDA=2.4, First Kills=1, First Deaths=3
+BORKUM: Team=Team Secret, Kills=16, Deaths=13, Assists=11, KDA=2.08, First Kills=3, First Deaths=1
+t3xture: Team=GLOBAL ESPORTS, Kills=17, Deaths=16, Assists=1, KDA=1.12, First Kills=2, First Deaths=3
+SkRossi: Team=GLOBAL ESPORTS, Kills=8, Deaths=18, Assists=5, KDA=0.72, First Kills=2, First Deaths=2
+AYRIN: Team=GLOBAL ESPORTS, Kills=8, Deaths=19, Assists=8, KDA=0.84, First Kills=0, First Deaths=3
+Bazzi: Team=GLOBAL ESPORTS, Kills=12, Deaths=17, Assists=11, KDA=1.35, First Kills=3, First Deaths=2
+Monyet: Team=GLOBAL ESPORTS, Kills=23, Deaths=16, Assists=4, KDA=1.69, First Kills=2, First Deaths=2

@@ -1,0 +1,181 @@
+Team 1: NRG
+Team 2: LOUD
+Participating Players:
+Player 1: QcK
+Player 2: cauanzin
+Player 3: Saadhak
+Player 4: Less
+Player 5: tuyz
+Player 6: Demon1
+Player 7: Marved
+Player 8: Ethan
+Player 9: crashies
+Player 10: Victor
+Winning Team: NRG
+Score: NRG 13 - 2 LOUD
+Tournament Name: vct americas stage 1 2024
+Game Start Time: 2024-04-07T02:08:27Z
+Game End Time: 2024-04-07T02:42:16Z
+Rounds ended by ELIMINATION count: 11
+Rounds ended by DEFUSE count: 2
+Rounds ended by DETONATE count: 2
+SPIKE PLANTED count: 4
+platformGameId: val:a0b9831c-3ce8-4893-ac04-62a298bf45b7
+
+--- Events ---
+Game started at 2024-04-07T02:08:27Z
+Demon1 killed tuyz  in round 1
+crashies killed QcK  in round 1
+cauanzin killed crashies  in round 1
+cauanzin killed Demon1  in round 1
+Victor killed cauanzin  in round 1
+Less killed Ethan  in round 1
+Marved killed Saadhak  in round 1
+Victor killed Less  in round 1
+Round 1 ended with elimination. The winning team is NRG.
+The current score is NRG 1 - 0 LOUD.
+QcK killed Marved  in round 2
+Victor killed QcK  in round 2
+Demon1 killed Less  in round 2
+Victor killed cauanzin  in round 2
+Victor killed Saadhak  in round 2
+Victor killed tuyz  in round 2
+Round 2 ended with elimination. The winning team is NRG.
+The current score is NRG 2 - 0 LOUD.
+Demon1 killed QcK  in round 3
+Demon1 killed Less  in round 3
+crashies killed Saadhak  in round 3
+tuyz killed Marved  in round 3
+cauanzin killed Ethan  in round 3
+Demon1 killed cauanzin  in round 3
+Round 3 ended with detonate. The winning team is NRG.
+The current score is NRG 3 - 0 LOUD.
+Less killed Victor  in round 4
+tuyz killed Ethan  in round 4
+crashies killed Less  in round 4
+Saadhak killed Marved  in round 4
+Demon1 killed Saadhak  in round 4
+crashies killed cauanzin  in round 4
+tuyz killed Demon1  in round 4
+tuyz killed crashies  in round 4
+Round 4 ended with spike_defuse. The winning team is LOUD.
+The current score is NRG 3 - 1 LOUD.
+Demon1 killed tuyz  in round 5
+Demon1 killed cauanzin  in round 5
+Less killed Demon1  in round 5
+Ethan killed Less  in round 5
+QcK killed Ethan  in round 5
+crashies killed Saadhak  in round 5
+Victor killed QcK  in round 5
+Round 5 ended with elimination. The winning team is NRG.
+The current score is NRG 4 - 1 LOUD.
+Demon1 killed Less  in round 6
+QcK killed Demon1  in round 6
+QcK killed Marved  in round 6
+QcK killed Ethan  in round 6
+Victor killed QcK  in round 6
+Victor killed Saadhak  in round 6
+crashies killed tuyz  in round 6
+crashies killed cauanzin  in round 6
+Round 6 ended with elimination. The winning team is NRG.
+The current score is NRG 5 - 1 LOUD.
+tuyz killed Ethan  in round 7
+tuyz killed Victor  in round 7
+Marved killed Saadhak  in round 7
+Marved killed tuyz  in round 7
+Marved killed cauanzin  in round 7
+Demon1 killed QcK  in round 7
+Less killed Marved  in round 7
+Demon1 killed Less  in round 7
+Round 7 ended with elimination. The winning team is NRG.
+The current score is NRG 6 - 1 LOUD.
+Demon1 killed QcK  in round 8
+Marved killed Less  in round 8
+Saadhak killed Marved  in round 8
+crashies killed Saadhak  in round 8
+cauanzin killed crashies  in round 8
+Victor killed cauanzin  in round 8
+Round 8 ended with detonate. The winning team is NRG.
+The current score is NRG 7 - 1 LOUD.
+tuyz killed tuyz  in round 9
+QcK killed Demon1  in round 9
+Ethan killed QcK  in round 9
+Ethan killed Saadhak  in round 9
+cauanzin killed Victor  in round 9
+Marved killed cauanzin  in round 9
+Less killed Ethan  in round 9
+Less killed crashies  in round 9
+Marved killed tuyz  in round 9
+Marved killed Less  in round 9
+Round 9 ended with elimination. The winning team is NRG.
+The current score is NRG 8 - 1 LOUD.
+Victor killed QcK  in round 10
+Demon1 killed Less  in round 10
+Saadhak killed Demon1  in round 10
+Marved killed Saadhak  in round 10
+Victor killed cauanzin  in round 10
+crashies killed tuyz  in round 10
+Round 10 ended with elimination. The winning team is NRG.
+The current score is NRG 9 - 1 LOUD.
+Ethan killed QcK  in round 11
+cauanzin killed Victor  in round 11
+cauanzin killed Demon1  in round 11
+Ethan killed tuyz  in round 11
+Saadhak killed Ethan  in round 11
+Marved killed Less  in round 11
+Saadhak killed Marved  in round 11
+crashies killed cauanzin  in round 11
+crashies killed Saadhak  in round 11
+Round 11 ended with elimination. The winning team is NRG.
+The current score is NRG 10 - 1 LOUD.
+Saadhak killed Marved  in round 12
+Ethan killed tuyz  in round 12
+Demon1 killed QcK  in round 12
+Less killed Ethan  in round 12
+Less killed crashies  in round 12
+Less killed Victor  in round 12
+Demon1 killed Less  in round 12
+cauanzin killed Demon1  in round 12
+Round 12 ended with elimination. The winning team is LOUD.
+The current score is NRG 10 - 2 LOUD.
+crashies killed QcK  in round 13
+Demon1 killed Saadhak  in round 13
+cauanzin killed Marved  in round 13
+Less killed Victor  in round 13
+Ethan killed Less  in round 13
+Demon1 killed cauanzin  in round 13
+tuyz killed crashies  in round 13
+Demon1 killed tuyz  in round 13
+Round 13 ended with elimination. The winning team is NRG.
+The current score is NRG 11 - 2 LOUD.
+Marved killed tuyz  in round 14
+Demon1 killed cauanzin  in round 14
+crashies killed QcK  in round 14
+crashies killed Saadhak  in round 14
+crashies killed Less  in round 14
+Round 14 ended with elimination. The winning team is NRG.
+The current score is NRG 12 - 2 LOUD.
+QcK killed Demon1  in round 15
+crashies killed Saadhak  in round 15
+QcK killed crashies  in round 15
+Ethan killed cauanzin  in round 15
+Ethan killed QcK  in round 15
+Less killed Ethan  in round 15
+Victor killed Less  in round 15
+tuyz killed Victor  in round 15
+Marved killed tuyz  in round 15
+Round 15 ended with spike_defuse. The winning team is NRG.
+The current score is NRG 13 - 2 LOUD.
+Game ended with winning team: NRG at 2024-04-07T02:42:16Z
+
+--- Player Stats ---
+QcK: Team=LOUD, Kills=8, Deaths=14, Assists=1, KDA=0.64, First Kills=2, First Deaths=5
+cauanzin: Team=LOUD, Kills=9, Deaths=14, Assists=3, KDA=0.86, First Kills=0, First Deaths=0
+Saadhak: Team=LOUD, Kills=6, Deaths=14, Assists=5, KDA=0.79, First Kills=1, First Deaths=0
+Less: Team=LOUD, Kills=11, Deaths=15, Assists=4, KDA=1.0, First Kills=1, First Deaths=1
+tuyz: Team=LOUD, Kills=9, Deaths=13, Assists=1, KDA=0.77, First Kills=2, First Deaths=4
+Demon1: Team=NRG, Kills=19, Deaths=9, Assists=3, KDA=2.44, First Kills=5, First Deaths=1
+Marved: Team=NRG, Kills=12, Deaths=9, Assists=4, KDA=1.78, First Kills=1, First Deaths=2
+Ethan: Team=NRG, Kills=9, Deaths=10, Assists=7, KDA=1.6, First Kills=1, First Deaths=1
+crashies: Team=NRG, Kills=16, Deaths=7, Assists=3, KDA=2.71, First Kills=1, First Deaths=0
+Victor: Team=NRG, Kills=13, Deaths=7, Assists=2, KDA=2.14, First Kills=1, First Deaths=1

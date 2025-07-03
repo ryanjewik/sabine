@@ -1,0 +1,197 @@
+Team 1: Futbolist
+Team 2: FNATIC
+Participating Players:
+Player 1: Chronicle
+Player 2: Derke
+Player 3: Boaster
+Player 4: Leo 
+Player 5: Alfajer
+Player 6: qRaxs
+Player 7: yetujey
+Player 8: MrFaliN
+Player 9: cNed
+Player 10: ATA KAPTAN
+Winning Team: FNATIC
+Score: Futbolist 5 - 13 FNATIC
+Tournament Name: vct masters shanghai 2024
+Game Start Time: 2024-06-01T07:52:30Z
+Game End Time: 2024-06-01T08:47:33Z
+Rounds ended by ELIMINATION count: 15
+Rounds ended by DEFUSE count: 0
+Rounds ended by DETONATE count: 2
+SPIKE PLANTED count: 2
+platformGameId: val:6c1400e6-bb9f-47e1-8f49-aff011f10c01
+
+--- Events ---
+Game started at 2024-06-01T07:52:30Z
+Derke killed cNed  in round 1
+Boaster killed qRaxs  in round 1
+yetujey killed Boaster  in round 1
+Alfajer killed yetujey  in round 1
+Alfajer killed ATA KAPTAN  in round 1
+Derke killed MrFaliN  in round 1
+Round 1 ended with elimination. The winning team is FNATIC.
+The current score is Futbolist 0 - 1 FNATIC.
+Alfajer killed Derke  in round 2
+Chronicle killed ATA KAPTAN  in round 2
+Derke killed MrFaliN  in round 2
+Leo  killed qRaxs  in round 2
+Chronicle killed yetujey  in round 2
+Chronicle killed cNed  in round 2
+Round 2 ended with elimination. The winning team is FNATIC.
+The current score is Futbolist 0 - 2 FNATIC.
+Derke killed yetujey  in round 3
+qRaxs killed Chronicle  in round 3
+Alfajer killed MrFaliN  in round 3
+Leo  killed ATA KAPTAN  in round 3
+qRaxs killed Leo   in round 3
+qRaxs killed Alfajer  in round 3
+cNed killed Derke  in round 3
+cNed killed Boaster  in round 3
+Round 3 ended with elimination. The winning team is Futbolist.
+The current score is Futbolist 1 - 2 FNATIC.
+yetujey killed Chronicle  in round 4
+Derke killed cNed  in round 4
+Derke killed qRaxs  in round 4
+Derke killed MrFaliN  in round 4
+yetujey killed Derke  in round 4
+Leo  killed ATA KAPTAN  in round 4
+Boaster killed yetujey  in round 4
+Round 4 ended with elimination. The winning team is FNATIC.
+The current score is Futbolist 1 - 3 FNATIC.
+Derke killed qRaxs  in round 5
+Derke killed MrFaliN  in round 5
+Alfajer killed ATA KAPTAN  in round 5
+cNed killed Alfajer  in round 5
+Derke killed cNed  in round 5
+Chronicle killed yetujey  in round 5
+Round 5 ended with elimination. The winning team is FNATIC.
+The current score is Futbolist 1 - 4 FNATIC.
+Derke killed MrFaliN  in round 6
+qRaxs killed Alfajer  in round 6
+ATA KAPTAN killed Boaster  in round 6
+cNed killed Chronicle  in round 6
+Leo  killed cNed  in round 6
+Derke killed ATA KAPTAN  in round 6
+yetujey killed Derke  in round 6
+qRaxs killed Leo   in round 6
+Round 6 ended with elimination. The winning team is Futbolist.
+The current score is Futbolist 2 - 4 FNATIC.
+Boaster killed ATA KAPTAN  in round 7
+Leo  killed MrFaliN  in round 7
+cNed killed Chronicle  in round 7
+qRaxs killed Boaster  in round 7
+qRaxs killed Leo   in round 7
+Round 7 ended with detonate. The winning team is Futbolist.
+The current score is Futbolist 3 - 4 FNATIC.
+yetujey killed Boaster  in round 8
+Leo  killed qRaxs  in round 8
+ATA KAPTAN killed Alfajer  in round 8
+Chronicle killed cNed  in round 8
+Derke killed ATA KAPTAN  in round 8
+Derke killed MrFaliN  in round 8
+Round 8 ended with time_expired. The winning team is FNATIC.
+The current score is Futbolist 3 - 5 FNATIC.
+qRaxs killed Boaster  in round 9
+Derke killed cNed  in round 9
+Derke killed MrFaliN  in round 9
+yetujey killed Derke  in round 9
+yetujey killed Leo   in round 9
+yetujey killed Alfajer  in round 9
+Chronicle killed qRaxs  in round 9
+Chronicle killed yetujey  in round 9
+ATA KAPTAN killed Chronicle  in round 9
+Round 9 ended with elimination. The winning team is Futbolist.
+The current score is Futbolist 4 - 5 FNATIC.
+Derke killed cNed  in round 10
+Boaster killed yetujey  in round 10
+ATA KAPTAN killed Derke  in round 10
+Leo  killed ATA KAPTAN  in round 10
+Boaster killed qRaxs  in round 10
+MrFaliN killed Leo   in round 10
+Chronicle killed MrFaliN  in round 10
+Round 10 ended with elimination. The winning team is FNATIC.
+The current score is Futbolist 4 - 6 FNATIC.
+Derke killed ATA KAPTAN  in round 11
+MrFaliN killed Derke  in round 11
+Boaster killed cNed  in round 11
+Boaster killed qRaxs  in round 11
+Alfajer killed MrFaliN  in round 11
+Alfajer killed yetujey  in round 11
+Round 11 ended with elimination. The winning team is FNATIC.
+The current score is Futbolist 4 - 7 FNATIC.
+qRaxs killed Alfajer  in round 12
+Boaster killed qRaxs  in round 12
+Leo  killed cNed  in round 12
+Leo  killed ATA KAPTAN  in round 12
+yetujey killed Chronicle  in round 12
+yetujey killed Leo   in round 12
+MrFaliN killed Boaster  in round 12
+yetujey killed Derke  in round 12
+Round 12 ended with elimination. The winning team is Futbolist.
+The current score is Futbolist 5 - 7 FNATIC.
+yetujey killed Alfajer  in round 13
+Chronicle killed qRaxs  in round 13
+Derke killed MrFaliN  in round 13
+Chronicle killed yetujey  in round 13
+Derke killed cNed  in round 13
+Derke killed ATA KAPTAN  in round 13
+Round 13 ended with elimination. The winning team is FNATIC.
+The current score is Futbolist 5 - 8 FNATIC.
+qRaxs killed Boaster  in round 14
+Chronicle killed qRaxs  in round 14
+Chronicle killed cNed  in round 14
+Chronicle killed MrFaliN  in round 14
+ATA KAPTAN killed Derke  in round 14
+Alfajer killed ATA KAPTAN  in round 14
+Chronicle killed yetujey  in round 14
+Round 14 ended with elimination. The winning team is FNATIC.
+The current score is Futbolist 5 - 9 FNATIC.
+Alfajer killed cNed  in round 15
+yetujey killed Boaster  in round 15
+Leo  killed yetujey  in round 15
+MrFaliN killed Chronicle  in round 15
+Leo  killed qRaxs  in round 15
+Derke killed MrFaliN  in round 15
+ATA KAPTAN killed Leo   in round 15
+Alfajer killed ATA KAPTAN  in round 15
+Round 15 ended with elimination. The winning team is FNATIC.
+The current score is Futbolist 5 - 10 FNATIC.
+Derke killed yetujey  in round 16
+Alfajer killed cNed  in round 16
+Derke killed MrFaliN  in round 16
+Alfajer killed qRaxs  in round 16
+ATA KAPTAN killed Boaster  in round 16
+Derke killed ATA KAPTAN  in round 16
+Round 16 ended with elimination. The winning team is FNATIC.
+The current score is Futbolist 5 - 11 FNATIC.
+Derke killed qRaxs  in round 17
+MrFaliN killed Derke  in round 17
+Alfajer killed MrFaliN  in round 17
+Alfajer killed ATA KAPTAN  in round 17
+Alfajer killed yetujey  in round 17
+Round 17 ended with detonate. The winning team is FNATIC.
+The current score is Futbolist 5 - 12 FNATIC.
+Chronicle killed qRaxs  in round 18
+ATA KAPTAN killed Alfajer  in round 18
+Chronicle killed ATA KAPTAN  in round 18
+cNed killed Derke  in round 18
+MrFaliN killed Boaster  in round 18
+Leo  killed cNed  in round 18
+Chronicle killed yetujey  in round 18
+Leo  killed MrFaliN  in round 18
+Round 18 ended with elimination. The winning team is FNATIC.
+The current score is Futbolist 5 - 13 FNATIC.
+Game ended with winning team: FNATIC at 2024-06-01T08:47:33Z
+
+--- Player Stats ---
+Chronicle: Team=FNATIC, Kills=17, Deaths=7, Assists=4, KDA=3.0, First Kills=1, First Deaths=1
+Derke: Team=FNATIC, Kills=26, Deaths=11, Assists=6, KDA=2.91, First Kills=8, First Deaths=1
+Boaster: Team=FNATIC, Kills=8, Deaths=11, Assists=9, KDA=1.55, First Kills=1, First Deaths=3
+Leo : Team=FNATIC, Kills=13, Deaths=7, Assists=12, KDA=3.57, First Kills=0, First Deaths=0
+Alfajer: Team=FNATIC, Kills=15, Deaths=8, Assists=2, KDA=2.12, First Kills=2, First Deaths=2
+qRaxs: Team=Futbolist, Kills=10, Deaths=15, Assists=1, KDA=0.73, First Kills=3, First Deaths=3
+yetujey: Team=Futbolist, Kills=13, Deaths=14, Assists=1, KDA=1.0, First Kills=3, First Deaths=2
+MrFaliN: Team=Futbolist, Kills=6, Deaths=17, Assists=5, KDA=0.65, First Kills=0, First Deaths=1
+cNed: Team=Futbolist, Kills=6, Deaths=15, Assists=2, KDA=0.53, First Kills=0, First Deaths=3
+ATA KAPTAN: Team=Futbolist, Kills=8, Deaths=17, Assists=4, KDA=0.71, First Kills=0, First Deaths=2

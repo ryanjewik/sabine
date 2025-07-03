@@ -1,0 +1,334 @@
+Team 1: Futbolist
+Team 2: Team Liquid
+Participating Players:
+Player 1: Jamppi
+Player 2: Sayf
+Player 3: Redgar
+Player 4: nAts
+Player 5: soulcas
+Player 6: ATA KAPTAN
+Player 7: mojj
+Player 8: MrFaliN
+Player 9: qw1
+Player 10: qRaxs
+Winning Team: Team Liquid
+Score: Futbolist 15 - 17 Team Liquid
+Tournament Name: vct emea 2023
+Game Start Time: 2023-05-27T15:52:28Z
+Game End Time: 2023-05-27T17:11:34Z
+Rounds ended by ELIMINATION count: 22
+Rounds ended by DEFUSE count: 7
+Rounds ended by DETONATE count: 3
+SPIKE PLANTED count: 10
+platformGameId: val:a9800846-b7cc-40bc-a0ea-639153d7357d
+
+--- Events ---
+Game started at 2023-05-27T15:52:28Z
+qw1 killed Redgar  in round 1
+soulcas killed qRaxs  in round 1
+MrFaliN killed soulcas  in round 1
+mojj killed nAts  in round 1
+Sayf killed mojj  in round 1
+ATA KAPTAN killed Sayf  in round 1
+Jamppi killed ATA KAPTAN  in round 1
+qw1 killed Jamppi  in round 1
+Round 1 ended with elimination. The winning team is Futbolist.
+The current score is Futbolist 1 - 0 Team Liquid.
+Redgar killed qw1  in round 2
+Redgar killed ATA KAPTAN  in round 2
+Redgar killed mojj  in round 2
+MrFaliN killed soulcas  in round 2
+qRaxs killed nAts  in round 2
+Sayf killed MrFaliN  in round 2
+qRaxs killed Jamppi  in round 2
+Redgar killed qRaxs  in round 2
+Round 2 ended with spike_defuse. The winning team is Team Liquid.
+The current score is Futbolist 1 - 1 Team Liquid.
+soulcas killed ATA KAPTAN  in round 3
+Redgar killed qRaxs  in round 3
+nAts killed qw1  in round 3
+nAts killed mojj  in round 3
+MrFaliN killed Redgar  in round 3
+soulcas killed MrFaliN  in round 3
+Round 3 ended with elimination. The winning team is Team Liquid.
+The current score is Futbolist 1 - 2 Team Liquid.
+nAts killed ATA KAPTAN  in round 4
+mojj killed Jamppi  in round 4
+mojj killed nAts  in round 4
+MrFaliN killed soulcas  in round 4
+mojj killed Sayf  in round 4
+Redgar killed qRaxs  in round 4
+Round 4 ended with detonate. The winning team is Futbolist.
+The current score is Futbolist 2 - 2 Team Liquid.
+qw1 killed Redgar  in round 5
+mojj killed nAts  in round 5
+qw1 killed soulcas  in round 5
+mojj killed Redgar  in round 5
+Jamppi killed qw1  in round 5
+Round 5 ended with detonate. The winning team is Futbolist.
+The current score is Futbolist 3 - 2 Team Liquid.
+Sayf killed Sayf  in round 6
+qw1 killed Redgar  in round 6
+Jamppi killed qRaxs  in round 6
+Jamppi killed ATA KAPTAN  in round 6
+MrFaliN killed Jamppi  in round 6
+mojj killed nAts  in round 6
+Sayf killed mojj  in round 6
+MrFaliN killed Sayf  in round 6
+soulcas killed MrFaliN  in round 6
+qw1 killed soulcas  in round 6
+Round 6 ended with elimination. The winning team is Futbolist.
+The current score is Futbolist 4 - 2 Team Liquid.
+Sayf killed qw1  in round 7
+Redgar killed mojj  in round 7
+qRaxs killed Redgar  in round 7
+qRaxs killed Jamppi  in round 7
+ATA KAPTAN killed soulcas  in round 7
+ATA KAPTAN killed Sayf  in round 7
+nAts killed qRaxs  in round 7
+ATA KAPTAN killed nAts  in round 7
+Round 7 ended with elimination. The winning team is Futbolist.
+The current score is Futbolist 5 - 2 Team Liquid.
+ATA KAPTAN killed ATA KAPTAN  in round 8
+ATA KAPTAN killed nAts  in round 8
+mojj killed soulcas  in round 8
+Sayf killed ATA KAPTAN  in round 8
+MrFaliN killed Sayf  in round 8
+qRaxs killed Jamppi  in round 8
+mojj killed Redgar  in round 8
+Round 8 ended with elimination. The winning team is Futbolist.
+The current score is Futbolist 6 - 2 Team Liquid.
+qw1 killed nAts  in round 9
+qw1 killed Jamppi  in round 9
+soulcas killed qRaxs  in round 9
+qw1 killed soulcas  in round 9
+mojj killed Redgar  in round 9
+mojj killed Sayf  in round 9
+Round 9 ended with elimination. The winning team is Futbolist.
+The current score is Futbolist 7 - 2 Team Liquid.
+ATA KAPTAN killed Jamppi  in round 10
+ATA KAPTAN killed nAts  in round 10
+soulcas killed qRaxs  in round 10
+qw1 killed soulcas  in round 10
+MrFaliN killed Redgar  in round 10
+mojj killed Sayf  in round 10
+Round 10 ended with elimination. The winning team is Futbolist.
+The current score is Futbolist 8 - 2 Team Liquid.
+Sayf killed qRaxs  in round 11
+mojj killed soulcas  in round 11
+Sayf killed mojj  in round 11
+ATA KAPTAN killed Sayf  in round 11
+ATA KAPTAN killed Jamppi  in round 11
+Redgar killed MrFaliN  in round 11
+Redgar killed ATA KAPTAN  in round 11
+qw1 killed Redgar  in round 11
+qw1 killed nAts  in round 11
+Round 11 ended with elimination. The winning team is Futbolist.
+The current score is Futbolist 9 - 2 Team Liquid.
+qRaxs killed soulcas  in round 12
+qRaxs killed Sayf  in round 12
+qw1 killed Jamppi  in round 12
+Redgar killed qRaxs  in round 12
+qw1 killed Redgar  in round 12
+MrFaliN killed nAts  in round 12
+Round 12 ended with elimination. The winning team is Futbolist.
+The current score is Futbolist 10 - 2 Team Liquid.
+soulcas killed mojj  in round 13
+qRaxs killed Redgar  in round 13
+qRaxs killed soulcas  in round 13
+nAts killed qRaxs  in round 13
+Sayf killed ATA KAPTAN  in round 13
+Jamppi killed qw1  in round 13
+nAts killed MrFaliN  in round 13
+Round 13 ended with elimination. The winning team is Team Liquid.
+The current score is Futbolist 10 - 3 Team Liquid.
+Sayf killed ATA KAPTAN  in round 14
+nAts killed mojj  in round 14
+Jamppi killed MrFaliN  in round 14
+Jamppi killed qRaxs  in round 14
+Round 14 ended with detonate. The winning team is Team Liquid.
+The current score is Futbolist 10 - 4 Team Liquid.
+qw1 killed Jamppi  in round 15
+qw1 killed qw1  in round 15
+soulcas killed MrFaliN  in round 15
+Redgar killed qw1  in round 15
+ATA KAPTAN killed nAts  in round 15
+ATA KAPTAN killed Jamppi  in round 15
+Sayf killed mojj  in round 15
+qRaxs killed Sayf  in round 15
+soulcas killed qRaxs  in round 15
+ATA KAPTAN killed soulcas  in round 15
+Redgar killed ATA KAPTAN  in round 15
+Round 15 ended with elimination. The winning team is Team Liquid.
+The current score is Futbolist 10 - 5 Team Liquid.
+Redgar killed MrFaliN  in round 16
+Redgar killed qRaxs  in round 16
+Jamppi killed ATA KAPTAN  in round 16
+Redgar killed qw1  in round 16
+mojj killed Jamppi  in round 16
+Sayf killed mojj  in round 16
+Round 16 ended with elimination. The winning team is Team Liquid.
+The current score is Futbolist 10 - 6 Team Liquid.
+Sayf killed qw1  in round 17
+Sayf killed ATA KAPTAN  in round 17
+qRaxs killed Sayf  in round 17
+Redgar killed qRaxs  in round 17
+Redgar killed mojj  in round 17
+nAts killed MrFaliN  in round 17
+Round 17 ended with elimination. The winning team is Team Liquid.
+The current score is Futbolist 10 - 7 Team Liquid.
+nAts killed MrFaliN  in round 18
+ATA KAPTAN killed nAts  in round 18
+Jamppi killed ATA KAPTAN  in round 18
+qRaxs killed Jamppi  in round 18
+soulcas killed mojj  in round 18
+qRaxs killed soulcas  in round 18
+qw1 killed Redgar  in round 18
+Sayf killed qRaxs  in round 18
+Sayf killed qw1  in round 18
+Round 18 ended with elimination. The winning team is Team Liquid.
+The current score is Futbolist 10 - 8 Team Liquid.
+soulcas killed MrFaliN  in round 19
+ATA KAPTAN killed soulcas  in round 19
+Sayf killed mojj  in round 19
+qRaxs killed Sayf  in round 19
+Jamppi killed qRaxs  in round 19
+Redgar killed qw1  in round 19
+Jamppi killed ATA KAPTAN  in round 19
+Round 19 ended with elimination. The winning team is Team Liquid.
+The current score is Futbolist 10 - 9 Team Liquid.
+Jamppi killed ATA KAPTAN  in round 20
+qRaxs killed Jamppi  in round 20
+mojj killed soulcas  in round 20
+nAts killed mojj  in round 20
+Redgar killed MrFaliN  in round 20
+Sayf killed qw1  in round 20
+Sayf killed qRaxs  in round 20
+Round 20 ended with elimination. The winning team is Team Liquid.
+The current score is Futbolist 10 - 10 Team Liquid.
+Redgar killed qw1  in round 21
+MrFaliN killed Redgar  in round 21
+nAts killed mojj  in round 21
+ATA KAPTAN killed nAts  in round 21
+ATA KAPTAN killed Sayf  in round 21
+ATA KAPTAN killed soulcas  in round 21
+MrFaliN killed Jamppi  in round 21
+Round 21 ended with spike_defuse. The winning team is Futbolist.
+The current score is Futbolist 11 - 10 Team Liquid.
+nAts killed qw1  in round 22
+nAts killed MrFaliN  in round 22
+qRaxs killed Jamppi  in round 22
+nAts killed qRaxs  in round 22
+ATA KAPTAN killed nAts  in round 22
+mojj killed Sayf  in round 22
+Redgar killed mojj  in round 22
+Redgar killed ATA KAPTAN  in round 22
+Round 22 ended with elimination. The winning team is Team Liquid.
+The current score is Futbolist 11 - 11 Team Liquid.
+qw1 killed Jamppi  in round 23
+qw1 killed nAts  in round 23
+ATA KAPTAN killed Sayf  in round 23
+mojj killed Redgar  in round 23
+soulcas killed mojj  in round 23
+MrFaliN killed soulcas  in round 23
+Round 23 ended with spike_defuse. The winning team is Futbolist.
+The current score is Futbolist 12 - 11 Team Liquid.
+Redgar killed qRaxs  in round 24
+Redgar killed MrFaliN  in round 24
+Sayf killed mojj  in round 24
+nAts killed ATA KAPTAN  in round 24
+Jamppi killed qw1  in round 24
+Round 24 ended with elimination. The winning team is Team Liquid.
+The current score is Futbolist 12 - 12 Team Liquid.
+MrFaliN killed Jamppi  in round 25
+Sayf killed qw1  in round 25
+Redgar killed qRaxs  in round 25
+ATA KAPTAN killed Redgar  in round 25
+Sayf killed ATA KAPTAN  in round 25
+soulcas killed mojj  in round 25
+MrFaliN killed Sayf  in round 25
+nAts killed MrFaliN  in round 25
+Round 25 ended with spike_defuse. The winning team is Team Liquid.
+The current score is Futbolist 12 - 13 Team Liquid.
+qw1 killed nAts  in round 26
+Sayf killed qw1  in round 26
+mojj killed Redgar  in round 26
+Sayf killed ATA KAPTAN  in round 26
+mojj killed Sayf  in round 26
+soulcas killed qRaxs  in round 26
+MrFaliN killed soulcas  in round 26
+mojj killed Jamppi  in round 26
+Round 26 ended with spike_defuse. The winning team is Futbolist.
+The current score is Futbolist 13 - 13 Team Liquid.
+qw1 killed soulcas  in round 27
+Sayf killed qw1  in round 27
+nAts killed ATA KAPTAN  in round 27
+nAts killed MrFaliN  in round 27
+qRaxs killed Redgar  in round 27
+Sayf killed qRaxs  in round 27
+mojj killed Sayf  in round 27
+nAts killed mojj  in round 27
+Round 27 ended with elimination. The winning team is Team Liquid.
+The current score is Futbolist 13 - 14 Team Liquid.
+qw1 killed Redgar  in round 28
+qw1 killed Sayf  in round 28
+Jamppi killed ATA KAPTAN  in round 28
+mojj killed nAts  in round 28
+Jamppi killed mojj  in round 28
+MrFaliN killed Jamppi  in round 28
+MrFaliN killed soulcas  in round 28
+Round 28 ended with spike_defuse. The winning team is Futbolist.
+The current score is Futbolist 14 - 14 Team Liquid.
+MrFaliN killed Sayf  in round 29
+soulcas killed MrFaliN  in round 29
+soulcas killed qRaxs  in round 29
+qw1 killed soulcas  in round 29
+qw1 killed Redgar  in round 29
+qw1 killed nAts  in round 29
+Jamppi killed ATA KAPTAN  in round 29
+mojj killed Jamppi  in round 29
+Round 29 ended with elimination. The winning team is Futbolist.
+The current score is Futbolist 15 - 14 Team Liquid.
+mojj killed Sayf  in round 30
+Redgar killed qw1  in round 30
+ATA KAPTAN killed Jamppi  in round 30
+nAts killed ATA KAPTAN  in round 30
+soulcas killed mojj  in round 30
+soulcas killed qRaxs  in round 30
+soulcas killed MrFaliN  in round 30
+Round 30 ended with elimination. The winning team is Team Liquid.
+The current score is Futbolist 15 - 15 Team Liquid.
+ATA KAPTAN killed Jamppi  in round 31
+soulcas killed qw1  in round 31
+Sayf killed qRaxs  in round 31
+Sayf killed mojj  in round 31
+MrFaliN killed nAts  in round 31
+soulcas killed MrFaliN  in round 31
+ATA KAPTAN killed Sayf  in round 31
+soulcas killed ATA KAPTAN  in round 31
+Round 31 ended with spike_defuse. The winning team is Team Liquid.
+The current score is Futbolist 15 - 16 Team Liquid.
+Sayf killed qRaxs  in round 32
+ATA KAPTAN killed Redgar  in round 32
+Sayf killed qw1  in round 32
+ATA KAPTAN killed Jamppi  in round 32
+ATA KAPTAN killed Sayf  in round 32
+soulcas killed ATA KAPTAN  in round 32
+MrFaliN killed soulcas  in round 32
+nAts killed mojj  in round 32
+nAts killed MrFaliN  in round 32
+Round 32 ended with elimination. The winning team is Team Liquid.
+The current score is Futbolist 15 - 17 Team Liquid.
+Game ended with winning team: Team Liquid at 2023-05-27T17:11:34Z
+
+--- Player Stats ---
+Jamppi: Team=Team Liquid, Kills=16, Deaths=25, Assists=7, KDA=0.92, First Kills=1, First Deaths=5
+Sayf: Team=Team Liquid, Kills=30, Deaths=24, Assists=5, KDA=1.46, First Kills=6, First Deaths=3
+Redgar: Team=Team Liquid, Kills=26, Deaths=21, Assists=9, KDA=1.67, First Kills=4, First Deaths=3
+nAts: Team=Team Liquid, Kills=22, Deaths=20, Assists=5, KDA=1.35, First Kills=3, First Deaths=2
+soulcas: Team=Team Liquid, Kills=23, Deaths=23, Assists=8, KDA=1.35, First Kills=3, First Deaths=2
+ATA KAPTAN: Team=Futbolist, Kills=27, Deaths=26, Assists=15, KDA=1.62, First Kills=3, First Deaths=5
+mojj: Team=Futbolist, Kills=24, Deaths=24, Assists=8, KDA=1.33, First Kills=1, First Deaths=1
+MrFaliN: Team=Futbolist, Kills=20, Deaths=20, Assists=11, KDA=1.55, First Kills=2, First Deaths=3
+qw1: Team=Futbolist, Kills=26, Deaths=21, Assists=6, KDA=1.52, First Kills=8, First Deaths=5
+qRaxs: Team=Futbolist, Kills=17, Deaths=27, Assists=10, KDA=1.0, First Kills=1, First Deaths=3

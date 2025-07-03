@@ -1,0 +1,222 @@
+Team 1: Bilibili Gaming
+Team 2: JDG ESPORTS
+Participating Players:
+Player 1: stew
+Player 2: Viva
+Player 3: YHchen
+Player 4: jkuro
+Player 5: Z1Yan
+Player 6: Flex1n
+Player 7: Knight 
+Player 8: nephh
+Player 9: whzy
+Player 10: yosemite
+Winning Team: Bilibili Gaming
+Score: Bilibili Gaming 13 - 7 JDG ESPORTS
+Tournament Name: vct cn stage 2 2024
+Game Start Time: 2024-07-16T11:40:35Z
+Game End Time: 2024-07-16T12:26:34Z
+Rounds ended by ELIMINATION count: 14
+Rounds ended by DEFUSE count: 3
+Rounds ended by DETONATE count: 1
+SPIKE PLANTED count: 4
+platformGameId: val:d9c57913-b47f-420a-aea3-63707a9022d7
+
+--- Events ---
+Game started at 2024-07-16T11:40:35Z
+Viva killed Flex1n  in round 1
+Viva killed whzy  in round 1
+nephh killed Viva  in round 1
+Z1Yan killed Knight   in round 1
+nephh killed Z1Yan  in round 1
+jkuro killed yosemite  in round 1
+nephh killed YHchen  in round 1
+stew killed nephh  in round 1
+Round 1 ended with elimination. The winning team is JDG ESPORTS.
+The current score is Bilibili Gaming 0 - 1 JDG ESPORTS.
+jkuro killed Knight   in round 2
+YHchen killed whzy  in round 2
+jkuro killed yosemite  in round 2
+jkuro killed Flex1n  in round 2
+nephh killed YHchen  in round 2
+Z1Yan killed nephh  in round 2
+Round 2 ended with elimination. The winning team is JDG ESPORTS.
+The current score is Bilibili Gaming 0 - 2 JDG ESPORTS.
+yosemite killed stew  in round 3
+Viva killed yosemite  in round 3
+Knight  killed Viva  in round 3
+whzy killed YHchen  in round 3
+Flex1n killed Z1Yan  in round 3
+Flex1n killed jkuro  in round 3
+Round 3 ended with elimination. The winning team is Bilibili Gaming.
+The current score is Bilibili Gaming 1 - 2 JDG ESPORTS.
+whzy killed jkuro  in round 4
+whzy killed YHchen  in round 4
+Viva killed nephh  in round 4
+Knight  killed Z1Yan  in round 4
+whzy killed Viva  in round 4
+Flex1n killed stew  in round 4
+Round 4 ended with elimination. The winning team is Bilibili Gaming.
+The current score is Bilibili Gaming 2 - 2 JDG ESPORTS.
+whzy killed jkuro  in round 5
+Z1Yan killed whzy  in round 5
+YHchen killed yosemite  in round 5
+nephh killed Viva  in round 5
+nephh killed YHchen  in round 5
+Flex1n killed Z1Yan  in round 5
+stew killed Flex1n  in round 5
+Knight  killed stew  in round 5
+Round 5 ended with elimination. The winning team is Bilibili Gaming.
+The current score is Bilibili Gaming 3 - 2 JDG ESPORTS.
+Knight  killed Z1Yan  in round 6
+YHchen killed Knight   in round 6
+YHchen killed nephh  in round 6
+whzy killed YHchen  in round 6
+jkuro killed whzy  in round 6
+Flex1n killed stew  in round 6
+Flex1n killed jkuro  in round 6
+Round 6 ended with time_expired. The winning team is JDG ESPORTS.
+The current score is Bilibili Gaming 3 - 3 JDG ESPORTS.
+Viva killed yosemite  in round 7
+Flex1n killed stew  in round 7
+whzy killed Z1Yan  in round 7
+jkuro killed yosemite  in round 7
+whzy killed jkuro  in round 7
+Viva killed nephh  in round 7
+Flex1n killed Viva  in round 7
+YHchen killed Knight   in round 7
+Flex1n killed YHchen  in round 7
+Round 7 ended with elimination. The winning team is Bilibili Gaming.
+The current score is Bilibili Gaming 4 - 3 JDG ESPORTS.
+whzy killed stew  in round 8
+whzy killed jkuro  in round 8
+Viva killed yosemite  in round 8
+Viva killed whzy  in round 8
+Viva killed Flex1n  in round 8
+Knight  killed Viva  in round 8
+nephh killed YHchen  in round 8
+nephh killed Z1Yan  in round 8
+Round 8 ended with elimination. The winning team is Bilibili Gaming.
+The current score is Bilibili Gaming 5 - 3 JDG ESPORTS.
+jkuro killed whzy  in round 9
+jkuro killed nephh  in round 9
+Viva killed Knight   in round 9
+yosemite killed jkuro  in round 9
+yosemite killed YHchen  in round 9
+yosemite killed Z1Yan  in round 9
+Flex1n killed stew  in round 9
+Viva killed yosemite  in round 9
+Viva killed Flex1n  in round 9
+Round 9 ended with elimination. The winning team is JDG ESPORTS.
+The current score is Bilibili Gaming 5 - 4 JDG ESPORTS.
+YHchen killed whzy  in round 10
+yosemite killed jkuro  in round 10
+yosemite killed YHchen  in round 10
+stew killed Flex1n  in round 10
+Z1Yan killed yosemite  in round 10
+YHchen killed Knight   in round 10
+Round 10 ended with time_expired. The winning team is JDG ESPORTS.
+The current score is Bilibili Gaming 5 - 5 JDG ESPORTS.
+whzy killed stew  in round 11
+whzy killed jkuro  in round 11
+Z1Yan killed nephh  in round 11
+whzy killed Z1Yan  in round 11
+whzy killed YHchen  in round 11
+Viva killed whzy  in round 11
+Round 11 ended with detonate. The winning team is Bilibili Gaming.
+The current score is Bilibili Gaming 6 - 5 JDG ESPORTS.
+yosemite killed stew  in round 12
+whzy killed YHchen  in round 12
+nephh killed Z1Yan  in round 12
+yosemite killed jkuro  in round 12
+yosemite killed Viva  in round 12
+Round 12 ended with elimination. The winning team is Bilibili Gaming.
+The current score is Bilibili Gaming 7 - 5 JDG ESPORTS.
+Z1Yan killed whzy  in round 13
+stew killed nephh  in round 13
+stew killed yosemite  in round 13
+Knight  killed jkuro  in round 13
+stew killed Knight   in round 13
+stew killed Flex1n  in round 13
+Round 13 ended with elimination. The winning team is JDG ESPORTS.
+The current score is Bilibili Gaming 7 - 6 JDG ESPORTS.
+stew killed stew  in round 14
+Z1Yan killed Z1Yan  in round 14
+Flex1n killed YHchen  in round 14
+Z1Yan killed Flex1n  in round 14
+Viva killed Knight   in round 14
+whzy killed Viva  in round 14
+Z1Yan killed yosemite  in round 14
+nephh killed Z1Yan  in round 14
+stew killed nephh  in round 14
+jkuro killed whzy  in round 14
+Round 14 ended with elimination. The winning team is JDG ESPORTS.
+The current score is Bilibili Gaming 7 - 7 JDG ESPORTS.
+stew killed whzy  in round 15
+yosemite killed Z1Yan  in round 15
+jkuro killed yosemite  in round 15
+nephh killed YHchen  in round 15
+stew killed nephh  in round 15
+Knight  killed jkuro  in round 15
+Knight  killed stew  in round 15
+Viva killed Flex1n  in round 15
+Knight  killed Viva  in round 15
+Round 15 ended with spike_defuse. The winning team is Bilibili Gaming.
+The current score is Bilibili Gaming 8 - 7 JDG ESPORTS.
+yosemite killed jkuro  in round 16
+nephh killed stew  in round 16
+yosemite killed Viva  in round 16
+Z1Yan killed nephh  in round 16
+yosemite killed Z1Yan  in round 16
+YHchen killed yosemite  in round 16
+Knight  killed YHchen  in round 16
+Round 16 ended with elimination. The winning team is Bilibili Gaming.
+The current score is Bilibili Gaming 9 - 7 JDG ESPORTS.
+YHchen killed Flex1n  in round 17
+yosemite killed YHchen  in round 17
+yosemite killed Z1Yan  in round 17
+yosemite killed stew  in round 17
+yosemite killed Viva  in round 17
+yosemite killed jkuro  in round 17
+Round 17 ended with elimination. The winning team is Bilibili Gaming.
+The current score is Bilibili Gaming 10 - 7 JDG ESPORTS.
+YHchen killed whzy  in round 18
+Knight  killed jkuro  in round 18
+Knight  killed Viva  in round 18
+stew killed Knight   in round 18
+YHchen killed nephh  in round 18
+Flex1n killed YHchen  in round 18
+Z1Yan killed Flex1n  in round 18
+yosemite killed Z1Yan  in round 18
+yosemite killed stew  in round 18
+Round 18 ended with spike_defuse. The winning team is Bilibili Gaming.
+The current score is Bilibili Gaming 11 - 7 JDG ESPORTS.
+Knight  killed stew  in round 19
+jkuro killed yosemite  in round 19
+Viva killed Flex1n  in round 19
+nephh killed YHchen  in round 19
+Knight  killed jkuro  in round 19
+Knight  killed Viva  in round 19
+nephh killed Z1Yan  in round 19
+Round 19 ended with elimination. The winning team is Bilibili Gaming.
+The current score is Bilibili Gaming 12 - 7 JDG ESPORTS.
+Flex1n killed stew  in round 20
+Flex1n killed Z1Yan  in round 20
+whzy killed Viva  in round 20
+yosemite killed jkuro  in round 20
+Knight  killed YHchen  in round 20
+Round 20 ended with spike_defuse. The winning team is Bilibili Gaming.
+The current score is Bilibili Gaming 13 - 7 JDG ESPORTS.
+Game ended with winning team: Bilibili Gaming at 2024-07-16T12:26:34Z
+
+--- Player Stats ---
+stew: Team=JDG ESPORTS, Kills=12, Deaths=16, Assists=1, KDA=0.81, First Kills=2, First Deaths=7
+Viva: Team=JDG ESPORTS, Kills=16, Deaths=14, Assists=2, KDA=1.29, First Kills=2, First Deaths=0
+YHchen: Team=JDG ESPORTS, Kills=11, Deaths=19, Assists=9, KDA=1.05, First Kills=3, First Deaths=0
+jkuro: Team=JDG ESPORTS, Kills=11, Deaths=17, Assists=1, KDA=0.71, First Kills=2, First Deaths=3
+Z1Yan: Team=JDG ESPORTS, Kills=11, Deaths=18, Assists=5, KDA=0.89, First Kills=1, First Deaths=1
+Flex1n: Team=Bilibili Gaming, Kills=14, Deaths=12, Assists=7, KDA=1.75, First Kills=1, First Deaths=2
+Knight : Team=Bilibili Gaming, Kills=16, Deaths=9, Assists=4, KDA=2.22, First Kills=2, First Deaths=1
+nephh: Team=Bilibili Gaming, Kills=14, Deaths=12, Assists=11, KDA=2.08, First Kills=0, First Deaths=0
+whzy: Team=Bilibili Gaming, Kills=17, Deaths=12, Assists=6, KDA=1.92, First Kills=4, First Deaths=5
+yosemite: Team=Bilibili Gaming, Kills=21, Deaths=14, Assists=10, KDA=2.21, First Kills=3, First Deaths=1

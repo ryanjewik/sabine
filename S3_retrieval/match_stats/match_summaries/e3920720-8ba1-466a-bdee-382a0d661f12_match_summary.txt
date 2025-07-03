@@ -1,0 +1,203 @@
+Team 1: Talon Esports
+Team 2: Team Secret
+Participating Players:
+Player 1: invy
+Player 2: Jremy
+Player 3: JessieVash
+Player 4: DubsteP
+Player 5: BORKUM
+Player 6: foxz
+Player 7: garnetS
+Player 8: Crws
+Player 9: JitBoyS
+Player 10: Patiphan
+Winning Team: Team Secret
+Score: Talon Esports 5 - 13 Team Secret
+Tournament Name: vct pacific 2023
+Game Start Time: 2023-03-26T11:41:33Z
+Game End Time: 2023-03-26T12:37:32Z
+Rounds ended by ELIMINATION count: 14
+Rounds ended by DEFUSE count: 3
+Rounds ended by DETONATE count: 1
+SPIKE PLANTED count: 4
+platformGameId: val:e3920720-8ba1-466a-bdee-382a0d661f12
+
+--- Events ---
+Game started at 2023-03-26T11:41:33Z
+JessieVash killed garnetS  in round 1
+DubsteP killed Crws  in round 1
+Jremy killed Patiphan  in round 1
+Jremy killed foxz  in round 1
+DubsteP killed JitBoyS  in round 1
+Round 1 ended with elimination. The winning team is Team Secret.
+The current score is Talon Esports 0 - 1 Team Secret.
+invy killed JitBoyS  in round 2
+JessieVash killed Patiphan  in round 2
+BORKUM killed garnetS  in round 2
+JessieVash killed foxz  in round 2
+invy killed Crws  in round 2
+Round 2 ended with elimination. The winning team is Team Secret.
+The current score is Talon Esports 0 - 2 Team Secret.
+garnetS killed BORKUM  in round 3
+invy killed JitBoyS  in round 3
+garnetS killed invy  in round 3
+garnetS killed JessieVash  in round 3
+Crws killed Jremy  in round 3
+Crws killed DubsteP  in round 3
+Round 3 ended with elimination. The winning team is Talon Esports.
+The current score is Talon Esports 1 - 2 Team Secret.
+garnetS killed DubsteP  in round 4
+garnetS killed JessieVash  in round 4
+Patiphan killed Jremy  in round 4
+foxz killed BORKUM  in round 4
+foxz killed invy  in round 4
+Round 4 ended with elimination. The winning team is Talon Esports.
+The current score is Talon Esports 2 - 2 Team Secret.
+JitBoyS killed invy  in round 5
+Patiphan killed JessieVash  in round 5
+garnetS killed Jremy  in round 5
+Crws killed BORKUM  in round 5
+DubsteP killed Crws  in round 5
+Patiphan killed DubsteP  in round 5
+Round 5 ended with elimination. The winning team is Talon Esports.
+The current score is Talon Esports 3 - 2 Team Secret.
+Jremy killed garnetS  in round 6
+Patiphan killed Jremy  in round 6
+BORKUM killed Crws  in round 6
+foxz killed JessieVash  in round 6
+invy killed foxz  in round 6
+invy killed Patiphan  in round 6
+garnetS killed invy  in round 6
+JitBoyS killed DubsteP  in round 6
+BORKUM killed JitBoyS  in round 6
+BORKUM killed garnetS  in round 6
+Round 6 ended with spike_defuse. The winning team is Team Secret.
+The current score is Talon Esports 3 - 3 Team Secret.
+garnetS killed invy  in round 7
+garnetS killed DubsteP  in round 7
+JessieVash killed garnetS  in round 7
+JessieVash killed foxz  in round 7
+JitBoyS killed JessieVash  in round 7
+Jremy killed JitBoyS  in round 7
+Patiphan killed Jremy  in round 7
+BORKUM killed Patiphan  in round 7
+BORKUM killed Crws  in round 7
+Round 7 ended with spike_defuse. The winning team is Team Secret.
+The current score is Talon Esports 3 - 4 Team Secret.
+BORKUM killed garnetS  in round 8
+JessieVash killed Patiphan  in round 8
+JessieVash killed Crws  in round 8
+DubsteP killed foxz  in round 8
+JitBoyS killed DubsteP  in round 8
+JitBoyS killed JessieVash  in round 8
+invy killed JitBoyS  in round 8
+Round 8 ended with elimination. The winning team is Team Secret.
+The current score is Talon Esports 3 - 5 Team Secret.
+JessieVash killed Patiphan  in round 9
+Crws killed JessieVash  in round 9
+DubsteP killed Crws  in round 9
+garnetS killed Jremy  in round 9
+DubsteP killed foxz  in round 9
+BORKUM killed garnetS  in round 9
+invy killed JitBoyS  in round 9
+Round 9 ended with spike_defuse. The winning team is Team Secret.
+The current score is Talon Esports 3 - 6 Team Secret.
+invy killed garnetS  in round 10
+Jremy killed foxz  in round 10
+Patiphan killed Jremy  in round 10
+DubsteP killed Patiphan  in round 10
+JitBoyS killed invy  in round 10
+JessieVash killed Crws  in round 10
+DubsteP killed JitBoyS  in round 10
+Round 10 ended with elimination. The winning team is Team Secret.
+The current score is Talon Esports 3 - 7 Team Secret.
+DubsteP killed garnetS  in round 11
+JitBoyS killed invy  in round 11
+Patiphan killed BORKUM  in round 11
+Patiphan killed DubsteP  in round 11
+Jremy killed Patiphan  in round 11
+JessieVash killed foxz  in round 11
+Crws killed JessieVash  in round 11
+Jremy killed Crws  in round 11
+BORKUM killed JitBoyS  in round 11
+Round 11 ended with elimination. The winning team is Team Secret.
+The current score is Talon Esports 3 - 8 Team Secret.
+Patiphan killed JessieVash  in round 12
+garnetS killed BORKUM  in round 12
+Jremy killed foxz  in round 12
+invy killed Crws  in round 12
+Jremy killed Patiphan  in round 12
+JitBoyS killed Jremy  in round 12
+JitBoyS killed DubsteP  in round 12
+invy killed garnetS  in round 12
+JitBoyS killed invy  in round 12
+Round 12 ended with elimination. The winning team is Talon Esports.
+The current score is Talon Esports 4 - 8 Team Secret.
+foxz killed invy  in round 13
+JitBoyS killed JessieVash  in round 13
+JitBoyS killed BORKUM  in round 13
+DubsteP killed garnetS  in round 13
+Jremy killed JitBoyS  in round 13
+Jremy killed foxz  in round 13
+DubsteP killed Patiphan  in round 13
+Crws killed DubsteP  in round 13
+Jremy killed Crws  in round 13
+Round 13 ended with elimination. The winning team is Team Secret.
+The current score is Talon Esports 4 - 9 Team Secret.
+Jremy killed Jremy  in round 14
+invy killed JitBoyS  in round 14
+BORKUM killed garnetS  in round 14
+Patiphan killed DubsteP  in round 14
+invy killed Patiphan  in round 14
+Crws killed BORKUM  in round 14
+Jremy killed Crws  in round 14
+Jremy killed foxz  in round 14
+Round 14 ended with elimination. The winning team is Team Secret.
+The current score is Talon Esports 4 - 10 Team Secret.
+Patiphan killed DubsteP  in round 15
+Crws killed BORKUM  in round 15
+Crws killed invy  in round 15
+Crws killed JessieVash  in round 15
+Jremy killed garnetS  in round 15
+Patiphan killed Jremy  in round 15
+Round 15 ended with elimination. The winning team is Talon Esports.
+The current score is Talon Esports 5 - 10 Team Secret.
+foxz killed Jremy  in round 16
+DubsteP killed garnetS  in round 16
+JitBoyS killed DubsteP  in round 16
+JessieVash killed foxz  in round 16
+BORKUM killed JitBoyS  in round 16
+invy killed Crws  in round 16
+Round 16 ended with detonate. The winning team is Team Secret.
+The current score is Talon Esports 5 - 11 Team Secret.
+invy killed Patiphan  in round 17
+foxz killed JessieVash  in round 17
+JitBoyS killed BORKUM  in round 17
+invy killed foxz  in round 17
+Jremy killed JitBoyS  in round 17
+invy killed Crws  in round 17
+DubsteP killed garnetS  in round 17
+Round 17 ended with elimination. The winning team is Team Secret.
+The current score is Talon Esports 5 - 12 Team Secret.
+DubsteP killed foxz  in round 18
+Jremy killed garnetS  in round 18
+Patiphan killed DubsteP  in round 18
+Jremy killed Patiphan  in round 18
+Jremy killed JitBoyS  in round 18
+Crws killed BORKUM  in round 18
+Jremy killed Crws  in round 18
+Round 18 ended with elimination. The winning team is Team Secret.
+The current score is Talon Esports 5 - 13 Team Secret.
+Game ended with winning team: Team Secret at 2023-03-26T12:37:32Z
+
+--- Player Stats ---
+invy: Team=Team Secret, Kills=16, Deaths=10, Assists=10, KDA=2.6, First Kills=3, First Deaths=3
+Jremy: Team=Team Secret, Kills=21, Deaths=11, Assists=4, KDA=2.27, First Kills=2, First Deaths=2
+JessieVash: Team=Team Secret, Kills=11, Deaths=12, Assists=6, KDA=1.42, First Kills=2, First Deaths=1
+DubsteP: Team=Team Secret, Kills=14, Deaths=13, Assists=4, KDA=1.38, First Kills=2, First Deaths=2
+BORKUM: Team=Team Secret, Kills=11, Deaths=10, Assists=11, KDA=2.2, First Kills=1, First Deaths=1
+foxz: Team=Talon Esports, Kills=6, Deaths=14, Assists=11, KDA=1.21, First Kills=2, First Deaths=1
+garnetS: Team=Talon Esports, Kills=11, Deaths=16, Assists=5, KDA=1.0, First Kills=3, First Deaths=5
+Crws: Team=Talon Esports, Kills=11, Deaths=15, Assists=10, KDA=1.4, First Kills=0, First Deaths=0
+JitBoyS: Team=Talon Esports, Kills=14, Deaths=14, Assists=8, KDA=1.57, First Kills=1, First Deaths=1
+Patiphan: Team=Talon Esports, Kills=13, Deaths=13, Assists=5, KDA=1.38, First Kills=2, First Deaths=2

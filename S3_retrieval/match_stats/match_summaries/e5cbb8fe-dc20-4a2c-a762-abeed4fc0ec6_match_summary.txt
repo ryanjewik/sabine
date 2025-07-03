@@ -1,0 +1,210 @@
+Team 1: None
+Team 2: FunPlus Phoenix
+Participating Players:
+Player 1: suygetsu
+Player 2: ardiis
+Player 3: ANGE1
+Player 4: Shao
+Player 5: Zyppan
+Player 6: crashies
+Player 7: Victor
+Player 8: FNS
+Player 9: yay
+Player 10: Marved
+Winning Team: FunPlus Phoenix
+Score: None 6 - 13 FunPlus Phoenix
+Tournament Name: masters 2 2022 stage 2
+Game Start Time: 2022-07-23T15:01:53Z
+Game End Time: 2022-07-23T16:18:23Z
+Rounds ended by ELIMINATION count: 12
+Rounds ended by DEFUSE count: 5
+Rounds ended by DETONATE count: 1
+SPIKE PLANTED count: 6
+platformGameId: val:e5cbb8fe-dc20-4a2c-a762-abeed4fc0ec6
+
+--- Events ---
+Game started at 2022-07-23T15:01:53Z
+Marved killed Zyppan  in round 1
+Shao killed Victor  in round 1
+Victor killed Shao  in round 1
+FNS killed ANGE1  in round 1
+yay killed ardiis  in round 1
+yay killed suygetsu  in round 1
+Round 1 ended with elimination. The winning team is None.
+The current score is None 1 - 0 FunPlus Phoenix.
+Shao killed Victor  in round 2
+crashies killed ardiis  in round 2
+FNS killed Shao  in round 2
+Marved killed Zyppan  in round 2
+Zyppan killed crashies  in round 2
+yay killed ANGE1  in round 2
+Marved killed suygetsu  in round 2
+Round 2 ended with elimination. The winning team is None.
+The current score is None 2 - 0 FunPlus Phoenix.
+yay killed ardiis  in round 3
+crashies killed Zyppan  in round 3
+suygetsu killed crashies  in round 3
+Marved killed suygetsu  in round 3
+Shao killed Marved  in round 3
+Shao killed Victor  in round 3
+yay killed ANGE1  in round 3
+Shao killed FNS  in round 3
+Shao killed yay  in round 3
+Round 3 ended with spike_defuse. The winning team is FunPlus Phoenix.
+The current score is None 2 - 1 FunPlus Phoenix.
+ardiis killed yay  in round 4
+ardiis killed crashies  in round 4
+Marved killed ardiis  in round 4
+suygetsu killed Victor  in round 4
+FNS killed suygetsu  in round 4
+Shao killed FNS  in round 4
+Shao killed Marved  in round 4
+Round 4 ended with elimination. The winning team is FunPlus Phoenix.
+The current score is None 2 - 2 FunPlus Phoenix.
+ardiis killed Victor  in round 5
+Zyppan killed crashies  in round 5
+Marved killed Zyppan  in round 5
+Shao killed FNS  in round 5
+yay killed ANGE1  in round 5
+Shao killed Marved  in round 5
+Round 5 ended with time_expired. The winning team is FunPlus Phoenix.
+The current score is None 2 - 3 FunPlus Phoenix.
+ardiis killed yay  in round 6
+ardiis killed Victor  in round 6
+crashies killed Shao  in round 6
+Marved killed ANGE1  in round 6
+crashies killed ardiis  in round 6
+Zyppan killed FNS  in round 6
+Zyppan killed Marved  in round 6
+suygetsu killed crashies  in round 6
+Round 6 ended with spike_defuse. The winning team is FunPlus Phoenix.
+The current score is None 2 - 4 FunPlus Phoenix.
+suygetsu killed Marved  in round 7
+Zyppan killed yay  in round 7
+suygetsu killed Victor  in round 7
+FNS killed suygetsu  in round 7
+Zyppan killed FNS  in round 7
+ardiis killed crashies  in round 7
+Round 7 ended with elimination. The winning team is FunPlus Phoenix.
+The current score is None 2 - 5 FunPlus Phoenix.
+Zyppan killed Victor  in round 8
+Victor killed Zyppan  in round 8
+ANGE1 killed crashies  in round 8
+yay killed suygetsu  in round 8
+ardiis killed yay  in round 8
+FNS killed ardiis  in round 8
+FNS killed ANGE1  in round 8
+Marved killed Shao  in round 8
+Round 8 ended with elimination. The winning team is None.
+The current score is None 3 - 5 FunPlus Phoenix.
+yay killed ANGE1  in round 9
+Victor killed Zyppan  in round 9
+suygetsu killed Marved  in round 9
+Shao killed yay  in round 9
+Shao killed crashies  in round 9
+Victor killed Shao  in round 9
+ardiis killed Victor  in round 9
+suygetsu killed FNS  in round 9
+Round 9 ended with spike_defuse. The winning team is FunPlus Phoenix.
+The current score is None 3 - 6 FunPlus Phoenix.
+Shao killed yay  in round 10
+Zyppan killed FNS  in round 10
+Shao killed Marved  in round 10
+Victor killed Shao  in round 10
+ardiis killed crashies  in round 10
+Zyppan killed Victor  in round 10
+Round 10 ended with elimination. The winning team is FunPlus Phoenix.
+The current score is None 3 - 7 FunPlus Phoenix.
+ardiis killed yay  in round 11
+Shao killed FNS  in round 11
+ardiis killed crashies  in round 11
+Victor killed Shao  in round 11
+FNS killed ardiis  in round 11
+Zyppan killed Victor  in round 11
+suygetsu killed Marved  in round 11
+Round 11 ended with spike_defuse. The winning team is FunPlus Phoenix.
+The current score is None 3 - 8 FunPlus Phoenix.
+suygetsu killed yay  in round 12
+ardiis killed Victor  in round 12
+crashies killed suygetsu  in round 12
+ardiis killed crashies  in round 12
+Marved killed Zyppan  in round 12
+Shao killed FNS  in round 12
+Shao killed Marved  in round 12
+Round 12 ended with elimination. The winning team is FunPlus Phoenix.
+The current score is None 3 - 9 FunPlus Phoenix.
+crashies killed Zyppan  in round 13
+suygetsu killed FNS  in round 13
+suygetsu killed crashies  in round 13
+yay killed suygetsu  in round 13
+yay killed ardiis  in round 13
+Victor killed Shao  in round 13
+Victor killed ANGE1  in round 13
+Round 13 ended with spike_defuse. The winning team is None.
+The current score is None 4 - 9 FunPlus Phoenix.
+Marved killed Shao  in round 14
+ANGE1 killed yay  in round 14
+Marved killed Zyppan  in round 14
+ardiis killed Victor  in round 14
+Marved killed ardiis  in round 14
+ANGE1 killed FNS  in round 14
+crashies killed suygetsu  in round 14
+crashies killed ANGE1  in round 14
+Round 14 ended with elimination. The winning team is None.
+The current score is None 5 - 9 FunPlus Phoenix.
+yay killed Shao  in round 15
+ANGE1 killed yay  in round 15
+Zyppan killed FNS  in round 15
+ardiis killed Victor  in round 15
+Round 15 ended with detonate. The winning team is FunPlus Phoenix.
+The current score is None 5 - 10 FunPlus Phoenix.
+Shao killed yay  in round 16
+Zyppan killed crashies  in round 16
+Zyppan killed Victor  in round 16
+Marved killed Zyppan  in round 16
+FNS killed ardiis  in round 16
+suygetsu killed FNS  in round 16
+suygetsu killed Marved  in round 16
+Round 16 ended with elimination. The winning team is FunPlus Phoenix.
+The current score is None 5 - 11 FunPlus Phoenix.
+Zyppan killed Marved  in round 17
+Shao killed crashies  in round 17
+Victor killed Shao  in round 17
+suygetsu killed Victor  in round 17
+yay killed suygetsu  in round 17
+yay killed ANGE1  in round 17
+Zyppan killed yay  in round 17
+ardiis killed FNS  in round 17
+Round 17 ended with elimination. The winning team is FunPlus Phoenix.
+The current score is None 5 - 12 FunPlus Phoenix.
+yay killed Zyppan  in round 18
+Marved killed ardiis  in round 18
+Shao killed Marved  in round 18
+suygetsu killed Victor  in round 18
+yay killed ANGE1  in round 18
+yay killed suygetsu  in round 18
+yay killed Shao  in round 18
+Round 18 ended with elimination. The winning team is None.
+The current score is None 6 - 12 FunPlus Phoenix.
+yay killed Zyppan  in round 19
+suygetsu killed Marved  in round 19
+suygetsu killed Victor  in round 19
+yay killed suygetsu  in round 19
+ANGE1 killed yay  in round 19
+ANGE1 killed FNS  in round 19
+Shao killed crashies  in round 19
+Round 19 ended with elimination. The winning team is FunPlus Phoenix.
+The current score is None 6 - 13 FunPlus Phoenix.
+Game ended with winning team: FunPlus Phoenix at 2022-07-23T16:18:23Z
+
+--- Player Stats ---
+suygetsu: Team=FunPlus Phoenix, Kills=17, Deaths=12, Assists=2, KDA=1.58, First Kills=2, First Deaths=0
+ardiis: Team=FunPlus Phoenix, Kills=16, Deaths=11, Assists=9, KDA=2.27, First Kills=4, First Deaths=1
+ANGE1: Team=FunPlus Phoenix, Kills=6, Deaths=11, Assists=8, KDA=1.27, First Kills=0, First Deaths=1
+Shao: Team=FunPlus Phoenix, Kills=21, Deaths=12, Assists=2, KDA=1.92, First Kills=3, First Deaths=2
+Zyppan: Team=FunPlus Phoenix, Kills=15, Deaths=12, Assists=2, KDA=1.42, First Kills=2, First Deaths=4
+crashies: Team=None, Kills=8, Deaths=15, Assists=5, KDA=0.87, First Kills=1, First Deaths=0
+Victor: Team=None, Kills=9, Deaths=18, Assists=6, KDA=0.83, First Kills=0, First Deaths=3
+FNS: Team=None, Kills=8, Deaths=15, Assists=4, KDA=0.8, First Kills=0, First Deaths=0
+yay: Team=None, Kills=19, Deaths=14, Assists=3, KDA=1.57, First Kills=5, First Deaths=6
+Marved: Team=None, Kills=14, Deaths=13, Assists=8, KDA=1.69, First Kills=2, First Deaths=2

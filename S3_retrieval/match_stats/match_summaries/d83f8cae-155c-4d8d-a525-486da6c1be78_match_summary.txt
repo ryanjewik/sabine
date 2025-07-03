@@ -1,0 +1,181 @@
+Team 1: Talon Esports
+Team 2: DRX
+Participating Players:
+Player 1: Foxy9
+Player 2: BuZz
+Player 3: stax
+Player 4: MaKo
+Player 5: Rb
+Player 6: Crws
+Player 7: JitBoyS
+Player 8: foxz
+Player 9: sushiboys
+Player 10: Patiphan
+Winning Team: DRX
+Score: Talon Esports 3 - 13 DRX
+Tournament Name: vct pacific 2023
+Game Start Time: 2023-04-09T12:48:56Z
+Game End Time: 2023-04-09T13:27:42Z
+Rounds ended by ELIMINATION count: 13
+Rounds ended by DEFUSE count: 3
+Rounds ended by DETONATE count: 0
+SPIKE PLANTED count: 3
+platformGameId: val:d83f8cae-155c-4d8d-a525-486da6c1be78
+
+--- Events ---
+Game started at 2023-04-09T12:48:56Z
+Foxy9 killed JitBoyS  in round 1
+BuZz killed sushiboys  in round 1
+stax killed Crws  in round 1
+foxz killed MaKo  in round 1
+Foxy9 killed foxz  in round 1
+Foxy9 killed Patiphan  in round 1
+Round 1 ended with spike_defuse. The winning team is DRX.
+The current score is Talon Esports 0 - 1 DRX.
+Foxy9 killed JitBoyS  in round 2
+sushiboys killed Foxy9  in round 2
+Rb killed foxz  in round 2
+sushiboys killed Rb  in round 2
+MaKo killed Patiphan  in round 2
+MaKo killed Crws  in round 2
+BuZz killed sushiboys  in round 2
+Round 2 ended with elimination. The winning team is DRX.
+The current score is Talon Esports 0 - 2 DRX.
+JitBoyS killed MaKo  in round 3
+Foxy9 killed JitBoyS  in round 3
+Rb killed foxz  in round 3
+Foxy9 killed Patiphan  in round 3
+sushiboys killed Foxy9  in round 3
+Rb killed Crws  in round 3
+sushiboys killed stax  in round 3
+BuZz killed sushiboys  in round 3
+Round 3 ended with elimination. The winning team is DRX.
+The current score is Talon Esports 0 - 3 DRX.
+stax killed JitBoyS  in round 4
+Patiphan killed Foxy9  in round 4
+Foxy9 killed Patiphan  in round 4
+BuZz killed foxz  in round 4
+BuZz killed Crws  in round 4
+stax killed sushiboys  in round 4
+Round 4 ended with elimination. The winning team is DRX.
+The current score is Talon Esports 0 - 4 DRX.
+Foxy9 killed JitBoyS  in round 5
+sushiboys killed Foxy9  in round 5
+Rb killed Patiphan  in round 5
+MaKo killed sushiboys  in round 5
+Rb killed Crws  in round 5
+Rb killed foxz  in round 5
+Round 5 ended with elimination. The winning team is DRX.
+The current score is Talon Esports 0 - 5 DRX.
+Foxy9 killed Crws  in round 6
+MaKo killed Patiphan  in round 6
+sushiboys killed BuZz  in round 6
+stax killed sushiboys  in round 6
+MaKo killed foxz  in round 6
+JitBoyS killed stax  in round 6
+MaKo killed JitBoyS  in round 6
+Round 6 ended with elimination. The winning team is DRX.
+The current score is Talon Esports 0 - 6 DRX.
+MaKo killed foxz  in round 7
+Foxy9 killed JitBoyS  in round 7
+sushiboys killed Rb  in round 7
+Foxy9 killed Crws  in round 7
+Patiphan killed Foxy9  in round 7
+BuZz killed Patiphan  in round 7
+BuZz killed sushiboys  in round 7
+Round 7 ended with elimination. The winning team is DRX.
+The current score is Talon Esports 0 - 7 DRX.
+Crws killed Foxy9  in round 8
+stax killed foxz  in round 8
+stax killed Crws  in round 8
+Rb killed JitBoyS  in round 8
+BuZz killed Patiphan  in round 8
+sushiboys killed BuZz  in round 8
+stax killed sushiboys  in round 8
+Round 8 ended with spike_defuse. The winning team is DRX.
+The current score is Talon Esports 0 - 8 DRX.
+foxz killed stax  in round 9
+foxz killed Foxy9  in round 9
+Rb killed Patiphan  in round 9
+MaKo killed sushiboys  in round 9
+MaKo killed foxz  in round 9
+Rb killed JitBoyS  in round 9
+Crws killed BuZz  in round 9
+Crws killed MaKo  in round 9
+Crws killed Rb  in round 9
+Round 9 ended with elimination. The winning team is Talon Esports.
+The current score is Talon Esports 1 - 8 DRX.
+Crws killed Crws  in round 10
+foxz killed Rb  in round 10
+Foxy9 killed JitBoyS  in round 10
+Foxy9 killed sushiboys  in round 10
+JitBoyS killed Foxy9  in round 10
+BuZz killed foxz  in round 10
+Patiphan killed MaKo  in round 10
+MaKo killed Patiphan  in round 10
+Crws killed BuZz  in round 10
+stax killed Crws  in round 10
+Round 10 ended with spike_defuse. The winning team is DRX.
+The current score is Talon Esports 1 - 9 DRX.
+Foxy9 killed Patiphan  in round 11
+Rb killed sushiboys  in round 11
+Foxy9 killed foxz  in round 11
+Rb killed JitBoyS  in round 11
+Rb killed Crws  in round 11
+Round 11 ended with elimination. The winning team is DRX.
+The current score is Talon Esports 1 - 10 DRX.
+stax killed sushiboys  in round 12
+MaKo killed Crws  in round 12
+MaKo killed foxz  in round 12
+MaKo killed JitBoyS  in round 12
+BuZz killed Patiphan  in round 12
+Round 12 ended with elimination. The winning team is DRX.
+The current score is Talon Esports 1 - 11 DRX.
+Crws killed Foxy9  in round 13
+Crws killed MaKo  in round 13
+BuZz killed Crws  in round 13
+foxz killed stax  in round 13
+foxz killed Rb  in round 13
+foxz killed BuZz  in round 13
+Round 13 ended with elimination. The winning team is Talon Esports.
+The current score is Talon Esports 2 - 11 DRX.
+Patiphan killed Foxy9  in round 14
+stax killed Patiphan  in round 14
+JitBoyS killed stax  in round 14
+Rb killed JitBoyS  in round 14
+sushiboys killed MaKo  in round 14
+foxz killed Rb  in round 14
+foxz killed BuZz  in round 14
+Round 14 ended with elimination. The winning team is Talon Esports.
+The current score is Talon Esports 3 - 11 DRX.
+MaKo killed JitBoyS  in round 15
+Foxy9 killed sushiboys  in round 15
+MaKo killed Crws  in round 15
+foxz killed stax  in round 15
+BuZz killed foxz  in round 15
+MaKo killed Patiphan  in round 15
+Round 15 ended with elimination. The winning team is DRX.
+The current score is Talon Esports 3 - 12 DRX.
+Rb killed JitBoyS  in round 16
+sushiboys killed Rb  in round 16
+stax killed Patiphan  in round 16
+foxz killed MaKo  in round 16
+BuZz killed foxz  in round 16
+Foxy9 killed Crws  in round 16
+sushiboys killed Foxy9  in round 16
+stax killed sushiboys  in round 16
+Round 16 ended with elimination. The winning team is DRX.
+The current score is Talon Esports 3 - 13 DRX.
+Game ended with winning team: DRX at 2023-04-09T13:27:42Z
+
+--- Player Stats ---
+Foxy9: Team=DRX, Kills=17, Deaths=11, Assists=5, KDA=2.0, First Kills=5, First Deaths=3
+BuZz: Team=DRX, Kills=13, Deaths=6, Assists=16, KDA=4.83, First Kills=0, First Deaths=0
+stax: Team=DRX, Kills=12, Deaths=6, Assists=5, KDA=2.83, First Kills=2, First Deaths=1
+MaKo: Team=DRX, Kills=16, Deaths=7, Assists=8, KDA=3.43, First Kills=2, First Deaths=1
+Rb: Team=DRX, Kills=14, Deaths=7, Assists=14, KDA=4.0, First Kills=1, First Deaths=0
+Crws: Team=Talon Esports, Kills=8, Deaths=15, Assists=3, KDA=0.73, First Kills=3, First Deaths=2
+JitBoyS: Team=Talon Esports, Kills=4, Deaths=15, Assists=2, KDA=0.4, First Kills=1, First Deaths=6
+foxz: Team=Talon Esports, Kills=11, Deaths=14, Assists=3, KDA=1.0, First Kills=1, First Deaths=1
+sushiboys: Team=Talon Esports, Kills=11, Deaths=14, Assists=2, KDA=0.93, First Kills=0, First Deaths=1
+Patiphan: Team=Talon Esports, Kills=4, Deaths=15, Assists=4, KDA=0.53, First Kills=1, First Deaths=1

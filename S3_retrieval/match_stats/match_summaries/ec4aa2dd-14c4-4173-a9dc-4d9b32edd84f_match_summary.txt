@@ -1,0 +1,201 @@
+Team 1: NAVI
+Team 2: FNATIC
+Participating Players:
+Player 1: Chronicle
+Player 2: Derke
+Player 3: Boaster
+Player 4: Leo 
+Player 5: Alfajer
+Player 6: Zyppan
+Player 7: Shao
+Player 8: ANGE1
+Player 9: ardiis
+Player 10: suygetsu
+Winning Team: FNATIC
+Score: NAVI 6 - 13 FNATIC
+Tournament Name: vct emea stage 1 2024
+Game Start Time: 2024-05-02T17:48:35Z
+Game End Time: 2024-05-02T18:38:10Z
+Rounds ended by ELIMINATION count: 13
+Rounds ended by DEFUSE count: 5
+Rounds ended by DETONATE count: 1
+SPIKE PLANTED count: 6
+platformGameId: val:ec4aa2dd-14c4-4173-a9dc-4d9b32edd84f
+
+--- Events ---
+Game started at 2024-05-02T17:48:35Z
+Zyppan killed Alfajer  in round 1
+ANGE1 killed Boaster  in round 1
+Zyppan killed Derke  in round 1
+Leo  killed ANGE1  in round 1
+Zyppan killed Leo   in round 1
+ardiis killed Chronicle  in round 1
+Round 1 ended with elimination. The winning team is NAVI.
+The current score is NAVI 1 - 0 FNATIC.
+Shao killed Boaster  in round 2
+Shao killed Chronicle  in round 2
+Derke killed Shao  in round 2
+ardiis killed Derke  in round 2
+ardiis killed Leo   in round 2
+Alfajer killed ANGE1  in round 2
+ardiis killed Alfajer  in round 2
+Round 2 ended with elimination. The winning team is NAVI.
+The current score is NAVI 2 - 0 FNATIC.
+Derke killed Zyppan  in round 3
+Chronicle killed ardiis  in round 3
+Chronicle killed ANGE1  in round 3
+Chronicle killed Shao  in round 3
+Derke killed suygetsu  in round 3
+Round 3 ended with elimination. The winning team is FNATIC.
+The current score is NAVI 2 - 1 FNATIC.
+ardiis killed Boaster  in round 4
+Alfajer killed ardiis  in round 4
+ANGE1 killed Alfajer  in round 4
+Derke killed suygetsu  in round 4
+Derke killed ANGE1  in round 4
+Shao killed Derke  in round 4
+Chronicle killed Zyppan  in round 4
+Shao killed Chronicle  in round 4
+Leo  killed Shao  in round 4
+Round 4 ended with spike_defuse. The winning team is FNATIC.
+The current score is NAVI 2 - 2 FNATIC.
+Leo  killed ardiis  in round 5
+Derke killed Zyppan  in round 5
+Leo  killed Chronicle  in round 5
+Derke killed suygetsu  in round 5
+ANGE1 killed Derke  in round 5
+Leo  killed Shao  in round 5
+Alfajer killed ANGE1  in round 5
+Round 5 ended with spike_defuse. The winning team is FNATIC.
+The current score is NAVI 2 - 3 FNATIC.
+Derke killed Shao  in round 6
+Derke killed ardiis  in round 6
+Chronicle killed ANGE1  in round 6
+suygetsu killed Chronicle  in round 6
+Derke killed suygetsu  in round 6
+Alfajer killed Zyppan  in round 6
+Round 6 ended with elimination. The winning team is FNATIC.
+The current score is NAVI 2 - 4 FNATIC.
+Chronicle killed ANGE1  in round 7
+Leo  killed suygetsu  in round 7
+Derke killed ardiis  in round 7
+Derke killed Zyppan  in round 7
+Derke killed Shao  in round 7
+Round 7 ended with elimination. The winning team is FNATIC.
+The current score is NAVI 2 - 5 FNATIC.
+ardiis killed Chronicle  in round 8
+Derke killed ANGE1  in round 8
+Derke killed suygetsu  in round 8
+Zyppan killed Derke  in round 8
+Shao killed Alfajer  in round 8
+Leo  killed Zyppan  in round 8
+Leo  killed ardiis  in round 8
+Leo  killed Shao  in round 8
+Round 8 ended with spike_defuse. The winning team is FNATIC.
+The current score is NAVI 2 - 6 FNATIC.
+Derke killed Zyppan  in round 9
+suygetsu killed Chronicle  in round 9
+ANGE1 killed Derke  in round 9
+Leo  killed ardiis  in round 9
+Alfajer killed suygetsu  in round 9
+Boaster killed ANGE1  in round 9
+Shao killed Boaster  in round 9
+Leo  killed Shao  in round 9
+Round 9 ended with spike_defuse. The winning team is FNATIC.
+The current score is NAVI 2 - 7 FNATIC.
+Shao killed Chronicle  in round 10
+ardiis killed Alfajer  in round 10
+Shao killed Leo   in round 10
+Derke killed ardiis  in round 10
+ANGE1 killed Boaster  in round 10
+ANGE1 killed Derke  in round 10
+Round 10 ended with elimination. The winning team is NAVI.
+The current score is NAVI 3 - 7 FNATIC.
+Zyppan killed Alfajer  in round 11
+ardiis killed Boaster  in round 11
+Shao killed Derke  in round 11
+Leo  killed ANGE1  in round 11
+ardiis killed Leo   in round 11
+Zyppan killed Chronicle  in round 11
+Round 11 ended with elimination. The winning team is NAVI.
+The current score is NAVI 4 - 7 FNATIC.
+ANGE1 killed Alfajer  in round 12
+Zyppan killed Boaster  in round 12
+ardiis killed Chronicle  in round 12
+ardiis killed Derke  in round 12
+Leo  killed ANGE1  in round 12
+Zyppan killed Leo   in round 12
+Round 12 ended with elimination. The winning team is NAVI.
+The current score is NAVI 5 - 7 FNATIC.
+Alfajer killed ardiis  in round 13
+Alfajer killed Zyppan  in round 13
+suygetsu killed Derke  in round 13
+Chronicle killed ANGE1  in round 13
+Alfajer killed Shao  in round 13
+Alfajer killed suygetsu  in round 13
+Round 13 ended with elimination. The winning team is FNATIC.
+The current score is NAVI 5 - 8 FNATIC.
+ardiis killed Boaster  in round 14
+Chronicle killed ANGE1  in round 14
+ardiis killed Chronicle  in round 14
+Alfajer killed Shao  in round 14
+Alfajer killed Zyppan  in round 14
+Alfajer killed ardiis  in round 14
+Round 14 ended with detonate. The winning team is FNATIC.
+The current score is NAVI 5 - 9 FNATIC.
+suygetsu killed suygetsu  in round 15
+Chronicle killed Shao  in round 15
+ardiis killed Chronicle  in round 15
+Derke killed ANGE1  in round 15
+Zyppan killed Leo   in round 15
+Derke killed Zyppan  in round 15
+Derke killed suygetsu  in round 15
+Derke killed ardiis  in round 15
+Round 15 ended with elimination. The winning team is FNATIC.
+The current score is NAVI 5 - 10 FNATIC.
+Chronicle killed suygetsu  in round 16
+Leo  killed ANGE1  in round 16
+Derke killed ardiis  in round 16
+Alfajer killed Shao  in round 16
+Leo  killed Zyppan  in round 16
+Round 16 ended with elimination. The winning team is FNATIC.
+The current score is NAVI 5 - 11 FNATIC.
+ardiis killed Derke  in round 17
+Leo  killed ardiis  in round 17
+suygetsu killed Boaster  in round 17
+Alfajer killed Shao  in round 17
+Zyppan killed Alfajer  in round 17
+Zyppan killed Chronicle  in round 17
+Zyppan killed Leo   in round 17
+Round 17 ended with spike_defuse. The winning team is NAVI.
+The current score is NAVI 6 - 11 FNATIC.
+Alfajer killed suygetsu  in round 18
+Derke killed ANGE1  in round 18
+Shao killed Derke  in round 18
+Chronicle killed ardiis  in round 18
+Alfajer killed Zyppan  in round 18
+Chronicle killed Shao  in round 18
+Round 18 ended with elimination. The winning team is FNATIC.
+The current score is NAVI 6 - 12 FNATIC.
+ardiis killed Boaster  in round 19
+Derke killed Shao  in round 19
+Leo  killed Zyppan  in round 19
+Chronicle killed ardiis  in round 19
+Derke killed ANGE1  in round 19
+suygetsu killed Derke  in round 19
+Chronicle killed suygetsu  in round 19
+Round 19 ended with elimination. The winning team is FNATIC.
+The current score is NAVI 6 - 13 FNATIC.
+Game ended with winning team: FNATIC at 2024-05-02T18:38:10Z
+
+--- Player Stats ---
+Chronicle: Team=FNATIC, Kills=14, Deaths=13, Assists=13, KDA=2.08, First Kills=2, First Deaths=2
+Derke: Team=FNATIC, Kills=25, Deaths=13, Assists=6, KDA=2.38, First Kills=3, First Deaths=1
+Boaster: Team=FNATIC, Kills=1, Deaths=10, Assists=4, KDA=0.5, First Kills=0, First Deaths=4
+Leo : Team=FNATIC, Kills=17, Deaths=7, Assists=0, KDA=2.43, First Kills=1, First Deaths=0
+Alfajer: Team=FNATIC, Kills=16, Deaths=8, Assists=2, KDA=2.25, First Kills=2, First Deaths=3
+Zyppan: Team=NAVI, Kills=12, Deaths=13, Assists=2, KDA=1.08, First Kills=2, First Deaths=2
+Shao: Team=NAVI, Kills=10, Deaths=15, Assists=2, KDA=0.8, First Kills=2, First Deaths=1
+ANGE1: Team=NAVI, Kills=7, Deaths=17, Assists=2, KDA=0.53, First Kills=1, First Deaths=1
+ardiis: Team=NAVI, Kills=16, Deaths=15, Assists=1, KDA=1.13, First Kills=5, First Deaths=2
+suygetsu: Team=NAVI, Kills=6, Deaths=13, Assists=1, KDA=0.54, First Kills=1, First Deaths=3

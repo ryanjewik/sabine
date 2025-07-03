@@ -1,0 +1,307 @@
+Team 1: Leviatán Esports
+Team 2: Team Heretics
+Participating Players:
+Player 1: MiniBoo
+Player 2: RieNs
+Player 3: Boo
+Player 4: benjyfishy
+Player 5: Wo0t
+Player 6: aspas
+Player 7: tex
+Player 8: kiNgg
+Player 9: C0M
+Player 10: Mazino
+Winning Team: Leviatán Esports
+Score: Leviatán Esports 15 - 13 Team Heretics
+Tournament Name: vct champions 2024
+Game Start Time: 2024-08-17T11:11:22Z
+Game End Time: 2024-08-17T12:26:07Z
+Rounds ended by ELIMINATION count: 19
+Rounds ended by DEFUSE count: 7
+Rounds ended by DETONATE count: 1
+SPIKE PLANTED count: 8
+platformGameId: val:7f8631ce-2819-49c2-a583-f2d09cf39b14
+
+--- Events ---
+Game started at 2024-08-17T11:11:22Z
+aspas killed Wo0t  in round 1
+tex killed MiniBoo  in round 1
+benjyfishy killed C0M  in round 1
+benjyfishy killed Mazino  in round 1
+benjyfishy killed tex  in round 1
+aspas killed benjyfishy  in round 1
+kiNgg killed Boo  in round 1
+RieNs killed aspas  in round 1
+kiNgg killed RieNs  in round 1
+Round 1 ended with elimination. The winning team is Leviatán Esports.
+The current score is Leviatán Esports 1 - 0 Team Heretics.
+C0M killed benjyfishy  in round 2
+tex killed Wo0t  in round 2
+tex killed MiniBoo  in round 2
+Mazino killed RieNs  in round 2
+Mazino killed Boo  in round 2
+Round 2 ended with elimination. The winning team is Leviatán Esports.
+The current score is Leviatán Esports 2 - 0 Team Heretics.
+tex killed benjyfishy  in round 3
+tex killed MiniBoo  in round 3
+Wo0t killed kiNgg  in round 3
+aspas killed Wo0t  in round 3
+Boo killed aspas  in round 3
+Boo killed Mazino  in round 3
+tex killed Boo  in round 3
+tex killed RieNs  in round 3
+Round 3 ended with elimination. The winning team is Leviatán Esports.
+The current score is Leviatán Esports 3 - 0 Team Heretics.
+Boo killed C0M  in round 4
+aspas killed Boo  in round 4
+MiniBoo killed Mazino  in round 4
+aspas killed Wo0t  in round 4
+aspas killed RieNs  in round 4
+MiniBoo killed tex  in round 4
+Round 4 ended with time_expired. The winning team is Team Heretics.
+The current score is Leviatán Esports 3 - 1 Team Heretics.
+MiniBoo killed kiNgg  in round 5
+MiniBoo killed aspas  in round 5
+RieNs killed aspas  in round 5
+kiNgg killed MiniBoo  in round 5
+kiNgg killed Wo0t  in round 5
+RieNs killed kiNgg  in round 5
+C0M killed benjyfishy  in round 5
+Mazino killed RieNs  in round 5
+C0M killed Boo  in round 5
+Round 5 ended with elimination. The winning team is Leviatán Esports.
+The current score is Leviatán Esports 4 - 1 Team Heretics.
+kiNgg killed MiniBoo  in round 6
+RieNs killed aspas  in round 6
+Mazino killed RieNs  in round 6
+C0M killed Wo0t  in round 6
+Mazino killed benjyfishy  in round 6
+C0M killed Boo  in round 6
+Round 6 ended with elimination. The winning team is Leviatán Esports.
+The current score is Leviatán Esports 5 - 1 Team Heretics.
+tex killed Boo  in round 7
+RieNs killed kiNgg  in round 7
+RieNs killed Mazino  in round 7
+C0M killed benjyfishy  in round 7
+C0M killed RieNs  in round 7
+Wo0t killed C0M  in round 7
+aspas killed MiniBoo  in round 7
+tex killed Wo0t  in round 7
+Round 7 ended with elimination. The winning team is Leviatán Esports.
+The current score is Leviatán Esports 6 - 1 Team Heretics.
+tex killed Wo0t  in round 8
+tex killed benjyfishy  in round 8
+Mazino killed RieNs  in round 8
+Boo killed kiNgg  in round 8
+MiniBoo killed Mazino  in round 8
+MiniBoo killed tex  in round 8
+C0M killed MiniBoo  in round 8
+Boo killed aspas  in round 8
+C0M killed Boo  in round 8
+Round 8 ended with elimination. The winning team is Leviatán Esports.
+The current score is Leviatán Esports 7 - 1 Team Heretics.
+C0M killed C0M  in round 9
+MiniBoo killed C0M  in round 9
+aspas killed MiniBoo  in round 9
+Mazino killed Wo0t  in round 9
+RieNs killed Mazino  in round 9
+tex killed RieNs  in round 9
+Boo killed aspas  in round 9
+benjyfishy killed tex  in round 9
+benjyfishy killed kiNgg  in round 9
+Round 9 ended with spike_defuse. The winning team is Team Heretics.
+The current score is Leviatán Esports 7 - 2 Team Heretics.
+kiNgg killed Wo0t  in round 10
+RieNs killed aspas  in round 10
+MiniBoo killed tex  in round 10
+C0M killed MiniBoo  in round 10
+C0M killed RieNs  in round 10
+benjyfishy killed kiNgg  in round 10
+benjyfishy killed Mazino  in round 10
+C0M killed benjyfishy  in round 10
+Boo killed C0M  in round 10
+Round 10 ended with elimination. The winning team is Team Heretics.
+The current score is Leviatán Esports 7 - 3 Team Heretics.
+tex killed benjyfishy  in round 11
+MiniBoo killed C0M  in round 11
+RieNs killed Mazino  in round 11
+MiniBoo killed tex  in round 11
+kiNgg killed MiniBoo  in round 11
+RieNs killed kiNgg  in round 11
+aspas killed RieNs  in round 11
+aspas killed Wo0t  in round 11
+Boo killed aspas  in round 11
+Round 11 ended with elimination. The winning team is Team Heretics.
+The current score is Leviatán Esports 7 - 4 Team Heretics.
+benjyfishy killed tex  in round 12
+Boo killed kiNgg  in round 12
+Boo killed aspas  in round 12
+Wo0t killed Mazino  in round 12
+C0M killed MiniBoo  in round 12
+Wo0t killed C0M  in round 12
+Round 12 ended with spike_defuse. The winning team is Team Heretics.
+The current score is Leviatán Esports 7 - 5 Team Heretics.
+benjyfishy killed tex  in round 13
+MiniBoo killed C0M  in round 13
+Wo0t killed Mazino  in round 13
+kiNgg killed MiniBoo  in round 13
+RieNs killed aspas  in round 13
+kiNgg killed Wo0t  in round 13
+RieNs killed kiNgg  in round 13
+Round 13 ended with elimination. The winning team is Team Heretics.
+The current score is Leviatán Esports 7 - 6 Team Heretics.
+benjyfishy killed C0M  in round 14
+RieNs killed Mazino  in round 14
+tex killed RieNs  in round 14
+aspas killed Wo0t  in round 14
+benjyfishy killed kiNgg  in round 14
+aspas killed benjyfishy  in round 14
+Boo killed aspas  in round 14
+Boo killed tex  in round 14
+Round 14 ended with elimination. The winning team is Team Heretics.
+The current score is Leviatán Esports 7 - 7 Team Heretics.
+Boo killed aspas  in round 15
+tex killed Wo0t  in round 15
+tex killed RieNs  in round 15
+Boo killed tex  in round 15
+MiniBoo killed C0M  in round 15
+Mazino killed Boo  in round 15
+kiNgg killed MiniBoo  in round 15
+benjyfishy killed kiNgg  in round 15
+Mazino killed benjyfishy  in round 15
+Round 15 ended with elimination. The winning team is Leviatán Esports.
+The current score is Leviatán Esports 8 - 7 Team Heretics.
+Boo killed tex  in round 16
+benjyfishy killed aspas  in round 16
+C0M killed benjyfishy  in round 16
+MiniBoo killed Mazino  in round 16
+MiniBoo killed C0M  in round 16
+kiNgg killed MiniBoo  in round 16
+Wo0t killed kiNgg  in round 16
+Round 16 ended with elimination. The winning team is Team Heretics.
+The current score is Leviatán Esports 8 - 8 Team Heretics.
+MiniBoo killed C0M  in round 17
+RieNs killed aspas  in round 17
+Wo0t killed tex  in round 17
+Boo killed kiNgg  in round 17
+Mazino killed Boo  in round 17
+MiniBoo killed Mazino  in round 17
+Round 17 ended with elimination. The winning team is Team Heretics.
+The current score is Leviatán Esports 8 - 9 Team Heretics.
+aspas killed Wo0t  in round 18
+benjyfishy killed tex  in round 18
+MiniBoo killed Mazino  in round 18
+Boo killed aspas  in round 18
+Boo killed C0M  in round 18
+benjyfishy killed kiNgg  in round 18
+Round 18 ended with elimination. The winning team is Team Heretics.
+The current score is Leviatán Esports 8 - 10 Team Heretics.
+MiniBoo killed tex  in round 19
+benjyfishy killed C0M  in round 19
+Mazino killed benjyfishy  in round 19
+Wo0t killed Mazino  in round 19
+aspas killed RieNs  in round 19
+Boo killed aspas  in round 19
+kiNgg killed MiniBoo  in round 19
+Wo0t killed kiNgg  in round 19
+Round 19 ended with elimination. The winning team is Team Heretics.
+The current score is Leviatán Esports 8 - 11 Team Heretics.
+MiniBoo killed tex  in round 20
+Wo0t killed C0M  in round 20
+kiNgg killed Boo  in round 20
+aspas killed MiniBoo  in round 20
+RieNs killed aspas  in round 20
+kiNgg killed benjyfishy  in round 20
+Mazino killed Wo0t  in round 20
+Mazino killed RieNs  in round 20
+Round 20 ended with spike_defuse. The winning team is Leviatán Esports.
+The current score is Leviatán Esports 9 - 11 Team Heretics.
+C0M killed Wo0t  in round 21
+tex killed RieNs  in round 21
+benjyfishy killed aspas  in round 21
+MiniBoo killed C0M  in round 21
+Mazino killed MiniBoo  in round 21
+Mazino killed Boo  in round 21
+benjyfishy killed tex  in round 21
+Mazino killed benjyfishy  in round 21
+Round 21 ended with elimination. The winning team is Leviatán Esports.
+The current score is Leviatán Esports 10 - 11 Team Heretics.
+benjyfishy killed C0M  in round 22
+Mazino killed MiniBoo  in round 22
+benjyfishy killed kiNgg  in round 22
+Boo killed Mazino  in round 22
+Round 22 ended with detonate. The winning team is Team Heretics.
+The current score is Leviatán Esports 10 - 12 Team Heretics.
+aspas killed benjyfishy  in round 23
+tex killed MiniBoo  in round 23
+benjyfishy killed Mazino  in round 23
+Wo0t killed tex  in round 23
+C0M killed RieNs  in round 23
+aspas killed Boo  in round 23
+benjyfishy killed aspas  in round 23
+kiNgg killed benjyfishy  in round 23
+C0M killed Wo0t  in round 23
+Round 23 ended with spike_defuse. The winning team is Leviatán Esports.
+The current score is Leviatán Esports 11 - 12 Team Heretics.
+Mazino killed MiniBoo  in round 24
+Mazino killed Wo0t  in round 24
+RieNs killed Mazino  in round 24
+aspas killed benjyfishy  in round 24
+C0M killed Boo  in round 24
+RieNs killed C0M  in round 24
+aspas killed RieNs  in round 24
+Round 24 ended with elimination. The winning team is Leviatán Esports.
+The current score is Leviatán Esports 12 - 12 Team Heretics.
+Boo killed kiNgg  in round 25
+MiniBoo killed tex  in round 25
+aspas killed MiniBoo  in round 25
+Wo0t killed aspas  in round 25
+RieNs killed Mazino  in round 25
+benjyfishy killed C0M  in round 25
+Round 25 ended with spike_defuse. The winning team is Team Heretics.
+The current score is Leviatán Esports 12 - 13 Team Heretics.
+Mazino killed benjyfishy  in round 26
+tex killed Boo  in round 26
+MiniBoo killed Mazino  in round 26
+Wo0t killed C0M  in round 26
+kiNgg killed MiniBoo  in round 26
+RieNs killed kiNgg  in round 26
+tex killed Wo0t  in round 26
+RieNs killed tex  in round 26
+aspas killed RieNs  in round 26
+Round 26 ended with spike_defuse. The winning team is Leviatán Esports.
+The current score is Leviatán Esports 13 - 13 Team Heretics.
+tex killed RieNs  in round 27
+benjyfishy killed tex  in round 27
+aspas killed benjyfishy  in round 27
+MiniBoo killed aspas  in round 27
+kiNgg killed Wo0t  in round 27
+MiniBoo killed C0M  in round 27
+kiNgg killed MiniBoo  in round 27
+Boo killed Mazino  in round 27
+kiNgg killed Boo  in round 27
+Round 27 ended with elimination. The winning team is Leviatán Esports.
+The current score is Leviatán Esports 14 - 13 Team Heretics.
+tex killed MiniBoo  in round 28
+Boo killed kiNgg  in round 28
+aspas killed benjyfishy  in round 28
+Mazino killed RieNs  in round 28
+Wo0t killed Mazino  in round 28
+Boo killed aspas  in round 28
+tex killed Boo  in round 28
+tex killed Wo0t  in round 28
+Round 28 ended with spike_defuse. The winning team is Leviatán Esports.
+The current score is Leviatán Esports 15 - 13 Team Heretics.
+Game ended with winning team: Leviatán Esports at 2024-08-17T12:26:07Z
+
+--- Player Stats ---
+MiniBoo: Team=Team Heretics, Kills=24, Deaths=24, Assists=6, KDA=1.25, First Kills=4, First Deaths=3
+RieNs: Team=Team Heretics, Kills=20, Deaths=21, Assists=5, KDA=1.19, First Kills=0, First Deaths=1
+Boo: Team=Team Heretics, Kills=24, Deaths=17, Assists=4, KDA=1.65, First Kills=4, First Deaths=1
+benjyfishy: Team=Team Heretics, Kills=24, Deaths=21, Assists=0, KDA=1.14, First Kills=4, First Deaths=5
+Wo0t: Team=Team Heretics, Kills=14, Deaths=22, Assists=9, KDA=1.05, First Kills=0, First Deaths=5
+aspas: Team=Leviatán Esports, Kills=23, Deaths=23, Assists=3, KDA=1.13, First Kills=3, First Deaths=1
+tex: Team=Leviatán Esports, Kills=24, Deaths=20, Assists=5, KDA=1.45, First Kills=6, First Deaths=5
+kiNgg: Team=Leviatán Esports, Kills=19, Deaths=20, Assists=8, KDA=1.35, First Kills=2, First Deaths=2
+C0M: Team=Leviatán Esports, Kills=19, Deaths=22, Assists=9, KDA=1.27, First Kills=3, First Deaths=5
+Mazino: Team=Leviatán Esports, Kills=21, Deaths=22, Assists=5, KDA=1.18, First Kills=2, First Deaths=0

@@ -1,0 +1,181 @@
+Team 1: Team Secret
+Team 2: DRX
+Participating Players:
+Player 1: Foxy9
+Player 2: BuZz
+Player 3: stax
+Player 4: MaKo
+Player 5: Rb
+Player 6: lenne
+Player 7: Jremy
+Player 8: JessieVash
+Player 9: DubsteP
+Player 10: BORKUM
+Winning Team: DRX
+Score: Team Secret 4 - 13 DRX
+Tournament Name: vct pacific 2023
+Game Start Time: 2023-05-20T10:03:22Z
+Game End Time: 2023-05-20T10:43:15Z
+Rounds ended by ELIMINATION count: 11
+Rounds ended by DEFUSE count: 5
+Rounds ended by DETONATE count: 1
+SPIKE PLANTED count: 6
+platformGameId: val:0bea6407-658d-47b7-8bb8-61a1fe601cfc
+
+--- Events ---
+Game started at 2023-05-20T10:03:22Z
+Foxy9 killed Jremy  in round 1
+Foxy9 killed lenne  in round 1
+BORKUM killed Foxy9  in round 1
+stax killed DubsteP  in round 1
+BORKUM killed Rb  in round 1
+JessieVash killed MaKo  in round 1
+BuZz killed JessieVash  in round 1
+stax killed BORKUM  in round 1
+Round 1 ended with spike_defuse. The winning team is DRX.
+The current score is Team Secret 0 - 1 DRX.
+DubsteP killed Rb  in round 2
+BORKUM killed BuZz  in round 2
+Foxy9 killed BORKUM  in round 2
+Foxy9 killed DubsteP  in round 2
+lenne killed Foxy9  in round 2
+MaKo killed Jremy  in round 2
+MaKo killed lenne  in round 2
+MaKo killed JessieVash  in round 2
+Round 2 ended with spike_defuse. The winning team is DRX.
+The current score is Team Secret 0 - 2 DRX.
+DubsteP killed BuZz  in round 3
+MaKo killed Jremy  in round 3
+BORKUM killed MaKo  in round 3
+stax killed BORKUM  in round 3
+JessieVash killed stax  in round 3
+DubsteP killed Foxy9  in round 3
+DubsteP killed Rb  in round 3
+Round 3 ended with elimination. The winning team is Team Secret.
+The current score is Team Secret 1 - 2 DRX.
+stax killed Jremy  in round 4
+BuZz killed DubsteP  in round 4
+Foxy9 killed lenne  in round 4
+BuZz killed JessieVash  in round 4
+Rb killed BORKUM  in round 4
+Round 4 ended with elimination. The winning team is DRX.
+The current score is Team Secret 1 - 3 DRX.
+Rb killed Jremy  in round 5
+MaKo killed DubsteP  in round 5
+stax killed BORKUM  in round 5
+MaKo killed lenne  in round 5
+BuZz killed JessieVash  in round 5
+Round 5 ended with elimination. The winning team is DRX.
+The current score is Team Secret 1 - 4 DRX.
+Jremy killed Foxy9  in round 6
+DubsteP killed Rb  in round 6
+BuZz killed Jremy  in round 6
+lenne killed BuZz  in round 6
+MaKo killed DubsteP  in round 6
+stax killed lenne  in round 6
+BORKUM killed stax  in round 6
+MaKo killed BORKUM  in round 6
+MaKo killed JessieVash  in round 6
+Round 6 ended with spike_defuse. The winning team is DRX.
+The current score is Team Secret 1 - 5 DRX.
+Foxy9 killed Jremy  in round 7
+Foxy9 killed DubsteP  in round 7
+BuZz killed lenne  in round 7
+BuZz killed JessieVash  in round 7
+stax killed BORKUM  in round 7
+Round 7 ended with elimination. The winning team is DRX.
+The current score is Team Secret 1 - 6 DRX.
+Foxy9 killed BORKUM  in round 8
+MaKo killed DubsteP  in round 8
+JessieVash killed stax  in round 8
+BuZz killed lenne  in round 8
+JessieVash killed MaKo  in round 8
+Foxy9 killed Jremy  in round 8
+BuZz killed JessieVash  in round 8
+Round 8 ended with elimination. The winning team is DRX.
+The current score is Team Secret 1 - 7 DRX.
+BuZz killed Jremy  in round 9
+Rb killed BORKUM  in round 9
+BuZz killed lenne  in round 9
+MaKo killed JessieVash  in round 9
+Foxy9 killed DubsteP  in round 9
+Round 9 ended with elimination. The winning team is DRX.
+The current score is Team Secret 1 - 8 DRX.
+Foxy9 killed Jremy  in round 10
+Foxy9 killed BORKUM  in round 10
+lenne killed MaKo  in round 10
+lenne killed Foxy9  in round 10
+Foxy9 killed lenne  in round 10
+DubsteP killed Rb  in round 10
+stax killed JessieVash  in round 10
+BuZz killed DubsteP  in round 10
+Round 10 ended with elimination. The winning team is DRX.
+The current score is Team Secret 1 - 9 DRX.
+DubsteP killed stax  in round 11
+DubsteP killed MaKo  in round 11
+DubsteP killed BuZz  in round 11
+Round 11 ended with detonate. The winning team is Team Secret.
+The current score is Team Secret 2 - 9 DRX.
+Rb killed Jremy  in round 12
+Foxy9 killed DubsteP  in round 12
+Foxy9 killed Jremy  in round 12
+Foxy9 killed BORKUM  in round 12
+JessieVash killed MaKo  in round 12
+Foxy9 killed JessieVash  in round 12
+stax killed lenne  in round 12
+Round 12 ended with spike_defuse. The winning team is DRX.
+The current score is Team Secret 2 - 10 DRX.
+DubsteP killed Foxy9  in round 13
+Rb killed DubsteP  in round 13
+lenne killed BuZz  in round 13
+lenne killed Rb  in round 13
+JessieVash killed MaKo  in round 13
+Jremy killed stax  in round 13
+Round 13 ended with elimination. The winning team is Team Secret.
+The current score is Team Secret 3 - 10 DRX.
+Jremy killed stax  in round 14
+lenne killed Foxy9  in round 14
+BORKUM killed BuZz  in round 14
+DubsteP killed MaKo  in round 14
+DubsteP killed Rb  in round 14
+Round 14 ended with spike_defuse. The winning team is Team Secret.
+The current score is Team Secret 4 - 10 DRX.
+stax killed JessieVash  in round 15
+Jremy killed Foxy9  in round 15
+MaKo killed Jremy  in round 15
+Rb killed DubsteP  in round 15
+lenne killed Rb  in round 15
+stax killed lenne  in round 15
+MaKo killed BORKUM  in round 15
+Round 15 ended with elimination. The winning team is DRX.
+The current score is Team Secret 4 - 11 DRX.
+BuZz killed BORKUM  in round 16
+BuZz killed JessieVash  in round 16
+stax killed lenne  in round 16
+Foxy9 killed DubsteP  in round 16
+stax killed Jremy  in round 16
+Round 16 ended with elimination. The winning team is DRX.
+The current score is Team Secret 4 - 12 DRX.
+Jremy killed Foxy9  in round 17
+stax killed lenne  in round 17
+BuZz killed Jremy  in round 17
+stax killed BORKUM  in round 17
+JessieVash killed MaKo  in round 17
+Rb killed JessieVash  in round 17
+DubsteP killed BuZz  in round 17
+Rb killed DubsteP  in round 17
+Round 17 ended with elimination. The winning team is DRX.
+The current score is Team Secret 4 - 13 DRX.
+Game ended with winning team: DRX at 2023-05-20T10:43:15Z
+
+--- Player Stats ---
+Foxy9: Team=DRX, Kills=18, Deaths=9, Assists=2, KDA=2.22, First Kills=4, First Deaths=3
+BuZz: Team=DRX, Kills=15, Deaths=7, Assists=18, KDA=4.71, First Kills=2, First Deaths=1
+stax: Team=DRX, Kills=15, Deaths=6, Assists=5, KDA=3.33, First Kills=2, First Deaths=2
+MaKo: Team=DRX, Kills=13, Deaths=9, Assists=12, KDA=2.78, First Kills=0, First Deaths=0
+Rb: Team=DRX, Kills=8, Deaths=8, Assists=11, KDA=2.38, First Kills=2, First Deaths=1
+lenne: Team=Team Secret, Kills=8, Deaths=13, Assists=5, KDA=1.0, First Kills=0, First Deaths=0
+Jremy: Team=Team Secret, Kills=5, Deaths=15, Assists=3, KDA=0.53, First Kills=3, First Deaths=7
+JessieVash: Team=Team Secret, Kills=7, Deaths=13, Assists=6, KDA=1.0, First Kills=0, First Deaths=1
+DubsteP: Team=Team Secret, Kills=13, Deaths=14, Assists=1, KDA=1.0, First Kills=4, First Deaths=0
+BORKUM: Team=Team Secret, Kills=6, Deaths=14, Assists=11, KDA=1.21, First Kills=0, First Deaths=2

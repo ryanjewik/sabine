@@ -1,0 +1,210 @@
+Team 1: T1
+Team 2: Futbolist
+Participating Players:
+Player 1: ATA KAPTAN
+Player 2: mojj
+Player 3: MrFaliN
+Player 4: qw1
+Player 5: qRaxs
+Player 6: carpe
+Player 7: Sayaplayer
+Player 8: xeta
+Player 9: ban 
+Player 10: Munchkin
+Winning Team: Futbolist
+Score: T1 4 - 13 Futbolist
+Tournament Name: vct champions 2023
+Game Start Time: 2023-08-07T18:55:05Z
+Game End Time: 2023-08-07T19:45:27Z
+Rounds ended by ELIMINATION count: 10
+Rounds ended by DEFUSE count: 7
+Rounds ended by DETONATE count: 0
+SPIKE PLANTED count: 7
+platformGameId: val:c4cef25b-4a16-4334-969f-1cde0118502a
+
+--- Events ---
+Game started at 2023-08-07T18:55:05Z
+Sayaplayer killed mojj  in round 1
+MrFaliN killed Sayaplayer  in round 1
+qRaxs killed carpe  in round 1
+ban  killed qRaxs  in round 1
+ATA KAPTAN killed ban   in round 1
+xeta killed ATA KAPTAN  in round 1
+MrFaliN killed xeta  in round 1
+Munchkin killed qw1  in round 1
+MrFaliN killed Munchkin  in round 1
+Round 1 ended with elimination. The winning team is Futbolist.
+The current score is T1 0 - 1 Futbolist.
+qRaxs killed Munchkin  in round 2
+mojj killed ban   in round 2
+xeta killed mojj  in round 2
+xeta killed qw1  in round 2
+Sayaplayer killed ATA KAPTAN  in round 2
+Sayaplayer killed MrFaliN  in round 2
+qRaxs killed Sayaplayer  in round 2
+qRaxs killed carpe  in round 2
+qRaxs killed xeta  in round 2
+Round 2 ended with spike_defuse. The winning team is Futbolist.
+The current score is T1 0 - 2 Futbolist.
+qRaxs killed ban   in round 3
+MrFaliN killed xeta  in round 3
+Munchkin killed qRaxs  in round 3
+qw1 killed Munchkin  in round 3
+mojj killed carpe  in round 3
+MrFaliN killed Sayaplayer  in round 3
+Round 3 ended with spike_defuse. The winning team is Futbolist.
+The current score is T1 0 - 3 Futbolist.
+qw1 killed carpe  in round 4
+mojj killed xeta  in round 4
+Sayaplayer killed mojj  in round 4
+Sayaplayer killed qRaxs  in round 4
+ban  killed qw1  in round 4
+Sayaplayer killed ATA KAPTAN  in round 4
+MrFaliN killed Munchkin  in round 4
+ban  killed MrFaliN  in round 4
+Round 4 ended with elimination. The winning team is T1.
+The current score is T1 1 - 3 Futbolist.
+qw1 killed ban   in round 5
+carpe killed qRaxs  in round 5
+qw1 killed Munchkin  in round 5
+mojj killed xeta  in round 5
+carpe killed ATA KAPTAN  in round 5
+carpe killed MrFaliN  in round 5
+carpe killed qw1  in round 5
+mojj killed carpe  in round 5
+Sayaplayer killed mojj  in round 5
+Round 5 ended with elimination. The winning team is T1.
+The current score is T1 2 - 3 Futbolist.
+MrFaliN killed carpe  in round 6
+Munchkin killed mojj  in round 6
+Munchkin killed MrFaliN  in round 6
+Munchkin killed qRaxs  in round 6
+ATA KAPTAN killed Munchkin  in round 6
+qw1 killed Sayaplayer  in round 6
+ATA KAPTAN killed xeta  in round 6
+ban  killed ATA KAPTAN  in round 6
+ban  killed qw1  in round 6
+Round 6 ended with elimination. The winning team is T1.
+The current score is T1 3 - 3 Futbolist.
+ban  killed ban   in round 7
+Sayaplayer killed MrFaliN  in round 7
+qRaxs killed Sayaplayer  in round 7
+ATA KAPTAN killed carpe  in round 7
+ban  killed qRaxs  in round 7
+qw1 killed Munchkin  in round 7
+xeta killed qw1  in round 7
+ban  killed ATA KAPTAN  in round 7
+mojj killed xeta  in round 7
+mojj killed ban   in round 7
+Round 7 ended with spike_defuse. The winning team is Futbolist.
+The current score is T1 3 - 4 Futbolist.
+Sayaplayer killed mojj  in round 8
+qw1 killed carpe  in round 8
+qRaxs killed Munchkin  in round 8
+Sayaplayer killed qw1  in round 8
+qRaxs killed ban   in round 8
+qRaxs killed xeta  in round 8
+qRaxs killed Sayaplayer  in round 8
+Round 8 ended with elimination. The winning team is Futbolist.
+The current score is T1 3 - 5 Futbolist.
+xeta killed qw1  in round 9
+MrFaliN killed Sayaplayer  in round 9
+mojj killed carpe  in round 9
+ban  killed mojj  in round 9
+ATA KAPTAN killed ban   in round 9
+Munchkin killed qRaxs  in round 9
+Munchkin killed MrFaliN  in round 9
+ATA KAPTAN killed Munchkin  in round 9
+ATA KAPTAN killed xeta  in round 9
+Round 9 ended with spike_defuse. The winning team is Futbolist.
+The current score is T1 3 - 6 Futbolist.
+qRaxs killed xeta  in round 10
+mojj killed Munchkin  in round 10
+mojj killed Sayaplayer  in round 10
+qRaxs killed carpe  in round 10
+MrFaliN killed ban   in round 10
+Round 10 ended with elimination. The winning team is Futbolist.
+The current score is T1 3 - 7 Futbolist.
+mojj killed carpe  in round 11
+Sayaplayer killed MrFaliN  in round 11
+qRaxs killed Sayaplayer  in round 11
+Munchkin killed qRaxs  in round 11
+ATA KAPTAN killed Munchkin  in round 11
+xeta killed ATA KAPTAN  in round 11
+mojj killed ban   in round 11
+xeta killed mojj  in round 11
+Round 11 ended with spike_defuse. The winning team is Futbolist.
+The current score is T1 3 - 8 Futbolist.
+xeta killed qw1  in round 12
+qw1 killed Sayaplayer  in round 12
+ban  killed qRaxs  in round 12
+carpe killed ATA KAPTAN  in round 12
+MrFaliN killed ban   in round 12
+xeta killed qw1  in round 12
+MrFaliN killed xeta  in round 12
+mojj killed carpe  in round 12
+Munchkin killed MrFaliN  in round 12
+mojj killed Munchkin  in round 12
+Round 12 ended with spike_defuse. The winning team is Futbolist.
+The current score is T1 3 - 9 Futbolist.
+qw1 killed Munchkin  in round 13
+MrFaliN killed ban   in round 13
+Sayaplayer killed MrFaliN  in round 13
+xeta killed qw1  in round 13
+mojj killed carpe  in round 13
+mojj killed Sayaplayer  in round 13
+mojj killed xeta  in round 13
+Round 13 ended with elimination. The winning team is Futbolist.
+The current score is T1 3 - 10 Futbolist.
+qRaxs killed xeta  in round 14
+Sayaplayer killed qRaxs  in round 14
+mojj killed ban   in round 14
+mojj killed carpe  in round 14
+qw1 killed Sayaplayer  in round 14
+Munchkin killed MrFaliN  in round 14
+qw1 killed Munchkin  in round 14
+Round 14 ended with elimination. The winning team is Futbolist.
+The current score is T1 3 - 11 Futbolist.
+Munchkin killed qw1  in round 15
+Munchkin killed ATA KAPTAN  in round 15
+mojj killed xeta  in round 15
+mojj killed carpe  in round 15
+Munchkin killed qRaxs  in round 15
+Sayaplayer killed mojj  in round 15
+MrFaliN killed Munchkin  in round 15
+Sayaplayer killed MrFaliN  in round 15
+Round 15 ended with spike_defuse. The winning team is T1.
+The current score is T1 4 - 11 Futbolist.
+xeta killed mojj  in round 16
+mojj killed xeta  in round 16
+qw1 killed carpe  in round 16
+qw1 killed ban   in round 16
+qRaxs killed Sayaplayer  in round 16
+Munchkin killed qRaxs  in round 16
+qw1 killed Munchkin  in round 16
+Round 16 ended with elimination. The winning team is Futbolist.
+The current score is T1 4 - 12 Futbolist.
+ATA KAPTAN killed carpe  in round 17
+ATA KAPTAN killed ban   in round 17
+Munchkin killed qRaxs  in round 17
+Munchkin killed mojj  in round 17
+xeta killed qw1  in round 17
+ATA KAPTAN killed Sayaplayer  in round 17
+Munchkin killed ATA KAPTAN  in round 17
+MrFaliN killed xeta  in round 17
+MrFaliN killed Munchkin  in round 17
+Round 17 ended with elimination. The winning team is Futbolist.
+The current score is T1 4 - 13 Futbolist.
+Game ended with winning team: Futbolist at 2023-08-07T19:45:27Z
+
+--- Player Stats ---
+ATA KAPTAN: Team=Futbolist, Kills=11, Deaths=10, Assists=10, KDA=2.1, First Kills=1, First Deaths=0
+mojj: Team=Futbolist, Kills=22, Deaths=11, Assists=6, KDA=2.55, First Kills=1, First Deaths=3
+MrFaliN: Team=Futbolist, Kills=15, Deaths=11, Assists=8, KDA=2.09, First Kills=1, First Deaths=0
+qw1: Team=Futbolist, Kills=14, Deaths=13, Assists=1, KDA=1.15, First Kills=3, First Deaths=3
+qRaxs: Team=Futbolist, Kills=16, Deaths=13, Assists=7, KDA=1.77, First Kills=4, First Deaths=0
+carpe: Team=T1, Kills=5, Deaths=17, Assists=3, KDA=0.47, First Kills=0, First Deaths=4
+Sayaplayer: Team=T1, Kills=15, Deaths=14, Assists=3, KDA=1.29, First Kills=2, First Deaths=0
+xeta: Team=T1, Kills=12, Deaths=16, Assists=7, KDA=1.19, First Kills=3, First Deaths=2
+ban : Team=T1, Kills=10, Deaths=15, Assists=5, KDA=1.0, First Kills=1, First Deaths=3
+Munchkin: Team=T1, Kills=17, Deaths=17, Assists=4, KDA=1.24, First Kills=1, First Deaths=2

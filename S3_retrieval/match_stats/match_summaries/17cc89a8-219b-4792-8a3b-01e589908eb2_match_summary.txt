@@ -1,0 +1,190 @@
+Team 1: FunPlus Phoenix
+Team 2: None
+Participating Players:
+Player 1: BcJ
+Player 2: zekken
+Player 3: dephh
+Player 4: AYRIN
+Player 5: Cryo
+Player 6: suygetsu
+Player 7: ardiis
+Player 8: ANGE1
+Player 9: Shao
+Player 10: Zyppan
+Winning Team: FunPlus Phoenix
+Score: FunPlus Phoenix 13 - 4 None
+Tournament Name: champions 2022
+Game Start Time: 2022-09-05T20:11:06Z
+Game End Time: 2022-09-05T20:56:04Z
+Rounds ended by ELIMINATION count: 11
+Rounds ended by DEFUSE count: 4
+Rounds ended by DETONATE count: 1
+SPIKE PLANTED count: 5
+platformGameId: val:17cc89a8-219b-4792-8a3b-01e589908eb2
+
+--- Events ---
+Game started at 2022-09-05T20:11:06Z
+zekken killed ANGE1  in round 1
+Zyppan killed zekken  in round 1
+dephh killed Zyppan  in round 1
+suygetsu killed dephh  in round 1
+ardiis killed Cryo  in round 1
+ardiis killed AYRIN  in round 1
+ardiis killed BcJ  in round 1
+Round 1 ended with elimination. The winning team is FunPlus Phoenix.
+The current score is FunPlus Phoenix 1 - 0 None.
+Zyppan killed zekken  in round 2
+dephh killed Zyppan  in round 2
+ardiis killed dephh  in round 2
+ardiis killed BcJ  in round 2
+AYRIN killed ardiis  in round 2
+ANGE1 killed AYRIN  in round 2
+Shao killed Cryo  in round 2
+Round 2 ended with elimination. The winning team is FunPlus Phoenix.
+The current score is FunPlus Phoenix 2 - 0 None.
+ardiis killed Cryo  in round 3
+dephh killed ardiis  in round 3
+zekken killed suygetsu  in round 3
+Shao killed zekken  in round 3
+ANGE1 killed dephh  in round 3
+AYRIN killed ANGE1  in round 3
+AYRIN killed Zyppan  in round 3
+AYRIN killed Shao  in round 3
+Round 3 ended with spike_defuse. The winning team is None.
+The current score is FunPlus Phoenix 2 - 1 None.
+ANGE1 killed zekken  in round 4
+ANGE1 killed dephh  in round 4
+ardiis killed BcJ  in round 4
+Cryo killed ardiis  in round 4
+suygetsu killed AYRIN  in round 4
+Cryo killed suygetsu  in round 4
+Round 4 ended with detonate. The winning team is FunPlus Phoenix.
+The current score is FunPlus Phoenix 3 - 1 None.
+Cryo killed ANGE1  in round 5
+suygetsu killed Cryo  in round 5
+ardiis killed dephh  in round 5
+ardiis killed AYRIN  in round 5
+suygetsu killed zekken  in round 5
+BcJ killed ardiis  in round 5
+suygetsu killed BcJ  in round 5
+Round 5 ended with elimination. The winning team is FunPlus Phoenix.
+The current score is FunPlus Phoenix 4 - 1 None.
+Cryo killed ANGE1  in round 6
+Cryo killed ardiis  in round 6
+zekken killed Zyppan  in round 6
+Shao killed zekken  in round 6
+Round 6 ended with time_expired. The winning team is None.
+The current score is FunPlus Phoenix 4 - 2 None.
+ardiis killed Cryo  in round 7
+AYRIN killed Shao  in round 7
+AYRIN killed Zyppan  in round 7
+ANGE1 killed AYRIN  in round 7
+ardiis killed zekken  in round 7
+ardiis killed BcJ  in round 7
+dephh killed ardiis  in round 7
+suygetsu killed dephh  in round 7
+Round 7 ended with elimination. The winning team is FunPlus Phoenix.
+The current score is FunPlus Phoenix 5 - 2 None.
+Zyppan killed zekken  in round 8
+ardiis killed AYRIN  in round 8
+BcJ killed Shao  in round 8
+ardiis killed BcJ  in round 8
+suygetsu killed Cryo  in round 8
+dephh killed suygetsu  in round 8
+dephh killed ANGE1  in round 8
+ardiis killed dephh  in round 8
+Round 8 ended with elimination. The winning team is FunPlus Phoenix.
+The current score is FunPlus Phoenix 6 - 2 None.
+suygetsu killed AYRIN  in round 9
+Zyppan killed BcJ  in round 9
+suygetsu killed dephh  in round 9
+Zyppan killed Cryo  in round 9
+zekken killed Zyppan  in round 9
+ANGE1 killed zekken  in round 9
+Round 9 ended with elimination. The winning team is FunPlus Phoenix.
+The current score is FunPlus Phoenix 7 - 2 None.
+ardiis killed Cryo  in round 10
+BcJ killed ardiis  in round 10
+zekken killed Shao  in round 10
+Cryo killed suygetsu  in round 10
+AYRIN killed ANGE1  in round 10
+AYRIN killed Zyppan  in round 10
+Round 10 ended with spike_defuse. The winning team is None.
+The current score is FunPlus Phoenix 7 - 3 None.
+ardiis killed zekken  in round 11
+dephh killed ardiis  in round 11
+Shao killed dephh  in round 11
+Cryo killed ANGE1  in round 11
+BcJ killed suygetsu  in round 11
+Zyppan killed Cryo  in round 11
+BcJ killed Shao  in round 11
+AYRIN killed Zyppan  in round 11
+Round 11 ended with spike_defuse. The winning team is None.
+The current score is FunPlus Phoenix 7 - 4 None.
+Zyppan killed AYRIN  in round 12
+Zyppan killed zekken  in round 12
+suygetsu killed dephh  in round 12
+Cryo killed Shao  in round 12
+BcJ killed ANGE1  in round 12
+suygetsu killed BcJ  in round 12
+Cryo killed Zyppan  in round 12
+Cryo killed suygetsu  in round 12
+ardiis killed Cryo  in round 12
+Round 12 ended with elimination. The winning team is FunPlus Phoenix.
+The current score is FunPlus Phoenix 8 - 4 None.
+ardiis killed zekken  in round 13
+ardiis killed BcJ  in round 13
+ardiis killed AYRIN  in round 13
+ardiis killed Cryo  in round 13
+ardiis killed dephh  in round 13
+Round 13 ended with elimination. The winning team is FunPlus Phoenix.
+The current score is FunPlus Phoenix 9 - 4 None.
+ardiis killed Cryo  in round 14
+ANGE1 killed zekken  in round 14
+BcJ killed ardiis  in round 14
+suygetsu killed BcJ  in round 14
+dephh killed suygetsu  in round 14
+ANGE1 killed AYRIN  in round 14
+ANGE1 killed dephh  in round 14
+Round 14 ended with elimination. The winning team is FunPlus Phoenix.
+The current score is FunPlus Phoenix 10 - 4 None.
+ANGE1 killed zekken  in round 15
+dephh killed ANGE1  in round 15
+suygetsu killed dephh  in round 15
+AYRIN killed Zyppan  in round 15
+ardiis killed BcJ  in round 15
+ardiis killed AYRIN  in round 15
+Cryo killed Shao  in round 15
+ardiis killed Cryo  in round 15
+Round 15 ended with spike_defuse. The winning team is FunPlus Phoenix.
+The current score is FunPlus Phoenix 11 - 4 None.
+Zyppan killed Cryo  in round 16
+Zyppan killed AYRIN  in round 16
+Shao killed zekken  in round 16
+BcJ killed Zyppan  in round 16
+Shao killed BcJ  in round 16
+Shao killed dephh  in round 16
+Round 16 ended with elimination. The winning team is FunPlus Phoenix.
+The current score is FunPlus Phoenix 12 - 4 None.
+Cryo killed suygetsu  in round 17
+ardiis killed BcJ  in round 17
+ardiis killed zekken  in round 17
+Cryo killed ardiis  in round 17
+Shao killed Cryo  in round 17
+ANGE1 killed AYRIN  in round 17
+Shao killed dephh  in round 17
+Round 17 ended with elimination. The winning team is FunPlus Phoenix.
+The current score is FunPlus Phoenix 13 - 4 None.
+Game ended with winning team: FunPlus Phoenix at 2022-09-05T20:56:04Z
+
+--- Player Stats ---
+BcJ: Team=None, Kills=8, Deaths=13, Assists=6, KDA=1.08, First Kills=0, First Deaths=0
+zekken: Team=None, Kills=5, Deaths=16, Assists=1, KDA=0.38, First Kills=1, First Deaths=6
+dephh: Team=None, Kills=9, Deaths=15, Assists=5, KDA=0.93, First Kills=0, First Deaths=0
+AYRIN: Team=None, Kills=10, Deaths=13, Assists=1, KDA=0.85, First Kills=0, First Deaths=2
+Cryo: Team=None, Kills=13, Deaths=15, Assists=3, KDA=1.07, First Kills=3, First Deaths=5
+suygetsu: Team=FunPlus Phoenix, Kills=13, Deaths=8, Assists=12, KDA=3.12, First Kills=1, First Deaths=1
+ardiis: Team=FunPlus Phoenix, Kills=29, Deaths=10, Assists=1, KDA=3.0, First Kills=6, First Deaths=0
+ANGE1: Team=FunPlus Phoenix, Kills=11, Deaths=9, Assists=3, KDA=1.56, First Kills=2, First Deaths=3
+Shao: Team=FunPlus Phoenix, Kills=9, Deaths=7, Assists=3, KDA=1.71, First Kills=0, First Deaths=0
+Zyppan: Team=FunPlus Phoenix, Kills=10, Deaths=11, Assists=5, KDA=1.36, First Kills=4, First Deaths=0

@@ -1,0 +1,198 @@
+Team 1: Team Vitality
+Team 2: Leviatán Esports
+Participating Players:
+Player 1: aspas
+Player 2: tex
+Player 3: kiNgg
+Player 4: C0M
+Player 5: Mazino
+Player 6: Kicks
+Player 7: runneR
+Player 8: ceNder
+Player 9: Sayf
+Player 10: Trexx
+Winning Team: Leviatán Esports
+Score: Team Vitality 4 - 13 Leviatán Esports
+Tournament Name: vct champions 2024
+Game Start Time: 2024-08-11T09:13:53Z
+Game End Time: 2024-08-11T09:50:11Z
+Rounds ended by ELIMINATION count: 13
+Rounds ended by DEFUSE count: 3
+Rounds ended by DETONATE count: 0
+SPIKE PLANTED count: 3
+platformGameId: val:51e2ba8f-f267-458c-98fa-6b0b6b690827
+
+--- Events ---
+Game started at 2024-08-11T09:13:53Z
+aspas killed Sayf  in round 1
+Trexx killed tex  in round 1
+kiNgg killed Kicks  in round 1
+aspas killed runneR  in round 1
+ceNder killed Mazino  in round 1
+ceNder killed kiNgg  in round 1
+aspas killed ceNder  in round 1
+Trexx killed C0M  in round 1
+aspas killed Trexx  in round 1
+Round 1 ended with spike_defuse. The winning team is Leviatán Esports.
+The current score is Team Vitality 0 - 1 Leviatán Esports.
+tex killed ceNder  in round 2
+tex killed Sayf  in round 2
+aspas killed Kicks  in round 2
+aspas killed runneR  in round 2
+C0M killed Trexx  in round 2
+Round 2 ended with elimination. The winning team is Leviatán Esports.
+The current score is Team Vitality 0 - 2 Leviatán Esports.
+C0M killed Trexx  in round 3
+Sayf killed C0M  in round 3
+aspas killed Sayf  in round 3
+runneR killed aspas  in round 3
+kiNgg killed Kicks  in round 3
+tex killed runneR  in round 3
+ceNder killed Mazino  in round 3
+kiNgg killed ceNder  in round 3
+Round 3 ended with elimination. The winning team is Leviatán Esports.
+The current score is Team Vitality 0 - 3 Leviatán Esports.
+Sayf killed tex  in round 4
+Trexx killed aspas  in round 4
+Mazino killed runneR  in round 4
+C0M killed Trexx  in round 4
+Mazino killed Sayf  in round 4
+Kicks killed Mazino  in round 4
+kiNgg killed Kicks  in round 4
+C0M killed ceNder  in round 4
+Round 4 ended with spike_defuse. The winning team is Leviatán Esports.
+The current score is Team Vitality 0 - 4 Leviatán Esports.
+C0M killed Trexx  in round 5
+Sayf killed aspas  in round 5
+Sayf killed Mazino  in round 5
+Sayf killed kiNgg  in round 5
+C0M killed Kicks  in round 5
+C0M killed ceNder  in round 5
+runneR killed tex  in round 5
+C0M killed Sayf  in round 5
+C0M killed runneR  in round 5
+Round 5 ended with spike_defuse. The winning team is Leviatán Esports.
+The current score is Team Vitality 0 - 5 Leviatán Esports.
+aspas killed runneR  in round 6
+Mazino killed ceNder  in round 6
+Kicks killed C0M  in round 6
+Sayf killed Mazino  in round 6
+Kicks killed tex  in round 6
+Trexx killed kiNgg  in round 6
+Sayf killed aspas  in round 6
+Round 6 ended with elimination. The winning team is Team Vitality.
+The current score is Team Vitality 1 - 5 Leviatán Esports.
+kiNgg killed ceNder  in round 7
+aspas killed Sayf  in round 7
+kiNgg killed Kicks  in round 7
+kiNgg killed Trexx  in round 7
+runneR killed tex  in round 7
+aspas killed runneR  in round 7
+Round 7 ended with elimination. The winning team is Leviatán Esports.
+The current score is Team Vitality 1 - 6 Leviatán Esports.
+tex killed Kicks  in round 8
+tex killed ceNder  in round 8
+Sayf killed tex  in round 8
+Mazino killed Sayf  in round 8
+C0M killed runneR  in round 8
+kiNgg killed Trexx  in round 8
+Round 8 ended with elimination. The winning team is Leviatán Esports.
+The current score is Team Vitality 1 - 7 Leviatán Esports.
+Mazino killed Sayf  in round 9
+tex killed runneR  in round 9
+Trexx killed tex  in round 9
+Kicks killed kiNgg  in round 9
+Mazino killed Kicks  in round 9
+ceNder killed Mazino  in round 9
+aspas killed ceNder  in round 9
+aspas killed Trexx  in round 9
+Round 9 ended with elimination. The winning team is Leviatán Esports.
+The current score is Team Vitality 1 - 8 Leviatán Esports.
+tex killed Kicks  in round 10
+tex killed ceNder  in round 10
+tex killed Sayf  in round 10
+kiNgg killed runneR  in round 10
+Trexx killed tex  in round 10
+Trexx killed Mazino  in round 10
+aspas killed Trexx  in round 10
+Round 10 ended with elimination. The winning team is Leviatán Esports.
+The current score is Team Vitality 1 - 9 Leviatán Esports.
+kiNgg killed runneR  in round 11
+C0M killed ceNder  in round 11
+C0M killed Trexx  in round 11
+C0M killed Kicks  in round 11
+Sayf killed C0M  in round 11
+Sayf killed aspas  in round 11
+Mazino killed Sayf  in round 11
+Round 11 ended with elimination. The winning team is Leviatán Esports.
+The current score is Team Vitality 1 - 10 Leviatán Esports.
+runneR killed tex  in round 12
+runneR killed aspas  in round 12
+Mazino killed runneR  in round 12
+Trexx killed Mazino  in round 12
+ceNder killed kiNgg  in round 12
+Trexx killed C0M  in round 12
+Round 12 ended with elimination. The winning team is Team Vitality.
+The current score is Team Vitality 2 - 10 Leviatán Esports.
+Trexx killed Mazino  in round 13
+tex killed Trexx  in round 13
+Sayf killed aspas  in round 13
+Sayf killed kiNgg  in round 13
+tex killed Kicks  in round 13
+ceNder killed tex  in round 13
+ceNder killed C0M  in round 13
+Round 13 ended with elimination. The winning team is Team Vitality.
+The current score is Team Vitality 3 - 10 Leviatán Esports.
+tex killed ceNder  in round 14
+tex killed Sayf  in round 14
+Trexx killed aspas  in round 14
+C0M killed Trexx  in round 14
+runneR killed tex  in round 14
+runneR killed C0M  in round 14
+Mazino killed runneR  in round 14
+Round 14 ended with time_expired. The winning team is Team Vitality.
+The current score is Team Vitality 4 - 10 Leviatán Esports.
+Kicks killed Mazino  in round 15
+ceNder killed aspas  in round 15
+Mazino killed ceNder  in round 15
+Kicks killed tex  in round 15
+Mazino killed Kicks  in round 15
+Mazino killed runneR  in round 15
+C0M killed Trexx  in round 15
+Sayf killed C0M  in round 15
+Sayf killed kiNgg  in round 15
+Mazino killed Sayf  in round 15
+Round 15 ended with elimination. The winning team is Leviatán Esports.
+The current score is Team Vitality 4 - 11 Leviatán Esports.
+kiNgg killed Sayf  in round 16
+Mazino killed Kicks  in round 16
+runneR killed kiNgg  in round 16
+Trexx killed Mazino  in round 16
+tex killed runneR  in round 16
+tex killed Trexx  in round 16
+aspas killed ceNder  in round 16
+Round 16 ended with elimination. The winning team is Leviatán Esports.
+The current score is Team Vitality 4 - 12 Leviatán Esports.
+Mazino killed Kicks  in round 17
+aspas killed Sayf  in round 17
+tex killed ceNder  in round 17
+kiNgg killed Trexx  in round 17
+runneR killed kiNgg  in round 17
+runneR killed aspas  in round 17
+runneR killed Mazino  in round 17
+C0M killed runneR  in round 17
+Round 17 ended with elimination. The winning team is Leviatán Esports.
+The current score is Team Vitality 4 - 13 Leviatán Esports.
+Game ended with winning team: Leviatán Esports at 2024-08-11T09:50:11Z
+
+--- Player Stats ---
+aspas: Team=Leviatán Esports, Kills=15, Deaths=10, Assists=5, KDA=2.0, First Kills=2, First Deaths=0
+tex: Team=Leviatán Esports, Kills=16, Deaths=12, Assists=7, KDA=1.92, First Kills=4, First Deaths=2
+kiNgg: Team=Leviatán Esports, Kills=12, Deaths=9, Assists=2, KDA=1.56, First Kills=3, First Deaths=0
+C0M: Team=Leviatán Esports, Kills=16, Deaths=8, Assists=3, KDA=2.38, First Kills=2, First Deaths=0
+Mazino: Team=Leviatán Esports, Kills=15, Deaths=12, Assists=14, KDA=2.42, First Kills=2, First Deaths=2
+Kicks: Team=Team Vitality, Kills=6, Deaths=14, Assists=11, KDA=1.21, First Kills=1, First Deaths=3
+runneR: Team=Team Vitality, Kills=11, Deaths=16, Assists=6, KDA=1.06, First Kills=1, First Deaths=2
+ceNder: Team=Team Vitality, Kills=8, Deaths=15, Assists=5, KDA=0.87, First Kills=0, First Deaths=3
+Sayf: Team=Team Vitality, Kills=14, Deaths=14, Assists=3, KDA=1.21, First Kills=1, First Deaths=3
+Trexx: Team=Team Vitality, Kills=12, Deaths=15, Assists=2, KDA=0.93, First Kills=1, First Deaths=2

@@ -1,0 +1,218 @@
+Team 1: Leviatán Esports
+Team 2: Gen.G Esports
+Participating Players:
+Player 1: t3xture
+Player 2: Lakia
+Player 3: Munchkin
+Player 4: Meteor 
+Player 5: Karon
+Player 6: aspas
+Player 7: tex
+Player 8: kiNgg
+Player 9: C0M
+Player 10: Mazino
+Winning Team: Leviatán Esports
+Score: Leviatán Esports 13 - 7 Gen.G Esports
+Tournament Name: vct masters shanghai 2024
+Game Start Time: 2024-05-24T07:54:08Z
+Game End Time: 2024-05-24T08:47:16Z
+Rounds ended by ELIMINATION count: 15
+Rounds ended by DEFUSE count: 3
+Rounds ended by DETONATE count: 1
+SPIKE PLANTED count: 4
+platformGameId: val:06471e92-63f5-4705-accd-c1dad02ac5f4
+
+--- Events ---
+Game started at 2024-05-24T07:54:08Z
+Lakia killed aspas  in round 1
+Meteor  killed Mazino  in round 1
+C0M killed Meteor   in round 1
+kiNgg killed Munchkin  in round 1
+tex killed Lakia  in round 1
+kiNgg killed Karon  in round 1
+t3xture killed kiNgg  in round 1
+t3xture killed tex  in round 1
+C0M killed t3xture  in round 1
+Round 1 ended with elimination. The winning team is Leviatán Esports.
+The current score is Leviatán Esports 1 - 0 Gen.G Esports.
+Mazino killed t3xture  in round 2
+aspas killed Lakia  in round 2
+Mazino killed Munchkin  in round 2
+Mazino killed Karon  in round 2
+aspas killed Meteor   in round 2
+Round 2 ended with elimination. The winning team is Leviatán Esports.
+The current score is Leviatán Esports 2 - 0 Gen.G Esports.
+Munchkin killed aspas  in round 3
+Lakia killed kiNgg  in round 3
+Mazino killed Munchkin  in round 3
+tex killed t3xture  in round 3
+Meteor  killed Mazino  in round 3
+C0M killed Meteor   in round 3
+Lakia killed C0M  in round 3
+tex killed Karon  in round 3
+Lakia killed tex  in round 3
+Round 3 ended with spike_defuse. The winning team is Gen.G Esports.
+The current score is Leviatán Esports 2 - 1 Gen.G Esports.
+tex killed t3xture  in round 4
+aspas killed Meteor   in round 4
+kiNgg killed Munchkin  in round 4
+Lakia killed kiNgg  in round 4
+Lakia killed Mazino  in round 4
+Karon killed aspas  in round 4
+Karon killed tex  in round 4
+C0M killed Karon  in round 4
+C0M killed Lakia  in round 4
+Round 4 ended with elimination. The winning team is Leviatán Esports.
+The current score is Leviatán Esports 3 - 1 Gen.G Esports.
+aspas killed t3xture  in round 5
+kiNgg killed Meteor   in round 5
+Lakia killed aspas  in round 5
+Lakia killed kiNgg  in round 5
+Mazino killed Lakia  in round 5
+C0M killed Karon  in round 5
+tex killed Munchkin  in round 5
+Round 5 ended with elimination. The winning team is Leviatán Esports.
+The current score is Leviatán Esports 4 - 1 Gen.G Esports.
+aspas killed Karon  in round 6
+aspas killed Lakia  in round 6
+Mazino killed Munchkin  in round 6
+aspas killed t3xture  in round 6
+aspas killed Meteor   in round 6
+Round 6 ended with elimination. The winning team is Leviatán Esports.
+The current score is Leviatán Esports 5 - 1 Gen.G Esports.
+Munchkin killed kiNgg  in round 7
+Lakia killed aspas  in round 7
+Karon killed Mazino  in round 7
+Karon killed C0M  in round 7
+Lakia killed tex  in round 7
+Round 7 ended with spike_defuse. The winning team is Gen.G Esports.
+The current score is Leviatán Esports 5 - 2 Gen.G Esports.
+t3xture killed tex  in round 8
+Meteor  killed aspas  in round 8
+Meteor  killed C0M  in round 8
+kiNgg killed Meteor   in round 8
+kiNgg killed Karon  in round 8
+Munchkin killed kiNgg  in round 8
+Munchkin killed Mazino  in round 8
+Round 8 ended with elimination. The winning team is Gen.G Esports.
+The current score is Leviatán Esports 5 - 3 Gen.G Esports.
+Lakia killed kiNgg  in round 9
+aspas killed Lakia  in round 9
+C0M killed Munchkin  in round 9
+Meteor  killed C0M  in round 9
+aspas killed Karon  in round 9
+aspas killed t3xture  in round 9
+Meteor  killed tex  in round 9
+Mazino killed Meteor   in round 9
+Round 9 ended with elimination. The winning team is Leviatán Esports.
+The current score is Leviatán Esports 6 - 3 Gen.G Esports.
+Meteor  killed aspas  in round 10
+Meteor  killed C0M  in round 10
+Munchkin killed Mazino  in round 10
+tex killed t3xture  in round 10
+Meteor  killed kiNgg  in round 10
+tex killed Meteor   in round 10
+Munchkin killed tex  in round 10
+Round 10 ended with elimination. The winning team is Gen.G Esports.
+The current score is Leviatán Esports 6 - 4 Gen.G Esports.
+Karon killed aspas  in round 11
+Karon killed C0M  in round 11
+Mazino killed Munchkin  in round 11
+Meteor  killed tex  in round 11
+Karon killed kiNgg  in round 11
+Meteor  killed Mazino  in round 11
+Round 11 ended with elimination. The winning team is Gen.G Esports.
+The current score is Leviatán Esports 6 - 5 Gen.G Esports.
+kiNgg killed Munchkin  in round 12
+C0M killed Karon  in round 12
+kiNgg killed Lakia  in round 12
+t3xture killed Mazino  in round 12
+Meteor  killed aspas  in round 12
+tex killed Meteor   in round 12
+kiNgg killed t3xture  in round 12
+Round 12 ended with elimination. The winning team is Leviatán Esports.
+The current score is Leviatán Esports 7 - 5 Gen.G Esports.
+kiNgg killed Karon  in round 13
+Meteor  killed kiNgg  in round 13
+aspas killed Meteor   in round 13
+t3xture killed aspas  in round 13
+Lakia killed Mazino  in round 13
+C0M killed Lakia  in round 13
+tex killed Munchkin  in round 13
+C0M killed t3xture  in round 13
+Round 13 ended with spike_defuse. The winning team is Leviatán Esports.
+The current score is Leviatán Esports 8 - 5 Gen.G Esports.
+C0M killed Lakia  in round 14
+tex killed t3xture  in round 14
+Mazino killed Munchkin  in round 14
+kiNgg killed Karon  in round 14
+Meteor  killed tex  in round 14
+Mazino killed Meteor   in round 14
+Round 14 ended with elimination. The winning team is Leviatán Esports.
+The current score is Leviatán Esports 9 - 5 Gen.G Esports.
+Mazino killed Karon  in round 15
+Lakia killed Mazino  in round 15
+kiNgg killed Lakia  in round 15
+Munchkin killed kiNgg  in round 15
+tex killed Meteor   in round 15
+t3xture killed tex  in round 15
+C0M killed t3xture  in round 15
+Munchkin killed C0M  in round 15
+aspas killed Munchkin  in round 15
+aspas killed aspas  in round 15
+Round 15 ended with elimination. The winning team is Gen.G Esports.
+The current score is Leviatán Esports 9 - 6 Gen.G Esports.
+aspas killed Meteor   in round 16
+aspas killed t3xture  in round 16
+aspas killed Karon  in round 16
+Round 16 ended with time_expired. The winning team is Leviatán Esports.
+The current score is Leviatán Esports 10 - 6 Gen.G Esports.
+C0M killed Karon  in round 17
+tex killed Munchkin  in round 17
+C0M killed Meteor   in round 17
+tex killed Lakia  in round 17
+t3xture killed tex  in round 17
+Mazino killed t3xture  in round 17
+Round 17 ended with elimination. The winning team is Leviatán Esports.
+The current score is Leviatán Esports 11 - 6 Gen.G Esports.
+tex killed Meteor   in round 18
+Karon killed aspas  in round 18
+Karon killed kiNgg  in round 18
+Mazino killed Karon  in round 18
+C0M killed Munchkin  in round 18
+tex killed Lakia  in round 18
+t3xture killed Mazino  in round 18
+C0M killed t3xture  in round 18
+Round 18 ended with detonate. The winning team is Gen.G Esports.
+The current score is Leviatán Esports 11 - 7 Gen.G Esports.
+C0M killed C0M  in round 19
+tex killed tex  in round 19
+aspas killed t3xture  in round 19
+tex killed Meteor   in round 19
+aspas killed Karon  in round 19
+Munchkin killed Mazino  in round 19
+aspas killed Lakia  in round 19
+Munchkin killed C0M  in round 19
+tex killed Munchkin  in round 19
+Round 19 ended with elimination. The winning team is Leviatán Esports.
+The current score is Leviatán Esports 12 - 7 Gen.G Esports.
+aspas killed Lakia  in round 20
+tex killed Meteor   in round 20
+tex killed t3xture  in round 20
+aspas killed Munchkin  in round 20
+tex killed Karon  in round 20
+Round 20 ended with elimination. The winning team is Leviatán Esports.
+The current score is Leviatán Esports 13 - 7 Gen.G Esports.
+Game ended with winning team: Leviatán Esports at 2024-05-24T08:47:16Z
+
+--- Player Stats ---
+t3xture: Team=Gen.G Esports, Kills=8, Deaths=17, Assists=3, KDA=0.65, First Kills=1, First Deaths=3
+Lakia: Team=Gen.G Esports, Kills=13, Deaths=14, Assists=2, KDA=1.07, First Kills=2, First Deaths=2
+Munchkin: Team=Gen.G Esports, Kills=10, Deaths=16, Assists=8, KDA=1.12, First Kills=2, First Deaths=1
+Meteor : Team=Gen.G Esports, Kills=14, Deaths=18, Assists=1, KDA=0.83, First Kills=1, First Deaths=2
+Karon: Team=Gen.G Esports, Kills=9, Deaths=17, Assists=9, KDA=1.06, First Kills=1, First Deaths=4
+aspas: Team=Leviatán Esports, Kills=22, Deaths=12, Assists=4, KDA=2.17, First Kills=4, First Deaths=4
+tex: Team=Leviatán Esports, Kills=21, Deaths=12, Assists=9, KDA=2.5, First Kills=2, First Deaths=1
+kiNgg: Team=Leviatán Esports, Kills=12, Deaths=12, Assists=10, KDA=1.83, First Kills=2, First Deaths=2
+C0M: Team=Leviatán Esports, Kills=17, Deaths=9, Assists=7, KDA=2.67, First Kills=3, First Deaths=1
+Mazino: Team=Leviatán Esports, Kills=13, Deaths=12, Assists=7, KDA=1.67, First Kills=2, First Deaths=0

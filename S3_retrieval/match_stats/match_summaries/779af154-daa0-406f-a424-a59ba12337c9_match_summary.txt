@@ -1,0 +1,278 @@
+Team 1: Futbolist
+Team 2: Evil Geniuses
+Participating Players:
+Player 1: Demon1
+Player 2: Ethan
+Player 3: JAWGEMO
+Player 4: C0M
+Player 5: Boostio
+Player 6: ATA KAPTAN
+Player 7: mojj
+Player 8: MrFaliN
+Player 9: qw1
+Player 10: qRaxs
+Winning Team: Evil Geniuses
+Score: Futbolist 12 - 14 Evil Geniuses
+Tournament Name: vct masters 2023 groups
+Game Start Time: 2023-06-11T04:09:56Z
+Game End Time: 2023-06-11T05:10:09Z
+Rounds ended by ELIMINATION count: 16
+Rounds ended by DEFUSE count: 7
+Rounds ended by DETONATE count: 2
+SPIKE PLANTED count: 9
+platformGameId: val:779af154-daa0-406f-a424-a59ba12337c9
+
+--- Events ---
+Game started at 2023-06-11T04:09:56Z
+Demon1 killed qw1  in round 1
+Ethan killed qRaxs  in round 1
+Boostio killed ATA KAPTAN  in round 1
+mojj killed Boostio  in round 1
+JAWGEMO killed mojj  in round 1
+MrFaliN killed C0M  in round 1
+JAWGEMO killed MrFaliN  in round 1
+Round 1 ended with spike_defuse. The winning team is Evil Geniuses.
+The current score is Futbolist 0 - 1 Evil Geniuses.
+C0M killed qw1  in round 2
+C0M killed ATA KAPTAN  in round 2
+Boostio killed qRaxs  in round 2
+Boostio killed MrFaliN  in round 2
+Boostio killed mojj  in round 2
+Round 2 ended with elimination. The winning team is Evil Geniuses.
+The current score is Futbolist 0 - 2 Evil Geniuses.
+Boostio killed qw1  in round 3
+JAWGEMO killed ATA KAPTAN  in round 3
+qRaxs killed Ethan  in round 3
+C0M killed qRaxs  in round 3
+mojj killed JAWGEMO  in round 3
+mojj killed Demon1  in round 3
+MrFaliN killed Boostio  in round 3
+C0M killed MrFaliN  in round 3
+mojj killed C0M  in round 3
+Round 3 ended with elimination. The winning team is Futbolist.
+The current score is Futbolist 1 - 2 Evil Geniuses.
+Boostio killed mojj  in round 4
+Boostio killed ATA KAPTAN  in round 4
+qw1 killed JAWGEMO  in round 4
+Boostio killed qRaxs  in round 4
+qw1 killed Boostio  in round 4
+MrFaliN killed C0M  in round 4
+MrFaliN killed Ethan  in round 4
+qw1 killed Demon1  in round 4
+Round 4 ended with elimination. The winning team is Futbolist.
+The current score is Futbolist 2 - 2 Evil Geniuses.
+MrFaliN killed Ethan  in round 5
+qw1 killed Boostio  in round 5
+C0M killed qw1  in round 5
+ATA KAPTAN killed C0M  in round 5
+JAWGEMO killed qRaxs  in round 5
+mojj killed JAWGEMO  in round 5
+MrFaliN killed Demon1  in round 5
+Round 5 ended with elimination. The winning team is Futbolist.
+The current score is Futbolist 3 - 2 Evil Geniuses.
+Boostio killed qw1  in round 6
+Boostio killed ATA KAPTAN  in round 6
+Boostio killed MrFaliN  in round 6
+Boostio killed qRaxs  in round 6
+Boostio killed mojj  in round 6
+Round 6 ended with elimination. The winning team is Evil Geniuses.
+The current score is Futbolist 3 - 3 Evil Geniuses.
+JAWGEMO killed qw1  in round 7
+JAWGEMO killed mojj  in round 7
+MrFaliN killed C0M  in round 7
+ATA KAPTAN killed JAWGEMO  in round 7
+ATA KAPTAN killed Boostio  in round 7
+Ethan killed qRaxs  in round 7
+Round 7 ended with detonate. The winning team is Futbolist.
+The current score is Futbolist 4 - 3 Evil Geniuses.
+qw1 killed C0M  in round 8
+Boostio killed qw1  in round 8
+Boostio killed ATA KAPTAN  in round 8
+qRaxs killed Boostio  in round 8
+Demon1 killed MrFaliN  in round 8
+qRaxs killed Ethan  in round 8
+JAWGEMO killed mojj  in round 8
+qRaxs killed Demon1  in round 8
+JAWGEMO killed qRaxs  in round 8
+Round 8 ended with spike_defuse. The winning team is Evil Geniuses.
+The current score is Futbolist 4 - 4 Evil Geniuses.
+Demon1 killed qw1  in round 9
+Ethan killed mojj  in round 9
+MrFaliN killed Demon1  in round 9
+qRaxs killed C0M  in round 9
+qRaxs killed Boostio  in round 9
+Ethan killed MrFaliN  in round 9
+ATA KAPTAN killed Ethan  in round 9
+Round 9 ended with spike_defuse. The winning team is Evil Geniuses.
+The current score is Futbolist 4 - 5 Evil Geniuses.
+ATA KAPTAN killed JAWGEMO  in round 10
+qw1 killed C0M  in round 10
+Boostio killed ATA KAPTAN  in round 10
+Boostio killed mojj  in round 10
+Boostio killed qw1  in round 10
+MrFaliN killed Boostio  in round 10
+Boostio killed MrFaliN  in round 10
+JAWGEMO killed qRaxs  in round 10
+Round 10 ended with elimination. The winning team is Evil Geniuses.
+The current score is Futbolist 4 - 6 Evil Geniuses.
+Boostio killed qw1  in round 11
+ATA KAPTAN killed Boostio  in round 11
+qRaxs killed JAWGEMO  in round 11
+ATA KAPTAN killed C0M  in round 11
+MrFaliN killed Demon1  in round 11
+MrFaliN killed Ethan  in round 11
+Round 11 ended with elimination. The winning team is Futbolist.
+The current score is Futbolist 5 - 6 Evil Geniuses.
+qw1 killed Demon1  in round 12
+JAWGEMO killed qw1  in round 12
+mojj killed C0M  in round 12
+JAWGEMO killed qRaxs  in round 12
+ATA KAPTAN killed JAWGEMO  in round 12
+Boostio killed mojj  in round 12
+ATA KAPTAN killed Boostio  in round 12
+ATA KAPTAN killed Ethan  in round 12
+Round 12 ended with elimination. The winning team is Futbolist.
+The current score is Futbolist 6 - 6 Evil Geniuses.
+qRaxs killed Demon1  in round 13
+Ethan killed qRaxs  in round 13
+Boostio killed qw1  in round 13
+MrFaliN killed C0M  in round 13
+Boostio killed MrFaliN  in round 13
+mojj killed JAWGEMO  in round 13
+Ethan killed ATA KAPTAN  in round 13
+Ethan killed mojj  in round 13
+Round 13 ended with elimination. The winning team is Evil Geniuses.
+The current score is Futbolist 6 - 7 Evil Geniuses.
+Demon1 killed qw1  in round 14
+C0M killed mojj  in round 14
+ATA KAPTAN killed C0M  in round 14
+JAWGEMO killed qRaxs  in round 14
+Boostio killed MrFaliN  in round 14
+ATA KAPTAN killed JAWGEMO  in round 14
+Boostio killed ATA KAPTAN  in round 14
+Round 14 ended with elimination. The winning team is Evil Geniuses.
+The current score is Futbolist 6 - 8 Evil Geniuses.
+mojj killed Boostio  in round 15
+Demon1 killed mojj  in round 15
+ATA KAPTAN killed JAWGEMO  in round 15
+qw1 killed Ethan  in round 15
+C0M killed qRaxs  in round 15
+Demon1 killed qw1  in round 15
+ATA KAPTAN killed Demon1  in round 15
+Round 15 ended with spike_defuse. The winning team is Futbolist.
+The current score is Futbolist 7 - 8 Evil Geniuses.
+ATA KAPTAN killed C0M  in round 16
+qw1 killed Demon1  in round 16
+qw1 killed JAWGEMO  in round 16
+Ethan killed mojj  in round 16
+Boostio killed ATA KAPTAN  in round 16
+Ethan killed MrFaliN  in round 16
+qw1 killed Boostio  in round 16
+qw1 killed Ethan  in round 16
+C0M killed qw1  in round 16
+C0M killed qRaxs  in round 16
+Round 16 ended with elimination. The winning team is Evil Geniuses.
+The current score is Futbolist 7 - 9 Evil Geniuses.
+MrFaliN killed JAWGEMO  in round 17
+qw1 killed Boostio  in round 17
+qw1 killed Ethan  in round 17
+C0M killed mojj  in round 17
+Demon1 killed qw1  in round 17
+qRaxs killed C0M  in round 17
+Demon1 killed qRaxs  in round 17
+Round 17 ended with time_expired. The winning team is Futbolist.
+The current score is Futbolist 8 - 9 Evil Geniuses.
+MrFaliN killed Demon1  in round 18
+qRaxs killed Boostio  in round 18
+Demon1 killed MrFaliN  in round 18
+qRaxs killed Demon1  in round 18
+qRaxs killed JAWGEMO  in round 18
+Ethan killed qRaxs  in round 18
+mojj killed C0M  in round 18
+qw1 killed Ethan  in round 18
+Round 18 ended with elimination. The winning team is Futbolist.
+The current score is Futbolist 9 - 9 Evil Geniuses.
+ATA KAPTAN killed Demon1  in round 19
+ATA KAPTAN killed JAWGEMO  in round 19
+qRaxs killed C0M  in round 19
+qRaxs killed Ethan  in round 19
+qw1 killed Boostio  in round 19
+Round 19 ended with elimination. The winning team is Futbolist.
+The current score is Futbolist 10 - 9 Evil Geniuses.
+qw1 killed Demon1  in round 20
+Ethan killed MrFaliN  in round 20
+JAWGEMO killed qw1  in round 20
+ATA KAPTAN killed Boostio  in round 20
+C0M killed qRaxs  in round 20
+mojj killed JAWGEMO  in round 20
+ATA KAPTAN killed C0M  in round 20
+Ethan killed ATA KAPTAN  in round 20
+mojj killed Ethan  in round 20
+Round 20 ended with spike_defuse. The winning team is Futbolist.
+The current score is Futbolist 11 - 9 Evil Geniuses.
+ATA KAPTAN killed Boostio  in round 21
+Ethan killed ATA KAPTAN  in round 21
+JAWGEMO killed qw1  in round 21
+mojj killed C0M  in round 21
+mojj killed JAWGEMO  in round 21
+Demon1 killed qRaxs  in round 21
+MrFaliN killed Demon1  in round 21
+MrFaliN killed Ethan  in round 21
+Round 21 ended with spike_defuse. The winning team is Futbolist.
+The current score is Futbolist 12 - 9 Evil Geniuses.
+qRaxs killed Demon1  in round 22
+ATA KAPTAN killed JAWGEMO  in round 22
+Boostio killed MrFaliN  in round 22
+Boostio killed qw1  in round 22
+Boostio killed ATA KAPTAN  in round 22
+Boostio killed mojj  in round 22
+qRaxs killed Boostio  in round 22
+qRaxs killed C0M  in round 22
+Ethan killed qRaxs  in round 22
+Round 22 ended with elimination. The winning team is Evil Geniuses.
+The current score is Futbolist 12 - 10 Evil Geniuses.
+Boostio killed ATA KAPTAN  in round 23
+Demon1 killed qRaxs  in round 23
+Boostio killed MrFaliN  in round 23
+Round 23 ended with detonate. The winning team is Evil Geniuses.
+The current score is Futbolist 12 - 11 Evil Geniuses.
+Demon1 killed mojj  in round 24
+Demon1 killed qRaxs  in round 24
+MrFaliN killed Demon1  in round 24
+Ethan killed MrFaliN  in round 24
+JAWGEMO killed qw1  in round 24
+Ethan killed ATA KAPTAN  in round 24
+Round 24 ended with elimination. The winning team is Evil Geniuses.
+The current score is Futbolist 12 - 12 Evil Geniuses.
+qRaxs killed JAWGEMO  in round 25
+Boostio killed ATA KAPTAN  in round 25
+Boostio killed qw1  in round 25
+Ethan killed mojj  in round 25
+qRaxs killed Ethan  in round 25
+Boostio killed MrFaliN  in round 25
+Demon1 killed qRaxs  in round 25
+Round 25 ended with spike_defuse. The winning team is Evil Geniuses.
+The current score is Futbolist 12 - 13 Evil Geniuses.
+Demon1 killed mojj  in round 26
+qw1 killed Demon1  in round 26
+Ethan killed qw1  in round 26
+C0M killed qRaxs  in round 26
+ATA KAPTAN killed JAWGEMO  in round 26
+MrFaliN killed Boostio  in round 26
+Ethan killed MrFaliN  in round 26
+Ethan killed ATA KAPTAN  in round 26
+Round 26 ended with elimination. The winning team is Evil Geniuses.
+The current score is Futbolist 12 - 14 Evil Geniuses.
+Game ended with winning team: Evil Geniuses at 2023-06-11T05:10:09Z
+
+--- Player Stats ---
+Demon1: Team=Evil Geniuses, Kills=15, Deaths=18, Assists=5, KDA=1.11, First Kills=5, First Deaths=6
+Ethan: Team=Evil Geniuses, Kills=20, Deaths=15, Assists=16, KDA=2.4, First Kills=0, First Deaths=1
+JAWGEMO: Team=Evil Geniuses, Kills=15, Deaths=19, Assists=6, KDA=1.11, First Kills=1, First Deaths=3
+C0M: Team=Evil Geniuses, Kills=12, Deaths=19, Assists=12, KDA=1.26, First Kills=1, First Deaths=2
+Boostio: Team=Evil Geniuses, Kills=35, Deaths=19, Assists=5, KDA=2.11, First Kills=5, First Deaths=2
+ATA KAPTAN: Team=Futbolist, Kills=22, Deaths=17, Assists=14, KDA=2.12, First Kills=4, First Deaths=1
+mojj: Team=Futbolist, Kills=13, Deaths=18, Assists=5, KDA=1.0, First Kills=1, First Deaths=3
+MrFaliN: Team=Futbolist, Kills=18, Deaths=17, Assists=9, KDA=1.59, First Kills=3, First Deaths=0
+qw1: Team=Futbolist, Kills=18, Deaths=22, Assists=2, KDA=0.91, First Kills=3, First Deaths=8
+qRaxs: Team=Futbolist, Kills=19, Deaths=23, Assists=13, KDA=1.39, First Kills=3, First Deaths=0

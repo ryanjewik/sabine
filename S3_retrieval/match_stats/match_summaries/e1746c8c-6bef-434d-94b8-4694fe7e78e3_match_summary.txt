@@ -1,0 +1,226 @@
+Team 1: DRX
+Team 2: Attacking Soul Esports
+Participating Players:
+Player 1: Bunt
+Player 2: Life2
+Player 3: YHchen
+Player 4: hfmi0dzjc9z
+Player 5: monk2
+Player 6: Foxy9
+Player 7: BuZz
+Player 8: stax
+Player 9: MaKo
+Player 10: Rb
+Winning Team: DRX
+Score: DRX 13 - 7 Attacking Soul Esports
+Tournament Name: vct masters 2023 groups
+Game Start Time: 2023-06-11T06:50:46Z
+Game End Time: 2023-06-11T07:38:53Z
+Rounds ended by ELIMINATION count: 13
+Rounds ended by DEFUSE count: 5
+Rounds ended by DETONATE count: 2
+SPIKE PLANTED count: 7
+platformGameId: val:e1746c8c-6bef-434d-94b8-4694fe7e78e3
+
+--- Events ---
+Game started at 2023-06-11T06:50:46Z
+Life2 killed stax  in round 1
+Life2 killed Foxy9  in round 1
+Rb killed YHchen  in round 1
+Rb killed Life2  in round 1
+Bunt killed Rb  in round 1
+MaKo killed hfmi0dzjc9z  in round 1
+BuZz killed Bunt  in round 1
+BuZz killed monk2  in round 1
+Round 1 ended with elimination. The winning team is DRX.
+The current score is DRX 1 - 0 Attacking Soul Esports.
+Rb killed Life2  in round 2
+Rb killed YHchen  in round 2
+Foxy9 killed monk2  in round 2
+hfmi0dzjc9z killed Rb  in round 2
+Bunt killed stax  in round 2
+Foxy9 killed Bunt  in round 2
+BuZz killed hfmi0dzjc9z  in round 2
+Round 2 ended with elimination. The winning team is DRX.
+The current score is DRX 2 - 0 Attacking Soul Esports.
+Foxy9 killed YHchen  in round 3
+Bunt killed Foxy9  in round 3
+Rb killed Bunt  in round 3
+Rb killed hfmi0dzjc9z  in round 3
+Life2 killed MaKo  in round 3
+Life2 killed stax  in round 3
+Rb killed Life2  in round 3
+BuZz killed monk2  in round 3
+Round 3 ended with elimination. The winning team is DRX.
+The current score is DRX 3 - 0 Attacking Soul Esports.
+Bunt killed Foxy9  in round 4
+stax killed Bunt  in round 4
+YHchen killed stax  in round 4
+Life2 killed MaKo  in round 4
+YHchen killed Rb  in round 4
+BuZz killed Life2  in round 4
+monk2 killed BuZz  in round 4
+Round 4 ended with spike_defuse. The winning team is Attacking Soul Esports.
+The current score is DRX 3 - 1 Attacking Soul Esports.
+YHchen killed Foxy9  in round 5
+YHchen killed stax  in round 5
+Rb killed Bunt  in round 5
+YHchen killed Rb  in round 5
+YHchen killed BuZz  in round 5
+MaKo killed YHchen  in round 5
+MaKo killed monk2  in round 5
+hfmi0dzjc9z killed MaKo  in round 5
+Round 5 ended with elimination. The winning team is Attacking Soul Esports.
+The current score is DRX 3 - 2 Attacking Soul Esports.
+hfmi0dzjc9z killed MaKo  in round 6
+monk2 killed Foxy9  in round 6
+Rb killed monk2  in round 6
+Foxy9 killed YHchen  in round 6
+BuZz killed hfmi0dzjc9z  in round 6
+BuZz killed Bunt  in round 6
+Round 6 ended with detonate. The winning team is DRX.
+The current score is DRX 4 - 2 Attacking Soul Esports.
+hfmi0dzjc9z killed Foxy9  in round 7
+Rb killed hfmi0dzjc9z  in round 7
+stax killed Bunt  in round 7
+Rb killed monk2  in round 7
+Rb killed YHchen  in round 7
+Life2 killed Rb  in round 7
+Life2 killed MaKo  in round 7
+Round 7 ended with detonate. The winning team is DRX.
+The current score is DRX 5 - 2 Attacking Soul Esports.
+stax killed Life2  in round 8
+MaKo killed Bunt  in round 8
+hfmi0dzjc9z killed MaKo  in round 8
+YHchen killed BuZz  in round 8
+hfmi0dzjc9z killed stax  in round 8
+YHchen killed Foxy9  in round 8
+Rb killed Life2  in round 8
+Rb killed hfmi0dzjc9z  in round 8
+YHchen killed Rb  in round 8
+Round 8 ended with elimination. The winning team is Attacking Soul Esports.
+The current score is DRX 5 - 3 Attacking Soul Esports.
+Life2 killed MaKo  in round 9
+hfmi0dzjc9z killed Foxy9  in round 9
+Rb killed hfmi0dzjc9z  in round 9
+monk2 killed Rb  in round 9
+monk2 killed stax  in round 9
+BuZz killed monk2  in round 9
+BuZz killed Bunt  in round 9
+BuZz killed YHchen  in round 9
+BuZz killed Life2  in round 9
+Round 9 ended with elimination. The winning team is DRX.
+The current score is DRX 6 - 3 Attacking Soul Esports.
+monk2 killed Foxy9  in round 10
+BuZz killed monk2  in round 10
+MaKo killed hfmi0dzjc9z  in round 10
+Life2 killed BuZz  in round 10
+stax killed Life2  in round 10
+Rb killed YHchen  in round 10
+Bunt killed Rb  in round 10
+stax killed Bunt  in round 10
+Round 10 ended with elimination. The winning team is DRX.
+The current score is DRX 7 - 3 Attacking Soul Esports.
+Foxy9 killed monk2  in round 11
+Bunt killed Foxy9  in round 11
+YHchen killed MaKo  in round 11
+BuZz killed hfmi0dzjc9z  in round 11
+Bunt killed stax  in round 11
+Life2 killed Rb  in round 11
+BuZz killed Bunt  in round 11
+YHchen killed BuZz  in round 11
+Round 11 ended with spike_defuse. The winning team is Attacking Soul Esports.
+The current score is DRX 7 - 4 Attacking Soul Esports.
+stax killed hfmi0dzjc9z  in round 12
+monk2 killed stax  in round 12
+Bunt killed Foxy9  in round 12
+Rb killed Bunt  in round 12
+Rb killed monk2  in round 12
+Rb killed Life2  in round 12
+Rb killed YHchen  in round 12
+Round 12 ended with elimination. The winning team is DRX.
+The current score is DRX 8 - 4 Attacking Soul Esports.
+hfmi0dzjc9z killed BuZz  in round 13
+Life2 killed MaKo  in round 13
+YHchen killed Rb  in round 13
+Foxy9 killed Life2  in round 13
+YHchen killed Foxy9  in round 13
+stax killed YHchen  in round 13
+stax killed Bunt  in round 13
+hfmi0dzjc9z killed stax  in round 13
+Round 13 ended with elimination. The winning team is Attacking Soul Esports.
+The current score is DRX 8 - 5 Attacking Soul Esports.
+monk2 killed stax  in round 14
+YHchen killed Foxy9  in round 14
+BuZz killed Life2  in round 14
+MaKo killed monk2  in round 14
+MaKo killed Bunt  in round 14
+YHchen killed BuZz  in round 14
+Rb killed YHchen  in round 14
+hfmi0dzjc9z killed MaKo  in round 14
+hfmi0dzjc9z killed Rb  in round 14
+Round 14 ended with elimination. The winning team is Attacking Soul Esports.
+The current score is DRX 8 - 6 Attacking Soul Esports.
+Bunt killed BuZz  in round 15
+Foxy9 killed Life2  in round 15
+MaKo killed hfmi0dzjc9z  in round 15
+Rb killed YHchen  in round 15
+stax killed Bunt  in round 15
+Round 15 ended with spike_defuse. The winning team is DRX.
+The current score is DRX 9 - 6 Attacking Soul Esports.
+Life2 killed MaKo  in round 16
+monk2 killed stax  in round 16
+Foxy9 killed monk2  in round 16
+Foxy9 killed YHchen  in round 16
+Foxy9 killed Life2  in round 16
+Foxy9 killed hfmi0dzjc9z  in round 16
+Bunt killed Foxy9  in round 16
+Rb killed Bunt  in round 16
+Round 16 ended with elimination. The winning team is DRX.
+The current score is DRX 10 - 6 Attacking Soul Esports.
+Life2 killed Foxy9  in round 17
+monk2 killed BuZz  in round 17
+monk2 killed Rb  in round 17
+monk2 killed MaKo  in round 17
+stax killed monk2  in round 17
+Life2 killed stax  in round 17
+Round 17 ended with elimination. The winning team is Attacking Soul Esports.
+The current score is DRX 10 - 7 Attacking Soul Esports.
+YHchen killed Foxy9  in round 18
+BuZz killed Bunt  in round 18
+Life2 killed BuZz  in round 18
+stax killed Life2  in round 18
+MaKo killed monk2  in round 18
+Rb killed hfmi0dzjc9z  in round 18
+MaKo killed YHchen  in round 18
+Round 18 ended with spike_defuse. The winning team is DRX.
+The current score is DRX 11 - 7 Attacking Soul Esports.
+MaKo killed Life2  in round 19
+Rb killed YHchen  in round 19
+Foxy9 killed Bunt  in round 19
+hfmi0dzjc9z killed Foxy9  in round 19
+BuZz killed monk2  in round 19
+MaKo killed hfmi0dzjc9z  in round 19
+Round 19 ended with spike_defuse. The winning team is DRX.
+The current score is DRX 12 - 7 Attacking Soul Esports.
+Foxy9 killed hfmi0dzjc9z  in round 20
+Life2 killed MaKo  in round 20
+Foxy9 killed YHchen  in round 20
+Foxy9 killed Life2  in round 20
+stax killed monk2  in round 20
+Foxy9 killed Bunt  in round 20
+Round 20 ended with elimination. The winning team is DRX.
+The current score is DRX 13 - 7 Attacking Soul Esports.
+Game ended with winning team: DRX at 2023-06-11T07:38:53Z
+
+--- Player Stats ---
+Bunt: Team=Attacking Soul Esports, Kills=10, Deaths=19, Assists=10, KDA=1.05, First Kills=2, First Deaths=0
+Life2: Team=Attacking Soul Esports, Kills=16, Deaths=16, Assists=3, KDA=1.19, First Kills=4, First Deaths=3
+YHchen: Team=Attacking Soul Esports, Kills=16, Deaths=16, Assists=13, KDA=1.81, First Kills=2, First Deaths=1
+hfmi0dzjc9z: Team=Attacking Soul Esports, Kills=12, Deaths=15, Assists=4, KDA=1.07, First Kills=3, First Deaths=2
+monk2: Team=Attacking Soul Esports, Kills=11, Deaths=16, Assists=13, KDA=1.5, First Kills=2, First Deaths=1
+Foxy9: Team=DRX, Kills=16, Deaths=17, Assists=4, KDA=1.18, First Kills=3, First Deaths=6
+BuZz: Team=DRX, Kills=17, Deaths=10, Assists=8, KDA=2.5, First Kills=0, First Deaths=2
+stax: Team=DRX, Kills=12, Deaths=13, Assists=14, KDA=2.0, First Kills=2, First Deaths=2
+MaKo: Team=DRX, Kills=12, Deaths=13, Assists=14, KDA=2.0, First Kills=1, First Deaths=3
+Rb: Team=DRX, Kills=25, Deaths=12, Assists=14, KDA=3.25, First Kills=1, First Deaths=0

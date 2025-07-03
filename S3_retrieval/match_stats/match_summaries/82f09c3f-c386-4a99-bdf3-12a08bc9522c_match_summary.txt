@@ -1,0 +1,224 @@
+Team 1: Evil Geniuses
+Team 2: FURIA
+Participating Players:
+Player 1: QcK
+Player 2: dgzin
+Player 3: mazin
+Player 4: mwzera
+Player 5: Khalil
+Player 6: Demon1
+Player 7: Ethan
+Player 8: JAWGEMO
+Player 9: C0M
+Player 10: Boostio
+Winning Team: Evil Geniuses
+Score: Evil Geniuses 13 - 7 FURIA
+Tournament Name: vct americas 2023
+Game Start Time: 2023-04-22T23:42:48Z
+Game End Time: 2023-04-23T00:28:07Z
+Rounds ended by ELIMINATION count: 10
+Rounds ended by DEFUSE count: 8
+Rounds ended by DETONATE count: 2
+SPIKE PLANTED count: 10
+platformGameId: val:82f09c3f-c386-4a99-bdf3-12a08bc9522c
+
+--- Events ---
+Game started at 2023-04-22T23:42:48Z
+JAWGEMO killed mwzera  in round 1
+dgzin killed Boostio  in round 1
+Khalil killed Demon1  in round 1
+dgzin killed C0M  in round 1
+dgzin killed JAWGEMO  in round 1
+Ethan killed dgzin  in round 1
+mazin killed Ethan  in round 1
+Round 1 ended with spike_defuse. The winning team is FURIA.
+The current score is Evil Geniuses 0 - 1 FURIA.
+Boostio killed mazin  in round 2
+Boostio killed QcK  in round 2
+JAWGEMO killed dgzin  in round 2
+mwzera killed JAWGEMO  in round 2
+Khalil killed Demon1  in round 2
+Boostio killed Khalil  in round 2
+Boostio killed mwzera  in round 2
+Round 2 ended with elimination. The winning team is Evil Geniuses.
+The current score is Evil Geniuses 1 - 1 FURIA.
+dgzin killed Ethan  in round 3
+C0M killed dgzin  in round 3
+Boostio killed QcK  in round 3
+JAWGEMO killed mazin  in round 3
+mwzera killed Demon1  in round 3
+Boostio killed mwzera  in round 3
+Round 3 ended with detonate. The winning team is Evil Geniuses.
+The current score is Evil Geniuses 2 - 1 FURIA.
+Khalil killed Khalil  in round 4
+Khalil killed Boostio  in round 4
+mwzera killed Demon1  in round 4
+JAWGEMO killed mwzera  in round 4
+dgzin killed JAWGEMO  in round 4
+Ethan killed dgzin  in round 4
+C0M killed Khalil  in round 4
+Ethan killed mazin  in round 4
+C0M killed QcK  in round 4
+Round 4 ended with elimination. The winning team is Evil Geniuses.
+The current score is Evil Geniuses 3 - 1 FURIA.
+Boostio killed QcK  in round 5
+Boostio killed dgzin  in round 5
+Ethan killed Khalil  in round 5
+C0M killed mwzera  in round 5
+mazin killed C0M  in round 5
+Boostio killed mazin  in round 5
+Round 5 ended with elimination. The winning team is Evil Geniuses.
+The current score is Evil Geniuses 4 - 1 FURIA.
+mwzera killed JAWGEMO  in round 6
+C0M killed QcK  in round 6
+Demon1 killed mwzera  in round 6
+Boostio killed dgzin  in round 6
+mazin killed Boostio  in round 6
+Khalil killed Demon1  in round 6
+C0M killed mazin  in round 6
+mazin killed C0M  in round 6
+Khalil killed Ethan  in round 6
+Round 6 ended with spike_defuse. The winning team is FURIA.
+The current score is Evil Geniuses 4 - 2 FURIA.
+C0M killed dgzin  in round 7
+QcK killed Ethan  in round 7
+C0M killed QcK  in round 7
+C0M killed mwzera  in round 7
+JAWGEMO killed Khalil  in round 7
+mazin killed C0M  in round 7
+Round 7 ended with detonate. The winning team is Evil Geniuses.
+The current score is Evil Geniuses 5 - 2 FURIA.
+Boostio killed mazin  in round 8
+QcK killed Boostio  in round 8
+JAWGEMO killed dgzin  in round 8
+Ethan killed QcK  in round 8
+Khalil killed Ethan  in round 8
+JAWGEMO killed Khalil  in round 8
+JAWGEMO killed mwzera  in round 8
+JAWGEMO killed mazin  in round 8
+Round 8 ended with elimination. The winning team is Evil Geniuses.
+The current score is Evil Geniuses 6 - 2 FURIA.
+mazin killed JAWGEMO  in round 9
+Ethan killed dgzin  in round 9
+Khalil killed Boostio  in round 9
+Ethan killed Khalil  in round 9
+mazin killed Demon1  in round 9
+C0M killed mazin  in round 9
+C0M killed QcK  in round 9
+Ethan killed mwzera  in round 9
+Round 9 ended with elimination. The winning team is Evil Geniuses.
+The current score is Evil Geniuses 7 - 2 FURIA.
+mwzera killed Demon1  in round 10
+mwzera killed Boostio  in round 10
+JAWGEMO killed dgzin  in round 10
+Khalil killed JAWGEMO  in round 10
+Ethan killed Khalil  in round 10
+mazin killed C0M  in round 10
+Ethan killed mwzera  in round 10
+Ethan killed mazin  in round 10
+QcK killed Ethan  in round 10
+Round 10 ended with spike_defuse. The winning team is FURIA.
+The current score is Evil Geniuses 7 - 3 FURIA.
+JAWGEMO killed mwzera  in round 11
+JAWGEMO killed dgzin  in round 11
+Demon1 killed Khalil  in round 11
+Boostio killed QcK  in round 11
+mazin killed JAWGEMO  in round 11
+C0M killed mazin  in round 11
+Round 11 ended with elimination. The winning team is Evil Geniuses.
+The current score is Evil Geniuses 8 - 3 FURIA.
+Boostio killed dgzin  in round 12
+Khalil killed Boostio  in round 12
+mazin killed Demon1  in round 12
+QcK killed C0M  in round 12
+QcK killed Ethan  in round 12
+QcK killed JAWGEMO  in round 12
+Round 12 ended with spike_defuse. The winning team is FURIA.
+The current score is Evil Geniuses 8 - 4 FURIA.
+Ethan killed mwzera  in round 13
+Boostio killed dgzin  in round 13
+QcK killed Boostio  in round 13
+JAWGEMO killed Khalil  in round 13
+Ethan killed mazin  in round 13
+C0M killed QcK  in round 13
+Round 13 ended with spike_defuse. The winning team is Evil Geniuses.
+The current score is Evil Geniuses 9 - 4 FURIA.
+Ethan killed mwzera  in round 14
+QcK killed Boostio  in round 14
+JAWGEMO killed QcK  in round 14
+Khalil killed Demon1  in round 14
+C0M killed Khalil  in round 14
+JAWGEMO killed dgzin  in round 14
+Ethan killed mazin  in round 14
+Round 14 ended with spike_defuse. The winning team is Evil Geniuses.
+The current score is Evil Geniuses 10 - 4 FURIA.
+Ethan killed QcK  in round 15
+Ethan killed mwzera  in round 15
+JAWGEMO killed mazin  in round 15
+dgzin killed Boostio  in round 15
+Khalil killed Demon1  in round 15
+dgzin killed JAWGEMO  in round 15
+dgzin killed Ethan  in round 15
+C0M killed Khalil  in round 15
+dgzin killed C0M  in round 15
+Round 15 ended with elimination. The winning team is FURIA.
+The current score is Evil Geniuses 10 - 5 FURIA.
+dgzin killed JAWGEMO  in round 16
+Boostio killed mazin  in round 16
+Ethan killed dgzin  in round 16
+Khalil killed Boostio  in round 16
+mwzera killed Demon1  in round 16
+mwzera killed Ethan  in round 16
+mwzera killed C0M  in round 16
+Round 16 ended with elimination. The winning team is FURIA.
+The current score is Evil Geniuses 10 - 6 FURIA.
+Boostio killed dgzin  in round 17
+Demon1 killed mazin  in round 17
+Boostio killed Khalil  in round 17
+QcK killed Boostio  in round 17
+Ethan killed QcK  in round 17
+JAWGEMO killed mwzera  in round 17
+Round 17 ended with elimination. The winning team is Evil Geniuses.
+The current score is Evil Geniuses 11 - 6 FURIA.
+Boostio killed dgzin  in round 18
+mwzera killed JAWGEMO  in round 18
+Boostio killed Khalil  in round 18
+Boostio killed QcK  in round 18
+Boostio killed mwzera  in round 18
+mazin killed Boostio  in round 18
+Ethan killed mazin  in round 18
+Round 18 ended with spike_defuse. The winning team is Evil Geniuses.
+The current score is Evil Geniuses 12 - 6 FURIA.
+dgzin killed C0M  in round 19
+mazin killed Ethan  in round 19
+JAWGEMO killed mazin  in round 19
+Boostio killed Khalil  in round 19
+mwzera killed Boostio  in round 19
+Demon1 killed mwzera  in round 19
+QcK killed JAWGEMO  in round 19
+Demon1 killed dgzin  in round 19
+QcK killed Demon1  in round 19
+Round 19 ended with elimination. The winning team is FURIA.
+The current score is Evil Geniuses 12 - 7 FURIA.
+dgzin killed C0M  in round 20
+Demon1 killed mazin  in round 20
+JAWGEMO killed Khalil  in round 20
+Ethan killed mwzera  in round 20
+JAWGEMO killed dgzin  in round 20
+QcK killed Ethan  in round 20
+JAWGEMO killed QcK  in round 20
+Round 20 ended with spike_defuse. The winning team is Evil Geniuses.
+The current score is Evil Geniuses 13 - 7 FURIA.
+Game ended with winning team: Evil Geniuses at 2023-04-23T00:28:07Z
+
+--- Player Stats ---
+QcK: Team=FURIA, Kills=12, Deaths=15, Assists=2, KDA=0.93, First Kills=0, First Deaths=2
+dgzin: Team=FURIA, Kills=12, Deaths=19, Assists=4, KDA=0.84, First Kills=4, First Deaths=4
+mazin: Team=FURIA, Kills=12, Deaths=18, Assists=7, KDA=1.06, First Kills=1, First Deaths=2
+mwzera: Team=FURIA, Kills=11, Deaths=18, Assists=3, KDA=0.78, First Kills=2, First Deaths=4
+Khalil: Team=FURIA, Kills=13, Deaths=16, Assists=4, KDA=1.06, First Kills=1, First Deaths=1
+Demon1: Team=Evil Geniuses, Kills=6, Deaths=12, Assists=4, KDA=0.83, First Kills=0, First Deaths=1
+Ethan: Team=Evil Geniuses, Kills=21, Deaths=11, Assists=11, KDA=2.91, First Kills=3, First Deaths=1
+JAWGEMO: Team=Evil Geniuses, Kills=21, Deaths=12, Assists=4, KDA=2.08, First Kills=2, First Deaths=3
+C0M: Team=Evil Geniuses, Kills=15, Deaths=10, Assists=9, KDA=2.4, First Kills=1, First Deaths=2
+Boostio: Team=Evil Geniuses, Kills=22, Deaths=14, Assists=6, KDA=2.0, First Kills=6, First Deaths=0

@@ -1,0 +1,212 @@
+Team 1: Sentinels
+Team 2: LOUD
+Participating Players:
+Player 1: aspas
+Player 2: cauanzin
+Player 3: Saadhak
+Player 4: Less
+Player 5: tuyz
+Player 6: Marved
+Player 7: Sacy
+Player 8: dephh
+Player 9: zekken
+Player 10: pANcada
+Winning Team: Sentinels
+Score: Sentinels 13 - 6 LOUD
+Tournament Name: vct americas 2023
+Game Start Time: 2023-04-21T18:54:25Z
+Game End Time: 2023-04-21T19:55:03Z
+Rounds ended by ELIMINATION count: 12
+Rounds ended by DEFUSE count: 5
+Rounds ended by DETONATE count: 1
+SPIKE PLANTED count: 6
+platformGameId: val:4f00811b-1728-48f0-88d2-ecdc446e7673
+
+--- Events ---
+Game started at 2023-04-21T18:54:25Z
+cauanzin killed Marved  in round 1
+aspas killed pANcada  in round 1
+cauanzin killed Sacy  in round 1
+dephh killed cauanzin  in round 1
+zekken killed tuyz  in round 1
+aspas killed zekken  in round 1
+dephh killed aspas  in round 1
+Saadhak killed dephh  in round 1
+Round 1 ended with elimination. The winning team is LOUD.
+The current score is Sentinels 0 - 1 LOUD.
+zekken killed Saadhak  in round 2
+cauanzin killed zekken  in round 2
+dephh killed cauanzin  in round 2
+tuyz killed dephh  in round 2
+Less killed Sacy  in round 2
+Less killed Marved  in round 2
+Less killed pANcada  in round 2
+Round 2 ended with elimination. The winning team is LOUD.
+The current score is Sentinels 0 - 2 LOUD.
+Less killed Sacy  in round 3
+aspas killed zekken  in round 3
+Marved killed aspas  in round 3
+Marved killed cauanzin  in round 3
+pANcada killed Less  in round 3
+Marved killed tuyz  in round 3
+Saadhak killed dephh  in round 3
+Marved killed Saadhak  in round 3
+Round 3 ended with elimination. The winning team is Sentinels.
+The current score is Sentinels 1 - 2 LOUD.
+zekken killed aspas  in round 4
+zekken killed cauanzin  in round 4
+Marved killed Saadhak  in round 4
+pANcada killed tuyz  in round 4
+Less killed zekken  in round 4
+Round 4 ended with detonate. The winning team is Sentinels.
+The current score is Sentinels 2 - 2 LOUD.
+zekken killed tuyz  in round 5
+cauanzin killed Marved  in round 5
+cauanzin killed dephh  in round 5
+pANcada killed cauanzin  in round 5
+Sacy killed Less  in round 5
+aspas killed Sacy  in round 5
+zekken killed aspas  in round 5
+Saadhak killed pANcada  in round 5
+zekken killed Saadhak  in round 5
+Round 5 ended with elimination. The winning team is Sentinels.
+The current score is Sentinels 3 - 2 LOUD.
+Less killed zekken  in round 6
+tuyz killed pANcada  in round 6
+tuyz killed dephh  in round 6
+Sacy killed Less  in round 6
+Sacy killed tuyz  in round 6
+aspas killed Sacy  in round 6
+Round 6 ended with time_expired. The winning team is LOUD.
+The current score is Sentinels 3 - 3 LOUD.
+Marved killed aspas  in round 7
+cauanzin killed Marved  in round 7
+cauanzin killed pANcada  in round 7
+cauanzin killed dephh  in round 7
+cauanzin killed zekken  in round 7
+Round 7 ended with spike_defuse. The winning team is LOUD.
+The current score is Sentinels 3 - 4 LOUD.
+zekken killed Less  in round 8
+Saadhak killed Marved  in round 8
+Saadhak killed Sacy  in round 8
+dephh killed Saadhak  in round 8
+zekken killed cauanzin  in round 8
+pANcada killed aspas  in round 8
+pANcada killed tuyz  in round 8
+Round 8 ended with elimination. The winning team is Sentinels.
+The current score is Sentinels 4 - 4 LOUD.
+Marved killed Less  in round 9
+Marved killed cauanzin  in round 9
+aspas killed zekken  in round 9
+Marved killed aspas  in round 9
+tuyz killed dephh  in round 9
+pANcada killed Saadhak  in round 9
+Sacy killed tuyz  in round 9
+Round 9 ended with elimination. The winning team is Sentinels.
+The current score is Sentinels 5 - 4 LOUD.
+Marved killed aspas  in round 10
+zekken killed cauanzin  in round 10
+dephh killed Less  in round 10
+tuyz killed zekken  in round 10
+tuyz killed dephh  in round 10
+Sacy killed tuyz  in round 10
+Marved killed Saadhak  in round 10
+Round 10 ended with elimination. The winning team is Sentinels.
+The current score is Sentinels 6 - 4 LOUD.
+aspas killed Marved  in round 11
+zekken killed tuyz  in round 11
+Saadhak killed pANcada  in round 11
+Less killed dephh  in round 11
+zekken killed Less  in round 11
+Sacy killed aspas  in round 11
+zekken killed cauanzin  in round 11
+Saadhak killed zekken  in round 11
+Saadhak killed Sacy  in round 11
+Round 11 ended with spike_defuse. The winning team is LOUD.
+The current score is Sentinels 6 - 5 LOUD.
+Saadhak killed Marved  in round 12
+cauanzin killed dephh  in round 12
+Sacy killed cauanzin  in round 12
+aspas killed zekken  in round 12
+Sacy killed Saadhak  in round 12
+Sacy killed aspas  in round 12
+Sacy killed Less  in round 12
+tuyz killed Sacy  in round 12
+pANcada killed tuyz  in round 12
+Round 12 ended with elimination. The winning team is Sentinels.
+The current score is Sentinels 7 - 5 LOUD.
+Saadhak killed Marved  in round 13
+Sacy killed Saadhak  in round 13
+tuyz killed zekken  in round 13
+pANcada killed tuyz  in round 13
+cauanzin killed pANcada  in round 13
+dephh killed cauanzin  in round 13
+Less killed dephh  in round 13
+Sacy killed aspas  in round 13
+Sacy killed Less  in round 13
+Round 13 ended with spike_defuse. The winning team is Sentinels.
+The current score is Sentinels 8 - 5 LOUD.
+Sacy killed Saadhak  in round 14
+zekken killed tuyz  in round 14
+aspas killed Sacy  in round 14
+dephh killed Less  in round 14
+dephh killed aspas  in round 14
+dephh killed cauanzin  in round 14
+Round 14 ended with elimination. The winning team is Sentinels.
+The current score is Sentinels 9 - 5 LOUD.
+Less killed zekken  in round 15
+cauanzin killed Sacy  in round 15
+pANcada killed tuyz  in round 15
+aspas killed Marved  in round 15
+cauanzin killed dephh  in round 15
+Less killed pANcada  in round 15
+Round 15 ended with elimination. The winning team is LOUD.
+The current score is Sentinels 9 - 6 LOUD.
+Sacy killed aspas  in round 16
+Saadhak killed zekken  in round 16
+dephh killed cauanzin  in round 16
+Sacy killed Saadhak  in round 16
+Less killed dephh  in round 16
+Sacy killed tuyz  in round 16
+Less killed Sacy  in round 16
+Marved killed Less  in round 16
+Round 16 ended with spike_defuse. The winning team is Sentinels.
+The current score is Sentinels 10 - 6 LOUD.
+Saadhak killed Marved  in round 17
+Sacy killed cauanzin  in round 17
+aspas killed Sacy  in round 17
+pANcada killed Saadhak  in round 17
+dephh killed Less  in round 17
+dephh killed tuyz  in round 17
+dephh killed aspas  in round 17
+Round 17 ended with elimination. The winning team is Sentinels.
+The current score is Sentinels 11 - 6 LOUD.
+pANcada killed Saadhak  in round 18
+Sacy killed cauanzin  in round 18
+Marved killed aspas  in round 18
+zekken killed tuyz  in round 18
+pANcada killed Less  in round 18
+Round 18 ended with spike_defuse. The winning team is Sentinels.
+The current score is Sentinels 12 - 6 LOUD.
+dephh killed tuyz  in round 19
+dephh killed cauanzin  in round 19
+Sacy killed aspas  in round 19
+Marved killed Saadhak  in round 19
+Less killed Marved  in round 19
+Less killed Sacy  in round 19
+pANcada killed Less  in round 19
+Round 19 ended with elimination. The winning team is Sentinels.
+The current score is Sentinels 13 - 6 LOUD.
+Game ended with winning team: Sentinels at 2023-04-21T19:55:03Z
+
+--- Player Stats ---
+aspas: Team=LOUD, Kills=11, Deaths=16, Assists=0, KDA=0.69, First Kills=1, First Deaths=4
+cauanzin: Team=LOUD, Kills=13, Deaths=16, Assists=7, KDA=1.25, First Kills=1, First Deaths=0
+Saadhak: Team=LOUD, Kills=12, Deaths=14, Assists=2, KDA=1.0, First Kills=3, First Deaths=3
+Less: Team=LOUD, Kills=14, Deaths=14, Assists=5, KDA=1.36, First Kills=3, First Deaths=2
+tuyz: Team=LOUD, Kills=8, Deaths=17, Assists=14, KDA=1.29, First Kills=0, First Deaths=2
+Marved: Team=Sentinels, Kills=14, Deaths=11, Assists=5, KDA=1.73, First Kills=3, First Deaths=5
+Sacy: Team=Sentinels, Kills=20, Deaths=13, Assists=11, KDA=2.38, First Kills=2, First Deaths=1
+dephh: Team=Sentinels, Kills=15, Deaths=13, Assists=7, KDA=1.69, First Kills=1, First Deaths=0
+zekken: Team=Sentinels, Kills=15, Deaths=13, Assists=6, KDA=1.62, First Kills=4, First Deaths=2
+pANcada: Team=Sentinels, Kills=13, Deaths=8, Assists=7, KDA=2.5, First Kills=1, First Deaths=0

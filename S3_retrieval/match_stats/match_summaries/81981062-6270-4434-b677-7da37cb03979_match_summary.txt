@@ -1,0 +1,209 @@
+Team 1: PAPER REX
+Team 2: Evil Geniuses
+Participating Players:
+Player 1: Demon1
+Player 2: Ethan
+Player 3: JAWGEMO
+Player 4: C0M
+Player 5: Boostio
+Player 6: f0rsakeN
+Player 7: mindfreak
+Player 8: d4v41
+Player 9: CGRS
+Player 10: Jinggg
+Winning Team: Evil Geniuses
+Score: PAPER REX 6 - 13 Evil Geniuses
+Tournament Name: vct masters 2023 playoffs
+Game Start Time: 2023-06-24T06:11:16Z
+Game End Time: 2023-06-24T06:59:14Z
+Rounds ended by ELIMINATION count: 9
+Rounds ended by DEFUSE count: 5
+Rounds ended by DETONATE count: 4
+SPIKE PLANTED count: 9
+platformGameId: val:81981062-6270-4434-b677-7da37cb03979
+
+--- Events ---
+Game started at 2023-06-24T06:11:16Z
+Demon1 killed mindfreak  in round 1
+f0rsakeN killed C0M  in round 1
+JAWGEMO killed d4v41  in round 1
+Jinggg killed JAWGEMO  in round 1
+Boostio killed Jinggg  in round 1
+Boostio killed CGRS  in round 1
+Boostio killed f0rsakeN  in round 1
+Round 1 ended with spike_defuse. The winning team is Evil Geniuses.
+The current score is PAPER REX 0 - 1 Evil Geniuses.
+JAWGEMO killed f0rsakeN  in round 2
+Jinggg killed C0M  in round 2
+Jinggg killed JAWGEMO  in round 2
+Jinggg killed Ethan  in round 2
+d4v41 killed Boostio  in round 2
+Demon1 killed d4v41  in round 2
+mindfreak killed Demon1  in round 2
+Round 2 ended with elimination. The winning team is PAPER REX.
+The current score is PAPER REX 1 - 1 Evil Geniuses.
+Boostio killed f0rsakeN  in round 3
+JAWGEMO killed Jinggg  in round 3
+d4v41 killed Demon1  in round 3
+d4v41 killed Ethan  in round 3
+CGRS killed JAWGEMO  in round 3
+mindfreak killed Boostio  in round 3
+d4v41 killed C0M  in round 3
+Round 3 ended with elimination. The winning team is PAPER REX.
+The current score is PAPER REX 2 - 1 Evil Geniuses.
+JAWGEMO killed mindfreak  in round 4
+f0rsakeN killed JAWGEMO  in round 4
+Demon1 killed d4v41  in round 4
+Boostio killed f0rsakeN  in round 4
+Boostio killed Jinggg  in round 4
+Boostio killed CGRS  in round 4
+Round 4 ended with spike_defuse. The winning team is Evil Geniuses.
+The current score is PAPER REX 2 - 2 Evil Geniuses.
+f0rsakeN killed Demon1  in round 5
+JAWGEMO killed f0rsakeN  in round 5
+Jinggg killed Boostio  in round 5
+JAWGEMO killed Jinggg  in round 5
+mindfreak killed Ethan  in round 5
+JAWGEMO killed d4v41  in round 5
+CGRS killed C0M  in round 5
+CGRS killed JAWGEMO  in round 5
+Round 5 ended with elimination. The winning team is PAPER REX.
+The current score is PAPER REX 3 - 2 Evil Geniuses.
+d4v41 killed JAWGEMO  in round 6
+Ethan killed Jinggg  in round 6
+d4v41 killed Ethan  in round 6
+C0M killed d4v41  in round 6
+f0rsakeN killed C0M  in round 6
+Demon1 killed CGRS  in round 6
+Boostio killed mindfreak  in round 6
+f0rsakeN killed Demon1  in round 6
+Boostio killed f0rsakeN  in round 6
+Round 6 ended with spike_defuse. The winning team is Evil Geniuses.
+The current score is PAPER REX 3 - 3 Evil Geniuses.
+Jinggg killed Boostio  in round 7
+JAWGEMO killed f0rsakeN  in round 7
+JAWGEMO killed CGRS  in round 7
+JAWGEMO killed Jinggg  in round 7
+mindfreak killed JAWGEMO  in round 7
+d4v41 killed Demon1  in round 7
+C0M killed d4v41  in round 7
+C0M killed mindfreak  in round 7
+Round 7 ended with elimination. The winning team is Evil Geniuses.
+The current score is PAPER REX 3 - 4 Evil Geniuses.
+Ethan killed f0rsakeN  in round 8
+Boostio killed mindfreak  in round 8
+CGRS killed JAWGEMO  in round 8
+CGRS killed Boostio  in round 8
+CGRS killed Demon1  in round 8
+CGRS killed Ethan  in round 8
+C0M killed CGRS  in round 8
+d4v41 killed C0M  in round 8
+Round 8 ended with elimination. The winning team is PAPER REX.
+The current score is PAPER REX 4 - 4 Evil Geniuses.
+Boostio killed Jinggg  in round 9
+Boostio killed f0rsakeN  in round 9
+Boostio killed mindfreak  in round 9
+d4v41 killed Boostio  in round 9
+C0M killed d4v41  in round 9
+Round 9 ended with time_expired. The winning team is Evil Geniuses.
+The current score is PAPER REX 4 - 5 Evil Geniuses.
+f0rsakeN killed JAWGEMO  in round 10
+Jinggg killed Boostio  in round 10
+Jinggg killed C0M  in round 10
+Ethan killed mindfreak  in round 10
+Round 10 ended with detonate. The winning team is PAPER REX.
+The current score is PAPER REX 5 - 5 Evil Geniuses.
+Demon1 killed CGRS  in round 11
+Demon1 killed Jinggg  in round 11
+f0rsakeN killed JAWGEMO  in round 11
+C0M killed d4v41  in round 11
+Demon1 killed f0rsakeN  in round 11
+mindfreak killed Ethan  in round 11
+Boostio killed mindfreak  in round 11
+C0M killed CGRS  in round 11
+Round 11 ended with spike_defuse. The winning team is Evil Geniuses.
+The current score is PAPER REX 5 - 6 Evil Geniuses.
+Demon1 killed d4v41  in round 12
+Jinggg killed Demon1  in round 12
+C0M killed CGRS  in round 12
+Boostio killed f0rsakeN  in round 12
+C0M killed Jinggg  in round 12
+mindfreak killed JAWGEMO  in round 12
+mindfreak killed Ethan  in round 12
+C0M killed mindfreak  in round 12
+Round 12 ended with elimination. The winning team is Evil Geniuses.
+The current score is PAPER REX 5 - 7 Evil Geniuses.
+Ethan killed CGRS  in round 13
+Boostio killed Jinggg  in round 13
+f0rsakeN killed C0M  in round 13
+Boostio killed mindfreak  in round 13
+Boostio killed f0rsakeN  in round 13
+d4v41 killed Boostio  in round 13
+Demon1 killed d4v41  in round 13
+Round 13 ended with elimination. The winning team is Evil Geniuses.
+The current score is PAPER REX 5 - 8 Evil Geniuses.
+C0M killed CGRS  in round 14
+f0rsakeN killed Demon1  in round 14
+Ethan killed f0rsakeN  in round 14
+d4v41 killed Boostio  in round 14
+JAWGEMO killed d4v41  in round 14
+Round 14 ended with detonate. The winning team is Evil Geniuses.
+The current score is PAPER REX 5 - 9 Evil Geniuses.
+mindfreak killed mindfreak  in round 15
+Jinggg killed Jinggg  in round 15
+C0M killed f0rsakeN  in round 15
+Boostio killed CGRS  in round 15
+Round 15 ended with detonate. The winning team is Evil Geniuses.
+The current score is PAPER REX 5 - 10 Evil Geniuses.
+f0rsakeN killed Boostio  in round 16
+JAWGEMO killed Jinggg  in round 16
+f0rsakeN killed Demon1  in round 16
+CGRS killed Ethan  in round 16
+C0M killed CGRS  in round 16
+C0M killed mindfreak  in round 16
+d4v41 killed C0M  in round 16
+f0rsakeN killed JAWGEMO  in round 16
+Round 16 ended with spike_defuse. The winning team is PAPER REX.
+The current score is PAPER REX 6 - 10 Evil Geniuses.
+Demon1 killed Jinggg  in round 17
+Demon1 killed f0rsakeN  in round 17
+d4v41 killed Demon1  in round 17
+JAWGEMO killed d4v41  in round 17
+CGRS killed Boostio  in round 17
+JAWGEMO killed CGRS  in round 17
+mindfreak killed Ethan  in round 17
+Round 17 ended with detonate. The winning team is Evil Geniuses.
+The current score is PAPER REX 6 - 11 Evil Geniuses.
+mindfreak killed C0M  in round 18
+f0rsakeN killed Ethan  in round 18
+Demon1 killed f0rsakeN  in round 18
+Jinggg killed Boostio  in round 18
+Demon1 killed Jinggg  in round 18
+Demon1 killed CGRS  in round 18
+C0M killed d4v41  in round 18
+mindfreak killed JAWGEMO  in round 18
+Demon1 killed mindfreak  in round 18
+Round 18 ended with elimination. The winning team is Evil Geniuses.
+The current score is PAPER REX 6 - 12 Evil Geniuses.
+C0M killed f0rsakeN  in round 19
+Boostio killed mindfreak  in round 19
+d4v41 killed Boostio  in round 19
+JAWGEMO killed d4v41  in round 19
+Ethan killed CGRS  in round 19
+Jinggg killed JAWGEMO  in round 19
+Ethan killed Jinggg  in round 19
+Round 19 ended with elimination. The winning team is Evil Geniuses.
+The current score is PAPER REX 6 - 13 Evil Geniuses.
+Game ended with winning team: Evil Geniuses at 2023-06-24T06:59:14Z
+
+--- Player Stats ---
+Demon1: Team=Evil Geniuses, Kills=15, Deaths=10, Assists=3, KDA=1.8, First Kills=4, First Deaths=1
+Ethan: Team=Evil Geniuses, Kills=7, Deaths=10, Assists=14, KDA=2.1, First Kills=2, First Deaths=0
+JAWGEMO: Team=Evil Geniuses, Kills=15, Deaths=14, Assists=11, KDA=1.86, First Kills=2, First Deaths=2
+C0M: Team=Evil Geniuses, Kills=16, Deaths=10, Assists=8, KDA=2.4, First Kills=2, First Deaths=1
+Boostio: Team=Evil Geniuses, Kills=20, Deaths=13, Assists=6, KDA=2.0, First Kills=2, First Deaths=2
+f0rsakeN: Team=PAPER REX, Kills=13, Deaths=17, Assists=2, KDA=0.88, First Kills=3, First Deaths=4
+mindfreak: Team=PAPER REX, Kills=11, Deaths=14, Assists=9, KDA=1.43, First Kills=2, First Deaths=3
+d4v41: Team=PAPER REX, Kills=14, Deaths=14, Assists=7, KDA=1.5, First Kills=1, First Deaths=1
+CGRS: Team=PAPER REX, Kills=9, Deaths=15, Assists=2, KDA=0.73, First Kills=0, First Deaths=3
+Jinggg: Team=PAPER REX, Kills=12, Deaths=15, Assists=12, KDA=1.6, First Kills=1, First Deaths=2

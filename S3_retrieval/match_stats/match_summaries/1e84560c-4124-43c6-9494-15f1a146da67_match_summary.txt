@@ -1,0 +1,227 @@
+Team 1: ZETA DIVISION
+Team 2: Talon Esports
+Participating Players:
+Player 1: Governor
+Player 2: ban
+Player 3: Crws
+Player 4: Surf
+Player 5: JitBoyS
+Player 6: Dep
+Player 7: Yuran
+Player 8: SugarZ3ro
+Player 9: hiroronn
+Player 10: Laz
+Winning Team: ZETA DIVISION
+Score: ZETA DIVISION 13 - 8 Talon Esports
+Tournament Name: vct pacific stage 2 2024
+Game Start Time: 2024-07-06T12:36:00Z
+Game End Time: 2024-07-06T13:21:11Z
+Rounds ended by ELIMINATION count: 11
+Rounds ended by DEFUSE count: 8
+Rounds ended by DETONATE count: 1
+SPIKE PLANTED count: 9
+platformGameId: val:1e84560c-4124-43c6-9494-15f1a146da67
+
+--- Events ---
+Game started at 2024-07-06T12:36:00Z
+ban killed Yuran  in round 1
+ban killed hiroronn  in round 1
+Dep killed ban  in round 1
+Crws killed Dep  in round 1
+Crws killed Laz  in round 1
+SugarZ3ro killed Surf  in round 1
+Governor killed SugarZ3ro  in round 1
+Round 1 ended with spike_defuse. The winning team is Talon Esports.
+The current score is ZETA DIVISION 0 - 1 Talon Esports.
+Dep killed Governor  in round 2
+Laz killed Crws  in round 2
+hiroronn killed JitBoyS  in round 2
+Yuran killed ban  in round 2
+SugarZ3ro killed Surf  in round 2
+Round 2 ended with elimination. The winning team is ZETA DIVISION.
+The current score is ZETA DIVISION 1 - 1 Talon Esports.
+SugarZ3ro killed ban  in round 3
+SugarZ3ro killed Governor  in round 3
+Dep killed JitBoyS  in round 3
+Crws killed SugarZ3ro  in round 3
+Dep killed Surf  in round 3
+Laz killed Crws  in round 3
+Round 3 ended with elimination. The winning team is ZETA DIVISION.
+The current score is ZETA DIVISION 2 - 1 Talon Esports.
+Governor killed Dep  in round 4
+JitBoyS killed hiroronn  in round 4
+Yuran killed ban  in round 4
+Governor killed Yuran  in round 4
+SugarZ3ro killed Governor  in round 4
+SugarZ3ro killed Crws  in round 4
+Surf killed SugarZ3ro  in round 4
+JitBoyS killed Laz  in round 4
+Round 4 ended with elimination. The winning team is Talon Esports.
+The current score is ZETA DIVISION 2 - 2 Talon Esports.
+ban killed Dep  in round 5
+Governor killed hiroronn  in round 5
+Governor killed Laz  in round 5
+Yuran killed Crws  in round 5
+SugarZ3ro killed JitBoyS  in round 5
+SugarZ3ro killed Surf  in round 5
+SugarZ3ro killed Governor  in round 5
+SugarZ3ro killed ban  in round 5
+Round 5 ended with elimination. The winning team is ZETA DIVISION.
+The current score is ZETA DIVISION 3 - 2 Talon Esports.
+Yuran killed JitBoyS  in round 6
+Dep killed Governor  in round 6
+Dep killed ban  in round 6
+Surf killed Yuran  in round 6
+Laz killed Surf  in round 6
+Crws killed Laz  in round 6
+Dep killed Crws  in round 6
+Round 6 ended with elimination. The winning team is ZETA DIVISION.
+The current score is ZETA DIVISION 4 - 2 Talon Esports.
+Laz killed ban  in round 7
+Governor killed Dep  in round 7
+JitBoyS killed hiroronn  in round 7
+Yuran killed JitBoyS  in round 7
+Governor killed Yuran  in round 7
+SugarZ3ro killed Crws  in round 7
+Surf killed SugarZ3ro  in round 7
+Round 7 ended with spike_defuse. The winning team is Talon Esports.
+The current score is ZETA DIVISION 4 - 3 Talon Esports.
+hiroronn killed ban  in round 8
+JitBoyS killed Dep  in round 8
+Surf killed hiroronn  in round 8
+SugarZ3ro killed JitBoyS  in round 8
+Round 8 ended with detonate. The winning team is ZETA DIVISION.
+The current score is ZETA DIVISION 5 - 3 Talon Esports.
+JitBoyS killed Dep  in round 9
+SugarZ3ro killed ban  in round 9
+Governor killed Yuran  in round 9
+JitBoyS killed hiroronn  in round 9
+Laz killed Crws  in round 9
+SugarZ3ro killed Governor  in round 9
+Laz killed JitBoyS  in round 9
+SugarZ3ro killed Surf  in round 9
+Round 9 ended with elimination. The winning team is ZETA DIVISION.
+The current score is ZETA DIVISION 6 - 3 Talon Esports.
+Dep killed Governor  in round 10
+Surf killed SugarZ3ro  in round 10
+Laz killed Surf  in round 10
+JitBoyS killed Dep  in round 10
+Yuran killed Crws  in round 10
+ban killed hiroronn  in round 10
+Laz killed JitBoyS  in round 10
+Laz killed ban  in round 10
+Round 10 ended with elimination. The winning team is ZETA DIVISION.
+The current score is ZETA DIVISION 7 - 3 Talon Esports.
+hiroronn killed Crws  in round 11
+hiroronn killed ban  in round 11
+JitBoyS killed SugarZ3ro  in round 11
+JitBoyS killed Yuran  in round 11
+JitBoyS killed Dep  in round 11
+Laz killed Surf  in round 11
+Round 11 ended with spike_defuse. The winning team is Talon Esports.
+The current score is ZETA DIVISION 7 - 4 Talon Esports.
+Laz killed JitBoyS  in round 12
+ban killed hiroronn  in round 12
+ban killed Dep  in round 12
+ban killed SugarZ3ro  in round 12
+Yuran killed Crws  in round 12
+Yuran killed ban  in round 12
+Laz killed Surf  in round 12
+Governor killed Yuran  in round 12
+Governor killed Laz  in round 12
+Round 12 ended with spike_defuse. The winning team is Talon Esports.
+The current score is ZETA DIVISION 7 - 5 Talon Esports.
+Governor killed Dep  in round 13
+Laz killed Governor  in round 13
+Surf killed Laz  in round 13
+SugarZ3ro killed Surf  in round 13
+hiroronn killed Crws  in round 13
+SugarZ3ro killed JitBoyS  in round 13
+Yuran killed ban  in round 13
+Round 13 ended with spike_defuse. The winning team is ZETA DIVISION.
+The current score is ZETA DIVISION 8 - 5 Talon Esports.
+hiroronn killed Governor  in round 14
+SugarZ3ro killed Crws  in round 14
+hiroronn killed Surf  in round 14
+Dep killed ban  in round 14
+Laz killed JitBoyS  in round 14
+Round 14 ended with spike_defuse. The winning team is ZETA DIVISION.
+The current score is ZETA DIVISION 9 - 5 Talon Esports.
+Dep killed Surf  in round 15
+Governor killed Laz  in round 15
+Yuran killed Crws  in round 15
+JitBoyS killed SugarZ3ro  in round 15
+hiroronn killed ban  in round 15
+Governor killed Dep  in round 15
+hiroronn killed Governor  in round 15
+JitBoyS killed hiroronn  in round 15
+Yuran killed JitBoyS  in round 15
+Round 15 ended with spike_defuse. The winning team is ZETA DIVISION.
+The current score is ZETA DIVISION 10 - 5 Talon Esports.
+ban killed Dep  in round 16
+ban killed Laz  in round 16
+JitBoyS killed hiroronn  in round 16
+Yuran killed ban  in round 16
+SugarZ3ro killed Surf  in round 16
+Crws killed Yuran  in round 16
+Governor killed SugarZ3ro  in round 16
+Round 16 ended with elimination. The winning team is Talon Esports.
+The current score is ZETA DIVISION 10 - 6 Talon Esports.
+Laz killed ban  in round 17
+Yuran killed Governor  in round 17
+Surf killed SugarZ3ro  in round 17
+JitBoyS killed hiroronn  in round 17
+JitBoyS killed Yuran  in round 17
+Dep killed JitBoyS  in round 17
+Crws killed Dep  in round 17
+Laz killed Surf  in round 17
+Laz killed Crws  in round 17
+Round 17 ended with elimination. The winning team is ZETA DIVISION.
+The current score is ZETA DIVISION 11 - 6 Talon Esports.
+Laz killed ban  in round 18
+Dep killed Governor  in round 18
+Laz killed JitBoyS  in round 18
+Round 18 ended with time_expired. The winning team is ZETA DIVISION.
+The current score is ZETA DIVISION 12 - 6 Talon Esports.
+Dep killed Governor  in round 19
+ban killed Dep  in round 19
+Crws killed SugarZ3ro  in round 19
+JitBoyS killed Yuran  in round 19
+JitBoyS killed hiroronn  in round 19
+Laz killed Crws  in round 19
+ban killed Laz  in round 19
+Round 19 ended with elimination. The winning team is Talon Esports.
+The current score is ZETA DIVISION 12 - 7 Talon Esports.
+Dep killed Crws  in round 20
+ban killed SugarZ3ro  in round 20
+JitBoyS killed Yuran  in round 20
+Dep killed Governor  in round 20
+Laz killed Surf  in round 20
+JitBoyS killed Dep  in round 20
+ban killed Laz  in round 20
+JitBoyS killed hiroronn  in round 20
+Round 20 ended with elimination. The winning team is Talon Esports.
+The current score is ZETA DIVISION 12 - 8 Talon Esports.
+Laz killed JitBoyS  in round 21
+ban killed SugarZ3ro  in round 21
+ban killed hiroronn  in round 21
+Laz killed ban  in round 21
+Governor killed Laz  in round 21
+Dep killed Governor  in round 21
+Dep killed Surf  in round 21
+Yuran killed Crws  in round 21
+Round 21 ended with spike_defuse. The winning team is ZETA DIVISION.
+The current score is ZETA DIVISION 13 - 8 Talon Esports.
+Game ended with winning team: ZETA DIVISION at 2024-07-06T13:21:11Z
+
+--- Player Stats ---
+Governor: Team=Talon Esports, Kills=15, Deaths=15, Assists=2, KDA=1.13, First Kills=2, First Deaths=4
+ban: Team=Talon Esports, Kills=15, Deaths=19, Assists=1, KDA=0.84, First Kills=3, First Deaths=5
+Crws: Team=Talon Esports, Kills=7, Deaths=17, Assists=6, KDA=0.76, First Kills=0, First Deaths=2
+Surf: Team=Talon Esports, Kills=7, Deaths=16, Assists=0, KDA=0.44, First Kills=0, First Deaths=1
+JitBoyS: Team=Talon Esports, Kills=20, Deaths=15, Assists=4, KDA=1.6, First Kills=1, First Deaths=3
+Dep: Team=ZETA DIVISION, Kills=17, Deaths=15, Assists=6, KDA=1.53, First Kills=5, First Deaths=5
+Yuran: Team=ZETA DIVISION, Kills=14, Deaths=11, Assists=8, KDA=2.0, First Kills=1, First Deaths=1
+SugarZ3ro: Team=ZETA DIVISION, Kills=19, Deaths=13, Assists=7, KDA=2.0, First Kills=1, First Deaths=0
+hiroronn: Team=ZETA DIVISION, Kills=9, Deaths=14, Assists=4, KDA=0.93, First Kills=3, First Deaths=0
+Laz: Team=ZETA DIVISION, Kills=23, Deaths=11, Assists=5, KDA=2.55, First Kills=5, First Deaths=0

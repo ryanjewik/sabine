@@ -1,0 +1,244 @@
+Team 1: Team Liquid
+Team 2: NAVI
+Participating Players:
+Player 1: Zyppan
+Player 2: cNed
+Player 3: ANGE1
+Player 4: Shao
+Player 5: suygetsu
+Player 6: Jamppi
+Player 7: Sayf
+Player 8: Redgar
+Player 9: nAts
+Player 10: soulcas
+Winning Team: NAVI
+Score: Team Liquid 11 - 13 NAVI
+Tournament Name: vct champions 2023
+Game Start Time: 2023-08-06T18:54:19Z
+Game End Time: 2023-08-06T20:13:04Z
+Rounds ended by ELIMINATION count: 14
+Rounds ended by DEFUSE count: 2
+Rounds ended by DETONATE count: 7
+SPIKE PLANTED count: 9
+platformGameId: val:637dfe6e-f2af-46e9-81e2-3556bd89b75e
+
+--- Events ---
+Game started at 2023-08-06T18:54:19Z
+ANGE1 killed Jamppi  in round 1
+nAts killed ANGE1  in round 1
+nAts killed Zyppan  in round 1
+suygetsu killed Redgar  in round 1
+nAts killed suygetsu  in round 1
+cNed killed nAts  in round 1
+soulcas killed cNed  in round 1
+soulcas killed Shao  in round 1
+Round 1 ended with elimination. The winning team is Team Liquid.
+The current score is Team Liquid 1 - 0 NAVI.
+Jamppi killed ANGE1  in round 2
+Redgar killed cNed  in round 2
+nAts killed suygetsu  in round 2
+Shao killed Sayf  in round 2
+Zyppan killed soulcas  in round 2
+Zyppan killed Redgar  in round 2
+nAts killed Zyppan  in round 2
+Jamppi killed Shao  in round 2
+Round 2 ended with elimination. The winning team is Team Liquid.
+The current score is Team Liquid 2 - 0 NAVI.
+Zyppan killed soulcas  in round 3
+nAts killed suygetsu  in round 3
+cNed killed Sayf  in round 3
+Jamppi killed cNed  in round 3
+nAts killed Zyppan  in round 3
+Redgar killed ANGE1  in round 3
+Shao killed Redgar  in round 3
+Jamppi killed Shao  in round 3
+Round 3 ended with elimination. The winning team is Team Liquid.
+The current score is Team Liquid 3 - 0 NAVI.
+Jamppi killed Shao  in round 4
+Jamppi killed cNed  in round 4
+Jamppi killed suygetsu  in round 4
+Jamppi killed Zyppan  in round 4
+Jamppi killed ANGE1  in round 4
+Round 4 ended with elimination. The winning team is Team Liquid.
+The current score is Team Liquid 4 - 0 NAVI.
+suygetsu killed Jamppi  in round 5
+Sayf killed ANGE1  in round 5
+Zyppan killed Sayf  in round 5
+Zyppan killed nAts  in round 5
+cNed killed Redgar  in round 5
+Zyppan killed soulcas  in round 5
+Round 5 ended with elimination. The winning team is NAVI.
+The current score is Team Liquid 4 - 1 NAVI.
+Jamppi killed Shao  in round 6
+Jamppi killed Zyppan  in round 6
+soulcas killed ANGE1  in round 6
+cNed killed Redgar  in round 6
+Jamppi killed cNed  in round 6
+suygetsu killed Jamppi  in round 6
+Round 6 ended with detonate. The winning team is Team Liquid.
+The current score is Team Liquid 5 - 1 NAVI.
+suygetsu killed nAts  in round 7
+suygetsu killed Sayf  in round 7
+nAts killed cNed  in round 7
+suygetsu killed nAts  in round 7
+Redgar killed Zyppan  in round 7
+Shao killed soulcas  in round 7
+ANGE1 killed Sayf  in round 7
+Redgar killed ANGE1  in round 7
+suygetsu killed Redgar  in round 7
+suygetsu killed Jamppi  in round 7
+Round 7 ended with spike_defuse. The winning team is NAVI.
+The current score is Team Liquid 5 - 2 NAVI.
+ANGE1 killed Jamppi  in round 8
+Zyppan killed Redgar  in round 8
+nAts killed Zyppan  in round 8
+nAts killed ANGE1  in round 8
+Shao killed nAts  in round 8
+cNed killed Sayf  in round 8
+cNed killed soulcas  in round 8
+Round 8 ended with elimination. The winning team is NAVI.
+The current score is Team Liquid 5 - 3 NAVI.
+ANGE1 killed soulcas  in round 9
+ANGE1 killed Jamppi  in round 9
+Sayf killed ANGE1  in round 9
+Zyppan killed Sayf  in round 9
+Round 9 ended with time_expired. The winning team is NAVI.
+The current score is Team Liquid 5 - 4 NAVI.
+Jamppi killed Zyppan  in round 10
+nAts killed ANGE1  in round 10
+soulcas killed Shao  in round 10
+Round 10 ended with detonate. The winning team is Team Liquid.
+The current score is Team Liquid 6 - 4 NAVI.
+cNed killed nAts  in round 11
+cNed killed Jamppi  in round 11
+Shao killed Sayf  in round 11
+ANGE1 killed Redgar  in round 11
+cNed killed soulcas  in round 11
+Round 11 ended with elimination. The winning team is NAVI.
+The current score is Team Liquid 6 - 5 NAVI.
+Shao killed Jamppi  in round 12
+Zyppan killed soulcas  in round 12
+Zyppan killed Sayf  in round 12
+nAts killed Zyppan  in round 12
+ANGE1 killed nAts  in round 12
+Shao killed Redgar  in round 12
+Round 12 ended with elimination. The winning team is NAVI.
+The current score is Team Liquid 6 - 6 NAVI.
+soulcas killed Zyppan  in round 13
+ANGE1 killed nAts  in round 13
+Redgar killed cNed  in round 13
+ANGE1 killed Jamppi  in round 13
+Shao killed Redgar  in round 13
+Sayf killed ANGE1  in round 13
+Sayf killed suygetsu  in round 13
+Shao killed soulcas  in round 13
+Sayf killed Shao  in round 13
+Round 13 ended with spike_defuse. The winning team is Team Liquid.
+The current score is Team Liquid 7 - 6 NAVI.
+Redgar killed cNed  in round 14
+Sayf killed Shao  in round 14
+soulcas killed ANGE1  in round 14
+soulcas killed suygetsu  in round 14
+soulcas killed Zyppan  in round 14
+Round 14 ended with elimination. The winning team is Team Liquid.
+The current score is Team Liquid 8 - 6 NAVI.
+Zyppan killed Redgar  in round 15
+ANGE1 killed Jamppi  in round 15
+cNed killed nAts  in round 15
+Round 15 ended with detonate. The winning team is NAVI.
+The current score is Team Liquid 8 - 7 NAVI.
+Sayf killed Sayf  in round 16
+soulcas killed soulcas  in round 16
+Shao killed nAts  in round 16
+cNed killed Redgar  in round 16
+ANGE1 killed Jamppi  in round 16
+suygetsu killed soulcas  in round 16
+Sayf killed Shao  in round 16
+Round 16 ended with detonate. The winning team is NAVI.
+The current score is Team Liquid 8 - 8 NAVI.
+Zyppan killed Sayf  in round 17
+ANGE1 killed Redgar  in round 17
+ANGE1 killed Jamppi  in round 17
+soulcas killed ANGE1  in round 17
+suygetsu killed Sayf  in round 17
+suygetsu killed nAts  in round 17
+soulcas killed Zyppan  in round 17
+Round 17 ended with detonate. The winning team is NAVI.
+The current score is Team Liquid 8 - 9 NAVI.
+soulcas killed soulcas  in round 18
+ANGE1 killed Jamppi  in round 18
+soulcas killed Zyppan  in round 18
+Sayf killed suygetsu  in round 18
+Sayf killed ANGE1  in round 18
+Shao killed Redgar  in round 18
+Sayf killed Shao  in round 18
+soulcas killed cNed  in round 18
+Round 18 ended with elimination. The winning team is Team Liquid.
+The current score is Team Liquid 9 - 9 NAVI.
+nAts killed Shao  in round 19
+Sayf killed ANGE1  in round 19
+Zyppan killed nAts  in round 19
+cNed killed Sayf  in round 19
+suygetsu killed Redgar  in round 19
+suygetsu killed Jamppi  in round 19
+Round 19 ended with detonate. The winning team is NAVI.
+The current score is Team Liquid 9 - 10 NAVI.
+Zyppan killed Sayf  in round 20
+Zyppan killed Jamppi  in round 20
+Zyppan killed soulcas  in round 20
+suygetsu killed Redgar  in round 20
+nAts killed Zyppan  in round 20
+Round 20 ended with detonate. The winning team is NAVI.
+The current score is Team Liquid 9 - 11 NAVI.
+suygetsu killed nAts  in round 21
+Shao killed Redgar  in round 21
+Shao killed Jamppi  in round 21
+nAts killed Shao  in round 21
+nAts killed ANGE1  in round 21
+suygetsu killed soulcas  in round 21
+Sayf killed Zyppan  in round 21
+Sayf killed suygetsu  in round 21
+cNed killed nAts  in round 21
+cNed killed Sayf  in round 21
+Round 21 ended with elimination. The winning team is NAVI.
+The current score is Team Liquid 9 - 12 NAVI.
+cNed killed cNed  in round 22
+Jamppi killed Zyppan  in round 22
+soulcas killed cNed  in round 22
+Shao killed soulcas  in round 22
+Sayf killed Shao  in round 22
+ANGE1 killed Sayf  in round 22
+Jamppi killed ANGE1  in round 22
+Redgar killed suygetsu  in round 22
+Round 22 ended with elimination. The winning team is Team Liquid.
+The current score is Team Liquid 10 - 12 NAVI.
+nAts killed ANGE1  in round 23
+nAts killed cNed  in round 23
+nAts killed Zyppan  in round 23
+nAts killed suygetsu  in round 23
+Redgar killed Shao  in round 23
+Round 23 ended with elimination. The winning team is Team Liquid.
+The current score is Team Liquid 11 - 12 NAVI.
+Zyppan killed nAts  in round 24
+cNed killed soulcas  in round 24
+Jamppi killed ANGE1  in round 24
+suygetsu killed Sayf  in round 24
+Zyppan killed Jamppi  in round 24
+Redgar killed Zyppan  in round 24
+Redgar killed Shao  in round 24
+cNed killed Redgar  in round 24
+Round 24 ended with elimination. The winning team is NAVI.
+The current score is Team Liquid 11 - 13 NAVI.
+Game ended with winning team: NAVI at 2023-08-06T20:13:04Z
+
+--- Player Stats ---
+Zyppan: Team=NAVI, Kills=18, Deaths=18, Assists=2, KDA=1.11, First Kills=5, First Deaths=2
+cNed: Team=NAVI, Kills=17, Deaths=12, Assists=6, KDA=1.92, First Kills=2, First Deaths=2
+ANGE1: Team=NAVI, Kills=15, Deaths=19, Assists=8, KDA=1.21, First Kills=3, First Deaths=2
+Shao: Team=NAVI, Kills=14, Deaths=15, Assists=4, KDA=1.2, First Kills=1, First Deaths=3
+suygetsu: Team=NAVI, Kills=17, Deaths=10, Assists=7, KDA=2.4, First Kills=3, First Deaths=0
+Jamppi: Team=Team Liquid, Kills=16, Deaths=17, Assists=2, KDA=1.06, First Kills=4, First Deaths=4
+Sayf: Team=Team Liquid, Kills=15, Deaths=17, Assists=10, KDA=1.47, First Kills=1, First Deaths=3
+Redgar: Team=Team Liquid, Kills=10, Deaths=18, Assists=8, KDA=1.0, First Kills=1, First Deaths=1
+nAts: Team=Team Liquid, Kills=20, Deaths=15, Assists=3, KDA=1.53, First Kills=2, First Deaths=4
+soulcas: Team=Team Liquid, Kills=15, Deaths=16, Assists=9, KDA=1.5, First Kills=2, First Deaths=3

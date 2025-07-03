@@ -1,0 +1,254 @@
+Team 1: KOI
+Team 2: Team Heretics
+Participating Players:
+Player 1: MiniBoo
+Player 2: RieNs
+Player 3: Boo
+Player 4: benjyfishy
+Player 5: Wo0t
+Player 6: Sheydos
+Player 7: starxo
+Player 8: Shadow 
+Player 9: kamo
+Player 10: GRUBINHO
+Winning Team: KOI
+Score: KOI 13 - 11 Team Heretics
+Tournament Name: vct emea stage 2 2024
+Game Start Time: 2024-07-10T15:44:23Z
+Game End Time: 2024-07-10T16:57:08Z
+Rounds ended by ELIMINATION count: 14
+Rounds ended by DEFUSE count: 6
+Rounds ended by DETONATE count: 2
+SPIKE PLANTED count: 8
+platformGameId: val:65709c9c-8a14-49e6-bd17-5a75437528a8
+
+--- Events ---
+Game started at 2024-07-10T15:44:23Z
+RieNs killed starxo  in round 1
+MiniBoo killed kamo  in round 1
+GRUBINHO killed Wo0t  in round 1
+GRUBINHO killed Boo  in round 1
+GRUBINHO killed MiniBoo  in round 1
+RieNs killed GRUBINHO  in round 1
+Sheydos killed benjyfishy  in round 1
+Shadow  killed RieNs  in round 1
+Round 1 ended with elimination. The winning team is KOI.
+The current score is KOI 1 - 0 Team Heretics.
+Wo0t killed GRUBINHO  in round 2
+kamo killed benjyfishy  in round 2
+starxo killed MiniBoo  in round 2
+kamo killed RieNs  in round 2
+Wo0t killed kamo  in round 2
+Shadow  killed Wo0t  in round 2
+Shadow  killed Boo  in round 2
+Round 2 ended with elimination. The winning team is KOI.
+The current score is KOI 2 - 0 Team Heretics.
+kamo killed Wo0t  in round 3
+MiniBoo killed kamo  in round 3
+GRUBINHO killed benjyfishy  in round 3
+GRUBINHO killed Boo  in round 3
+MiniBoo killed starxo  in round 3
+MiniBoo killed Sheydos  in round 3
+GRUBINHO killed MiniBoo  in round 3
+GRUBINHO killed RieNs  in round 3
+Round 3 ended with elimination. The winning team is KOI.
+The current score is KOI 3 - 0 Team Heretics.
+Shadow  killed RieNs  in round 4
+kamo killed benjyfishy  in round 4
+kamo killed Boo  in round 4
+GRUBINHO killed Wo0t  in round 4
+starxo killed MiniBoo  in round 4
+Round 4 ended with elimination. The winning team is KOI.
+The current score is KOI 4 - 0 Team Heretics.
+Boo killed GRUBINHO  in round 5
+kamo killed RieNs  in round 5
+kamo killed Wo0t  in round 5
+Boo killed kamo  in round 5
+MiniBoo killed starxo  in round 5
+Shadow  killed MiniBoo  in round 5
+benjyfishy killed Sheydos  in round 5
+Shadow  killed Boo  in round 5
+benjyfishy killed Shadow   in round 5
+Round 5 ended with elimination. The winning team is Team Heretics.
+The current score is KOI 4 - 1 Team Heretics.
+kamo killed RieNs  in round 6
+MiniBoo killed kamo  in round 6
+starxo killed Wo0t  in round 6
+MiniBoo killed Shadow   in round 6
+benjyfishy killed starxo  in round 6
+Boo killed GRUBINHO  in round 6
+Sheydos killed MiniBoo  in round 6
+Sheydos killed Boo  in round 6
+Round 6 ended with time_expired. The winning team is Team Heretics.
+The current score is KOI 4 - 2 Team Heretics.
+Sheydos killed benjyfishy  in round 7
+kamo killed Wo0t  in round 7
+RieNs killed GRUBINHO  in round 7
+Sheydos killed MiniBoo  in round 7
+Sheydos killed RieNs  in round 7
+Sheydos killed Boo  in round 7
+Round 7 ended with elimination. The winning team is KOI.
+The current score is KOI 5 - 2 Team Heretics.
+Shadow  killed RieNs  in round 8
+Sheydos killed benjyfishy  in round 8
+Wo0t killed GRUBINHO  in round 8
+Wo0t killed Shadow   in round 8
+Wo0t killed Sheydos  in round 8
+kamo killed MiniBoo  in round 8
+kamo killed Boo  in round 8
+starxo killed Wo0t  in round 8
+Round 8 ended with elimination. The winning team is KOI.
+The current score is KOI 6 - 2 Team Heretics.
+kamo killed Wo0t  in round 9
+MiniBoo killed kamo  in round 9
+benjyfishy killed starxo  in round 9
+benjyfishy killed Shadow   in round 9
+benjyfishy killed GRUBINHO  in round 9
+Round 9 ended with spike_defuse. The winning team is Team Heretics.
+The current score is KOI 6 - 3 Team Heretics.
+MiniBoo killed Sheydos  in round 10
+Wo0t killed GRUBINHO  in round 10
+starxo killed MiniBoo  in round 10
+Boo killed kamo  in round 10
+RieNs killed Shadow   in round 10
+Wo0t killed starxo  in round 10
+Round 10 ended with time_expired. The winning team is Team Heretics.
+The current score is KOI 6 - 4 Team Heretics.
+kamo killed MiniBoo  in round 11
+GRUBINHO killed Boo  in round 11
+benjyfishy killed Sheydos  in round 11
+RieNs killed Shadow   in round 11
+RieNs killed GRUBINHO  in round 11
+kamo killed Wo0t  in round 11
+benjyfishy killed kamo  in round 11
+RieNs killed starxo  in round 11
+Round 11 ended with spike_defuse. The winning team is Team Heretics.
+The current score is KOI 6 - 5 Team Heretics.
+MiniBoo killed starxo  in round 12
+Wo0t killed GRUBINHO  in round 12
+Sheydos killed Wo0t  in round 12
+Shadow  killed RieNs  in round 12
+MiniBoo killed Shadow   in round 12
+Sheydos killed benjyfishy  in round 12
+Sheydos killed MiniBoo  in round 12
+kamo killed Boo  in round 12
+Round 12 ended with elimination. The winning team is KOI.
+The current score is KOI 7 - 5 Team Heretics.
+Shadow  killed MiniBoo  in round 13
+kamo killed Wo0t  in round 13
+starxo killed RieNs  in round 13
+Sheydos killed benjyfishy  in round 13
+Boo killed Shadow   in round 13
+Round 13 ended with spike_defuse. The winning team is KOI.
+The current score is KOI 8 - 5 Team Heretics.
+starxo killed Boo  in round 14
+GRUBINHO killed Boo  in round 14
+starxo killed RieNs  in round 14
+Wo0t killed starxo  in round 14
+Sheydos killed benjyfishy  in round 14
+Wo0t killed Sheydos  in round 14
+Shadow  killed Wo0t  in round 14
+Shadow  killed MiniBoo  in round 14
+Round 14 ended with elimination. The winning team is KOI.
+The current score is KOI 9 - 5 Team Heretics.
+MiniBoo killed kamo  in round 15
+Shadow  killed MiniBoo  in round 15
+benjyfishy killed Shadow   in round 15
+Wo0t killed starxo  in round 15
+GRUBINHO killed Boo  in round 15
+Wo0t killed Sheydos  in round 15
+GRUBINHO killed benjyfishy  in round 15
+RieNs killed GRUBINHO  in round 15
+Round 15 ended with elimination. The winning team is Team Heretics.
+The current score is KOI 9 - 6 Team Heretics.
+RieNs killed GRUBINHO  in round 16
+Wo0t killed starxo  in round 16
+Sheydos killed RieNs  in round 16
+Shadow  killed MiniBoo  in round 16
+Sheydos killed Wo0t  in round 16
+Shadow  killed Boo  in round 16
+benjyfishy killed Shadow   in round 16
+kamo killed benjyfishy  in round 16
+Round 16 ended with elimination. The winning team is KOI.
+The current score is KOI 10 - 6 Team Heretics.
+benjyfishy killed kamo  in round 17
+Sheydos killed benjyfishy  in round 17
+RieNs killed starxo  in round 17
+Sheydos killed MiniBoo  in round 17
+GRUBINHO killed Wo0t  in round 17
+GRUBINHO killed RieNs  in round 17
+GRUBINHO killed Boo  in round 17
+Round 17 ended with spike_defuse. The winning team is KOI.
+The current score is KOI 11 - 6 Team Heretics.
+MiniBoo killed Shadow   in round 18
+starxo killed Wo0t  in round 18
+RieNs killed kamo  in round 18
+benjyfishy killed starxo  in round 18
+GRUBINHO killed RieNs  in round 18
+benjyfishy killed GRUBINHO  in round 18
+Sheydos killed MiniBoo  in round 18
+benjyfishy killed Sheydos  in round 18
+Round 18 ended with elimination. The winning team is Team Heretics.
+The current score is KOI 11 - 7 Team Heretics.
+Sheydos killed Boo  in round 19
+RieNs killed kamo  in round 19
+Shadow  killed Wo0t  in round 19
+Sheydos killed MiniBoo  in round 19
+GRUBINHO killed benjyfishy  in round 19
+GRUBINHO killed RieNs  in round 19
+Round 19 ended with spike_defuse. The winning team is KOI.
+The current score is KOI 12 - 7 Team Heretics.
+kamo killed MiniBoo  in round 20
+Boo killed GRUBINHO  in round 20
+benjyfishy killed Shadow   in round 20
+Round 20 ended with detonate. The winning team is Team Heretics.
+The current score is KOI 12 - 8 Team Heretics.
+Wo0t killed kamo  in round 21
+Wo0t killed Shadow   in round 21
+Sheydos killed RieNs  in round 21
+Round 21 ended with detonate. The winning team is Team Heretics.
+The current score is KOI 12 - 9 Team Heretics.
+MiniBoo killed GRUBINHO  in round 22
+Wo0t killed Sheydos  in round 22
+kamo killed Boo  in round 22
+RieNs killed Shadow   in round 22
+benjyfishy killed kamo  in round 22
+Sheydos killed benjyfishy  in round 22
+Wo0t killed Sheydos  in round 22
+starxo killed Wo0t  in round 22
+MiniBoo killed GRUBINHO  in round 22
+RieNs killed starxo  in round 22
+Round 22 ended with elimination. The winning team is Team Heretics.
+The current score is KOI 12 - 10 Team Heretics.
+MiniBoo killed GRUBINHO  in round 23
+Wo0t killed Shadow   in round 23
+Wo0t killed Sheydos  in round 23
+RieNs killed starxo  in round 23
+kamo killed Wo0t  in round 23
+kamo killed MiniBoo  in round 23
+kamo killed RieNs  in round 23
+Boo killed kamo  in round 23
+Round 23 ended with elimination. The winning team is Team Heretics.
+The current score is KOI 12 - 11 Team Heretics.
+Wo0t killed kamo  in round 24
+MiniBoo killed Shadow   in round 24
+GRUBINHO killed MiniBoo  in round 24
+GRUBINHO killed benjyfishy  in round 24
+Sheydos killed Boo  in round 24
+GRUBINHO killed RieNs  in round 24
+starxo killed Wo0t  in round 24
+Round 24 ended with spike_defuse. The winning team is KOI.
+The current score is KOI 13 - 11 Team Heretics.
+Game ended with winning team: KOI at 2024-07-10T16:57:08Z
+
+--- Player Stats ---
+MiniBoo: Team=Team Heretics, Kills=17, Deaths=21, Assists=4, KDA=1.0, First Kills=6, First Deaths=3
+RieNs: Team=Team Heretics, Kills=15, Deaths=18, Assists=6, KDA=1.17, First Kills=2, First Deaths=3
+Boo: Team=Team Heretics, Kills=7, Deaths=18, Assists=6, KDA=0.72, First Kills=1, First Deaths=2
+benjyfishy: Team=Team Heretics, Kills=16, Deaths=15, Assists=1, KDA=1.13, First Kills=1, First Deaths=1
+Wo0t: Team=Team Heretics, Kills=20, Deaths=20, Assists=2, KDA=1.1, First Kills=3, First Deaths=2
+Sheydos: Team=KOI, Kills=23, Deaths=11, Assists=5, KDA=2.55, First Kills=2, First Deaths=1
+starxo: Team=KOI, Kills=11, Deaths=15, Assists=19, KDA=2.0, First Kills=1, First Deaths=2
+Shadow : Team=KOI, Kills=15, Deaths=16, Assists=11, KDA=1.62, First Kills=3, First Deaths=1
+kamo: Team=KOI, Kills=22, Deaths=16, Assists=7, KDA=1.81, First Kills=5, First Deaths=4
+GRUBINHO: Team=KOI, Kills=21, Deaths=17, Assists=6, KDA=1.59, First Kills=0, First Deaths=5

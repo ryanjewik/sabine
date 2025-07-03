@@ -1,0 +1,204 @@
+Team 1: EDWARD Gaming
+Team 2: Bilibili Gaming
+Participating Players:
+Player 1: Flex1n
+Player 2: Knight 
+Player 3: nephh
+Player 4: whzy
+Player 5: yosemite
+Player 6: CHICHOO
+Player 7: ZmjjKK
+Player 8: S1Mon
+Player 9: nobody 
+Player 10: Smoggy
+Winning Team: EDWARD Gaming
+Score: EDWARD Gaming 13 - 5 Bilibili Gaming
+Tournament Name: vct cn stage 2 2024
+Game Start Time: 2024-07-17T10:10:26Z
+Game End Time: 2024-07-17T10:59:05Z
+Rounds ended by ELIMINATION count: 12
+Rounds ended by DEFUSE count: 5
+Rounds ended by DETONATE count: 1
+SPIKE PLANTED count: 6
+platformGameId: val:aefae3f6-9160-4624-97f2-5c7e29ec35e9
+
+--- Events ---
+Game started at 2024-07-17T10:10:26Z
+ZmjjKK killed whzy  in round 1
+yosemite killed ZmjjKK  in round 1
+Flex1n killed S1Mon  in round 1
+Flex1n killed Smoggy  in round 1
+yosemite killed nobody   in round 1
+yosemite killed CHICHOO  in round 1
+Round 1 ended with elimination. The winning team is Bilibili Gaming.
+The current score is EDWARD Gaming 0 - 1 Bilibili Gaming.
+ZmjjKK killed Flex1n  in round 2
+whzy killed nobody   in round 2
+nephh killed CHICHOO  in round 2
+nephh killed S1Mon  in round 2
+Smoggy killed nephh  in round 2
+ZmjjKK killed whzy  in round 2
+Smoggy killed yosemite  in round 2
+Smoggy killed Knight   in round 2
+Round 2 ended with elimination. The winning team is EDWARD Gaming.
+The current score is EDWARD Gaming 1 - 1 Bilibili Gaming.
+Knight  killed ZmjjKK  in round 3
+yosemite killed nobody   in round 3
+yosemite killed S1Mon  in round 3
+Smoggy killed whzy  in round 3
+yosemite killed Smoggy  in round 3
+CHICHOO killed Knight   in round 3
+CHICHOO killed yosemite  in round 3
+yosemite killed CHICHOO  in round 3
+Round 3 ended with elimination. The winning team is Bilibili Gaming.
+The current score is EDWARD Gaming 1 - 2 Bilibili Gaming.
+yosemite killed ZmjjKK  in round 4
+nobody  killed yosemite  in round 4
+S1Mon killed nephh  in round 4
+whzy killed nobody   in round 4
+whzy killed S1Mon  in round 4
+Smoggy killed whzy  in round 4
+Knight  killed CHICHOO  in round 4
+Smoggy killed Knight   in round 4
+Smoggy killed Flex1n  in round 4
+Round 4 ended with elimination. The winning team is EDWARD Gaming.
+The current score is EDWARD Gaming 2 - 2 Bilibili Gaming.
+ZmjjKK killed Flex1n  in round 5
+yosemite killed ZmjjKK  in round 5
+nobody  killed whzy  in round 5
+nephh killed nobody   in round 5
+CHICHOO killed nephh  in round 5
+S1Mon killed yosemite  in round 5
+CHICHOO killed Knight   in round 5
+Round 5 ended with elimination. The winning team is EDWARD Gaming.
+The current score is EDWARD Gaming 3 - 2 Bilibili Gaming.
+Flex1n killed ZmjjKK  in round 6
+S1Mon killed Flex1n  in round 6
+Knight  killed CHICHOO  in round 6
+yosemite killed Smoggy  in round 6
+nobody  killed nephh  in round 6
+nobody  killed yosemite  in round 6
+nobody  killed whzy  in round 6
+Knight  killed nobody   in round 6
+S1Mon killed Knight   in round 6
+Round 6 ended with elimination. The winning team is EDWARD Gaming.
+The current score is EDWARD Gaming 4 - 2 Bilibili Gaming.
+ZmjjKK killed Knight   in round 7
+nobody  killed nephh  in round 7
+ZmjjKK killed yosemite  in round 7
+Round 7 ended with detonate. The winning team is EDWARD Gaming.
+The current score is EDWARD Gaming 5 - 2 Bilibili Gaming.
+whzy killed ZmjjKK  in round 8
+whzy killed Smoggy  in round 8
+whzy killed S1Mon  in round 8
+CHICHOO killed whzy  in round 8
+nephh killed nobody   in round 8
+nephh killed CHICHOO  in round 8
+Round 8 ended with elimination. The winning team is Bilibili Gaming.
+The current score is EDWARD Gaming 5 - 3 Bilibili Gaming.
+Smoggy killed whzy  in round 9
+nephh killed Smoggy  in round 9
+Flex1n killed ZmjjKK  in round 9
+S1Mon killed yosemite  in round 9
+Flex1n killed nobody   in round 9
+S1Mon killed Flex1n  in round 9
+nephh killed CHICHOO  in round 9
+S1Mon killed Knight   in round 9
+nephh killed S1Mon  in round 9
+Round 9 ended with spike_defuse. The winning team is Bilibili Gaming.
+The current score is EDWARD Gaming 5 - 4 Bilibili Gaming.
+ZmjjKK killed yosemite  in round 10
+ZmjjKK killed whzy  in round 10
+CHICHOO killed Flex1n  in round 10
+Knight  killed ZmjjKK  in round 10
+nobody  killed Knight   in round 10
+S1Mon killed nephh  in round 10
+Round 10 ended with elimination. The winning team is EDWARD Gaming.
+The current score is EDWARD Gaming 6 - 4 Bilibili Gaming.
+Knight  killed ZmjjKK  in round 11
+S1Mon killed whzy  in round 11
+Flex1n killed S1Mon  in round 11
+CHICHOO killed yosemite  in round 11
+nobody  killed Flex1n  in round 11
+Knight  killed nobody   in round 11
+CHICHOO killed whzy  in round 11
+nephh killed CHICHOO  in round 11
+Smoggy killed nephh  in round 11
+Knight  killed Smoggy  in round 11
+Round 11 ended with spike_defuse. The winning team is Bilibili Gaming.
+The current score is EDWARD Gaming 6 - 5 Bilibili Gaming.
+nobody  killed nephh  in round 12
+Flex1n killed S1Mon  in round 12
+CHICHOO killed yosemite  in round 12
+Knight  killed ZmjjKK  in round 12
+nobody  killed Flex1n  in round 12
+Smoggy killed whzy  in round 12
+CHICHOO killed Knight   in round 12
+Round 12 ended with elimination. The winning team is EDWARD Gaming.
+The current score is EDWARD Gaming 7 - 5 Bilibili Gaming.
+CHICHOO killed whzy  in round 13
+CHICHOO killed nephh  in round 13
+yosemite killed CHICHOO  in round 13
+ZmjjKK killed Flex1n  in round 13
+yosemite killed nobody   in round 13
+ZmjjKK killed yosemite  in round 13
+Knight  killed ZmjjKK  in round 13
+Knight  killed Smoggy  in round 13
+S1Mon killed Knight   in round 13
+Round 13 ended with spike_defuse. The winning team is EDWARD Gaming.
+The current score is EDWARD Gaming 8 - 5 Bilibili Gaming.
+Smoggy killed Flex1n  in round 14
+yosemite killed nobody   in round 14
+ZmjjKK killed whzy  in round 14
+CHICHOO killed yosemite  in round 14
+S1Mon killed nephh  in round 14
+ZmjjKK killed Knight   in round 14
+Round 14 ended with elimination. The winning team is EDWARD Gaming.
+The current score is EDWARD Gaming 9 - 5 Bilibili Gaming.
+ZmjjKK killed Flex1n  in round 15
+CHICHOO killed whzy  in round 15
+nobody  killed nephh  in round 15
+Knight  killed Smoggy  in round 15
+S1Mon killed Knight   in round 15
+ZmjjKK killed yosemite  in round 15
+Round 15 ended with spike_defuse. The winning team is EDWARD Gaming.
+The current score is EDWARD Gaming 10 - 5 Bilibili Gaming.
+ZmjjKK killed nephh  in round 16
+ZmjjKK killed Knight   in round 16
+yosemite killed S1Mon  in round 16
+ZmjjKK killed yosemite  in round 16
+whzy killed Smoggy  in round 16
+nobody  killed whzy  in round 16
+nobody  killed Flex1n  in round 16
+Round 16 ended with elimination. The winning team is EDWARD Gaming.
+The current score is EDWARD Gaming 11 - 5 Bilibili Gaming.
+ZmjjKK killed whzy  in round 17
+CHICHOO killed yosemite  in round 17
+nobody  killed nephh  in round 17
+Knight  killed nobody   in round 17
+Smoggy killed Knight   in round 17
+ZmjjKK killed Flex1n  in round 17
+Round 17 ended with spike_defuse. The winning team is EDWARD Gaming.
+The current score is EDWARD Gaming 12 - 5 Bilibili Gaming.
+nephh killed Smoggy  in round 18
+nobody  killed Knight   in round 18
+ZmjjKK killed Flex1n  in round 18
+ZmjjKK killed nephh  in round 18
+nobody  killed whzy  in round 18
+yosemite killed nobody   in round 18
+S1Mon killed yosemite  in round 18
+Round 18 ended with elimination. The winning team is EDWARD Gaming.
+The current score is EDWARD Gaming 13 - 5 Bilibili Gaming.
+Game ended with winning team: EDWARD Gaming at 2024-07-17T10:59:05Z
+
+--- Player Stats ---
+Flex1n: Team=Bilibili Gaming, Kills=7, Deaths=14, Assists=4, KDA=0.79, First Kills=1, First Deaths=4
+Knight : Team=Bilibili Gaming, Kills=13, Deaths=15, Assists=7, KDA=1.33, First Kills=2, First Deaths=1
+nephh: Team=Bilibili Gaming, Kills=10, Deaths=14, Assists=3, KDA=0.93, First Kills=1, First Deaths=2
+whzy: Team=Bilibili Gaming, Kills=7, Deaths=18, Assists=2, KDA=0.5, First Kills=1, First Deaths=4
+yosemite: Team=Bilibili Gaming, Kills=15, Deaths=16, Assists=3, KDA=1.12, First Kills=1, First Deaths=1
+CHICHOO: Team=EDWARD Gaming, Kills=15, Deaths=9, Assists=5, KDA=2.22, First Kills=1, First Deaths=0
+ZmjjKK: Team=EDWARD Gaming, Kills=21, Deaths=11, Assists=2, KDA=2.09, First Kills=8, First Deaths=5
+S1Mon: Team=EDWARD Gaming, Kills=13, Deaths=9, Assists=10, KDA=2.56, First Kills=0, First Deaths=0
+nobody : Team=EDWARD Gaming, Kills=16, Deaths=13, Assists=7, KDA=1.77, First Kills=1, First Deaths=0
+Smoggy: Team=EDWARD Gaming, Kills=12, Deaths=10, Assists=6, KDA=1.8, First Kills=2, First Deaths=1

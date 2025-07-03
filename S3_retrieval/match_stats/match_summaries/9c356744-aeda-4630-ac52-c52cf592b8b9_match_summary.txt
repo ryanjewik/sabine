@@ -1,0 +1,185 @@
+Team 1: KRÜ Esports
+Team 2: NRG
+Participating Players:
+Player 1: crashies
+Player 2: Victor
+Player 3: FNS
+Player 4: s0m
+Player 5: ardiis
+Player 6: DAVEEYS
+Player 7: Klaus
+Player 8: Melser
+Player 9: KeznitdeuS
+Player 10: NagZet
+Winning Team: NRG
+Score: KRÜ Esports 4 - 13 NRG
+Tournament Name: vct americas 2023
+Game Start Time: 2023-04-25T22:40:06Z
+Game End Time: 2023-04-25T23:21:05Z
+Rounds ended by ELIMINATION count: 14
+Rounds ended by DEFUSE count: 2
+Rounds ended by DETONATE count: 1
+SPIKE PLANTED count: 3
+platformGameId: val:9c356744-aeda-4630-ac52-c52cf592b8b9
+
+--- Events ---
+Game started at 2023-04-25T22:40:06Z
+KeznitdeuS killed Victor  in round 1
+s0m killed KeznitdeuS  in round 1
+NagZet killed s0m  in round 1
+crashies killed DAVEEYS  in round 1
+ardiis killed NagZet  in round 1
+Melser killed ardiis  in round 1
+FNS killed Klaus  in round 1
+Melser killed FNS  in round 1
+crashies killed Melser  in round 1
+Round 1 ended with spike_defuse. The winning team is NRG.
+The current score is KRÜ Esports 0 - 1 NRG.
+ardiis killed NagZet  in round 2
+ardiis killed Klaus  in round 2
+Melser killed Victor  in round 2
+crashies killed Melser  in round 2
+ardiis killed KeznitdeuS  in round 2
+crashies killed DAVEEYS  in round 2
+Round 2 ended with elimination. The winning team is NRG.
+The current score is KRÜ Esports 0 - 2 NRG.
+ardiis killed KeznitdeuS  in round 3
+DAVEEYS killed crashies  in round 3
+DAVEEYS killed ardiis  in round 3
+FNS killed DAVEEYS  in round 3
+FNS killed NagZet  in round 3
+Klaus killed FNS  in round 3
+Melser killed Victor  in round 3
+s0m killed Klaus  in round 3
+s0m killed Melser  in round 3
+Round 3 ended with elimination. The winning team is NRG.
+The current score is KRÜ Esports 0 - 3 NRG.
+ardiis killed NagZet  in round 4
+ardiis killed KeznitdeuS  in round 4
+ardiis killed DAVEEYS  in round 4
+FNS killed Klaus  in round 4
+FNS killed Melser  in round 4
+Round 4 ended with elimination. The winning team is NRG.
+The current score is KRÜ Esports 0 - 4 NRG.
+KeznitdeuS killed ardiis  in round 5
+FNS killed KeznitdeuS  in round 5
+Melser killed Victor  in round 5
+Klaus killed FNS  in round 5
+Melser killed s0m  in round 5
+Round 5 ended with detonate. The winning team is KRÜ Esports.
+The current score is KRÜ Esports 1 - 4 NRG.
+crashies killed DAVEEYS  in round 6
+NagZet killed ardiis  in round 6
+FNS killed Klaus  in round 6
+FNS killed KeznitdeuS  in round 6
+FNS killed NagZet  in round 6
+Melser killed crashies  in round 6
+s0m killed Melser  in round 6
+Round 6 ended with elimination. The winning team is NRG.
+The current score is KRÜ Esports 1 - 5 NRG.
+ardiis killed KeznitdeuS  in round 7
+ardiis killed DAVEEYS  in round 7
+s0m killed Melser  in round 7
+FNS killed Klaus  in round 7
+ardiis killed NagZet  in round 7
+Round 7 ended with elimination. The winning team is NRG.
+The current score is KRÜ Esports 1 - 6 NRG.
+s0m killed Klaus  in round 8
+Victor killed NagZet  in round 8
+s0m killed Melser  in round 8
+KeznitdeuS killed crashies  in round 8
+s0m killed KeznitdeuS  in round 8
+crashies killed DAVEEYS  in round 8
+Round 8 ended with elimination. The winning team is NRG.
+The current score is KRÜ Esports 1 - 7 NRG.
+NagZet killed FNS  in round 9
+Melser killed Victor  in round 9
+s0m killed Melser  in round 9
+ardiis killed KeznitdeuS  in round 9
+s0m killed DAVEEYS  in round 9
+crashies killed Klaus  in round 9
+s0m killed NagZet  in round 9
+Round 9 ended with spike_defuse. The winning team is NRG.
+The current score is KRÜ Esports 1 - 8 NRG.
+Victor killed Melser  in round 10
+ardiis killed Klaus  in round 10
+Victor killed KeznitdeuS  in round 10
+ardiis killed DAVEEYS  in round 10
+NagZet killed ardiis  in round 10
+Victor killed NagZet  in round 10
+Round 10 ended with elimination. The winning team is NRG.
+The current score is KRÜ Esports 1 - 9 NRG.
+ardiis killed Melser  in round 11
+Klaus killed s0m  in round 11
+NagZet killed crashies  in round 11
+Klaus killed FNS  in round 11
+NagZet killed ardiis  in round 11
+Victor killed NagZet  in round 11
+KeznitdeuS killed Victor  in round 11
+Round 11 ended with elimination. The winning team is KRÜ Esports.
+The current score is KRÜ Esports 2 - 9 NRG.
+crashies killed NagZet  in round 12
+KeznitdeuS killed Victor  in round 12
+FNS killed Klaus  in round 12
+KeznitdeuS killed crashies  in round 12
+DAVEEYS killed ardiis  in round 12
+s0m killed DAVEEYS  in round 12
+FNS killed Melser  in round 12
+KeznitdeuS killed s0m  in round 12
+KeznitdeuS killed FNS  in round 12
+Round 12 ended with elimination. The winning team is KRÜ Esports.
+The current score is KRÜ Esports 3 - 9 NRG.
+KeznitdeuS killed KeznitdeuS  in round 13
+s0m killed NagZet  in round 13
+ardiis killed KeznitdeuS  in round 13
+ardiis killed DAVEEYS  in round 13
+Klaus killed ardiis  in round 13
+Victor killed Klaus  in round 13
+Melser killed FNS  in round 13
+s0m killed Melser  in round 13
+Round 13 ended with elimination. The winning team is NRG.
+The current score is KRÜ Esports 3 - 10 NRG.
+ardiis killed Melser  in round 14
+crashies killed DAVEEYS  in round 14
+NagZet killed FNS  in round 14
+ardiis killed Klaus  in round 14
+ardiis killed NagZet  in round 14
+crashies killed KeznitdeuS  in round 14
+Round 14 ended with elimination. The winning team is NRG.
+The current score is KRÜ Esports 3 - 11 NRG.
+Klaus killed ardiis  in round 15
+Klaus killed Victor  in round 15
+Klaus killed FNS  in round 15
+KeznitdeuS killed s0m  in round 15
+crashies killed Klaus  in round 15
+KeznitdeuS killed crashies  in round 15
+Round 15 ended with elimination. The winning team is KRÜ Esports.
+The current score is KRÜ Esports 4 - 11 NRG.
+Victor killed DAVEEYS  in round 16
+ardiis killed Melser  in round 16
+crashies killed KeznitdeuS  in round 16
+ardiis killed Klaus  in round 16
+NagZet killed crashies  in round 16
+s0m killed NagZet  in round 16
+Round 16 ended with elimination. The winning team is NRG.
+The current score is KRÜ Esports 4 - 12 NRG.
+Victor killed DAVEEYS  in round 17
+Victor killed KeznitdeuS  in round 17
+Victor killed Melser  in round 17
+FNS killed NagZet  in round 17
+crashies killed Klaus  in round 17
+Round 17 ended with elimination. The winning team is NRG.
+The current score is KRÜ Esports 4 - 13 NRG.
+Game ended with winning team: NRG at 2023-04-25T23:21:05Z
+
+--- Player Stats ---
+crashies: Team=NRG, Kills=13, Deaths=7, Assists=4, KDA=2.43, First Kills=2, First Deaths=0
+Victor: Team=NRG, Kills=10, Deaths=8, Assists=14, KDA=3.0, First Kills=3, First Deaths=1
+FNS: Team=NRG, Kills=13, Deaths=9, Assists=1, KDA=1.56, First Kills=0, First Deaths=1
+s0m: Team=NRG, Kills=15, Deaths=5, Assists=7, KDA=4.4, First Kills=1, First Deaths=0
+ardiis: Team=NRG, Kills=22, Deaths=9, Assists=4, KDA=2.89, First Kills=6, First Deaths=2
+DAVEEYS: Team=KRÜ Esports, Kills=3, Deaths=14, Assists=3, KDA=0.43, First Kills=0, First Deaths=3
+Klaus: Team=KRÜ Esports, Kills=8, Deaths=15, Assists=3, KDA=0.73, First Kills=1, First Deaths=1
+Melser: Team=KRÜ Esports, Kills=9, Deaths=15, Assists=2, KDA=0.73, First Kills=0, First Deaths=3
+KeznitdeuS: Team=KRÜ Esports, Kills=11, Deaths=15, Assists=2, KDA=0.87, First Kills=3, First Deaths=3
+NagZet: Team=KRÜ Esports, Kills=8, Deaths=15, Assists=2, KDA=0.67, First Kills=1, First Deaths=3

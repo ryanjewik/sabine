@@ -1,0 +1,200 @@
+Team 1: DRX
+Team 2: ZETA DIVISION
+Participating Players:
+Player 1: Dep
+Player 2: crow 
+Player 3: SugarZ3ro
+Player 4: TENNN
+Player 5: Laz
+Player 6: ZestKR
+Player 7: Foxy9
+Player 8: stax
+Player 9: MaKo
+Player 10: Rb
+Winning Team: DRX
+Score: DRX 13 - 5 ZETA DIVISION
+Tournament Name: vct pacific 2023
+Game Start Time: 2023-03-25T10:14:10Z
+Game End Time: 2023-03-25T11:01:40Z
+Rounds ended by ELIMINATION count: 13
+Rounds ended by DEFUSE count: 2
+Rounds ended by DETONATE count: 3
+SPIKE PLANTED count: 5
+platformGameId: val:92684f10-2ffb-4afc-8953-c59b432544b5
+
+--- Events ---
+Game started at 2023-03-25T10:14:10Z
+Foxy9 killed TENNN  in round 1
+Dep killed Foxy9  in round 1
+Dep killed Rb  in round 1
+stax killed SugarZ3ro  in round 1
+Laz killed stax  in round 1
+MaKo killed Dep  in round 1
+ZestKR killed Laz  in round 1
+crow  killed MaKo  in round 1
+ZestKR killed crow   in round 1
+Round 1 ended with elimination. The winning team is DRX.
+The current score is DRX 1 - 0 ZETA DIVISION.
+stax killed TENNN  in round 2
+Foxy9 killed Dep  in round 2
+Foxy9 killed SugarZ3ro  in round 2
+Laz killed Foxy9  in round 2
+Rb killed Laz  in round 2
+stax killed crow   in round 2
+Round 2 ended with elimination. The winning team is DRX.
+The current score is DRX 2 - 0 ZETA DIVISION.
+Dep killed MaKo  in round 3
+TENNN killed Foxy9  in round 3
+ZestKR killed TENNN  in round 3
+ZestKR killed Dep  in round 3
+SugarZ3ro killed ZestKR  in round 3
+SugarZ3ro killed Rb  in round 3
+crow  killed stax  in round 3
+Round 3 ended with spike_defuse. The winning team is ZETA DIVISION.
+The current score is DRX 2 - 1 ZETA DIVISION.
+Foxy9 killed Dep  in round 4
+stax killed TENNN  in round 4
+Laz killed Foxy9  in round 4
+stax killed Laz  in round 4
+stax killed SugarZ3ro  in round 4
+ZestKR killed crow   in round 4
+Round 4 ended with elimination. The winning team is DRX.
+The current score is DRX 3 - 1 ZETA DIVISION.
+stax killed TENNN  in round 5
+Dep killed ZestKR  in round 5
+Laz killed stax  in round 5
+Foxy9 killed Dep  in round 5
+Round 5 ended with detonate. The winning team is DRX.
+The current score is DRX 4 - 1 ZETA DIVISION.
+crow  killed crow   in round 6
+Laz killed Laz  in round 6
+SugarZ3ro killed SugarZ3ro  in round 6
+TENNN killed Foxy9  in round 6
+TENNN killed ZestKR  in round 6
+MaKo killed TENNN  in round 6
+Laz killed MaKo  in round 6
+Rb killed SugarZ3ro  in round 6
+Rb killed Laz  in round 6
+Rb killed crow   in round 6
+Dep killed Rb  in round 6
+stax killed Dep  in round 6
+Round 6 ended with elimination. The winning team is DRX.
+The current score is DRX 5 - 1 ZETA DIVISION.
+MaKo killed TENNN  in round 7
+Dep killed stax  in round 7
+MaKo killed Dep  in round 7
+Round 7 ended with detonate. The winning team is DRX.
+The current score is DRX 6 - 1 ZETA DIVISION.
+crow  killed crow   in round 8
+SugarZ3ro killed SugarZ3ro  in round 8
+Laz killed Laz  in round 8
+Rb killed SugarZ3ro  in round 8
+Rb killed TENNN  in round 8
+Laz killed Rb  in round 8
+Round 8 ended with detonate. The winning team is DRX.
+The current score is DRX 7 - 1 ZETA DIVISION.
+Laz killed stax  in round 9
+MaKo killed Laz  in round 9
+ZestKR killed Dep  in round 9
+Foxy9 killed crow   in round 9
+SugarZ3ro killed Foxy9  in round 9
+ZestKR killed TENNN  in round 9
+MaKo killed SugarZ3ro  in round 9
+Round 9 ended with elimination. The winning team is DRX.
+The current score is DRX 8 - 1 ZETA DIVISION.
+Foxy9 killed SugarZ3ro  in round 10
+ZestKR killed TENNN  in round 10
+Foxy9 killed Laz  in round 10
+Rb killed Dep  in round 10
+Foxy9 killed crow   in round 10
+Round 10 ended with elimination. The winning team is DRX.
+The current score is DRX 9 - 1 ZETA DIVISION.
+TENNN killed ZestKR  in round 11
+MaKo killed TENNN  in round 11
+crow  killed stax  in round 11
+Foxy9 killed crow   in round 11
+MaKo killed Dep  in round 11
+Foxy9 killed SugarZ3ro  in round 11
+Foxy9 killed Laz  in round 11
+Round 11 ended with elimination. The winning team is DRX.
+The current score is DRX 10 - 1 ZETA DIVISION.
+Dep killed Foxy9  in round 12
+stax killed TENNN  in round 12
+ZestKR killed SugarZ3ro  in round 12
+stax killed Dep  in round 12
+crow  killed stax  in round 12
+crow  killed Rb  in round 12
+ZestKR killed crow   in round 12
+MaKo killed Laz  in round 12
+Round 12 ended with elimination. The winning team is DRX.
+The current score is DRX 11 - 1 ZETA DIVISION.
+Dep killed Foxy9  in round 13
+ZestKR killed TENNN  in round 13
+Rb killed crow   in round 13
+SugarZ3ro killed stax  in round 13
+MaKo killed Dep  in round 13
+SugarZ3ro killed Rb  in round 13
+SugarZ3ro killed ZestKR  in round 13
+SugarZ3ro killed MaKo  in round 13
+Round 13 ended with elimination. The winning team is ZETA DIVISION.
+The current score is DRX 11 - 2 ZETA DIVISION.
+Laz killed Laz  in round 14
+Dep killed stax  in round 14
+SugarZ3ro killed Foxy9  in round 14
+TENNN killed Rb  in round 14
+ZestKR killed SugarZ3ro  in round 14
+Dep killed ZestKR  in round 14
+MaKo killed Dep  in round 14
+crow  killed MaKo  in round 14
+Round 14 ended with elimination. The winning team is ZETA DIVISION.
+The current score is DRX 11 - 3 ZETA DIVISION.
+Rb killed Dep  in round 15
+SugarZ3ro killed Rb  in round 15
+SugarZ3ro killed ZestKR  in round 15
+SugarZ3ro killed Foxy9  in round 15
+SugarZ3ro killed MaKo  in round 15
+stax killed SugarZ3ro  in round 15
+TENNN killed stax  in round 15
+Round 15 ended with elimination. The winning team is ZETA DIVISION.
+The current score is DRX 11 - 4 ZETA DIVISION.
+SugarZ3ro killed stax  in round 16
+Laz killed Foxy9  in round 16
+Rb killed TENNN  in round 16
+crow  killed MaKo  in round 16
+SugarZ3ro killed Rb  in round 16
+crow  killed ZestKR  in round 16
+Round 16 ended with elimination. The winning team is ZETA DIVISION.
+The current score is DRX 11 - 5 ZETA DIVISION.
+MaKo killed TENNN  in round 17
+Laz killed MaKo  in round 17
+stax killed Laz  in round 17
+Dep killed Rb  in round 17
+Foxy9 killed SugarZ3ro  in round 17
+Dep killed ZestKR  in round 17
+crow  killed Foxy9  in round 17
+stax killed Dep  in round 17
+stax killed crow   in round 17
+Round 17 ended with spike_defuse. The winning team is DRX.
+The current score is DRX 12 - 5 ZETA DIVISION.
+Dep killed Foxy9  in round 18
+ZestKR killed SugarZ3ro  in round 18
+ZestKR killed Dep  in round 18
+TENNN killed ZestKR  in round 18
+stax killed TENNN  in round 18
+stax killed crow   in round 18
+stax killed Laz  in round 18
+Round 18 ended with elimination. The winning team is DRX.
+The current score is DRX 13 - 5 ZETA DIVISION.
+Game ended with winning team: DRX at 2023-03-25T11:01:40Z
+
+--- Player Stats ---
+Dep: Team=ZETA DIVISION, Kills=13, Deaths=16, Assists=3, KDA=1.0, First Kills=4, First Deaths=2
+crow : Team=ZETA DIVISION, Kills=11, Deaths=13, Assists=2, KDA=1.0, First Kills=2, First Deaths=2
+SugarZ3ro: Team=ZETA DIVISION, Kills=16, Deaths=15, Assists=4, KDA=1.33, First Kills=1, First Deaths=1
+TENNN: Team=ZETA DIVISION, Kills=7, Deaths=16, Assists=1, KDA=0.5, First Kills=1, First Deaths=5
+Laz: Team=ZETA DIVISION, Kills=12, Deaths=13, Assists=4, KDA=1.23, First Kills=2, First Deaths=1
+ZestKR: Team=DRX, Kills=14, Deaths=10, Assists=6, KDA=2.0, First Kills=0, First Deaths=1
+Foxy9: Team=DRX, Kills=13, Deaths=13, Assists=0, KDA=1.0, First Kills=3, First Deaths=3
+stax: Team=DRX, Kills=17, Deaths=11, Assists=4, KDA=1.91, First Kills=2, First Deaths=2
+MaKo: Team=DRX, Kills=12, Deaths=8, Assists=10, KDA=2.75, First Kills=2, First Deaths=1
+Rb: Team=DRX, Kills=10, Deaths=10, Assists=14, KDA=2.4, First Kills=1, First Deaths=0

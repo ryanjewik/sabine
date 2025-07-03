@@ -1,0 +1,202 @@
+Team 1: Team Heretics
+Team 2: Karmine Corp
+Participating Players:
+Player 1: XMS
+Player 2: sh1n
+Player 3: ScreaM
+Player 4: Nivera
+Player 5: Newzera
+Player 6: Boo
+Player 7: m1xwell
+Player 8: zeek
+Player 9: AvovA
+Player 10: keloqz
+Winning Team: Team Heretics
+Score: Team Heretics 13 - 5 Karmine Corp
+Tournament Name: vct emea 2023
+Game Start Time: 2023-03-31T19:42:13Z
+Game End Time: 2023-03-31T20:42:02Z
+Rounds ended by ELIMINATION count: 9
+Rounds ended by DEFUSE count: 4
+Rounds ended by DETONATE count: 5
+SPIKE PLANTED count: 9
+platformGameId: val:419eaa87-20c4-48f9-ab5b-d421385b70bc
+
+--- Events ---
+Game started at 2023-03-31T19:42:13Z
+ScreaM killed AvovA  in round 1
+zeek killed sh1n  in round 1
+m1xwell killed ScreaM  in round 1
+keloqz killed Nivera  in round 1
+Newzera killed Boo  in round 1
+m1xwell killed Newzera  in round 1
+m1xwell killed XMS  in round 1
+Round 1 ended with elimination. The winning team is Team Heretics.
+The current score is Team Heretics 1 - 0 Karmine Corp.
+Nivera killed m1xwell  in round 2
+zeek killed ScreaM  in round 2
+AvovA killed Nivera  in round 2
+zeek killed sh1n  in round 2
+keloqz killed XMS  in round 2
+Round 2 ended with detonate. The winning team is Team Heretics.
+The current score is Team Heretics 2 - 0 Karmine Corp.
+Newzera killed Newzera  in round 3
+AvovA killed XMS  in round 3
+keloqz killed sh1n  in round 3
+Newzera killed keloqz  in round 3
+Nivera killed zeek  in round 3
+ScreaM killed m1xwell  in round 3
+AvovA killed Nivera  in round 3
+Newzera killed Boo  in round 3
+AvovA killed Newzera  in round 3
+Round 3 ended with spike_defuse. The winning team is Karmine Corp.
+The current score is Team Heretics 2 - 1 Karmine Corp.
+ScreaM killed m1xwell  in round 4
+keloqz killed XMS  in round 4
+ScreaM killed keloqz  in round 4
+zeek killed ScreaM  in round 4
+AvovA killed Newzera  in round 4
+sh1n killed AvovA  in round 4
+zeek killed sh1n  in round 4
+Nivera killed zeek  in round 4
+Round 4 ended with detonate. The winning team is Team Heretics.
+The current score is Team Heretics 3 - 1 Karmine Corp.
+keloqz killed XMS  in round 5
+zeek killed ScreaM  in round 5
+AvovA killed Nivera  in round 5
+AvovA killed Newzera  in round 5
+keloqz killed sh1n  in round 5
+Round 5 ended with elimination. The winning team is Team Heretics.
+The current score is Team Heretics 4 - 1 Karmine Corp.
+Nivera killed AvovA  in round 6
+keloqz killed Nivera  in round 6
+sh1n killed m1xwell  in round 6
+sh1n killed Boo  in round 6
+zeek killed sh1n  in round 6
+ScreaM killed zeek  in round 6
+Newzera killed keloqz  in round 6
+Round 6 ended with elimination. The winning team is Karmine Corp.
+The current score is Team Heretics 4 - 2 Karmine Corp.
+zeek killed Newzera  in round 7
+Boo killed ScreaM  in round 7
+Nivera killed Boo  in round 7
+keloqz killed Nivera  in round 7
+AvovA killed sh1n  in round 7
+AvovA killed XMS  in round 7
+Round 7 ended with elimination. The winning team is Team Heretics.
+The current score is Team Heretics 5 - 2 Karmine Corp.
+XMS killed keloqz  in round 8
+Boo killed sh1n  in round 8
+zeek killed Newzera  in round 8
+XMS killed zeek  in round 8
+Boo killed Nivera  in round 8
+XMS killed AvovA  in round 8
+Round 8 ended with detonate. The winning team is Team Heretics.
+The current score is Team Heretics 6 - 2 Karmine Corp.
+XMS killed XMS  in round 9
+ScreaM killed zeek  in round 9
+keloqz killed ScreaM  in round 9
+sh1n killed keloqz  in round 9
+Nivera killed m1xwell  in round 9
+Boo killed XMS  in round 9
+sh1n killed Boo  in round 9
+Nivera killed AvovA  in round 9
+Round 9 ended with spike_defuse. The winning team is Karmine Corp.
+The current score is Team Heretics 6 - 3 Karmine Corp.
+keloqz killed ScreaM  in round 10
+keloqz killed XMS  in round 10
+keloqz killed sh1n  in round 10
+Newzera killed keloqz  in round 10
+Round 10 ended with detonate. The winning team is Team Heretics.
+The current score is Team Heretics 7 - 3 Karmine Corp.
+keloqz killed Newzera  in round 11
+keloqz killed ScreaM  in round 11
+Nivera killed keloqz  in round 11
+Boo killed sh1n  in round 11
+Nivera killed AvovA  in round 11
+m1xwell killed XMS  in round 11
+m1xwell killed Nivera  in round 11
+Round 11 ended with elimination. The winning team is Team Heretics.
+The current score is Team Heretics 8 - 3 Karmine Corp.
+ScreaM killed AvovA  in round 12
+XMS killed zeek  in round 12
+keloqz killed ScreaM  in round 12
+m1xwell killed XMS  in round 12
+keloqz killed Nivera  in round 12
+m1xwell killed sh1n  in round 12
+sh1n killed keloqz  in round 12
+Newzera killed Boo  in round 12
+m1xwell killed Newzera  in round 12
+Round 12 ended with elimination. The winning team is Team Heretics.
+The current score is Team Heretics 9 - 3 Karmine Corp.
+m1xwell killed m1xwell  in round 13
+sh1n killed AvovA  in round 13
+sh1n killed m1xwell  in round 13
+sh1n killed keloqz  in round 13
+Boo killed sh1n  in round 13
+XMS killed Boo  in round 13
+Nivera killed zeek  in round 13
+Round 13 ended with elimination. The winning team is Karmine Corp.
+The current score is Team Heretics 9 - 4 Karmine Corp.
+ScreaM killed Boo  in round 14
+Nivera killed zeek  in round 14
+m1xwell killed Nivera  in round 14
+XMS killed AvovA  in round 14
+XMS killed m1xwell  in round 14
+keloqz killed XMS  in round 14
+Round 14 ended with detonate. The winning team is Karmine Corp.
+The current score is Team Heretics 9 - 5 Karmine Corp.
+keloqz killed keloqz  in round 15
+sh1n killed m1xwell  in round 15
+zeek killed ScreaM  in round 15
+zeek killed XMS  in round 15
+AvovA killed Nivera  in round 15
+sh1n killed AvovA  in round 15
+zeek killed sh1n  in round 15
+keloqz killed Newzera  in round 15
+Round 15 ended with elimination. The winning team is Team Heretics.
+The current score is Team Heretics 10 - 5 Karmine Corp.
+AvovA killed XMS  in round 16
+ScreaM killed m1xwell  in round 16
+keloqz killed sh1n  in round 16
+AvovA killed Nivera  in round 16
+ScreaM killed keloqz  in round 16
+ScreaM killed Boo  in round 16
+AvovA killed ScreaM  in round 16
+Newzera killed AvovA  in round 16
+zeek killed Newzera  in round 16
+Round 16 ended with spike_defuse. The winning team is Team Heretics.
+The current score is Team Heretics 11 - 5 Karmine Corp.
+keloqz killed ScreaM  in round 17
+sh1n killed keloqz  in round 17
+m1xwell killed Newzera  in round 17
+sh1n killed zeek  in round 17
+m1xwell killed sh1n  in round 17
+m1xwell killed Nivera  in round 17
+XMS killed m1xwell  in round 17
+Boo killed XMS  in round 17
+Round 17 ended with elimination. The winning team is Team Heretics.
+The current score is Team Heretics 12 - 5 Karmine Corp.
+AvovA killed sh1n  in round 18
+XMS killed AvovA  in round 18
+zeek killed Newzera  in round 18
+Nivera killed zeek  in round 18
+keloqz killed XMS  in round 18
+Nivera killed keloqz  in round 18
+Nivera killed m1xwell  in round 18
+Round 18 ended with spike_defuse. The winning team is Team Heretics.
+The current score is Team Heretics 13 - 5 Karmine Corp.
+ScreaM killed Boo  in round 19
+Game ended with winning team: Team Heretics at 2023-03-31T20:42:02Z
+
+--- Player Stats ---
+XMS: Team=Karmine Corp, Kills=10, Deaths=16, Assists=2, KDA=0.75, First Kills=2, First Deaths=3
+sh1n: Team=Karmine Corp, Kills=13, Deaths=16, Assists=2, KDA=0.94, First Kills=0, First Deaths=1
+ScreaM: Team=Karmine Corp, Kills=12, Deaths=12, Assists=5, KDA=1.42, First Kills=5, First Deaths=2
+Nivera: Team=Karmine Corp, Kills=14, Deaths=13, Assists=2, KDA=1.23, First Kills=2, First Deaths=0
+Newzera: Team=Karmine Corp, Kills=8, Deaths=13, Assists=2, KDA=0.77, First Kills=1, First Deaths=3
+Boo: Team=Team Heretics, Kills=7, Deaths=10, Assists=3, KDA=1.0, First Kills=0, First Deaths=2
+m1xwell: Team=Team Heretics, Kills=13, Deaths=12, Assists=6, KDA=1.58, First Kills=1, First Deaths=3
+zeek: Team=Team Heretics, Kills=14, Deaths=10, Assists=4, KDA=1.8, First Kills=1, First Deaths=0
+AvovA: Team=Team Heretics, Kills=14, Deaths=12, Assists=3, KDA=1.42, First Kills=2, First Deaths=3
+keloqz: Team=Team Heretics, Kills=22, Deaths=13, Assists=2, KDA=1.85, First Kills=5, First Deaths=2

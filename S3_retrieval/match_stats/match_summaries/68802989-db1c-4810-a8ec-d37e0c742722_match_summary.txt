@@ -1,0 +1,199 @@
+Team 1: Giants
+Team 2: Karmine Corp
+Participating Players:
+Player 1: XMS
+Player 2: ScreaM
+Player 3: ZE1SH
+Player 4: Nivera
+Player 5: sh1n
+Player 6: Fit1nho
+Player 7: nukkye
+Player 8: rhyme
+Player 9: Cloud
+Player 10: hoody
+Winning Team: Giants
+Score: Giants 13 - 5 Karmine Corp
+Tournament Name: vct emea 2023
+Game Start Time: 2023-05-18T20:21:32Z
+Game End Time: 2023-05-18T21:02:54Z
+Rounds ended by ELIMINATION count: 14
+Rounds ended by DEFUSE count: 2
+Rounds ended by DETONATE count: 2
+SPIKE PLANTED count: 4
+platformGameId: val:68802989-db1c-4810-a8ec-d37e0c742722
+
+--- Events ---
+Game started at 2023-05-18T20:21:32Z
+ScreaM killed Cloud  in round 1
+ScreaM killed hoody  in round 1
+ScreaM killed Fit1nho  in round 1
+sh1n killed nukkye  in round 1
+Nivera killed rhyme  in round 1
+Round 1 ended with elimination. The winning team is Karmine Corp.
+The current score is Giants 0 - 1 Karmine Corp.
+XMS killed rhyme  in round 2
+Cloud killed ZE1SH  in round 2
+ScreaM killed Fit1nho  in round 2
+XMS killed nukkye  in round 2
+Cloud killed XMS  in round 2
+Nivera killed hoody  in round 2
+Cloud killed Nivera  in round 2
+sh1n killed Cloud  in round 2
+Round 2 ended with elimination. The winning team is Karmine Corp.
+The current score is Giants 0 - 2 Karmine Corp.
+hoody killed Nivera  in round 3
+ScreaM killed Fit1nho  in round 3
+nukkye killed XMS  in round 3
+nukkye killed ScreaM  in round 3
+rhyme killed sh1n  in round 3
+hoody killed ZE1SH  in round 3
+Round 3 ended with elimination. The winning team is Giants.
+The current score is Giants 1 - 2 Karmine Corp.
+nukkye killed Nivera  in round 4
+Cloud killed sh1n  in round 4
+Round 4 ended with detonate. The winning team is Giants.
+The current score is Giants 2 - 2 Karmine Corp.
+Fit1nho killed ScreaM  in round 5
+sh1n killed Cloud  in round 5
+hoody killed sh1n  in round 5
+Nivera killed hoody  in round 5
+nukkye killed Nivera  in round 5
+nukkye killed XMS  in round 5
+ZE1SH killed rhyme  in round 5
+Round 5 ended with detonate. The winning team is Giants.
+The current score is Giants 3 - 2 Karmine Corp.
+ZE1SH killed hoody  in round 6
+Fit1nho killed ZE1SH  in round 6
+Nivera killed Fit1nho  in round 6
+nukkye killed XMS  in round 6
+sh1n killed rhyme  in round 6
+Cloud killed sh1n  in round 6
+ScreaM killed nukkye  in round 6
+Nivera killed Cloud  in round 6
+Round 6 ended with spike_defuse. The winning team is Karmine Corp.
+The current score is Giants 3 - 3 Karmine Corp.
+XMS killed Fit1nho  in round 7
+XMS killed hoody  in round 7
+nukkye killed ScreaM  in round 7
+XMS killed nukkye  in round 7
+rhyme killed XMS  in round 7
+rhyme killed Nivera  in round 7
+Cloud killed ZE1SH  in round 7
+rhyme killed sh1n  in round 7
+Round 7 ended with elimination. The winning team is Giants.
+The current score is Giants 4 - 3 Karmine Corp.
+Nivera killed hoody  in round 8
+rhyme killed Nivera  in round 8
+sh1n killed nukkye  in round 8
+sh1n killed rhyme  in round 8
+Cloud killed XMS  in round 8
+ZE1SH killed Cloud  in round 8
+sh1n killed Fit1nho  in round 8
+Round 8 ended with elimination. The winning team is Karmine Corp.
+The current score is Giants 4 - 4 Karmine Corp.
+sh1n killed rhyme  in round 9
+Cloud killed sh1n  in round 9
+hoody killed ZE1SH  in round 9
+hoody killed ScreaM  in round 9
+XMS killed Fit1nho  in round 9
+nukkye killed XMS  in round 9
+Nivera killed hoody  in round 9
+Nivera killed nukkye  in round 9
+Cloud killed Nivera  in round 9
+Round 9 ended with elimination. The winning team is Giants.
+The current score is Giants 5 - 4 Karmine Corp.
+ScreaM killed Cloud  in round 10
+rhyme killed sh1n  in round 10
+ScreaM killed rhyme  in round 10
+nukkye killed ZE1SH  in round 10
+XMS killed Fit1nho  in round 10
+nukkye killed Nivera  in round 10
+nukkye killed ScreaM  in round 10
+XMS killed nukkye  in round 10
+hoody killed XMS  in round 10
+Round 10 ended with elimination. The winning team is Giants.
+The current score is Giants 6 - 4 Karmine Corp.
+hoody killed sh1n  in round 11
+ScreaM killed hoody  in round 11
+ScreaM killed Fit1nho  in round 11
+Cloud killed ScreaM  in round 11
+nukkye killed ZE1SH  in round 11
+XMS killed rhyme  in round 11
+Cloud killed Nivera  in round 11
+Cloud killed XMS  in round 11
+Round 11 ended with elimination. The winning team is Giants.
+The current score is Giants 7 - 4 Karmine Corp.
+Fit1nho killed Nivera  in round 12
+rhyme killed XMS  in round 12
+ScreaM killed Cloud  in round 12
+rhyme killed ScreaM  in round 12
+hoody killed sh1n  in round 12
+rhyme killed ZE1SH  in round 12
+Round 12 ended with elimination. The winning team is Giants.
+The current score is Giants 8 - 4 Karmine Corp.
+Cloud killed XMS  in round 13
+hoody killed ScreaM  in round 13
+hoody killed sh1n  in round 13
+hoody killed Nivera  in round 13
+hoody killed ZE1SH  in round 13
+Round 13 ended with elimination. The winning team is Giants.
+The current score is Giants 9 - 4 Karmine Corp.
+ScreaM killed nukkye  in round 14
+rhyme killed ScreaM  in round 14
+XMS killed rhyme  in round 14
+Fit1nho killed Nivera  in round 14
+Cloud killed XMS  in round 14
+Fit1nho killed sh1n  in round 14
+Cloud killed ZE1SH  in round 14
+Round 14 ended with elimination. The winning team is Giants.
+The current score is Giants 10 - 4 Karmine Corp.
+XMS killed rhyme  in round 15
+Fit1nho killed XMS  in round 15
+sh1n killed Fit1nho  in round 15
+nukkye killed ZE1SH  in round 15
+nukkye killed sh1n  in round 15
+nukkye killed Nivera  in round 15
+Cloud killed ScreaM  in round 15
+Round 15 ended with elimination. The winning team is Giants.
+The current score is Giants 11 - 4 Karmine Corp.
+Fit1nho killed ZE1SH  in round 16
+Cloud killed Nivera  in round 16
+XMS killed nukkye  in round 16
+rhyme killed ScreaM  in round 16
+Fit1nho killed XMS  in round 16
+rhyme killed sh1n  in round 16
+Round 16 ended with elimination. The winning team is Giants.
+The current score is Giants 12 - 4 Karmine Corp.
+ScreaM killed Fit1nho  in round 17
+rhyme killed ScreaM  in round 17
+Nivera killed hoody  in round 17
+nukkye killed XMS  in round 17
+ZE1SH killed rhyme  in round 17
+Cloud killed Nivera  in round 17
+sh1n killed Cloud  in round 17
+ZE1SH killed nukkye  in round 17
+Round 17 ended with elimination. The winning team is Karmine Corp.
+The current score is Giants 12 - 5 Karmine Corp.
+Fit1nho killed XMS  in round 18
+ScreaM killed rhyme  in round 18
+ScreaM killed nukkye  in round 18
+Fit1nho killed ScreaM  in round 18
+Fit1nho killed ZE1SH  in round 18
+sh1n killed hoody  in round 18
+Fit1nho killed sh1n  in round 18
+Cloud killed Nivera  in round 18
+Round 18 ended with spike_defuse. The winning team is Giants.
+The current score is Giants 13 - 5 Karmine Corp.
+Game ended with winning team: Giants at 2023-05-18T21:02:54Z
+
+--- Player Stats ---
+XMS: Team=Karmine Corp, Kills=12, Deaths=16, Assists=5, KDA=1.06, First Kills=3, First Deaths=2
+ScreaM: Team=Karmine Corp, Kills=15, Deaths=13, Assists=2, KDA=1.31, First Kills=4, First Deaths=1
+ZE1SH: Team=Karmine Corp, Kills=5, Deaths=13, Assists=8, KDA=1.0, First Kills=1, First Deaths=1
+Nivera: Team=Karmine Corp, Kills=9, Deaths=16, Assists=1, KDA=0.62, First Kills=1, First Deaths=3
+sh1n: Team=Karmine Corp, Kills=11, Deaths=14, Assists=4, KDA=1.07, First Kills=1, First Deaths=1
+Fit1nho: Team=Giants, Kills=12, Deaths=11, Assists=1, KDA=1.18, First Kills=4, First Deaths=2
+nukkye: Team=Giants, Kills=16, Deaths=11, Assists=13, KDA=2.64, First Kills=1, First Deaths=1
+rhyme: Team=Giants, Kills=13, Deaths=12, Assists=6, KDA=1.58, First Kills=0, First Deaths=3
+Cloud: Team=Giants, Kills=19, Deaths=8, Assists=4, KDA=2.88, First Kills=1, First Deaths=2
+hoody: Team=Giants, Kills=12, Deaths=10, Assists=4, KDA=1.6, First Kills=2, First Deaths=2

@@ -1,0 +1,203 @@
+Team 1: T1
+Team 2: DRX
+Participating Players:
+Player 1: MaKo
+Player 2: Foxy9
+Player 3: stax
+Player 4: BeYN
+Player 5: BuZz
+Player 6: Xccurate
+Player 7: Rossy
+Player 8: carpe
+Player 9: iZu
+Player 10: Sayaplayer
+Winning Team: DRX
+Score: T1 6 - 13 DRX
+Tournament Name: vct pacific stage 1 2024
+Game Start Time: 2024-04-13T12:53:19Z
+Game End Time: 2024-04-13T13:35:11Z
+Rounds ended by ELIMINATION count: 13
+Rounds ended by DEFUSE count: 3
+Rounds ended by DETONATE count: 2
+SPIKE PLANTED count: 5
+platformGameId: val:2d4d44e0-f1d6-4390-8ec2-4930dfb7a1ff
+
+--- Events ---
+Game started at 2024-04-13T12:53:19Z
+BuZz killed carpe  in round 1
+Rossy killed Foxy9  in round 1
+MaKo killed Rossy  in round 1
+Sayaplayer killed MaKo  in round 1
+BuZz killed Sayaplayer  in round 1
+BeYN killed Xccurate  in round 1
+BuZz killed iZu  in round 1
+Round 1 ended with elimination. The winning team is DRX.
+The current score is T1 0 - 1 DRX.
+MaKo killed carpe  in round 2
+Rossy killed Foxy9  in round 2
+MaKo killed Rossy  in round 2
+Sayaplayer killed MaKo  in round 2
+BeYN killed Xccurate  in round 2
+Sayaplayer killed stax  in round 2
+BeYN killed iZu  in round 2
+BuZz killed Sayaplayer  in round 2
+Round 2 ended with spike_defuse. The winning team is DRX.
+The current score is T1 0 - 2 DRX.
+BuZz killed carpe  in round 3
+MaKo killed Rossy  in round 3
+stax killed iZu  in round 3
+BuZz killed Xccurate  in round 3
+BuZz killed Sayaplayer  in round 3
+Round 3 ended with elimination. The winning team is DRX.
+The current score is T1 0 - 3 DRX.
+BeYN killed Sayaplayer  in round 4
+stax killed Xccurate  in round 4
+iZu killed BeYN  in round 4
+iZu killed stax  in round 4
+BuZz killed iZu  in round 4
+BuZz killed Rossy  in round 4
+carpe killed BuZz  in round 4
+Round 4 ended with spike_defuse. The winning team is DRX.
+The current score is T1 0 - 4 DRX.
+Foxy9 killed carpe  in round 5
+MaKo killed carpe  in round 5
+MaKo killed Rossy  in round 5
+BeYN killed iZu  in round 5
+MaKo killed Sayaplayer  in round 5
+BeYN killed Xccurate  in round 5
+Round 5 ended with elimination. The winning team is DRX.
+The current score is T1 0 - 5 DRX.
+Sayaplayer killed BuZz  in round 6
+Sayaplayer killed BeYN  in round 6
+stax killed Sayaplayer  in round 6
+stax killed iZu  in round 6
+stax killed carpe  in round 6
+stax killed Rossy  in round 6
+Foxy9 killed Xccurate  in round 6
+Round 6 ended with spike_defuse. The winning team is DRX.
+The current score is T1 0 - 6 DRX.
+iZu killed Foxy9  in round 7
+BuZz killed Sayaplayer  in round 7
+carpe killed stax  in round 7
+BeYN killed carpe  in round 7
+BuZz killed iZu  in round 7
+Xccurate killed BuZz  in round 7
+Rossy killed BeYN  in round 7
+Xccurate killed MaKo  in round 7
+Round 7 ended with elimination. The winning team is T1.
+The current score is T1 1 - 6 DRX.
+Xccurate killed BuZz  in round 8
+stax killed Xccurate  in round 8
+stax killed iZu  in round 8
+stax killed carpe  in round 8
+Round 8 ended with time_expired. The winning team is DRX.
+The current score is T1 1 - 7 DRX.
+MaKo killed iZu  in round 9
+MaKo killed Sayaplayer  in round 9
+Rossy killed MaKo  in round 9
+stax killed carpe  in round 9
+Xccurate killed BeYN  in round 9
+stax killed Rossy  in round 9
+BuZz killed Xccurate  in round 9
+Round 9 ended with elimination. The winning team is DRX.
+The current score is T1 1 - 8 DRX.
+MaKo killed Sayaplayer  in round 10
+stax killed iZu  in round 10
+Xccurate killed BuZz  in round 10
+carpe killed Foxy9  in round 10
+Rossy killed MaKo  in round 10
+Rossy killed stax  in round 10
+Rossy killed BeYN  in round 10
+Round 10 ended with elimination. The winning team is T1.
+The current score is T1 2 - 8 DRX.
+BuZz killed Sayaplayer  in round 11
+BuZz killed iZu  in round 11
+Foxy9 killed carpe  in round 11
+MaKo killed Xccurate  in round 11
+MaKo killed Rossy  in round 11
+Round 11 ended with elimination. The winning team is DRX.
+The current score is T1 2 - 9 DRX.
+BuZz killed Sayaplayer  in round 12
+Rossy killed Foxy9  in round 12
+Rossy killed BeYN  in round 12
+carpe killed stax  in round 12
+Xccurate killed MaKo  in round 12
+BuZz killed carpe  in round 12
+BuZz killed Xccurate  in round 12
+Rossy killed BuZz  in round 12
+Round 12 ended with elimination. The winning team is T1.
+The current score is T1 3 - 9 DRX.
+Xccurate killed BeYN  in round 13
+stax killed Xccurate  in round 13
+BuZz killed carpe  in round 13
+stax killed iZu  in round 13
+Sayaplayer killed stax  in round 13
+Rossy killed BuZz  in round 13
+MaKo killed Rossy  in round 13
+Sayaplayer killed Foxy9  in round 13
+Sayaplayer killed MaKo  in round 13
+Round 13 ended with elimination. The winning team is T1.
+The current score is T1 4 - 9 DRX.
+carpe killed stax  in round 14
+Sayaplayer killed BuZz  in round 14
+BeYN killed carpe  in round 14
+Sayaplayer killed BeYN  in round 14
+MaKo killed Sayaplayer  in round 14
+Xccurate killed MaKo  in round 14
+Xccurate killed Foxy9  in round 14
+Round 14 ended with elimination. The winning team is T1.
+The current score is T1 5 - 9 DRX.
+BuZz killed Rossy  in round 15
+BeYN killed iZu  in round 15
+Xccurate killed MaKo  in round 15
+BuZz killed Xccurate  in round 15
+Foxy9 killed carpe  in round 15
+Round 15 ended with detonate. The winning team is DRX.
+The current score is T1 5 - 10 DRX.
+iZu killed stax  in round 16
+BuZz killed iZu  in round 16
+BuZz killed Sayaplayer  in round 16
+BuZz killed carpe  in round 16
+MaKo killed Rossy  in round 16
+BuZz killed Xccurate  in round 16
+Round 16 ended with elimination. The winning team is DRX.
+The current score is T1 5 - 11 DRX.
+iZu killed BuZz  in round 17
+BeYN killed iZu  in round 17
+carpe killed BeYN  in round 17
+Xccurate killed stax  in round 17
+Xccurate killed Foxy9  in round 17
+MaKo killed carpe  in round 17
+Rossy killed MaKo  in round 17
+Round 17 ended with elimination. The winning team is T1.
+The current score is T1 6 - 11 DRX.
+Foxy9 killed Rossy  in round 18
+Sayaplayer killed Foxy9  in round 18
+MaKo killed iZu  in round 18
+BuZz killed carpe  in round 18
+stax killed Sayaplayer  in round 18
+Round 18 ended with detonate. The winning team is DRX.
+The current score is T1 6 - 12 DRX.
+stax killed stax  in round 19
+Foxy9 killed Sayaplayer  in round 19
+Rossy killed Foxy9  in round 19
+stax killed carpe  in round 19
+MaKo killed iZu  in round 19
+Xccurate killed MaKo  in round 19
+BeYN killed Rossy  in round 19
+stax killed Xccurate  in round 19
+Round 19 ended with elimination. The winning team is DRX.
+The current score is T1 6 - 13 DRX.
+Game ended with winning team: DRX at 2024-04-13T13:35:11Z
+
+--- Player Stats ---
+MaKo: Team=DRX, Kills=18, Deaths=11, Assists=7, KDA=2.27, First Kills=3, First Deaths=0
+Foxy9: Team=DRX, Kills=6, Deaths=10, Assists=8, KDA=1.4, First Kills=2, First Deaths=1
+stax: Team=DRX, Kills=18, Deaths=10, Assists=9, KDA=2.7, First Kills=1, First Deaths=3
+BeYN: Team=DRX, Kills=11, Deaths=9, Assists=10, KDA=2.33, First Kills=1, First Deaths=1
+BuZz: Team=DRX, Kills=25, Deaths=9, Assists=5, KDA=3.33, First Kills=5, First Deaths=3
+Xccurate: Team=T1, Kills=13, Deaths=14, Assists=1, KDA=1.0, First Kills=2, First Deaths=0
+Rossy: Team=T1, Kills=13, Deaths=13, Assists=3, KDA=1.23, First Kills=0, First Deaths=2
+carpe: Team=T1, Kills=6, Deaths=18, Assists=10, KDA=0.89, First Kills=1, First Deaths=4
+iZu: Team=T1, Kills=5, Deaths=17, Assists=7, KDA=0.71, First Kills=3, First Deaths=1
+Sayaplayer: Team=T1, Kills=11, Deaths=15, Assists=2, KDA=0.87, First Kills=1, First Deaths=4

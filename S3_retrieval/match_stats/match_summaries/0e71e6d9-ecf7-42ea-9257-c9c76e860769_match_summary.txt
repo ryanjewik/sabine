@@ -1,0 +1,201 @@
+Team 1: DRX
+Team 2: DetonatioN FocusMe
+Participating Players:
+Player 1: SSeeS
+Player 2: Meiy
+Player 3: Anthem
+Player 4: Medusa
+Player 5: neth
+Player 6: MaKo
+Player 7: Foxy9
+Player 8: Flashback
+Player 9: BeYN
+Player 10: BuZz
+Winning Team: DetonatioN FocusMe
+Score: DRX 6 - 13 DetonatioN FocusMe
+Tournament Name: vct pacific stage 2 2024
+Game Start Time: 2024-07-06T08:56:48Z
+Game End Time: 2024-07-06T09:35:16Z
+Rounds ended by ELIMINATION count: 10
+Rounds ended by DEFUSE count: 4
+Rounds ended by DETONATE count: 3
+SPIKE PLANTED count: 7
+platformGameId: val:0e71e6d9-ecf7-42ea-9257-c9c76e860769
+
+--- Events ---
+Game started at 2024-07-06T08:56:48Z
+Meiy killed Flashback  in round 1
+Medusa killed MaKo  in round 1
+Medusa killed BeYN  in round 1
+Foxy9 killed Medusa  in round 1
+neth killed BuZz  in round 1
+Foxy9 killed Meiy  in round 1
+Foxy9 killed Anthem  in round 1
+neth killed Foxy9  in round 1
+Round 1 ended with spike_defuse. The winning team is DetonatioN FocusMe.
+The current score is DRX 0 - 1 DetonatioN FocusMe.
+Medusa killed BeYN  in round 2
+Medusa killed MaKo  in round 2
+Meiy killed Flashback  in round 2
+Meiy killed Foxy9  in round 2
+BuZz killed Meiy  in round 2
+BuZz killed Anthem  in round 2
+neth killed BuZz  in round 2
+Round 2 ended with elimination. The winning team is DetonatioN FocusMe.
+The current score is DRX 0 - 2 DetonatioN FocusMe.
+BeYN killed Meiy  in round 3
+BuZz killed Medusa  in round 3
+Flashback killed neth  in round 3
+Flashback killed Anthem  in round 3
+Flashback killed SSeeS  in round 3
+Round 3 ended with elimination. The winning team is DRX.
+The current score is DRX 1 - 2 DetonatioN FocusMe.
+BuZz killed Meiy  in round 4
+SSeeS killed BuZz  in round 4
+Foxy9 killed SSeeS  in round 4
+Foxy9 killed neth  in round 4
+Round 4 ended with detonate. The winning team is DRX.
+The current score is DRX 2 - 2 DetonatioN FocusMe.
+Foxy9 killed Medusa  in round 5
+Meiy killed BuZz  in round 5
+BeYN killed Meiy  in round 5
+SSeeS killed Foxy9  in round 5
+Anthem killed MaKo  in round 5
+BeYN killed Anthem  in round 5
+SSeeS killed BeYN  in round 5
+neth killed Flashback  in round 5
+Round 5 ended with elimination. The winning team is DetonatioN FocusMe.
+The current score is DRX 2 - 3 DetonatioN FocusMe.
+SSeeS killed Foxy9  in round 6
+Flashback killed SSeeS  in round 6
+BuZz killed Meiy  in round 6
+Anthem killed BuZz  in round 6
+neth killed BeYN  in round 6
+Anthem killed MaKo  in round 6
+neth killed Flashback  in round 6
+Round 6 ended with spike_defuse. The winning team is DetonatioN FocusMe.
+The current score is DRX 2 - 4 DetonatioN FocusMe.
+BuZz killed SSeeS  in round 7
+neth killed BeYN  in round 7
+Foxy9 killed neth  in round 7
+Meiy killed MaKo  in round 7
+Medusa killed Foxy9  in round 7
+Meiy killed Flashback  in round 7
+BuZz killed Anthem  in round 7
+Meiy killed BuZz  in round 7
+Round 7 ended with spike_defuse. The winning team is DetonatioN FocusMe.
+The current score is DRX 2 - 5 DetonatioN FocusMe.
+Medusa killed Flashback  in round 8
+Anthem killed BuZz  in round 8
+Meiy killed MaKo  in round 8
+Foxy9 killed Meiy  in round 8
+Medusa killed Foxy9  in round 8
+Medusa killed BeYN  in round 8
+Round 8 ended with spike_defuse. The winning team is DetonatioN FocusMe.
+The current score is DRX 2 - 6 DetonatioN FocusMe.
+BuZz killed Anthem  in round 9
+BuZz killed Meiy  in round 9
+SSeeS killed BuZz  in round 9
+SSeeS killed Foxy9  in round 9
+MaKo killed SSeeS  in round 9
+MaKo killed Medusa  in round 9
+neth killed BeYN  in round 9
+Flashback killed neth  in round 9
+Round 9 ended with elimination. The winning team is DRX.
+The current score is DRX 3 - 6 DetonatioN FocusMe.
+Meiy killed BuZz  in round 10
+MaKo killed Meiy  in round 10
+MaKo killed SSeeS  in round 10
+Flashback killed neth  in round 10
+Round 10 ended with detonate. The winning team is DRX.
+The current score is DRX 4 - 6 DetonatioN FocusMe.
+SSeeS killed BuZz  in round 11
+SSeeS killed BeYN  in round 11
+Meiy killed MaKo  in round 11
+SSeeS killed Foxy9  in round 11
+Round 11 ended with time_expired. The winning team is DetonatioN FocusMe.
+The current score is DRX 4 - 7 DetonatioN FocusMe.
+BuZz killed Medusa  in round 12
+Flashback killed Meiy  in round 12
+Anthem killed BuZz  in round 12
+Flashback killed SSeeS  in round 12
+Anthem killed Foxy9  in round 12
+BeYN killed Anthem  in round 12
+Flashback killed neth  in round 12
+Round 12 ended with elimination. The winning team is DRX.
+The current score is DRX 5 - 7 DetonatioN FocusMe.
+Meiy killed Flashback  in round 13
+MaKo killed Meiy  in round 13
+Foxy9 killed SSeeS  in round 13
+neth killed MaKo  in round 13
+Anthem killed Foxy9  in round 13
+BeYN killed neth  in round 13
+Medusa killed BuZz  in round 13
+Anthem killed BeYN  in round 13
+Round 13 ended with elimination. The winning team is DetonatioN FocusMe.
+The current score is DRX 5 - 8 DetonatioN FocusMe.
+Medusa killed Flashback  in round 14
+Medusa killed MaKo  in round 14
+BuZz killed Medusa  in round 14
+Anthem killed BuZz  in round 14
+Meiy killed BeYN  in round 14
+neth killed Foxy9  in round 14
+Round 14 ended with elimination. The winning team is DetonatioN FocusMe.
+The current score is DRX 5 - 9 DetonatioN FocusMe.
+Meiy killed BeYN  in round 15
+Meiy killed BuZz  in round 15
+Flashback killed Meiy  in round 15
+neth killed Foxy9  in round 15
+Round 15 ended with detonate. The winning team is DetonatioN FocusMe.
+The current score is DRX 5 - 10 DetonatioN FocusMe.
+Meiy killed Foxy9  in round 16
+BuZz killed Meiy  in round 16
+Anthem killed MaKo  in round 16
+Anthem killed BuZz  in round 16
+Medusa killed BeYN  in round 16
+Flashback killed Medusa  in round 16
+Anthem killed Flashback  in round 16
+Round 16 ended with elimination. The winning team is DetonatioN FocusMe.
+The current score is DRX 5 - 11 DetonatioN FocusMe.
+Flashback killed Meiy  in round 17
+Anthem killed BuZz  in round 17
+Anthem killed BeYN  in round 17
+Flashback killed Anthem  in round 17
+neth killed Flashback  in round 17
+Medusa killed Foxy9  in round 17
+MaKo killed neth  in round 17
+SSeeS killed MaKo  in round 17
+Round 17 ended with elimination. The winning team is DetonatioN FocusMe.
+The current score is DRX 5 - 12 DetonatioN FocusMe.
+Meiy killed MaKo  in round 18
+BuZz killed Anthem  in round 18
+Flashback killed Meiy  in round 18
+Flashback killed SSeeS  in round 18
+neth killed Flashback  in round 18
+BeYN killed neth  in round 18
+Round 18 ended with time_expired. The winning team is DRX.
+The current score is DRX 6 - 12 DetonatioN FocusMe.
+Medusa killed BuZz  in round 19
+BeYN killed Medusa  in round 19
+SSeeS killed Flashback  in round 19
+SSeeS killed MaKo  in round 19
+BuZz killed SSeeS  in round 19
+BuZz killed neth  in round 19
+Meiy killed Foxy9  in round 19
+Meiy killed BuZz  in round 19
+Medusa killed BeYN  in round 19
+Round 19 ended with elimination. The winning team is DetonatioN FocusMe.
+The current score is DRX 6 - 13 DetonatioN FocusMe.
+Game ended with winning team: DetonatioN FocusMe at 2024-07-06T09:35:16Z
+
+--- Player Stats ---
+SSeeS: Team=DetonatioN FocusMe, Kills=12, Deaths=10, Assists=15, KDA=2.7, First Kills=2, First Deaths=1
+Meiy: Team=DetonatioN FocusMe, Kills=18, Deaths=15, Assists=0, KDA=1.2, First Kills=6, First Deaths=3
+Anthem: Team=DetonatioN FocusMe, Kills=14, Deaths=9, Assists=6, KDA=2.22, First Kills=0, First Deaths=1
+Medusa: Team=DetonatioN FocusMe, Kills=15, Deaths=8, Assists=4, KDA=2.38, First Kills=4, First Deaths=2
+neth: Team=DetonatioN FocusMe, Kills=13, Deaths=10, Assists=15, KDA=2.8, First Kills=0, First Deaths=0
+MaKo: Team=DRX, Kills=6, Deaths=13, Assists=12, KDA=1.38, First Kills=0, First Deaths=1
+Foxy9: Team=DRX, Kills=9, Deaths=15, Assists=9, KDA=1.2, First Kills=1, First Deaths=2
+Flashback: Team=DRX, Kills=15, Deaths=12, Assists=4, KDA=1.58, First Kills=1, First Deaths=4
+BeYN: Team=DRX, Kills=7, Deaths=14, Assists=6, KDA=0.93, First Kills=1, First Deaths=2
+BuZz: Team=DRX, Kills=15, Deaths=18, Assists=4, KDA=1.06, First Kills=4, First Deaths=3

@@ -1,0 +1,205 @@
+Team 1: Bleed Esports
+Team 2: Rex Regum Qeon
+Participating Players:
+Player 1: patt
+Player 2: Lmemore
+Player 3: fl1pzjder
+Player 4: Jemkin
+Player 5: Estrella
+Player 6: ZestKR
+Player 7: yay
+Player 8: sScary
+Player 9: Deryeon
+Player 10: Retla
+Winning Team: Rex Regum Qeon
+Score: Bleed Esports 5 - 13 Rex Regum Qeon
+Tournament Name: vct pacific stage 1 2024
+Game Start Time: 2024-04-14T11:55:58Z
+Game End Time: 2024-04-14T12:38:23Z
+Rounds ended by ELIMINATION count: 11
+Rounds ended by DEFUSE count: 5
+Rounds ended by DETONATE count: 1
+SPIKE PLANTED count: 6
+platformGameId: val:e252f7ad-88d8-4de7-8e94-90d4c81fb56e
+
+--- Events ---
+Game started at 2024-04-14T11:55:58Z
+sScary killed Estrella  in round 1
+yay killed Lmemore  in round 1
+Jemkin killed Deryeon  in round 1
+patt killed yay  in round 1
+ZestKR killed patt  in round 1
+ZestKR killed fl1pzjder  in round 1
+Retla killed Jemkin  in round 1
+Round 1 ended with elimination. The winning team is Bleed Esports.
+The current score is Bleed Esports 1 - 0 Rex Regum Qeon.
+yay killed patt  in round 2
+Retla killed fl1pzjder  in round 2
+Retla killed Estrella  in round 2
+yay killed Lmemore  in round 2
+Deryeon killed Jemkin  in round 2
+Round 2 ended with elimination. The winning team is Bleed Esports.
+The current score is Bleed Esports 2 - 0 Rex Regum Qeon.
+Jemkin killed yay  in round 3
+Lmemore killed ZestKR  in round 3
+Lmemore killed Retla  in round 3
+sScary killed fl1pzjder  in round 3
+Lmemore killed sScary  in round 3
+Lmemore killed Deryeon  in round 3
+Round 3 ended with elimination. The winning team is Rex Regum Qeon.
+The current score is Bleed Esports 2 - 1 Rex Regum Qeon.
+Estrella killed yay  in round 4
+ZestKR killed patt  in round 4
+sScary killed Estrella  in round 4
+Jemkin killed Retla  in round 4
+Lmemore killed ZestKR  in round 4
+sScary killed fl1pzjder  in round 4
+Lmemore killed sScary  in round 4
+Lmemore killed Deryeon  in round 4
+Round 4 ended with spike_defuse. The winning team is Rex Regum Qeon.
+The current score is Bleed Esports 2 - 2 Rex Regum Qeon.
+Lmemore killed Deryeon  in round 5
+Estrella killed yay  in round 5
+Retla killed fl1pzjder  in round 5
+Lmemore killed Retla  in round 5
+Round 5 ended with spike_defuse. The winning team is Rex Regum Qeon.
+The current score is Bleed Esports 2 - 3 Rex Regum Qeon.
+ZestKR killed Lmemore  in round 6
+sScary killed Estrella  in round 6
+patt killed sScary  in round 6
+patt killed ZestKR  in round 6
+sScary killed Lmemore  in round 6
+yay killed fl1pzjder  in round 6
+patt killed yay  in round 6
+sScary killed patt  in round 6
+Estrella killed Deryeon  in round 6
+Estrella killed ZestKR  in round 6
+sScary killed Estrella  in round 6
+Round 6 ended with detonate. The winning team is Bleed Esports.
+The current score is Bleed Esports 3 - 3 Rex Regum Qeon.
+Deryeon killed fl1pzjder  in round 7
+yay killed patt  in round 7
+Lmemore killed yay  in round 7
+Lmemore killed Deryeon  in round 7
+Lmemore killed ZestKR  in round 7
+Jemkin killed Retla  in round 7
+sScary killed Jemkin  in round 7
+Lmemore killed sScary  in round 7
+Round 7 ended with spike_defuse. The winning team is Rex Regum Qeon.
+The current score is Bleed Esports 3 - 4 Rex Regum Qeon.
+Lmemore killed ZestKR  in round 8
+yay killed fl1pzjder  in round 8
+Jemkin killed Retla  in round 8
+Jemkin killed yay  in round 8
+sScary killed Jemkin  in round 8
+Deryeon killed Lmemore  in round 8
+patt killed sScary  in round 8
+Round 8 ended with time_expired. The winning team is Rex Regum Qeon.
+The current score is Bleed Esports 3 - 5 Rex Regum Qeon.
+Deryeon killed Estrella  in round 9
+Deryeon killed Jemkin  in round 9
+Lmemore killed Deryeon  in round 9
+patt killed Retla  in round 9
+Lmemore killed yay  in round 9
+patt killed sScary  in round 9
+patt killed ZestKR  in round 9
+Round 9 ended with spike_defuse. The winning team is Rex Regum Qeon.
+The current score is Bleed Esports 3 - 6 Rex Regum Qeon.
+patt killed yay  in round 10
+patt killed Deryeon  in round 10
+ZestKR killed patt  in round 10
+ZestKR killed Estrella  in round 10
+Lmemore killed sScary  in round 10
+Lmemore killed ZestKR  in round 10
+Jemkin killed Retla  in round 10
+Round 10 ended with elimination. The winning team is Rex Regum Qeon.
+The current score is Bleed Esports 3 - 7 Rex Regum Qeon.
+sScary killed Estrella  in round 11
+Lmemore killed sScary  in round 11
+patt killed ZestKR  in round 11
+patt killed Deryeon  in round 11
+yay killed Lmemore  in round 11
+patt killed yay  in round 11
+patt killed Retla  in round 11
+Round 11 ended with elimination. The winning team is Rex Regum Qeon.
+The current score is Bleed Esports 3 - 8 Rex Regum Qeon.
+Lmemore killed Retla  in round 12
+yay killed Jemkin  in round 12
+Lmemore killed Deryeon  in round 12
+sScary killed Lmemore  in round 12
+ZestKR killed Estrella  in round 12
+patt killed ZestKR  in round 12
+sScary killed fl1pzjder  in round 12
+patt killed sScary  in round 12
+yay killed patt  in round 12
+Round 12 ended with elimination. The winning team is Bleed Esports.
+The current score is Bleed Esports 4 - 8 Rex Regum Qeon.
+yay killed patt  in round 13
+Estrella killed yay  in round 13
+Jemkin killed Retla  in round 13
+Lmemore killed sScary  in round 13
+Lmemore killed ZestKR  in round 13
+Deryeon killed Estrella  in round 13
+Lmemore killed Deryeon  in round 13
+Round 13 ended with elimination. The winning team is Rex Regum Qeon.
+The current score is Bleed Esports 4 - 9 Rex Regum Qeon.
+Lmemore killed Retla  in round 14
+patt killed sScary  in round 14
+Jemkin killed Deryeon  in round 14
+ZestKR killed Jemkin  in round 14
+yay killed Estrella  in round 14
+patt killed yay  in round 14
+patt killed ZestKR  in round 14
+Round 14 ended with elimination. The winning team is Rex Regum Qeon.
+The current score is Bleed Esports 4 - 10 Rex Regum Qeon.
+Jemkin killed sScary  in round 15
+Retla killed Jemkin  in round 15
+Lmemore killed Retla  in round 15
+Lmemore killed yay  in round 15
+Lmemore killed ZestKR  in round 15
+Deryeon killed Lmemore  in round 15
+patt killed Deryeon  in round 15
+Round 15 ended with elimination. The winning team is Rex Regum Qeon.
+The current score is Bleed Esports 4 - 11 Rex Regum Qeon.
+Estrella killed Estrella  in round 16
+yay killed Lmemore  in round 16
+Deryeon killed Jemkin  in round 16
+ZestKR killed patt  in round 16
+Estrella killed ZestKR  in round 16
+Retla killed fl1pzjder  in round 16
+Estrella killed sScary  in round 16
+Deryeon killed Estrella  in round 16
+Round 16 ended with spike_defuse. The winning team is Bleed Esports.
+The current score is Bleed Esports 5 - 11 Rex Regum Qeon.
+Jemkin killed yay  in round 17
+sScary killed Estrella  in round 17
+Jemkin killed ZestKR  in round 17
+Lmemore killed Retla  in round 17
+Jemkin killed sScary  in round 17
+patt killed Deryeon  in round 17
+Round 17 ended with elimination. The winning team is Rex Regum Qeon.
+The current score is Bleed Esports 5 - 12 Rex Regum Qeon.
+ZestKR killed fl1pzjder  in round 18
+patt killed ZestKR  in round 18
+Lmemore killed yay  in round 18
+sScary killed Lmemore  in round 18
+Jemkin killed Deryeon  in round 18
+Retla killed Jemkin  in round 18
+Estrella killed Retla  in round 18
+sScary killed Estrella  in round 18
+patt killed sScary  in round 18
+Round 18 ended with elimination. The winning team is Rex Regum Qeon.
+The current score is Bleed Esports 5 - 13 Rex Regum Qeon.
+Game ended with winning team: Rex Regum Qeon at 2024-04-14T12:38:23Z
+
+--- Player Stats ---
+patt: Team=Rex Regum Qeon, Kills=23, Deaths=9, Assists=1, KDA=2.67, First Kills=1, First Deaths=2
+Lmemore: Team=Rex Regum Qeon, Kills=30, Deaths=10, Assists=3, KDA=3.3, First Kills=4, First Deaths=1
+fl1pzjder: Team=Rex Regum Qeon, Kills=0, Deaths=11, Assists=5, KDA=0.45, First Kills=0, First Deaths=2
+Jemkin: Team=Rex Regum Qeon, Kills=14, Deaths=10, Assists=0, KDA=1.4, First Kills=3, First Deaths=0
+Estrella: Team=Rex Regum Qeon, Kills=9, Deaths=15, Assists=7, KDA=1.07, First Kills=2, First Deaths=4
+ZestKR: Team=Bleed Esports, Kills=10, Deaths=16, Assists=3, KDA=0.81, First Kills=2, First Deaths=1
+yay: Team=Bleed Esports, Kills=12, Deaths=15, Assists=2, KDA=0.93, First Kills=2, First Deaths=4
+sScary: Team=Bleed Esports, Kills=16, Deaths=15, Assists=3, KDA=1.27, First Kills=2, First Deaths=1
+Deryeon: Team=Bleed Esports, Kills=9, Deaths=15, Assists=14, KDA=1.53, First Kills=2, First Deaths=1
+Retla: Team=Bleed Esports, Kills=7, Deaths=14, Assists=0, KDA=0.5, First Kills=0, First Deaths=2

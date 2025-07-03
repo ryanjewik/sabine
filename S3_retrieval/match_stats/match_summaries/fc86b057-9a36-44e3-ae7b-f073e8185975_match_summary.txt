@@ -1,0 +1,203 @@
+Team 1: Leviatán Esports
+Team 2: LOUD
+Participating Players:
+Player 1: aspas
+Player 2: Sacy
+Player 3: Saadhak
+Player 4: Less
+Player 5: pANcada
+Player 6: Melser
+Player 7: Shyy
+Player 8: kiNgg
+Player 9: adverso
+Player 10: Tacolilla
+Winning Team: LOUD
+Score: Leviatán Esports 6 - 13 LOUD
+Tournament Name: champions 2022
+Game Start Time: 2022-09-09T15:34:58Z
+Game End Time: 2022-09-09T16:20:13Z
+Rounds ended by ELIMINATION count: 13
+Rounds ended by DEFUSE count: 2
+Rounds ended by DETONATE count: 1
+SPIKE PLANTED count: 3
+platformGameId: val:fc86b057-9a36-44e3-ae7b-f073e8185975
+
+--- Events ---
+Game started at 2022-09-09T15:34:58Z
+kiNgg killed Less  in round 1
+kiNgg killed Saadhak  in round 1
+pANcada killed Melser  in round 1
+Shyy killed pANcada  in round 1
+kiNgg killed Sacy  in round 1
+Shyy killed aspas  in round 1
+Round 1 ended with elimination. The winning team is Leviatán Esports.
+The current score is Leviatán Esports 1 - 0 LOUD.
+kiNgg killed pANcada  in round 2
+Saadhak killed kiNgg  in round 2
+aspas killed Tacolilla  in round 2
+adverso killed Sacy  in round 2
+Less killed adverso  in round 2
+Melser killed Saadhak  in round 2
+Shyy killed Less  in round 2
+aspas killed Shyy  in round 2
+Melser killed aspas  in round 2
+Round 2 ended with elimination. The winning team is Leviatán Esports.
+The current score is Leviatán Esports 2 - 0 LOUD.
+Sacy killed kiNgg  in round 3
+Less killed Tacolilla  in round 3
+Sacy killed Shyy  in round 3
+aspas killed adverso  in round 3
+aspas killed Melser  in round 3
+Round 3 ended with elimination. The winning team is LOUD.
+The current score is Leviatán Esports 2 - 1 LOUD.
+Less killed Tacolilla  in round 4
+Melser killed aspas  in round 4
+kiNgg killed Less  in round 4
+Saadhak killed Shyy  in round 4
+pANcada killed kiNgg  in round 4
+Melser killed Saadhak  in round 4
+adverso killed Sacy  in round 4
+adverso killed pANcada  in round 4
+Round 4 ended with elimination. The winning team is Leviatán Esports.
+The current score is Leviatán Esports 3 - 1 LOUD.
+kiNgg killed Saadhak  in round 5
+kiNgg killed Less  in round 5
+pANcada killed kiNgg  in round 5
+aspas killed adverso  in round 5
+Tacolilla killed aspas  in round 5
+Tacolilla killed Sacy  in round 5
+Round 5 ended with spike_defuse. The winning team is LOUD.
+The current score is Leviatán Esports 3 - 2 LOUD.
+Tacolilla killed pANcada  in round 6
+kiNgg killed Less  in round 6
+kiNgg killed aspas  in round 6
+kiNgg killed pANcada  in round 6
+kiNgg killed Sacy  in round 6
+adverso killed Saadhak  in round 6
+Round 6 ended with elimination. The winning team is Leviatán Esports.
+The current score is Leviatán Esports 4 - 2 LOUD.
+Less killed Tacolilla  in round 7
+Sacy killed kiNgg  in round 7
+Round 7 ended with time_expired. The winning team is LOUD.
+The current score is Leviatán Esports 4 - 3 LOUD.
+Shyy killed Less  in round 8
+Less killed adverso  in round 8
+kiNgg killed Sacy  in round 8
+kiNgg killed aspas  in round 8
+Less killed Tacolilla  in round 8
+Less killed kiNgg  in round 8
+Melser killed Less  in round 8
+pANcada killed Melser  in round 8
+Saadhak killed Shyy  in round 8
+Round 8 ended with spike_defuse. The winning team is LOUD.
+The current score is Leviatán Esports 4 - 4 LOUD.
+kiNgg killed Less  in round 9
+pANcada killed Shyy  in round 9
+Saadhak killed Tacolilla  in round 9
+pANcada killed Melser  in round 9
+aspas killed kiNgg  in round 9
+adverso killed aspas  in round 9
+Round 9 ended with time_expired. The winning team is LOUD.
+The current score is Leviatán Esports 4 - 5 LOUD.
+adverso killed aspas  in round 10
+kiNgg killed pANcada  in round 10
+Tacolilla killed Saadhak  in round 10
+Shyy killed Less  in round 10
+Sacy killed Melser  in round 10
+Sacy killed adverso  in round 10
+kiNgg killed Sacy  in round 10
+Round 10 ended with elimination. The winning team is Leviatán Esports.
+The current score is Leviatán Esports 5 - 5 LOUD.
+aspas killed kiNgg  in round 11
+aspas killed adverso  in round 11
+Tacolilla killed Sacy  in round 11
+Shyy killed aspas  in round 11
+Saadhak killed Shyy  in round 11
+pANcada killed Tacolilla  in round 11
+Round 11 ended with time_expired. The winning team is LOUD.
+The current score is Leviatán Esports 5 - 6 LOUD.
+Less killed Shyy  in round 12
+pANcada killed kiNgg  in round 12
+Less killed adverso  in round 12
+Saadhak killed Tacolilla  in round 12
+Melser killed Saadhak  in round 12
+Less killed Melser  in round 12
+Round 12 ended with elimination. The winning team is LOUD.
+The current score is Leviatán Esports 5 - 7 LOUD.
+Tacolilla killed Saadhak  in round 13
+kiNgg killed aspas  in round 13
+pANcada killed Shyy  in round 13
+Sacy killed adverso  in round 13
+Melser killed pANcada  in round 13
+Less killed Melser  in round 13
+Sacy killed Tacolilla  in round 13
+kiNgg killed Sacy  in round 13
+Less killed kiNgg  in round 13
+Round 13 ended with elimination. The winning team is LOUD.
+The current score is Leviatán Esports 5 - 8 LOUD.
+Less killed Tacolilla  in round 14
+Less killed Shyy  in round 14
+Round 14 ended with detonate. The winning team is LOUD.
+The current score is Leviatán Esports 5 - 9 LOUD.
+adverso killed adverso  in round 15
+Melser killed Melser  in round 15
+kiNgg killed kiNgg  in round 15
+adverso killed aspas  in round 15
+Melser killed Saadhak  in round 15
+Melser killed Less  in round 15
+Sacy killed adverso  in round 15
+Sacy killed Shyy  in round 15
+pANcada killed Tacolilla  in round 15
+kiNgg killed pANcada  in round 15
+Melser killed Sacy  in round 15
+Round 15 ended with elimination. The winning team is Leviatán Esports.
+The current score is Leviatán Esports 6 - 9 LOUD.
+pANcada killed kiNgg  in round 16
+adverso killed Saadhak  in round 16
+adverso killed pANcada  in round 16
+aspas killed Shyy  in round 16
+aspas killed adverso  in round 16
+Tacolilla killed Less  in round 16
+aspas killed Tacolilla  in round 16
+Sacy killed Melser  in round 16
+Round 16 ended with elimination. The winning team is LOUD.
+The current score is Leviatán Esports 6 - 10 LOUD.
+Less killed Tacolilla  in round 17
+aspas killed Shyy  in round 17
+pANcada killed Melser  in round 17
+pANcada killed adverso  in round 17
+aspas killed kiNgg  in round 17
+Round 17 ended with elimination. The winning team is LOUD.
+The current score is Leviatán Esports 6 - 11 LOUD.
+Less killed Melser  in round 18
+kiNgg killed Less  in round 18
+aspas killed kiNgg  in round 18
+Shyy killed aspas  in round 18
+pANcada killed Shyy  in round 18
+Tacolilla killed Saadhak  in round 18
+pANcada killed Tacolilla  in round 18
+Sacy killed adverso  in round 18
+Round 18 ended with elimination. The winning team is LOUD.
+The current score is Leviatán Esports 6 - 12 LOUD.
+kiNgg killed aspas  in round 19
+Less killed Shyy  in round 19
+pANcada killed Tacolilla  in round 19
+kiNgg killed Less  in round 19
+Sacy killed kiNgg  in round 19
+pANcada killed adverso  in round 19
+Saadhak killed Melser  in round 19
+Round 19 ended with elimination. The winning team is LOUD.
+The current score is Leviatán Esports 6 - 13 LOUD.
+Game ended with winning team: LOUD at 2022-09-09T16:20:13Z
+
+--- Player Stats ---
+aspas: Team=LOUD, Kills=14, Deaths=13, Assists=3, KDA=1.31, First Kills=1, First Deaths=2
+Sacy: Team=LOUD, Kills=12, Deaths=10, Assists=8, KDA=2.0, First Kills=1, First Deaths=0
+Saadhak: Team=LOUD, Kills=7, Deaths=11, Assists=5, KDA=1.09, First Kills=0, First Deaths=2
+Less: Team=LOUD, Kills=17, Deaths=13, Assists=2, KDA=1.46, First Kills=6, First Deaths=3
+pANcada: Team=LOUD, Kills=17, Deaths=9, Assists=7, KDA=2.67, First Kills=1, First Deaths=2
+Melser: Team=Leviatán Esports, Kills=11, Deaths=12, Assists=7, KDA=1.5, First Kills=0, First Deaths=1
+Shyy: Team=Leviatán Esports, Kills=7, Deaths=14, Assists=8, KDA=1.07, First Kills=1, First Deaths=1
+kiNgg: Team=Leviatán Esports, Kills=23, Deaths=15, Assists=2, KDA=1.67, First Kills=5, First Deaths=3
+adverso: Team=Leviatán Esports, Kills=10, Deaths=14, Assists=5, KDA=1.07, First Kills=2, First Deaths=1
+Tacolilla: Team=Leviatán Esports, Kills=8, Deaths=15, Assists=1, KDA=0.6, First Kills=2, First Deaths=4

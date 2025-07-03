@@ -1,0 +1,282 @@
+Team 1: FNATIC
+Team 2: Team Liquid
+Participating Players:
+Player 1: Mistic
+Player 2: nAts
+Player 3: Enzo 
+Player 4: Keiko
+Player 5: Jamppi
+Player 6: Chronicle
+Player 7: Derke
+Player 8: Boaster
+Player 9: Leo 
+Player 10: Alfajer
+Winning Team: Team Liquid
+Score: FNATIC 12 - 14 Team Liquid
+Tournament Name: vct emea stage 1 2024
+Game Start Time: 2024-05-08T16:04:00Z
+Game End Time: 2024-05-08T17:05:52Z
+Rounds ended by ELIMINATION count: 16
+Rounds ended by DEFUSE count: 7
+Rounds ended by DETONATE count: 1
+SPIKE PLANTED count: 8
+platformGameId: val:cf280fd2-cdde-4663-81e6-2ebb67c5f9c6
+
+--- Events ---
+Game started at 2024-05-08T16:04:00Z
+Alfajer killed Enzo   in round 1
+Keiko killed Alfajer  in round 1
+Boaster killed Mistic  in round 1
+Derke killed Keiko  in round 1
+nAts killed Derke  in round 1
+Boaster killed nAts  in round 1
+Boaster killed Jamppi  in round 1
+Round 1 ended with elimination. The winning team is FNATIC.
+The current score is FNATIC 1 - 0 Team Liquid.
+Alfajer killed Jamppi  in round 2
+Chronicle killed nAts  in round 2
+Mistic killed Chronicle  in round 2
+Leo  killed Keiko  in round 2
+Round 2 ended with detonate. The winning team is FNATIC.
+The current score is FNATIC 2 - 0 Team Liquid.
+Enzo  killed Enzo   in round 3
+Mistic killed Mistic  in round 3
+Jamppi killed Boaster  in round 3
+Keiko killed Chronicle  in round 3
+Alfajer killed Mistic  in round 3
+Derke killed Enzo   in round 3
+Keiko killed Derke  in round 3
+nAts killed Alfajer  in round 3
+Leo  killed Keiko  in round 3
+Leo  killed Jamppi  in round 3
+Round 3 ended with time_expired. The winning team is Team Liquid.
+The current score is FNATIC 2 - 1 Team Liquid.
+nAts killed Leo   in round 4
+Jamppi killed Derke  in round 4
+Alfajer killed Jamppi  in round 4
+Alfajer killed nAts  in round 4
+nAts killed Alfajer  in round 4
+Boaster killed Enzo   in round 4
+Mistic killed Leo   in round 4
+Mistic killed Chronicle  in round 4
+Keiko killed Boaster  in round 4
+Round 4 ended with elimination. The winning team is Team Liquid.
+The current score is FNATIC 2 - 2 Team Liquid.
+Alfajer killed Enzo   in round 5
+Alfajer killed Mistic  in round 5
+Keiko killed Alfajer  in round 5
+nAts killed Derke  in round 5
+nAts killed Boaster  in round 5
+nAts killed Leo   in round 5
+Chronicle killed nAts  in round 5
+Keiko killed Chronicle  in round 5
+Round 5 ended with elimination. The winning team is Team Liquid.
+The current score is FNATIC 2 - 3 Team Liquid.
+nAts killed Derke  in round 6
+Keiko killed Chronicle  in round 6
+Boaster killed nAts  in round 6
+Alfajer killed Mistic  in round 6
+Keiko killed Alfajer  in round 6
+Boaster killed Keiko  in round 6
+Jamppi killed Boaster  in round 6
+Leo  killed Jamppi  in round 6
+Enzo  killed Leo   in round 6
+Round 6 ended with elimination. The winning team is Team Liquid.
+The current score is FNATIC 2 - 4 Team Liquid.
+Jamppi killed Alfajer  in round 7
+Keiko killed Boaster  in round 7
+Keiko killed Derke  in round 7
+Leo  killed Keiko  in round 7
+Mistic killed Leo   in round 7
+Chronicle killed Mistic  in round 7
+nAts killed Chronicle  in round 7
+Round 7 ended with elimination. The winning team is Team Liquid.
+The current score is FNATIC 2 - 5 Team Liquid.
+Jamppi killed Chronicle  in round 8
+Derke killed Jamppi  in round 8
+nAts killed Derke  in round 8
+Leo  killed Mistic  in round 8
+Boaster killed nAts  in round 8
+Keiko killed Leo   in round 8
+Alfajer killed Keiko  in round 8
+Alfajer killed Enzo   in round 8
+Round 8 ended with elimination. The winning team is FNATIC.
+The current score is FNATIC 3 - 5 Team Liquid.
+Alfajer killed Keiko  in round 9
+Jamppi killed Alfajer  in round 9
+Derke killed nAts  in round 9
+Jamppi killed Derke  in round 9
+Chronicle killed Jamppi  in round 9
+Mistic killed Leo   in round 9
+Mistic killed Chronicle  in round 9
+Mistic killed Boaster  in round 9
+Round 9 ended with spike_defuse. The winning team is Team Liquid.
+The current score is FNATIC 3 - 6 Team Liquid.
+Enzo  killed Alfajer  in round 10
+Derke killed Jamppi  in round 10
+nAts killed Chronicle  in round 10
+Keiko killed Derke  in round 10
+Boaster killed nAts  in round 10
+Leo  killed Enzo   in round 10
+Keiko killed Boaster  in round 10
+Mistic killed Leo   in round 10
+Round 10 ended with spike_defuse. The winning team is Team Liquid.
+The current score is FNATIC 3 - 7 Team Liquid.
+Jamppi killed Alfajer  in round 11
+Leo  killed Jamppi  in round 11
+Enzo  killed Derke  in round 11
+Boaster killed Mistic  in round 11
+Boaster killed Keiko  in round 11
+Alfajer killed nAts  in round 11
+Alfajer killed Enzo   in round 11
+Round 11 ended with elimination. The winning team is FNATIC.
+The current score is FNATIC 4 - 7 Team Liquid.
+Alfajer killed nAts  in round 12
+Jamppi killed Derke  in round 12
+Leo  killed Jamppi  in round 12
+Boaster killed Mistic  in round 12
+Leo  killed Enzo   in round 12
+Alfajer killed Keiko  in round 12
+Round 12 ended with elimination. The winning team is FNATIC.
+The current score is FNATIC 5 - 7 Team Liquid.
+Alfajer killed Keiko  in round 13
+Leo  killed Jamppi  in round 13
+Boaster killed Mistic  in round 13
+nAts killed Alfajer  in round 13
+nAts killed Leo   in round 13
+Chronicle killed nAts  in round 13
+Boaster killed Enzo   in round 13
+Round 13 ended with spike_defuse. The winning team is FNATIC.
+The current score is FNATIC 6 - 7 Team Liquid.
+Chronicle killed Enzo   in round 14
+Alfajer killed Jamppi  in round 14
+nAts killed Chronicle  in round 14
+Leo  killed nAts  in round 14
+Leo  killed Keiko  in round 14
+Leo  killed Mistic  in round 14
+Round 14 ended with elimination. The winning team is FNATIC.
+The current score is FNATIC 7 - 7 Team Liquid.
+Alfajer killed Jamppi  in round 15
+Keiko killed Alfajer  in round 15
+Derke killed Enzo   in round 15
+Chronicle killed Keiko  in round 15
+Mistic killed Chronicle  in round 15
+Boaster killed nAts  in round 15
+Round 15 ended with time_expired. The winning team is FNATIC.
+The current score is FNATIC 8 - 7 Team Liquid.
+Alfajer killed Mistic  in round 16
+Chronicle killed Keiko  in round 16
+Boaster killed Jamppi  in round 16
+Leo  killed Enzo   in round 16
+Alfajer killed nAts  in round 16
+Round 16 ended with spike_defuse. The winning team is FNATIC.
+The current score is FNATIC 9 - 7 Team Liquid.
+Chronicle killed Keiko  in round 17
+Alfajer killed Mistic  in round 17
+Jamppi killed Alfajer  in round 17
+nAts killed Leo   in round 17
+Derke killed Enzo   in round 17
+Derke killed Jamppi  in round 17
+Derke killed nAts  in round 17
+Round 17 ended with spike_defuse. The winning team is FNATIC.
+The current score is FNATIC 10 - 7 Team Liquid.
+Jamppi killed Derke  in round 18
+Keiko killed Boaster  in round 18
+nAts killed Chronicle  in round 18
+Leo  killed nAts  in round 18
+Alfajer killed Keiko  in round 18
+Jamppi killed Alfajer  in round 18
+Leo  killed Enzo   in round 18
+Jamppi killed Leo   in round 18
+Round 18 ended with elimination. The winning team is Team Liquid.
+The current score is FNATIC 10 - 8 Team Liquid.
+Derke killed Enzo   in round 19
+Jamppi killed Derke  in round 19
+Chronicle killed Mistic  in round 19
+nAts killed Chronicle  in round 19
+Enzo  killed Boaster  in round 19
+Leo  killed Enzo   in round 19
+Keiko killed Leo   in round 19
+Alfajer killed Keiko  in round 19
+Jamppi killed Alfajer  in round 19
+Round 19 ended with elimination. The winning team is Team Liquid.
+The current score is FNATIC 10 - 9 Team Liquid.
+nAts killed Derke  in round 20
+Enzo  killed Alfajer  in round 20
+Jamppi killed Boaster  in round 20
+Keiko killed Leo   in round 20
+Keiko killed Chronicle  in round 20
+Derke killed Keiko  in round 20
+nAts killed Derke  in round 20
+Round 20 ended with elimination. The winning team is Team Liquid.
+The current score is FNATIC 10 - 10 Team Liquid.
+Derke killed nAts  in round 21
+Derke killed Keiko  in round 21
+Leo  killed Enzo   in round 21
+Mistic killed Boaster  in round 21
+Jamppi killed Derke  in round 21
+Jamppi killed Leo   in round 21
+Chronicle killed Mistic  in round 21
+Chronicle killed Jamppi  in round 21
+Round 21 ended with spike_defuse. The winning team is FNATIC.
+The current score is FNATIC 11 - 10 Team Liquid.
+Jamppi killed Alfajer  in round 22
+nAts killed Derke  in round 22
+Mistic killed Chronicle  in round 22
+Leo  killed nAts  in round 22
+Mistic killed Leo   in round 22
+Boaster killed Mistic  in round 22
+Keiko killed Boaster  in round 22
+Round 22 ended with elimination. The winning team is Team Liquid.
+The current score is FNATIC 11 - 11 Team Liquid.
+Keiko killed Chronicle  in round 23
+Keiko killed Alfajer  in round 23
+Boaster killed Jamppi  in round 23
+Mistic killed Leo   in round 23
+Mistic killed Derke  in round 23
+Boaster killed Mistic  in round 23
+Keiko killed Boaster  in round 23
+Round 23 ended with elimination. The winning team is Team Liquid.
+The current score is FNATIC 11 - 12 Team Liquid.
+Chronicle killed Jamppi  in round 24
+Alfajer killed Jamppi  in round 24
+Chronicle killed Mistic  in round 24
+nAts killed Chronicle  in round 24
+Derke killed nAts  in round 24
+Keiko killed Leo   in round 24
+Enzo  killed Derke  in round 24
+Alfajer killed Keiko  in round 24
+Boaster killed Enzo   in round 24
+Round 24 ended with spike_defuse. The winning team is FNATIC.
+The current score is FNATIC 12 - 12 Team Liquid.
+Jamppi killed Derke  in round 25
+Enzo  killed Chronicle  in round 25
+Alfajer killed Mistic  in round 25
+Alfajer killed Keiko  in round 25
+Alfajer killed nAts  in round 25
+Jamppi killed Alfajer  in round 25
+Enzo  killed Boaster  in round 25
+Enzo  killed Leo   in round 25
+Round 25 ended with elimination. The winning team is Team Liquid.
+The current score is FNATIC 12 - 13 Team Liquid.
+nAts killed Boaster  in round 26
+Keiko killed Derke  in round 26
+nAts killed Alfajer  in round 26
+Leo  killed Jamppi  in round 26
+Keiko killed Chronicle  in round 26
+nAts killed Leo   in round 26
+Round 26 ended with elimination. The winning team is Team Liquid.
+The current score is FNATIC 12 - 14 Team Liquid.
+Game ended with winning team: Team Liquid at 2024-05-08T17:05:52Z
+
+--- Player Stats ---
+Mistic: Team=Team Liquid, Kills=15, Deaths=19, Assists=6, KDA=1.11, First Kills=0, First Deaths=1
+nAts: Team=Team Liquid, Kills=24, Deaths=20, Assists=5, KDA=1.45, First Kills=4, First Deaths=2
+Enzo : Team=Team Liquid, Kills=10, Deaths=19, Assists=7, KDA=0.89, First Kills=2, First Deaths=5
+Keiko: Team=Team Liquid, Kills=25, Deaths=20, Assists=4, KDA=1.45, First Kills=1, First Deaths=3
+Jamppi: Team=Team Liquid, Kills=21, Deaths=20, Assists=4, KDA=1.25, First Kills=6, First Deaths=3
+Chronicle: Team=FNATIC, Kills=14, Deaths=19, Assists=14, KDA=1.47, First Kills=3, First Deaths=2
+Derke: Team=FNATIC, Kills=14, Deaths=21, Assists=8, KDA=1.05, First Kills=2, First Deaths=4
+Boaster: Team=FNATIC, Kills=19, Deaths=15, Assists=10, KDA=1.93, First Kills=0, First Deaths=1
+Leo : Team=FNATIC, Kills=21, Deaths=19, Assists=4, KDA=1.32, First Kills=0, First Deaths=1
+Alfajer: Team=FNATIC, Kills=28, Deaths=19, Assists=3, KDA=1.63, First Kills=8, First Deaths=4

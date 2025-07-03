@@ -1,0 +1,210 @@
+Team 1: G2 Esports
+Team 2: Cloud9 Blue
+Participating Players:
+Player 1: moose
+Player 2: vanity
+Player 3: Oxy
+Player 4: runi
+Player 5: xeppaa
+Player 6: icy
+Player 7: Leaf
+Player 8: valyn
+Player 9: trent
+Player 10: JonahP
+Winning Team: G2 Esports
+Score: G2 Esports 13 - 6 Cloud9 Blue
+Tournament Name: vct americas stage 1 2024
+Game Start Time: 2024-05-08T20:49:52Z
+Game End Time: 2024-05-08T21:49:42Z
+Rounds ended by ELIMINATION count: 12
+Rounds ended by DEFUSE count: 4
+Rounds ended by DETONATE count: 3
+SPIKE PLANTED count: 7
+platformGameId: val:4ecc448b-2dd5-4841-9d96-2c111b7063d1
+
+--- Events ---
+Game started at 2024-05-08T20:49:52Z
+runi killed icy  in round 1
+Oxy killed JonahP  in round 1
+moose killed Leaf  in round 1
+xeppaa killed valyn  in round 1
+trent killed Oxy  in round 1
+xeppaa killed trent  in round 1
+Round 1 ended with spike_defuse. The winning team is Cloud9 Blue.
+The current score is G2 Esports 0 - 1 Cloud9 Blue.
+moose killed icy  in round 2
+Oxy killed valyn  in round 2
+xeppaa killed Leaf  in round 2
+Leaf killed xeppaa  in round 2
+trent killed Oxy  in round 2
+runi killed JonahP  in round 2
+runi killed trent  in round 2
+Round 2 ended with elimination. The winning team is Cloud9 Blue.
+The current score is G2 Esports 0 - 2 Cloud9 Blue.
+runi killed icy  in round 3
+Leaf killed runi  in round 3
+Leaf killed moose  in round 3
+vanity killed Leaf  in round 3
+valyn killed xeppaa  in round 3
+vanity killed JonahP  in round 3
+valyn killed vanity  in round 3
+Oxy killed valyn  in round 3
+Oxy killed trent  in round 3
+Round 3 ended with spike_defuse. The winning team is Cloud9 Blue.
+The current score is G2 Esports 0 - 3 Cloud9 Blue.
+moose killed Leaf  in round 4
+moose killed valyn  in round 4
+icy killed moose  in round 4
+Oxy killed icy  in round 4
+runi killed JonahP  in round 4
+runi killed trent  in round 4
+Round 4 ended with elimination. The winning team is Cloud9 Blue.
+The current score is G2 Esports 0 - 4 Cloud9 Blue.
+Oxy killed Leaf  in round 5
+moose killed valyn  in round 5
+trent killed xeppaa  in round 5
+JonahP killed runi  in round 5
+vanity killed trent  in round 5
+vanity killed JonahP  in round 5
+icy killed vanity  in round 5
+icy killed Oxy  in round 5
+icy killed moose  in round 5
+Round 5 ended with elimination. The winning team is G2 Esports.
+The current score is G2 Esports 1 - 4 Cloud9 Blue.
+valyn killed Oxy  in round 6
+icy killed vanity  in round 6
+valyn killed xeppaa  in round 6
+Round 6 ended with detonate. The winning team is G2 Esports.
+The current score is G2 Esports 2 - 4 Cloud9 Blue.
+moose killed Leaf  in round 7
+JonahP killed vanity  in round 7
+Oxy killed JonahP  in round 7
+icy killed Oxy  in round 7
+trent killed xeppaa  in round 7
+runi killed trent  in round 7
+moose killed icy  in round 7
+valyn killed runi  in round 7
+valyn killed moose  in round 7
+Round 7 ended with elimination. The winning team is G2 Esports.
+The current score is G2 Esports 3 - 4 Cloud9 Blue.
+Leaf killed Oxy  in round 8
+valyn killed vanity  in round 8
+Leaf killed xeppaa  in round 8
+moose killed trent  in round 8
+moose killed Leaf  in round 8
+moose killed JonahP  in round 8
+icy killed moose  in round 8
+Round 8 ended with detonate. The winning team is G2 Esports.
+The current score is G2 Esports 4 - 4 Cloud9 Blue.
+valyn killed vanity  in round 9
+Oxy killed valyn  in round 9
+Oxy killed trent  in round 9
+icy killed Oxy  in round 9
+JonahP killed xeppaa  in round 9
+moose killed icy  in round 9
+JonahP killed moose  in round 9
+Leaf killed runi  in round 9
+Round 9 ended with elimination. The winning team is G2 Esports.
+The current score is G2 Esports 5 - 4 Cloud9 Blue.
+Oxy killed JonahP  in round 10
+icy killed Oxy  in round 10
+trent killed xeppaa  in round 10
+valyn killed moose  in round 10
+icy killed vanity  in round 10
+Round 10 ended with detonate. The winning team is G2 Esports.
+The current score is G2 Esports 6 - 4 Cloud9 Blue.
+Oxy killed Leaf  in round 11
+Oxy killed trent  in round 11
+Oxy killed valyn  in round 11
+Oxy killed icy  in round 11
+JonahP killed Oxy  in round 11
+JonahP killed xeppaa  in round 11
+runi killed JonahP  in round 11
+Round 11 ended with elimination. The winning team is Cloud9 Blue.
+The current score is G2 Esports 6 - 5 Cloud9 Blue.
+xeppaa killed icy  in round 12
+xeppaa killed valyn  in round 12
+trent killed moose  in round 12
+JonahP killed xeppaa  in round 12
+Oxy killed Leaf  in round 12
+trent killed Oxy  in round 12
+JonahP killed runi  in round 12
+vanity killed JonahP  in round 12
+trent killed vanity  in round 12
+Round 12 ended with elimination. The winning team is G2 Esports.
+The current score is G2 Esports 7 - 5 Cloud9 Blue.
+trent killed runi  in round 13
+trent killed Oxy  in round 13
+trent killed vanity  in round 13
+moose killed trent  in round 13
+Leaf killed moose  in round 13
+Round 13 ended with spike_defuse. The winning team is G2 Esports.
+The current score is G2 Esports 8 - 5 Cloud9 Blue.
+xeppaa killed JonahP  in round 14
+icy killed xeppaa  in round 14
+moose killed JonahP  in round 14
+Leaf killed Oxy  in round 14
+valyn killed runi  in round 14
+Leaf killed xeppaa  in round 14
+moose killed Leaf  in round 14
+valyn killed vanity  in round 14
+icy killed moose  in round 14
+Round 14 ended with elimination. The winning team is G2 Esports.
+The current score is G2 Esports 9 - 5 Cloud9 Blue.
+valyn killed Oxy  in round 15
+trent killed runi  in round 15
+JonahP killed vanity  in round 15
+xeppaa killed JonahP  in round 15
+moose killed icy  in round 15
+valyn killed moose  in round 15
+xeppaa killed trent  in round 15
+valyn killed xeppaa  in round 15
+Round 15 ended with elimination. The winning team is G2 Esports.
+The current score is G2 Esports 10 - 5 Cloud9 Blue.
+valyn killed Oxy  in round 16
+Leaf killed vanity  in round 16
+Leaf killed xeppaa  in round 16
+Leaf killed moose  in round 16
+valyn killed runi  in round 16
+Round 16 ended with elimination. The winning team is G2 Esports.
+The current score is G2 Esports 11 - 5 Cloud9 Blue.
+runi killed valyn  in round 17
+moose killed JonahP  in round 17
+Oxy killed Leaf  in round 17
+trent killed vanity  in round 17
+xeppaa killed icy  in round 17
+trent killed runi  in round 17
+xeppaa killed trent  in round 17
+Round 17 ended with elimination. The winning team is Cloud9 Blue.
+The current score is G2 Esports 11 - 6 Cloud9 Blue.
+icy killed moose  in round 18
+valyn killed runi  in round 18
+vanity killed JonahP  in round 18
+Leaf killed vanity  in round 18
+Leaf killed Oxy  in round 18
+xeppaa killed icy  in round 18
+Leaf killed xeppaa  in round 18
+Round 18 ended with spike_defuse. The winning team is G2 Esports.
+The current score is G2 Esports 12 - 6 Cloud9 Blue.
+valyn killed vanity  in round 19
+icy killed xeppaa  in round 19
+valyn killed Oxy  in round 19
+moose killed valyn  in round 19
+trent killed runi  in round 19
+moose killed trent  in round 19
+JonahP killed moose  in round 19
+Round 19 ended with elimination. The winning team is G2 Esports.
+The current score is G2 Esports 13 - 6 Cloud9 Blue.
+Game ended with winning team: G2 Esports at 2024-05-08T21:49:42Z
+
+--- Player Stats ---
+moose: Team=Cloud9 Blue, Kills=18, Deaths=14, Assists=1, KDA=1.36, First Kills=3, First Deaths=1
+vanity: Team=Cloud9 Blue, Kills=6, Deaths=15, Assists=6, KDA=0.8, First Kills=0, First Deaths=2
+Oxy: Team=Cloud9 Blue, Kills=16, Deaths=16, Assists=3, KDA=1.19, First Kills=3, First Deaths=4
+runi: Team=Cloud9 Blue, Kills=9, Deaths=12, Assists=4, KDA=1.08, First Kills=3, First Deaths=1
+xeppaa: Team=Cloud9 Blue, Kills=11, Deaths=16, Assists=7, KDA=1.12, First Kills=2, First Deaths=0
+icy: Team=G2 Esports, Kills=14, Deaths=11, Assists=4, KDA=1.64, First Kills=1, First Deaths=4
+Leaf: Team=G2 Esports, Kills=15, Deaths=11, Assists=2, KDA=1.55, First Kills=1, First Deaths=4
+valyn: Team=G2 Esports, Kills=19, Deaths=10, Assists=9, KDA=2.8, First Kills=5, First Deaths=1
+trent: Team=G2 Esports, Kills=15, Deaths=13, Assists=10, KDA=1.92, First Kills=1, First Deaths=0
+JonahP: Team=G2 Esports, Kills=10, Deaths=15, Assists=5, KDA=1.0, First Kills=0, First Deaths=2

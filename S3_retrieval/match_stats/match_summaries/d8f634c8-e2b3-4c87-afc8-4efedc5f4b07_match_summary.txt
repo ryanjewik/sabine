@@ -1,0 +1,312 @@
+Team 1: Team Vitality
+Team 2: Leviatán Esports
+Participating Players:
+Player 1: Mazino
+Player 2: Nozwerr
+Player 3: kiNgg
+Player 4: Shyy
+Player 5: Tacolilla
+Player 6: Destrian
+Player 7: Twisten
+Player 8: BONECOLD
+Player 9: MOLSI
+Player 10: ceNder
+Winning Team: Leviatán Esports
+Score: Team Vitality 14 - 16 Leviatán Esports
+Tournament Name: lock in brazil 2023
+Game Start Time: 2023-02-25T19:22:12Z
+Game End Time: 2023-02-25T20:40:09Z
+Rounds ended by ELIMINATION count: 19
+Rounds ended by DEFUSE count: 7
+Rounds ended by DETONATE count: 3
+SPIKE PLANTED count: 10
+platformGameId: val:d8f634c8-e2b3-4c87-afc8-4efedc5f4b07
+
+--- Events ---
+Game started at 2023-02-25T19:22:12Z
+BONECOLD killed Tacolilla  in round 1
+BONECOLD killed kiNgg  in round 1
+MOLSI killed Nozwerr  in round 1
+Shyy killed MOLSI  in round 1
+Destrian killed Shyy  in round 1
+Round 1 ended with spike_defuse. The winning team is Leviatán Esports.
+The current score is Team Vitality 0 - 1 Leviatán Esports.
+Twisten killed Mazino  in round 2
+Twisten killed Tacolilla  in round 2
+Twisten killed Nozwerr  in round 2
+Twisten killed kiNgg  in round 2
+Shyy killed ceNder  in round 2
+Shyy killed Destrian  in round 2
+Twisten killed Shyy  in round 2
+Mazino killed MOLSI  in round 2
+BONECOLD killed Mazino  in round 2
+Round 2 ended with elimination. The winning team is Team Vitality.
+The current score is Team Vitality 1 - 1 Leviatán Esports.
+Destrian killed Tacolilla  in round 3
+Destrian killed Mazino  in round 3
+Twisten killed kiNgg  in round 3
+Nozwerr killed Twisten  in round 3
+Destrian killed Nozwerr  in round 3
+Destrian killed Shyy  in round 3
+Round 3 ended with elimination. The winning team is Team Vitality.
+The current score is Team Vitality 2 - 1 Leviatán Esports.
+Mazino killed Destrian  in round 4
+BONECOLD killed Mazino  in round 4
+Shyy killed BONECOLD  in round 4
+MOLSI killed Shyy  in round 4
+kiNgg killed Twisten  in round 4
+MOLSI killed kiNgg  in round 4
+Tacolilla killed MOLSI  in round 4
+Tacolilla killed ceNder  in round 4
+Round 4 ended with spike_defuse. The winning team is Leviatán Esports.
+The current score is Team Vitality 2 - 2 Leviatán Esports.
+Tacolilla killed BONECOLD  in round 5
+Nozwerr killed Destrian  in round 5
+Twisten killed Tacolilla  in round 5
+ceNder killed Nozwerr  in round 5
+kiNgg killed ceNder  in round 5
+Twisten killed Mazino  in round 5
+Twisten killed kiNgg  in round 5
+MOLSI killed Shyy  in round 5
+Round 5 ended with elimination. The winning team is Team Vitality.
+The current score is Team Vitality 3 - 2 Leviatán Esports.
+ceNder killed kiNgg  in round 6
+BONECOLD killed Tacolilla  in round 6
+MOLSI killed Mazino  in round 6
+Twisten killed Nozwerr  in round 6
+Round 6 ended with detonate. The winning team is Team Vitality.
+The current score is Team Vitality 4 - 2 Leviatán Esports.
+Shyy killed Shyy  in round 7
+Mazino killed ceNder  in round 7
+BONECOLD killed Mazino  in round 7
+Shyy killed Twisten  in round 7
+BONECOLD killed Tacolilla  in round 7
+Round 7 ended with detonate. The winning team is Team Vitality.
+The current score is Team Vitality 5 - 2 Leviatán Esports.
+Tacolilla killed BONECOLD  in round 8
+Shyy killed ceNder  in round 8
+MOLSI killed Mazino  in round 8
+Nozwerr killed Destrian  in round 8
+kiNgg killed MOLSI  in round 8
+Twisten killed Tacolilla  in round 8
+Shyy killed Twisten  in round 8
+Round 8 ended with elimination. The winning team is Leviatán Esports.
+The current score is Team Vitality 5 - 3 Leviatán Esports.
+Shyy killed Destrian  in round 9
+Shyy killed MOLSI  in round 9
+Twisten killed Shyy  in round 9
+kiNgg killed ceNder  in round 9
+Twisten killed kiNgg  in round 9
+Nozwerr killed Twisten  in round 9
+Nozwerr killed BONECOLD  in round 9
+Round 9 ended with spike_defuse. The winning team is Leviatán Esports.
+The current score is Team Vitality 5 - 4 Leviatán Esports.
+Twisten killed kiNgg  in round 10
+ceNder killed Tacolilla  in round 10
+ceNder killed Nozwerr  in round 10
+MOLSI killed Shyy  in round 10
+Round 10 ended with detonate. The winning team is Team Vitality.
+The current score is Team Vitality 6 - 4 Leviatán Esports.
+Mazino killed Destrian  in round 11
+MOLSI killed Nozwerr  in round 11
+ceNder killed Tacolilla  in round 11
+ceNder killed kiNgg  in round 11
+Shyy killed ceNder  in round 11
+Destrian killed Mazino  in round 11
+Shyy killed BONECOLD  in round 11
+Twisten killed Shyy  in round 11
+Round 11 ended with elimination. The winning team is Team Vitality.
+The current score is Team Vitality 7 - 4 Leviatán Esports.
+Destrian killed Destrian  in round 12
+Twisten killed Tacolilla  in round 12
+Twisten killed Mazino  in round 12
+Shyy killed Twisten  in round 12
+kiNgg killed BONECOLD  in round 12
+kiNgg killed ceNder  in round 12
+kiNgg killed MOLSI  in round 12
+kiNgg killed Destrian  in round 12
+Round 12 ended with elimination. The winning team is Leviatán Esports.
+The current score is Team Vitality 7 - 5 Leviatán Esports.
+kiNgg killed Twisten  in round 13
+MOLSI killed Tacolilla  in round 13
+Tacolilla killed MOLSI  in round 13
+Nozwerr killed BONECOLD  in round 13
+Mazino killed Destrian  in round 13
+Shyy killed ceNder  in round 13
+Round 13 ended with elimination. The winning team is Leviatán Esports.
+The current score is Team Vitality 7 - 6 Leviatán Esports.
+Shyy killed Twisten  in round 14
+Shyy killed BONECOLD  in round 14
+ceNder killed Mazino  in round 14
+MOLSI killed Nozwerr  in round 14
+MOLSI killed Tacolilla  in round 14
+ceNder killed Shyy  in round 14
+kiNgg killed ceNder  in round 14
+kiNgg killed Destrian  in round 14
+kiNgg killed MOLSI  in round 14
+Round 14 ended with elimination. The winning team is Leviatán Esports.
+The current score is Team Vitality 7 - 7 Leviatán Esports.
+Shyy killed Destrian  in round 15
+kiNgg killed BONECOLD  in round 15
+ceNder killed Nozwerr  in round 15
+ceNder killed Mazino  in round 15
+ceNder killed kiNgg  in round 15
+Tacolilla killed ceNder  in round 15
+MOLSI killed Shyy  in round 15
+Tacolilla killed MOLSI  in round 15
+Twisten killed Tacolilla  in round 15
+Round 15 ended with spike_defuse. The winning team is Team Vitality.
+The current score is Team Vitality 8 - 7 Leviatán Esports.
+Tacolilla killed Destrian  in round 16
+Mazino killed Twisten  in round 16
+ceNder killed Shyy  in round 16
+Mazino killed BONECOLD  in round 16
+Tacolilla killed MOLSI  in round 16
+Round 16 ended with spike_defuse. The winning team is Team Vitality.
+The current score is Team Vitality 9 - 7 Leviatán Esports.
+Destrian killed Mazino  in round 17
+Shyy killed Destrian  in round 17
+Twisten killed Tacolilla  in round 17
+Nozwerr killed Twisten  in round 17
+MOLSI killed Nozwerr  in round 17
+ceNder killed Shyy  in round 17
+MOLSI killed kiNgg  in round 17
+Round 17 ended with elimination. The winning team is Team Vitality.
+The current score is Team Vitality 10 - 7 Leviatán Esports.
+Twisten killed Mazino  in round 18
+Twisten killed kiNgg  in round 18
+Twisten killed Nozwerr  in round 18
+BONECOLD killed Tacolilla  in round 18
+ceNder killed Shyy  in round 18
+Round 18 ended with elimination. The winning team is Team Vitality.
+The current score is Team Vitality 11 - 7 Leviatán Esports.
+Nozwerr killed BONECOLD  in round 19
+MOLSI killed kiNgg  in round 19
+Shyy killed MOLSI  in round 19
+Tacolilla killed Twisten  in round 19
+Shyy killed Destrian  in round 19
+ceNder killed Shyy  in round 19
+ceNder killed Nozwerr  in round 19
+Mazino killed ceNder  in round 19
+Round 19 ended with elimination. The winning team is Leviatán Esports.
+The current score is Team Vitality 11 - 8 Leviatán Esports.
+MOLSI killed Tacolilla  in round 20
+ceNder killed kiNgg  in round 20
+Destrian killed Nozwerr  in round 20
+Mazino killed ceNder  in round 20
+Shyy killed Destrian  in round 20
+Mazino killed BONECOLD  in round 20
+MOLSI killed Mazino  in round 20
+Shyy killed MOLSI  in round 20
+Shyy killed Twisten  in round 20
+Round 20 ended with elimination. The winning team is Leviatán Esports.
+The current score is Team Vitality 11 - 9 Leviatán Esports.
+Shyy killed Twisten  in round 21
+MOLSI killed Mazino  in round 21
+BONECOLD killed Tacolilla  in round 21
+Destrian killed kiNgg  in round 21
+Destrian killed Shyy  in round 21
+Round 21 ended with time_expired. The winning team is Team Vitality.
+The current score is Team Vitality 12 - 9 Leviatán Esports.
+kiNgg killed BONECOLD  in round 22
+MOLSI killed Tacolilla  in round 22
+Shyy killed Twisten  in round 22
+MOLSI killed Shyy  in round 22
+kiNgg killed MOLSI  in round 22
+Nozwerr killed Destrian  in round 22
+Mazino killed ceNder  in round 22
+Round 22 ended with elimination. The winning team is Leviatán Esports.
+The current score is Team Vitality 12 - 10 Leviatán Esports.
+Tacolilla killed Twisten  in round 23
+Tacolilla killed Tacolilla  in round 23
+Tacolilla killed MOLSI  in round 23
+ceNder killed Shyy  in round 23
+BONECOLD killed Nozwerr  in round 23
+kiNgg killed Destrian  in round 23
+Mazino killed BONECOLD  in round 23
+ceNder killed Mazino  in round 23
+kiNgg killed ceNder  in round 23
+Round 23 ended with elimination. The winning team is Leviatán Esports.
+The current score is Team Vitality 12 - 11 Leviatán Esports.
+Mazino killed BONECOLD  in round 24
+Mazino killed MOLSI  in round 24
+ceNder killed Mazino  in round 24
+Shyy killed Destrian  in round 24
+Twisten killed Nozwerr  in round 24
+Twisten killed Tacolilla  in round 24
+ceNder killed Shyy  in round 24
+kiNgg killed Twisten  in round 24
+kiNgg killed ceNder  in round 24
+Round 24 ended with elimination. The winning team is Leviatán Esports.
+The current score is Team Vitality 12 - 12 Leviatán Esports.
+kiNgg killed kiNgg  in round 25
+Shyy killed Twisten  in round 25
+ceNder killed Shyy  in round 25
+MOLSI killed kiNgg  in round 25
+Destrian killed Mazino  in round 25
+MOLSI killed Tacolilla  in round 25
+BONECOLD killed Nozwerr  in round 25
+Round 25 ended with elimination. The winning team is Team Vitality.
+The current score is Team Vitality 13 - 12 Leviatán Esports.
+Tacolilla killed ceNder  in round 26
+Mazino killed Destrian  in round 26
+Tacolilla killed MOLSI  in round 26
+Nozwerr killed BONECOLD  in round 26
+kiNgg killed Twisten  in round 26
+Round 26 ended with elimination. The winning team is Leviatán Esports.
+The current score is Team Vitality 13 - 13 Leviatán Esports.
+Twisten killed Shyy  in round 27
+Mazino killed Twisten  in round 27
+kiNgg killed Destrian  in round 27
+ceNder killed kiNgg  in round 27
+BONECOLD killed Mazino  in round 27
+Nozwerr killed BONECOLD  in round 27
+MOLSI killed Nozwerr  in round 27
+Tacolilla killed ceNder  in round 27
+Tacolilla killed MOLSI  in round 27
+Round 27 ended with elimination. The winning team is Leviatán Esports.
+The current score is Team Vitality 13 - 14 Leviatán Esports.
+BONECOLD killed Tacolilla  in round 28
+Twisten killed Shyy  in round 28
+Nozwerr killed Destrian  in round 28
+Twisten killed Nozwerr  in round 28
+Mazino killed ceNder  in round 28
+BONECOLD killed Mazino  in round 28
+kiNgg killed Twisten  in round 28
+MOLSI killed kiNgg  in round 28
+Round 28 ended with spike_defuse. The winning team is Team Vitality.
+The current score is Team Vitality 14 - 14 Leviatán Esports.
+Twisten killed Mazino  in round 29
+Shyy killed Destrian  in round 29
+BONECOLD killed Nozwerr  in round 29
+MOLSI killed Tacolilla  in round 29
+kiNgg killed BONECOLD  in round 29
+kiNgg killed Twisten  in round 29
+Shyy killed MOLSI  in round 29
+Shyy killed ceNder  in round 29
+Round 29 ended with spike_defuse. The winning team is Leviatán Esports.
+The current score is Team Vitality 14 - 15 Leviatán Esports.
+MOLSI killed Nozwerr  in round 30
+Tacolilla killed BONECOLD  in round 30
+MOLSI killed Tacolilla  in round 30
+kiNgg killed MOLSI  in round 30
+Twisten killed Mazino  in round 30
+Shyy killed Twisten  in round 30
+ceNder killed Shyy  in round 30
+kiNgg killed ceNder  in round 30
+kiNgg killed Destrian  in round 30
+Round 30 ended with elimination. The winning team is Leviatán Esports.
+The current score is Team Vitality 14 - 16 Leviatán Esports.
+Game ended with winning team: Leviatán Esports at 2023-02-25T20:40:09Z
+
+--- Player Stats ---
+Mazino: Team=Leviatán Esports, Kills=17, Deaths=23, Assists=11, KDA=1.22, First Kills=3, First Deaths=4
+Nozwerr: Team=Leviatán Esports, Kills=12, Deaths=20, Assists=9, KDA=1.05, First Kills=1, First Deaths=1
+kiNgg: Team=Leviatán Esports, Kills=28, Deaths=19, Assists=15, KDA=2.26, First Kills=3, First Deaths=3
+Shyy: Team=Leviatán Esports, Kills=31, Deaths=23, Assists=6, KDA=1.61, First Kills=5, First Deaths=2
+Tacolilla: Team=Leviatán Esports, Kills=18, Deaths=24, Assists=10, KDA=1.17, First Kills=5, First Deaths=4
+Destrian: Team=Team Vitality, Kills=12, Deaths=23, Assists=16, KDA=1.22, First Kills=3, First Deaths=6
+Twisten: Team=Team Vitality, Kills=29, Deaths=22, Assists=7, KDA=1.64, First Kills=5, First Deaths=4
+BONECOLD: Team=Team Vitality, Kills=15, Deaths=19, Assists=9, KDA=1.26, First Kills=2, First Deaths=5
+MOLSI: Team=Team Vitality, Kills=27, Deaths=19, Assists=11, KDA=2.0, First Kills=2, First Deaths=0
+ceNder: Team=Team Vitality, Kills=24, Deaths=21, Assists=5, KDA=1.38, First Kills=1, First Deaths=1

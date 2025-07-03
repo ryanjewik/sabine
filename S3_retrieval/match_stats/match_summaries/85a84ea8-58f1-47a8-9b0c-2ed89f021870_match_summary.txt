@@ -1,0 +1,199 @@
+Team 1: LOUD
+Team 2: 100 Thieves
+Participating Players:
+Player 1: Asuna
+Player 2: Cryo
+Player 3: stellar
+Player 4: Derrek
+Player 5: bangNA
+Player 6: aspas
+Player 7: cauanzin
+Player 8: Saadhak
+Player 9: Less
+Player 10: tuyz
+Winning Team: LOUD
+Score: LOUD 13 - 5 100 Thieves
+Tournament Name: vct americas 2023
+Game Start Time: 2023-05-07T18:53:02Z
+Game End Time: 2023-05-07T19:43:12Z
+Rounds ended by ELIMINATION count: 14
+Rounds ended by DEFUSE count: 2
+Rounds ended by DETONATE count: 2
+SPIKE PLANTED count: 4
+platformGameId: val:85a84ea8-58f1-47a8-9b0c-2ed89f021870
+
+--- Events ---
+Game started at 2023-05-07T18:53:02Z
+Derrek killed Saadhak  in round 1
+Cryo killed tuyz  in round 1
+bangNA killed cauanzin  in round 1
+stellar killed aspas  in round 1
+Less killed Derrek  in round 1
+Round 1 ended with spike_defuse. The winning team is 100 Thieves.
+The current score is LOUD 0 - 1 100 Thieves.
+Cryo killed Less  in round 2
+Cryo killed Saadhak  in round 2
+aspas killed Cryo  in round 2
+stellar killed tuyz  in round 2
+aspas killed Derrek  in round 2
+stellar killed Less  in round 2
+stellar killed cauanzin  in round 2
+aspas killed stellar  in round 2
+Asuna killed aspas  in round 2
+Round 2 ended with elimination. The winning team is 100 Thieves.
+The current score is LOUD 0 - 2 100 Thieves.
+Saadhak killed stellar  in round 3
+aspas killed Derrek  in round 3
+Cryo killed tuyz  in round 3
+Less killed Cryo  in round 3
+bangNA killed Saadhak  in round 3
+Less killed bangNA  in round 3
+Less killed Asuna  in round 3
+Round 3 ended with elimination. The winning team is LOUD.
+The current score is LOUD 1 - 2 100 Thieves.
+Cryo killed aspas  in round 4
+stellar killed cauanzin  in round 4
+stellar killed Less  in round 4
+Cryo killed Saadhak  in round 4
+stellar killed tuyz  in round 4
+Round 4 ended with elimination. The winning team is 100 Thieves.
+The current score is LOUD 1 - 3 100 Thieves.
+Cryo killed Less  in round 5
+aspas killed bangNA  in round 5
+aspas killed Cryo  in round 5
+Asuna killed Saadhak  in round 5
+cauanzin killed Asuna  in round 5
+stellar killed tuyz  in round 5
+cauanzin killed stellar  in round 5
+Derrek killed cauanzin  in round 5
+aspas killed Derrek  in round 5
+Round 5 ended with elimination. The winning team is LOUD.
+The current score is LOUD 2 - 3 100 Thieves.
+aspas killed aspas  in round 6
+Less killed bangNA  in round 6
+Less killed Cryo  in round 6
+Round 6 ended with detonate. The winning team is LOUD.
+The current score is LOUD 3 - 3 100 Thieves.
+Less killed Asuna  in round 7
+Derrek killed Less  in round 7
+stellar killed Saadhak  in round 7
+stellar killed aspas  in round 7
+tuyz killed Cryo  in round 7
+tuyz killed Derrek  in round 7
+cauanzin killed bangNA  in round 7
+Asuna killed cauanzin  in round 7
+tuyz killed stellar  in round 7
+Asuna killed tuyz  in round 7
+Round 7 ended with detonate. The winning team is LOUD.
+The current score is LOUD 4 - 3 100 Thieves.
+Asuna killed Asuna  in round 8
+aspas killed Asuna  in round 8
+Cryo killed aspas  in round 8
+Less killed bangNA  in round 8
+Cryo killed Saadhak  in round 8
+Derrek killed cauanzin  in round 8
+Cryo killed Less  in round 8
+Cryo killed tuyz  in round 8
+Round 8 ended with spike_defuse. The winning team is 100 Thieves.
+The current score is LOUD 4 - 4 100 Thieves.
+Cryo killed cauanzin  in round 9
+Less killed Asuna  in round 9
+Derrek killed aspas  in round 9
+Less killed Cryo  in round 9
+Less killed bangNA  in round 9
+tuyz killed stellar  in round 9
+Derrek killed tuyz  in round 9
+Saadhak killed Derrek  in round 9
+Round 9 ended with elimination. The winning team is LOUD.
+The current score is LOUD 5 - 4 100 Thieves.
+Less killed Asuna  in round 10
+stellar killed aspas  in round 10
+cauanzin killed stellar  in round 10
+Cryo killed cauanzin  in round 10
+Less killed Cryo  in round 10
+bangNA killed Saadhak  in round 10
+Derrek killed Less  in round 10
+tuyz killed Derrek  in round 10
+tuyz killed bangNA  in round 10
+Round 10 ended with elimination. The winning team is LOUD.
+The current score is LOUD 6 - 4 100 Thieves.
+Saadhak killed stellar  in round 11
+bangNA killed tuyz  in round 11
+Cryo killed Saadhak  in round 11
+Less killed Cryo  in round 11
+aspas killed bangNA  in round 11
+aspas killed Asuna  in round 11
+Less killed Derrek  in round 11
+Round 11 ended with elimination. The winning team is LOUD.
+The current score is LOUD 7 - 4 100 Thieves.
+aspas killed bangNA  in round 12
+cauanzin killed stellar  in round 12
+aspas killed Asuna  in round 12
+cauanzin killed Cryo  in round 12
+Derrek killed aspas  in round 12
+Less killed Derrek  in round 12
+Round 12 ended with elimination. The winning team is LOUD.
+The current score is LOUD 8 - 4 100 Thieves.
+aspas killed bangNA  in round 13
+Less killed Cryo  in round 13
+Asuna killed Less  in round 13
+Saadhak killed Derrek  in round 13
+stellar killed cauanzin  in round 13
+aspas killed stellar  in round 13
+Asuna killed tuyz  in round 13
+Saadhak killed Asuna  in round 13
+Round 13 ended with elimination. The winning team is LOUD.
+The current score is LOUD 9 - 4 100 Thieves.
+tuyz killed bangNA  in round 14
+tuyz killed Cryo  in round 14
+Saadhak killed Derrek  in round 14
+Asuna killed Saadhak  in round 14
+aspas killed stellar  in round 14
+tuyz killed Asuna  in round 14
+Round 14 ended with elimination. The winning team is LOUD.
+The current score is LOUD 10 - 4 100 Thieves.
+Cryo killed cauanzin  in round 15
+Derrek killed Saadhak  in round 15
+Asuna killed tuyz  in round 15
+bangNA killed Less  in round 15
+aspas killed stellar  in round 15
+Cryo killed aspas  in round 15
+Round 15 ended with elimination. The winning team is 100 Thieves.
+The current score is LOUD 10 - 5 100 Thieves.
+Saadhak killed Cryo  in round 16
+Saadhak killed bangNA  in round 16
+Asuna killed Saadhak  in round 16
+Asuna killed tuyz  in round 16
+cauanzin killed stellar  in round 16
+cauanzin killed Derrek  in round 16
+aspas killed Asuna  in round 16
+Round 16 ended with elimination. The winning team is LOUD.
+The current score is LOUD 11 - 5 100 Thieves.
+aspas killed Cryo  in round 17
+aspas killed Asuna  in round 17
+Less killed bangNA  in round 17
+Less killed stellar  in round 17
+tuyz killed Derrek  in round 17
+Round 17 ended with elimination. The winning team is LOUD.
+The current score is LOUD 12 - 5 100 Thieves.
+Derrek killed cauanzin  in round 18
+tuyz killed bangNA  in round 18
+Less killed Derrek  in round 18
+Less killed stellar  in round 18
+tuyz killed Cryo  in round 18
+Less killed Asuna  in round 18
+Round 18 ended with elimination. The winning team is LOUD.
+The current score is LOUD 13 - 5 100 Thieves.
+Game ended with winning team: LOUD at 2023-05-07T19:43:12Z
+
+--- Player Stats ---
+Asuna: Team=100 Thieves, Kills=11, Deaths=14, Assists=5, KDA=1.14, First Kills=1, First Deaths=3
+Cryo: Team=100 Thieves, Kills=16, Deaths=14, Assists=1, KDA=1.21, First Kills=5, First Deaths=2
+stellar: Team=100 Thieves, Kills=12, Deaths=14, Assists=3, KDA=1.07, First Kills=0, First Deaths=2
+Derrek: Team=100 Thieves, Kills=10, Deaths=14, Assists=10, KDA=1.43, First Kills=2, First Deaths=0
+bangNA: Team=100 Thieves, Kills=5, Deaths=14, Assists=10, KDA=1.07, First Kills=0, First Deaths=3
+aspas: Team=LOUD, Kills=20, Deaths=10, Assists=6, KDA=2.6, First Kills=4, First Deaths=2
+cauanzin: Team=LOUD, Kills=8, Deaths=11, Assists=7, KDA=1.36, First Kills=0, First Deaths=3
+Saadhak: Team=LOUD, Kills=8, Deaths=12, Assists=10, KDA=1.5, First Kills=3, First Deaths=1
+Less: Team=LOUD, Kills=22, Deaths=9, Assists=4, KDA=2.89, First Kills=2, First Deaths=2
+tuyz: Team=LOUD, Kills=12, Deaths=12, Assists=11, KDA=1.92, First Kills=1, First Deaths=0

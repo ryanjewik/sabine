@@ -1,0 +1,360 @@
+Team 1: DRX
+Team 2: 100 Thieves
+Participating Players:
+Player 1: Asuna
+Player 2: WillFPS
+Player 3: stellar
+Player 4: Derrek
+Player 5: bangNA
+Player 6: BuZz
+Player 7: stax
+Player 8: MaKo
+Player 9: ZestKR
+Player 10: Rb
+Winning Team: DRX
+Score: DRX 18 - 16 100 Thieves
+Tournament Name: champions 2022
+Game Start Time: 2022-09-03T17:44:45Z
+Game End Time: 2022-09-03T19:13:14Z
+Rounds ended by ELIMINATION count: 25
+Rounds ended by DEFUSE count: 6
+Rounds ended by DETONATE count: 3
+SPIKE PLANTED count: 9
+platformGameId: val:50b6329a-e72e-4717-95fa-5b9de3ef1a99
+
+--- Events ---
+Game started at 2022-09-03T17:44:45Z
+Derrek killed BuZz  in round 1
+Rb killed Derrek  in round 1
+ZestKR killed bangNA  in round 1
+MaKo killed Asuna  in round 1
+WillFPS killed MaKo  in round 1
+ZestKR killed WillFPS  in round 1
+Rb killed stellar  in round 1
+Round 1 ended with elimination. The winning team is DRX.
+The current score is DRX 1 - 0 100 Thieves.
+BuZz killed WillFPS  in round 2
+BuZz killed stellar  in round 2
+stax killed bangNA  in round 2
+Rb killed Derrek  in round 2
+stax killed Asuna  in round 2
+Round 2 ended with elimination. The winning team is DRX.
+The current score is DRX 2 - 0 100 Thieves.
+WillFPS killed BuZz  in round 3
+stax killed WillFPS  in round 3
+stellar killed MaKo  in round 3
+stellar killed ZestKR  in round 3
+Asuna killed stax  in round 3
+Derrek killed Rb  in round 3
+Round 3 ended with elimination. The winning team is 100 Thieves.
+The current score is DRX 2 - 1 100 Thieves.
+stellar killed stax  in round 4
+BuZz killed stellar  in round 4
+BuZz killed WillFPS  in round 4
+bangNA killed Rb  in round 4
+Derrek killed BuZz  in round 4
+MaKo killed bangNA  in round 4
+Derrek killed MaKo  in round 4
+Derrek killed ZestKR  in round 4
+Round 4 ended with spike_defuse. The winning team is 100 Thieves.
+The current score is DRX 2 - 2 100 Thieves.
+bangNA killed BuZz  in round 5
+Rb killed Derrek  in round 5
+bangNA killed Rb  in round 5
+bangNA killed ZestKR  in round 5
+MaKo killed WillFPS  in round 5
+MaKo killed bangNA  in round 5
+stellar killed MaKo  in round 5
+stax killed Asuna  in round 5
+stax killed stellar  in round 5
+Round 5 ended with elimination. The winning team is DRX.
+The current score is DRX 3 - 2 100 Thieves.
+BuZz killed bangNA  in round 6
+Rb killed WillFPS  in round 6
+stax killed stellar  in round 6
+Asuna killed stax  in round 6
+BuZz killed Derrek  in round 6
+Asuna killed BuZz  in round 6
+Asuna killed Rb  in round 6
+Round 6 ended with detonate. The winning team is DRX.
+The current score is DRX 4 - 2 100 Thieves.
+Asuna killed Asuna  in round 7
+Rb killed Asuna  in round 7
+stellar killed Rb  in round 7
+stellar killed BuZz  in round 7
+stellar killed ZestKR  in round 7
+MaKo killed stellar  in round 7
+MaKo killed bangNA  in round 7
+WillFPS killed stax  in round 7
+MaKo killed Derrek  in round 7
+MaKo killed WillFPS  in round 7
+Round 7 ended with elimination. The winning team is DRX.
+The current score is DRX 5 - 2 100 Thieves.
+BuZz killed Asuna  in round 8
+BuZz killed Derrek  in round 8
+bangNA killed stax  in round 8
+WillFPS killed Rb  in round 8
+BuZz killed stellar  in round 8
+bangNA killed BuZz  in round 8
+MaKo killed WillFPS  in round 8
+MaKo killed bangNA  in round 8
+Round 8 ended with elimination. The winning team is DRX.
+The current score is DRX 6 - 2 100 Thieves.
+stax killed stellar  in round 9
+MaKo killed bangNA  in round 9
+MaKo killed WillFPS  in round 9
+Derrek killed MaKo  in round 9
+Round 9 ended with detonate. The winning team is DRX.
+The current score is DRX 7 - 2 100 Thieves.
+ZestKR killed WillFPS  in round 10
+Derrek killed BuZz  in round 10
+stax killed Derrek  in round 10
+bangNA killed stax  in round 10
+bangNA killed MaKo  in round 10
+Asuna killed Rb  in round 10
+ZestKR killed Asuna  in round 10
+Round 10 ended with spike_defuse. The winning team is 100 Thieves.
+The current score is DRX 7 - 3 100 Thieves.
+bangNA killed ZestKR  in round 11
+BuZz killed WillFPS  in round 11
+Asuna killed MaKo  in round 11
+BuZz killed Derrek  in round 11
+Asuna killed BuZz  in round 11
+Asuna killed ZestKR  in round 11
+bangNA killed stax  in round 11
+Rb killed Asuna  in round 11
+bangNA killed Rb  in round 11
+Round 11 ended with elimination. The winning team is 100 Thieves.
+The current score is DRX 7 - 4 100 Thieves.
+bangNA killed stax  in round 12
+Derrek killed Rb  in round 12
+Derrek killed ZestKR  in round 12
+BuZz killed stellar  in round 12
+WillFPS killed MaKo  in round 12
+WillFPS killed BuZz  in round 12
+Round 12 ended with elimination. The winning team is 100 Thieves.
+The current score is DRX 7 - 5 100 Thieves.
+MaKo killed Asuna  in round 13
+stellar killed Rb  in round 13
+stax killed Asuna  in round 13
+stellar killed MaKo  in round 13
+bangNA killed BuZz  in round 13
+WillFPS killed ZestKR  in round 13
+stax killed stellar  in round 13
+Derrek killed stax  in round 13
+Round 13 ended with elimination. The winning team is 100 Thieves.
+The current score is DRX 7 - 6 100 Thieves.
+bangNA killed BuZz  in round 14
+MaKo killed Asuna  in round 14
+bangNA killed MaKo  in round 14
+bangNA killed ZestKR  in round 14
+Derrek killed Rb  in round 14
+bangNA killed stax  in round 14
+Round 14 ended with elimination. The winning team is 100 Thieves.
+The current score is DRX 7 - 7 100 Thieves.
+ZestKR killed Asuna  in round 15
+stax killed Derrek  in round 15
+bangNA killed stax  in round 15
+stellar killed ZestKR  in round 15
+WillFPS killed Rb  in round 15
+Round 15 ended with detonate. The winning team is 100 Thieves.
+The current score is DRX 7 - 8 100 Thieves.
+MaKo killed WillFPS  in round 16
+stellar killed MaKo  in round 16
+stax killed Derrek  in round 16
+stellar killed ZestKR  in round 16
+bangNA killed stax  in round 16
+Rb killed stellar  in round 16
+bangNA killed BuZz  in round 16
+Rb killed bangNA  in round 16
+Asuna killed Rb  in round 16
+Round 16 ended with elimination. The winning team is 100 Thieves.
+The current score is DRX 7 - 9 100 Thieves.
+BuZz killed WillFPS  in round 17
+BuZz killed Asuna  in round 17
+bangNA killed MaKo  in round 17
+bangNA killed BuZz  in round 17
+stax killed bangNA  in round 17
+Rb killed Derrek  in round 17
+stellar killed stax  in round 17
+stellar killed Rb  in round 17
+ZestKR killed stellar  in round 17
+Round 17 ended with spike_defuse. The winning team is DRX.
+The current score is DRX 8 - 9 100 Thieves.
+Rb killed WillFPS  in round 18
+Asuna killed BuZz  in round 18
+bangNA killed MaKo  in round 18
+ZestKR killed Asuna  in round 18
+Rb killed bangNA  in round 18
+Derrek killed ZestKR  in round 18
+Derrek killed stax  in round 18
+stellar killed Rb  in round 18
+Round 18 ended with elimination. The winning team is 100 Thieves.
+The current score is DRX 8 - 10 100 Thieves.
+Derrek killed Derrek  in round 19
+BuZz killed bangNA  in round 19
+MaKo killed Derrek  in round 19
+Rb killed stellar  in round 19
+Rb killed Asuna  in round 19
+WillFPS killed stax  in round 19
+WillFPS killed MaKo  in round 19
+WillFPS killed ZestKR  in round 19
+BuZz killed WillFPS  in round 19
+Round 19 ended with spike_defuse. The winning team is DRX.
+The current score is DRX 9 - 10 100 Thieves.
+ZestKR killed WillFPS  in round 20
+bangNA killed Rb  in round 20
+Asuna killed ZestKR  in round 20
+MaKo killed Asuna  in round 20
+bangNA killed BuZz  in round 20
+MaKo killed Derrek  in round 20
+MaKo killed stellar  in round 20
+bangNA killed MaKo  in round 20
+bangNA killed stax  in round 20
+Round 20 ended with elimination. The winning team is 100 Thieves.
+The current score is DRX 9 - 11 100 Thieves.
+WillFPS killed BuZz  in round 21
+WillFPS killed MaKo  in round 21
+WillFPS killed Rb  in round 21
+stellar killed stax  in round 21
+stellar killed ZestKR  in round 21
+Round 21 ended with elimination. The winning team is 100 Thieves.
+The current score is DRX 9 - 12 100 Thieves.
+Rb killed Asuna  in round 22
+BuZz killed WillFPS  in round 22
+Rb killed bangNA  in round 22
+Derrek killed BuZz  in round 22
+ZestKR killed stellar  in round 22
+Rb killed Derrek  in round 22
+Round 22 ended with elimination. The winning team is DRX.
+The current score is DRX 10 - 12 100 Thieves.
+WillFPS killed BuZz  in round 23
+MaKo killed Asuna  in round 23
+MaKo killed bangNA  in round 23
+MaKo killed stellar  in round 23
+WillFPS killed MaKo  in round 23
+WillFPS killed ZestKR  in round 23
+Rb killed Derrek  in round 23
+stax killed WillFPS  in round 23
+Round 23 ended with elimination. The winning team is DRX.
+The current score is DRX 11 - 12 100 Thieves.
+Derrek killed Rb  in round 24
+stax killed WillFPS  in round 24
+stax killed Asuna  in round 24
+bangNA killed stax  in round 24
+ZestKR killed bangNA  in round 24
+stellar killed BuZz  in round 24
+ZestKR killed Derrek  in round 24
+ZestKR killed stellar  in round 24
+Round 24 ended with elimination. The winning team is DRX.
+The current score is DRX 12 - 12 100 Thieves.
+Asuna killed BuZz  in round 25
+Derrek killed ZestKR  in round 25
+stax killed WillFPS  in round 25
+Rb killed Asuna  in round 25
+bangNA killed stax  in round 25
+bangNA killed MaKo  in round 25
+stellar killed Rb  in round 25
+Round 25 ended with spike_defuse. The winning team is 100 Thieves.
+The current score is DRX 12 - 13 100 Thieves.
+stellar killed Rb  in round 26
+BuZz killed WillFPS  in round 26
+Derrek killed BuZz  in round 26
+ZestKR killed Derrek  in round 26
+ZestKR killed bangNA  in round 26
+MaKo killed Asuna  in round 26
+stellar killed MaKo  in round 26
+ZestKR killed stellar  in round 26
+Round 26 ended with elimination. The winning team is DRX.
+The current score is DRX 13 - 13 100 Thieves.
+stellar killed BuZz  in round 27
+Asuna killed Rb  in round 27
+ZestKR killed Asuna  in round 27
+stax killed stellar  in round 27
+stax killed WillFPS  in round 27
+Derrek killed ZestKR  in round 27
+stax killed Derrek  in round 27
+MaKo killed bangNA  in round 27
+Round 27 ended with elimination. The winning team is DRX.
+The current score is DRX 14 - 13 100 Thieves.
+BuZz killed Asuna  in round 28
+WillFPS killed BuZz  in round 28
+bangNA killed ZestKR  in round 28
+Derrek killed MaKo  in round 28
+Derrek killed stax  in round 28
+stellar killed Rb  in round 28
+Round 28 ended with elimination. The winning team is 100 Thieves.
+The current score is DRX 14 - 14 100 Thieves.
+stax killed Asuna  in round 29
+stellar killed stax  in round 29
+WillFPS killed MaKo  in round 29
+ZestKR killed Derrek  in round 29
+bangNA killed BuZz  in round 29
+Rb killed bangNA  in round 29
+WillFPS killed ZestKR  in round 29
+Rb killed stellar  in round 29
+WillFPS killed Rb  in round 29
+Round 29 ended with spike_defuse. The winning team is 100 Thieves.
+The current score is DRX 14 - 15 100 Thieves.
+stax killed WillFPS  in round 30
+Asuna killed stax  in round 30
+BuZz killed bangNA  in round 30
+BuZz killed Asuna  in round 30
+MaKo killed Derrek  in round 30
+BuZz killed stellar  in round 30
+Round 30 ended with elimination. The winning team is DRX.
+The current score is DRX 15 - 15 100 Thieves.
+Rb killed WillFPS  in round 31
+bangNA killed MaKo  in round 31
+BuZz killed Asuna  in round 31
+bangNA killed ZestKR  in round 31
+stax killed bangNA  in round 31
+Derrek killed BuZz  in round 31
+stax killed stellar  in round 31
+stax killed Derrek  in round 31
+Round 31 ended with elimination. The winning team is DRX.
+The current score is DRX 16 - 15 100 Thieves.
+Rb killed Asuna  in round 32
+WillFPS killed ZestKR  in round 32
+Rb killed Derrek  in round 32
+stax killed stellar  in round 32
+bangNA killed stax  in round 32
+WillFPS killed Rb  in round 32
+MaKo killed bangNA  in round 32
+WillFPS killed MaKo  in round 32
+WillFPS killed BuZz  in round 32
+Round 32 ended with elimination. The winning team is 100 Thieves.
+The current score is DRX 16 - 16 100 Thieves.
+WillFPS killed ZestKR  in round 33
+BuZz killed Derrek  in round 33
+Asuna killed stax  in round 33
+Rb killed Asuna  in round 33
+BuZz killed bangNA  in round 33
+WillFPS killed BuZz  in round 33
+MaKo killed WillFPS  in round 33
+Rb killed stellar  in round 33
+Round 33 ended with elimination. The winning team is DRX.
+The current score is DRX 17 - 16 100 Thieves.
+MaKo killed MaKo  in round 34
+BuZz killed stellar  in round 34
+WillFPS killed ZestKR  in round 34
+MaKo killed Asuna  in round 34
+Derrek killed MaKo  in round 34
+Rb killed WillFPS  in round 34
+BuZz killed Derrek  in round 34
+BuZz killed bangNA  in round 34
+Round 34 ended with elimination. The winning team is DRX.
+The current score is DRX 18 - 16 100 Thieves.
+Game ended with winning team: DRX at 2022-09-03T19:13:14Z
+
+--- Player Stats ---
+Asuna: Team=100 Thieves, Kills=16, Deaths=29, Assists=15, KDA=1.07, First Kills=2, First Deaths=8
+WillFPS: Team=100 Thieves, Kills=28, Deaths=26, Assists=8, KDA=1.38, First Kills=4, First Deaths=8
+stellar: Team=100 Thieves, Kills=24, Deaths=25, Assists=12, KDA=1.44, First Kills=3, First Deaths=1
+Derrek: Team=100 Thieves, Kills=23, Deaths=25, Assists=8, KDA=1.24, First Kills=3, First Deaths=1
+bangNA: Team=100 Thieves, Kills=35, Deaths=23, Assists=14, KDA=2.13, First Kills=4, First Deaths=1
+BuZz: Team=DRX, Kills=28, Deaths=28, Assists=9, KDA=1.32, First Kills=5, First Deaths=8
+stax: Team=DRX, Kills=26, Deaths=24, Assists=6, KDA=1.33, First Kills=3, First Deaths=2
+MaKo: Team=DRX, Kills=29, Deaths=25, Assists=19, KDA=1.92, First Kills=3, First Deaths=1
+ZestKR: Team=DRX, Kills=17, Deaths=24, Assists=8, KDA=1.04, First Kills=3, First Deaths=2
+Rb: Team=DRX, Kills=27, Deaths=24, Assists=5, KDA=1.33, First Kills=4, First Deaths=2

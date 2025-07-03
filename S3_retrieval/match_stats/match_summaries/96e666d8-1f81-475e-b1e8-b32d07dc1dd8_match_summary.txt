@@ -1,0 +1,209 @@
+Team 1: MIBR
+Team 2: Sentinels
+Participating Players:
+Player 1: TenZ
+Player 2: Zellsis
+Player 3: johnqt
+Player 4: zekken
+Player 5: Sacy
+Player 6: rglmeister
+Player 7: frz
+Player 8: mazin
+Player 9: jzz
+Player 10: artzin
+Winning Team: Sentinels
+Score: MIBR 6 - 13 Sentinels
+Tournament Name: vct americas kickoff 2024
+Game Start Time: 2024-02-26T21:02:44Z
+Game End Time: 2024-02-26T21:47:36Z
+Rounds ended by ELIMINATION count: 15
+Rounds ended by DEFUSE count: 3
+Rounds ended by DETONATE count: 1
+SPIKE PLANTED count: 4
+platformGameId: val:96e666d8-1f81-475e-b1e8-b32d07dc1dd8
+
+--- Events ---
+Game started at 2024-02-26T21:02:44Z
+TenZ killed artzin  in round 1
+rglmeister killed Sacy  in round 1
+rglmeister killed johnqt  in round 1
+TenZ killed jzz  in round 1
+zekken killed mazin  in round 1
+rglmeister killed zekken  in round 1
+TenZ killed rglmeister  in round 1
+frz killed TenZ  in round 1
+frz killed Zellsis  in round 1
+Round 1 ended with elimination. The winning team is MIBR.
+The current score is MIBR 1 - 0 Sentinels.
+Zellsis killed jzz  in round 2
+artzin killed Zellsis  in round 2
+artzin killed zekken  in round 2
+TenZ killed artzin  in round 2
+frz killed TenZ  in round 2
+frz killed johnqt  in round 2
+rglmeister killed Sacy  in round 2
+Round 2 ended with elimination. The winning team is MIBR.
+The current score is MIBR 2 - 0 Sentinels.
+zekken killed rglmeister  in round 3
+zekken killed jzz  in round 3
+artzin killed zekken  in round 3
+artzin killed johnqt  in round 3
+artzin killed TenZ  in round 3
+Sacy killed artzin  in round 3
+frz killed Sacy  in round 3
+Zellsis killed frz  in round 3
+Zellsis killed mazin  in round 3
+Round 3 ended with spike_defuse. The winning team is Sentinels.
+The current score is MIBR 2 - 1 Sentinels.
+mazin killed zekken  in round 4
+TenZ killed frz  in round 4
+TenZ killed rglmeister  in round 4
+jzz killed Sacy  in round 4
+artzin killed Zellsis  in round 4
+mazin killed TenZ  in round 4
+artzin killed johnqt  in round 4
+Round 4 ended with elimination. The winning team is MIBR.
+The current score is MIBR 3 - 1 Sentinels.
+rglmeister killed zekken  in round 5
+TenZ killed artzin  in round 5
+jzz killed TenZ  in round 5
+jzz killed Zellsis  in round 5
+mazin killed Sacy  in round 5
+Round 5 ended with detonate. The winning team is MIBR.
+The current score is MIBR 4 - 1 Sentinels.
+johnqt killed johnqt  in round 6
+jzz killed jzz  in round 6
+mazin killed mazin  in round 6
+zekken killed mazin  in round 6
+johnqt killed artzin  in round 6
+jzz killed johnqt  in round 6
+jzz killed zekken  in round 6
+Zellsis killed jzz  in round 6
+rglmeister killed TenZ  in round 6
+Zellsis killed rglmeister  in round 6
+Zellsis killed frz  in round 6
+Round 6 ended with spike_defuse. The winning team is Sentinels.
+The current score is MIBR 4 - 2 Sentinels.
+zekken killed jzz  in round 7
+artzin killed Zellsis  in round 7
+Sacy killed artzin  in round 7
+Sacy killed frz  in round 7
+Sacy killed mazin  in round 7
+johnqt killed rglmeister  in round 7
+Round 7 ended with elimination. The winning team is Sentinels.
+The current score is MIBR 4 - 3 Sentinels.
+Sacy killed frz  in round 8
+rglmeister killed Sacy  in round 8
+johnqt killed artzin  in round 8
+johnqt killed rglmeister  in round 8
+mazin killed johnqt  in round 8
+Zellsis killed mazin  in round 8
+TenZ killed jzz  in round 8
+Round 8 ended with elimination. The winning team is Sentinels.
+The current score is MIBR 4 - 4 Sentinels.
+zekken killed mazin  in round 9
+Zellsis killed artzin  in round 9
+zekken killed frz  in round 9
+TenZ killed rglmeister  in round 9
+TenZ killed jzz  in round 9
+Round 9 ended with elimination. The winning team is Sentinels.
+The current score is MIBR 4 - 5 Sentinels.
+artzin killed TenZ  in round 10
+frz killed Zellsis  in round 10
+artzin killed johnqt  in round 10
+Sacy killed artzin  in round 10
+jzz killed zekken  in round 10
+jzz killed Sacy  in round 10
+Round 10 ended with elimination. The winning team is MIBR.
+The current score is MIBR 5 - 5 Sentinels.
+TenZ killed mazin  in round 11
+artzin killed TenZ  in round 11
+zekken killed artzin  in round 11
+zekken killed jzz  in round 11
+frz killed zekken  in round 11
+Zellsis killed rglmeister  in round 11
+Sacy killed frz  in round 11
+Round 11 ended with spike_defuse. The winning team is Sentinels.
+The current score is MIBR 5 - 6 Sentinels.
+zekken killed artzin  in round 12
+Sacy killed rglmeister  in round 12
+Sacy killed mazin  in round 12
+zekken killed frz  in round 12
+zekken killed jzz  in round 12
+Round 12 ended with elimination. The winning team is Sentinels.
+The current score is MIBR 5 - 7 Sentinels.
+johnqt killed rglmeister  in round 13
+Zellsis killed jzz  in round 13
+frz killed Zellsis  in round 13
+TenZ killed mazin  in round 13
+zekken killed frz  in round 13
+zekken killed artzin  in round 13
+Round 13 ended with elimination. The winning team is Sentinels.
+The current score is MIBR 5 - 8 Sentinels.
+Sacy killed jzz  in round 14
+frz killed johnqt  in round 14
+TenZ killed artzin  in round 14
+TenZ killed frz  in round 14
+TenZ killed rglmeister  in round 14
+zekken killed mazin  in round 14
+Round 14 ended with elimination. The winning team is Sentinels.
+The current score is MIBR 5 - 9 Sentinels.
+zekken killed frz  in round 15
+TenZ killed jzz  in round 15
+artzin killed Zellsis  in round 15
+Sacy killed artzin  in round 15
+mazin killed Sacy  in round 15
+johnqt killed mazin  in round 15
+zekken killed rglmeister  in round 15
+Round 15 ended with elimination. The winning team is Sentinels.
+The current score is MIBR 5 - 10 Sentinels.
+mazin killed zekken  in round 16
+mazin killed johnqt  in round 16
+Zellsis killed mazin  in round 16
+Zellsis killed rglmeister  in round 16
+TenZ killed frz  in round 16
+TenZ killed jzz  in round 16
+artzin killed TenZ  in round 16
+Zellsis killed artzin  in round 16
+Round 16 ended with elimination. The winning team is Sentinels.
+The current score is MIBR 5 - 11 Sentinels.
+mazin killed TenZ  in round 17
+johnqt killed rglmeister  in round 17
+Sacy killed frz  in round 17
+mazin killed Sacy  in round 17
+zekken killed mazin  in round 17
+artzin killed zekken  in round 17
+johnqt killed jzz  in round 17
+artzin killed Zellsis  in round 17
+johnqt killed artzin  in round 17
+Round 17 ended with elimination. The winning team is Sentinels.
+The current score is MIBR 5 - 12 Sentinels.
+rglmeister killed TenZ  in round 18
+frz killed zekken  in round 18
+artzin killed johnqt  in round 18
+artzin killed Zellsis  in round 18
+jzz killed Sacy  in round 18
+Round 18 ended with elimination. The winning team is MIBR.
+The current score is MIBR 6 - 12 Sentinels.
+artzin killed TenZ  in round 19
+zekken killed artzin  in round 19
+rglmeister killed johnqt  in round 19
+zekken killed rglmeister  in round 19
+Sacy killed frz  in round 19
+Sacy killed jzz  in round 19
+zekken killed mazin  in round 19
+Round 19 ended with elimination. The winning team is Sentinels.
+The current score is MIBR 6 - 13 Sentinels.
+Game ended with winning team: Sentinels at 2024-02-26T21:47:36Z
+
+--- Player Stats ---
+TenZ: Team=Sentinels, Kills=18, Deaths=12, Assists=5, KDA=1.92, First Kills=2, First Deaths=4
+Zellsis: Team=Sentinels, Kills=13, Deaths=10, Assists=11, KDA=2.4, First Kills=1, First Deaths=0
+johnqt: Team=Sentinels, Kills=10, Deaths=12, Assists=1, KDA=0.92, First Kills=2, First Deaths=1
+zekken: Team=Sentinels, Kills=21, Deaths=11, Assists=2, KDA=2.09, First Kills=5, First Deaths=3
+Sacy: Team=Sentinels, Kills=14, Deaths=10, Assists=6, KDA=2.0, First Kills=2, First Deaths=0
+rglmeister: Team=MIBR, Kills=9, Deaths=15, Assists=5, KDA=0.93, First Kills=2, First Deaths=2
+frz: Team=MIBR, Kills=10, Deaths=14, Assists=0, KDA=0.71, First Kills=0, First Deaths=2
+mazin: Team=MIBR, Kills=10, Deaths=15, Assists=4, KDA=0.93, First Kills=3, First Deaths=2
+jzz: Team=MIBR, Kills=9, Deaths=16, Assists=5, KDA=0.88, First Kills=0, First Deaths=3
+artzin: Team=MIBR, Kills=18, Deaths=17, Assists=1, KDA=1.12, First Kills=2, First Deaths=2

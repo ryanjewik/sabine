@@ -1,0 +1,239 @@
+Team 1: Gen.G Esports
+Team 2: DRX
+Participating Players:
+Player 1: Foxy9
+Player 2: BuZz
+Player 3: stax
+Player 4: MaKo
+Player 5: Rb
+Player 6: GodDead
+Player 7: Meteor 
+Player 8: TS
+Player 9: eKo
+Player 10: k1NgKR
+Winning Team: Gen.G Esports
+Score: Gen.G Esports 13 - 10 DRX
+Tournament Name: vct pacific 2023
+Game Start Time: 2023-04-22T12:32:41Z
+Game End Time: 2023-04-22T13:24:52Z
+Rounds ended by ELIMINATION count: 14
+Rounds ended by DEFUSE count: 6
+Rounds ended by DETONATE count: 2
+SPIKE PLANTED count: 8
+platformGameId: val:4332fd22-d91b-4b9b-9a1f-8839706acb6b
+
+--- Events ---
+Game started at 2023-04-22T12:32:41Z
+Rb killed k1NgKR  in round 1
+eKo killed Foxy9  in round 1
+MaKo killed Meteor   in round 1
+MaKo killed TS  in round 1
+BuZz killed GodDead  in round 1
+BuZz killed eKo  in round 1
+Round 1 ended with elimination. The winning team is DRX.
+The current score is Gen.G Esports 0 - 1 DRX.
+BuZz killed TS  in round 2
+MaKo killed eKo  in round 2
+MaKo killed GodDead  in round 2
+MaKo killed k1NgKR  in round 2
+Round 2 ended with time_expired. The winning team is DRX.
+The current score is Gen.G Esports 0 - 2 DRX.
+BuZz killed Meteor   in round 3
+Foxy9 killed eKo  in round 3
+k1NgKR killed Foxy9  in round 3
+Rb killed k1NgKR  in round 3
+GodDead killed stax  in round 3
+GodDead killed Rb  in round 3
+MaKo killed Meteor   in round 3
+TS killed MaKo  in round 3
+TS killed BuZz  in round 3
+Round 3 ended with elimination. The winning team is Gen.G Esports.
+The current score is Gen.G Esports 1 - 2 DRX.
+BuZz killed k1NgKR  in round 4
+TS killed BuZz  in round 4
+TS killed MaKo  in round 4
+stax killed TS  in round 4
+eKo killed stax  in round 4
+Meteor  killed Rb  in round 4
+Round 4 ended with detonate. The winning team is Gen.G Esports.
+The current score is Gen.G Esports 2 - 2 DRX.
+Foxy9 killed Meteor   in round 5
+GodDead killed Foxy9  in round 5
+GodDead killed Rb  in round 5
+MaKo killed eKo  in round 5
+k1NgKR killed stax  in round 5
+k1NgKR killed MaKo  in round 5
+k1NgKR killed BuZz  in round 5
+Round 5 ended with elimination. The winning team is Gen.G Esports.
+The current score is Gen.G Esports 3 - 2 DRX.
+eKo killed Foxy9  in round 6
+Round 6 ended with detonate. The winning team is Gen.G Esports.
+The current score is Gen.G Esports 4 - 2 DRX.
+Rb killed TS  in round 7
+MaKo killed GodDead  in round 7
+k1NgKR killed MaKo  in round 7
+Foxy9 killed Meteor   in round 7
+k1NgKR killed Foxy9  in round 7
+Rb killed k1NgKR  in round 7
+Rb killed eKo  in round 7
+Round 7 ended with elimination. The winning team is DRX.
+The current score is Gen.G Esports 4 - 3 DRX.
+k1NgKR killed Foxy9  in round 8
+Foxy9 killed eKo  in round 8
+Foxy9 killed GodDead  in round 8
+Foxy9 killed k1NgKR  in round 8
+TS killed Rb  in round 8
+BuZz killed Meteor   in round 8
+TS killed BuZz  in round 8
+MaKo killed TS  in round 8
+Round 8 ended with spike_defuse. The winning team is DRX.
+The current score is Gen.G Esports 4 - 4 DRX.
+eKo killed Foxy9  in round 9
+Meteor  killed Rb  in round 9
+stax killed Meteor   in round 9
+GodDead killed MaKo  in round 9
+TS killed stax  in round 9
+TS killed BuZz  in round 9
+Round 9 ended with elimination. The winning team is Gen.G Esports.
+The current score is Gen.G Esports 5 - 4 DRX.
+Meteor  killed stax  in round 10
+Foxy9 killed GodDead  in round 10
+Meteor  killed Rb  in round 10
+k1NgKR killed Foxy9  in round 10
+k1NgKR killed MaKo  in round 10
+eKo killed BuZz  in round 10
+Round 10 ended with elimination. The winning team is Gen.G Esports.
+The current score is Gen.G Esports 6 - 4 DRX.
+BuZz killed GodDead  in round 11
+stax killed TS  in round 11
+BuZz killed Meteor   in round 11
+k1NgKR killed stax  in round 11
+Rb killed k1NgKR  in round 11
+MaKo killed eKo  in round 11
+Round 11 ended with spike_defuse. The winning team is DRX.
+The current score is Gen.G Esports 6 - 5 DRX.
+stax killed k1NgKR  in round 12
+MaKo killed eKo  in round 12
+MaKo killed Meteor   in round 12
+Foxy9 killed GodDead  in round 12
+TS killed Rb  in round 12
+MaKo killed TS  in round 12
+Round 12 ended with elimination. The winning team is DRX.
+The current score is Gen.G Esports 6 - 6 DRX.
+k1NgKR killed BuZz  in round 13
+Rb killed Meteor   in round 13
+Foxy9 killed TS  in round 13
+GodDead killed MaKo  in round 13
+Rb killed eKo  in round 13
+Rb killed GodDead  in round 13
+k1NgKR killed Rb  in round 13
+Foxy9 killed k1NgKR  in round 13
+Round 13 ended with elimination. The winning team is DRX.
+The current score is Gen.G Esports 6 - 7 DRX.
+stax killed stax  in round 14
+k1NgKR killed stax  in round 14
+k1NgKR killed Rb  in round 14
+eKo killed Foxy9  in round 14
+MaKo killed k1NgKR  in round 14
+MaKo killed GodDead  in round 14
+eKo killed BuZz  in round 14
+Meteor  killed MaKo  in round 14
+Round 14 ended with spike_defuse. The winning team is Gen.G Esports.
+The current score is Gen.G Esports 7 - 7 DRX.
+k1NgKR killed MaKo  in round 15
+TS killed stax  in round 15
+Meteor  killed Rb  in round 15
+Foxy9 killed Meteor   in round 15
+k1NgKR killed Foxy9  in round 15
+Round 15 ended with spike_defuse. The winning team is Gen.G Esports.
+The current score is Gen.G Esports 8 - 7 DRX.
+eKo killed BuZz  in round 16
+MaKo killed Meteor   in round 16
+k1NgKR killed MaKo  in round 16
+BuZz killed k1NgKR  in round 16
+Foxy9 killed eKo  in round 16
+GodDead killed stax  in round 16
+TS killed Foxy9  in round 16
+TS killed BuZz  in round 16
+Rb killed TS  in round 16
+Rb killed GodDead  in round 16
+Round 16 ended with elimination. The winning team is DRX.
+The current score is Gen.G Esports 8 - 8 DRX.
+TS killed BuZz  in round 17
+stax killed TS  in round 17
+Foxy9 killed k1NgKR  in round 17
+Foxy9 killed eKo  in round 17
+Meteor  killed Foxy9  in round 17
+MaKo killed Meteor   in round 17
+GodDead killed Rb  in round 17
+MaKo killed GodDead  in round 17
+Round 17 ended with elimination. The winning team is DRX.
+The current score is Gen.G Esports 8 - 9 DRX.
+k1NgKR killed Rb  in round 18
+k1NgKR killed Foxy9  in round 18
+TS killed MaKo  in round 18
+BuZz killed k1NgKR  in round 18
+Meteor  killed BuZz  in round 18
+TS killed stax  in round 18
+Round 18 ended with spike_defuse. The winning team is Gen.G Esports.
+The current score is Gen.G Esports 9 - 9 DRX.
+TS killed Rb  in round 19
+BuZz killed Meteor   in round 19
+eKo killed BuZz  in round 19
+TS killed MaKo  in round 19
+stax killed TS  in round 19
+Round 19 ended with spike_defuse. The winning team is Gen.G Esports.
+The current score is Gen.G Esports 10 - 9 DRX.
+k1NgKR killed stax  in round 20
+eKo killed Foxy9  in round 20
+GodDead killed Rb  in round 20
+k1NgKR killed stax  in round 20
+MaKo killed TS  in round 20
+eKo killed MaKo  in round 20
+Foxy9 killed Meteor   in round 20
+BuZz killed eKo  in round 20
+k1NgKR killed Foxy9  in round 20
+BuZz killed GodDead  in round 20
+BuZz killed k1NgKR  in round 20
+Round 20 ended with elimination. The winning team is DRX.
+The current score is Gen.G Esports 10 - 10 DRX.
+eKo killed Rb  in round 21
+Meteor  killed Foxy9  in round 21
+Meteor  killed MaKo  in round 21
+BuZz killed GodDead  in round 21
+Meteor  killed BuZz  in round 21
+k1NgKR killed stax  in round 21
+Round 21 ended with elimination. The winning team is Gen.G Esports.
+The current score is Gen.G Esports 11 - 10 DRX.
+Meteor  killed BuZz  in round 22
+TS killed Rb  in round 22
+Foxy9 killed Meteor   in round 22
+TS killed Foxy9  in round 22
+MaKo killed TS  in round 22
+eKo killed MaKo  in round 22
+GodDead killed stax  in round 22
+Round 22 ended with elimination. The winning team is Gen.G Esports.
+The current score is Gen.G Esports 12 - 10 DRX.
+eKo killed MaKo  in round 23
+BuZz killed Meteor   in round 23
+eKo killed BuZz  in round 23
+eKo killed stax  in round 23
+GodDead killed Rb  in round 23
+Foxy9 killed GodDead  in round 23
+Foxy9 killed k1NgKR  in round 23
+eKo killed Foxy9  in round 23
+Round 23 ended with elimination. The winning team is Gen.G Esports.
+The current score is Gen.G Esports 13 - 10 DRX.
+Game ended with winning team: Gen.G Esports at 2023-04-22T13:24:52Z
+
+--- Player Stats ---
+Foxy9: Team=DRX, Kills=18, Deaths=18, Assists=5, KDA=1.28, First Kills=1, First Deaths=3
+BuZz: Team=DRX, Kills=16, Deaths=16, Assists=2, KDA=1.12, First Kills=4, First Deaths=4
+stax: Team=DRX, Kills=7, Deaths=16, Assists=11, KDA=1.12, First Kills=2, First Deaths=3
+MaKo: Team=DRX, Kills=20, Deaths=16, Assists=7, KDA=1.69, First Kills=0, First Deaths=2
+Rb: Team=DRX, Kills=11, Deaths=17, Assists=2, KDA=0.76, First Kills=2, First Deaths=3
+GodDead: Team=Gen.G Esports, Kills=11, Deaths=14, Assists=18, KDA=2.07, First Kills=0, First Deaths=1
+Meteor : Team=Gen.G Esports, Kills=12, Deaths=17, Assists=10, KDA=1.29, First Kills=2, First Deaths=2
+TS: Team=Gen.G Esports, Kills=19, Deaths=13, Assists=11, KDA=2.31, First Kills=2, First Deaths=2
+eKo: Team=Gen.G Esports, Kills=17, Deaths=12, Assists=8, KDA=2.08, First Kills=5, First Deaths=0
+k1NgKR: Team=Gen.G Esports, Kills=23, Deaths=15, Assists=5, KDA=1.87, First Kills=5, First Deaths=3

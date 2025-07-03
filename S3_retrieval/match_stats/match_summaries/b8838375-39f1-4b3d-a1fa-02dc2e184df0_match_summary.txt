@@ -1,0 +1,373 @@
+Team 1: FunPlus Phoenix
+Team 2: DRX
+Participating Players:
+Player 1: BuZz
+Player 2: stax
+Player 3: MaKo
+Player 4: ZestKR
+Player 5: Rb
+Player 6: suygetsu
+Player 7: ardiis
+Player 8: ANGE1
+Player 9: Shao
+Player 10: Zyppan
+Winning Team: DRX
+Score: FunPlus Phoenix 17 - 19 DRX
+Tournament Name: champions 2022
+Game Start Time: 2022-09-09T16:50:26Z
+Game End Time: 2022-09-09T18:27:08Z
+Rounds ended by ELIMINATION count: 29
+Rounds ended by DEFUSE count: 4
+Rounds ended by DETONATE count: 1
+SPIKE PLANTED count: 5
+platformGameId: val:b8838375-39f1-4b3d-a1fa-02dc2e184df0
+
+--- Events ---
+Game started at 2022-09-09T16:50:26Z
+BuZz killed ANGE1  in round 1
+BuZz killed Zyppan  in round 1
+ZestKR killed suygetsu  in round 1
+ardiis killed ZestKR  in round 1
+BuZz killed ardiis  in round 1
+stax killed Shao  in round 1
+Round 1 ended with elimination. The winning team is DRX.
+The current score is FunPlus Phoenix 0 - 1 DRX.
+ZestKR killed ardiis  in round 2
+stax killed Zyppan  in round 2
+stax killed Shao  in round 2
+suygetsu killed stax  in round 2
+BuZz killed ANGE1  in round 2
+BuZz killed suygetsu  in round 2
+Round 2 ended with elimination. The winning team is DRX.
+The current score is FunPlus Phoenix 0 - 2 DRX.
+ZestKR killed ANGE1  in round 3
+stax killed Zyppan  in round 3
+BuZz killed suygetsu  in round 3
+ardiis killed BuZz  in round 3
+stax killed ardiis  in round 3
+Shao killed Rb  in round 3
+MaKo killed Shao  in round 3
+Round 3 ended with elimination. The winning team is DRX.
+The current score is FunPlus Phoenix 0 - 3 DRX.
+ardiis killed ZestKR  in round 4
+Rb killed Zyppan  in round 4
+Shao killed Rb  in round 4
+MaKo killed Shao  in round 4
+BuZz killed ANGE1  in round 4
+BuZz killed suygetsu  in round 4
+ardiis killed BuZz  in round 4
+MaKo killed ardiis  in round 4
+Round 4 ended with elimination. The winning team is DRX.
+The current score is FunPlus Phoenix 0 - 4 DRX.
+BuZz killed Zyppan  in round 5
+ardiis killed BuZz  in round 5
+ardiis killed ZestKR  in round 5
+stax killed ardiis  in round 5
+Rb killed suygetsu  in round 5
+MaKo killed ANGE1  in round 5
+Shao killed stax  in round 5
+Rb killed Shao  in round 5
+Round 5 ended with spike_defuse. The winning team is DRX.
+The current score is FunPlus Phoenix 0 - 5 DRX.
+BuZz killed ardiis  in round 6
+Shao killed Rb  in round 6
+MaKo killed Zyppan  in round 6
+ANGE1 killed MaKo  in round 6
+BuZz killed ANGE1  in round 6
+BuZz killed Shao  in round 6
+BuZz killed suygetsu  in round 6
+Round 6 ended with elimination. The winning team is DRX.
+The current score is FunPlus Phoenix 0 - 6 DRX.
+ardiis killed stax  in round 7
+Rb killed ardiis  in round 7
+suygetsu killed Rb  in round 7
+MaKo killed Zyppan  in round 7
+Shao killed MaKo  in round 7
+ZestKR killed ANGE1  in round 7
+Shao killed ZestKR  in round 7
+Shao killed BuZz  in round 7
+Round 7 ended with elimination. The winning team is FunPlus Phoenix.
+The current score is FunPlus Phoenix 1 - 6 DRX.
+Zyppan killed BuZz  in round 8
+ZestKR killed Zyppan  in round 8
+ardiis killed ZestKR  in round 8
+Rb killed ardiis  in round 8
+ANGE1 killed Rb  in round 8
+stax killed Shao  in round 8
+suygetsu killed stax  in round 8
+suygetsu killed MaKo  in round 8
+Round 8 ended with elimination. The winning team is FunPlus Phoenix.
+The current score is FunPlus Phoenix 2 - 6 DRX.
+ardiis killed stax  in round 9
+Zyppan killed BuZz  in round 9
+Rb killed ANGE1  in round 9
+ZestKR killed Zyppan  in round 9
+ardiis killed MaKo  in round 9
+Shao killed Rb  in round 9
+ardiis killed ZestKR  in round 9
+Round 9 ended with elimination. The winning team is FunPlus Phoenix.
+The current score is FunPlus Phoenix 3 - 6 DRX.
+ANGE1 killed BuZz  in round 10
+Zyppan killed ZestKR  in round 10
+Zyppan killed stax  in round 10
+ardiis killed Rb  in round 10
+ANGE1 killed MaKo  in round 10
+Round 10 ended with elimination. The winning team is FunPlus Phoenix.
+The current score is FunPlus Phoenix 4 - 6 DRX.
+MaKo killed suygetsu  in round 11
+MaKo killed ANGE1  in round 11
+Shao killed BuZz  in round 11
+MaKo killed Shao  in round 11
+ardiis killed MaKo  in round 11
+Rb killed Zyppan  in round 11
+stax killed ardiis  in round 11
+Round 11 ended with elimination. The winning team is DRX.
+The current score is FunPlus Phoenix 4 - 7 DRX.
+BuZz killed ANGE1  in round 12
+MaKo killed ardiis  in round 12
+Zyppan killed MaKo  in round 12
+Zyppan killed BuZz  in round 12
+ZestKR killed Zyppan  in round 12
+Zyppan killed Rb  in round 12
+Shao killed stax  in round 12
+ZestKR killed suygetsu  in round 12
+Shao killed ZestKR  in round 12
+Round 12 ended with elimination. The winning team is FunPlus Phoenix.
+The current score is FunPlus Phoenix 5 - 7 DRX.
+suygetsu killed Rb  in round 13
+ZestKR killed suygetsu  in round 13
+ANGE1 killed BuZz  in round 13
+MaKo killed ANGE1  in round 13
+MaKo killed Shao  in round 13
+ardiis killed MaKo  in round 13
+Zyppan killed ZestKR  in round 13
+stax killed ardiis  in round 13
+stax killed Zyppan  in round 13
+Round 13 ended with elimination. The winning team is DRX.
+The current score is FunPlus Phoenix 5 - 8 DRX.
+ardiis killed BuZz  in round 14
+suygetsu killed Rb  in round 14
+suygetsu killed stax  in round 14
+ZestKR killed suygetsu  in round 14
+Zyppan killed MaKo  in round 14
+ZestKR killed Zyppan  in round 14
+ANGE1 killed ZestKR  in round 14
+Round 14 ended with elimination. The winning team is FunPlus Phoenix.
+The current score is FunPlus Phoenix 6 - 8 DRX.
+Zyppan killed Rb  in round 15
+ZestKR killed Zyppan  in round 15
+ZestKR killed ANGE1  in round 15
+ZestKR killed ardiis  in round 15
+suygetsu killed MaKo  in round 15
+suygetsu killed BuZz  in round 15
+suygetsu killed ZestKR  in round 15
+stax killed suygetsu  in round 15
+Shao killed stax  in round 15
+Round 15 ended with spike_defuse. The winning team is FunPlus Phoenix.
+The current score is FunPlus Phoenix 7 - 8 DRX.
+BuZz killed ANGE1  in round 16
+Shao killed MaKo  in round 16
+Rb killed Zyppan  in round 16
+BuZz killed Shao  in round 16
+BuZz killed suygetsu  in round 16
+stax killed ardiis  in round 16
+BuZz killed Zyppan  in round 16
+Round 16 ended with elimination. The winning team is DRX.
+The current score is FunPlus Phoenix 7 - 9 DRX.
+BuZz killed Shao  in round 17
+ZestKR killed suygetsu  in round 17
+ANGE1 killed BuZz  in round 17
+Zyppan killed MaKo  in round 17
+stax killed ANGE1  in round 17
+ZestKR killed Zyppan  in round 17
+ardiis killed ZestKR  in round 17
+Rb killed ardiis  in round 17
+Round 17 ended with elimination. The winning team is DRX.
+The current score is FunPlus Phoenix 7 - 10 DRX.
+Zyppan killed Rb  in round 18
+Zyppan killed BuZz  in round 18
+stax killed Zyppan  in round 18
+ANGE1 killed MaKo  in round 18
+ZestKR killed Shao  in round 18
+suygetsu killed stax  in round 18
+suygetsu killed ZestKR  in round 18
+Round 18 ended with elimination. The winning team is FunPlus Phoenix.
+The current score is FunPlus Phoenix 8 - 10 DRX.
+ZestKR killed ANGE1  in round 19
+BuZz killed ardiis  in round 19
+BuZz killed Zyppan  in round 19
+Round 19 ended with detonate. The winning team is DRX.
+The current score is FunPlus Phoenix 8 - 11 DRX.
+Shao killed stax  in round 20
+ZestKR killed Zyppan  in round 20
+BuZz killed ANGE1  in round 20
+MaKo killed suygetsu  in round 20
+ardiis killed MaKo  in round 20
+BuZz killed ardiis  in round 20
+Shao killed ZestKR  in round 20
+BuZz killed Shao  in round 20
+Round 20 ended with elimination. The winning team is DRX.
+The current score is FunPlus Phoenix 8 - 12 DRX.
+suygetsu killed Rb  in round 21
+suygetsu killed ZestKR  in round 21
+ardiis killed BuZz  in round 21
+suygetsu killed stax  in round 21
+ardiis killed MaKo  in round 21
+Round 21 ended with elimination. The winning team is FunPlus Phoenix.
+The current score is FunPlus Phoenix 9 - 12 DRX.
+ANGE1 killed BuZz  in round 22
+ANGE1 killed Rb  in round 22
+stax killed ANGE1  in round 22
+Zyppan killed stax  in round 22
+ZestKR killed Zyppan  in round 22
+ardiis killed ZestKR  in round 22
+Round 22 ended with time_expired. The winning team is FunPlus Phoenix.
+The current score is FunPlus Phoenix 10 - 12 DRX.
+Zyppan killed BuZz  in round 23
+ardiis killed ZestKR  in round 23
+Rb killed ardiis  in round 23
+Zyppan killed stax  in round 23
+Rb killed Zyppan  in round 23
+suygetsu killed Rb  in round 23
+MaKo killed ANGE1  in round 23
+Round 23 ended with time_expired. The winning team is FunPlus Phoenix.
+The current score is FunPlus Phoenix 11 - 12 DRX.
+ardiis killed stax  in round 24
+ZestKR killed ANGE1  in round 24
+Zyppan killed BuZz  in round 24
+ardiis killed Rb  in round 24
+MaKo killed ardiis  in round 24
+ZestKR killed ANGE1  in round 24
+Zyppan killed MaKo  in round 24
+Zyppan killed ZestKR  in round 24
+Round 24 ended with elimination. The winning team is FunPlus Phoenix.
+The current score is FunPlus Phoenix 12 - 12 DRX.
+Rb killed ANGE1  in round 25
+Rb killed Shao  in round 25
+Zyppan killed Rb  in round 25
+BuZz killed Zyppan  in round 25
+ardiis killed ZestKR  in round 25
+MaKo killed suygetsu  in round 25
+ardiis killed BuZz  in round 25
+ardiis killed MaKo  in round 25
+ardiis killed stax  in round 25
+Round 25 ended with elimination. The winning team is FunPlus Phoenix.
+The current score is FunPlus Phoenix 13 - 12 DRX.
+Rb killed suygetsu  in round 26
+Shao killed BuZz  in round 26
+ANGE1 killed Rb  in round 26
+stax killed Shao  in round 26
+stax killed ANGE1  in round 26
+Zyppan killed stax  in round 26
+MaKo killed Zyppan  in round 26
+ZestKR killed ardiis  in round 26
+Round 26 ended with elimination. The winning team is DRX.
+The current score is FunPlus Phoenix 13 - 13 DRX.
+ZestKR killed Zyppan  in round 27
+ANGE1 killed ZestKR  in round 27
+BuZz killed ardiis  in round 27
+ANGE1 killed Rb  in round 27
+BuZz killed ANGE1  in round 27
+stax killed Shao  in round 27
+suygetsu killed BuZz  in round 27
+stax killed suygetsu  in round 27
+Round 27 ended with elimination. The winning team is DRX.
+The current score is FunPlus Phoenix 13 - 14 DRX.
+BuZz killed ardiis  in round 28
+Shao killed Rb  in round 28
+Shao killed ZestKR  in round 28
+Shao killed MaKo  in round 28
+stax killed Shao  in round 28
+Zyppan killed BuZz  in round 28
+ANGE1 killed stax  in round 28
+Round 28 ended with elimination. The winning team is FunPlus Phoenix.
+The current score is FunPlus Phoenix 14 - 14 DRX.
+ZestKR killed ardiis  in round 29
+Zyppan killed ZestKR  in round 29
+BuZz killed Shao  in round 29
+stax killed ANGE1  in round 29
+Zyppan killed BuZz  in round 29
+suygetsu killed stax  in round 29
+Rb killed suygetsu  in round 29
+MaKo killed Zyppan  in round 29
+Round 29 ended with spike_defuse. The winning team is DRX.
+The current score is FunPlus Phoenix 14 - 15 DRX.
+BuZz killed ardiis  in round 30
+suygetsu killed BuZz  in round 30
+suygetsu killed Rb  in round 30
+ANGE1 killed MaKo  in round 30
+suygetsu killed stax  in round 30
+ANGE1 killed ZestKR  in round 30
+Round 30 ended with elimination. The winning team is FunPlus Phoenix.
+The current score is FunPlus Phoenix 15 - 15 DRX.
+ZestKR killed Zyppan  in round 31
+BuZz killed ANGE1  in round 31
+ZestKR killed suygetsu  in round 31
+Shao killed stax  in round 31
+ZestKR killed ardiis  in round 31
+Shao killed BuZz  in round 31
+Rb killed Shao  in round 31
+Round 31 ended with elimination. The winning team is DRX.
+The current score is FunPlus Phoenix 15 - 16 DRX.
+BuZz killed ANGE1  in round 32
+Zyppan killed ZestKR  in round 32
+Zyppan killed stax  in round 32
+BuZz killed Zyppan  in round 32
+Shao killed BuZz  in round 32
+Shao killed Rb  in round 32
+ardiis killed MaKo  in round 32
+Round 32 ended with elimination. The winning team is FunPlus Phoenix.
+The current score is FunPlus Phoenix 16 - 16 DRX.
+ardiis killed MaKo  in round 33
+ZestKR killed suygetsu  in round 33
+Rb killed ardiis  in round 33
+Zyppan killed Rb  in round 33
+Zyppan killed BuZz  in round 33
+ANGE1 killed ZestKR  in round 33
+Shao killed stax  in round 33
+Round 33 ended with elimination. The winning team is FunPlus Phoenix.
+The current score is FunPlus Phoenix 17 - 16 DRX.
+Rb killed ANGE1  in round 34
+Shao killed Rb  in round 34
+BuZz killed suygetsu  in round 34
+ardiis killed BuZz  in round 34
+Zyppan killed ZestKR  in round 34
+MaKo killed ardiis  in round 34
+Shao killed MaKo  in round 34
+stax killed Shao  in round 34
+stax killed Zyppan  in round 34
+Round 34 ended with elimination. The winning team is DRX.
+The current score is FunPlus Phoenix 17 - 17 DRX.
+ANGE1 killed MaKo  in round 35
+BuZz killed ardiis  in round 35
+Shao killed BuZz  in round 35
+suygetsu killed Rb  in round 35
+stax killed Zyppan  in round 35
+stax killed ANGE1  in round 35
+stax killed Shao  in round 35
+ZestKR killed suygetsu  in round 35
+Round 35 ended with spike_defuse. The winning team is DRX.
+The current score is FunPlus Phoenix 17 - 18 DRX.
+BuZz killed ardiis  in round 36
+Shao killed BuZz  in round 36
+stax killed Shao  in round 36
+MaKo killed ANGE1  in round 36
+Zyppan killed Rb  in round 36
+MaKo killed Zyppan  in round 36
+suygetsu killed MaKo  in round 36
+ZestKR killed suygetsu  in round 36
+Round 36 ended with elimination. The winning team is DRX.
+The current score is FunPlus Phoenix 17 - 19 DRX.
+Game ended with winning team: DRX at 2022-09-09T18:27:08Z
+
+--- Player Stats ---
+BuZz: Team=DRX, Kills=36, Deaths=30, Assists=10, KDA=1.53, First Kills=10, First Deaths=5
+stax: Team=DRX, Kills=27, Deaths=23, Assists=12, KDA=1.7, First Kills=0, First Deaths=4
+MaKo: Team=DRX, Kills=21, Deaths=24, Assists=11, KDA=1.33, First Kills=1, First Deaths=2
+ZestKR: Team=DRX, Kills=31, Deaths=26, Assists=10, KDA=1.58, First Kills=6, First Deaths=1
+Rb: Team=DRX, Kills=18, Deaths=26, Assists=15, KDA=1.27, First Kills=3, First Deaths=4
+suygetsu: Team=FunPlus Phoenix, Kills=23, Deaths=23, Assists=5, KDA=1.22, First Kills=2, First Deaths=2
+ardiis: Team=FunPlus Phoenix, Kills=30, Deaths=28, Assists=7, KDA=1.32, First Kills=6, First Deaths=6
+ANGE1: Team=FunPlus Phoenix, Kills=18, Deaths=29, Assists=18, KDA=1.24, First Kills=3, First Deaths=8
+Shao: Team=FunPlus Phoenix, Kills=28, Deaths=22, Assists=13, KDA=1.86, First Kills=1, First Deaths=1
+Zyppan: Team=FunPlus Phoenix, Kills=30, Deaths=31, Assists=14, KDA=1.42, First Kills=4, First Deaths=3

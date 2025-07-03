@@ -1,0 +1,247 @@
+Team 1: ZETA DIVISION
+Team 2: Rex Regum Qeon
+Participating Players:
+Player 1: patt
+Player 2: Lmemore
+Player 3: fl1pzjder
+Player 4: EJAY
+Player 5: 2GE
+Player 6: Dep
+Player 7: crow 
+Player 8: SugarZ3ro
+Player 9: TENNN
+Player 10: Laz
+Winning Team: ZETA DIVISION
+Score: ZETA DIVISION 13 - 10 Rex Regum Qeon
+Tournament Name: vct pacific 2023
+Game Start Time: 2023-04-01T10:09:05Z
+Game End Time: 2023-04-01T11:07:07Z
+Rounds ended by ELIMINATION count: 13
+Rounds ended by DEFUSE count: 4
+Rounds ended by DETONATE count: 3
+SPIKE PLANTED count: 7
+platformGameId: val:f8509adb-4639-4151-8a92-408f941c5288
+
+--- Events ---
+Game started at 2023-04-01T10:09:05Z
+TENNN killed EJAY  in round 1
+crow  killed patt  in round 1
+2GE killed Dep  in round 1
+crow  killed 2GE  in round 1
+fl1pzjder killed crow   in round 1
+TENNN killed fl1pzjder  in round 1
+Lmemore killed Laz  in round 1
+SugarZ3ro killed Lmemore  in round 1
+Round 1 ended with elimination. The winning team is ZETA DIVISION.
+The current score is ZETA DIVISION 1 - 0 Rex Regum Qeon.
+crow  killed patt  in round 2
+SugarZ3ro killed Lmemore  in round 2
+Dep killed 2GE  in round 2
+Dep killed EJAY  in round 2
+fl1pzjder killed Dep  in round 2
+Laz killed fl1pzjder  in round 2
+Round 2 ended with elimination. The winning team is ZETA DIVISION.
+The current score is ZETA DIVISION 2 - 0 Rex Regum Qeon.
+Dep killed EJAY  in round 3
+fl1pzjder killed crow   in round 3
+fl1pzjder killed Laz  in round 3
+SugarZ3ro killed fl1pzjder  in round 3
+Dep killed 2GE  in round 3
+Lmemore killed TENNN  in round 3
+SugarZ3ro killed Lmemore  in round 3
+patt killed SugarZ3ro  in round 3
+Dep killed patt  in round 3
+Round 3 ended with elimination. The winning team is ZETA DIVISION.
+The current score is ZETA DIVISION 3 - 0 Rex Regum Qeon.
+Lmemore killed crow   in round 4
+Laz killed fl1pzjder  in round 4
+patt killed TENNN  in round 4
+SugarZ3ro killed EJAY  in round 4
+Lmemore killed Dep  in round 4
+Laz killed Lmemore  in round 4
+SugarZ3ro killed 2GE  in round 4
+patt killed SugarZ3ro  in round 4
+Laz killed patt  in round 4
+Round 4 ended with elimination. The winning team is ZETA DIVISION.
+The current score is ZETA DIVISION 4 - 0 Rex Regum Qeon.
+Laz killed 2GE  in round 5
+EJAY killed Laz  in round 5
+Lmemore killed TENNN  in round 5
+EJAY killed Dep  in round 5
+EJAY killed SugarZ3ro  in round 5
+crow  killed EJAY  in round 5
+patt killed crow   in round 5
+Round 5 ended with elimination. The winning team is Rex Regum Qeon.
+The current score is ZETA DIVISION 4 - 1 Rex Regum Qeon.
+Lmemore killed Dep  in round 6
+Lmemore killed Lmemore  in round 6
+EJAY killed crow   in round 6
+TENNN killed patt  in round 6
+EJAY killed SugarZ3ro  in round 6
+fl1pzjder killed Laz  in round 6
+EJAY killed TENNN  in round 6
+Round 6 ended with elimination. The winning team is Rex Regum Qeon.
+The current score is ZETA DIVISION 4 - 2 Rex Regum Qeon.
+EJAY killed SugarZ3ro  in round 7
+Dep killed EJAY  in round 7
+Lmemore killed crow   in round 7
+TENNN killed Lmemore  in round 7
+TENNN killed fl1pzjder  in round 7
+2GE killed TENNN  in round 7
+patt killed Dep  in round 7
+Laz killed 2GE  in round 7
+patt killed Laz  in round 7
+Round 7 ended with detonate. The winning team is ZETA DIVISION.
+The current score is ZETA DIVISION 5 - 2 Rex Regum Qeon.
+patt killed patt  in round 8
+EJAY killed Dep  in round 8
+TENNN killed Lmemore  in round 8
+patt killed crow   in round 8
+patt killed SugarZ3ro  in round 8
+patt killed TENNN  in round 8
+Round 8 ended with time_expired. The winning team is Rex Regum Qeon.
+The current score is ZETA DIVISION 5 - 3 Rex Regum Qeon.
+patt killed SugarZ3ro  in round 9
+Dep killed 2GE  in round 9
+Dep killed patt  in round 9
+TENNN killed fl1pzjder  in round 9
+TENNN killed Lmemore  in round 9
+TENNN killed EJAY  in round 9
+Round 9 ended with elimination. The winning team is ZETA DIVISION.
+The current score is ZETA DIVISION 6 - 3 Rex Regum Qeon.
+EJAY killed SugarZ3ro  in round 10
+Lmemore killed Dep  in round 10
+EJAY killed TENNN  in round 10
+fl1pzjder killed Laz  in round 10
+EJAY killed crow   in round 10
+Round 10 ended with spike_defuse. The winning team is Rex Regum Qeon.
+The current score is ZETA DIVISION 6 - 4 Rex Regum Qeon.
+Lmemore killed Dep  in round 11
+EJAY killed crow   in round 11
+2GE killed Laz  in round 11
+SugarZ3ro killed fl1pzjder  in round 11
+SugarZ3ro killed Lmemore  in round 11
+TENNN killed 2GE  in round 11
+EJAY killed TENNN  in round 11
+patt killed SugarZ3ro  in round 11
+Round 11 ended with spike_defuse. The winning team is Rex Regum Qeon.
+The current score is ZETA DIVISION 6 - 5 Rex Regum Qeon.
+patt killed TENNN  in round 12
+EJAY killed Dep  in round 12
+patt killed SugarZ3ro  in round 12
+crow  killed EJAY  in round 12
+fl1pzjder killed crow   in round 12
+2GE killed Laz  in round 12
+Round 12 ended with elimination. The winning team is Rex Regum Qeon.
+The current score is ZETA DIVISION 6 - 6 Rex Regum Qeon.
+Dep killed Lmemore  in round 13
+EJAY killed Dep  in round 13
+EJAY killed crow   in round 13
+patt killed Laz  in round 13
+SugarZ3ro killed fl1pzjder  in round 13
+TENNN killed patt  in round 13
+2GE killed SugarZ3ro  in round 13
+TENNN killed 2GE  in round 13
+EJAY killed TENNN  in round 13
+Round 13 ended with elimination. The winning team is Rex Regum Qeon.
+The current score is ZETA DIVISION 6 - 7 Rex Regum Qeon.
+Round 14 ended with detonate. The winning team is Rex Regum Qeon.
+The current score is ZETA DIVISION 6 - 8 Rex Regum Qeon.
+Laz killed Laz  in round 15
+TENNN killed TENNN  in round 15
+SugarZ3ro killed SugarZ3ro  in round 15
+Dep killed Dep  in round 15
+crow  killed crow   in round 15
+Dep killed EJAY  in round 15
+fl1pzjder killed crow   in round 15
+Dep killed fl1pzjder  in round 15
+Dep killed Lmemore  in round 15
+2GE killed TENNN  in round 15
+Dep killed patt  in round 15
+Dep killed 2GE  in round 15
+Round 15 ended with elimination. The winning team is ZETA DIVISION.
+The current score is ZETA DIVISION 7 - 8 Rex Regum Qeon.
+Lmemore killed Dep  in round 16
+EJAY killed TENNN  in round 16
+patt killed crow   in round 16
+SugarZ3ro killed 2GE  in round 16
+SugarZ3ro killed fl1pzjder  in round 16
+EJAY killed SugarZ3ro  in round 16
+Laz killed Lmemore  in round 16
+patt killed Laz  in round 16
+Round 16 ended with elimination. The winning team is Rex Regum Qeon.
+The current score is ZETA DIVISION 7 - 9 Rex Regum Qeon.
+Dep killed fl1pzjder  in round 17
+Dep killed EJAY  in round 17
+Round 17 ended with time_expired. The winning team is ZETA DIVISION.
+The current score is ZETA DIVISION 8 - 9 Rex Regum Qeon.
+TENNN killed EJAY  in round 18
+Dep killed fl1pzjder  in round 18
+Lmemore killed Laz  in round 18
+TENNN killed Lmemore  in round 18
+TENNN killed 2GE  in round 18
+TENNN killed patt  in round 18
+Round 18 ended with elimination. The winning team is ZETA DIVISION.
+The current score is ZETA DIVISION 9 - 9 Rex Regum Qeon.
+Dep killed 2GE  in round 19
+EJAY killed Dep  in round 19
+TENNN killed fl1pzjder  in round 19
+crow  killed Lmemore  in round 19
+EJAY killed TENNN  in round 19
+Laz killed EJAY  in round 19
+patt killed crow   in round 19
+SugarZ3ro killed patt  in round 19
+Round 19 ended with elimination. The winning team is ZETA DIVISION.
+The current score is ZETA DIVISION 10 - 9 Rex Regum Qeon.
+2GE killed TENNN  in round 20
+fl1pzjder killed Dep  in round 20
+SugarZ3ro killed fl1pzjder  in round 20
+SugarZ3ro killed patt  in round 20
+Lmemore killed SugarZ3ro  in round 20
+crow  killed EJAY  in round 20
+Lmemore killed crow   in round 20
+Round 20 ended with detonate. The winning team is Rex Regum Qeon.
+The current score is ZETA DIVISION 10 - 10 Rex Regum Qeon.
+Laz killed Lmemore  in round 21
+2GE killed Dep  in round 21
+crow  killed patt  in round 21
+TENNN killed EJAY  in round 21
+fl1pzjder killed TENNN  in round 21
+SugarZ3ro killed fl1pzjder  in round 21
+Round 21 ended with time_expired. The winning team is ZETA DIVISION.
+The current score is ZETA DIVISION 11 - 10 Rex Regum Qeon.
+Dep killed fl1pzjder  in round 22
+SugarZ3ro killed patt  in round 22
+EJAY killed SugarZ3ro  in round 22
+Lmemore killed Dep  in round 22
+Lmemore killed crow   in round 22
+TENNN killed Lmemore  in round 22
+EJAY killed Laz  in round 22
+TENNN killed 2GE  in round 22
+TENNN killed EJAY  in round 22
+Round 22 ended with spike_defuse. The winning team is ZETA DIVISION.
+The current score is ZETA DIVISION 12 - 10 Rex Regum Qeon.
+crow  killed fl1pzjder  in round 23
+Dep killed EJAY  in round 23
+TENNN killed Lmemore  in round 23
+patt killed crow   in round 23
+2GE killed SugarZ3ro  in round 23
+2GE killed TENNN  in round 23
+patt killed Laz  in round 23
+Dep killed patt  in round 23
+Dep killed 2GE  in round 23
+Round 23 ended with spike_defuse. The winning team is ZETA DIVISION.
+The current score is ZETA DIVISION 13 - 10 Rex Regum Qeon.
+Game ended with winning team: ZETA DIVISION at 2023-04-01T11:07:07Z
+
+--- Player Stats ---
+patt: Team=Rex Regum Qeon, Kills=20, Deaths=15, Assists=5, KDA=1.67, First Kills=3, First Deaths=2
+Lmemore: Team=Rex Regum Qeon, Kills=16, Deaths=17, Assists=3, KDA=1.12, First Kills=4, First Deaths=2
+fl1pzjder: Team=Rex Regum Qeon, Kills=10, Deaths=17, Assists=15, KDA=1.47, First Kills=0, First Deaths=3
+EJAY: Team=Rex Regum Qeon, Kills=23, Deaths=16, Assists=4, KDA=1.69, First Kills=2, First Deaths=3
+2GE: Team=Rex Regum Qeon, Kills=10, Deaths=15, Assists=15, KDA=1.67, First Kills=1, First Deaths=2
+Dep: Team=ZETA DIVISION, Kills=23, Deaths=17, Assists=5, KDA=1.65, First Kills=5, First Deaths=3
+crow : Team=ZETA DIVISION, Kills=10, Deaths=18, Assists=16, KDA=1.44, First Kills=2, First Deaths=1
+SugarZ3ro: Team=ZETA DIVISION, Kills=17, Deaths=16, Assists=13, KDA=1.88, First Kills=0, First Deaths=3
+TENNN: Team=ZETA DIVISION, Kills=23, Deaths=17, Assists=4, KDA=1.59, First Kills=2, First Deaths=2
+Laz: Team=ZETA DIVISION, Kills=10, Deaths=14, Assists=8, KDA=1.29, First Kills=3, First Deaths=1

@@ -1,0 +1,236 @@
+Team 1: NRG
+Team 2: MIBR
+Participating Players:
+Player 1: rglmeister
+Player 2: frz
+Player 3: mazin
+Player 4: jzz
+Player 5: artzin
+Player 6: Demon1
+Player 7: Marved
+Player 8: Ethan
+Player 9: crashies
+Player 10: Victor
+Winning Team: NRG
+Score: NRG 13 - 9 MIBR
+Tournament Name: vct americas stage 1 2024
+Game Start Time: 2024-04-24T00:30:42Z
+Game End Time: 2024-04-24T01:36:59Z
+Rounds ended by ELIMINATION count: 15
+Rounds ended by DEFUSE count: 3
+Rounds ended by DETONATE count: 3
+SPIKE PLANTED count: 6
+platformGameId: val:a66e4886-6250-4893-bbb0-4e9d26b4cb4e
+
+--- Events ---
+Game started at 2024-04-24T00:30:42Z
+jzz killed Demon1  in round 1
+Marved killed rglmeister  in round 1
+Victor killed jzz  in round 1
+Victor killed frz  in round 1
+artzin killed Marved  in round 1
+mazin killed crashies  in round 1
+artzin killed Victor  in round 1
+Ethan killed artzin  in round 1
+mazin killed Ethan  in round 1
+Round 1 ended with spike_defuse. The winning team is MIBR.
+The current score is NRG 0 - 1 MIBR.
+rglmeister killed Victor  in round 2
+artzin killed Ethan  in round 2
+mazin killed Marved  in round 2
+jzz killed Demon1  in round 2
+rglmeister killed crashies  in round 2
+Round 2 ended with elimination. The winning team is MIBR.
+The current score is NRG 0 - 2 MIBR.
+Marved killed mazin  in round 3
+Ethan killed jzz  in round 3
+rglmeister killed crashies  in round 3
+rglmeister killed Marved  in round 3
+Victor killed rglmeister  in round 3
+artzin killed Demon1  in round 3
+Victor killed artzin  in round 3
+frz killed Victor  in round 3
+frz killed Ethan  in round 3
+Round 3 ended with detonate. The winning team is NRG.
+The current score is NRG 1 - 2 MIBR.
+frz killed frz  in round 4
+artzin killed Marved  in round 4
+Victor killed rglmeister  in round 4
+jzz killed Victor  in round 4
+Demon1 killed jzz  in round 4
+frz killed crashies  in round 4
+frz killed Ethan  in round 4
+mazin killed Demon1  in round 4
+Round 4 ended with elimination. The winning team is MIBR.
+The current score is NRG 1 - 3 MIBR.
+frz killed Demon1  in round 5
+Victor killed mazin  in round 5
+Victor killed rglmeister  in round 5
+Marved killed artzin  in round 5
+Ethan killed jzz  in round 5
+Victor killed frz  in round 5
+Round 5 ended with elimination. The winning team is NRG.
+The current score is NRG 2 - 3 MIBR.
+jzz killed Marved  in round 6
+Victor killed artzin  in round 6
+frz killed Demon1  in round 6
+Victor killed jzz  in round 6
+mazin killed Victor  in round 6
+Ethan killed frz  in round 6
+Ethan killed mazin  in round 6
+crashies killed rglmeister  in round 6
+Round 6 ended with elimination. The winning team is NRG.
+The current score is NRG 3 - 3 MIBR.
+mazin killed Victor  in round 7
+Ethan killed mazin  in round 7
+Marved killed artzin  in round 7
+Marved killed frz  in round 7
+Round 7 ended with detonate. The winning team is NRG.
+The current score is NRG 4 - 3 MIBR.
+jzz killed Demon1  in round 8
+crashies killed jzz  in round 8
+rglmeister killed Victor  in round 8
+rglmeister killed crashies  in round 8
+Ethan killed rglmeister  in round 8
+frz killed Marved  in round 8
+Ethan killed frz  in round 8
+artzin killed Ethan  in round 8
+Round 8 ended with elimination. The winning team is MIBR.
+The current score is NRG 4 - 4 MIBR.
+artzin killed Marved  in round 9
+crashies killed jzz  in round 9
+Victor killed frz  in round 9
+Victor killed rglmeister  in round 9
+Victor killed artzin  in round 9
+Victor killed mazin  in round 9
+Round 9 ended with elimination. The winning team is NRG.
+The current score is NRG 5 - 4 MIBR.
+crashies killed artzin  in round 10
+mazin killed crashies  in round 10
+Victor killed jzz  in round 10
+mazin killed Demon1  in round 10
+Victor killed mazin  in round 10
+Victor killed frz  in round 10
+Ethan killed rglmeister  in round 10
+Round 10 ended with elimination. The winning team is NRG.
+The current score is NRG 6 - 4 MIBR.
+artzin killed Marved  in round 11
+Victor killed jzz  in round 11
+artzin killed Ethan  in round 11
+crashies killed artzin  in round 11
+rglmeister killed Victor  in round 11
+mazin killed Demon1  in round 11
+crashies killed frz  in round 11
+crashies killed mazin  in round 11
+crashies killed rglmeister  in round 11
+Round 11 ended with elimination. The winning team is NRG.
+The current score is NRG 7 - 4 MIBR.
+jzz killed Marved  in round 12
+Demon1 killed jzz  in round 12
+frz killed crashies  in round 12
+frz killed Ethan  in round 12
+Victor killed frz  in round 12
+rglmeister killed Demon1  in round 12
+mazin killed Victor  in round 12
+Round 12 ended with elimination. The winning team is MIBR.
+The current score is NRG 7 - 5 MIBR.
+Demon1 killed frz  in round 13
+Demon1 killed artzin  in round 13
+jzz killed Demon1  in round 13
+Victor killed mazin  in round 13
+Ethan killed jzz  in round 13
+Victor killed rglmeister  in round 13
+Round 13 ended with spike_defuse. The winning team is NRG.
+The current score is NRG 8 - 5 MIBR.
+Ethan killed rglmeister  in round 14
+Victor killed jzz  in round 14
+artzin killed Ethan  in round 14
+Marved killed frz  in round 14
+Marved killed artzin  in round 14
+Victor killed mazin  in round 14
+Round 14 ended with elimination. The winning team is NRG.
+The current score is NRG 9 - 5 MIBR.
+jzz killed crashies  in round 15
+artzin killed Marved  in round 15
+jzz killed Victor  in round 15
+Demon1 killed frz  in round 15
+Ethan killed jzz  in round 15
+Demon1 killed artzin  in round 15
+Demon1 killed mazin  in round 15
+rglmeister killed Ethan  in round 15
+rglmeister killed Demon1  in round 15
+Round 15 ended with elimination. The winning team is MIBR.
+The current score is NRG 9 - 6 MIBR.
+Demon1 killed mazin  in round 16
+Demon1 killed artzin  in round 16
+jzz killed Victor  in round 16
+jzz killed Demon1  in round 16
+Ethan killed rglmeister  in round 16
+frz killed Ethan  in round 16
+frz killed Marved  in round 16
+jzz killed crashies  in round 16
+Round 16 ended with elimination. The winning team is MIBR.
+The current score is NRG 9 - 7 MIBR.
+jzz killed Ethan  in round 17
+frz killed Marved  in round 17
+rglmeister killed Victor  in round 17
+jzz killed crashies  in round 17
+mazin killed Demon1  in round 17
+Round 17 ended with elimination. The winning team is MIBR.
+The current score is NRG 9 - 8 MIBR.
+jzz killed Ethan  in round 18
+jzz killed Victor  in round 18
+Marved killed mazin  in round 18
+jzz killed Marved  in round 18
+crashies killed jzz  in round 18
+crashies killed rglmeister  in round 18
+artzin killed crashies  in round 18
+Demon1 killed frz  in round 18
+Demon1 killed artzin  in round 18
+Round 18 ended with elimination. The winning team is NRG.
+The current score is NRG 10 - 8 MIBR.
+crashies killed jzz  in round 19
+Victor killed mazin  in round 19
+crashies killed artzin  in round 19
+frz killed Demon1  in round 19
+Round 19 ended with time_expired. The winning team is NRG.
+The current score is NRG 11 - 8 MIBR.
+Demon1 killed jzz  in round 20
+Demon1 killed mazin  in round 20
+artzin killed Demon1  in round 20
+Victor killed frz  in round 20
+artzin killed Victor  in round 20
+Ethan killed rglmeister  in round 20
+Marved killed artzin  in round 20
+Round 20 ended with elimination. The winning team is NRG.
+The current score is NRG 12 - 8 MIBR.
+artzin killed crashies  in round 21
+artzin killed Victor  in round 21
+artzin killed Demon1  in round 21
+Marved killed artzin  in round 21
+mazin killed Marved  in round 21
+Round 21 ended with detonate. The winning team is MIBR.
+The current score is NRG 12 - 9 MIBR.
+crashies killed jzz  in round 22
+Ethan killed frz  in round 22
+artzin killed crashies  in round 22
+artzin killed Ethan  in round 22
+Victor killed rglmeister  in round 22
+artzin killed Victor  in round 22
+Marved killed mazin  in round 22
+Demon1 killed artzin  in round 22
+Round 22 ended with spike_defuse. The winning team is NRG.
+The current score is NRG 13 - 9 MIBR.
+Game ended with winning team: NRG at 2024-04-24T01:36:59Z
+
+--- Player Stats ---
+rglmeister: Team=MIBR, Kills=11, Deaths=15, Assists=7, KDA=1.2, First Kills=1, First Deaths=1
+frz: Team=MIBR, Kills=14, Deaths=16, Assists=9, KDA=1.44, First Kills=2, First Deaths=2
+mazin: Team=MIBR, Kills=12, Deaths=15, Assists=4, KDA=1.07, First Kills=1, First Deaths=2
+jzz: Team=MIBR, Kills=17, Deaths=17, Assists=4, KDA=1.24, First Kills=7, First Deaths=3
+artzin: Team=MIBR, Kills=20, Deaths=17, Assists=8, KDA=1.65, First Kills=3, First Deaths=1
+Demon1: Team=NRG, Kills=14, Deaths=17, Assists=4, KDA=1.06, First Kills=3, First Deaths=3
+Marved: Team=NRG, Kills=11, Deaths=14, Assists=7, KDA=1.29, First Kills=1, First Deaths=4
+Ethan: Team=NRG, Kills=15, Deaths=13, Assists=11, KDA=2.0, First Kills=1, First Deaths=2
+crashies: Team=NRG, Kills=13, Deaths=13, Assists=3, KDA=1.23, First Kills=3, First Deaths=2
+Victor: Team=NRG, Kills=26, Deaths=16, Assists=4, KDA=1.88, First Kills=0, First Deaths=2

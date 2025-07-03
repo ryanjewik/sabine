@@ -1,0 +1,213 @@
+Team 1: 100 Thieves
+Team 2: Cloud9 Blue
+Participating Players:
+Player 1: Leaf
+Player 2: xeppaa
+Player 3: runi
+Player 4: Zellsis
+Player 5: jakee
+Player 6: Asuna
+Player 7: Cryo
+Player 8: stellar
+Player 9: Derrek
+Player 10: bangNA
+Winning Team: Cloud9 Blue
+Score: 100 Thieves 7 - 13 Cloud9 Blue
+Tournament Name: vct americas 2023
+Game Start Time: 2023-04-15T18:52:31Z
+Game End Time: 2023-04-15T20:06:54Z
+Rounds ended by ELIMINATION count: 13
+Rounds ended by DEFUSE count: 4
+Rounds ended by DETONATE count: 2
+SPIKE PLANTED count: 6
+platformGameId: val:008ca16e-9d51-434c-ac1b-28aa5ffde387
+
+--- Events ---
+Game started at 2023-04-15T18:52:31Z
+jakee killed Cryo  in round 1
+xeppaa killed bangNA  in round 1
+Asuna killed Leaf  in round 1
+Zellsis killed Asuna  in round 1
+stellar killed runi  in round 1
+Derrek killed xeppaa  in round 1
+Zellsis killed stellar  in round 1
+Zellsis killed Derrek  in round 1
+Round 1 ended with elimination. The winning team is Cloud9 Blue.
+The current score is 100 Thieves 0 - 1 Cloud9 Blue.
+jakee killed Derrek  in round 2
+Leaf killed Cryo  in round 2
+jakee killed bangNA  in round 2
+xeppaa killed stellar  in round 2
+Zellsis killed Asuna  in round 2
+Round 2 ended with elimination. The winning team is Cloud9 Blue.
+The current score is 100 Thieves 0 - 2 Cloud9 Blue.
+Asuna killed xeppaa  in round 3
+Asuna killed Leaf  in round 3
+stellar killed runi  in round 3
+stellar killed Zellsis  in round 3
+Cryo killed jakee  in round 3
+Round 3 ended with elimination. The winning team is 100 Thieves.
+The current score is 100 Thieves 1 - 2 Cloud9 Blue.
+Leaf killed stellar  in round 4
+jakee killed Asuna  in round 4
+jakee killed bangNA  in round 4
+jakee killed Derrek  in round 4
+Cryo killed jakee  in round 4
+runi killed Cryo  in round 4
+Round 4 ended with elimination. The winning team is Cloud9 Blue.
+The current score is 100 Thieves 1 - 3 Cloud9 Blue.
+Cryo killed jakee  in round 5
+Leaf killed Asuna  in round 5
+Zellsis killed Cryo  in round 5
+Leaf killed Derrek  in round 5
+Leaf killed bangNA  in round 5
+runi killed stellar  in round 5
+Round 5 ended with elimination. The winning team is Cloud9 Blue.
+The current score is 100 Thieves 1 - 4 Cloud9 Blue.
+jakee killed Cryo  in round 6
+Asuna killed xeppaa  in round 6
+Derrek killed Zellsis  in round 6
+runi killed Asuna  in round 6
+stellar killed Leaf  in round 6
+bangNA killed runi  in round 6
+Round 6 ended with detonate. The winning team is 100 Thieves.
+The current score is 100 Thieves 2 - 4 Cloud9 Blue.
+Derrek killed Derrek  in round 7
+runi killed Cryo  in round 7
+Zellsis killed bangNA  in round 7
+runi killed Derrek  in round 7
+Zellsis killed Asuna  in round 7
+stellar killed runi  in round 7
+Leaf killed stellar  in round 7
+Round 7 ended with elimination. The winning team is Cloud9 Blue.
+The current score is 100 Thieves 2 - 5 Cloud9 Blue.
+Cryo killed Zellsis  in round 8
+Cryo killed xeppaa  in round 8
+runi killed Cryo  in round 8
+Derrek killed runi  in round 8
+Leaf killed Asuna  in round 8
+Derrek killed Leaf  in round 8
+bangNA killed jakee  in round 8
+Round 8 ended with elimination. The winning team is 100 Thieves.
+The current score is 100 Thieves 3 - 5 Cloud9 Blue.
+stellar killed Leaf  in round 9
+Derrek killed Zellsis  in round 9
+runi killed Derrek  in round 9
+Asuna killed jakee  in round 9
+xeppaa killed Asuna  in round 9
+stellar killed xeppaa  in round 9
+Cryo killed runi  in round 9
+Round 9 ended with elimination. The winning team is 100 Thieves.
+The current score is 100 Thieves 4 - 5 Cloud9 Blue.
+xeppaa killed Asuna  in round 10
+Leaf killed bangNA  in round 10
+Zellsis killed stellar  in round 10
+Round 10 ended with spike_defuse. The winning team is Cloud9 Blue.
+The current score is 100 Thieves 4 - 6 Cloud9 Blue.
+jakee killed Cryo  in round 11
+Derrek killed runi  in round 11
+Zellsis killed Derrek  in round 11
+Zellsis killed Derrek  in round 11
+jakee killed Asuna  in round 11
+jakee killed stellar  in round 11
+jakee killed bangNA  in round 11
+Cryo killed Leaf  in round 11
+runi killed Cryo  in round 11
+Round 11 ended with spike_defuse. The winning team is Cloud9 Blue.
+The current score is 100 Thieves 4 - 7 Cloud9 Blue.
+Derrek killed jakee  in round 12
+Leaf killed bangNA  in round 12
+Asuna killed Leaf  in round 12
+Zellsis killed Cryo  in round 12
+stellar killed xeppaa  in round 12
+runi killed stellar  in round 12
+runi killed Derrek  in round 12
+Zellsis killed Asuna  in round 12
+Round 12 ended with spike_defuse. The winning team is Cloud9 Blue.
+The current score is 100 Thieves 4 - 8 Cloud9 Blue.
+Leaf killed Cryo  in round 13
+Leaf killed Asuna  in round 13
+bangNA killed Leaf  in round 13
+bangNA killed Zellsis  in round 13
+jakee killed bangNA  in round 13
+jakee killed stellar  in round 13
+Derrek killed runi  in round 13
+Derrek killed jakee  in round 13
+xeppaa killed Derrek  in round 13
+Round 13 ended with elimination. The winning team is Cloud9 Blue.
+The current score is 100 Thieves 4 - 9 Cloud9 Blue.
+Leaf killed Cryo  in round 14
+runi killed Derrek  in round 14
+xeppaa killed stellar  in round 14
+bangNA killed xeppaa  in round 14
+runi killed Asuna  in round 14
+runi killed bangNA  in round 14
+Round 14 ended with elimination. The winning team is Cloud9 Blue.
+The current score is 100 Thieves 4 - 10 Cloud9 Blue.
+Derrek killed jakee  in round 15
+Derrek killed xeppaa  in round 15
+bangNA killed runi  in round 15
+Zellsis killed Asuna  in round 15
+Leaf killed bangNA  in round 15
+stellar killed Leaf  in round 15
+Zellsis killed stellar  in round 15
+Cryo killed Zellsis  in round 15
+Round 15 ended with spike_defuse. The winning team is 100 Thieves.
+The current score is 100 Thieves 5 - 10 Cloud9 Blue.
+Leaf killed Cryo  in round 16
+bangNA killed Leaf  in round 16
+stellar killed jakee  in round 16
+Zellsis killed stellar  in round 16
+bangNA killed xeppaa  in round 16
+bangNA killed Zellsis  in round 16
+Round 16 ended with time_expired. The winning team is 100 Thieves.
+The current score is 100 Thieves 6 - 10 Cloud9 Blue.
+runi killed bangNA  in round 17
+bangNA killed Leaf  in round 17
+bangNA killed runi  in round 17
+jakee killed bangNA  in round 17
+Derrek killed jakee  in round 17
+Derrek killed Zellsis  in round 17
+xeppaa killed Derrek  in round 17
+Asuna killed xeppaa  in round 17
+Round 17 ended with elimination. The winning team is 100 Thieves.
+The current score is 100 Thieves 7 - 10 Cloud9 Blue.
+Zellsis killed bangNA  in round 18
+Derrek killed Leaf  in round 18
+xeppaa killed Asuna  in round 18
+jakee killed Derrek  in round 18
+xeppaa killed stellar  in round 18
+Cryo killed xeppaa  in round 18
+Round 18 ended with detonate. The winning team is Cloud9 Blue.
+The current score is 100 Thieves 7 - 11 Cloud9 Blue.
+jakee killed stellar  in round 19
+Cryo killed jakee  in round 19
+Asuna killed Leaf  in round 19
+Zellsis killed bangNA  in round 19
+Asuna killed Zellsis  in round 19
+runi killed Asuna  in round 19
+runi killed Cryo  in round 19
+xeppaa killed Derrek  in round 19
+Round 19 ended with elimination. The winning team is Cloud9 Blue.
+The current score is 100 Thieves 7 - 12 Cloud9 Blue.
+Leaf killed Cryo  in round 20
+Leaf killed Asuna  in round 20
+bangNA killed jakee  in round 20
+xeppaa killed Derrek  in round 20
+Leaf killed bangNA  in round 20
+runi killed stellar  in round 20
+Round 20 ended with elimination. The winning team is Cloud9 Blue.
+The current score is 100 Thieves 7 - 13 Cloud9 Blue.
+Game ended with winning team: Cloud9 Blue at 2023-04-15T20:06:54Z
+
+--- Player Stats ---
+Leaf: Team=Cloud9 Blue, Kills=17, Deaths=13, Assists=3, KDA=1.54, First Kills=5, First Deaths=1
+xeppaa: Team=Cloud9 Blue, Kills=11, Deaths=11, Assists=11, KDA=2.0, First Kills=1, First Deaths=1
+runi: Team=Cloud9 Blue, Kills=17, Deaths=10, Assists=6, KDA=2.3, First Kills=1, First Deaths=0
+Zellsis: Team=Cloud9 Blue, Kills=17, Deaths=9, Assists=5, KDA=2.44, First Kills=1, First Deaths=1
+jakee: Team=Cloud9 Blue, Kills=16, Deaths=12, Assists=17, KDA=2.75, First Kills=5, First Deaths=3
+Asuna: Team=100 Thieves, Kills=9, Deaths=17, Assists=6, KDA=0.88, First Kills=1, First Deaths=1
+Cryo: Team=100 Thieves, Kills=10, Deaths=15, Assists=3, KDA=0.87, First Kills=2, First Deaths=7
+stellar: Team=100 Thieves, Kills=10, Deaths=15, Assists=3, KDA=0.87, First Kills=1, First Deaths=2
+Derrek: Team=100 Thieves, Kills=15, Deaths=16, Assists=1, KDA=1.0, First Kills=3, First Deaths=2
+bangNA: Team=100 Thieves, Kills=12, Deaths=16, Assists=4, KDA=1.0, First Kills=0, First Deaths=2

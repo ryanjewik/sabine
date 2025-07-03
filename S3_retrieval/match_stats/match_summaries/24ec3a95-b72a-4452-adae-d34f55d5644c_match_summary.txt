@@ -1,0 +1,180 @@
+Team 1: DetonatioN FocusMe
+Team 2: Bleed Esports
+Participating Players:
+Player 1: ZestKR
+Player 2: yay
+Player 3: sScary
+Player 4: Deryeon
+Player 5: Retla
+Player 6: SSeeS
+Player 7: Meiy
+Player 8: Anthem
+Player 9: Medusa
+Player 10: neth
+Winning Team: Bleed Esports
+Score: DetonatioN FocusMe 4 - 13 Bleed Esports
+Tournament Name: vct pacific stage 1 2024
+Game Start Time: 2024-04-20T13:20:07Z
+Game End Time: 2024-04-20T14:00:54Z
+Rounds ended by ELIMINATION count: 11
+Rounds ended by DEFUSE count: 3
+Rounds ended by DETONATE count: 1
+SPIKE PLANTED count: 4
+platformGameId: val:24ec3a95-b72a-4452-adae-d34f55d5644c
+
+--- Events ---
+Game started at 2024-04-20T13:20:07Z
+SSeeS killed Retla  in round 1
+neth killed Deryeon  in round 1
+yay killed SSeeS  in round 1
+Medusa killed yay  in round 1
+ZestKR killed neth  in round 1
+ZestKR killed Meiy  in round 1
+ZestKR killed Medusa  in round 1
+ZestKR killed Anthem  in round 1
+Round 1 ended with spike_defuse. The winning team is Bleed Esports.
+The current score is DetonatioN FocusMe 0 - 1 Bleed Esports.
+Deryeon killed SSeeS  in round 2
+yay killed Meiy  in round 2
+ZestKR killed neth  in round 2
+Deryeon killed Anthem  in round 2
+Retla killed Medusa  in round 2
+Round 2 ended with elimination. The winning team is Bleed Esports.
+The current score is DetonatioN FocusMe 0 - 2 Bleed Esports.
+yay killed Medusa  in round 3
+Meiy killed sScary  in round 3
+ZestKR killed Meiy  in round 3
+ZestKR killed Anthem  in round 3
+ZestKR killed neth  in round 3
+ZestKR killed SSeeS  in round 3
+Round 3 ended with elimination. The winning team is Bleed Esports.
+The current score is DetonatioN FocusMe 0 - 3 Bleed Esports.
+ZestKR killed Medusa  in round 4
+ZestKR killed neth  in round 4
+Round 4 ended with time_expired. The winning team is Bleed Esports.
+The current score is DetonatioN FocusMe 0 - 4 Bleed Esports.
+Retla killed Anthem  in round 5
+Meiy killed Retla  in round 5
+ZestKR killed Meiy  in round 5
+SSeeS killed ZestKR  in round 5
+sScary killed Anthem  in round 5
+Medusa killed sScary  in round 5
+ZestKR killed SSeeS  in round 5
+yay killed neth  in round 5
+Meiy killed yay  in round 5
+ZestKR killed Meiy  in round 5
+Deryeon killed Medusa  in round 5
+Round 5 ended with elimination. The winning team is Bleed Esports.
+The current score is DetonatioN FocusMe 0 - 5 Bleed Esports.
+Meiy killed sScary  in round 6
+Meiy killed yay  in round 6
+ZestKR killed Anthem  in round 6
+SSeeS killed Deryeon  in round 6
+neth killed ZestKR  in round 6
+Meiy killed Retla  in round 6
+Round 6 ended with elimination. The winning team is DetonatioN FocusMe.
+The current score is DetonatioN FocusMe 1 - 5 Bleed Esports.
+sScary killed neth  in round 7
+Anthem killed Deryeon  in round 7
+ZestKR killed Meiy  in round 7
+Medusa killed ZestKR  in round 7
+sScary killed Anthem  in round 7
+sScary killed SSeeS  in round 7
+Retla killed Medusa  in round 7
+Round 7 ended with spike_defuse. The winning team is Bleed Esports.
+The current score is DetonatioN FocusMe 1 - 6 Bleed Esports.
+Retla killed Anthem  in round 8
+SSeeS killed Retla  in round 8
+Deryeon killed SSeeS  in round 8
+sScary killed neth  in round 8
+Medusa killed sScary  in round 8
+Meiy killed Deryeon  in round 8
+ZestKR killed Meiy  in round 8
+yay killed Medusa  in round 8
+Round 8 ended with spike_defuse. The winning team is Bleed Esports.
+The current score is DetonatioN FocusMe 1 - 7 Bleed Esports.
+Anthem killed ZestKR  in round 9
+yay killed Medusa  in round 9
+Anthem killed sScary  in round 9
+Round 9 ended with detonate. The winning team is DetonatioN FocusMe.
+The current score is DetonatioN FocusMe 2 - 7 Bleed Esports.
+Retla killed Anthem  in round 10
+Medusa killed Retla  in round 10
+ZestKR killed SSeeS  in round 10
+ZestKR killed Meiy  in round 10
+sScary killed neth  in round 10
+Round 10 ended with time_expired. The winning team is Bleed Esports.
+The current score is DetonatioN FocusMe 2 - 8 Bleed Esports.
+Deryeon killed Meiy  in round 11
+sScary killed neth  in round 11
+SSeeS killed Deryeon  in round 11
+yay killed Medusa  in round 11
+Retla killed SSeeS  in round 11
+Deryeon killed Anthem  in round 11
+Round 11 ended with elimination. The winning team is Bleed Esports.
+The current score is DetonatioN FocusMe 2 - 9 Bleed Esports.
+Deryeon killed neth  in round 12
+yay killed Meiy  in round 12
+ZestKR killed Medusa  in round 12
+Anthem killed ZestKR  in round 12
+yay killed Anthem  in round 12
+sScary killed SSeeS  in round 12
+Round 12 ended with elimination. The winning team is Bleed Esports.
+The current score is DetonatioN FocusMe 2 - 10 Bleed Esports.
+Meiy killed yay  in round 13
+Meiy killed Retla  in round 13
+Meiy killed ZestKR  in round 13
+Deryeon killed SSeeS  in round 13
+Meiy killed Deryeon  in round 13
+Meiy killed sScary  in round 13
+Round 13 ended with elimination. The winning team is DetonatioN FocusMe.
+The current score is DetonatioN FocusMe 3 - 10 Bleed Esports.
+Meiy killed yay  in round 14
+neth killed Retla  in round 14
+Anthem killed sScary  in round 14
+ZestKR killed Medusa  in round 14
+ZestKR killed neth  in round 14
+Deryeon killed Anthem  in round 14
+ZestKR killed Meiy  in round 14
+Deryeon killed SSeeS  in round 14
+Round 14 ended with elimination. The winning team is Bleed Esports.
+The current score is DetonatioN FocusMe 3 - 11 Bleed Esports.
+yay killed Medusa  in round 15
+sScary killed neth  in round 15
+Deryeon killed SSeeS  in round 15
+yay killed Meiy  in round 15
+yay killed Anthem  in round 15
+Round 15 ended with elimination. The winning team is Bleed Esports.
+The current score is DetonatioN FocusMe 3 - 12 Bleed Esports.
+Medusa killed yay  in round 16
+Retla killed Medusa  in round 16
+SSeeS killed sScary  in round 16
+Retla killed SSeeS  in round 16
+Anthem killed Retla  in round 16
+neth killed Deryeon  in round 16
+Anthem killed ZestKR  in round 16
+Round 16 ended with elimination. The winning team is DetonatioN FocusMe.
+The current score is DetonatioN FocusMe 4 - 12 Bleed Esports.
+Deryeon killed SSeeS  in round 17
+neth killed sScary  in round 17
+yay killed neth  in round 17
+Meiy killed Retla  in round 17
+Meiy killed Deryeon  in round 17
+yay killed Medusa  in round 17
+ZestKR killed Meiy  in round 17
+yay killed Anthem  in round 17
+Round 17 ended with elimination. The winning team is Bleed Esports.
+The current score is DetonatioN FocusMe 4 - 13 Bleed Esports.
+Game ended with winning team: Bleed Esports at 2024-04-20T14:00:54Z
+
+--- Player Stats ---
+ZestKR: Team=Bleed Esports, Kills=24, Deaths=7, Assists=7, KDA=4.43, First Kills=1, First Deaths=1
+yay: Team=Bleed Esports, Kills=15, Deaths=6, Assists=2, KDA=2.83, First Kills=2, First Deaths=3
+sScary: Team=Bleed Esports, Kills=9, Deaths=9, Assists=12, KDA=2.33, First Kills=1, First Deaths=1
+Deryeon: Team=Bleed Esports, Kills=12, Deaths=8, Assists=11, KDA=2.88, First Kills=4, First Deaths=0
+Retla: Team=Bleed Esports, Kills=8, Deaths=9, Assists=2, KDA=1.11, First Kills=3, First Deaths=1
+SSeeS: Team=DetonatioN FocusMe, Kills=6, Deaths=14, Assists=6, KDA=0.86, First Kills=1, First Deaths=2
+Meiy: Team=DetonatioN FocusMe, Kills=15, Deaths=13, Assists=3, KDA=1.38, First Kills=3, First Deaths=1
+Anthem: Team=DetonatioN FocusMe, Kills=7, Deaths=14, Assists=7, KDA=1.0, First Kills=1, First Deaths=3
+Medusa: Team=DetonatioN FocusMe, Kills=6, Deaths=14, Assists=1, KDA=0.5, First Kills=1, First Deaths=3
+neth: Team=DetonatioN FocusMe, Kills=5, Deaths=13, Assists=1, KDA=0.46, First Kills=0, First Deaths=2

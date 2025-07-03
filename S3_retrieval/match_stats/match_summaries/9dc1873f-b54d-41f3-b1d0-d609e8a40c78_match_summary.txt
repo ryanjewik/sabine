@@ -1,0 +1,189 @@
+Team 1: KRÜ Esports
+Team 2: None
+Participating Players:
+Player 1: Surf
+Player 2: Crws
+Player 3: foxz
+Player 4: CGRS
+Player 5: sScary
+Player 6: Klaus
+Player 7: Mazino
+Player 8: KeznitdeuS
+Player 9: delz1k
+Player 10: NagZet
+Winning Team: KRÜ Esports
+Score: KRÜ Esports 13 - 4 None
+Tournament Name: champions 2022
+Game Start Time: 2022-09-05T11:59:22Z
+Game End Time: 2022-09-05T12:52:58Z
+Rounds ended by ELIMINATION count: 12
+Rounds ended by DEFUSE count: 4
+Rounds ended by DETONATE count: 1
+SPIKE PLANTED count: 5
+platformGameId: val:9dc1873f-b54d-41f3-b1d0-d609e8a40c78
+
+--- Events ---
+Game started at 2022-09-05T11:59:22Z
+Mazino killed CGRS  in round 1
+Mazino killed Surf  in round 1
+delz1k killed sScary  in round 1
+foxz killed Mazino  in round 1
+NagZet killed Crws  in round 1
+foxz killed KeznitdeuS  in round 1
+NagZet killed foxz  in round 1
+Round 1 ended with elimination. The winning team is KRÜ Esports.
+The current score is KRÜ Esports 1 - 0 None.
+KeznitdeuS killed foxz  in round 2
+NagZet killed Surf  in round 2
+KeznitdeuS killed sScary  in round 2
+NagZet killed CGRS  in round 2
+NagZet killed Crws  in round 2
+Round 2 ended with elimination. The winning team is KRÜ Esports.
+The current score is KRÜ Esports 2 - 0 None.
+Mazino killed Surf  in round 3
+KeznitdeuS killed Crws  in round 3
+foxz killed Klaus  in round 3
+Mazino killed foxz  in round 3
+sScary killed Mazino  in round 3
+delz1k killed sScary  in round 3
+KeznitdeuS killed CGRS  in round 3
+Round 3 ended with elimination. The winning team is KRÜ Esports.
+The current score is KRÜ Esports 3 - 0 None.
+NagZet killed CGRS  in round 4
+foxz killed NagZet  in round 4
+KeznitdeuS killed foxz  in round 4
+NagZet killed sScary  in round 4
+delz1k killed Crws  in round 4
+Mazino killed Surf  in round 4
+Round 4 ended with elimination. The winning team is KRÜ Esports.
+The current score is KRÜ Esports 4 - 0 None.
+CGRS killed Mazino  in round 5
+sScary killed NagZet  in round 5
+sScary killed Klaus  in round 5
+Round 5 ended with spike_defuse. The winning team is None.
+The current score is KRÜ Esports 4 - 1 None.
+foxz killed delz1k  in round 6
+Crws killed KeznitdeuS  in round 6
+Crws killed Klaus  in round 6
+Mazino killed CGRS  in round 6
+Mazino killed Crws  in round 6
+NagZet killed foxz  in round 6
+Mazino killed Surf  in round 6
+sScary killed Mazino  in round 6
+NagZet killed sScary  in round 6
+Round 6 ended with elimination. The winning team is KRÜ Esports.
+The current score is KRÜ Esports 5 - 1 None.
+NagZet killed CGRS  in round 7
+NagZet killed foxz  in round 7
+Mazino killed foxz  in round 7
+Surf killed Mazino  in round 7
+Klaus killed Surf  in round 7
+Klaus killed Crws  in round 7
+sScary killed KeznitdeuS  in round 7
+sScary killed delz1k  in round 7
+Klaus killed sScary  in round 7
+Round 7 ended with elimination. The winning team is KRÜ Esports.
+The current score is KRÜ Esports 6 - 1 None.
+Mazino killed foxz  in round 8
+KeznitdeuS killed sScary  in round 8
+KeznitdeuS killed Surf  in round 8
+Klaus killed Crws  in round 8
+Mazino killed CGRS  in round 8
+Round 8 ended with elimination. The winning team is KRÜ Esports.
+The current score is KRÜ Esports 7 - 1 None.
+CGRS killed Mazino  in round 9
+NagZet killed Surf  in round 9
+delz1k killed CGRS  in round 9
+Crws killed delz1k  in round 9
+KeznitdeuS killed Crws  in round 9
+KeznitdeuS killed sScary  in round 9
+foxz killed Klaus  in round 9
+KeznitdeuS killed foxz  in round 9
+Round 9 ended with elimination. The winning team is KRÜ Esports.
+The current score is KRÜ Esports 8 - 1 None.
+KeznitdeuS killed Surf  in round 10
+Klaus killed Crws  in round 10
+Klaus killed foxz  in round 10
+delz1k killed CGRS  in round 10
+Round 10 ended with detonate. The winning team is KRÜ Esports.
+The current score is KRÜ Esports 9 - 1 None.
+Surf killed delz1k  in round 11
+foxz killed Mazino  in round 11
+delz1k killed foxz  in round 11
+delz1k killed Crws  in round 11
+Surf killed delz1k  in round 11
+NagZet killed Surf  in round 11
+sScary killed Klaus  in round 11
+CGRS killed NagZet  in round 11
+KeznitdeuS killed CGRS  in round 11
+sScary killed KeznitdeuS  in round 11
+Round 11 ended with spike_defuse. The winning team is None.
+The current score is KRÜ Esports 9 - 2 None.
+Surf killed Mazino  in round 12
+Surf killed Klaus  in round 12
+delz1k killed Surf  in round 12
+KeznitdeuS killed Crws  in round 12
+sScary killed KeznitdeuS  in round 12
+foxz killed NagZet  in round 12
+delz1k killed sScary  in round 12
+delz1k killed CGRS  in round 12
+Round 12 ended with spike_defuse. The winning team is None.
+The current score is KRÜ Esports 9 - 3 None.
+foxz killed delz1k  in round 13
+KeznitdeuS killed Surf  in round 13
+Mazino killed foxz  in round 13
+KeznitdeuS killed sScary  in round 13
+Mazino killed Crws  in round 13
+Mazino killed CGRS  in round 13
+Round 13 ended with elimination. The winning team is KRÜ Esports.
+The current score is KRÜ Esports 10 - 3 None.
+Klaus killed Surf  in round 14
+foxz killed NagZet  in round 14
+delz1k killed foxz  in round 14
+delz1k killed Crws  in round 14
+CGRS killed delz1k  in round 14
+Mazino killed CGRS  in round 14
+KeznitdeuS killed sScary  in round 14
+Round 14 ended with elimination. The winning team is KRÜ Esports.
+The current score is KRÜ Esports 11 - 3 None.
+Surf killed KeznitdeuS  in round 15
+delz1k killed Surf  in round 15
+NagZet killed Crws  in round 15
+foxz killed NagZet  in round 15
+CGRS killed delz1k  in round 15
+Mazino killed foxz  in round 15
+sScary killed Klaus  in round 15
+Mazino killed CGRS  in round 15
+sScary killed Mazino  in round 15
+Round 15 ended with elimination. The winning team is None.
+The current score is KRÜ Esports 11 - 4 None.
+NagZet killed Surf  in round 16
+KeznitdeuS killed foxz  in round 16
+Mazino killed CGRS  in round 16
+Mazino killed Crws  in round 16
+KeznitdeuS killed sScary  in round 16
+Round 16 ended with elimination. The winning team is KRÜ Esports.
+The current score is KRÜ Esports 12 - 4 None.
+foxz killed Mazino  in round 17
+Klaus killed CGRS  in round 17
+Surf killed Klaus  in round 17
+KeznitdeuS killed sScary  in round 17
+NagZet killed foxz  in round 17
+Surf killed NagZet  in round 17
+delz1k killed Surf  in round 17
+KeznitdeuS killed Crws  in round 17
+Round 17 ended with spike_defuse. The winning team is KRÜ Esports.
+The current score is KRÜ Esports 13 - 4 None.
+Game ended with winning team: KRÜ Esports at 2022-09-05T12:52:58Z
+
+--- Player Stats ---
+Surf: Team=None, Kills=8, Deaths=16, Assists=2, KDA=0.62, First Kills=3, First Deaths=4
+Crws: Team=None, Kills=3, Deaths=16, Assists=1, KDA=0.25, First Kills=0, First Deaths=0
+foxz: Team=None, Kills=12, Deaths=16, Assists=1, KDA=0.81, First Kills=3, First Deaths=2
+CGRS: Team=None, Kills=5, Deaths=16, Assists=2, KDA=0.44, First Kills=2, First Deaths=3
+sScary: Team=None, Kills=11, Deaths=13, Assists=3, KDA=1.08, First Kills=0, First Deaths=0
+Klaus: Team=KRÜ Esports, Kills=8, Deaths=8, Assists=4, KDA=1.5, First Kills=1, First Deaths=0
+Mazino: Team=KRÜ Esports, Kills=19, Deaths=10, Assists=10, KDA=2.9, First Kills=3, First Deaths=4
+KeznitdeuS: Team=KRÜ Esports, Kills=20, Deaths=6, Assists=10, KDA=5.0, First Kills=2, First Deaths=1
+delz1k: Team=KRÜ Esports, Kills=14, Deaths=8, Assists=6, KDA=2.5, First Kills=0, First Deaths=3
+NagZet: Team=KRÜ Esports, Kills=16, Deaths=7, Assists=1, KDA=2.43, First Kills=3, First Deaths=0

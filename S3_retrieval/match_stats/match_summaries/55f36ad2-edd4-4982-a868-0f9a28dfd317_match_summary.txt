@@ -1,0 +1,169 @@
+Team 1: FNATIC
+Team 2: Futbolist
+Participating Players:
+Player 1: ATA KAPTAN
+Player 2: mojj
+Player 3: MrFaliN
+Player 4: qw1
+Player 5: qRaxs
+Player 6: Chronicle
+Player 7: Derke
+Player 8: Boaster
+Player 9: Alfajer
+Player 10: Leo 
+Winning Team: FNATIC
+Score: FNATIC 13 - 1 Futbolist
+Tournament Name: vct emea 2023
+Game Start Time: 2023-05-24T16:54:00Z
+Game End Time: 2023-05-24T17:30:17Z
+Rounds ended by ELIMINATION count: 12
+Rounds ended by DEFUSE count: 2
+Rounds ended by DETONATE count: 0
+SPIKE PLANTED count: 2
+platformGameId: val:55f36ad2-edd4-4982-a868-0f9a28dfd317
+
+--- Events ---
+Game started at 2023-05-24T16:54:00Z
+Alfajer killed ATA KAPTAN  in round 1
+Chronicle killed mojj  in round 1
+Chronicle killed qRaxs  in round 1
+Leo  killed MrFaliN  in round 1
+Derke killed qw1  in round 1
+Round 1 ended with elimination. The winning team is FNATIC.
+The current score is FNATIC 1 - 0 Futbolist.
+mojj killed Derke  in round 2
+Chronicle killed MrFaliN  in round 2
+qRaxs killed Chronicle  in round 2
+Boaster killed ATA KAPTAN  in round 2
+Leo  killed qRaxs  in round 2
+Leo  killed mojj  in round 2
+Leo  killed qw1  in round 2
+Round 2 ended with elimination. The winning team is FNATIC.
+The current score is FNATIC 2 - 0 Futbolist.
+Derke killed qRaxs  in round 3
+Derke killed MrFaliN  in round 3
+Chronicle killed ATA KAPTAN  in round 3
+Chronicle killed mojj  in round 3
+Chronicle killed qw1  in round 3
+Round 3 ended with elimination. The winning team is FNATIC.
+The current score is FNATIC 3 - 0 Futbolist.
+Derke killed MrFaliN  in round 4
+Leo  killed mojj  in round 4
+Chronicle killed qRaxs  in round 4
+ATA KAPTAN killed Chronicle  in round 4
+Alfajer killed qw1  in round 4
+Derke killed ATA KAPTAN  in round 4
+Round 4 ended with elimination. The winning team is FNATIC.
+The current score is FNATIC 4 - 0 Futbolist.
+mojj killed Boaster  in round 5
+mojj killed Alfajer  in round 5
+Derke killed MrFaliN  in round 5
+mojj killed Derke  in round 5
+Chronicle killed qRaxs  in round 5
+mojj killed Leo   in round 5
+Chronicle killed qw1  in round 5
+Chronicle killed mojj  in round 5
+Chronicle killed ATA KAPTAN  in round 5
+Round 5 ended with elimination. The winning team is FNATIC.
+The current score is FNATIC 5 - 0 Futbolist.
+Chronicle killed MrFaliN  in round 6
+Chronicle killed qw1  in round 6
+mojj killed Derke  in round 6
+Chronicle killed mojj  in round 6
+Chronicle killed ATA KAPTAN  in round 6
+qRaxs killed Chronicle  in round 6
+Leo  killed qRaxs  in round 6
+Round 6 ended with elimination. The winning team is FNATIC.
+The current score is FNATIC 6 - 0 Futbolist.
+Alfajer killed qw1  in round 7
+mojj killed Derke  in round 7
+MrFaliN killed Boaster  in round 7
+ATA KAPTAN killed Chronicle  in round 7
+Leo  killed MrFaliN  in round 7
+Leo  killed ATA KAPTAN  in round 7
+Alfajer killed mojj  in round 7
+qRaxs killed Leo   in round 7
+Alfajer killed qRaxs  in round 7
+Round 7 ended with elimination. The winning team is FNATIC.
+The current score is FNATIC 7 - 0 Futbolist.
+Derke killed ATA KAPTAN  in round 8
+qw1 killed Boaster  in round 8
+Alfajer killed MrFaliN  in round 8
+qRaxs killed Alfajer  in round 8
+Leo  killed qw1  in round 8
+Derke killed mojj  in round 8
+Derke killed qRaxs  in round 8
+Round 8 ended with elimination. The winning team is FNATIC.
+The current score is FNATIC 8 - 0 Futbolist.
+qw1 killed Derke  in round 9
+Derke killed qw1  in round 9
+MrFaliN killed Alfajer  in round 9
+mojj killed Boaster  in round 9
+Chronicle killed ATA KAPTAN  in round 9
+Chronicle killed mojj  in round 9
+Leo  killed MrFaliN  in round 9
+Leo  killed qRaxs  in round 9
+Round 9 ended with elimination. The winning team is FNATIC.
+The current score is FNATIC 9 - 0 Futbolist.
+mojj killed Derke  in round 10
+Leo  killed ATA KAPTAN  in round 10
+mojj killed Leo   in round 10
+Boaster killed mojj  in round 10
+Chronicle killed qw1  in round 10
+Alfajer killed qRaxs  in round 10
+Chronicle killed MrFaliN  in round 10
+Round 10 ended with elimination. The winning team is FNATIC.
+The current score is FNATIC 10 - 0 Futbolist.
+Derke killed qRaxs  in round 11
+ATA KAPTAN killed Derke  in round 11
+Chronicle killed ATA KAPTAN  in round 11
+Chronicle killed qw1  in round 11
+mojj killed Chronicle  in round 11
+mojj killed Leo   in round 11
+mojj killed Alfajer  in round 11
+mojj killed Boaster  in round 11
+Round 11 ended with spike_defuse. The winning team is Futbolist.
+The current score is FNATIC 10 - 1 Futbolist.
+ATA KAPTAN killed Derke  in round 12
+ATA KAPTAN killed Boaster  in round 12
+Leo  killed qw1  in round 12
+Alfajer killed ATA KAPTAN  in round 12
+MrFaliN killed Alfajer  in round 12
+mojj killed Leo   in round 12
+Chronicle killed mojj  in round 12
+Chronicle killed MrFaliN  in round 12
+Chronicle killed qRaxs  in round 12
+Round 12 ended with elimination. The winning team is FNATIC.
+The current score is FNATIC 11 - 1 Futbolist.
+Alfajer killed qw1  in round 13
+Alfajer killed qRaxs  in round 13
+Alfajer killed ATA KAPTAN  in round 13
+mojj killed Alfajer  in round 13
+Boaster killed mojj  in round 13
+Chronicle killed MrFaliN  in round 13
+Round 13 ended with elimination. The winning team is FNATIC.
+The current score is FNATIC 12 - 1 Futbolist.
+MrFaliN killed Alfajer  in round 14
+qw1 killed Chronicle  in round 14
+Derke killed mojj  in round 14
+Derke killed qRaxs  in round 14
+Boaster killed qw1  in round 14
+Boaster killed ATA KAPTAN  in round 14
+MrFaliN killed Derke  in round 14
+MrFaliN killed Leo   in round 14
+Boaster killed MrFaliN  in round 14
+Round 14 ended with spike_defuse. The winning team is FNATIC.
+The current score is FNATIC 13 - 1 Futbolist.
+Game ended with winning team: FNATIC at 2023-05-24T17:30:17Z
+
+--- Player Stats ---
+ATA KAPTAN: Team=Futbolist, Kills=5, Deaths=14, Assists=7, KDA=0.86, First Kills=1, First Deaths=2
+mojj: Team=Futbolist, Kills=16, Deaths=13, Assists=2, KDA=1.38, First Kills=3, First Deaths=0
+MrFaliN: Team=Futbolist, Kills=6, Deaths=13, Assists=6, KDA=0.92, First Kills=1, First Deaths=2
+qw1: Team=Futbolist, Kills=3, Deaths=14, Assists=1, KDA=0.29, First Kills=1, First Deaths=2
+qRaxs: Team=Futbolist, Kills=4, Deaths=14, Assists=7, KDA=0.79, First Kills=0, First Deaths=2
+Chronicle: Team=FNATIC, Kills=25, Deaths=6, Assists=4, KDA=4.83, First Kills=1, First Deaths=0
+Derke: Team=FNATIC, Kills=13, Deaths=9, Assists=2, KDA=1.67, First Kills=4, First Deaths=4
+Boaster: Team=FNATIC, Kills=6, Deaths=6, Assists=6, KDA=2.0, First Kills=0, First Deaths=1
+Alfajer: Team=FNATIC, Kills=11, Deaths=7, Assists=4, KDA=2.14, First Kills=3, First Deaths=1
+Leo : Team=FNATIC, Kills=13, Deaths=6, Assists=9, KDA=3.67, First Kills=0, First Deaths=0

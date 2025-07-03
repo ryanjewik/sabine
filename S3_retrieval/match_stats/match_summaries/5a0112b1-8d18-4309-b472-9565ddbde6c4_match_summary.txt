@@ -1,0 +1,210 @@
+Team 1: Evil Geniuses
+Team 2: LOUD
+Participating Players:
+Player 1: Less
+Player 2: cauanzin
+Player 3: Saadhak
+Player 4: tuyz
+Player 5: pANcada
+Player 6: JAWGEMO
+Player 7: Derrek
+Player 8: NaturE
+Player 9: Apoth
+Player 10: supamen
+Winning Team: Evil Geniuses
+Score: Evil Geniuses 13 - 6 LOUD
+Tournament Name: vct americas stage 2 2024
+Game Start Time: 2024-06-24T00:41:25Z
+Game End Time: 2024-06-24T01:21:45Z
+Rounds ended by ELIMINATION count: 10
+Rounds ended by DEFUSE count: 6
+Rounds ended by DETONATE count: 3
+SPIKE PLANTED count: 9
+platformGameId: val:5a0112b1-8d18-4309-b472-9565ddbde6c4
+
+--- Events ---
+Game started at 2024-06-24T00:41:25Z
+JAWGEMO killed Saadhak  in round 1
+pANcada killed supamen  in round 1
+JAWGEMO killed cauanzin  in round 1
+pANcada killed NaturE  in round 1
+Apoth killed pANcada  in round 1
+JAWGEMO killed tuyz  in round 1
+JAWGEMO killed Less  in round 1
+Round 1 ended with elimination. The winning team is Evil Geniuses.
+The current score is Evil Geniuses 1 - 0 LOUD.
+JAWGEMO killed Saadhak  in round 2
+Less killed JAWGEMO  in round 2
+NaturE killed Less  in round 2
+supamen killed pANcada  in round 2
+Apoth killed cauanzin  in round 2
+Apoth killed tuyz  in round 2
+Round 2 ended with elimination. The winning team is Evil Geniuses.
+The current score is Evil Geniuses 2 - 0 LOUD.
+JAWGEMO killed pANcada  in round 3
+JAWGEMO killed Less  in round 3
+Saadhak killed Apoth  in round 3
+Round 3 ended with detonate. The winning team is Evil Geniuses.
+The current score is Evil Geniuses 3 - 0 LOUD.
+cauanzin killed NaturE  in round 4
+JAWGEMO killed cauanzin  in round 4
+Derrek killed Less  in round 4
+tuyz killed Apoth  in round 4
+Saadhak killed JAWGEMO  in round 4
+Derrek killed tuyz  in round 4
+Saadhak killed supamen  in round 4
+NaturE killed Saadhak  in round 4
+pANcada killed Derrek  in round 4
+pANcada killed NaturE  in round 4
+Round 4 ended with spike_defuse. The winning team is LOUD.
+The current score is Evil Geniuses 3 - 1 LOUD.
+tuyz killed NaturE  in round 5
+Saadhak killed JAWGEMO  in round 5
+Saadhak killed Derrek  in round 5
+Saadhak killed supamen  in round 5
+cauanzin killed Apoth  in round 5
+Round 5 ended with elimination. The winning team is LOUD.
+The current score is Evil Geniuses 3 - 2 LOUD.
+JAWGEMO killed tuyz  in round 6
+cauanzin killed Derrek  in round 6
+Saadhak killed supamen  in round 6
+Less killed JAWGEMO  in round 6
+Apoth killed Saadhak  in round 6
+NaturE killed cauanzin  in round 6
+Less killed Apoth  in round 6
+pANcada killed NaturE  in round 6
+Round 6 ended with spike_defuse. The winning team is LOUD.
+The current score is Evil Geniuses 3 - 3 LOUD.
+tuyz killed supamen  in round 7
+tuyz killed Apoth  in round 7
+Derrek killed tuyz  in round 7
+Derrek killed Saadhak  in round 7
+pANcada killed Derrek  in round 7
+cauanzin killed JAWGEMO  in round 7
+pANcada killed NaturE  in round 7
+Round 7 ended with spike_defuse. The winning team is LOUD.
+The current score is Evil Geniuses 3 - 4 LOUD.
+JAWGEMO killed cauanzin  in round 8
+pANcada killed JAWGEMO  in round 8
+NaturE killed pANcada  in round 8
+Derrek killed tuyz  in round 8
+Less killed NaturE  in round 8
+Less killed Derrek  in round 8
+Apoth killed Saadhak  in round 8
+Less killed Apoth  in round 8
+Round 8 ended with detonate. The winning team is Evil Geniuses.
+The current score is Evil Geniuses 4 - 4 LOUD.
+Less killed Less  in round 9
+cauanzin killed NaturE  in round 9
+supamen killed pANcada  in round 9
+cauanzin killed Derrek  in round 9
+JAWGEMO killed cauanzin  in round 9
+supamen killed Saadhak  in round 9
+Less killed supamen  in round 9
+JAWGEMO killed Less  in round 9
+Round 9 ended with detonate. The winning team is Evil Geniuses.
+The current score is Evil Geniuses 5 - 4 LOUD.
+Saadhak killed JAWGEMO  in round 10
+Apoth killed tuyz  in round 10
+Less killed Apoth  in round 10
+Derrek killed Saadhak  in round 10
+supamen killed cauanzin  in round 10
+pANcada killed NaturE  in round 10
+Derrek killed Less  in round 10
+pANcada killed Derrek  in round 10
+supamen killed pANcada  in round 10
+Round 10 ended with elimination. The winning team is Evil Geniuses.
+The current score is Evil Geniuses 6 - 4 LOUD.
+supamen killed supamen  in round 11
+Saadhak killed supamen  in round 11
+Apoth killed Saadhak  in round 11
+pANcada killed JAWGEMO  in round 11
+cauanzin killed Derrek  in round 11
+cauanzin killed NaturE  in round 11
+Apoth killed tuyz  in round 11
+cauanzin killed Apoth  in round 11
+Round 11 ended with elimination. The winning team is LOUD.
+The current score is Evil Geniuses 6 - 5 LOUD.
+pANcada killed Apoth  in round 12
+tuyz killed NaturE  in round 12
+Saadhak killed JAWGEMO  in round 12
+cauanzin killed Derrek  in round 12
+supamen killed cauanzin  in round 12
+Less killed supamen  in round 12
+Round 12 ended with elimination. The winning team is LOUD.
+The current score is Evil Geniuses 6 - 6 LOUD.
+JAWGEMO killed Saadhak  in round 13
+Derrek killed Less  in round 13
+tuyz killed Apoth  in round 13
+NaturE killed cauanzin  in round 13
+JAWGEMO killed pANcada  in round 13
+tuyz killed JAWGEMO  in round 13
+Derrek killed tuyz  in round 13
+Round 13 ended with elimination. The winning team is Evil Geniuses.
+The current score is Evil Geniuses 7 - 6 LOUD.
+Less killed supamen  in round 14
+JAWGEMO killed Saadhak  in round 14
+Apoth killed pANcada  in round 14
+cauanzin killed Apoth  in round 14
+JAWGEMO killed tuyz  in round 14
+JAWGEMO killed Less  in round 14
+Derrek killed cauanzin  in round 14
+Round 14 ended with elimination. The winning team is Evil Geniuses.
+The current score is Evil Geniuses 8 - 6 LOUD.
+Apoth killed Saadhak  in round 15
+Less killed JAWGEMO  in round 15
+cauanzin killed Apoth  in round 15
+supamen killed cauanzin  in round 15
+supamen killed tuyz  in round 15
+Derrek killed pANcada  in round 15
+Round 15 ended with spike_defuse. The winning team is Evil Geniuses.
+The current score is Evil Geniuses 9 - 6 LOUD.
+Less killed Derrek  in round 16
+Less killed NaturE  in round 16
+Less killed supamen  in round 16
+JAWGEMO killed pANcada  in round 16
+Apoth killed cauanzin  in round 16
+JAWGEMO killed Less  in round 16
+JAWGEMO killed Saadhak  in round 16
+tuyz killed JAWGEMO  in round 16
+Apoth killed tuyz  in round 16
+Round 16 ended with elimination. The winning team is Evil Geniuses.
+The current score is Evil Geniuses 10 - 6 LOUD.
+JAWGEMO killed pANcada  in round 17
+Saadhak killed JAWGEMO  in round 17
+supamen killed Saadhak  in round 17
+cauanzin killed supamen  in round 17
+Apoth killed tuyz  in round 17
+Derrek killed Less  in round 17
+Round 17 ended with spike_defuse. The winning team is Evil Geniuses.
+The current score is Evil Geniuses 11 - 6 LOUD.
+NaturE killed cauanzin  in round 18
+Apoth killed Saadhak  in round 18
+Apoth killed cauanzin  in round 18
+tuyz killed Apoth  in round 18
+Derrek killed tuyz  in round 18
+NaturE killed pANcada  in round 18
+JAWGEMO killed Less  in round 18
+Round 18 ended with spike_defuse. The winning team is Evil Geniuses.
+The current score is Evil Geniuses 12 - 6 LOUD.
+NaturE killed tuyz  in round 19
+Derrek killed Saadhak  in round 19
+cauanzin killed JAWGEMO  in round 19
+NaturE killed Less  in round 19
+Derrek killed cauanzin  in round 19
+supamen killed pANcada  in round 19
+Round 19 ended with elimination. The winning team is Evil Geniuses.
+The current score is Evil Geniuses 13 - 6 LOUD.
+Game ended with winning team: Evil Geniuses at 2024-06-24T01:21:45Z
+
+--- Player Stats ---
+Less: Team=LOUD, Kills=15, Deaths=13, Assists=2, KDA=1.31, First Kills=3, First Deaths=1
+cauanzin: Team=LOUD, Kills=14, Deaths=15, Assists=8, KDA=1.47, First Kills=1, First Deaths=2
+Saadhak: Team=LOUD, Kills=11, Deaths=16, Assists=5, KDA=1.0, First Kills=1, First Deaths=4
+tuyz: Team=LOUD, Kills=9, Deaths=15, Assists=3, KDA=0.8, First Kills=2, First Deaths=2
+pANcada: Team=LOUD, Kills=12, Deaths=13, Assists=9, KDA=1.62, First Kills=1, First Deaths=2
+JAWGEMO: Team=Evil Geniuses, Kills=22, Deaths=14, Assists=5, KDA=1.93, First Kills=7, First Deaths=1
+Derrek: Team=Evil Geniuses, Kills=15, Deaths=10, Assists=8, KDA=2.3, First Kills=0, First Deaths=1
+NaturE: Team=Evil Geniuses, Kills=9, Deaths=12, Assists=12, KDA=1.75, First Kills=2, First Deaths=2
+Apoth: Team=Evil Geniuses, Kills=15, Deaths=13, Assists=4, KDA=1.46, First Kills=1, First Deaths=1
+supamen: Team=Evil Geniuses, Kills=11, Deaths=12, Assists=10, KDA=1.75, First Kills=1, First Deaths=3

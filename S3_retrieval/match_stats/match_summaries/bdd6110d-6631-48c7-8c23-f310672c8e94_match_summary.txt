@@ -1,0 +1,297 @@
+Team 1: Karmine Corp
+Team 2: FNATIC
+Participating Players:
+Player 1: Chronicle
+Player 2: Derke
+Player 3: Boaster
+Player 4: Alfajer
+Player 5: Hiro  
+Player 6: Shin 
+Player 7: Tomaszy
+Player 8: MAGNUM
+Player 9: marteen
+Player 10: N4RRATE
+Winning Team: FNATIC
+Score: Karmine Corp 13 - 15 FNATIC
+Tournament Name: vct emea stage 2 2024
+Game Start Time: 2024-07-15T19:49:55Z
+Game End Time: 2024-07-15T20:53:35Z
+Rounds ended by ELIMINATION count: 16
+Rounds ended by DEFUSE count: 8
+Rounds ended by DETONATE count: 3
+SPIKE PLANTED count: 11
+platformGameId: val:bdd6110d-6631-48c7-8c23-f310672c8e94
+
+--- Events ---
+Game started at 2024-07-15T19:49:55Z
+Boaster killed N4RRATE  in round 1
+Tomaszy killed Boaster  in round 1
+Shin  killed Derke  in round 1
+Tomaszy killed Chronicle  in round 1
+Alfajer killed Tomaszy  in round 1
+Hiro   killed marteen  in round 1
+Hiro   killed Shin   in round 1
+MAGNUM killed Hiro    in round 1
+Alfajer killed MAGNUM  in round 1
+Round 1 ended with spike_defuse. The winning team is FNATIC.
+The current score is Karmine Corp 0 - 1 FNATIC.
+N4RRATE killed Hiro    in round 2
+Boaster killed MAGNUM  in round 2
+Boaster killed marteen  in round 2
+Shin  killed Boaster  in round 2
+Chronicle killed Shin   in round 2
+Derke killed Tomaszy  in round 2
+N4RRATE killed Alfajer  in round 2
+Chronicle killed N4RRATE  in round 2
+Round 2 ended with elimination. The winning team is FNATIC.
+The current score is Karmine Corp 0 - 2 FNATIC.
+Alfajer killed N4RRATE  in round 3
+Boaster killed Tomaszy  in round 3
+Hiro   killed Shin   in round 3
+marteen killed Alfajer  in round 3
+Hiro   killed MAGNUM  in round 3
+Chronicle killed marteen  in round 3
+Round 3 ended with spike_defuse. The winning team is FNATIC.
+The current score is Karmine Corp 0 - 3 FNATIC.
+Alfajer killed marteen  in round 4
+Alfajer killed N4RRATE  in round 4
+Shin  killed Alfajer  in round 4
+Chronicle killed Shin   in round 4
+Boaster killed MAGNUM  in round 4
+Derke killed Tomaszy  in round 4
+Round 4 ended with elimination. The winning team is FNATIC.
+The current score is Karmine Corp 0 - 4 FNATIC.
+Shin  killed Boaster  in round 5
+Shin  killed Alfajer  in round 5
+Hiro   killed Shin   in round 5
+Hiro   killed marteen  in round 5
+Hiro   killed MAGNUM  in round 5
+Tomaszy killed Hiro    in round 5
+N4RRATE killed Chronicle  in round 5
+Derke killed N4RRATE  in round 5
+Round 5 ended with detonate. The winning team is Karmine Corp.
+The current score is Karmine Corp 1 - 4 FNATIC.
+Derke killed Tomaszy  in round 6
+MAGNUM killed Chronicle  in round 6
+Derke killed N4RRATE  in round 6
+Alfajer killed MAGNUM  in round 6
+Hiro   killed marteen  in round 6
+Shin  killed Derke  in round 6
+Alfajer killed Shin   in round 6
+Round 6 ended with spike_defuse. The winning team is FNATIC.
+The current score is Karmine Corp 1 - 5 FNATIC.
+Hiro   killed MAGNUM  in round 7
+Boaster killed Shin   in round 7
+N4RRATE killed Hiro    in round 7
+Boaster killed N4RRATE  in round 7
+Tomaszy killed Boaster  in round 7
+Tomaszy killed Chronicle  in round 7
+Tomaszy killed Derke  in round 7
+Alfajer killed Tomaszy  in round 7
+marteen killed Alfajer  in round 7
+Round 7 ended with elimination. The winning team is Karmine Corp.
+The current score is Karmine Corp 2 - 5 FNATIC.
+marteen killed Hiro    in round 8
+marteen killed Chronicle  in round 8
+Alfajer killed N4RRATE  in round 8
+marteen killed Alfajer  in round 8
+Derke killed marteen  in round 8
+Tomaszy killed Boaster  in round 8
+Derke killed Tomaszy  in round 8
+Round 8 ended with detonate. The winning team is Karmine Corp.
+The current score is Karmine Corp 3 - 5 FNATIC.
+Derke killed N4RRATE  in round 9
+Derke killed Shin   in round 9
+Derke killed MAGNUM  in round 9
+Hiro   killed marteen  in round 9
+Derke killed Tomaszy  in round 9
+Round 9 ended with spike_defuse. The winning team is FNATIC.
+The current score is Karmine Corp 3 - 6 FNATIC.
+N4RRATE killed Boaster  in round 10
+Chronicle killed Shin   in round 10
+marteen killed Chronicle  in round 10
+Tomaszy killed Hiro    in round 10
+MAGNUM killed Derke  in round 10
+marteen killed Alfajer  in round 10
+Round 10 ended with elimination. The winning team is Karmine Corp.
+The current score is Karmine Corp 4 - 6 FNATIC.
+Shin  killed Hiro    in round 11
+Boaster killed Shin   in round 11
+N4RRATE killed Derke  in round 11
+Derke killed N4RRATE  in round 11
+Tomaszy killed Alfajer  in round 11
+Chronicle killed Tomaszy  in round 11
+Chronicle killed MAGNUM  in round 11
+marteen killed Chronicle  in round 11
+marteen killed Boaster  in round 11
+Round 11 ended with elimination. The winning team is Karmine Corp.
+The current score is Karmine Corp 5 - 6 FNATIC.
+marteen killed Derke  in round 12
+N4RRATE killed Chronicle  in round 12
+N4RRATE killed Boaster  in round 12
+marteen killed Alfajer  in round 12
+Hiro   killed N4RRATE  in round 12
+marteen killed Hiro    in round 12
+Round 12 ended with elimination. The winning team is Karmine Corp.
+The current score is Karmine Corp 6 - 6 FNATIC.
+N4RRATE killed Derke  in round 13
+Alfajer killed N4RRATE  in round 13
+Boaster killed Tomaszy  in round 13
+MAGNUM killed Boaster  in round 13
+Hiro   killed Shin   in round 13
+MAGNUM killed Hiro    in round 13
+MAGNUM killed Alfajer  in round 13
+Chronicle killed MAGNUM  in round 13
+marteen killed Chronicle  in round 13
+Round 13 ended with spike_defuse. The winning team is Karmine Corp.
+The current score is Karmine Corp 7 - 6 FNATIC.
+MAGNUM killed Boaster  in round 14
+N4RRATE killed Derke  in round 14
+marteen killed Chronicle  in round 14
+Tomaszy killed Hiro    in round 14
+Alfajer killed MAGNUM  in round 14
+Round 14 ended with spike_defuse. The winning team is Karmine Corp.
+The current score is Karmine Corp 8 - 6 FNATIC.
+Tomaszy killed Alfajer  in round 15
+marteen killed Boaster  in round 15
+Derke killed marteen  in round 15
+Shin  killed Derke  in round 15
+Alfajer killed Shin   in round 15
+MAGNUM killed Alfajer  in round 15
+Tomaszy killed Chronicle  in round 15
+Hiro   killed Tomaszy  in round 15
+Hiro   killed MAGNUM  in round 15
+N4RRATE killed Hiro    in round 15
+Round 15 ended with elimination. The winning team is Karmine Corp.
+The current score is Karmine Corp 9 - 6 FNATIC.
+Shin  killed Alfajer  in round 16
+N4RRATE killed Derke  in round 16
+Shin  killed Chronicle  in round 16
+Tomaszy killed Boaster  in round 16
+marteen killed Hiro    in round 16
+Round 16 ended with elimination. The winning team is Karmine Corp.
+The current score is Karmine Corp 10 - 6 FNATIC.
+marteen killed Derke  in round 17
+Hiro   killed Tomaszy  in round 17
+Boaster killed N4RRATE  in round 17
+Alfajer killed marteen  in round 17
+MAGNUM killed Chronicle  in round 17
+Alfajer killed MAGNUM  in round 17
+Alfajer killed Shin   in round 17
+Round 17 ended with elimination. The winning team is FNATIC.
+The current score is Karmine Corp 10 - 7 FNATIC.
+Boaster killed Tomaszy  in round 18
+MAGNUM killed Boaster  in round 18
+N4RRATE killed Hiro    in round 18
+Alfajer killed N4RRATE  in round 18
+marteen killed Derke  in round 18
+Alfajer killed MAGNUM  in round 18
+Alfajer killed marteen  in round 18
+Round 18 ended with detonate. The winning team is FNATIC.
+The current score is Karmine Corp 10 - 8 FNATIC.
+Alfajer killed Alfajer  in round 19
+Chronicle killed Chronicle  in round 19
+Derke killed N4RRATE  in round 19
+Shin  killed Alfajer  in round 19
+marteen killed Chronicle  in round 19
+Hiro   killed MAGNUM  in round 19
+marteen killed Derke  in round 19
+Hiro   killed Shin   in round 19
+Tomaszy killed Boaster  in round 19
+Hiro   killed Tomaszy  in round 19
+Hiro   killed marteen  in round 19
+Round 19 ended with elimination. The winning team is FNATIC.
+The current score is Karmine Corp 10 - 9 FNATIC.
+Shin  killed Hiro    in round 20
+Shin  killed Derke  in round 20
+Shin  killed Alfajer  in round 20
+MAGNUM killed Boaster  in round 20
+Chronicle killed Shin   in round 20
+Round 20 ended with time_expired. The winning team is Karmine Corp.
+The current score is Karmine Corp 11 - 9 FNATIC.
+MAGNUM killed Boaster  in round 21
+Derke killed MAGNUM  in round 21
+Hiro   killed Shin   in round 21
+Hiro   killed Tomaszy  in round 21
+Chronicle killed N4RRATE  in round 21
+Chronicle killed marteen  in round 21
+Round 21 ended with elimination. The winning team is FNATIC.
+The current score is Karmine Corp 11 - 10 FNATIC.
+Shin  killed Hiro    in round 22
+Chronicle killed MAGNUM  in round 22
+Alfajer killed N4RRATE  in round 22
+Tomaszy killed Alfajer  in round 22
+Derke killed Tomaszy  in round 22
+Derke killed marteen  in round 22
+Shin  killed Boaster  in round 22
+Shin  killed Chronicle  in round 22
+Derke killed Shin   in round 22
+Round 22 ended with elimination. The winning team is FNATIC.
+The current score is Karmine Corp 11 - 11 FNATIC.
+MAGNUM killed Boaster  in round 23
+Chronicle killed Tomaszy  in round 23
+Hiro   killed MAGNUM  in round 23
+Hiro   killed N4RRATE  in round 23
+Hiro   killed marteen  in round 23
+Hiro   killed Shin   in round 23
+Round 23 ended with elimination. The winning team is FNATIC.
+The current score is Karmine Corp 11 - 12 FNATIC.
+Boaster killed Tomaszy  in round 24
+marteen killed Hiro    in round 24
+marteen killed Boaster  in round 24
+N4RRATE killed Derke  in round 24
+N4RRATE killed Chronicle  in round 24
+Alfajer killed N4RRATE  in round 24
+Shin  killed Alfajer  in round 24
+Round 24 ended with elimination. The winning team is Karmine Corp.
+The current score is Karmine Corp 12 - 12 FNATIC.
+Hiro   killed marteen  in round 25
+MAGNUM killed Chronicle  in round 25
+Alfajer killed MAGNUM  in round 25
+Hiro   killed Tomaszy  in round 25
+N4RRATE killed Alfajer  in round 25
+Boaster killed N4RRATE  in round 25
+Hiro   killed Shin   in round 25
+Round 25 ended with spike_defuse. The winning team is FNATIC.
+The current score is Karmine Corp 12 - 13 FNATIC.
+Shin  killed Derke  in round 26
+MAGNUM killed Chronicle  in round 26
+MAGNUM killed Alfajer  in round 26
+N4RRATE killed Boaster  in round 26
+N4RRATE killed Hiro    in round 26
+Round 26 ended with elimination. The winning team is Karmine Corp.
+The current score is Karmine Corp 13 - 13 FNATIC.
+Chronicle killed MAGNUM  in round 27
+marteen killed Chronicle  in round 27
+Boaster killed marteen  in round 27
+N4RRATE killed Boaster  in round 27
+Tomaszy killed Derke  in round 27
+Alfajer killed Tomaszy  in round 27
+Hiro   killed N4RRATE  in round 27
+Shin  killed Alfajer  in round 27
+Hiro   killed Shin   in round 27
+Round 27 ended with spike_defuse. The winning team is FNATIC.
+The current score is Karmine Corp 13 - 14 FNATIC.
+Shin  killed Hiro    in round 28
+Chronicle killed Tomaszy  in round 28
+Derke killed N4RRATE  in round 28
+MAGNUM killed Derke  in round 28
+Chronicle killed MAGNUM  in round 28
+marteen killed Chronicle  in round 28
+Alfajer killed Shin   in round 28
+Alfajer killed marteen  in round 28
+Round 28 ended with elimination. The winning team is FNATIC.
+The current score is Karmine Corp 13 - 15 FNATIC.
+Game ended with winning team: FNATIC at 2024-07-15T20:53:35Z
+
+--- Player Stats ---
+Chronicle: Team=FNATIC, Kills=17, Deaths=21, Assists=11, KDA=1.33, First Kills=1, First Deaths=0
+Derke: Team=FNATIC, Kills=19, Deaths=18, Assists=3, KDA=1.22, First Kills=2, First Deaths=4
+Boaster: Team=FNATIC, Kills=14, Deaths=21, Assists=9, KDA=1.1, First Kills=3, First Deaths=5
+Alfajer: Team=FNATIC, Kills=25, Deaths=21, Assists=7, KDA=1.52, First Kills=3, First Deaths=3
+Hiro  : Team=FNATIC, Kills=30, Deaths=18, Assists=5, KDA=1.94, First Kills=2, First Deaths=6
+Shin : Team=Karmine Corp, Kills=21, Deaths=21, Assists=9, KDA=1.43, First Kills=7, First Deaths=0
+Tomaszy: Team=Karmine Corp, Kills=16, Deaths=21, Assists=7, KDA=1.1, First Kills=1, First Deaths=3
+MAGNUM: Team=Karmine Corp, Kills=17, Deaths=21, Assists=15, KDA=1.52, First Kills=3, First Deaths=2
+marteen: Team=Karmine Corp, Kills=24, Deaths=18, Assists=0, KDA=1.33, First Kills=3, First Deaths=2
+N4RRATE: Team=Karmine Corp, Kills=19, Deaths=22, Assists=9, KDA=1.27, First Kills=3, First Deaths=3

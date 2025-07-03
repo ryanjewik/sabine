@@ -1,0 +1,157 @@
+Team 1: NRG
+Team 2: ZETA DIVISION
+Participating Players:
+Player 1: Dep
+Player 2: crow 
+Player 3: SugarZ3ro
+Player 4: TENNN
+Player 5: Laz
+Player 6: crashies
+Player 7: Victor
+Player 8: FNS
+Player 9: s0m
+Player 10: ardiis
+Winning Team: NRG
+Score: NRG 13 - 1 ZETA DIVISION
+Tournament Name: vct champions 2023
+Game Start Time: 2023-08-11T23:49:20Z
+Game End Time: 2023-08-12T00:23:58Z
+Rounds ended by ELIMINATION count: 9
+Rounds ended by DEFUSE count: 1
+Rounds ended by DETONATE count: 4
+SPIKE PLANTED count: 5
+platformGameId: val:c69a1a9e-3659-407a-adab-28c83091a541
+
+--- Events ---
+Game started at 2023-08-11T23:49:20Z
+ardiis killed Laz  in round 1
+Dep killed ardiis  in round 1
+Victor killed SugarZ3ro  in round 1
+Dep killed FNS  in round 1
+Dep killed crashies  in round 1
+s0m killed Dep  in round 1
+Victor killed TENNN  in round 1
+Victor killed crow   in round 1
+Round 1 ended with elimination. The winning team is NRG.
+The current score is NRG 1 - 0 ZETA DIVISION.
+ardiis killed TENNN  in round 2
+ardiis killed crow   in round 2
+SugarZ3ro killed FNS  in round 2
+crashies killed Dep  in round 2
+ardiis killed SugarZ3ro  in round 2
+ardiis killed Laz  in round 2
+Round 2 ended with elimination. The winning team is NRG.
+The current score is NRG 2 - 0 ZETA DIVISION.
+s0m killed crow   in round 3
+Laz killed Victor  in round 3
+ardiis killed Laz  in round 3
+FNS killed Dep  in round 3
+s0m killed TENNN  in round 3
+FNS killed SugarZ3ro  in round 3
+Round 3 ended with elimination. The winning team is NRG.
+The current score is NRG 3 - 0 ZETA DIVISION.
+ardiis killed Dep  in round 4
+Laz killed Victor  in round 4
+Laz killed crashies  in round 4
+ardiis killed Laz  in round 4
+ardiis killed crow   in round 4
+ardiis killed SugarZ3ro  in round 4
+s0m killed TENNN  in round 4
+Round 4 ended with elimination. The winning team is NRG.
+The current score is NRG 4 - 0 ZETA DIVISION.
+Dep killed ardiis  in round 5
+Dep killed crashies  in round 5
+Dep killed Victor  in round 5
+Dep killed s0m  in round 5
+Dep killed FNS  in round 5
+Round 5 ended with elimination. The winning team is ZETA DIVISION.
+The current score is NRG 4 - 1 ZETA DIVISION.
+ardiis killed TENNN  in round 6
+Laz killed ardiis  in round 6
+FNS killed Dep  in round 6
+crashies killed crow   in round 6
+Round 6 ended with detonate. The winning team is NRG.
+The current score is NRG 5 - 1 ZETA DIVISION.
+ardiis killed crow   in round 7
+Dep killed FNS  in round 7
+s0m killed Dep  in round 7
+SugarZ3ro killed s0m  in round 7
+crashies killed SugarZ3ro  in round 7
+ardiis killed TENNN  in round 7
+ardiis killed Laz  in round 7
+Round 7 ended with elimination. The winning team is NRG.
+The current score is NRG 6 - 1 ZETA DIVISION.
+Dep killed ardiis  in round 8
+crashies killed TENNN  in round 8
+s0m killed Laz  in round 8
+Dep killed s0m  in round 8
+Victor killed SugarZ3ro  in round 8
+Round 8 ended with detonate. The winning team is NRG.
+The current score is NRG 7 - 1 ZETA DIVISION.
+crow  killed crashies  in round 9
+Dep killed Victor  in round 9
+ardiis killed SugarZ3ro  in round 9
+Dep killed ardiis  in round 9
+crashies killed Dep  in round 9
+TENNN killed crashies  in round 9
+s0m killed TENNN  in round 9
+Victor killed crow   in round 9
+Round 9 ended with detonate. The winning team is NRG.
+The current score is NRG 8 - 1 ZETA DIVISION.
+Victor killed Dep  in round 10
+TENNN killed Victor  in round 10
+Laz killed crashies  in round 10
+ardiis killed SugarZ3ro  in round 10
+s0m killed TENNN  in round 10
+FNS killed Laz  in round 10
+Round 10 ended with detonate. The winning team is NRG.
+The current score is NRG 9 - 1 ZETA DIVISION.
+TENNN killed FNS  in round 11
+ardiis killed Laz  in round 11
+ardiis killed Dep  in round 11
+ardiis killed SugarZ3ro  in round 11
+Victor killed TENNN  in round 11
+crow  killed ardiis  in round 11
+s0m killed crow   in round 11
+Round 11 ended with elimination. The winning team is NRG.
+The current score is NRG 10 - 1 ZETA DIVISION.
+FNS killed SugarZ3ro  in round 12
+s0m killed TENNN  in round 12
+FNS killed Dep  in round 12
+crow  killed crashies  in round 12
+s0m killed crow   in round 12
+s0m killed Laz  in round 12
+Round 12 ended with elimination. The winning team is NRG.
+The current score is NRG 11 - 1 ZETA DIVISION.
+s0m killed Laz  in round 13
+FNS killed crow   in round 13
+crashies killed Dep  in round 13
+SugarZ3ro killed crashies  in round 13
+Victor killed SugarZ3ro  in round 13
+FNS killed TENNN  in round 13
+Round 13 ended with spike_defuse. The winning team is NRG.
+The current score is NRG 12 - 1 ZETA DIVISION.
+FNS killed Laz  in round 14
+TENNN killed ardiis  in round 14
+crashies killed TENNN  in round 14
+FNS killed SugarZ3ro  in round 14
+crow  killed FNS  in round 14
+Dep killed s0m  in round 14
+crashies killed crow   in round 14
+Dep killed crashies  in round 14
+Victor killed Dep  in round 14
+Round 14 ended with elimination. The winning team is NRG.
+The current score is NRG 13 - 1 ZETA DIVISION.
+Game ended with winning team: NRG at 2023-08-12T00:23:58Z
+
+--- Player Stats ---
+Dep: Team=ZETA DIVISION, Kills=15, Deaths=12, Assists=3, KDA=1.5, First Kills=2, First Deaths=2
+crow : Team=ZETA DIVISION, Kills=4, Deaths=11, Assists=4, KDA=0.73, First Kills=1, First Deaths=2
+SugarZ3ro: Team=ZETA DIVISION, Kills=3, Deaths=12, Assists=2, KDA=0.42, First Kills=0, First Deaths=1
+TENNN: Team=ZETA DIVISION, Kills=4, Deaths=13, Assists=0, KDA=0.31, First Kills=1, First Deaths=2
+Laz: Team=ZETA DIVISION, Kills=5, Deaths=11, Assists=0, KDA=0.45, First Kills=0, First Deaths=3
+crashies: Team=NRG, Kills=8, Deaths=9, Assists=10, KDA=2.0, First Kills=0, First Deaths=1
+Victor: Team=NRG, Kills=9, Deaths=5, Assists=2, KDA=2.2, First Kills=1, First Deaths=0
+FNS: Team=NRG, Kills=10, Deaths=6, Assists=5, KDA=2.5, First Kills=2, First Deaths=1
+s0m: Team=NRG, Kills=13, Deaths=4, Assists=7, KDA=5.0, First Kills=2, First Deaths=0
+ardiis: Team=NRG, Kills=19, Deaths=7, Assists=2, KDA=3.0, First Kills=5, First Deaths=2

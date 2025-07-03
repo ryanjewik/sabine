@@ -1,0 +1,203 @@
+Team 1: NRG
+Team 2: NAVI
+Participating Players:
+Player 1: Zyppan
+Player 2: cNed
+Player 3: ANGE1
+Player 4: Shao
+Player 5: suygetsu
+Player 6: crashies
+Player 7: Victor
+Player 8: FNS
+Player 9: s0m
+Player 10: ardiis
+Winning Team: NRG
+Score: NRG 13 - 6 NAVI
+Tournament Name: vct masters 2023 groups
+Game Start Time: 2023-06-12T05:20:39Z
+Game End Time: 2023-06-12T06:07:47Z
+Rounds ended by ELIMINATION count: 13
+Rounds ended by DEFUSE count: 1
+Rounds ended by DETONATE count: 5
+SPIKE PLANTED count: 6
+platformGameId: val:3915e15f-0e9d-4a08-ac84-b7ee44d7edc5
+
+--- Events ---
+Game started at 2023-06-12T05:20:39Z
+Zyppan killed FNS  in round 1
+ANGE1 killed crashies  in round 1
+ardiis killed Zyppan  in round 1
+Victor killed ANGE1  in round 1
+suygetsu killed Victor  in round 1
+ardiis killed suygetsu  in round 1
+s0m killed cNed  in round 1
+ardiis killed Shao  in round 1
+Round 1 ended with elimination. The winning team is NRG.
+The current score is NRG 1 - 0 NAVI.
+s0m killed ANGE1  in round 2
+ardiis killed cNed  in round 2
+ardiis killed Shao  in round 2
+s0m killed Zyppan  in round 2
+Victor killed suygetsu  in round 2
+Round 2 ended with elimination. The winning team is NRG.
+The current score is NRG 2 - 0 NAVI.
+suygetsu killed FNS  in round 3
+Victor killed Shao  in round 3
+Victor killed cNed  in round 3
+ANGE1 killed ardiis  in round 3
+crashies killed suygetsu  in round 3
+Zyppan killed Victor  in round 3
+crashies killed Zyppan  in round 3
+Round 3 ended with detonate. The winning team is NRG.
+The current score is NRG 3 - 0 NAVI.
+ANGE1 killed Victor  in round 4
+ardiis killed ANGE1  in round 4
+ardiis killed cNed  in round 4
+suygetsu killed FNS  in round 4
+s0m killed Shao  in round 4
+suygetsu killed ardiis  in round 4
+s0m killed Zyppan  in round 4
+crashies killed suygetsu  in round 4
+Round 4 ended with elimination. The winning team is NRG.
+The current score is NRG 4 - 0 NAVI.
+crashies killed suygetsu  in round 5
+Victor killed cNed  in round 5
+s0m killed Zyppan  in round 5
+crashies killed Shao  in round 5
+Round 5 ended with detonate. The winning team is NRG.
+The current score is NRG 5 - 0 NAVI.
+ardiis killed Shao  in round 6
+suygetsu killed ardiis  in round 6
+Victor killed suygetsu  in round 6
+cNed killed Victor  in round 6
+cNed killed crashies  in round 6
+FNS killed ANGE1  in round 6
+cNed killed s0m  in round 6
+cNed killed FNS  in round 6
+Round 6 ended with elimination. The winning team is NAVI.
+The current score is NRG 5 - 1 NAVI.
+Zyppan killed Victor  in round 7
+crashies killed cNed  in round 7
+ANGE1 killed ardiis  in round 7
+crashies killed ANGE1  in round 7
+FNS killed Zyppan  in round 7
+FNS killed suygetsu  in round 7
+Round 7 ended with detonate. The winning team is NRG.
+The current score is NRG 6 - 1 NAVI.
+ardiis killed cNed  in round 8
+ardiis killed ANGE1  in round 8
+Zyppan killed crashies  in round 8
+Victor killed Zyppan  in round 8
+Round 8 ended with detonate. The winning team is NRG.
+The current score is NRG 7 - 1 NAVI.
+Victor killed suygetsu  in round 9
+ANGE1 killed Victor  in round 9
+s0m killed Shao  in round 9
+ANGE1 killed ardiis  in round 9
+FNS killed cNed  in round 9
+Zyppan killed FNS  in round 9
+crashies killed ANGE1  in round 9
+s0m killed Zyppan  in round 9
+Round 9 ended with elimination. The winning team is NRG.
+The current score is NRG 8 - 1 NAVI.
+cNed killed ardiis  in round 10
+crashies killed cNed  in round 10
+suygetsu killed FNS  in round 10
+ANGE1 killed crashies  in round 10
+Zyppan killed Victor  in round 10
+s0m killed ANGE1  in round 10
+Zyppan killed s0m  in round 10
+Round 10 ended with elimination. The winning team is NAVI.
+The current score is NRG 8 - 2 NAVI.
+FNS killed ANGE1  in round 11
+FNS killed Zyppan  in round 11
+cNed killed crashies  in round 11
+Victor killed cNed  in round 11
+suygetsu killed Victor  in round 11
+FNS killed suygetsu  in round 11
+Round 11 ended with detonate. The winning team is NRG.
+The current score is NRG 9 - 2 NAVI.
+crashies killed ANGE1  in round 12
+suygetsu killed Victor  in round 12
+crashies killed suygetsu  in round 12
+FNS killed cNed  in round 12
+cNed killed s0m  in round 12
+ardiis killed Shao  in round 12
+ardiis killed Zyppan  in round 12
+Round 12 ended with elimination. The winning team is NRG.
+The current score is NRG 10 - 2 NAVI.
+ANGE1 killed ardiis  in round 13
+Victor killed ANGE1  in round 13
+cNed killed s0m  in round 13
+cNed killed Victor  in round 13
+Shao killed FNS  in round 13
+cNed killed crashies  in round 13
+Round 13 ended with elimination. The winning team is NAVI.
+The current score is NRG 10 - 3 NAVI.
+ANGE1 killed FNS  in round 14
+Zyppan killed ardiis  in round 14
+Shao killed s0m  in round 14
+cNed killed Victor  in round 14
+cNed killed crashies  in round 14
+Round 14 ended with elimination. The winning team is NAVI.
+The current score is NRG 10 - 4 NAVI.
+ANGE1 killed s0m  in round 15
+cNed killed crashies  in round 15
+cNed killed ardiis  in round 15
+FNS killed cNed  in round 15
+FNS killed Zyppan  in round 15
+Shao killed FNS  in round 15
+suygetsu killed Victor  in round 15
+Round 15 ended with elimination. The winning team is NAVI.
+The current score is NRG 10 - 5 NAVI.
+ANGE1 killed ardiis  in round 16
+Zyppan killed crashies  in round 16
+Zyppan killed FNS  in round 16
+Victor killed Zyppan  in round 16
+Shao killed Victor  in round 16
+s0m killed Shao  in round 16
+suygetsu killed s0m  in round 16
+Round 16 ended with elimination. The winning team is NAVI.
+The current score is NRG 10 - 6 NAVI.
+Victor killed cNed  in round 17
+Victor killed ANGE1  in round 17
+suygetsu killed crashies  in round 17
+Victor killed suygetsu  in round 17
+Zyppan killed Victor  in round 17
+FNS killed Zyppan  in round 17
+Shao killed FNS  in round 17
+s0m killed Shao  in round 17
+Round 17 ended with elimination. The winning team is NRG.
+The current score is NRG 11 - 6 NAVI.
+ardiis killed cNed  in round 18
+Victor killed suygetsu  in round 18
+ANGE1 killed ardiis  in round 18
+s0m killed Zyppan  in round 18
+Shao killed s0m  in round 18
+Victor killed Shao  in round 18
+Victor killed ANGE1  in round 18
+Round 18 ended with elimination. The winning team is NRG.
+The current score is NRG 12 - 6 NAVI.
+FNS killed ANGE1  in round 19
+cNed killed Victor  in round 19
+s0m killed cNed  in round 19
+FNS killed Zyppan  in round 19
+suygetsu killed FNS  in round 19
+Shao killed s0m  in round 19
+ardiis killed suygetsu  in round 19
+ardiis killed Shao  in round 19
+Round 19 ended with spike_defuse. The winning team is NRG.
+The current score is NRG 13 - 6 NAVI.
+Game ended with winning team: NRG at 2023-06-12T06:07:47Z
+
+--- Player Stats ---
+Zyppan: Team=NAVI, Kills=11, Deaths=15, Assists=3, KDA=0.93, First Kills=2, First Deaths=0
+cNed: Team=NAVI, Kills=15, Deaths=15, Assists=5, KDA=1.33, First Kills=1, First Deaths=3
+ANGE1: Team=NAVI, Kills=12, Deaths=14, Assists=2, KDA=1.0, First Kills=5, First Deaths=4
+Shao: Team=NAVI, Kills=7, Deaths=12, Assists=2, KDA=0.75, First Kills=0, First Deaths=1
+suygetsu: Team=NAVI, Kills=12, Deaths=13, Assists=4, KDA=1.23, First Kills=1, First Deaths=2
+crashies: Team=NRG, Kills=11, Deaths=10, Assists=12, KDA=2.3, First Kills=2, First Deaths=0
+Victor: Team=NRG, Kills=17, Deaths=15, Assists=2, KDA=1.27, First Kills=2, First Deaths=2
+FNS: Team=NRG, Kills=13, Deaths=12, Assists=4, KDA=1.42, First Kills=2, First Deaths=3
+s0m: Team=NRG, Kills=13, Deaths=9, Assists=10, KDA=2.56, First Kills=1, First Deaths=1
+ardiis: Team=NRG, Kills=15, Deaths=11, Assists=5, KDA=1.82, First Kills=3, First Deaths=3

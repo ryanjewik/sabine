@@ -1,0 +1,237 @@
+Team 1: Futbolist
+Team 2: 100 Thieves
+Participating Players:
+Player 1: Asuna
+Player 2: Cryo
+Player 3: stellar
+Player 4: Derrek
+Player 5: bangNA
+Player 6: mojj
+Player 7: ATA KAPTAN
+Player 8: MrFaliN
+Player 9: qw1
+Player 10: qRaxs
+Winning Team: 100 Thieves
+Score: Futbolist 8 - 13 100 Thieves
+Tournament Name: lock in brazil 2023
+Game Start Time: 2023-02-26T19:05:15Z
+Game End Time: 2023-02-26T19:57:02Z
+Rounds ended by ELIMINATION count: 10
+Rounds ended by DEFUSE count: 9
+Rounds ended by DETONATE count: 1
+SPIKE PLANTED count: 10
+platformGameId: val:46f535d9-c35e-49c6-a735-b8e1007a7af6
+
+--- Events ---
+Game started at 2023-02-26T19:05:15Z
+qw1 killed Asuna  in round 1
+Cryo killed qRaxs  in round 1
+ATA KAPTAN killed Cryo  in round 1
+Derrek killed ATA KAPTAN  in round 1
+MrFaliN killed Derrek  in round 1
+stellar killed MrFaliN  in round 1
+bangNA killed mojj  in round 1
+bangNA killed qw1  in round 1
+Round 1 ended with spike_defuse. The winning team is 100 Thieves.
+The current score is Futbolist 0 - 1 100 Thieves.
+Derrek killed ATA KAPTAN  in round 2
+Cryo killed mojj  in round 2
+qRaxs killed Asuna  in round 2
+bangNA killed qRaxs  in round 2
+bangNA killed qw1  in round 2
+MrFaliN killed Cryo  in round 2
+MrFaliN killed bangNA  in round 2
+stellar killed MrFaliN  in round 2
+Round 2 ended with elimination. The winning team is 100 Thieves.
+The current score is Futbolist 0 - 2 100 Thieves.
+mojj killed bangNA  in round 3
+qw1 killed Cryo  in round 3
+qRaxs killed Asuna  in round 3
+stellar killed mojj  in round 3
+Derrek killed qRaxs  in round 3
+ATA KAPTAN killed Derrek  in round 3
+qw1 killed stellar  in round 3
+Round 3 ended with elimination. The winning team is Futbolist.
+The current score is Futbolist 1 - 2 100 Thieves.
+Asuna killed qw1  in round 4
+Asuna killed mojj  in round 4
+stellar killed qRaxs  in round 4
+Asuna killed MrFaliN  in round 4
+bangNA killed ATA KAPTAN  in round 4
+Round 4 ended with spike_defuse. The winning team is 100 Thieves.
+The current score is Futbolist 1 - 3 100 Thieves.
+bangNA killed MrFaliN  in round 5
+qw1 killed bangNA  in round 5
+qRaxs killed Derrek  in round 5
+Cryo killed qRaxs  in round 5
+stellar killed qw1  in round 5
+Round 5 ended with spike_defuse. The winning team is 100 Thieves.
+The current score is Futbolist 1 - 4 100 Thieves.
+ATA KAPTAN killed stellar  in round 6
+ATA KAPTAN killed bangNA  in round 6
+Asuna killed mojj  in round 6
+Cryo killed ATA KAPTAN  in round 6
+Cryo killed qw1  in round 6
+stellar killed ATA KAPTAN  in round 6
+mojj killed stellar  in round 6
+MrFaliN killed Cryo  in round 6
+mojj killed Derrek  in round 6
+bangNA killed mojj  in round 6
+MrFaliN killed bangNA  in round 6
+Asuna killed qRaxs  in round 6
+Asuna killed MrFaliN  in round 6
+Round 6 ended with spike_defuse. The winning team is 100 Thieves.
+The current score is Futbolist 1 - 5 100 Thieves.
+stellar killed MrFaliN  in round 7
+bangNA killed qw1  in round 7
+Asuna killed ATA KAPTAN  in round 7
+qRaxs killed Asuna  in round 7
+qRaxs killed Cryo  in round 7
+bangNA killed qRaxs  in round 7
+Derrek killed mojj  in round 7
+Round 7 ended with spike_defuse. The winning team is 100 Thieves.
+The current score is Futbolist 1 - 6 100 Thieves.
+Cryo killed mojj  in round 8
+Cryo killed ATA KAPTAN  in round 8
+stellar killed MrFaliN  in round 8
+qw1 killed stellar  in round 8
+mojj killed stellar  in round 8
+qw1 killed Cryo  in round 8
+mojj killed Asuna  in round 8
+Derrek killed mojj  in round 8
+bangNA killed qw1  in round 8
+qRaxs killed Derrek  in round 8
+qRaxs killed bangNA  in round 8
+Round 8 ended with elimination. The winning team is Futbolist.
+The current score is Futbolist 2 - 6 100 Thieves.
+qRaxs killed qRaxs  in round 9
+bangNA killed MrFaliN  in round 9
+ATA KAPTAN killed bangNA  in round 9
+mojj killed stellar  in round 9
+mojj killed Derrek  in round 9
+mojj killed Asuna  in round 9
+Cryo killed qw1  in round 9
+qRaxs killed Cryo  in round 9
+Round 9 ended with elimination. The winning team is Futbolist.
+The current score is Futbolist 3 - 6 100 Thieves.
+mojj killed Cryo  in round 10
+Derrek killed ATA KAPTAN  in round 10
+mojj killed Derrek  in round 10
+Asuna killed qw1  in round 10
+qRaxs killed stellar  in round 10
+Asuna killed qRaxs  in round 10
+Asuna killed MrFaliN  in round 10
+bangNA killed mojj  in round 10
+Round 10 ended with spike_defuse. The winning team is 100 Thieves.
+The current score is Futbolist 3 - 7 100 Thieves.
+Cryo killed qw1  in round 11
+bangNA killed ATA KAPTAN  in round 11
+stellar killed MrFaliN  in round 11
+bangNA killed qRaxs  in round 11
+Round 11 ended with time_expired. The winning team is 100 Thieves.
+The current score is Futbolist 3 - 8 100 Thieves.
+qw1 killed Asuna  in round 12
+mojj killed Cryo  in round 12
+Derrek killed ATA KAPTAN  in round 12
+qw1 killed stellar  in round 12
+bangNA killed mojj  in round 12
+qRaxs killed Derrek  in round 12
+bangNA killed qw1  in round 12
+qRaxs killed bangNA  in round 12
+Round 12 ended with elimination. The winning team is Futbolist.
+The current score is Futbolist 4 - 8 100 Thieves.
+MrFaliN killed Asuna  in round 13
+Cryo killed mojj  in round 13
+qw1 killed stellar  in round 13
+Cryo killed ATA KAPTAN  in round 13
+qRaxs killed Derrek  in round 13
+qw1 killed Cryo  in round 13
+MrFaliN killed bangNA  in round 13
+Round 13 ended with spike_defuse. The winning team is Futbolist.
+The current score is Futbolist 5 - 8 100 Thieves.
+stellar killed mojj  in round 14
+qRaxs killed stellar  in round 14
+qRaxs killed bangNA  in round 14
+Asuna killed qRaxs  in round 14
+Cryo killed qw1  in round 14
+MrFaliN killed Asuna  in round 14
+MrFaliN killed Cryo  in round 14
+Round 14 ended with spike_defuse. The winning team is Futbolist.
+The current score is Futbolist 6 - 8 100 Thieves.
+Derrek killed MrFaliN  in round 15
+ATA KAPTAN killed Derrek  in round 15
+Cryo killed ATA KAPTAN  in round 15
+qw1 killed Asuna  in round 15
+mojj killed Cryo  in round 15
+stellar killed MrFaliN  in round 15
+bangNA killed qw1  in round 15
+mojj killed stellar  in round 15
+bangNA killed mojj  in round 15
+qRaxs killed Derrek  in round 15
+qRaxs killed bangNA  in round 15
+Round 15 ended with spike_defuse. The winning team is Futbolist.
+The current score is Futbolist 7 - 8 100 Thieves.
+bangNA killed mojj  in round 16
+MrFaliN killed Cryo  in round 16
+Asuna killed ATA KAPTAN  in round 16
+Cryo killed qRaxs  in round 16
+Cryo killed qw1  in round 16
+Cryo killed MrFaliN  in round 16
+Round 16 ended with elimination. The winning team is 100 Thieves.
+The current score is Futbolist 7 - 9 100 Thieves.
+mojj killed Cryo  in round 17
+qw1 killed bangNA  in round 17
+qw1 killed stellar  in round 17
+ATA KAPTAN killed Asuna  in round 17
+qw1 killed Derrek  in round 17
+Round 17 ended with elimination. The winning team is Futbolist.
+The current score is Futbolist 8 - 9 100 Thieves.
+bangNA killed mojj  in round 18
+bangNA killed qw1  in round 18
+ATA KAPTAN killed bangNA  in round 18
+MrFaliN killed Asuna  in round 18
+Derrek killed qw1  in round 18
+Derrek killed ATA KAPTAN  in round 18
+MrFaliN killed Derrek  in round 18
+Cryo killed MrFaliN  in round 18
+qRaxs killed Cryo  in round 18
+stellar killed qRaxs  in round 18
+Round 18 ended with elimination. The winning team is 100 Thieves.
+The current score is Futbolist 8 - 10 100 Thieves.
+qRaxs killed Asuna  in round 19
+Cryo killed qRaxs  in round 19
+bangNA killed MrFaliN  in round 19
+Derrek killed mojj  in round 19
+stellar killed ATA KAPTAN  in round 19
+qw1 killed bangNA  in round 19
+Round 19 ended with detonate. The winning team is 100 Thieves.
+The current score is Futbolist 8 - 11 100 Thieves.
+qw1 killed stellar  in round 20
+Cryo killed mojj  in round 20
+Asuna killed MrFaliN  in round 20
+Derrek killed ATA KAPTAN  in round 20
+Cryo killed qRaxs  in round 20
+Derrek killed qw1  in round 20
+Round 20 ended with elimination. The winning team is 100 Thieves.
+The current score is Futbolist 8 - 12 100 Thieves.
+bangNA killed qw1  in round 21
+Asuna killed mojj  in round 21
+Asuna killed MrFaliN  in round 21
+Derrek killed qRaxs  in round 21
+ATA KAPTAN killed bangNA  in round 21
+stellar killed ATA KAPTAN  in round 21
+Round 21 ended with elimination. The winning team is 100 Thieves.
+The current score is Futbolist 8 - 13 100 Thieves.
+Game ended with winning team: 100 Thieves at 2023-02-26T19:57:02Z
+
+--- Player Stats ---
+Asuna: Team=100 Thieves, Kills=15, Deaths=13, Assists=12, KDA=2.08, First Kills=1, First Deaths=4
+Cryo: Team=100 Thieves, Kills=20, Deaths=15, Assists=14, KDA=2.27, First Kills=2, First Deaths=2
+stellar: Team=100 Thieves, Kills=14, Deaths=13, Assists=3, KDA=1.31, First Kills=2, First Deaths=2
+Derrek: Team=100 Thieves, Kills=14, Deaths=13, Assists=12, KDA=2.0, First Kills=2, First Deaths=0
+bangNA: Team=100 Thieves, Kills=23, Deaths=15, Assists=9, KDA=2.13, First Kills=4, First Deaths=1
+mojj: Team=Futbolist, Kills=14, Deaths=19, Assists=5, KDA=1.0, First Kills=3, First Deaths=4
+ATA KAPTAN: Team=Futbolist, Kills=9, Deaths=17, Assists=13, KDA=1.29, First Kills=1, First Deaths=1
+MrFaliN: Team=Futbolist, Kills=12, Deaths=17, Assists=10, KDA=1.29, First Kills=1, First Deaths=3
+qw1: Team=Futbolist, Kills=16, Deaths=18, Assists=2, KDA=1.0, First Kills=3, First Deaths=3
+qRaxs: Team=Futbolist, Kills=19, Deaths=16, Assists=7, KDA=1.62, First Kills=2, First Deaths=1

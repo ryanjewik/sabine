@@ -1,0 +1,242 @@
+Team 1: DetonatioN FocusMe
+Team 2: T1
+Participating Players:
+Player 1: carpe
+Player 2: Sayaplayer
+Player 3: xeta
+Player 4: ban 
+Player 5: Munchkin
+Player 6: takej
+Player 7: Suggest
+Player 8: Seoldam
+Player 9: Anthem
+Player 10: xnfri
+Winning Team: T1
+Score: DetonatioN FocusMe 9 - 13 T1
+Tournament Name: vct pacific 2023
+Game Start Time: 2023-04-29T07:49:28Z
+Game End Time: 2023-04-29T08:58:18Z
+Rounds ended by ELIMINATION count: 11
+Rounds ended by DEFUSE count: 6
+Rounds ended by DETONATE count: 3
+SPIKE PLANTED count: 9
+platformGameId: val:33c68911-569d-4499-a560-2aa7a7aaeb27
+
+--- Events ---
+Game started at 2023-04-29T07:49:28Z
+xeta killed Seoldam  in round 1
+takej killed Sayaplayer  in round 1
+carpe killed takej  in round 1
+Munchkin killed Suggest  in round 1
+xnfri killed xeta  in round 1
+carpe killed xnfri  in round 1
+Anthem killed carpe  in round 1
+Munchkin killed Anthem  in round 1
+Round 1 ended with elimination. The winning team is T1.
+The current score is DetonatioN FocusMe 0 - 1 T1.
+Sayaplayer killed Seoldam  in round 2
+Munchkin killed xnfri  in round 2
+Munchkin killed takej  in round 2
+xeta killed Anthem  in round 2
+ban  killed Suggest  in round 2
+Round 2 ended with elimination. The winning team is T1.
+The current score is DetonatioN FocusMe 0 - 2 T1.
+takej killed Sayaplayer  in round 3
+carpe killed takej  in round 3
+Anthem killed carpe  in round 3
+xeta killed Anthem  in round 3
+ban  killed Seoldam  in round 3
+Munchkin killed Suggest  in round 3
+xeta killed xnfri  in round 3
+Round 3 ended with spike_defuse. The winning team is T1.
+The current score is DetonatioN FocusMe 0 - 3 T1.
+Anthem killed ban   in round 4
+Munchkin killed Seoldam  in round 4
+Munchkin killed Suggest  in round 4
+Munchkin killed Anthem  in round 4
+xnfri killed Munchkin  in round 4
+xeta killed xnfri  in round 4
+Round 4 ended with time_expired. The winning team is T1.
+The current score is DetonatioN FocusMe 0 - 4 T1.
+Sayaplayer killed Suggest  in round 5
+Sayaplayer killed takej  in round 5
+Seoldam killed xeta  in round 5
+Seoldam killed carpe  in round 5
+Munchkin killed Seoldam  in round 5
+xnfri killed Sayaplayer  in round 5
+Munchkin killed xnfri  in round 5
+ban  killed Anthem  in round 5
+Round 5 ended with spike_defuse. The winning team is T1.
+The current score is DetonatioN FocusMe 0 - 5 T1.
+Sayaplayer killed Suggest  in round 6
+Anthem killed Sayaplayer  in round 6
+xnfri killed carpe  in round 6
+Anthem killed Munchkin  in round 6
+xeta killed takej  in round 6
+xeta killed Seoldam  in round 6
+Anthem killed ban   in round 6
+Anthem killed xeta  in round 6
+Round 6 ended with elimination. The winning team is DetonatioN FocusMe.
+The current score is DetonatioN FocusMe 1 - 5 T1.
+Sayaplayer killed Seoldam  in round 7
+xeta killed takej  in round 7
+xnfri killed xeta  in round 7
+Suggest killed Sayaplayer  in round 7
+xnfri killed carpe  in round 7
+xnfri killed Munchkin  in round 7
+xnfri killed ban   in round 7
+Round 7 ended with elimination. The winning team is DetonatioN FocusMe.
+The current score is DetonatioN FocusMe 2 - 5 T1.
+Sayaplayer killed Seoldam  in round 8
+takej killed ban   in round 8
+Anthem killed Munchkin  in round 8
+carpe killed Anthem  in round 8
+xnfri killed carpe  in round 8
+Round 8 ended with detonate. The winning team is DetonatioN FocusMe.
+The current score is DetonatioN FocusMe 3 - 5 T1.
+Seoldam killed Munchkin  in round 9
+Munchkin killed xnfri  in round 9
+takej killed ban   in round 9
+Suggest killed carpe  in round 9
+Sayaplayer killed Suggest  in round 9
+Seoldam killed Sayaplayer  in round 9
+takej killed xeta  in round 9
+Round 9 ended with elimination. The winning team is DetonatioN FocusMe.
+The current score is DetonatioN FocusMe 4 - 5 T1.
+Anthem killed Anthem  in round 10
+Seoldam killed Seoldam  in round 10
+xeta killed xnfri  in round 10
+xeta killed Anthem  in round 10
+Suggest killed xeta  in round 10
+Suggest killed carpe  in round 10
+takej killed Munchkin  in round 10
+Sayaplayer killed Seoldam  in round 10
+takej killed Sayaplayer  in round 10
+ban  killed takej  in round 10
+Suggest killed ban   in round 10
+Round 10 ended with elimination. The winning team is DetonatioN FocusMe.
+The current score is DetonatioN FocusMe 5 - 5 T1.
+Sayaplayer killed Seoldam  in round 11
+Anthem killed Sayaplayer  in round 11
+takej killed Munchkin  in round 11
+takej killed carpe  in round 11
+xeta killed takej  in round 11
+xeta killed Anthem  in round 11
+ban  killed xnfri  in round 11
+ban  killed Suggest  in round 11
+Round 11 ended with spike_defuse. The winning team is T1.
+The current score is DetonatioN FocusMe 5 - 6 T1.
+xeta killed takej  in round 12
+xeta killed Anthem  in round 12
+xeta killed Seoldam  in round 12
+ban  killed Suggest  in round 12
+xnfri killed ban   in round 12
+Munchkin killed xnfri  in round 12
+Round 12 ended with spike_defuse. The winning team is T1.
+The current score is DetonatioN FocusMe 5 - 7 T1.
+Sayaplayer killed Suggest  in round 13
+ban  killed xnfri  in round 13
+Anthem killed Sayaplayer  in round 13
+Seoldam killed ban   in round 13
+Seoldam killed carpe  in round 13
+Munchkin killed Seoldam  in round 13
+Anthem killed Munchkin  in round 13
+Anthem killed xeta  in round 13
+Round 13 ended with elimination. The winning team is DetonatioN FocusMe.
+The current score is DetonatioN FocusMe 6 - 7 T1.
+takej killed Sayaplayer  in round 14
+Munchkin killed Seoldam  in round 14
+Munchkin killed xnfri  in round 14
+carpe killed Suggest  in round 14
+takej killed Munchkin  in round 14
+ban  killed takej  in round 14
+Anthem killed ban   in round 14
+carpe killed Anthem  in round 14
+Round 14 ended with elimination. The winning team is T1.
+The current score is DetonatioN FocusMe 6 - 8 T1.
+Sayaplayer killed takej  in round 15
+Round 15 ended with detonate. The winning team is T1.
+The current score is DetonatioN FocusMe 6 - 9 T1.
+Anthem killed Anthem  in round 16
+Seoldam killed Seoldam  in round 16
+xnfri killed xnfri  in round 16
+Suggest killed Suggest  in round 16
+takej killed xeta  in round 16
+Suggest killed ban   in round 16
+Munchkin killed takej  in round 16
+takej killed Munchkin  in round 16
+Anthem killed carpe  in round 16
+Sayaplayer killed xnfri  in round 16
+Sayaplayer killed Suggest  in round 16
+Anthem killed Sayaplayer  in round 16
+Round 16 ended with spike_defuse. The winning team is DetonatioN FocusMe.
+The current score is DetonatioN FocusMe 7 - 9 T1.
+xnfri killed Munchkin  in round 17
+Sayaplayer killed takej  in round 17
+Suggest killed xeta  in round 17
+Suggest killed Sayaplayer  in round 17
+ban  killed Suggest  in round 17
+carpe killed Anthem  in round 17
+ban  killed xnfri  in round 17
+Seoldam killed ban   in round 17
+carpe killed Seoldam  in round 17
+Round 17 ended with elimination. The winning team is T1.
+The current score is DetonatioN FocusMe 7 - 10 T1.
+Seoldam killed Sayaplayer  in round 18
+xeta killed Seoldam  in round 18
+ban  killed Suggest  in round 18
+Munchkin killed takej  in round 18
+ban  killed xnfri  in round 18
+ban  killed Anthem  in round 18
+Round 18 ended with elimination. The winning team is T1.
+The current score is DetonatioN FocusMe 7 - 11 T1.
+Seoldam killed Sayaplayer  in round 19
+xeta killed takej  in round 19
+xeta killed Anthem  in round 19
+xnfri killed xeta  in round 19
+carpe killed Seoldam  in round 19
+Suggest killed ban   in round 19
+carpe killed xnfri  in round 19
+Round 19 ended with detonate. The winning team is T1.
+The current score is DetonatioN FocusMe 7 - 12 T1.
+ban  killed Seoldam  in round 20
+Suggest killed ban   in round 20
+takej killed Sayaplayer  in round 20
+Anthem killed carpe  in round 20
+Munchkin killed xnfri  in round 20
+xeta killed Suggest  in round 20
+takej killed xeta  in round 20
+takej killed Munchkin  in round 20
+Round 20 ended with spike_defuse. The winning team is DetonatioN FocusMe.
+The current score is DetonatioN FocusMe 8 - 12 T1.
+Sayaplayer killed xnfri  in round 21
+Sayaplayer killed Seoldam  in round 21
+Anthem killed xeta  in round 21
+Anthem killed carpe  in round 21
+Anthem killed Sayaplayer  in round 21
+Suggest killed ban   in round 21
+Round 21 ended with time_expired. The winning team is DetonatioN FocusMe.
+The current score is DetonatioN FocusMe 9 - 12 T1.
+carpe killed Seoldam  in round 22
+Suggest killed Sayaplayer  in round 22
+ban  killed Suggest  in round 22
+xnfri killed carpe  in round 22
+xeta killed Anthem  in round 22
+xnfri killed Munchkin  in round 22
+ban  killed takej  in round 22
+ban  killed xnfri  in round 22
+Round 22 ended with elimination. The winning team is T1.
+The current score is DetonatioN FocusMe 9 - 13 T1.
+Game ended with winning team: T1 at 2023-04-29T08:58:18Z
+
+--- Player Stats ---
+carpe: Team=T1, Kills=11, Deaths=14, Assists=8, KDA=1.36, First Kills=1, First Deaths=0
+Sayaplayer: Team=T1, Kills=16, Deaths=17, Assists=4, KDA=1.18, First Kills=9, First Deaths=4
+xeta: Team=T1, Kills=20, Deaths=12, Assists=7, KDA=2.25, First Kills=2, First Deaths=0
+ban : Team=T1, Kills=18, Deaths=14, Assists=12, KDA=2.14, First Kills=1, First Deaths=1
+Munchkin: Team=T1, Kills=18, Deaths=13, Assists=4, KDA=1.69, First Kills=0, First Deaths=2
+takej: Team=DetonatioN FocusMe, Kills=16, Deaths=16, Assists=6, KDA=1.38, First Kills=2, First Deaths=2
+Suggest: Team=DetonatioN FocusMe, Kills=13, Deaths=17, Assists=3, KDA=0.94, First Kills=0, First Deaths=3
+Seoldam: Team=DetonatioN FocusMe, Kills=11, Deaths=21, Assists=3, KDA=0.67, First Kills=3, First Deaths=7
+Anthem: Team=DetonatioN FocusMe, Kills=21, Deaths=16, Assists=6, KDA=1.69, First Kills=3, First Deaths=2
+xnfri: Team=DetonatioN FocusMe, Kills=15, Deaths=19, Assists=4, KDA=1.0, First Kills=1, First Deaths=1

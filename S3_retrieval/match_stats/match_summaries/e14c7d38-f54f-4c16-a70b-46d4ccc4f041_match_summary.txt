@@ -1,0 +1,248 @@
+Team 1: NAVI
+Team 2: Giants
+Participating Players:
+Player 1: Fit1nho
+Player 2: nukkye
+Player 3: rhyme
+Player 4: Cloud
+Player 5: hoody
+Player 6: Zyppan
+Player 7: cNed
+Player 8: ANGE1
+Player 9: Shao
+Player 10: suygetsu
+Winning Team: NAVI
+Score: NAVI 13 - 9 Giants
+Tournament Name: vct emea 2023
+Game Start Time: 2023-05-25T20:46:12Z
+Game End Time: 2023-05-25T21:39:42Z
+Rounds ended by ELIMINATION count: 14
+Rounds ended by DEFUSE count: 7
+Rounds ended by DETONATE count: 0
+SPIKE PLANTED count: 7
+platformGameId: val:e14c7d38-f54f-4c16-a70b-46d4ccc4f041
+
+--- Events ---
+Game started at 2023-05-25T20:46:12Z
+Fit1nho killed Zyppan  in round 1
+ANGE1 killed Cloud  in round 1
+rhyme killed cNed  in round 1
+Fit1nho killed ANGE1  in round 1
+nukkye killed suygetsu  in round 1
+Shao killed nukkye  in round 1
+Shao killed hoody  in round 1
+rhyme killed Shao  in round 1
+Round 1 ended with spike_defuse. The winning team is Giants.
+The current score is NAVI 0 - 1 Giants.
+suygetsu killed hoody  in round 2
+ANGE1 killed Fit1nho  in round 2
+cNed killed Cloud  in round 2
+rhyme killed ANGE1  in round 2
+nukkye killed Zyppan  in round 2
+Shao killed nukkye  in round 2
+suygetsu killed rhyme  in round 2
+Round 2 ended with elimination. The winning team is NAVI.
+The current score is NAVI 1 - 1 Giants.
+Zyppan killed Fit1nho  in round 3
+ANGE1 killed hoody  in round 3
+nukkye killed Zyppan  in round 3
+nukkye killed cNed  in round 3
+nukkye killed suygetsu  in round 3
+nukkye killed ANGE1  in round 3
+Shao killed nukkye  in round 3
+Cloud killed Shao  in round 3
+Round 3 ended with elimination. The winning team is Giants.
+The current score is NAVI 1 - 2 Giants.
+Cloud killed suygetsu  in round 4
+Shao killed Cloud  in round 4
+Zyppan killed rhyme  in round 4
+hoody killed Shao  in round 4
+Zyppan killed hoody  in round 4
+nukkye killed Zyppan  in round 4
+ANGE1 killed nukkye  in round 4
+Fit1nho killed ANGE1  in round 4
+ANGE1 killed Fit1nho  in round 4
+Round 4 ended with elimination. The winning team is NAVI.
+The current score is NAVI 2 - 2 Giants.
+Cloud killed Shao  in round 5
+Zyppan killed Cloud  in round 5
+rhyme killed cNed  in round 5
+suygetsu killed rhyme  in round 5
+Zyppan killed nukkye  in round 5
+hoody killed Zyppan  in round 5
+suygetsu killed Fit1nho  in round 5
+hoody killed ANGE1  in round 5
+suygetsu killed hoody  in round 5
+Round 5 ended with elimination. The winning team is NAVI.
+The current score is NAVI 3 - 2 Giants.
+ANGE1 killed nukkye  in round 6
+rhyme killed ANGE1  in round 6
+Zyppan killed rhyme  in round 6
+suygetsu killed hoody  in round 6
+cNed killed Cloud  in round 6
+cNed killed Fit1nho  in round 6
+Round 6 ended with elimination. The winning team is NAVI.
+The current score is NAVI 4 - 2 Giants.
+Zyppan killed Cloud  in round 7
+suygetsu killed Fit1nho  in round 7
+nukkye killed ANGE1  in round 7
+nukkye killed Zyppan  in round 7
+nukkye killed cNed  in round 7
+suygetsu killed nukkye  in round 7
+hoody killed Shao  in round 7
+hoody killed suygetsu  in round 7
+Round 7 ended with elimination. The winning team is Giants.
+The current score is NAVI 4 - 3 Giants.
+hoody killed cNed  in round 8
+Cloud killed Zyppan  in round 8
+Shao killed Cloud  in round 8
+nukkye killed ANGE1  in round 8
+Shao killed nukkye  in round 8
+rhyme killed Shao  in round 8
+hoody killed suygetsu  in round 8
+Round 8 ended with spike_defuse. The winning team is Giants.
+The current score is NAVI 4 - 4 Giants.
+rhyme killed cNed  in round 9
+Fit1nho killed suygetsu  in round 9
+ANGE1 killed hoody  in round 9
+nukkye killed Zyppan  in round 9
+nukkye killed ANGE1  in round 9
+Shao killed Cloud  in round 9
+Round 9 ended with time_expired. The winning team is Giants.
+The current score is NAVI 4 - 5 Giants.
+ANGE1 killed Fit1nho  in round 10
+ANGE1 killed hoody  in round 10
+Cloud killed Zyppan  in round 10
+suygetsu killed Cloud  in round 10
+rhyme killed cNed  in round 10
+ANGE1 killed rhyme  in round 10
+nukkye killed nukkye  in round 10
+Round 10 ended with elimination. The winning team is NAVI.
+The current score is NAVI 5 - 5 Giants.
+Cloud killed Shao  in round 11
+nukkye killed cNed  in round 11
+suygetsu killed hoody  in round 11
+Cloud killed Zyppan  in round 11
+rhyme killed ANGE1  in round 11
+Fit1nho killed suygetsu  in round 11
+Round 11 ended with elimination. The winning team is Giants.
+The current score is NAVI 5 - 6 Giants.
+suygetsu killed hoody  in round 12
+Fit1nho killed ANGE1  in round 12
+cNed killed nukkye  in round 12
+cNed killed rhyme  in round 12
+Cloud killed suygetsu  in round 12
+Fit1nho killed cNed  in round 12
+Zyppan killed Fit1nho  in round 12
+Zyppan killed Cloud  in round 12
+Round 12 ended with elimination. The winning team is NAVI.
+The current score is NAVI 6 - 6 Giants.
+hoody killed cNed  in round 13
+Fit1nho killed ANGE1  in round 13
+Shao killed Fit1nho  in round 13
+Shao killed rhyme  in round 13
+Shao killed Cloud  in round 13
+suygetsu killed nukkye  in round 13
+Shao killed hoody  in round 13
+Round 13 ended with spike_defuse. The winning team is NAVI.
+The current score is NAVI 7 - 6 Giants.
+Cloud killed cNed  in round 14
+Zyppan killed Fit1nho  in round 14
+Zyppan killed rhyme  in round 14
+Cloud killed suygetsu  in round 14
+Shao killed Cloud  in round 14
+hoody killed ANGE1  in round 14
+nukkye killed Zyppan  in round 14
+Shao killed hoody  in round 14
+nukkye killed Shao  in round 14
+Round 14 ended with elimination. The winning team is Giants.
+The current score is NAVI 7 - 7 Giants.
+suygetsu killed rhyme  in round 15
+cNed killed Cloud  in round 15
+Fit1nho killed cNed  in round 15
+suygetsu killed hoody  in round 15
+Fit1nho killed suygetsu  in round 15
+Fit1nho killed ANGE1  in round 15
+Fit1nho killed Shao  in round 15
+Zyppan killed Fit1nho  in round 15
+nukkye killed Zyppan  in round 15
+Round 15 ended with elimination. The winning team is Giants.
+The current score is NAVI 7 - 8 Giants.
+nukkye killed nukkye  in round 16
+hoody killed ANGE1  in round 16
+suygetsu killed rhyme  in round 16
+suygetsu killed hoody  in round 16
+Fit1nho killed suygetsu  in round 16
+Zyppan killed Fit1nho  in round 16
+Cloud killed Zyppan  in round 16
+nukkye killed cNed  in round 16
+Shao killed nukkye  in round 16
+Shao killed Cloud  in round 16
+Round 16 ended with spike_defuse. The winning team is NAVI.
+The current score is NAVI 8 - 8 Giants.
+suygetsu killed Fit1nho  in round 17
+suygetsu killed Cloud  in round 17
+hoody killed ANGE1  in round 17
+suygetsu killed nukkye  in round 17
+suygetsu killed hoody  in round 17
+suygetsu killed rhyme  in round 17
+Round 17 ended with spike_defuse. The winning team is NAVI.
+The current score is NAVI 9 - 8 Giants.
+suygetsu killed Fit1nho  in round 18
+Cloud killed Zyppan  in round 18
+hoody killed suygetsu  in round 18
+ANGE1 killed hoody  in round 18
+cNed killed rhyme  in round 18
+nukkye killed cNed  in round 18
+ANGE1 killed nukkye  in round 18
+ANGE1 killed Cloud  in round 18
+Round 18 ended with spike_defuse. The winning team is NAVI.
+The current score is NAVI 10 - 8 Giants.
+Zyppan killed Fit1nho  in round 19
+rhyme killed Zyppan  in round 19
+rhyme killed ANGE1  in round 19
+Shao killed Cloud  in round 19
+Shao killed rhyme  in round 19
+Shao killed nukkye  in round 19
+cNed killed hoody  in round 19
+Round 19 ended with elimination. The winning team is NAVI.
+The current score is NAVI 11 - 8 Giants.
+cNed killed rhyme  in round 20
+nukkye killed Zyppan  in round 20
+hoody killed Shao  in round 20
+ANGE1 killed Fit1nho  in round 20
+nukkye killed ANGE1  in round 20
+cNed killed Cloud  in round 20
+cNed killed nukkye  in round 20
+hoody killed suygetsu  in round 20
+hoody killed cNed  in round 20
+Round 20 ended with elimination. The winning team is Giants.
+The current score is NAVI 11 - 9 Giants.
+hoody killed hoody  in round 21
+cNed killed Fit1nho  in round 21
+suygetsu killed rhyme  in round 21
+Zyppan killed hoody  in round 21
+cNed killed Cloud  in round 21
+Zyppan killed nukkye  in round 21
+Round 21 ended with spike_defuse. The winning team is NAVI.
+The current score is NAVI 12 - 9 Giants.
+ANGE1 killed Cloud  in round 22
+cNed killed hoody  in round 22
+cNed killed nukkye  in round 22
+cNed killed Fit1nho  in round 22
+ANGE1 killed rhyme  in round 22
+Round 22 ended with elimination. The winning team is NAVI.
+The current score is NAVI 13 - 9 Giants.
+Game ended with winning team: NAVI at 2023-05-25T21:39:42Z
+
+--- Player Stats ---
+Fit1nho: Team=Giants, Kills=13, Deaths=18, Assists=6, KDA=1.06, First Kills=1, First Deaths=5
+nukkye: Team=Giants, Kills=23, Deaths=19, Assists=3, KDA=1.37, First Kills=1, First Deaths=2
+rhyme: Team=Giants, Kills=11, Deaths=16, Assists=6, KDA=1.06, First Kills=1, First Deaths=2
+Cloud: Team=Giants, Kills=12, Deaths=20, Assists=2, KDA=0.7, First Kills=4, First Deaths=2
+hoody: Team=Giants, Kills=16, Deaths=20, Assists=12, KDA=1.4, First Kills=3, First Deaths=3
+Zyppan: Team=NAVI, Kills=16, Deaths=16, Assists=16, KDA=2.0, First Kills=3, First Deaths=1
+cNed: Team=NAVI, Kills=16, Deaths=15, Assists=3, KDA=1.27, First Kills=1, First Deaths=4
+ANGE1: Team=NAVI, Kills=16, Deaths=18, Assists=8, KDA=1.33, First Kills=3, First Deaths=0
+Shao: Team=NAVI, Kills=19, Deaths=10, Assists=6, KDA=2.5, First Kills=0, First Deaths=2
+suygetsu: Team=NAVI, Kills=23, Deaths=13, Assists=1, KDA=1.85, First Kills=5, First Deaths=1

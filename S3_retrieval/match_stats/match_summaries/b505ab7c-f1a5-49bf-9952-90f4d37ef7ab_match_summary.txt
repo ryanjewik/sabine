@@ -1,0 +1,247 @@
+Team 1: ZETA DIVISION
+Team 2: Leviatán Esports
+Participating Players:
+Player 1: Mazino
+Player 2: Nozwer
+Player 3: kiNgg
+Player 4: Shyy
+Player 5: Tacolilla
+Player 6: Dep
+Player 7: crow 
+Player 8: SugarZ3ro
+Player 9: TENNN
+Player 10: Laz
+Winning Team: Leviatán Esports
+Score: ZETA DIVISION 11 - 13 Leviatán Esports
+Tournament Name: lock in brazil 2023
+Game Start Time: 2023-02-22T22:47:06Z
+Game End Time: 2023-02-22T23:45:18Z
+Rounds ended by ELIMINATION count: 15
+Rounds ended by DEFUSE count: 2
+Rounds ended by DETONATE count: 4
+SPIKE PLANTED count: 6
+platformGameId: val:b505ab7c-f1a5-49bf-9952-90f4d37ef7ab
+
+--- Events ---
+Game started at 2023-02-22T22:47:06Z
+crow  killed Tacolilla  in round 1
+Mazino killed crow   in round 1
+Mazino killed Dep  in round 1
+Laz killed Mazino  in round 1
+Nozwer killed Laz  in round 1
+Shyy killed SugarZ3ro  in round 1
+Shyy killed TENNN  in round 1
+Round 1 ended with elimination. The winning team is Leviatán Esports.
+The current score is ZETA DIVISION 0 - 1 Leviatán Esports.
+Nozwer killed Dep  in round 2
+Mazino killed TENNN  in round 2
+Mazino killed crow   in round 2
+Shyy killed Laz  in round 2
+SugarZ3ro killed Nozwer  in round 2
+kiNgg killed SugarZ3ro  in round 2
+Round 2 ended with elimination. The winning team is Leviatán Esports.
+The current score is ZETA DIVISION 0 - 2 Leviatán Esports.
+Dep killed Tacolilla  in round 3
+Dep killed Nozwer  in round 3
+kiNgg killed Dep  in round 3
+TENNN killed Shyy  in round 3
+Laz killed kiNgg  in round 3
+Mazino killed TENNN  in round 3
+Mazino killed crow   in round 3
+Laz killed Mazino  in round 3
+Round 3 ended with elimination. The winning team is ZETA DIVISION.
+The current score is ZETA DIVISION 1 - 2 Leviatán Esports.
+kiNgg killed TENNN  in round 4
+Dep killed kiNgg  in round 4
+Dep killed Shyy  in round 4
+Dep killed Mazino  in round 4
+Round 4 ended with detonate. The winning team is ZETA DIVISION.
+The current score is ZETA DIVISION 2 - 2 Leviatán Esports.
+Laz killed Nozwer  in round 5
+Nozwer killed TENNN  in round 5
+Dep killed Nozwer  in round 5
+Shyy killed Dep  in round 5
+Mazino killed Laz  in round 5
+Shyy killed crow   in round 5
+SugarZ3ro killed Mazino  in round 5
+Shyy killed SugarZ3ro  in round 5
+Round 5 ended with elimination. The winning team is Leviatán Esports.
+The current score is ZETA DIVISION 2 - 3 Leviatán Esports.
+kiNgg killed SugarZ3ro  in round 6
+Tacolilla killed TENNN  in round 6
+Round 6 ended with time_expired. The winning team is Leviatán Esports.
+The current score is ZETA DIVISION 2 - 4 Leviatán Esports.
+Laz killed Tacolilla  in round 7
+TENNN killed Shyy  in round 7
+Dep killed kiNgg  in round 7
+Nozwer killed TENNN  in round 7
+Dep killed Nozwer  in round 7
+Mazino killed Laz  in round 7
+Round 7 ended with detonate. The winning team is ZETA DIVISION.
+The current score is ZETA DIVISION 3 - 4 Leviatán Esports.
+Dep killed Mazino  in round 8
+Shyy killed Dep  in round 8
+SugarZ3ro killed Tacolilla  in round 8
+kiNgg killed SugarZ3ro  in round 8
+Laz killed Nozwer  in round 8
+kiNgg killed crow   in round 8
+Laz killed Shyy  in round 8
+kiNgg killed Laz  in round 8
+TENNN killed kiNgg  in round 8
+Round 8 ended with elimination. The winning team is ZETA DIVISION.
+The current score is ZETA DIVISION 4 - 4 Leviatán Esports.
+Shyy killed Dep  in round 9
+Shyy killed TENNN  in round 9
+SugarZ3ro killed Nozwer  in round 9
+crow  killed Mazino  in round 9
+Shyy killed crow   in round 9
+SugarZ3ro killed Shyy  in round 9
+Laz killed Tacolilla  in round 9
+kiNgg killed Laz  in round 9
+SugarZ3ro killed kiNgg  in round 9
+Round 9 ended with elimination. The winning team is ZETA DIVISION.
+The current score is ZETA DIVISION 5 - 4 Leviatán Esports.
+Dep killed Tacolilla  in round 10
+Dep killed Mazino  in round 10
+SugarZ3ro killed Shyy  in round 10
+Dep killed Nozwer  in round 10
+Laz killed kiNgg  in round 10
+Round 10 ended with elimination. The winning team is ZETA DIVISION.
+The current score is ZETA DIVISION 6 - 4 Leviatán Esports.
+kiNgg killed Laz  in round 11
+Mazino killed TENNN  in round 11
+crow  killed Mazino  in round 11
+Shyy killed SugarZ3ro  in round 11
+Round 11 ended with time_expired. The winning team is Leviatán Esports.
+The current score is ZETA DIVISION 6 - 5 Leviatán Esports.
+Shyy killed crow   in round 12
+Shyy killed TENNN  in round 12
+Tacolilla killed crow   in round 12
+Mazino killed Dep  in round 12
+SugarZ3ro killed Shyy  in round 12
+Mazino killed SugarZ3ro  in round 12
+Laz killed Mazino  in round 12
+Tacolilla killed Laz  in round 12
+Round 12 ended with spike_defuse. The winning team is Leviatán Esports.
+The current score is ZETA DIVISION 6 - 6 Leviatán Esports.
+Mazino killed crow   in round 13
+Mazino killed Dep  in round 13
+SugarZ3ro killed Tacolilla  in round 13
+Shyy killed SugarZ3ro  in round 13
+Laz killed Nozwer  in round 13
+Shyy killed Laz  in round 13
+Mazino killed TENNN  in round 13
+Round 13 ended with elimination. The winning team is Leviatán Esports.
+The current score is ZETA DIVISION 6 - 7 Leviatán Esports.
+Round 14 ended with detonate. The winning team is Leviatán Esports.
+The current score is ZETA DIVISION 6 - 8 Leviatán Esports.
+Dep killed Dep  in round 15
+crow  killed crow   in round 15
+Laz killed Laz  in round 15
+TENNN killed TENNN  in round 15
+SugarZ3ro killed SugarZ3ro  in round 15
+Mazino killed Dep  in round 15
+Nozwer killed TENNN  in round 15
+Tacolilla killed SugarZ3ro  in round 15
+Mazino killed crow   in round 15
+Laz killed Shyy  in round 15
+Laz killed Tacolilla  in round 15
+Mazino killed Laz  in round 15
+Round 15 ended with elimination. The winning team is Leviatán Esports.
+The current score is ZETA DIVISION 6 - 9 Leviatán Esports.
+Tacolilla killed Dep  in round 16
+kiNgg killed TENNN  in round 16
+kiNgg killed SugarZ3ro  in round 16
+kiNgg killed Laz  in round 16
+kiNgg killed crow   in round 16
+Round 16 ended with elimination. The winning team is Leviatán Esports.
+The current score is ZETA DIVISION 6 - 10 Leviatán Esports.
+Nozwer killed TENNN  in round 17
+Nozwer killed Dep  in round 17
+SugarZ3ro killed Shyy  in round 17
+SugarZ3ro killed Mazino  in round 17
+Tacolilla killed crow   in round 17
+kiNgg killed SugarZ3ro  in round 17
+Round 17 ended with detonate. The winning team is Leviatán Esports.
+The current score is ZETA DIVISION 6 - 11 Leviatán Esports.
+TENNN killed Mazino  in round 18
+TENNN killed kiNgg  in round 18
+TENNN killed Tacolilla  in round 18
+Shyy killed SugarZ3ro  in round 18
+Shyy killed TENNN  in round 18
+Laz killed Shyy  in round 18
+crow  killed Nozwer  in round 18
+Round 18 ended with elimination. The winning team is ZETA DIVISION.
+The current score is ZETA DIVISION 7 - 11 Leviatán Esports.
+Tacolilla killed TENNN  in round 19
+Tacolilla killed Laz  in round 19
+crow  killed kiNgg  in round 19
+crow  killed Tacolilla  in round 19
+Nozwer killed Dep  in round 19
+SugarZ3ro killed Nozwer  in round 19
+crow  killed Mazino  in round 19
+Round 19 ended with time_expired. The winning team is ZETA DIVISION.
+The current score is ZETA DIVISION 8 - 11 Leviatán Esports.
+Shyy killed crow   in round 20
+kiNgg killed crow   in round 20
+SugarZ3ro killed Nozwer  in round 20
+SugarZ3ro killed Tacolilla  in round 20
+TENNN killed Mazino  in round 20
+Shyy killed SugarZ3ro  in round 20
+Dep killed Shyy  in round 20
+kiNgg killed Dep  in round 20
+TENNN killed kiNgg  in round 20
+Round 20 ended with elimination. The winning team is ZETA DIVISION.
+The current score is ZETA DIVISION 9 - 11 Leviatán Esports.
+crow  killed Mazino  in round 21
+Laz killed Tacolilla  in round 21
+Nozwer killed crow   in round 21
+TENNN killed Shyy  in round 21
+kiNgg killed TENNN  in round 21
+Laz killed kiNgg  in round 21
+Nozwer killed SugarZ3ro  in round 21
+Dep killed Nozwer  in round 21
+Round 21 ended with spike_defuse. The winning team is ZETA DIVISION.
+The current score is ZETA DIVISION 10 - 11 Leviatán Esports.
+Tacolilla killed TENNN  in round 22
+Dep killed Tacolilla  in round 22
+Nozwer killed Dep  in round 22
+SugarZ3ro killed Shyy  in round 22
+Laz killed Nozwer  in round 22
+Mazino killed crow   in round 22
+Mazino killed Laz  in round 22
+kiNgg killed SugarZ3ro  in round 22
+Round 22 ended with elimination. The winning team is Leviatán Esports.
+The current score is ZETA DIVISION 10 - 12 Leviatán Esports.
+Mazino killed Mazino  in round 23
+Tacolilla killed Dep  in round 23
+crow  killed Tacolilla  in round 23
+crow  killed Mazino  in round 23
+kiNgg killed crow   in round 23
+SugarZ3ro killed Nozwer  in round 23
+Laz killed kiNgg  in round 23
+SugarZ3ro killed Shyy  in round 23
+Round 23 ended with elimination. The winning team is ZETA DIVISION.
+The current score is ZETA DIVISION 11 - 12 Leviatán Esports.
+Nozwer killed Dep  in round 24
+Mazino killed Laz  in round 24
+Mazino killed TENNN  in round 24
+crow  killed Tacolilla  in round 24
+crow  killed Mazino  in round 24
+kiNgg killed SugarZ3ro  in round 24
+Shyy killed crow   in round 24
+Round 24 ended with elimination. The winning team is Leviatán Esports.
+The current score is ZETA DIVISION 11 - 13 Leviatán Esports.
+Game ended with winning team: Leviatán Esports at 2023-02-22T23:45:18Z
+
+--- Player Stats ---
+Mazino: Team=Leviatán Esports, Kills=22, Deaths=17, Assists=10, KDA=1.88, First Kills=2, First Deaths=4
+Nozwer: Team=Leviatán Esports, Kills=12, Deaths=15, Assists=10, KDA=1.47, First Kills=3, First Deaths=1
+kiNgg: Team=Leviatán Esports, Kills=20, Deaths=11, Assists=8, KDA=2.55, First Kills=3, First Deaths=0
+Shyy: Team=Leviatán Esports, Kills=20, Deaths=14, Assists=3, KDA=1.64, First Kills=3, First Deaths=0
+Tacolilla: Team=Leviatán Esports, Kills=10, Deaths=15, Assists=3, KDA=0.87, First Kills=3, First Deaths=4
+Dep: Team=ZETA DIVISION, Kills=16, Deaths=17, Assists=4, KDA=1.18, First Kills=4, First Deaths=5
+crow : Team=ZETA DIVISION, Kills=13, Deaths=19, Assists=13, KDA=1.37, First Kills=2, First Deaths=3
+SugarZ3ro: Team=ZETA DIVISION, Kills=18, Deaths=17, Assists=6, KDA=1.41, First Kills=0, First Deaths=1
+TENNN: Team=ZETA DIVISION, Kills=10, Deaths=20, Assists=3, KDA=0.65, First Kills=1, First Deaths=4
+Laz: Team=ZETA DIVISION, Kills=19, Deaths=15, Assists=4, KDA=1.53, First Kills=2, First Deaths=1

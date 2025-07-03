@@ -1,0 +1,188 @@
+Team 1: Giants
+Team 2: Karmine Corp
+Participating Players:
+Player 1: Shin 
+Player 2: Tomaszy
+Player 3: MAGNUM
+Player 4: marteen
+Player 5: N4RRATE
+Player 6: Fit1nho
+Player 7: nukkye
+Player 8: Redgar
+Player 9: Cloud
+Player 10: hoody
+Winning Team: Karmine Corp
+Score: Giants 4 - 13 Karmine Corp
+Tournament Name: vct emea kickoff 2024
+Game Start Time: 2024-02-20T20:49:45Z
+Game End Time: 2024-02-20T21:30:38Z
+Rounds ended by ELIMINATION count: 11
+Rounds ended by DEFUSE count: 5
+Rounds ended by DETONATE count: 1
+SPIKE PLANTED count: 6
+platformGameId: val:ab303b78-5058-400b-b83f-e10713a3234b
+
+--- Events ---
+Game started at 2024-02-20T20:49:45Z
+Fit1nho killed marteen  in round 1
+Tomaszy killed Cloud  in round 1
+nukkye killed Tomaszy  in round 1
+N4RRATE killed nukkye  in round 1
+MAGNUM killed hoody  in round 1
+Shin  killed Redgar  in round 1
+N4RRATE killed Fit1nho  in round 1
+Round 1 ended with spike_defuse. The winning team is Karmine Corp.
+The current score is Giants 0 - 1 Karmine Corp.
+Tomaszy killed hoody  in round 2
+marteen killed Cloud  in round 2
+MAGNUM killed Fit1nho  in round 2
+Tomaszy killed nukkye  in round 2
+marteen killed Redgar  in round 2
+Round 2 ended with elimination. The winning team is Karmine Corp.
+The current score is Giants 0 - 2 Karmine Corp.
+Tomaszy killed hoody  in round 3
+Redgar killed Shin   in round 3
+MAGNUM killed Cloud  in round 3
+N4RRATE killed Redgar  in round 3
+Tomaszy killed Fit1nho  in round 3
+MAGNUM killed nukkye  in round 3
+Round 3 ended with elimination. The winning team is Karmine Corp.
+The current score is Giants 0 - 3 Karmine Corp.
+Redgar killed Tomaszy  in round 4
+MAGNUM killed Redgar  in round 4
+Fit1nho killed marteen  in round 4
+MAGNUM killed Fit1nho  in round 4
+N4RRATE killed Cloud  in round 4
+MAGNUM killed nukkye  in round 4
+MAGNUM killed hoody  in round 4
+Round 4 ended with elimination. The winning team is Karmine Corp.
+The current score is Giants 0 - 4 Karmine Corp.
+Tomaszy killed hoody  in round 5
+Tomaszy killed Cloud  in round 5
+Redgar killed Tomaszy  in round 5
+MAGNUM killed Redgar  in round 5
+Fit1nho killed marteen  in round 5
+MAGNUM killed nukkye  in round 5
+Fit1nho killed MAGNUM  in round 5
+Shin  killed Fit1nho  in round 5
+Round 5 ended with spike_defuse. The winning team is Karmine Corp.
+The current score is Giants 0 - 5 Karmine Corp.
+marteen killed hoody  in round 6
+marteen killed Redgar  in round 6
+Cloud killed marteen  in round 6
+MAGNUM killed Fit1nho  in round 6
+N4RRATE killed Cloud  in round 6
+nukkye killed N4RRATE  in round 6
+Tomaszy killed nukkye  in round 6
+Round 6 ended with elimination. The winning team is Karmine Corp.
+The current score is Giants 0 - 6 Karmine Corp.
+MAGNUM killed hoody  in round 7
+N4RRATE killed Redgar  in round 7
+N4RRATE killed Fit1nho  in round 7
+Tomaszy killed Cloud  in round 7
+nukkye killed marteen  in round 7
+Shin  killed nukkye  in round 7
+Round 7 ended with spike_defuse. The winning team is Karmine Corp.
+The current score is Giants 0 - 7 Karmine Corp.
+Shin  killed Redgar  in round 8
+hoody killed Tomaszy  in round 8
+Cloud killed Shin   in round 8
+Fit1nho killed marteen  in round 8
+hoody killed N4RRATE  in round 8
+MAGNUM killed hoody  in round 8
+nukkye killed MAGNUM  in round 8
+Round 8 ended with elimination. The winning team is Giants.
+The current score is Giants 1 - 7 Karmine Corp.
+MAGNUM killed Fit1nho  in round 9
+nukkye killed MAGNUM  in round 9
+marteen killed hoody  in round 9
+N4RRATE killed Cloud  in round 9
+Redgar killed N4RRATE  in round 9
+marteen killed nukkye  in round 9
+marteen killed Redgar  in round 9
+Round 9 ended with spike_defuse. The winning team is Karmine Corp.
+The current score is Giants 1 - 8 Karmine Corp.
+hoody killed MAGNUM  in round 10
+Fit1nho killed Tomaszy  in round 10
+N4RRATE killed Redgar  in round 10
+N4RRATE killed Fit1nho  in round 10
+marteen killed hoody  in round 10
+Cloud killed marteen  in round 10
+Cloud killed N4RRATE  in round 10
+Cloud killed Shin   in round 10
+Round 10 ended with elimination. The winning team is Giants.
+The current score is Giants 2 - 8 Karmine Corp.
+nukkye killed Shin   in round 11
+marteen killed Cloud  in round 11
+marteen killed Fit1nho  in round 11
+marteen killed Redgar  in round 11
+MAGNUM killed nukkye  in round 11
+N4RRATE killed hoody  in round 11
+Round 11 ended with spike_defuse. The winning team is Karmine Corp.
+The current score is Giants 2 - 9 Karmine Corp.
+nukkye killed MAGNUM  in round 12
+nukkye killed marteen  in round 12
+Shin  killed nukkye  in round 12
+N4RRATE killed Fit1nho  in round 12
+Redgar killed Shin   in round 12
+N4RRATE killed Redgar  in round 12
+Cloud killed N4RRATE  in round 12
+hoody killed Tomaszy  in round 12
+Round 12 ended with elimination. The winning team is Giants.
+The current score is Giants 3 - 9 Karmine Corp.
+marteen killed hoody  in round 13
+Tomaszy killed Fit1nho  in round 13
+MAGNUM killed nukkye  in round 13
+Cloud killed MAGNUM  in round 13
+Cloud killed N4RRATE  in round 13
+marteen killed Cloud  in round 13
+Shin  killed Redgar  in round 13
+Round 13 ended with elimination. The winning team is Karmine Corp.
+The current score is Giants 3 - 10 Karmine Corp.
+Tomaszy killed Fit1nho  in round 14
+marteen killed Redgar  in round 14
+Tomaszy killed hoody  in round 14
+Round 14 ended with detonate. The winning team is Karmine Corp.
+The current score is Giants 3 - 11 Karmine Corp.
+Cloud killed Cloud  in round 15
+nukkye killed nukkye  in round 15
+Redgar killed MAGNUM  in round 15
+nukkye killed marteen  in round 15
+nukkye killed N4RRATE  in round 15
+hoody killed Shin   in round 15
+Cloud killed Tomaszy  in round 15
+Round 15 ended with elimination. The winning team is Giants.
+The current score is Giants 4 - 11 Karmine Corp.
+N4RRATE killed nukkye  in round 16
+Shin  killed Redgar  in round 16
+N4RRATE killed Fit1nho  in round 16
+Cloud killed Shin   in round 16
+hoody killed N4RRATE  in round 16
+marteen killed hoody  in round 16
+Tomaszy killed Cloud  in round 16
+Round 16 ended with elimination. The winning team is Karmine Corp.
+The current score is Giants 4 - 12 Karmine Corp.
+Cloud killed marteen  in round 17
+MAGNUM killed Redgar  in round 17
+Cloud killed Shin   in round 17
+Cloud killed MAGNUM  in round 17
+Tomaszy killed Fit1nho  in round 17
+Cloud killed Tomaszy  in round 17
+N4RRATE killed Cloud  in round 17
+N4RRATE killed nukkye  in round 17
+N4RRATE killed hoody  in round 17
+Round 17 ended with elimination. The winning team is Karmine Corp.
+The current score is Giants 4 - 13 Karmine Corp.
+Game ended with winning team: Karmine Corp at 2024-02-20T21:30:38Z
+
+--- Player Stats ---
+Shin : Team=Karmine Corp, Kills=7, Deaths=8, Assists=8, KDA=1.88, First Kills=1, First Deaths=1
+Tomaszy: Team=Karmine Corp, Kills=14, Deaths=8, Assists=3, KDA=2.12, First Kills=4, First Deaths=1
+MAGNUM: Team=Karmine Corp, Kills=17, Deaths=8, Assists=3, KDA=2.5, First Kills=2, First Deaths=2
+marteen: Team=Karmine Corp, Kills=15, Deaths=10, Assists=4, KDA=1.9, First Kills=2, First Deaths=2
+N4RRATE: Team=Karmine Corp, Kills=18, Deaths=8, Assists=6, KDA=3.0, First Kills=1, First Deaths=0
+Fit1nho: Team=Giants, Kills=6, Deaths=15, Assists=3, KDA=0.6, First Kills=1, First Deaths=2
+nukkye: Team=Giants, Kills=11, Deaths=14, Assists=0, KDA=0.79, First Kills=2, First Deaths=1
+Redgar: Team=Giants, Kills=6, Deaths=16, Assists=4, KDA=0.62, First Kills=1, First Deaths=1
+Cloud: Team=Giants, Kills=15, Deaths=13, Assists=8, KDA=1.77, First Kills=2, First Deaths=1
+hoody: Team=Giants, Kills=6, Deaths=15, Assists=0, KDA=0.4, First Kills=1, First Deaths=6

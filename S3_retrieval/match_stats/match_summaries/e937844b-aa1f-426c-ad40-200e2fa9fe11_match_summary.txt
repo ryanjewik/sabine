@@ -1,0 +1,250 @@
+Team 1: KOI
+Team 2: Team Liquid
+Participating Players:
+Player 1: Jamppi
+Player 2: Keiko
+Player 3: Enzo 
+Player 4: nAts
+Player 5: Mistic
+Player 6: Sheydos
+Player 7: Shadow 
+Player 8: starxo
+Player 9: GRUBINHO
+Player 10: kamo
+Winning Team: Team Liquid
+Score: KOI 10 - 13 Team Liquid
+Tournament Name: vct emea kickoff 2024
+Game Start Time: 2024-02-21T16:04:05Z
+Game End Time: 2024-02-21T16:59:18Z
+Rounds ended by ELIMINATION count: 12
+Rounds ended by DEFUSE count: 6
+Rounds ended by DETONATE count: 5
+SPIKE PLANTED count: 11
+platformGameId: val:e937844b-aa1f-426c-ad40-200e2fa9fe11
+
+--- Events ---
+Game started at 2024-02-21T16:04:05Z
+nAts killed kamo  in round 1
+Sheydos killed nAts  in round 1
+Keiko killed Sheydos  in round 1
+Mistic killed Shadow   in round 1
+Keiko killed GRUBINHO  in round 1
+starxo killed Keiko  in round 1
+Mistic killed starxo  in round 1
+Round 1 ended with elimination. The winning team is Team Liquid.
+The current score is KOI 0 - 1 Team Liquid.
+GRUBINHO killed Mistic  in round 2
+Keiko killed kamo  in round 2
+Sheydos killed Keiko  in round 2
+Jamppi killed starxo  in round 2
+Jamppi killed Sheydos  in round 2
+Shadow  killed Jamppi  in round 2
+Shadow  killed Enzo   in round 2
+nAts killed Shadow   in round 2
+GRUBINHO killed nAts  in round 2
+Round 2 ended with elimination. The winning team is KOI.
+The current score is KOI 1 - 1 Team Liquid.
+Shadow  killed Enzo   in round 3
+kamo killed Jamppi  in round 3
+nAts killed kamo  in round 3
+Shadow  killed nAts  in round 3
+Shadow  killed Mistic  in round 3
+starxo killed Keiko  in round 3
+Round 3 ended with elimination. The winning team is KOI.
+The current score is KOI 2 - 1 Team Liquid.
+Keiko killed kamo  in round 4
+Shadow  killed Jamppi  in round 4
+Mistic killed starxo  in round 4
+Keiko killed Sheydos  in round 4
+Shadow  killed Enzo   in round 4
+Shadow  killed Mistic  in round 4
+Keiko killed GRUBINHO  in round 4
+Shadow  killed nAts  in round 4
+Keiko killed Shadow   in round 4
+Round 4 ended with detonate. The winning team is KOI.
+The current score is KOI 3 - 1 Team Liquid.
+kamo killed Jamppi  in round 5
+Mistic killed Shadow   in round 5
+starxo killed Mistic  in round 5
+nAts killed starxo  in round 5
+GRUBINHO killed nAts  in round 5
+Keiko killed GRUBINHO  in round 5
+kamo killed Enzo   in round 5
+kamo killed Keiko  in round 5
+Round 5 ended with elimination. The winning team is KOI.
+The current score is KOI 4 - 1 Team Liquid.
+kamo killed nAts  in round 6
+Mistic killed GRUBINHO  in round 6
+kamo killed Mistic  in round 6
+Jamppi killed starxo  in round 6
+Shadow  killed Jamppi  in round 6
+Sheydos killed Enzo   in round 6
+Keiko killed kamo  in round 6
+Keiko killed Sheydos  in round 6
+Keiko killed Shadow   in round 6
+Round 6 ended with spike_defuse. The winning team is Team Liquid.
+The current score is KOI 4 - 2 Team Liquid.
+GRUBINHO killed Keiko  in round 7
+Mistic killed GRUBINHO  in round 7
+starxo killed Keiko  in round 7
+starxo killed Mistic  in round 7
+Enzo  killed Shadow   in round 7
+kamo killed Jamppi  in round 7
+nAts killed starxo  in round 7
+kamo killed Enzo   in round 7
+nAts killed kamo  in round 7
+Sheydos killed nAts  in round 7
+Round 7 ended with elimination. The winning team is KOI.
+The current score is KOI 5 - 2 Team Liquid.
+Keiko killed kamo  in round 8
+GRUBINHO killed Keiko  in round 8
+Enzo  killed Enzo   in round 8
+Enzo  killed starxo  in round 8
+Shadow  killed Jamppi  in round 8
+nAts killed GRUBINHO  in round 8
+Mistic killed Sheydos  in round 8
+nAts killed Shadow   in round 8
+Round 8 ended with spike_defuse. The winning team is Team Liquid.
+The current score is KOI 5 - 3 Team Liquid.
+Enzo  killed kamo  in round 9
+GRUBINHO killed Jamppi  in round 9
+nAts killed Shadow   in round 9
+starxo killed nAts  in round 9
+Keiko killed starxo  in round 9
+GRUBINHO killed Mistic  in round 9
+Sheydos killed Keiko  in round 9
+GRUBINHO killed Enzo   in round 9
+Round 9 ended with elimination. The winning team is KOI.
+The current score is KOI 6 - 3 Team Liquid.
+kamo killed Mistic  in round 10
+kamo killed Keiko  in round 10
+GRUBINHO killed Jamppi  in round 10
+GRUBINHO killed nAts  in round 10
+Shadow  killed Enzo   in round 10
+Round 10 ended with elimination. The winning team is KOI.
+The current score is KOI 7 - 3 Team Liquid.
+Shadow  killed Enzo   in round 11
+kamo killed Mistic  in round 11
+Keiko killed kamo  in round 11
+Keiko killed GRUBINHO  in round 11
+Keiko killed Shadow   in round 11
+Sheydos killed nAts  in round 11
+Jamppi killed starxo  in round 11
+Keiko killed Sheydos  in round 11
+Round 11 ended with spike_defuse. The winning team is Team Liquid.
+The current score is KOI 7 - 4 Team Liquid.
+Keiko killed GRUBINHO  in round 12
+Keiko killed Sheydos  in round 12
+Shadow  killed Mistic  in round 12
+kamo killed Enzo   in round 12
+Jamppi killed Shadow   in round 12
+nAts killed starxo  in round 12
+Jamppi killed kamo  in round 12
+Round 12 ended with spike_defuse. The winning team is Team Liquid.
+The current score is KOI 7 - 5 Team Liquid.
+kamo killed nAts  in round 13
+Shadow  killed Jamppi  in round 13
+starxo killed Mistic  in round 13
+Keiko killed kamo  in round 13
+Enzo  killed Shadow   in round 13
+GRUBINHO killed Enzo   in round 13
+Sheydos killed Keiko  in round 13
+Round 13 ended with spike_defuse. The winning team is KOI.
+The current score is KOI 8 - 5 Team Liquid.
+Keiko killed kamo  in round 14
+GRUBINHO killed Keiko  in round 14
+starxo killed Jamppi  in round 14
+GRUBINHO killed Enzo   in round 14
+nAts killed Shadow   in round 14
+Sheydos killed nAts  in round 14
+GRUBINHO killed Mistic  in round 14
+Round 14 ended with spike_defuse. The winning team is KOI.
+The current score is KOI 9 - 5 Team Liquid.
+Keiko killed starxo  in round 15
+GRUBINHO killed Enzo   in round 15
+Keiko killed GRUBINHO  in round 15
+Keiko killed kamo  in round 15
+Mistic killed Shadow   in round 15
+Sheydos killed Jamppi  in round 15
+Keiko killed Sheydos  in round 15
+Round 15 ended with elimination. The winning team is Team Liquid.
+The current score is KOI 9 - 6 Team Liquid.
+Jamppi killed GRUBINHO  in round 16
+Enzo  killed starxo  in round 16
+Round 16 ended with detonate. The winning team is Team Liquid.
+The current score is KOI 9 - 7 Team Liquid.
+Keiko killed Shadow   in round 17
+Keiko killed starxo  in round 17
+Keiko killed GRUBINHO  in round 17
+Keiko killed Sheydos  in round 17
+kamo killed Keiko  in round 17
+kamo killed Jamppi  in round 17
+kamo killed Mistic  in round 17
+Round 17 ended with detonate. The winning team is Team Liquid.
+The current score is KOI 9 - 8 Team Liquid.
+kamo killed Keiko  in round 18
+nAts killed Shadow   in round 18
+kamo killed nAts  in round 18
+Keiko killed kamo  in round 18
+Jamppi killed starxo  in round 18
+Jamppi killed Sheydos  in round 18
+Enzo  killed GRUBINHO  in round 18
+Round 18 ended with elimination. The winning team is Team Liquid.
+The current score is KOI 9 - 9 Team Liquid.
+Enzo  killed starxo  in round 19
+Keiko killed Sheydos  in round 19
+nAts killed kamo  in round 19
+nAts killed Shadow   in round 19
+Round 19 ended with detonate. The winning team is Team Liquid.
+The current score is KOI 9 - 10 Team Liquid.
+GRUBINHO killed nAts  in round 20
+kamo killed Mistic  in round 20
+Jamppi killed Shadow   in round 20
+nAts killed kamo  in round 20
+Sheydos killed Jamppi  in round 20
+Sheydos killed Enzo   in round 20
+Keiko killed Sheydos  in round 20
+starxo killed Keiko  in round 20
+starxo killed nAts  in round 20
+Round 20 ended with elimination. The winning team is KOI.
+The current score is KOI 10 - 10 Team Liquid.
+kamo killed Mistic  in round 21
+Keiko killed kamo  in round 21
+Keiko killed Shadow   in round 21
+Enzo  killed Sheydos  in round 21
+starxo killed Enzo   in round 21
+Jamppi killed GRUBINHO  in round 21
+nAts killed starxo  in round 21
+Round 21 ended with elimination. The winning team is Team Liquid.
+The current score is KOI 10 - 11 Team Liquid.
+kamo killed Mistic  in round 22
+Keiko killed kamo  in round 22
+Keiko killed starxo  in round 22
+Shadow  killed Keiko  in round 22
+nAts killed Shadow   in round 22
+Round 22 ended with detonate. The winning team is Team Liquid.
+The current score is KOI 10 - 12 Team Liquid.
+GRUBINHO killed GRUBINHO  in round 23
+Sheydos killed Sheydos  in round 23
+Jamppi killed Shadow   in round 23
+Jamppi killed kamo  in round 23
+starxo killed nAts  in round 23
+Enzo  killed Sheydos  in round 23
+Keiko killed GRUBINHO  in round 23
+starxo killed Keiko  in round 23
+Mistic killed starxo  in round 23
+Round 23 ended with elimination. The winning team is Team Liquid.
+The current score is KOI 10 - 13 Team Liquid.
+Game ended with winning team: Team Liquid at 2024-02-21T16:59:18Z
+
+--- Player Stats ---
+Jamppi: Team=Team Liquid, Kills=13, Deaths=14, Assists=4, KDA=1.21, First Kills=1, First Deaths=1
+Keiko: Team=Team Liquid, Kills=37, Deaths=16, Assists=2, KDA=2.44, First Kills=6, First Deaths=2
+Enzo : Team=Team Liquid, Kills=10, Deaths=16, Assists=9, KDA=1.19, First Kills=2, First Deaths=2
+nAts: Team=Team Liquid, Kills=17, Deaths=16, Assists=5, KDA=1.38, First Kills=1, First Deaths=3
+Mistic: Team=Team Liquid, Kills=9, Deaths=16, Assists=10, KDA=1.19, First Kills=0, First Deaths=4
+Sheydos: Team=KOI, Kills=12, Deaths=15, Assists=2, KDA=0.93, First Kills=0, First Deaths=0
+Shadow : Team=KOI, Kills=16, Deaths=20, Assists=8, KDA=1.2, First Kills=2, First Deaths=1
+starxo: Team=KOI, Kills=13, Deaths=18, Assists=9, KDA=1.22, First Kills=0, First Deaths=2
+GRUBINHO: Team=KOI, Kills=17, Deaths=15, Assists=7, KDA=1.6, First Kills=4, First Deaths=3
+kamo: Team=KOI, Kills=21, Deaths=19, Assists=2, KDA=1.21, First Kills=7, First Deaths=5

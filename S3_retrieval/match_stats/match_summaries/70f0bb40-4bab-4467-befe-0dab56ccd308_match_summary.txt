@@ -1,0 +1,250 @@
+Team 1: Leviatán Esports
+Team 2: LOUD
+Participating Players:
+Player 1: Less
+Player 2: cauanzin
+Player 3: Saadhak
+Player 4: tuyz
+Player 5: pANcada
+Player 6: aspas
+Player 7: tex
+Player 8: kiNgg
+Player 9: C0M
+Player 10: Mazino
+Winning Team: Leviatán Esports
+Score: Leviatán Esports 13 - 11 LOUD
+Tournament Name: vct americas stage 2 2024
+Game Start Time: 2024-07-07T00:23:54Z
+Game End Time: 2024-07-07T01:23:36Z
+Rounds ended by ELIMINATION count: 15
+Rounds ended by DEFUSE count: 7
+Rounds ended by DETONATE count: 1
+SPIKE PLANTED count: 8
+platformGameId: val:70f0bb40-4bab-4467-befe-0dab56ccd308
+
+--- Events ---
+Game started at 2024-07-07T00:23:54Z
+tuyz killed tex  in round 1
+tuyz killed kiNgg  in round 1
+C0M killed Saadhak  in round 1
+C0M killed cauanzin  in round 1
+Mazino killed pANcada  in round 1
+Mazino killed Less  in round 1
+C0M killed tuyz  in round 1
+Round 1 ended with elimination. The winning team is Leviatán Esports.
+The current score is Leviatán Esports 1 - 0 LOUD.
+aspas killed tuyz  in round 2
+Less killed aspas  in round 2
+kiNgg killed pANcada  in round 2
+kiNgg killed Less  in round 2
+cauanzin killed C0M  in round 2
+kiNgg killed cauanzin  in round 2
+tex killed Saadhak  in round 2
+Round 2 ended with elimination. The winning team is Leviatán Esports.
+The current score is Leviatán Esports 2 - 0 LOUD.
+aspas killed Less  in round 3
+tex killed Saadhak  in round 3
+cauanzin killed aspas  in round 3
+C0M killed tuyz  in round 3
+C0M killed pANcada  in round 3
+cauanzin killed C0M  in round 3
+Mazino killed cauanzin  in round 3
+Round 3 ended with elimination. The winning team is Leviatán Esports.
+The current score is Leviatán Esports 3 - 0 LOUD.
+cauanzin killed aspas  in round 4
+cauanzin killed kiNgg  in round 4
+Mazino killed cauanzin  in round 4
+Saadhak killed tex  in round 4
+Mazino killed Saadhak  in round 4
+Less killed Mazino  in round 4
+C0M killed Less  in round 4
+pANcada killed C0M  in round 4
+Round 4 ended with elimination. The winning team is LOUD.
+The current score is Leviatán Esports 3 - 1 LOUD.
+tex killed cauanzin  in round 5
+pANcada killed tex  in round 5
+tuyz killed C0M  in round 5
+kiNgg killed tuyz  in round 5
+pANcada killed aspas  in round 5
+Less killed kiNgg  in round 5
+Less killed Mazino  in round 5
+Round 5 ended with spike_defuse. The winning team is LOUD.
+The current score is Leviatán Esports 3 - 2 LOUD.
+pANcada killed kiNgg  in round 6
+Mazino killed pANcada  in round 6
+tex killed tuyz  in round 6
+tex killed cauanzin  in round 6
+Saadhak killed C0M  in round 6
+Saadhak killed Mazino  in round 6
+Less killed aspas  in round 6
+Saadhak killed tex  in round 6
+Round 6 ended with spike_defuse. The winning team is LOUD.
+The current score is Leviatán Esports 3 - 3 LOUD.
+cauanzin killed aspas  in round 7
+Mazino killed cauanzin  in round 7
+Less killed Mazino  in round 7
+tex killed Less  in round 7
+pANcada killed tex  in round 7
+pANcada killed C0M  in round 7
+Round 7 ended with time_expired. The winning team is LOUD.
+The current score is Leviatán Esports 3 - 4 LOUD.
+kiNgg killed pANcada  in round 8
+Less killed aspas  in round 8
+Mazino killed cauanzin  in round 8
+Saadhak killed Mazino  in round 8
+tuyz killed kiNgg  in round 8
+C0M killed tuyz  in round 8
+Less killed tex  in round 8
+Less killed C0M  in round 8
+Round 8 ended with elimination. The winning team is LOUD.
+The current score is Leviatán Esports 3 - 5 LOUD.
+tuyz killed C0M  in round 9
+aspas killed Saadhak  in round 9
+tuyz killed aspas  in round 9
+cauanzin killed kiNgg  in round 9
+pANcada killed Mazino  in round 9
+tuyz killed tex  in round 9
+Round 9 ended with elimination. The winning team is LOUD.
+The current score is Leviatán Esports 3 - 6 LOUD.
+aspas killed tuyz  in round 10
+tuyz killed aspas  in round 10
+C0M killed Saadhak  in round 10
+cauanzin killed Mazino  in round 10
+cauanzin killed tex  in round 10
+cauanzin killed C0M  in round 10
+kiNgg killed cauanzin  in round 10
+kiNgg killed Less  in round 10
+pANcada killed kiNgg  in round 10
+Round 10 ended with spike_defuse. The winning team is LOUD.
+The current score is Leviatán Esports 3 - 7 LOUD.
+kiNgg killed cauanzin  in round 11
+Less killed Mazino  in round 11
+tex killed Less  in round 11
+tex killed Saadhak  in round 11
+tuyz killed C0M  in round 11
+kiNgg killed tuyz  in round 11
+aspas killed pANcada  in round 11
+Round 11 ended with elimination. The winning team is Leviatán Esports.
+The current score is Leviatán Esports 4 - 7 LOUD.
+cauanzin killed Mazino  in round 12
+tuyz killed C0M  in round 12
+cauanzin killed aspas  in round 12
+Saadhak killed tex  in round 12
+cauanzin killed kiNgg  in round 12
+Round 12 ended with elimination. The winning team is LOUD.
+The current score is Leviatán Esports 4 - 8 LOUD.
+tuyz killed tex  in round 13
+tuyz killed kiNgg  in round 13
+Mazino killed Saadhak  in round 13
+C0M killed cauanzin  in round 13
+aspas killed tuyz  in round 13
+Mazino killed Less  in round 13
+aspas killed pANcada  in round 13
+Round 13 ended with elimination. The winning team is Leviatán Esports.
+The current score is Leviatán Esports 5 - 8 LOUD.
+C0M killed Saadhak  in round 14
+tex killed Less  in round 14
+tex killed tuyz  in round 14
+Mazino killed cauanzin  in round 14
+kiNgg killed pANcada  in round 14
+Round 14 ended with elimination. The winning team is Leviatán Esports.
+The current score is Leviatán Esports 6 - 8 LOUD.
+C0M killed tuyz  in round 15
+C0M killed cauanzin  in round 15
+Saadhak killed C0M  in round 15
+Saadhak killed aspas  in round 15
+tex killed Saadhak  in round 15
+tex killed Less  in round 15
+pANcada killed tex  in round 15
+pANcada killed kiNgg  in round 15
+pANcada killed Mazino  in round 15
+Round 15 ended with elimination. The winning team is LOUD.
+The current score is Leviatán Esports 6 - 9 LOUD.
+C0M killed tuyz  in round 16
+kiNgg killed Saadhak  in round 16
+kiNgg killed cauanzin  in round 16
+C0M killed pANcada  in round 16
+aspas killed Less  in round 16
+Round 16 ended with elimination. The winning team is Leviatán Esports.
+The current score is Leviatán Esports 7 - 9 LOUD.
+Less killed tex  in round 17
+C0M killed tuyz  in round 17
+Less killed C0M  in round 17
+pANcada killed Mazino  in round 17
+kiNgg killed cauanzin  in round 17
+Round 17 ended with detonate. The winning team is LOUD.
+The current score is Leviatán Esports 7 - 10 LOUD.
+kiNgg killed kiNgg  in round 18
+aspas killed Saadhak  in round 18
+tex killed cauanzin  in round 18
+aspas killed tuyz  in round 18
+Mazino killed Less  in round 18
+pANcada killed aspas  in round 18
+tex killed pANcada  in round 18
+Round 18 ended with elimination. The winning team is Leviatán Esports.
+The current score is Leviatán Esports 8 - 10 LOUD.
+C0M killed tuyz  in round 19
+C0M killed pANcada  in round 19
+tex killed cauanzin  in round 19
+C0M killed Saadhak  in round 19
+kiNgg killed Less  in round 19
+Round 19 ended with spike_defuse. The winning team is Leviatán Esports.
+The current score is Leviatán Esports 9 - 10 LOUD.
+pANcada killed Mazino  in round 20
+tex killed Saadhak  in round 20
+tex killed cauanzin  in round 20
+Less killed aspas  in round 20
+C0M killed pANcada  in round 20
+kiNgg killed Less  in round 20
+tuyz killed kiNgg  in round 20
+tex killed tuyz  in round 20
+Round 20 ended with spike_defuse. The winning team is Leviatán Esports.
+The current score is Leviatán Esports 10 - 10 LOUD.
+pANcada killed Mazino  in round 21
+Less killed aspas  in round 21
+tex killed Less  in round 21
+cauanzin killed C0M  in round 21
+cauanzin killed tex  in round 21
+kiNgg killed pANcada  in round 21
+cauanzin killed kiNgg  in round 21
+Round 21 ended with elimination. The winning team is LOUD.
+The current score is Leviatán Esports 10 - 11 LOUD.
+pANcada killed aspas  in round 22
+tex killed Less  in round 22
+tex killed cauanzin  in round 22
+tex killed tuyz  in round 22
+pANcada killed tex  in round 22
+Mazino killed Saadhak  in round 22
+Mazino killed pANcada  in round 22
+Round 22 ended with elimination. The winning team is Leviatán Esports.
+The current score is Leviatán Esports 11 - 11 LOUD.
+C0M killed pANcada  in round 23
+C0M killed tuyz  in round 23
+Less killed tex  in round 23
+Mazino killed cauanzin  in round 23
+C0M killed Less  in round 23
+Mazino killed Saadhak  in round 23
+Round 23 ended with spike_defuse. The winning team is Leviatán Esports.
+The current score is Leviatán Esports 12 - 11 LOUD.
+cauanzin killed Mazino  in round 24
+kiNgg killed tuyz  in round 24
+pANcada killed tex  in round 24
+aspas killed pANcada  in round 24
+aspas killed cauanzin  in round 24
+C0M killed Saadhak  in round 24
+kiNgg killed Less  in round 24
+Round 24 ended with spike_defuse. The winning team is Leviatán Esports.
+The current score is Leviatán Esports 13 - 11 LOUD.
+Game ended with winning team: Leviatán Esports at 2024-07-07T01:23:36Z
+
+--- Player Stats ---
+Less: Team=LOUD, Kills=15, Deaths=18, Assists=5, KDA=1.11, First Kills=1, First Deaths=1
+cauanzin: Team=LOUD, Kills=17, Deaths=21, Assists=6, KDA=1.1, First Kills=4, First Deaths=2
+Saadhak: Team=LOUD, Kills=8, Deaths=17, Assists=10, KDA=1.06, First Kills=0, First Deaths=1
+tuyz: Team=LOUD, Kills=13, Deaths=19, Assists=3, KDA=0.84, First Kills=3, First Deaths=5
+pANcada: Team=LOUD, Kills=18, Deaths=16, Assists=15, KDA=2.06, First Kills=4, First Deaths=2
+aspas: Team=Leviatán Esports, Kills=12, Deaths=15, Assists=9, KDA=1.4, First Kills=3, First Deaths=3
+tex: Team=Leviatán Esports, Kills=22, Deaths=16, Assists=5, KDA=1.69, First Kills=1, First Deaths=3
+kiNgg: Team=Leviatán Esports, Kills=19, Deaths=13, Assists=11, KDA=2.31, First Kills=3, First Deaths=2
+C0M: Team=Leviatán Esports, Kills=23, Deaths=14, Assists=8, KDA=2.21, First Kills=5, First Deaths=1
+Mazino: Team=Leviatán Esports, Kills=16, Deaths=14, Assists=15, KDA=2.21, First Kills=0, First Deaths=4

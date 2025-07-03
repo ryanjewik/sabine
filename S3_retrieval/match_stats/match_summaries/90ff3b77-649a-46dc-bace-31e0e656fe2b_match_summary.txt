@@ -1,0 +1,306 @@
+Team 1: DetonatioN FocusMe
+Team 2: Rex Regum Qeon
+Participating Players:
+Player 1: patt
+Player 2: Lmemore
+Player 3: Estrella
+Player 4: Jemkin
+Player 5: Monyet
+Player 6: SSeeS
+Player 7: Meiy
+Player 8: Anthem
+Player 9: Medusa
+Player 10: neth
+Winning Team: Rex Regum Qeon
+Score: DetonatioN FocusMe 13 - 15 Rex Regum Qeon
+Tournament Name: vct pacific stage 2 2024
+Game Start Time: 2024-06-17T08:03:18Z
+Game End Time: 2024-06-17T09:18:01Z
+Rounds ended by ELIMINATION count: 18
+Rounds ended by DEFUSE count: 6
+Rounds ended by DETONATE count: 3
+SPIKE PLANTED count: 9
+platformGameId: val:90ff3b77-649a-46dc-bace-31e0e656fe2b
+
+--- Events ---
+Game started at 2024-06-17T08:03:18Z
+neth killed Lmemore  in round 1
+Meiy killed Jemkin  in round 1
+Estrella killed Meiy  in round 1
+Anthem killed Estrella  in round 1
+Monyet killed neth  in round 1
+patt killed Anthem  in round 1
+Medusa killed patt  in round 1
+SSeeS killed Monyet  in round 1
+Round 1 ended with elimination. The winning team is DetonatioN FocusMe.
+The current score is DetonatioN FocusMe 1 - 0 Rex Regum Qeon.
+Meiy killed Lmemore  in round 2
+Jemkin killed Medusa  in round 2
+Meiy killed Jemkin  in round 2
+Estrella killed neth  in round 2
+Meiy killed Estrella  in round 2
+Meiy killed Monyet  in round 2
+patt killed Meiy  in round 2
+Anthem killed patt  in round 2
+Round 2 ended with elimination. The winning team is DetonatioN FocusMe.
+The current score is DetonatioN FocusMe 2 - 0 Rex Regum Qeon.
+Monyet killed Meiy  in round 3
+Jemkin killed neth  in round 3
+Estrella killed Medusa  in round 3
+Jemkin killed SSeeS  in round 3
+patt killed Anthem  in round 3
+Round 3 ended with elimination. The winning team is Rex Regum Qeon.
+The current score is DetonatioN FocusMe 2 - 1 Rex Regum Qeon.
+patt killed SSeeS  in round 4
+Anthem killed Monyet  in round 4
+patt killed Meiy  in round 4
+Medusa killed patt  in round 4
+Lmemore killed Medusa  in round 4
+Estrella killed neth  in round 4
+Round 4 ended with spike_defuse. The winning team is Rex Regum Qeon.
+The current score is DetonatioN FocusMe 2 - 2 Rex Regum Qeon.
+Anthem killed Estrella  in round 5
+Anthem killed Monyet  in round 5
+patt killed SSeeS  in round 5
+Meiy killed Lmemore  in round 5
+Estrella killed Anthem  in round 5
+Meiy killed Estrella  in round 5
+Medusa killed patt  in round 5
+Jemkin killed neth  in round 5
+Round 5 ended with detonate. The winning team is DetonatioN FocusMe.
+The current score is DetonatioN FocusMe 3 - 2 Rex Regum Qeon.
+Meiy killed patt  in round 6
+Lmemore killed neth  in round 6
+Anthem killed Estrella  in round 6
+Jemkin killed Medusa  in round 6
+Lmemore killed SSeeS  in round 6
+Anthem killed Jemkin  in round 6
+Anthem killed Lmemore  in round 6
+Monyet killed Anthem  in round 6
+Meiy killed Monyet  in round 6
+Round 6 ended with elimination. The winning team is DetonatioN FocusMe.
+The current score is DetonatioN FocusMe 4 - 2 Rex Regum Qeon.
+neth killed Estrella  in round 7
+neth killed Monyet  in round 7
+Medusa killed patt  in round 7
+Lmemore killed neth  in round 7
+Lmemore killed SSeeS  in round 7
+Anthem killed Jemkin  in round 7
+Lmemore killed Anthem  in round 7
+Lmemore killed Meiy  in round 7
+Medusa killed Lmemore  in round 7
+Round 7 ended with elimination. The winning team is DetonatioN FocusMe.
+The current score is DetonatioN FocusMe 5 - 2 Rex Regum Qeon.
+Meiy killed Lmemore  in round 8
+Anthem killed Estrella  in round 8
+Monyet killed Anthem  in round 8
+neth killed Monyet  in round 8
+patt killed Meiy  in round 8
+Medusa killed patt  in round 8
+Round 8 ended with detonate. The winning team is DetonatioN FocusMe.
+The current score is DetonatioN FocusMe 6 - 2 Rex Regum Qeon.
+patt killed Medusa  in round 9
+Meiy killed Estrella  in round 9
+Jemkin killed Meiy  in round 9
+neth killed Jemkin  in round 9
+Lmemore killed neth  in round 9
+Anthem killed patt  in round 9
+Monyet killed SSeeS  in round 9
+Anthem killed Lmemore  in round 9
+Monyet killed Anthem  in round 9
+Round 9 ended with spike_defuse. The winning team is Rex Regum Qeon.
+The current score is DetonatioN FocusMe 6 - 3 Rex Regum Qeon.
+patt killed neth  in round 10
+Anthem killed patt  in round 10
+Lmemore killed Anthem  in round 10
+Lmemore killed SSeeS  in round 10
+Meiy killed Lmemore  in round 10
+Medusa killed Monyet  in round 10
+Jemkin killed Medusa  in round 10
+Estrella killed Meiy  in round 10
+Round 10 ended with elimination. The winning team is Rex Regum Qeon.
+The current score is DetonatioN FocusMe 6 - 4 Rex Regum Qeon.
+patt killed neth  in round 11
+patt killed Anthem  in round 11
+Meiy killed patt  in round 11
+Meiy killed Lmemore  in round 11
+Estrella killed SSeeS  in round 11
+Jemkin killed Meiy  in round 11
+Medusa killed Estrella  in round 11
+Medusa killed Jemkin  in round 11
+Medusa killed Monyet  in round 11
+Round 11 ended with elimination. The winning team is DetonatioN FocusMe.
+The current score is DetonatioN FocusMe 7 - 4 Rex Regum Qeon.
+Meiy killed Monyet  in round 12
+patt killed neth  in round 12
+Estrella killed Medusa  in round 12
+Meiy killed Lmemore  in round 12
+SSeeS killed Estrella  in round 12
+patt killed Anthem  in round 12
+Meiy killed Jemkin  in round 12
+Meiy killed patt  in round 12
+Round 12 ended with elimination. The winning team is DetonatioN FocusMe.
+The current score is DetonatioN FocusMe 8 - 4 Rex Regum Qeon.
+Jemkin killed SSeeS  in round 13
+Monyet killed neth  in round 13
+Medusa killed Lmemore  in round 13
+Jemkin killed Medusa  in round 13
+Monyet killed Anthem  in round 13
+Jemkin killed Meiy  in round 13
+Round 13 ended with elimination. The winning team is Rex Regum Qeon.
+The current score is DetonatioN FocusMe 8 - 5 Rex Regum Qeon.
+Estrella killed Medusa  in round 14
+Monyet killed Anthem  in round 14
+Monyet killed SSeeS  in round 14
+Monyet killed neth  in round 14
+Meiy killed Jemkin  in round 14
+Lmemore killed Meiy  in round 14
+Round 14 ended with elimination. The winning team is Rex Regum Qeon.
+The current score is DetonatioN FocusMe 8 - 6 Rex Regum Qeon.
+Meiy killed Monyet  in round 15
+Jemkin killed Meiy  in round 15
+Lmemore killed Medusa  in round 15
+Lmemore killed Anthem  in round 15
+SSeeS killed Lmemore  in round 15
+SSeeS killed Jemkin  in round 15
+SSeeS killed Estrella  in round 15
+patt killed SSeeS  in round 15
+Round 15 ended with spike_defuse. The winning team is DetonatioN FocusMe.
+The current score is DetonatioN FocusMe 9 - 6 Rex Regum Qeon.
+patt killed neth  in round 16
+Estrella killed Medusa  in round 16
+SSeeS killed Monyet  in round 16
+Estrella killed neth  in round 16
+Lmemore killed Anthem  in round 16
+Lmemore killed SSeeS  in round 16
+Meiy killed Lmemore  in round 16
+Round 16 ended with detonate. The winning team is Rex Regum Qeon.
+The current score is DetonatioN FocusMe 9 - 7 Rex Regum Qeon.
+Meiy killed patt  in round 17
+Meiy killed Estrella  in round 17
+Lmemore killed neth  in round 17
+Meiy killed Lmemore  in round 17
+Anthem killed Estrella  in round 17
+Monyet killed Anthem  in round 17
+Medusa killed Monyet  in round 17
+Medusa killed patt  in round 17
+Jemkin killed Meiy  in round 17
+Jemkin killed Medusa  in round 17
+Round 17 ended with spike_defuse. The winning team is DetonatioN FocusMe.
+The current score is DetonatioN FocusMe 10 - 7 Rex Regum Qeon.
+Jemkin killed SSeeS  in round 18
+Jemkin killed Medusa  in round 18
+SSeeS killed Jemkin  in round 18
+SSeeS killed Monyet  in round 18
+SSeeS killed Lmemore  in round 18
+Estrella killed SSeeS  in round 18
+patt killed neth  in round 18
+Estrella killed Meiy  in round 18
+Estrella killed Anthem  in round 18
+Round 18 ended with elimination. The winning team is Rex Regum Qeon.
+The current score is DetonatioN FocusMe 10 - 8 Rex Regum Qeon.
+Meiy killed patt  in round 19
+Lmemore killed Anthem  in round 19
+Lmemore killed neth  in round 19
+Lmemore killed SSeeS  in round 19
+Jemkin killed Meiy  in round 19
+Medusa killed Estrella  in round 19
+Medusa killed Lmemore  in round 19
+Jemkin killed Medusa  in round 19
+Round 19 ended with elimination. The winning team is Rex Regum Qeon.
+The current score is DetonatioN FocusMe 10 - 9 Rex Regum Qeon.
+Monyet killed Anthem  in round 20
+Monyet killed Medusa  in round 20
+Estrella killed neth  in round 20
+Monyet killed Meiy  in round 20
+Estrella killed SSeeS  in round 20
+Round 20 ended with elimination. The winning team is Rex Regum Qeon.
+The current score is DetonatioN FocusMe 10 - 10 Rex Regum Qeon.
+Meiy killed Jemkin  in round 21
+Estrella killed Meiy  in round 21
+Lmemore killed neth  in round 21
+Monyet killed SSeeS  in round 21
+Lmemore killed Medusa  in round 21
+patt killed Anthem  in round 21
+Round 21 ended with elimination. The winning team is Rex Regum Qeon.
+The current score is DetonatioN FocusMe 10 - 11 Rex Regum Qeon.
+neth killed Monyet  in round 22
+Estrella killed Meiy  in round 22
+Jemkin killed Anthem  in round 22
+Estrella killed neth  in round 22
+patt killed Medusa  in round 22
+patt killed SSeeS  in round 22
+Round 22 ended with elimination. The winning team is Rex Regum Qeon.
+The current score is DetonatioN FocusMe 10 - 12 Rex Regum Qeon.
+Estrella killed Meiy  in round 23
+Anthem killed Estrella  in round 23
+Anthem killed Monyet  in round 23
+Jemkin killed SSeeS  in round 23
+neth killed Jemkin  in round 23
+patt killed Anthem  in round 23
+neth killed patt  in round 23
+Medusa killed Lmemore  in round 23
+Round 23 ended with spike_defuse. The winning team is DetonatioN FocusMe.
+The current score is DetonatioN FocusMe 11 - 12 Rex Regum Qeon.
+Medusa killed Estrella  in round 24
+Meiy killed Jemkin  in round 24
+Medusa killed Lmemore  in round 24
+Monyet killed Medusa  in round 24
+Monyet killed Meiy  in round 24
+neth killed Monyet  in round 24
+patt killed neth  in round 24
+Anthem killed patt  in round 24
+Round 24 ended with elimination. The winning team is DetonatioN FocusMe.
+The current score is DetonatioN FocusMe 12 - 12 Rex Regum Qeon.
+patt killed SSeeS  in round 25
+Monyet killed Medusa  in round 25
+Monyet killed neth  in round 25
+Anthem killed Jemkin  in round 25
+Meiy killed Monyet  in round 25
+Lmemore killed Meiy  in round 25
+Anthem killed Lmemore  in round 25
+patt killed Anthem  in round 25
+Round 25 ended with spike_defuse. The winning team is Rex Regum Qeon.
+The current score is DetonatioN FocusMe 12 - 13 Rex Regum Qeon.
+Jemkin killed SSeeS  in round 26
+Meiy killed Jemkin  in round 26
+Monyet killed neth  in round 26
+Meiy killed Lmemore  in round 26
+Medusa killed Monyet  in round 26
+Medusa killed patt  in round 26
+Estrella killed Medusa  in round 26
+Estrella killed Meiy  in round 26
+Round 26 ended with time_expired. The winning team is DetonatioN FocusMe.
+The current score is DetonatioN FocusMe 13 - 13 Rex Regum Qeon.
+Lmemore killed Anthem  in round 27
+Lmemore killed SSeeS  in round 27
+neth killed Lmemore  in round 27
+Estrella killed neth  in round 27
+Medusa killed Estrella  in round 27
+patt killed Medusa  in round 27
+Monyet killed Meiy  in round 27
+Round 27 ended with elimination. The winning team is Rex Regum Qeon.
+The current score is DetonatioN FocusMe 13 - 14 Rex Regum Qeon.
+Jemkin killed Meiy  in round 28
+Medusa killed Monyet  in round 28
+Anthem killed Estrella  in round 28
+patt killed Medusa  in round 28
+Lmemore killed Anthem  in round 28
+patt killed neth  in round 28
+SSeeS killed Lmemore  in round 28
+patt killed SSeeS  in round 28
+Round 28 ended with elimination. The winning team is Rex Regum Qeon.
+The current score is DetonatioN FocusMe 13 - 15 Rex Regum Qeon.
+Game ended with winning team: Rex Regum Qeon at 2024-06-17T09:18:01Z
+
+--- Player Stats ---
+patt: Team=Rex Regum Qeon, Kills=27, Deaths=17, Assists=2, KDA=1.71, First Kills=6, First Deaths=3
+Lmemore: Team=Rex Regum Qeon, Kills=25, Deaths=22, Assists=11, KDA=1.64, First Kills=1, First Deaths=3
+Estrella: Team=Rex Regum Qeon, Kills=23, Deaths=18, Assists=21, KDA=2.44, First Kills=2, First Deaths=3
+Jemkin: Team=Rex Regum Qeon, Kills=22, Deaths=15, Assists=9, KDA=2.07, First Kills=4, First Deaths=1
+Monyet: Team=Rex Regum Qeon, Kills=22, Deaths=20, Assists=16, KDA=1.9, First Kills=2, First Deaths=3
+SSeeS: Team=DetonatioN FocusMe, Kills=10, Deaths=23, Assists=4, KDA=0.61, First Kills=0, First Deaths=5
+Meiy: Team=DetonatioN FocusMe, Kills=30, Deaths=24, Assists=2, KDA=1.33, First Kills=8, First Deaths=3
+Anthem: Team=DetonatioN FocusMe, Kills=20, Deaths=24, Assists=5, KDA=1.04, First Kills=1, First Deaths=2
+Medusa: Team=DetonatioN FocusMe, Kills=22, Deaths=22, Assists=3, KDA=1.14, First Kills=1, First Deaths=2
+neth: Team=DetonatioN FocusMe, Kills=10, Deaths=26, Assists=9, KDA=0.73, First Kills=3, First Deaths=3

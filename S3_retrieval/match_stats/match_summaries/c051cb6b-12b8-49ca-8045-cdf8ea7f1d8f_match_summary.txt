@@ -1,0 +1,257 @@
+Team 1: BBL Esports
+Team 2: DRX
+Participating Players:
+Player 1: ZestKR
+Player 2: BuZz
+Player 3: stax
+Player 4: MaKo
+Player 5: Rb
+Player 6: Brave
+Player 7: QutionerX
+Player 8: SouhcNi
+Player 9: Turko
+Player 10: AsLanMshadW
+Winning Team: BBL Esports
+Score: BBL Esports 13 - 11 DRX
+Tournament Name: lock in brazil 2023
+Game Start Time: 2023-02-14T21:40:06Z
+Game End Time: 2023-02-14T22:31:03Z
+Rounds ended by ELIMINATION count: 20
+Rounds ended by DEFUSE count: 3
+Rounds ended by DETONATE count: 1
+SPIKE PLANTED count: 4
+platformGameId: val:c051cb6b-12b8-49ca-8045-cdf8ea7f1d8f
+
+--- Events ---
+Game started at 2023-02-14T21:40:06Z
+QutionerX killed Rb  in round 1
+AsLanMshadW killed BuZz  in round 1
+Turko killed MaKo  in round 1
+stax killed SouhcNi  in round 1
+stax killed Turko  in round 1
+stax killed QutionerX  in round 1
+AsLanMshadW killed ZestKR  in round 1
+stax killed Brave  in round 1
+AsLanMshadW killed stax  in round 1
+Round 1 ended with elimination. The winning team is BBL Esports.
+The current score is BBL Esports 1 - 0 DRX.
+Brave killed ZestKR  in round 2
+BuZz killed Brave  in round 2
+AsLanMshadW killed MaKo  in round 2
+AsLanMshadW killed Rb  in round 2
+SouhcNi killed BuZz  in round 2
+stax killed QutionerX  in round 2
+AsLanMshadW killed stax  in round 2
+Round 2 ended with elimination. The winning team is BBL Esports.
+The current score is BBL Esports 2 - 0 DRX.
+BuZz killed Turko  in round 3
+QutionerX killed ZestKR  in round 3
+stax killed SouhcNi  in round 3
+Brave killed stax  in round 3
+Rb killed QutionerX  in round 3
+AsLanMshadW killed BuZz  in round 3
+Rb killed AsLanMshadW  in round 3
+Brave killed Rb  in round 3
+Brave killed MaKo  in round 3
+Round 3 ended with elimination. The winning team is BBL Esports.
+The current score is BBL Esports 3 - 0 DRX.
+QutionerX killed MaKo  in round 4
+QutionerX killed BuZz  in round 4
+Rb killed QutionerX  in round 4
+Rb killed SouhcNi  in round 4
+Brave killed Rb  in round 4
+Brave killed stax  in round 4
+Brave killed ZestKR  in round 4
+Round 4 ended with elimination. The winning team is BBL Esports.
+The current score is BBL Esports 4 - 0 DRX.
+BuZz killed QutionerX  in round 5
+ZestKR killed AsLanMshadW  in round 5
+ZestKR killed SouhcNi  in round 5
+ZestKR killed Brave  in round 5
+ZestKR killed Turko  in round 5
+Round 5 ended with elimination. The winning team is DRX.
+The current score is BBL Esports 4 - 1 DRX.
+BuZz killed AsLanMshadW  in round 6
+ZestKR killed QutionerX  in round 6
+Turko killed Rb  in round 6
+Brave killed MaKo  in round 6
+stax killed Brave  in round 6
+ZestKR killed SouhcNi  in round 6
+Turko killed BuZz  in round 6
+Round 6 ended with spike_defuse. The winning team is DRX.
+The current score is BBL Esports 4 - 2 DRX.
+Turko killed stax  in round 7
+QutionerX killed Rb  in round 7
+BuZz killed QutionerX  in round 7
+ZestKR killed Turko  in round 7
+ZestKR killed Brave  in round 7
+SouhcNi killed ZestKR  in round 7
+stax killed SouhcNi  in round 7
+AsLanMshadW killed BuZz  in round 7
+stax killed AsLanMshadW  in round 7
+Round 7 ended with elimination. The winning team is DRX.
+The current score is BBL Esports 4 - 3 DRX.
+BuZz killed Brave  in round 8
+QutionerX killed stax  in round 8
+ZestKR killed QutionerX  in round 8
+AsLanMshadW killed BuZz  in round 8
+Rb killed SouhcNi  in round 8
+Turko killed Rb  in round 8
+MaKo killed AsLanMshadW  in round 8
+MaKo killed Turko  in round 8
+Round 8 ended with spike_defuse. The winning team is DRX.
+The current score is BBL Esports 4 - 4 DRX.
+BuZz killed QutionerX  in round 9
+BuZz killed Turko  in round 9
+ZestKR killed Brave  in round 9
+SouhcNi killed BuZz  in round 9
+stax killed SouhcNi  in round 9
+stax killed AsLanMshadW  in round 9
+Round 9 ended with elimination. The winning team is DRX.
+The current score is BBL Esports 4 - 5 DRX.
+MaKo killed QutionerX  in round 10
+BuZz killed SouhcNi  in round 10
+Rb killed AsLanMshadW  in round 10
+MaKo killed Turko  in round 10
+MaKo killed Brave  in round 10
+Round 10 ended with elimination. The winning team is DRX.
+The current score is BBL Esports 4 - 6 DRX.
+BuZz killed QutionerX  in round 11
+Rb killed Turko  in round 11
+Brave killed Rb  in round 11
+BuZz killed Brave  in round 11
+stax killed AsLanMshadW  in round 11
+BuZz killed SouhcNi  in round 11
+Round 11 ended with elimination. The winning team is DRX.
+The current score is BBL Esports 4 - 7 DRX.
+Rb killed QutionerX  in round 12
+MaKo killed Turko  in round 12
+Brave killed Rb  in round 12
+MaKo killed Brave  in round 12
+MaKo killed SouhcNi  in round 12
+AsLanMshadW killed ZestKR  in round 12
+AsLanMshadW killed MaKo  in round 12
+BuZz killed AsLanMshadW  in round 12
+Round 12 ended with elimination. The winning team is DRX.
+The current score is BBL Esports 4 - 8 DRX.
+Brave killed Rb  in round 13
+BuZz killed Brave  in round 13
+Turko killed BuZz  in round 13
+QutionerX killed MaKo  in round 13
+QutionerX killed ZestKR  in round 13
+stax killed QutionerX  in round 13
+AsLanMshadW killed stax  in round 13
+Round 13 ended with elimination. The winning team is BBL Esports.
+The current score is BBL Esports 5 - 8 DRX.
+Turko killed BuZz  in round 14
+Brave killed stax  in round 14
+ZestKR killed Brave  in round 14
+MaKo killed Turko  in round 14
+QutionerX killed ZestKR  in round 14
+QutionerX killed MaKo  in round 14
+Rb killed QutionerX  in round 14
+SouhcNi killed Rb  in round 14
+Round 14 ended with elimination. The winning team is BBL Esports.
+The current score is BBL Esports 6 - 8 DRX.
+QutionerX killed BuZz  in round 15
+AsLanMshadW killed stax  in round 15
+Rb killed SouhcNi  in round 15
+QutionerX killed Rb  in round 15
+ZestKR killed AsLanMshadW  in round 15
+MaKo killed QutionerX  in round 15
+MaKo killed Brave  in round 15
+Round 15 ended with detonate. The winning team is DRX.
+The current score is BBL Esports 6 - 9 DRX.
+Brave killed Rb  in round 16
+BuZz killed Brave  in round 16
+Turko killed BuZz  in round 16
+Turko killed ZestKR  in round 16
+Turko killed stax  in round 16
+QutionerX killed MaKo  in round 16
+Round 16 ended with elimination. The winning team is BBL Esports.
+The current score is BBL Esports 7 - 9 DRX.
+SouhcNi killed BuZz  in round 17
+SouhcNi killed Rb  in round 17
+SouhcNi killed MaKo  in round 17
+ZestKR killed QutionerX  in round 17
+Turko killed stax  in round 17
+AsLanMshadW killed ZestKR  in round 17
+Round 17 ended with elimination. The winning team is BBL Esports.
+The current score is BBL Esports 8 - 9 DRX.
+Turko killed ZestKR  in round 18
+SouhcNi killed Rb  in round 18
+stax killed SouhcNi  in round 18
+Brave killed BuZz  in round 18
+BuZz killed Turko  in round 18
+stax killed Brave  in round 18
+MaKo killed AsLanMshadW  in round 18
+stax killed QutionerX  in round 18
+Round 18 ended with elimination. The winning team is DRX.
+The current score is BBL Esports 8 - 10 DRX.
+QutionerX killed BuZz  in round 19
+QutionerX killed Rb  in round 19
+SouhcNi killed stax  in round 19
+ZestKR killed AsLanMshadW  in round 19
+MaKo killed QutionerX  in round 19
+ZestKR killed Brave  in round 19
+MaKo killed SouhcNi  in round 19
+Turko killed MaKo  in round 19
+Turko killed ZestKR  in round 19
+Round 19 ended with elimination. The winning team is BBL Esports.
+The current score is BBL Esports 9 - 10 DRX.
+QutionerX killed MaKo  in round 20
+BuZz killed QutionerX  in round 20
+Brave killed Rb  in round 20
+Brave killed BuZz  in round 20
+SouhcNi killed stax  in round 20
+ZestKR killed AsLanMshadW  in round 20
+SouhcNi killed ZestKR  in round 20
+Round 20 ended with elimination. The winning team is BBL Esports.
+The current score is BBL Esports 10 - 10 DRX.
+SouhcNi killed ZestKR  in round 21
+Turko killed Rb  in round 21
+QutionerX killed stax  in round 21
+AsLanMshadW killed MaKo  in round 21
+QutionerX killed BuZz  in round 21
+Round 21 ended with elimination. The winning team is BBL Esports.
+The current score is BBL Esports 11 - 10 DRX.
+Brave killed Rb  in round 22
+stax killed Brave  in round 22
+QutionerX killed ZestKR  in round 22
+Turko killed BuZz  in round 22
+QutionerX killed stax  in round 22
+QutionerX killed MaKo  in round 22
+Round 22 ended with elimination. The winning team is BBL Esports.
+The current score is BBL Esports 12 - 10 DRX.
+Rb killed SouhcNi  in round 23
+Turko killed BuZz  in round 23
+Turko killed stax  in round 23
+Rb killed Brave  in round 23
+Rb killed QutionerX  in round 23
+ZestKR killed Turko  in round 23
+MaKo killed AsLanMshadW  in round 23
+Round 23 ended with elimination. The winning team is DRX.
+The current score is BBL Esports 12 - 11 DRX.
+QutionerX killed BuZz  in round 24
+QutionerX killed ZestKR  in round 24
+stax killed QutionerX  in round 24
+Rb killed Brave  in round 24
+Turko killed MaKo  in round 24
+SouhcNi killed Rb  in round 24
+stax killed AsLanMshadW  in round 24
+Turko killed stax  in round 24
+Round 24 ended with spike_defuse. The winning team is BBL Esports.
+The current score is BBL Esports 13 - 11 DRX.
+Game ended with winning team: BBL Esports at 2023-02-14T22:31:03Z
+
+--- Player Stats ---
+ZestKR: Team=DRX, Kills=17, Deaths=16, Assists=4, KDA=1.31, First Kills=0, First Deaths=3
+BuZz: Team=DRX, Kills=17, Deaths=20, Assists=3, KDA=1.0, First Kills=6, First Deaths=5
+stax: Team=DRX, Kills=19, Deaths=17, Assists=10, KDA=1.71, First Kills=0, First Deaths=1
+MaKo: Team=DRX, Kills=15, Deaths=15, Assists=16, KDA=2.07, First Kills=1, First Deaths=2
+Rb: Team=DRX, Kills=14, Deaths=20, Assists=13, KDA=1.35, First Kills=2, First Deaths=4
+Brave: Team=BBL Esports, Kills=17, Deaths=19, Assists=17, KDA=1.79, First Kills=4, First Deaths=1
+QutionerX: Team=BBL Esports, Kills=23, Deaths=21, Assists=4, KDA=1.29, First Kills=6, First Deaths=5
+SouhcNi: Team=BBL Esports, Kills=13, Deaths=15, Assists=10, KDA=1.53, First Kills=2, First Deaths=1
+Turko: Team=BBL Esports, Kills=20, Deaths=12, Assists=10, KDA=2.5, First Kills=3, First Deaths=1
+AsLanMshadW: Team=BBL Esports, Kills=15, Deaths=15, Assists=1, KDA=1.07, First Kills=0, First Deaths=1

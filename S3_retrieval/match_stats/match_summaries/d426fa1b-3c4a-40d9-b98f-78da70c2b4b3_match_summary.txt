@@ -1,0 +1,207 @@
+Team 1: Sentinels
+Team 2: Team Heretics
+Participating Players:
+Player 1: MiniBoo
+Player 2: RieNs
+Player 3: Boo
+Player 4: benjyfishy
+Player 5: paTiTek
+Player 6: TenZ
+Player 7: Zellsis
+Player 8: johnqt
+Player 9: zekken
+Player 10: Sacy
+Winning Team: Team Heretics
+Score: Sentinels 5 - 13 Team Heretics
+Tournament Name: vct masters madrid 2024
+Game Start Time: 2024-03-15T19:20:04Z
+Game End Time: 2024-03-15T20:04:37Z
+Rounds ended by ELIMINATION count: 9
+Rounds ended by DEFUSE count: 8
+Rounds ended by DETONATE count: 1
+SPIKE PLANTED count: 9
+platformGameId: val:d426fa1b-3c4a-40d9-b98f-78da70c2b4b3
+
+--- Events ---
+Game started at 2024-03-15T19:20:04Z
+benjyfishy killed Sacy  in round 1
+johnqt killed benjyfishy  in round 1
+paTiTek killed TenZ  in round 1
+zekken killed RieNs  in round 1
+MiniBoo killed zekken  in round 1
+Zellsis killed MiniBoo  in round 1
+paTiTek killed Zellsis  in round 1
+Boo killed johnqt  in round 1
+Round 1 ended with spike_defuse. The winning team is Team Heretics.
+The current score is Sentinels 0 - 1 Team Heretics.
+zekken killed paTiTek  in round 2
+zekken killed Boo  in round 2
+MiniBoo killed zekken  in round 2
+MiniBoo killed Sacy  in round 2
+MiniBoo killed TenZ  in round 2
+Zellsis killed MiniBoo  in round 2
+RieNs killed Zellsis  in round 2
+benjyfishy killed johnqt  in round 2
+Round 2 ended with spike_defuse. The winning team is Team Heretics.
+The current score is Sentinels 0 - 2 Team Heretics.
+MiniBoo killed Zellsis  in round 3
+benjyfishy killed Sacy  in round 3
+zekken killed RieNs  in round 3
+benjyfishy killed zekken  in round 3
+TenZ killed MiniBoo  in round 3
+paTiTek killed johnqt  in round 3
+Boo killed TenZ  in round 3
+Round 3 ended with spike_defuse. The winning team is Team Heretics.
+The current score is Sentinels 0 - 3 Team Heretics.
+zekken killed Boo  in round 4
+MiniBoo killed zekken  in round 4
+MiniBoo killed Zellsis  in round 4
+RieNs killed Sacy  in round 4
+benjyfishy killed TenZ  in round 4
+johnqt killed benjyfishy  in round 4
+johnqt killed paTiTek  in round 4
+johnqt killed RieNs  in round 4
+MiniBoo killed johnqt  in round 4
+Round 4 ended with spike_defuse. The winning team is Team Heretics.
+The current score is Sentinels 0 - 4 Team Heretics.
+Boo killed zekken  in round 5
+Zellsis killed Boo  in round 5
+MiniBoo killed Zellsis  in round 5
+Sacy killed MiniBoo  in round 5
+RieNs killed TenZ  in round 5
+RieNs killed Sacy  in round 5
+RieNs killed johnqt  in round 5
+Round 5 ended with elimination. The winning team is Team Heretics.
+The current score is Sentinels 0 - 5 Team Heretics.
+Boo killed zekken  in round 6
+MiniBoo killed johnqt  in round 6
+benjyfishy killed TenZ  in round 6
+Boo killed Zellsis  in round 6
+Sacy killed benjyfishy  in round 6
+Boo killed Sacy  in round 6
+Round 6 ended with spike_defuse. The winning team is Team Heretics.
+The current score is Sentinels 0 - 6 Team Heretics.
+zekken killed MiniBoo  in round 7
+benjyfishy killed Zellsis  in round 7
+Sacy killed benjyfishy  in round 7
+RieNs killed Sacy  in round 7
+TenZ killed paTiTek  in round 7
+RieNs killed TenZ  in round 7
+RieNs killed johnqt  in round 7
+zekken killed RieNs  in round 7
+zekken killed Boo  in round 7
+Round 7 ended with elimination. The winning team is Sentinels.
+The current score is Sentinels 1 - 6 Team Heretics.
+zekken killed zekken  in round 8
+RieNs killed TenZ  in round 8
+MiniBoo killed Zellsis  in round 8
+RieNs killed Sacy  in round 8
+zekken killed RieNs  in round 8
+MiniBoo killed johnqt  in round 8
+benjyfishy killed zekken  in round 8
+Round 8 ended with spike_defuse. The winning team is Team Heretics.
+The current score is Sentinels 1 - 7 Team Heretics.
+Sacy killed MiniBoo  in round 9
+Boo killed Zellsis  in round 9
+Sacy killed Boo  in round 9
+johnqt killed paTiTek  in round 9
+johnqt killed benjyfishy  in round 9
+RieNs killed TenZ  in round 9
+zekken killed RieNs  in round 9
+Round 9 ended with elimination. The winning team is Sentinels.
+The current score is Sentinels 2 - 7 Team Heretics.
+zekken killed Boo  in round 10
+RieNs killed zekken  in round 10
+Sacy killed MiniBoo  in round 10
+benjyfishy killed johnqt  in round 10
+Sacy killed paTiTek  in round 10
+RieNs killed Sacy  in round 10
+Zellsis killed benjyfishy  in round 10
+TenZ killed RieNs  in round 10
+Round 10 ended with elimination. The winning team is Sentinels.
+The current score is Sentinels 3 - 7 Team Heretics.
+benjyfishy killed Sacy  in round 11
+TenZ killed benjyfishy  in round 11
+Zellsis killed RieNs  in round 11
+zekken killed Zellsis  in round 11
+johnqt killed Boo  in round 11
+TenZ killed paTiTek  in round 11
+MiniBoo killed johnqt  in round 11
+zekken killed MiniBoo  in round 11
+Round 11 ended with elimination. The winning team is Sentinels.
+The current score is Sentinels 4 - 7 Team Heretics.
+RieNs killed TenZ  in round 12
+MiniBoo killed zekken  in round 12
+benjyfishy killed Zellsis  in round 12
+MiniBoo killed Sacy  in round 12
+johnqt killed benjyfishy  in round 12
+MiniBoo killed johnqt  in round 12
+Round 12 ended with spike_defuse. The winning team is Team Heretics.
+The current score is Sentinels 4 - 8 Team Heretics.
+paTiTek killed johnqt  in round 13
+RieNs killed Sacy  in round 13
+MiniBoo killed zekken  in round 13
+MiniBoo killed Zellsis  in round 13
+paTiTek killed TenZ  in round 13
+Round 13 ended with elimination. The winning team is Team Heretics.
+The current score is Sentinels 4 - 9 Team Heretics.
+paTiTek killed zekken  in round 14
+johnqt killed Boo  in round 14
+RieNs killed johnqt  in round 14
+Sacy killed paTiTek  in round 14
+RieNs killed Sacy  in round 14
+TenZ killed RieNs  in round 14
+benjyfishy killed TenZ  in round 14
+Zellsis killed benjyfishy  in round 14
+Round 14 ended with detonate. The winning team is Team Heretics.
+The current score is Sentinels 4 - 10 Team Heretics.
+Zellsis killed Zellsis  in round 15
+paTiTek killed johnqt  in round 15
+zekken killed MiniBoo  in round 15
+RieNs killed Zellsis  in round 15
+TenZ killed paTiTek  in round 15
+zekken killed Boo  in round 15
+benjyfishy killed TenZ  in round 15
+Sacy killed benjyfishy  in round 15
+Sacy killed RieNs  in round 15
+Round 15 ended with spike_defuse. The winning team is Sentinels.
+The current score is Sentinels 5 - 10 Team Heretics.
+paTiTek killed TenZ  in round 16
+Boo killed zekken  in round 16
+RieNs killed Zellsis  in round 16
+RieNs killed johnqt  in round 16
+Boo killed Sacy  in round 16
+Round 16 ended with elimination. The winning team is Team Heretics.
+The current score is Sentinels 5 - 11 Team Heretics.
+MiniBoo killed Sacy  in round 17
+paTiTek killed Zellsis  in round 17
+zekken killed Boo  in round 17
+paTiTek killed zekken  in round 17
+TenZ killed paTiTek  in round 17
+johnqt killed RieNs  in round 17
+benjyfishy killed johnqt  in round 17
+MiniBoo killed TenZ  in round 17
+Round 17 ended with elimination. The winning team is Team Heretics.
+The current score is Sentinels 5 - 12 Team Heretics.
+paTiTek killed Zellsis  in round 18
+Boo killed johnqt  in round 18
+zekken killed Boo  in round 18
+RieNs killed TenZ  in round 18
+zekken killed MiniBoo  in round 18
+benjyfishy killed Sacy  in round 18
+paTiTek killed zekken  in round 18
+Round 18 ended with elimination. The winning team is Team Heretics.
+The current score is Sentinels 5 - 13 Team Heretics.
+Game ended with winning team: Team Heretics at 2024-03-15T20:04:37Z
+
+--- Player Stats ---
+MiniBoo: Team=Team Heretics, Kills=20, Deaths=10, Assists=6, KDA=2.6, First Kills=2, First Deaths=2
+RieNs: Team=Team Heretics, Kills=21, Deaths=11, Assists=9, KDA=2.73, First Kills=1, First Deaths=0
+Boo: Team=Team Heretics, Kills=10, Deaths=11, Assists=10, KDA=1.82, First Kills=2, First Deaths=2
+benjyfishy: Team=Team Heretics, Kills=15, Deaths=10, Assists=5, KDA=2.0, First Kills=2, First Deaths=0
+paTiTek: Team=Team Heretics, Kills=12, Deaths=9, Assists=12, KDA=2.67, First Kills=4, First Deaths=1
+TenZ: Team=Sentinels, Kills=8, Deaths=16, Assists=4, KDA=0.75, First Kills=0, First Deaths=2
+Zellsis: Team=Sentinels, Kills=7, Deaths=17, Assists=8, KDA=0.88, First Kills=1, First Deaths=3
+johnqt: Team=Sentinels, Kills=10, Deaths=17, Assists=4, KDA=0.82, First Kills=0, First Deaths=1
+zekken: Team=Sentinels, Kills=19, Deaths=15, Assists=2, KDA=1.4, First Kills=5, First Deaths=4
+Sacy: Team=Sentinels, Kills=10, Deaths=16, Assists=7, KDA=1.06, First Kills=1, First Deaths=3

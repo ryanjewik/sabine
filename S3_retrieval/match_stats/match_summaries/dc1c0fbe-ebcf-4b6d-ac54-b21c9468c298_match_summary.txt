@@ -1,0 +1,189 @@
+Team 1: GLOBAL ESPORTS
+Team 2: T1
+Participating Players:
+Player 1: carpe
+Player 2: Sayaplayer
+Player 3: xeta
+Player 4: ban 
+Player 5: Munchkin
+Player 6: WRONSKI
+Player 7: t3xture
+Player 8: AYRIN
+Player 9: Bazzi
+Player 10: Monyet
+Winning Team: GLOBAL ESPORTS
+Score: GLOBAL ESPORTS 13 - 4 T1
+Tournament Name: vct pacific 2023
+Game Start Time: 2023-03-25T14:27:24Z
+Game End Time: 2023-03-25T15:07:57Z
+Rounds ended by ELIMINATION count: 12
+Rounds ended by DEFUSE count: 0
+Rounds ended by DETONATE count: 4
+SPIKE PLANTED count: 4
+platformGameId: val:dc1c0fbe-ebcf-4b6d-ac54-b21c9468c298
+
+--- Events ---
+Game started at 2023-03-25T14:27:24Z
+Bazzi killed Munchkin  in round 1
+Bazzi killed carpe  in round 1
+ban  killed Bazzi  in round 1
+xeta killed Monyet  in round 1
+WRONSKI killed xeta  in round 1
+Sayaplayer killed WRONSKI  in round 1
+AYRIN killed Sayaplayer  in round 1
+AYRIN killed ban   in round 1
+Round 1 ended with elimination. The winning team is GLOBAL ESPORTS.
+The current score is GLOBAL ESPORTS 1 - 0 T1.
+t3xture killed ban   in round 2
+t3xture killed xeta  in round 2
+carpe killed t3xture  in round 2
+Monyet killed Sayaplayer  in round 2
+AYRIN killed carpe  in round 2
+AYRIN killed Munchkin  in round 2
+Round 2 ended with elimination. The winning team is GLOBAL ESPORTS.
+The current score is GLOBAL ESPORTS 2 - 0 T1.
+t3xture killed ban   in round 3
+Munchkin killed Monyet  in round 3
+t3xture killed Munchkin  in round 3
+t3xture killed carpe  in round 3
+Round 3 ended with detonate. The winning team is GLOBAL ESPORTS.
+The current score is GLOBAL ESPORTS 3 - 0 T1.
+xeta killed t3xture  in round 4
+xeta killed WRONSKI  in round 4
+AYRIN killed Munchkin  in round 4
+Monyet killed carpe  in round 4
+xeta killed Monyet  in round 4
+xeta killed Bazzi  in round 4
+AYRIN killed ban   in round 4
+Round 4 ended with time_expired. The winning team is T1.
+The current score is GLOBAL ESPORTS 3 - 1 T1.
+AYRIN killed Munchkin  in round 5
+t3xture killed carpe  in round 5
+Sayaplayer killed Monyet  in round 5
+Round 5 ended with detonate. The winning team is GLOBAL ESPORTS.
+The current score is GLOBAL ESPORTS 4 - 1 T1.
+t3xture killed Munchkin  in round 6
+Sayaplayer killed AYRIN  in round 6
+Sayaplayer killed t3xture  in round 6
+Bazzi killed Sayaplayer  in round 6
+Round 6 ended with detonate. The winning team is GLOBAL ESPORTS.
+The current score is GLOBAL ESPORTS 5 - 1 T1.
+Bazzi killed Bazzi  in round 7
+Sayaplayer killed WRONSKI  in round 7
+t3xture killed Sayaplayer  in round 7
+t3xture killed xeta  in round 7
+carpe killed Monyet  in round 7
+t3xture killed carpe  in round 7
+t3xture killed Munchkin  in round 7
+t3xture killed ban   in round 7
+Round 7 ended with elimination. The winning team is GLOBAL ESPORTS.
+The current score is GLOBAL ESPORTS 6 - 1 T1.
+WRONSKI killed Munchkin  in round 8
+Sayaplayer killed WRONSKI  in round 8
+AYRIN killed carpe  in round 8
+Sayaplayer killed t3xture  in round 8
+Monyet killed Sayaplayer  in round 8
+xeta killed Monyet  in round 8
+AYRIN killed xeta  in round 8
+ban  killed AYRIN  in round 8
+Bazzi killed ban   in round 8
+Round 8 ended with elimination. The winning team is GLOBAL ESPORTS.
+The current score is GLOBAL ESPORTS 7 - 1 T1.
+Monyet killed Sayaplayer  in round 9
+Munchkin killed t3xture  in round 9
+WRONSKI killed Munchkin  in round 9
+xeta killed WRONSKI  in round 9
+Monyet killed xeta  in round 9
+carpe killed Monyet  in round 9
+Bazzi killed carpe  in round 9
+Bazzi killed ban   in round 9
+Round 9 ended with elimination. The winning team is GLOBAL ESPORTS.
+The current score is GLOBAL ESPORTS 8 - 1 T1.
+Sayaplayer killed t3xture  in round 10
+Bazzi killed ban   in round 10
+Bazzi killed carpe  in round 10
+Sayaplayer killed Bazzi  in round 10
+WRONSKI killed Sayaplayer  in round 10
+xeta killed WRONSKI  in round 10
+xeta killed Monyet  in round 10
+AYRIN killed xeta  in round 10
+AYRIN killed Munchkin  in round 10
+Round 10 ended with elimination. The winning team is GLOBAL ESPORTS.
+The current score is GLOBAL ESPORTS 9 - 1 T1.
+Sayaplayer killed AYRIN  in round 11
+Monyet killed Sayaplayer  in round 11
+Munchkin killed Monyet  in round 11
+t3xture killed Munchkin  in round 11
+carpe killed t3xture  in round 11
+xeta killed Bazzi  in round 11
+carpe killed WRONSKI  in round 11
+Round 11 ended with elimination. The winning team is T1.
+The current score is GLOBAL ESPORTS 9 - 2 T1.
+ban  killed AYRIN  in round 12
+Munchkin killed WRONSKI  in round 12
+Monyet killed Munchkin  in round 12
+t3xture killed Sayaplayer  in round 12
+t3xture killed carpe  in round 12
+ban  killed t3xture  in round 12
+xeta killed Monyet  in round 12
+Bazzi killed xeta  in round 12
+Bazzi killed ban   in round 12
+Round 12 ended with elimination. The winning team is GLOBAL ESPORTS.
+The current score is GLOBAL ESPORTS 10 - 2 T1.
+t3xture killed Sayaplayer  in round 13
+Munchkin killed t3xture  in round 13
+ban  killed AYRIN  in round 13
+WRONSKI killed xeta  in round 13
+Munchkin killed WRONSKI  in round 13
+Munchkin killed Monyet  in round 13
+ban  killed Bazzi  in round 13
+Round 13 ended with elimination. The winning team is T1.
+The current score is GLOBAL ESPORTS 10 - 3 T1.
+Bazzi killed Munchkin  in round 14
+Sayaplayer killed t3xture  in round 14
+Bazzi killed carpe  in round 14
+ban  killed Bazzi  in round 14
+WRONSKI killed ban   in round 14
+xeta killed WRONSKI  in round 14
+Round 14 ended with detonate. The winning team is T1.
+The current score is GLOBAL ESPORTS 10 - 4 T1.
+AYRIN killed AYRIN  in round 15
+Monyet killed Monyet  in round 15
+WRONSKI killed Sayaplayer  in round 15
+AYRIN killed Munchkin  in round 15
+AYRIN killed carpe  in round 15
+Bazzi killed xeta  in round 15
+ban  killed Monyet  in round 15
+AYRIN killed ban   in round 15
+Round 15 ended with elimination. The winning team is GLOBAL ESPORTS.
+The current score is GLOBAL ESPORTS 11 - 4 T1.
+t3xture killed Sayaplayer  in round 16
+t3xture killed carpe  in round 16
+WRONSKI killed ban   in round 16
+Bazzi killed Munchkin  in round 16
+xeta killed t3xture  in round 16
+WRONSKI killed xeta  in round 16
+Round 16 ended with elimination. The winning team is GLOBAL ESPORTS.
+The current score is GLOBAL ESPORTS 12 - 4 T1.
+WRONSKI killed carpe  in round 17
+t3xture killed Sayaplayer  in round 17
+t3xture killed ban   in round 17
+t3xture killed Munchkin  in round 17
+xeta killed t3xture  in round 17
+xeta killed Bazzi  in round 17
+WRONSKI killed xeta  in round 17
+Round 17 ended with elimination. The winning team is GLOBAL ESPORTS.
+The current score is GLOBAL ESPORTS 13 - 4 T1.
+Game ended with winning team: GLOBAL ESPORTS at 2023-03-25T15:07:57Z
+
+--- Player Stats ---
+carpe: Team=T1, Kills=5, Deaths=14, Assists=3, KDA=0.57, First Kills=0, First Deaths=1
+Sayaplayer: Team=T1, Kills=11, Deaths=13, Assists=2, KDA=1.0, First Kills=2, First Deaths=3
+xeta: Team=T1, Kills=15, Deaths=11, Assists=5, KDA=1.82, First Kills=1, First Deaths=0
+ban : Team=T1, Kills=8, Deaths=13, Assists=5, KDA=1.0, First Kills=1, First Deaths=2
+Munchkin: Team=T1, Kills=7, Deaths=16, Assists=2, KDA=0.56, First Kills=0, First Deaths=5
+WRONSKI: Team=GLOBAL ESPORTS, Kills=11, Deaths=10, Assists=11, KDA=2.2, First Kills=2, First Deaths=0
+t3xture: Team=GLOBAL ESPORTS, Kills=21, Deaths=12, Assists=2, KDA=1.92, First Kills=5, First Deaths=2
+AYRIN: Team=GLOBAL ESPORTS, Kills=15, Deaths=6, Assists=5, KDA=3.33, First Kills=2, First Deaths=3
+Bazzi: Team=GLOBAL ESPORTS, Kills=15, Deaths=8, Assists=9, KDA=3.0, First Kills=3, First Deaths=1
+Monyet: Team=GLOBAL ESPORTS, Kills=8, Deaths=13, Assists=10, KDA=1.38, First Kills=1, First Deaths=0

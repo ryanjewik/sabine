@@ -1,0 +1,178 @@
+Team 1: Team Heretics
+Team 2: BBL Esports
+Participating Players:
+Player 1: Brave
+Player 2: QutionerX
+Player 3: SouhcNi
+Player 4: Turko
+Player 5: AsLanMshadW
+Player 6: Boo
+Player 7: m1xwell
+Player 8: zeek
+Player 9: AvovA
+Player 10: keloqz
+Winning Team: BBL Esports
+Score: Team Heretics 2 - 13 BBL Esports
+Tournament Name: vct emea 2023
+Game Start Time: 2023-04-27T19:00:05Z
+Game End Time: 2023-04-27T19:37:33Z
+Rounds ended by ELIMINATION count: 5
+Rounds ended by DEFUSE count: 8
+Rounds ended by DETONATE count: 1
+SPIKE PLANTED count: 9
+platformGameId: val:b69d2af1-9c61-40f2-bb2e-69e639edd4b8
+
+--- Events ---
+Game started at 2023-04-27T19:00:05Z
+keloqz killed Turko  in round 1
+QutionerX killed Boo  in round 1
+QutionerX killed m1xwell  in round 1
+SouhcNi killed keloqz  in round 1
+QutionerX killed AvovA  in round 1
+QutionerX killed zeek  in round 1
+Round 1 ended with elimination. The winning team is BBL Esports.
+The current score is Team Heretics 0 - 1 BBL Esports.
+AvovA killed Turko  in round 2
+AsLanMshadW killed AvovA  in round 2
+Brave killed zeek  in round 2
+keloqz killed QutionerX  in round 2
+Brave killed keloqz  in round 2
+Brave killed m1xwell  in round 2
+AsLanMshadW killed Boo  in round 2
+Round 2 ended with spike_defuse. The winning team is BBL Esports.
+The current score is Team Heretics 0 - 2 BBL Esports.
+Brave killed keloqz  in round 3
+AvovA killed Turko  in round 3
+Boo killed Brave  in round 3
+SouhcNi killed Boo  in round 3
+AsLanMshadW killed zeek  in round 3
+AsLanMshadW killed AvovA  in round 3
+m1xwell killed AsLanMshadW  in round 3
+QutionerX killed m1xwell  in round 3
+Round 3 ended with elimination. The winning team is BBL Esports.
+The current score is Team Heretics 0 - 3 BBL Esports.
+QutionerX killed AvovA  in round 4
+QutionerX killed zeek  in round 4
+SouhcNi killed Boo  in round 4
+keloqz killed SouhcNi  in round 4
+QutionerX killed m1xwell  in round 4
+AsLanMshadW killed keloqz  in round 4
+Round 4 ended with elimination. The winning team is BBL Esports.
+The current score is Team Heretics 0 - 4 BBL Esports.
+AvovA killed AsLanMshadW  in round 5
+QutionerX killed Boo  in round 5
+Brave killed m1xwell  in round 5
+keloqz killed Brave  in round 5
+SouhcNi killed keloqz  in round 5
+QutionerX killed zeek  in round 5
+QutionerX killed AvovA  in round 5
+Round 5 ended with spike_defuse. The winning team is BBL Esports.
+The current score is Team Heretics 0 - 5 BBL Esports.
+zeek killed Brave  in round 6
+Turko killed AvovA  in round 6
+SouhcNi killed Boo  in round 6
+keloqz killed SouhcNi  in round 6
+zeek killed QutionerX  in round 6
+m1xwell killed SouhcNi  in round 6
+AsLanMshadW killed zeek  in round 6
+keloqz killed AsLanMshadW  in round 6
+Round 6 ended with detonate. The winning team is Team Heretics.
+The current score is Team Heretics 1 - 5 BBL Esports.
+QutionerX killed keloqz  in round 7
+zeek killed AsLanMshadW  in round 7
+Brave killed zeek  in round 7
+SouhcNi killed Boo  in round 7
+QutionerX killed AvovA  in round 7
+m1xwell killed Brave  in round 7
+m1xwell killed QutionerX  in round 7
+Turko killed m1xwell  in round 7
+Round 7 ended with spike_defuse. The winning team is BBL Esports.
+The current score is Team Heretics 1 - 6 BBL Esports.
+AsLanMshadW killed zeek  in round 8
+AvovA killed AsLanMshadW  in round 8
+Turko killed keloqz  in round 8
+Turko killed AvovA  in round 8
+Boo killed Turko  in round 8
+m1xwell killed SouhcNi  in round 8
+Brave killed m1xwell  in round 8
+QutionerX killed Boo  in round 8
+Round 8 ended with spike_defuse. The winning team is BBL Esports.
+The current score is Team Heretics 1 - 7 BBL Esports.
+QutionerX killed zeek  in round 9
+QutionerX killed m1xwell  in round 9
+AsLanMshadW killed keloqz  in round 9
+AsLanMshadW killed AvovA  in round 9
+Boo killed QutionerX  in round 9
+Brave killed Boo  in round 9
+Round 9 ended with spike_defuse. The winning team is BBL Esports.
+The current score is Team Heretics 1 - 8 BBL Esports.
+Brave killed Boo  in round 10
+zeek killed QutionerX  in round 10
+zeek killed AsLanMshadW  in round 10
+SouhcNi killed zeek  in round 10
+Brave killed keloqz  in round 10
+SouhcNi killed AvovA  in round 10
+m1xwell killed SouhcNi  in round 10
+m1xwell killed Brave  in round 10
+Round 10 ended with time_expired. The winning team is BBL Esports.
+The current score is Team Heretics 1 - 9 BBL Esports.
+AvovA killed QutionerX  in round 11
+SouhcNi killed m1xwell  in round 11
+Turko killed AvovA  in round 11
+zeek killed Brave  in round 11
+SouhcNi killed Boo  in round 11
+AsLanMshadW killed keloqz  in round 11
+zeek killed AsLanMshadW  in round 11
+zeek killed Turko  in round 11
+Round 11 ended with spike_defuse. The winning team is BBL Esports.
+The current score is Team Heretics 1 - 10 BBL Esports.
+zeek killed QutionerX  in round 12
+QutionerX killed keloqz  in round 12
+Brave killed Boo  in round 12
+AvovA killed QutionerX  in round 12
+AsLanMshadW killed AvovA  in round 12
+Brave killed zeek  in round 12
+Brave killed m1xwell  in round 12
+Round 12 ended with spike_defuse. The winning team is BBL Esports.
+The current score is Team Heretics 1 - 11 BBL Esports.
+m1xwell killed Brave  in round 13
+QutionerX killed m1xwell  in round 13
+AvovA killed AsLanMshadW  in round 13
+zeek killed SouhcNi  in round 13
+Round 13 ended with spike_defuse. The winning team is Team Heretics.
+The current score is Team Heretics 2 - 11 BBL Esports.
+AvovA killed QutionerX  in round 14
+Turko killed AvovA  in round 14
+Turko killed keloqz  in round 14
+QutionerX killed AvovA  in round 14
+AsLanMshadW killed keloqz  in round 14
+zeek killed AsLanMshadW  in round 14
+Brave killed m1xwell  in round 14
+zeek killed Brave  in round 14
+zeek killed SouhcNi  in round 14
+Turko killed Boo  in round 14
+QutionerX killed zeek  in round 14
+Round 14 ended with elimination. The winning team is BBL Esports.
+The current score is Team Heretics 2 - 12 BBL Esports.
+keloqz killed QutionerX  in round 15
+Brave killed keloqz  in round 15
+SouhcNi killed AvovA  in round 15
+SouhcNi killed Boo  in round 15
+SouhcNi killed zeek  in round 15
+m1xwell killed AsLanMshadW  in round 15
+Brave killed m1xwell  in round 15
+Round 15 ended with elimination. The winning team is BBL Esports.
+The current score is Team Heretics 2 - 13 BBL Esports.
+Game ended with winning team: BBL Esports at 2023-04-27T19:37:33Z
+
+--- Player Stats ---
+Brave: Team=BBL Esports, Kills=16, Deaths=8, Assists=10, KDA=3.25, First Kills=2, First Deaths=2
+QutionerX: Team=BBL Esports, Kills=20, Deaths=10, Assists=4, KDA=2.4, First Kills=3, First Deaths=4
+SouhcNi: Team=BBL Esports, Kills=13, Deaths=7, Assists=6, KDA=2.71, First Kills=0, First Deaths=0
+Turko: Team=BBL Esports, Kills=8, Deaths=5, Assists=6, KDA=2.8, First Kills=0, First Deaths=2
+AsLanMshadW: Team=BBL Esports, Kills=12, Deaths=10, Assists=7, KDA=1.9, First Kills=1, First Deaths=1
+Boo: Team=Team Heretics, Kills=3, Deaths=14, Assists=4, KDA=0.5, First Kills=0, First Deaths=1
+m1xwell: Team=Team Heretics, Kills=9, Deaths=13, Assists=5, KDA=1.08, First Kills=1, First Deaths=0
+zeek: Team=Team Heretics, Kills=13, Deaths=13, Assists=1, KDA=1.08, First Kills=2, First Deaths=2
+AvovA: Team=Team Heretics, Kills=8, Deaths=15, Assists=1, KDA=0.6, First Kills=4, First Deaths=1
+keloqz: Team=Team Heretics, Kills=7, Deaths=14, Assists=4, KDA=0.79, First Kills=2, First Deaths=2

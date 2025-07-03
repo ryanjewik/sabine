@@ -1,0 +1,210 @@
+Team 1: NRG
+Team 2: PAPER REX
+Participating Players:
+Player 1: f0rsakeN
+Player 2: mindfreak
+Player 3: d4v41
+Player 4: CGRS
+Player 5: Jinggg
+Player 6: crashies
+Player 7: Victor
+Player 8: FNS
+Player 9: s0m
+Player 10: ardiis
+Winning Team: NRG
+Score: NRG 13 - 6 PAPER REX
+Tournament Name: vct masters 2023 playoffs
+Game Start Time: 2023-06-21T07:43:00Z
+Game End Time: 2023-06-21T08:26:17Z
+Rounds ended by ELIMINATION count: 10
+Rounds ended by DEFUSE count: 3
+Rounds ended by DETONATE count: 6
+SPIKE PLANTED count: 9
+platformGameId: val:9dabbe09-f857-4c78-b4d0-a6064af6613d
+
+--- Events ---
+Game started at 2023-06-21T07:43:00Z
+Victor killed mindfreak  in round 1
+Victor killed f0rsakeN  in round 1
+ardiis killed Jinggg  in round 1
+ardiis killed d4v41  in round 1
+CGRS killed crashies  in round 1
+ardiis killed CGRS  in round 1
+Round 1 ended with elimination. The winning team is NRG.
+The current score is NRG 1 - 0 PAPER REX.
+mindfreak killed ardiis  in round 2
+s0m killed f0rsakeN  in round 2
+CGRS killed s0m  in round 2
+FNS killed CGRS  in round 2
+FNS killed mindfreak  in round 2
+Victor killed Jinggg  in round 2
+d4v41 killed FNS  in round 2
+d4v41 killed Victor  in round 2
+Round 2 ended with detonate. The winning team is NRG.
+The current score is NRG 2 - 0 PAPER REX.
+crashies killed d4v41  in round 3
+f0rsakeN killed Victor  in round 3
+f0rsakeN killed s0m  in round 3
+f0rsakeN killed FNS  in round 3
+f0rsakeN killed crashies  in round 3
+ardiis killed CGRS  in round 3
+ardiis killed mindfreak  in round 3
+f0rsakeN killed ardiis  in round 3
+Round 3 ended with spike_defuse. The winning team is PAPER REX.
+The current score is NRG 2 - 1 PAPER REX.
+f0rsakeN killed crashies  in round 4
+Victor killed mindfreak  in round 4
+FNS killed Jinggg  in round 4
+s0m killed f0rsakeN  in round 4
+d4v41 killed Victor  in round 4
+FNS killed d4v41  in round 4
+Round 4 ended with detonate. The winning team is NRG.
+The current score is NRG 3 - 1 PAPER REX.
+s0m killed CGRS  in round 5
+Victor killed f0rsakeN  in round 5
+Jinggg killed FNS  in round 5
+Round 5 ended with detonate. The winning team is NRG.
+The current score is NRG 4 - 1 PAPER REX.
+f0rsakeN killed crashies  in round 6
+f0rsakeN killed Victor  in round 6
+s0m killed mindfreak  in round 6
+ardiis killed f0rsakeN  in round 6
+Jinggg killed FNS  in round 6
+s0m killed Jinggg  in round 6
+CGRS killed ardiis  in round 6
+CGRS killed s0m  in round 6
+Round 6 ended with spike_defuse. The winning team is PAPER REX.
+The current score is NRG 4 - 2 PAPER REX.
+FNS killed mindfreak  in round 7
+CGRS killed Victor  in round 7
+FNS killed CGRS  in round 7
+FNS killed Jinggg  in round 7
+FNS killed f0rsakeN  in round 7
+crashies killed d4v41  in round 7
+Round 7 ended with elimination. The winning team is NRG.
+The current score is NRG 5 - 2 PAPER REX.
+Victor killed f0rsakeN  in round 8
+Victor killed Jinggg  in round 8
+FNS killed mindfreak  in round 8
+ardiis killed CGRS  in round 8
+FNS killed d4v41  in round 8
+Round 8 ended with elimination. The winning team is NRG.
+The current score is NRG 6 - 2 PAPER REX.
+ardiis killed Jinggg  in round 9
+s0m killed CGRS  in round 9
+crashies killed d4v41  in round 9
+s0m killed f0rsakeN  in round 9
+mindfreak killed ardiis  in round 9
+mindfreak killed FNS  in round 9
+mindfreak killed Victor  in round 9
+s0m killed mindfreak  in round 9
+Round 9 ended with elimination. The winning team is NRG.
+The current score is NRG 7 - 2 PAPER REX.
+FNS killed mindfreak  in round 10
+FNS killed f0rsakeN  in round 10
+d4v41 killed FNS  in round 10
+Victor killed d4v41  in round 10
+s0m killed CGRS  in round 10
+Jinggg killed Victor  in round 10
+s0m killed Jinggg  in round 10
+Round 10 ended with elimination. The winning team is NRG.
+The current score is NRG 8 - 2 PAPER REX.
+FNS killed f0rsakeN  in round 11
+ardiis killed mindfreak  in round 11
+Jinggg killed s0m  in round 11
+Victor killed d4v41  in round 11
+Round 11 ended with detonate. The winning team is NRG.
+The current score is NRG 9 - 2 PAPER REX.
+Jinggg killed Victor  in round 12
+Jinggg killed s0m  in round 12
+ardiis killed CGRS  in round 12
+FNS killed mindfreak  in round 12
+FNS killed f0rsakeN  in round 12
+ardiis killed d4v41  in round 12
+Jinggg killed Victor  in round 12
+FNS killed Jinggg  in round 12
+Round 12 ended with elimination. The winning team is NRG.
+The current score is NRG 10 - 2 PAPER REX.
+f0rsakeN killed Victor  in round 13
+d4v41 killed s0m  in round 13
+FNS killed d4v41  in round 13
+FNS killed CGRS  in round 13
+mindfreak killed FNS  in round 13
+crashies killed f0rsakeN  in round 13
+crashies killed Jinggg  in round 13
+ardiis killed mindfreak  in round 13
+Round 13 ended with elimination. The winning team is NRG.
+The current score is NRG 11 - 2 PAPER REX.
+ardiis killed f0rsakeN  in round 14
+Jinggg killed ardiis  in round 14
+Jinggg killed FNS  in round 14
+Victor killed mindfreak  in round 14
+d4v41 killed Victor  in round 14
+s0m killed d4v41  in round 14
+CGRS killed crashies  in round 14
+s0m killed CGRS  in round 14
+Jinggg killed s0m  in round 14
+Round 14 ended with elimination. The winning team is PAPER REX.
+The current score is NRG 11 - 3 PAPER REX.
+f0rsakeN killed FNS  in round 15
+Round 15 ended with detonate. The winning team is PAPER REX.
+The current score is NRG 11 - 4 PAPER REX.
+Jinggg killed Jinggg  in round 16
+crashies killed crashies  in round 16
+s0m killed s0m  in round 16
+Victor killed Victor  in round 16
+ardiis killed f0rsakeN  in round 16
+ardiis killed CGRS  in round 16
+d4v41 killed ardiis  in round 16
+s0m killed mindfreak  in round 16
+Victor killed d4v41  in round 16
+CGRS killed FNS  in round 16
+CGRS killed ardiis  in round 16
+Jinggg killed crashies  in round 16
+Jinggg killed s0m  in round 16
+CGRS killed Victor  in round 16
+Round 16 ended with elimination. The winning team is PAPER REX.
+The current score is NRG 11 - 5 PAPER REX.
+Jinggg killed FNS  in round 17
+s0m killed Jinggg  in round 17
+f0rsakeN killed crashies  in round 17
+f0rsakeN killed ardiis  in round 17
+s0m killed f0rsakeN  in round 17
+s0m killed mindfreak  in round 17
+Victor killed d4v41  in round 17
+CGRS killed s0m  in round 17
+Victor killed CGRS  in round 17
+Round 17 ended with detonate. The winning team is PAPER REX.
+The current score is NRG 11 - 6 PAPER REX.
+Victor killed Victor  in round 18
+s0m killed f0rsakeN  in round 18
+d4v41 killed FNS  in round 18
+ardiis killed CGRS  in round 18
+ardiis killed Jinggg  in round 18
+Victor killed mindfreak  in round 18
+d4v41 killed crashies  in round 18
+s0m killed d4v41  in round 18
+Round 18 ended with spike_defuse. The winning team is NRG.
+The current score is NRG 12 - 6 PAPER REX.
+Victor killed f0rsakeN  in round 19
+Victor killed Jinggg  in round 19
+Victor killed mindfreak  in round 19
+CGRS killed Victor  in round 19
+CGRS killed s0m  in round 19
+ardiis killed d4v41  in round 19
+FNS killed CGRS  in round 19
+Round 19 ended with elimination. The winning team is NRG.
+The current score is NRG 13 - 6 PAPER REX.
+Game ended with winning team: NRG at 2023-06-21T08:26:17Z
+
+--- Player Stats ---
+f0rsakeN: Team=PAPER REX, Kills=12, Deaths=17, Assists=6, KDA=1.06, First Kills=4, First Deaths=4
+mindfreak: Team=PAPER REX, Kills=5, Deaths=17, Assists=5, KDA=0.59, First Kills=1, First Deaths=3
+d4v41: Team=PAPER REX, Kills=9, Deaths=15, Assists=11, KDA=1.33, First Kills=0, First Deaths=1
+CGRS: Team=PAPER REX, Kills=12, Deaths=15, Assists=1, KDA=0.87, First Kills=0, First Deaths=1
+Jinggg: Team=PAPER REX, Kills=14, Deaths=14, Assists=4, KDA=1.29, First Kills=3, First Deaths=2
+crashies: Team=NRG, Kills=6, Deaths=9, Assists=11, KDA=1.89, First Kills=1, First Deaths=2
+Victor: Team=NRG, Kills=19, Deaths=15, Assists=2, KDA=1.4, First Kills=4, First Deaths=3
+FNS: Team=NRG, Kills=19, Deaths=12, Assists=6, KDA=2.08, First Kills=3, First Deaths=2
+s0m: Team=NRG, Kills=19, Deaths=11, Assists=7, KDA=2.36, First Kills=1, First Deaths=0
+ardiis: Team=NRG, Kills=18, Deaths=8, Assists=4, KDA=2.75, First Kills=2, First Deaths=1

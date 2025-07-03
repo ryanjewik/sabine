@@ -1,0 +1,236 @@
+Team 1: 100 Thieves
+Team 2: Evil Geniuses
+Participating Players:
+Player 1: BcJ
+Player 2: Ethan
+Player 3: JAWGEMO
+Player 4: C0M
+Player 5: Boostio
+Player 6: Asuna
+Player 7: Cryo
+Player 8: stellar
+Player 9: Derrek
+Player 10: bangNA
+Winning Team: 100 Thieves
+Score: 100 Thieves 13 - 9 Evil Geniuses
+Tournament Name: vct americas 2023
+Game Start Time: 2023-04-10T18:55:22Z
+Game End Time: 2023-04-10T19:55:41Z
+Rounds ended by ELIMINATION count: 12
+Rounds ended by DEFUSE count: 7
+Rounds ended by DETONATE count: 2
+SPIKE PLANTED count: 9
+platformGameId: val:a50b4eb5-0822-4dea-9d71-727b59b76676
+
+--- Events ---
+Game started at 2023-04-10T18:55:22Z
+Asuna killed BcJ  in round 1
+JAWGEMO killed Derrek  in round 1
+Asuna killed C0M  in round 1
+Boostio killed Asuna  in round 1
+Cryo killed Boostio  in round 1
+JAWGEMO killed stellar  in round 1
+Cryo killed Ethan  in round 1
+JAWGEMO killed Cryo  in round 1
+JAWGEMO killed bangNA  in round 1
+Round 1 ended with spike_defuse. The winning team is Evil Geniuses.
+The current score is 100 Thieves 0 - 1 Evil Geniuses.
+BcJ killed Asuna  in round 2
+JAWGEMO killed Cryo  in round 2
+JAWGEMO killed bangNA  in round 2
+Derrek killed Ethan  in round 2
+Boostio killed stellar  in round 2
+Derrek killed Boostio  in round 2
+C0M killed Derrek  in round 2
+Round 2 ended with elimination. The winning team is Evil Geniuses.
+The current score is 100 Thieves 0 - 2 Evil Geniuses.
+Boostio killed Cryo  in round 3
+stellar killed Boostio  in round 3
+bangNA killed Ethan  in round 3
+BcJ killed Asuna  in round 3
+Derrek killed C0M  in round 3
+Derrek killed BcJ  in round 3
+stellar killed JAWGEMO  in round 3
+Round 3 ended with elimination. The winning team is 100 Thieves.
+The current score is 100 Thieves 1 - 2 Evil Geniuses.
+stellar killed JAWGEMO  in round 4
+C0M killed stellar  in round 4
+bangNA killed C0M  in round 4
+Ethan killed bangNA  in round 4
+Asuna killed BcJ  in round 4
+Asuna killed Boostio  in round 4
+Asuna killed Ethan  in round 4
+Round 4 ended with elimination. The winning team is 100 Thieves.
+The current score is 100 Thieves 2 - 2 Evil Geniuses.
+bangNA killed JAWGEMO  in round 5
+Derrek killed BcJ  in round 5
+Boostio killed Cryo  in round 5
+Derrek killed Boostio  in round 5
+Asuna killed Ethan  in round 5
+C0M killed stellar  in round 5
+Asuna killed C0M  in round 5
+Round 5 ended with elimination. The winning team is 100 Thieves.
+The current score is 100 Thieves 3 - 2 Evil Geniuses.
+stellar killed C0M  in round 6
+BcJ killed Asuna  in round 6
+JAWGEMO killed stellar  in round 6
+Cryo killed JAWGEMO  in round 6
+bangNA killed BcJ  in round 6
+Ethan killed Derrek  in round 6
+Cryo killed Boostio  in round 6
+Cryo killed Ethan  in round 6
+Round 6 ended with elimination. The winning team is 100 Thieves.
+The current score is 100 Thieves 4 - 2 Evil Geniuses.
+Cryo killed C0M  in round 7
+Cryo killed BcJ  in round 7
+Cryo killed JAWGEMO  in round 7
+Ethan killed Cryo  in round 7
+Asuna killed Ethan  in round 7
+Derrek killed Boostio  in round 7
+Round 7 ended with elimination. The winning team is 100 Thieves.
+The current score is 100 Thieves 5 - 2 Evil Geniuses.
+JAWGEMO killed bangNA  in round 8
+Cryo killed JAWGEMO  in round 8
+Ethan killed stellar  in round 8
+Derrek killed C0M  in round 8
+Cryo killed Boostio  in round 8
+Ethan killed Derrek  in round 8
+Cryo killed Ethan  in round 8
+BcJ killed Asuna  in round 8
+BcJ killed Cryo  in round 8
+Round 8 ended with spike_defuse. The winning team is Evil Geniuses.
+The current score is 100 Thieves 5 - 3 Evil Geniuses.
+Boostio killed Asuna  in round 9
+Boostio killed Cryo  in round 9
+Round 9 ended with time_expired. The winning team is Evil Geniuses.
+The current score is 100 Thieves 5 - 4 Evil Geniuses.
+stellar killed Ethan  in round 10
+JAWGEMO killed Asuna  in round 10
+Cryo killed JAWGEMO  in round 10
+Ethan killed Cryo  in round 10
+Ethan killed Derrek  in round 10
+C0M killed bangNA  in round 10
+stellar killed C0M  in round 10
+BcJ killed stellar  in round 10
+Round 10 ended with elimination. The winning team is Evil Geniuses.
+The current score is 100 Thieves 5 - 5 Evil Geniuses.
+Boostio killed Cryo  in round 11
+Boostio killed Asuna  in round 11
+bangNA killed Boostio  in round 11
+Ethan killed stellar  in round 11
+bangNA killed BcJ  in round 11
+bangNA killed Ethan  in round 11
+JAWGEMO killed bangNA  in round 11
+Derrek killed JAWGEMO  in round 11
+C0M killed Derrek  in round 11
+Round 11 ended with spike_defuse. The winning team is Evil Geniuses.
+The current score is 100 Thieves 5 - 6 Evil Geniuses.
+stellar killed JAWGEMO  in round 12
+C0M killed Asuna  in round 12
+stellar killed Ethan  in round 12
+BcJ killed stellar  in round 12
+bangNA killed BcJ  in round 12
+Derrek killed Boostio  in round 12
+bangNA killed C0M  in round 12
+Round 12 ended with elimination. The winning team is 100 Thieves.
+The current score is 100 Thieves 6 - 6 Evil Geniuses.
+JAWGEMO killed Cryo  in round 13
+stellar killed Ethan  in round 13
+stellar killed JAWGEMO  in round 13
+bangNA killed BcJ  in round 13
+Asuna killed C0M  in round 13
+Boostio killed bangNA  in round 13
+stellar killed Boostio  in round 13
+Round 13 ended with spike_defuse. The winning team is 100 Thieves.
+The current score is 100 Thieves 7 - 6 Evil Geniuses.
+Cryo killed Boostio  in round 14
+bangNA killed JAWGEMO  in round 14
+Derrek killed C0M  in round 14
+Derrek killed Ethan  in round 14
+Derrek killed BcJ  in round 14
+Round 14 ended with elimination. The winning team is 100 Thieves.
+The current score is 100 Thieves 8 - 6 Evil Geniuses.
+stellar killed BcJ  in round 15
+JAWGEMO killed Derrek  in round 15
+Ethan killed Cryo  in round 15
+Asuna killed JAWGEMO  in round 15
+Asuna killed Ethan  in round 15
+Boostio killed Asuna  in round 15
+bangNA killed Boostio  in round 15
+bangNA killed C0M  in round 15
+Round 15 ended with spike_defuse. The winning team is 100 Thieves.
+The current score is 100 Thieves 9 - 6 Evil Geniuses.
+stellar killed JAWGEMO  in round 16
+bangNA killed Ethan  in round 16
+bangNA killed C0M  in round 16
+BcJ killed Derrek  in round 16
+Cryo killed Boostio  in round 16
+Asuna killed BcJ  in round 16
+Round 16 ended with elimination. The winning team is 100 Thieves.
+The current score is 100 Thieves 10 - 6 Evil Geniuses.
+Cryo killed JAWGEMO  in round 17
+Ethan killed bangNA  in round 17
+stellar killed Ethan  in round 17
+Boostio killed Asuna  in round 17
+Cryo killed Boostio  in round 17
+stellar killed BcJ  in round 17
+Cryo killed C0M  in round 17
+Round 17 ended with elimination. The winning team is 100 Thieves.
+The current score is 100 Thieves 11 - 6 Evil Geniuses.
+Boostio killed bangNA  in round 18
+Cryo killed Boostio  in round 18
+stellar killed JAWGEMO  in round 18
+Ethan killed stellar  in round 18
+Cryo killed Ethan  in round 18
+BcJ killed Cryo  in round 18
+BcJ killed Asuna  in round 18
+BcJ killed Derrek  in round 18
+Round 18 ended with elimination. The winning team is Evil Geniuses.
+The current score is 100 Thieves 11 - 7 Evil Geniuses.
+Asuna killed JAWGEMO  in round 19
+Boostio killed Derrek  in round 19
+BcJ killed Asuna  in round 19
+stellar killed Ethan  in round 19
+Boostio killed stellar  in round 19
+BcJ killed bangNA  in round 19
+Round 19 ended with detonate. The winning team is Evil Geniuses.
+The current score is 100 Thieves 11 - 8 Evil Geniuses.
+Boostio killed bangNA  in round 20
+Ethan killed Derrek  in round 20
+JAWGEMO killed Asuna  in round 20
+Cryo killed JAWGEMO  in round 20
+stellar killed C0M  in round 20
+Ethan killed stellar  in round 20
+Round 20 ended with detonate. The winning team is Evil Geniuses.
+The current score is 100 Thieves 11 - 9 Evil Geniuses.
+bangNA killed JAWGEMO  in round 21
+BcJ killed bangNA  in round 21
+Cryo killed BcJ  in round 21
+Ethan killed Cryo  in round 21
+stellar killed Boostio  in round 21
+stellar killed Ethan  in round 21
+C0M killed stellar  in round 21
+Derrek killed C0M  in round 21
+Round 21 ended with spike_defuse. The winning team is 100 Thieves.
+The current score is 100 Thieves 12 - 9 Evil Geniuses.
+Cryo killed Boostio  in round 22
+stellar killed BcJ  in round 22
+JAWGEMO killed stellar  in round 22
+Asuna killed JAWGEMO  in round 22
+Derrek killed Ethan  in round 22
+Cryo killed C0M  in round 22
+Round 22 ended with spike_defuse. The winning team is 100 Thieves.
+The current score is 100 Thieves 13 - 9 Evil Geniuses.
+Game ended with winning team: 100 Thieves at 2023-04-10T19:55:41Z
+
+--- Player Stats ---
+BcJ: Team=Evil Geniuses, Kills=14, Deaths=15, Assists=9, KDA=1.53, First Kills=1, First Deaths=2
+Ethan: Team=Evil Geniuses, Kills=14, Deaths=20, Assists=5, KDA=0.95, First Kills=0, First Deaths=1
+JAWGEMO: Team=Evil Geniuses, Kills=14, Deaths=19, Assists=3, KDA=0.89, First Kills=2, First Deaths=7
+C0M: Team=Evil Geniuses, Kills=7, Deaths=17, Assists=5, KDA=0.71, First Kills=0, First Deaths=2
+Boostio: Team=Evil Geniuses, Kills=15, Deaths=18, Assists=2, KDA=0.94, First Kills=5, First Deaths=2
+Asuna: Team=100 Thieves, Kills=14, Deaths=14, Assists=8, KDA=1.57, First Kills=2, First Deaths=2
+Cryo: Team=100 Thieves, Kills=23, Deaths=13, Assists=4, KDA=2.08, First Kills=4, First Deaths=3
+stellar: Team=100 Thieves, Kills=21, Deaths=14, Assists=2, KDA=1.64, First Kills=6, First Deaths=0
+Derrek: Team=100 Thieves, Kills=15, Deaths=11, Assists=9, KDA=2.18, First Kills=0, First Deaths=0
+bangNA: Team=100 Thieves, Kills=16, Deaths=12, Assists=11, KDA=2.25, First Kills=2, First Deaths=3

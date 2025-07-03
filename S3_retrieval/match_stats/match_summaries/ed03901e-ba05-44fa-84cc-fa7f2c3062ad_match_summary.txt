@@ -1,0 +1,255 @@
+Team 1: DRX
+Team 2: LOUD
+Participating Players:
+Player 1: aspas
+Player 2: Sacy
+Player 3: Saadhak
+Player 4: Less
+Player 5: pANcada
+Player 6: BuZz
+Player 7: stax
+Player 8: MaKo
+Player 9: ZestKR
+Player 10: Rb
+Winning Team: LOUD
+Score: DRX 11 - 13 LOUD
+Tournament Name: champions 2022
+Game Start Time: 2022-09-12T13:58:08Z
+Game End Time: 2022-09-12T15:09:28Z
+Rounds ended by ELIMINATION count: 18
+Rounds ended by DEFUSE count: 3
+Rounds ended by DETONATE count: 2
+SPIKE PLANTED count: 5
+platformGameId: val:ed03901e-ba05-44fa-84cc-fa7f2c3062ad
+
+--- Events ---
+Game started at 2022-09-12T13:58:08Z
+stax killed Saadhak  in round 1
+Less killed stax  in round 1
+aspas killed BuZz  in round 1
+pANcada killed MaKo  in round 1
+pANcada killed ZestKR  in round 1
+Rb killed pANcada  in round 1
+Less killed Rb  in round 1
+Round 1 ended with spike_defuse. The winning team is LOUD.
+The current score is DRX 0 - 1 LOUD.
+MaKo killed Sacy  in round 2
+Less killed Rb  in round 2
+Less killed BuZz  in round 2
+Less killed ZestKR  in round 2
+Saadhak killed stax  in round 2
+MaKo killed Saadhak  in round 2
+Less killed MaKo  in round 2
+Round 2 ended with elimination. The winning team is LOUD.
+The current score is DRX 0 - 2 LOUD.
+aspas killed stax  in round 3
+ZestKR killed Sacy  in round 3
+Rb killed pANcada  in round 3
+Less killed ZestKR  in round 3
+MaKo killed aspas  in round 3
+MaKo killed Less  in round 3
+Saadhak killed BuZz  in round 3
+MaKo killed Saadhak  in round 3
+Round 3 ended with elimination. The winning team is DRX.
+The current score is DRX 1 - 2 LOUD.
+BuZz killed Saadhak  in round 4
+aspas killed ZestKR  in round 4
+stax killed Sacy  in round 4
+Rb killed aspas  in round 4
+Rb killed Less  in round 4
+pANcada killed BuZz  in round 4
+Rb killed pANcada  in round 4
+Round 4 ended with elimination. The winning team is DRX.
+The current score is DRX 2 - 2 LOUD.
+Less killed Rb  in round 5
+aspas killed stax  in round 5
+BuZz killed aspas  in round 5
+BuZz killed Less  in round 5
+Saadhak killed BuZz  in round 5
+pANcada killed ZestKR  in round 5
+MaKo killed Sacy  in round 5
+Saadhak killed MaKo  in round 5
+Round 5 ended with spike_defuse. The winning team is LOUD.
+The current score is DRX 2 - 3 LOUD.
+BuZz killed Less  in round 6
+pANcada killed ZestKR  in round 6
+Sacy killed stax  in round 6
+Rb killed pANcada  in round 6
+Sacy killed BuZz  in round 6
+BuZz killed Saadhak  in round 6
+MaKo killed aspas  in round 6
+Rb killed Sacy  in round 6
+Round 6 ended with elimination. The winning team is DRX.
+The current score is DRX 3 - 3 LOUD.
+stax killed aspas  in round 7
+ZestKR killed Less  in round 7
+stax killed Sacy  in round 7
+Rb killed Saadhak  in round 7
+pANcada killed BuZz  in round 7
+pANcada killed stax  in round 7
+ZestKR killed pANcada  in round 7
+Round 7 ended with elimination. The winning team is DRX.
+The current score is DRX 4 - 3 LOUD.
+stax killed Saadhak  in round 8
+pANcada killed stax  in round 8
+Sacy killed Rb  in round 8
+ZestKR killed aspas  in round 8
+BuZz killed Less  in round 8
+pANcada killed BuZz  in round 8
+ZestKR killed Sacy  in round 8
+pANcada killed ZestKR  in round 8
+MaKo killed pANcada  in round 8
+Round 8 ended with elimination. The winning team is DRX.
+The current score is DRX 5 - 3 LOUD.
+pANcada killed BuZz  in round 9
+ZestKR killed Sacy  in round 9
+stax killed pANcada  in round 9
+Rb killed Saadhak  in round 9
+ZestKR killed Less  in round 9
+stax killed aspas  in round 9
+Round 9 ended with elimination. The winning team is DRX.
+The current score is DRX 6 - 3 LOUD.
+Rb killed Sacy  in round 10
+aspas killed BuZz  in round 10
+ZestKR killed Less  in round 10
+stax killed Saadhak  in round 10
+aspas killed stax  in round 10
+MaKo killed aspas  in round 10
+Rb killed pANcada  in round 10
+Round 10 ended with elimination. The winning team is DRX.
+The current score is DRX 7 - 3 LOUD.
+pANcada killed BuZz  in round 11
+Rb killed pANcada  in round 11
+MaKo killed aspas  in round 11
+Less killed stax  in round 11
+Less killed Rb  in round 11
+ZestKR killed Less  in round 11
+ZestKR killed Sacy  in round 11
+MaKo killed Saadhak  in round 11
+Round 11 ended with elimination. The winning team is DRX.
+The current score is DRX 8 - 3 LOUD.
+BuZz killed Less  in round 12
+BuZz killed Saadhak  in round 12
+Sacy killed Rb  in round 12
+BuZz killed aspas  in round 12
+Sacy killed BuZz  in round 12
+stax killed Sacy  in round 12
+ZestKR killed pANcada  in round 12
+Round 12 ended with elimination. The winning team is DRX.
+The current score is DRX 9 - 3 LOUD.
+Saadhak killed MaKo  in round 13
+aspas killed BuZz  in round 13
+Sacy killed ZestKR  in round 13
+Less killed Rb  in round 13
+stax killed pANcada  in round 13
+aspas killed stax  in round 13
+Round 13 ended with elimination. The winning team is LOUD.
+The current score is DRX 9 - 4 LOUD.
+Saadhak killed BuZz  in round 14
+Less killed MaKo  in round 14
+aspas killed stax  in round 14
+Less killed ZestKR  in round 14
+Round 14 ended with detonate. The winning team is LOUD.
+The current score is DRX 9 - 5 LOUD.
+Rb killed Rb  in round 15
+Saadhak killed BuZz  in round 15
+ZestKR killed aspas  in round 15
+Saadhak killed MaKo  in round 15
+ZestKR killed Less  in round 15
+ZestKR killed pANcada  in round 15
+Saadhak killed ZestKR  in round 15
+Rb killed Saadhak  in round 15
+Rb killed Sacy  in round 15
+Round 15 ended with spike_defuse. The winning team is DRX.
+The current score is DRX 10 - 5 LOUD.
+Saadhak killed MaKo  in round 16
+Less killed stax  in round 16
+BuZz killed aspas  in round 16
+Saadhak killed BuZz  in round 16
+ZestKR killed Saadhak  in round 16
+pANcada killed Rb  in round 16
+Sacy killed ZestKR  in round 16
+Round 16 ended with elimination. The winning team is LOUD.
+The current score is DRX 10 - 6 LOUD.
+Saadhak killed stax  in round 17
+Sacy killed ZestKR  in round 17
+MaKo killed Saadhak  in round 17
+aspas killed Rb  in round 17
+MaKo killed Sacy  in round 17
+Less killed BuZz  in round 17
+pANcada killed MaKo  in round 17
+Round 17 ended with elimination. The winning team is LOUD.
+The current score is DRX 10 - 7 LOUD.
+Rb killed Less  in round 18
+stax killed Saadhak  in round 18
+Rb killed aspas  in round 18
+pANcada killed MaKo  in round 18
+Round 18 ended with time_expired. The winning team is DRX.
+The current score is DRX 11 - 7 LOUD.
+MaKo killed Saadhak  in round 19
+aspas killed MaKo  in round 19
+Less killed Rb  in round 19
+BuZz killed Less  in round 19
+aspas killed ZestKR  in round 19
+aspas killed stax  in round 19
+pANcada killed BuZz  in round 19
+Round 19 ended with elimination. The winning team is LOUD.
+The current score is DRX 11 - 8 LOUD.
+aspas killed MaKo  in round 20
+Saadhak killed BuZz  in round 20
+Rb killed aspas  in round 20
+Less killed Rb  in round 20
+Less killed ZestKR  in round 20
+Round 20 ended with detonate. The winning team is LOUD.
+The current score is DRX 11 - 9 LOUD.
+Less killed stax  in round 21
+Less killed ZestKR  in round 21
+Less killed stax  in round 21
+pANcada killed MaKo  in round 21
+Rb killed pANcada  in round 21
+Less killed BuZz  in round 21
+aspas killed Rb  in round 21
+Round 21 ended with elimination. The winning team is LOUD.
+The current score is DRX 11 - 10 LOUD.
+ZestKR killed aspas  in round 22
+MaKo killed Saadhak  in round 22
+pANcada killed Rb  in round 22
+pANcada killed BuZz  in round 22
+Less killed MaKo  in round 22
+pANcada killed ZestKR  in round 22
+Less killed stax  in round 22
+Round 22 ended with elimination. The winning team is LOUD.
+The current score is DRX 11 - 11 LOUD.
+Less killed ZestKR  in round 23
+BuZz killed pANcada  in round 23
+MaKo killed Less  in round 23
+Saadhak killed BuZz  in round 23
+Sacy killed MaKo  in round 23
+Rb killed Sacy  in round 23
+Saadhak killed Rb  in round 23
+Saadhak killed stax  in round 23
+Round 23 ended with elimination. The winning team is LOUD.
+The current score is DRX 11 - 12 LOUD.
+Rb killed Sacy  in round 24
+aspas killed BuZz  in round 24
+stax killed aspas  in round 24
+Rb killed pANcada  in round 24
+Less killed MaKo  in round 24
+Saadhak killed Rb  in round 24
+Less killed ZestKR  in round 24
+Saadhak killed stax  in round 24
+Round 24 ended with elimination. The winning team is LOUD.
+The current score is DRX 11 - 13 LOUD.
+Game ended with winning team: LOUD at 2022-09-12T15:09:28Z
+
+--- Player Stats ---
+aspas: Team=LOUD, Kills=16, Deaths=16, Assists=4, KDA=1.25, First Kills=2, First Deaths=2
+Sacy: Team=LOUD, Kills=9, Deaths=15, Assists=11, KDA=1.33, First Kills=0, First Deaths=3
+Saadhak: Team=LOUD, Kills=18, Deaths=17, Assists=8, KDA=1.53, First Kills=4, First Deaths=4
+Less: Team=LOUD, Kills=27, Deaths=14, Assists=7, KDA=2.43, First Kills=3, First Deaths=3
+pANcada: Team=LOUD, Kills=20, Deaths=15, Assists=8, KDA=1.87, First Kills=2, First Deaths=0
+BuZz: Team=DRX, Kills=12, Deaths=23, Assists=4, KDA=0.7, First Kills=3, First Deaths=3
+stax: Team=DRX, Kills=12, Deaths=19, Assists=4, KDA=0.84, First Kills=3, First Deaths=3
+MaKo: Team=DRX, Kills=16, Deaths=15, Assists=14, KDA=2.0, First Kills=2, First Deaths=3
+ZestKR: Team=DRX, Kills=16, Deaths=18, Assists=5, KDA=1.17, First Kills=1, First Deaths=1
+Rb: Team=DRX, Kills=22, Deaths=16, Assists=1, KDA=1.44, First Kills=4, First Deaths=2

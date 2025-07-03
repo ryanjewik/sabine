@@ -1,0 +1,201 @@
+Team 1: KRÜ Esports
+Team 2: 100 Thieves
+Participating Players:
+Player 1: Asuna
+Player 2: Cryo
+Player 3: stellar
+Player 4: Derrek
+Player 5: bangNA
+Player 6: DAVEEYS
+Player 7: Klaus
+Player 8: Melser
+Player 9: KeznitdeuS
+Player 10: NagZet
+Winning Team: 100 Thieves
+Score: KRÜ Esports 5 - 13 100 Thieves
+Tournament Name: vct americas 2023
+Game Start Time: 2023-04-22T21:06:33Z
+Game End Time: 2023-04-22T21:47:53Z
+Rounds ended by ELIMINATION count: 12
+Rounds ended by DEFUSE count: 3
+Rounds ended by DETONATE count: 0
+SPIKE PLANTED count: 3
+platformGameId: val:dc3c4eff-9b30-43fe-af61-1632d3abcc1f
+
+--- Events ---
+Game started at 2023-04-22T21:06:33Z
+KeznitdeuS killed Asuna  in round 1
+KeznitdeuS killed Derrek  in round 1
+bangNA killed Melser  in round 1
+bangNA killed KeznitdeuS  in round 1
+Klaus killed bangNA  in round 1
+stellar killed Klaus  in round 1
+stellar killed DAVEEYS  in round 1
+NagZet killed Cryo  in round 1
+stellar killed NagZet  in round 1
+Round 1 ended with elimination. The winning team is 100 Thieves.
+The current score is KRÜ Esports 0 - 1 100 Thieves.
+Cryo killed NagZet  in round 2
+Cryo killed DAVEEYS  in round 2
+Cryo killed Melser  in round 2
+KeznitdeuS killed bangNA  in round 2
+stellar killed KeznitdeuS  in round 2
+Derrek killed Klaus  in round 2
+Round 2 ended with elimination. The winning team is 100 Thieves.
+The current score is KRÜ Esports 0 - 2 100 Thieves.
+KeznitdeuS killed bangNA  in round 3
+Cryo killed NagZet  in round 3
+KeznitdeuS killed Cryo  in round 3
+DAVEEYS killed stellar  in round 3
+Derrek killed DAVEEYS  in round 3
+Melser killed Asuna  in round 3
+Klaus killed Derrek  in round 3
+Round 3 ended with elimination. The winning team is KRÜ Esports.
+The current score is KRÜ Esports 1 - 2 100 Thieves.
+NagZet killed bangNA  in round 4
+Klaus killed Cryo  in round 4
+stellar killed NagZet  in round 4
+Klaus killed stellar  in round 4
+Derrek killed DAVEEYS  in round 4
+Melser killed Derrek  in round 4
+Asuna killed Klaus  in round 4
+Melser killed Asuna  in round 4
+Round 4 ended with elimination. The winning team is KRÜ Esports.
+The current score is KRÜ Esports 2 - 2 100 Thieves.
+Cryo killed KeznitdeuS  in round 5
+Klaus killed Cryo  in round 5
+DAVEEYS killed Derrek  in round 5
+Klaus killed stellar  in round 5
+bangNA killed DAVEEYS  in round 5
+Melser killed bangNA  in round 5
+Klaus killed Asuna  in round 5
+Round 5 ended with elimination. The winning team is KRÜ Esports.
+The current score is KRÜ Esports 3 - 2 100 Thieves.
+Cryo killed KeznitdeuS  in round 6
+Melser killed bangNA  in round 6
+Asuna killed Melser  in round 6
+Asuna killed DAVEEYS  in round 6
+Asuna killed Klaus  in round 6
+NagZet killed Derrek  in round 6
+NagZet killed Asuna  in round 6
+Round 6 ended with time_expired. The winning team is 100 Thieves.
+The current score is KRÜ Esports 3 - 3 100 Thieves.
+Cryo killed KeznitdeuS  in round 7
+stellar killed Melser  in round 7
+Asuna killed NagZet  in round 7
+Round 7 ended with time_expired. The winning team is 100 Thieves.
+The current score is KRÜ Esports 3 - 4 100 Thieves.
+Klaus killed Asuna  in round 8
+Klaus killed Derrek  in round 8
+Cryo killed Klaus  in round 8
+stellar killed NagZet  in round 8
+bangNA killed KeznitdeuS  in round 8
+bangNA killed Melser  in round 8
+bangNA killed DAVEEYS  in round 8
+Round 8 ended with spike_defuse. The winning team is 100 Thieves.
+The current score is KRÜ Esports 3 - 5 100 Thieves.
+stellar killed KeznitdeuS  in round 9
+Derrek killed NagZet  in round 9
+Derrek killed DAVEEYS  in round 9
+Melser killed stellar  in round 9
+bangNA killed Klaus  in round 9
+bangNA killed Melser  in round 9
+Round 9 ended with spike_defuse. The winning team is 100 Thieves.
+The current score is KRÜ Esports 3 - 6 100 Thieves.
+Cryo killed KeznitdeuS  in round 10
+Asuna killed DAVEEYS  in round 10
+NagZet killed Asuna  in round 10
+bangNA killed NagZet  in round 10
+Klaus killed bangNA  in round 10
+Derrek killed Klaus  in round 10
+Melser killed Derrek  in round 10
+Cryo killed Melser  in round 10
+Round 10 ended with spike_defuse. The winning team is 100 Thieves.
+The current score is KRÜ Esports 3 - 7 100 Thieves.
+Asuna killed KeznitdeuS  in round 11
+NagZet killed Asuna  in round 11
+NagZet killed bangNA  in round 11
+Melser killed stellar  in round 11
+Klaus killed Derrek  in round 11
+Cryo killed Melser  in round 11
+Cryo killed Klaus  in round 11
+DAVEEYS killed Cryo  in round 11
+Round 11 ended with elimination. The winning team is KRÜ Esports.
+The current score is KRÜ Esports 4 - 7 100 Thieves.
+Asuna killed Melser  in round 12
+KeznitdeuS killed Asuna  in round 12
+stellar killed KeznitdeuS  in round 12
+Klaus killed stellar  in round 12
+Cryo killed DAVEEYS  in round 12
+Cryo killed Klaus  in round 12
+Cryo killed NagZet  in round 12
+Round 12 ended with elimination. The winning team is 100 Thieves.
+The current score is KRÜ Esports 4 - 8 100 Thieves.
+Melser killed Derrek  in round 13
+bangNA killed Melser  in round 13
+KeznitdeuS killed stellar  in round 13
+Asuna killed KeznitdeuS  in round 13
+Asuna killed Klaus  in round 13
+Cryo killed DAVEEYS  in round 13
+NagZet killed Cryo  in round 13
+bangNA killed NagZet  in round 13
+Round 13 ended with elimination. The winning team is 100 Thieves.
+The current score is KRÜ Esports 4 - 9 100 Thieves.
+KeznitdeuS killed Asuna  in round 14
+bangNA killed Klaus  in round 14
+stellar killed Melser  in round 14
+Derrek killed DAVEEYS  in round 14
+bangNA killed KeznitdeuS  in round 14
+stellar killed NagZet  in round 14
+Round 14 ended with elimination. The winning team is 100 Thieves.
+The current score is KRÜ Esports 4 - 10 100 Thieves.
+KeznitdeuS killed bangNA  in round 15
+KeznitdeuS killed Cryo  in round 15
+DAVEEYS killed stellar  in round 15
+Asuna killed Melser  in round 15
+KeznitdeuS killed Asuna  in round 15
+Round 15 ended with time_expired. The winning team is KRÜ Esports.
+The current score is KRÜ Esports 5 - 10 100 Thieves.
+KeznitdeuS killed Derrek  in round 16
+Cryo killed KeznitdeuS  in round 16
+Klaus killed Cryo  in round 16
+stellar killed Klaus  in round 16
+Melser killed stellar  in round 16
+Derrek killed Melser  in round 16
+Asuna killed DAVEEYS  in round 16
+NagZet killed Asuna  in round 16
+bangNA killed NagZet  in round 16
+Round 16 ended with elimination. The winning team is 100 Thieves.
+The current score is KRÜ Esports 5 - 11 100 Thieves.
+Cryo killed KeznitdeuS  in round 17
+bangNA killed NagZet  in round 17
+Melser killed stellar  in round 17
+bangNA killed Melser  in round 17
+Klaus killed bangNA  in round 17
+Klaus killed Derrek  in round 17
+Klaus killed Cryo  in round 17
+Asuna killed Klaus  in round 17
+Asuna killed DAVEEYS  in round 17
+Round 17 ended with elimination. The winning team is 100 Thieves.
+The current score is KRÜ Esports 5 - 12 100 Thieves.
+bangNA killed KeznitdeuS  in round 18
+Cryo killed Melser  in round 18
+bangNA killed DAVEEYS  in round 18
+Klaus killed bangNA  in round 18
+Cryo killed Klaus  in round 18
+stellar killed NagZet  in round 18
+Round 18 ended with elimination. The winning team is 100 Thieves.
+The current score is KRÜ Esports 5 - 13 100 Thieves.
+Game ended with winning team: 100 Thieves at 2023-04-22T21:47:53Z
+
+--- Player Stats ---
+Asuna: Team=100 Thieves, Kills=14, Deaths=12, Assists=6, KDA=1.67, First Kills=2, First Deaths=3
+Cryo: Team=100 Thieves, Kills=20, Deaths=9, Assists=6, KDA=2.89, First Kills=6, First Deaths=0
+stellar: Team=100 Thieves, Kills=13, Deaths=10, Assists=2, KDA=1.5, First Kills=1, First Deaths=0
+Derrek: Team=100 Thieves, Kills=8, Deaths=11, Assists=8, KDA=1.45, First Kills=0, First Deaths=2
+bangNA: Team=100 Thieves, Kills=18, Deaths=11, Assists=6, KDA=2.18, First Kills=1, First Deaths=3
+DAVEEYS: Team=KRÜ Esports, Kills=4, Deaths=15, Assists=8, KDA=0.8, First Kills=0, First Deaths=0
+Klaus: Team=KRÜ Esports, Kills=17, Deaths=14, Assists=2, KDA=1.36, First Kills=1, First Deaths=0
+Melser: Team=KRÜ Esports, Kills=11, Deaths=15, Assists=9, KDA=1.33, First Kills=1, First Deaths=1
+KeznitdeuS: Team=KRÜ Esports, Kills=12, Deaths=15, Assists=3, KDA=1.0, First Kills=5, First Deaths=8
+NagZet: Team=KRÜ Esports, Kills=9, Deaths=14, Assists=6, KDA=1.07, First Kills=1, First Deaths=1

@@ -1,0 +1,204 @@
+Team 1: None
+Team 2: None
+Participating Players:
+Player 1: BcJ
+Player 2: zekken
+Player 3: dephh
+Player 4: AYRIN
+Player 5: Cryo
+Player 6: crashies
+Player 7: Victor
+Player 8: FNS
+Player 9: yay
+Player 10: Marved
+Winning Team: None
+Score: None 13 - 6 None
+Tournament Name: masters 2 2022 stage 2
+Game Start Time: 2022-07-15T19:57:40Z
+Game End Time: 2022-07-15T20:44:10Z
+Rounds ended by ELIMINATION count: 10
+Rounds ended by DEFUSE count: 4
+Rounds ended by DETONATE count: 4
+SPIKE PLANTED count: 8
+platformGameId: val:8dd82bb9-79b5-406e-a77e-3d47eee453d3
+
+--- Events ---
+Game started at 2022-07-15T19:57:40Z
+AYRIN killed yay  in round 1
+crashies killed AYRIN  in round 1
+zekken killed FNS  in round 1
+Cryo killed Victor  in round 1
+Marved killed Cryo  in round 1
+Marved killed dephh  in round 1
+zekken killed Marved  in round 1
+crashies killed zekken  in round 1
+crashies killed BcJ  in round 1
+Round 1 ended with elimination. The winning team is None.
+The current score is None 1 - 0 None.
+AYRIN killed FNS  in round 2
+Marved killed BcJ  in round 2
+Cryo killed Victor  in round 2
+Cryo killed yay  in round 2
+AYRIN killed Marved  in round 2
+zekken killed crashies  in round 2
+Round 2 ended with elimination. The winning team is None.
+The current score is None 1 - 1 None.
+AYRIN killed Victor  in round 3
+zekken killed crashies  in round 3
+zekken killed Marved  in round 3
+zekken killed yay  in round 3
+AYRIN killed FNS  in round 3
+Round 3 ended with elimination. The winning team is None.
+The current score is None 1 - 2 None.
+Victor killed zekken  in round 4
+AYRIN killed Victor  in round 4
+AYRIN killed yay  in round 4
+Marved killed Cryo  in round 4
+BcJ killed Marved  in round 4
+dephh killed FNS  in round 4
+crashies killed BcJ  in round 4
+crashies killed dephh  in round 4
+crashies killed AYRIN  in round 4
+Round 4 ended with elimination. The winning team is None.
+The current score is None 2 - 2 None.
+Victor killed zekken  in round 5
+Cryo killed Marved  in round 5
+dephh killed FNS  in round 5
+dephh killed crashies  in round 5
+dephh killed Victor  in round 5
+Round 5 ended with time_expired. The winning team is None.
+The current score is None 2 - 3 None.
+Victor killed zekken  in round 6
+AYRIN killed FNS  in round 6
+yay killed dephh  in round 6
+BcJ killed yay  in round 6
+crashies killed BcJ  in round 6
+Marved killed AYRIN  in round 6
+Round 6 ended with detonate. The winning team is None.
+The current score is None 3 - 3 None.
+yay killed BcJ  in round 7
+Marved killed AYRIN  in round 7
+Victor killed zekken  in round 7
+dephh killed Victor  in round 7
+Round 7 ended with detonate. The winning team is None.
+The current score is None 4 - 3 None.
+Victor killed AYRIN  in round 8
+Marved killed BcJ  in round 8
+zekken killed yay  in round 8
+Round 8 ended with detonate. The winning team is None.
+The current score is None 5 - 3 None.
+Cryo killed yay  in round 9
+BcJ killed Victor  in round 9
+FNS killed AYRIN  in round 9
+crashies killed zekken  in round 9
+crashies killed BcJ  in round 9
+Marved killed dephh  in round 9
+Cryo killed Marved  in round 9
+Cryo killed FNS  in round 9
+crashies killed Cryo  in round 9
+Round 9 ended with elimination. The winning team is None.
+The current score is None 6 - 3 None.
+Cryo killed Victor  in round 10
+zekken killed FNS  in round 10
+dephh killed Marved  in round 10
+yay killed BcJ  in round 10
+crashies killed zekken  in round 10
+crashies killed AYRIN  in round 10
+dephh killed crashies  in round 10
+Cryo killed yay  in round 10
+Round 10 ended with spike_defuse. The winning team is None.
+The current score is None 6 - 4 None.
+Victor killed AYRIN  in round 11
+BcJ killed yay  in round 11
+Victor killed BcJ  in round 11
+Cryo killed Marved  in round 11
+FNS killed Cryo  in round 11
+FNS killed zekken  in round 11
+FNS killed dephh  in round 11
+Round 11 ended with elimination. The winning team is None.
+The current score is None 7 - 4 None.
+Victor killed dephh  in round 12
+AYRIN killed Marved  in round 12
+crashies killed AYRIN  in round 12
+zekken killed FNS  in round 12
+Cryo killed Victor  in round 12
+crashies killed zekken  in round 12
+BcJ killed crashies  in round 12
+yay killed Cryo  in round 12
+yay killed BcJ  in round 12
+Round 12 ended with elimination. The winning team is None.
+The current score is None 8 - 4 None.
+crashies killed dephh  in round 13
+FNS killed Cryo  in round 13
+crashies killed BcJ  in round 13
+Marved killed AYRIN  in round 13
+Victor killed zekken  in round 13
+Round 13 ended with elimination. The winning team is None.
+The current score is None 9 - 4 None.
+Cryo killed yay  in round 14
+Marved killed dephh  in round 14
+BcJ killed Victor  in round 14
+AYRIN killed Marved  in round 14
+FNS killed Cryo  in round 14
+crashies killed BcJ  in round 14
+AYRIN killed crashies  in round 14
+FNS killed AYRIN  in round 14
+FNS killed zekken  in round 14
+Round 14 ended with detonate. The winning team is None.
+The current score is None 9 - 5 None.
+Cryo killed Victor  in round 15
+Cryo killed yay  in round 15
+BcJ killed crashies  in round 15
+Cryo killed FNS  in round 15
+Marved killed AYRIN  in round 15
+Marved killed zekken  in round 15
+dephh killed Marved  in round 15
+Round 15 ended with elimination. The winning team is None.
+The current score is None 9 - 6 None.
+FNS killed zekken  in round 16
+crashies killed BcJ  in round 16
+Victor killed Cryo  in round 16
+FNS killed dephh  in round 16
+crashies killed AYRIN  in round 16
+Round 16 ended with elimination. The winning team is None.
+The current score is None 10 - 6 None.
+yay killed dephh  in round 17
+Victor killed AYRIN  in round 17
+Victor killed zekken  in round 17
+Victor killed Cryo  in round 17
+crashies killed BcJ  in round 17
+Round 17 ended with spike_defuse. The winning team is None.
+The current score is None 11 - 6 None.
+FNS killed dephh  in round 18
+crashies killed AYRIN  in round 18
+FNS killed BcJ  in round 18
+zekken killed FNS  in round 18
+Cryo killed crashies  in round 18
+yay killed Cryo  in round 18
+Victor killed zekken  in round 18
+Round 18 ended with spike_defuse. The winning team is None.
+The current score is None 12 - 6 None.
+zekken killed Marved  in round 19
+yay killed Cryo  in round 19
+yay killed zekken  in round 19
+FNS killed AYRIN  in round 19
+dephh killed yay  in round 19
+BcJ killed Victor  in round 19
+crashies killed BcJ  in round 19
+dephh killed crashies  in round 19
+FNS killed dephh  in round 19
+Round 19 ended with spike_defuse. The winning team is None.
+The current score is None 13 - 6 None.
+Game ended with winning team: None at 2022-07-15T20:44:10Z
+
+--- Player Stats ---
+BcJ: Team=None, Kills=8, Deaths=16, Assists=5, KDA=0.81, First Kills=0, First Deaths=1
+zekken: Team=None, Kills=11, Deaths=16, Assists=2, KDA=0.81, First Kills=1, First Deaths=4
+dephh: Team=None, Kills=10, Deaths=12, Assists=5, KDA=1.25, First Kills=0, First Deaths=4
+AYRIN: Team=None, Kills=11, Deaths=16, Assists=5, KDA=1.0, First Kills=3, First Deaths=2
+Cryo: Team=None, Kills=16, Deaths=11, Assists=1, KDA=1.55, First Kills=4, First Deaths=0
+crashies: Team=None, Kills=22, Deaths=9, Assists=5, KDA=3.0, First Kills=1, First Deaths=0
+Victor: Team=None, Kills=14, Deaths=12, Assists=4, KDA=1.5, First Kills=6, First Deaths=3
+FNS: Team=None, Kills=14, Deaths=11, Assists=5, KDA=1.73, First Kills=2, First Deaths=1
+yay: Team=None, Kills=9, Deaths=12, Assists=5, KDA=1.17, First Kills=2, First Deaths=3
+Marved: Team=None, Kills=12, Deaths=12, Assists=3, KDA=1.25, First Kills=0, First Deaths=1

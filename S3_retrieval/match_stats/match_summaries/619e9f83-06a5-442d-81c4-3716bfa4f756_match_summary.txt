@@ -1,0 +1,247 @@
+Team 1: FunPlus Phoenix
+Team 2: Leviatán Esports
+Participating Players:
+Player 1: Melser
+Player 2: Shyy
+Player 3: kiNgg
+Player 4: adverso
+Player 5: Tacolilla
+Player 6: suygetsu
+Player 7: ardiis
+Player 8: ANGE1
+Player 9: Shao
+Player 10: Zyppan
+Winning Team: FunPlus Phoenix
+Score: FunPlus Phoenix 13 - 11 Leviatán Esports
+Tournament Name: champions 2022
+Game Start Time: 2022-09-11T15:10:23Z
+Game End Time: 2022-09-11T16:10:32Z
+Rounds ended by ELIMINATION count: 12
+Rounds ended by DEFUSE count: 5
+Rounds ended by DETONATE count: 5
+SPIKE PLANTED count: 10
+platformGameId: val:619e9f83-06a5-442d-81c4-3716bfa4f756
+
+--- Events ---
+Game started at 2022-09-11T15:10:23Z
+ardiis killed Tacolilla  in round 1
+ANGE1 killed Melser  in round 1
+ardiis killed Shyy  in round 1
+adverso killed ardiis  in round 1
+kiNgg killed ANGE1  in round 1
+kiNgg killed Shao  in round 1
+adverso killed Zyppan  in round 1
+kiNgg killed suygetsu  in round 1
+Round 1 ended with spike_defuse. The winning team is Leviatán Esports.
+The current score is FunPlus Phoenix 0 - 1 Leviatán Esports.
+suygetsu killed adverso  in round 2
+Tacolilla killed ANGE1  in round 2
+Tacolilla killed suygetsu  in round 2
+Tacolilla killed Zyppan  in round 2
+Shyy killed ardiis  in round 2
+Tacolilla killed Shao  in round 2
+Round 2 ended with elimination. The winning team is Leviatán Esports.
+The current score is FunPlus Phoenix 0 - 2 Leviatán Esports.
+Tacolilla killed ANGE1  in round 3
+ardiis killed Tacolilla  in round 3
+adverso killed suygetsu  in round 3
+ardiis killed adverso  in round 3
+Melser killed ardiis  in round 3
+Shao killed Melser  in round 3
+Zyppan killed Shyy  in round 3
+kiNgg killed Shao  in round 3
+kiNgg killed Zyppan  in round 3
+Round 3 ended with elimination. The winning team is Leviatán Esports.
+The current score is FunPlus Phoenix 0 - 3 Leviatán Esports.
+Tacolilla killed ANGE1  in round 4
+Tacolilla killed ardiis  in round 4
+Shyy killed Zyppan  in round 4
+Tacolilla killed Shao  in round 4
+adverso killed suygetsu  in round 4
+Round 4 ended with elimination. The winning team is Leviatán Esports.
+The current score is FunPlus Phoenix 0 - 4 Leviatán Esports.
+Shao killed adverso  in round 5
+Melser killed Zyppan  in round 5
+kiNgg killed ANGE1  in round 5
+Melser killed ardiis  in round 5
+kiNgg killed suygetsu  in round 5
+Round 5 ended with spike_defuse. The winning team is Leviatán Esports.
+The current score is FunPlus Phoenix 0 - 5 Leviatán Esports.
+kiNgg killed Zyppan  in round 6
+kiNgg killed ANGE1  in round 6
+kiNgg killed Shao  in round 6
+kiNgg killed suygetsu  in round 6
+Melser killed ardiis  in round 6
+Round 6 ended with elimination. The winning team is Leviatán Esports.
+The current score is FunPlus Phoenix 0 - 6 Leviatán Esports.
+Tacolilla killed ANGE1  in round 7
+Shao killed Tacolilla  in round 7
+Shyy killed ardiis  in round 7
+Zyppan killed Shyy  in round 7
+suygetsu killed kiNgg  in round 7
+adverso killed Zyppan  in round 7
+suygetsu killed adverso  in round 7
+Melser killed Shao  in round 7
+suygetsu killed Melser  in round 7
+Round 7 ended with elimination. The winning team is FunPlus Phoenix.
+The current score is FunPlus Phoenix 1 - 6 Leviatán Esports.
+ardiis killed Shyy  in round 8
+ardiis killed Melser  in round 8
+kiNgg killed suygetsu  in round 8
+ANGE1 killed kiNgg  in round 8
+adverso killed ANGE1  in round 8
+Shao killed adverso  in round 8
+ardiis killed Tacolilla  in round 8
+Round 8 ended with elimination. The winning team is FunPlus Phoenix.
+The current score is FunPlus Phoenix 2 - 6 Leviatán Esports.
+Tacolilla killed ANGE1  in round 9
+ardiis killed Tacolilla  in round 9
+adverso killed ardiis  in round 9
+Zyppan killed adverso  in round 9
+Zyppan killed Shyy  in round 9
+Melser killed Shao  in round 9
+Zyppan killed kiNgg  in round 9
+Melser killed Zyppan  in round 9
+Melser killed suygetsu  in round 9
+Round 9 ended with detonate. The winning team is FunPlus Phoenix.
+The current score is FunPlus Phoenix 3 - 6 Leviatán Esports.
+kiNgg killed ANGE1  in round 10
+Zyppan killed kiNgg  in round 10
+suygetsu killed Shyy  in round 10
+Zyppan killed adverso  in round 10
+Melser killed ardiis  in round 10
+Round 10 ended with detonate. The winning team is FunPlus Phoenix.
+The current score is FunPlus Phoenix 4 - 6 Leviatán Esports.
+suygetsu killed Tacolilla  in round 11
+kiNgg killed ardiis  in round 11
+Zyppan killed Shyy  in round 11
+Zyppan killed kiNgg  in round 11
+Shao killed adverso  in round 11
+Shao killed Tacolilla  in round 11
+Melser killed ANGE1  in round 11
+Melser killed Zyppan  in round 11
+Melser killed Shao  in round 11
+Round 11 ended with detonate. The winning team is FunPlus Phoenix.
+The current score is FunPlus Phoenix 5 - 6 Leviatán Esports.
+kiNgg killed suygetsu  in round 12
+ANGE1 killed Shyy  in round 12
+kiNgg killed ardiis  in round 12
+kiNgg killed ANGE1  in round 12
+adverso killed Zyppan  in round 12
+adverso killed Shao  in round 12
+Round 12 ended with elimination. The winning team is Leviatán Esports.
+The current score is FunPlus Phoenix 5 - 7 Leviatán Esports.
+Shyy killed ANGE1  in round 13
+suygetsu killed kiNgg  in round 13
+suygetsu killed Shyy  in round 13
+Zyppan killed Melser  in round 13
+ardiis killed adverso  in round 13
+ardiis killed Tacolilla  in round 13
+Round 13 ended with elimination. The winning team is FunPlus Phoenix.
+The current score is FunPlus Phoenix 6 - 7 Leviatán Esports.
+ardiis killed kiNgg  in round 14
+Shyy killed ardiis  in round 14
+ANGE1 killed Tacolilla  in round 14
+Shao killed Melser  in round 14
+Shao killed adverso  in round 14
+Shyy killed Shao  in round 14
+suygetsu killed Shyy  in round 14
+Round 14 ended with elimination. The winning team is FunPlus Phoenix.
+The current score is FunPlus Phoenix 7 - 7 Leviatán Esports.
+Shyy killed ardiis  in round 15
+Shao killed kiNgg  in round 15
+Shao killed Melser  in round 15
+adverso killed ANGE1  in round 15
+suygetsu killed Shyy  in round 15
+Shao killed Tacolilla  in round 15
+Round 15 ended with time_expired. The winning team is FunPlus Phoenix.
+The current score is FunPlus Phoenix 8 - 7 Leviatán Esports.
+adverso killed Shao  in round 16
+kiNgg killed ANGE1  in round 16
+Zyppan killed kiNgg  in round 16
+ardiis killed Tacolilla  in round 16
+Melser killed Zyppan  in round 16
+suygetsu killed adverso  in round 16
+Shyy killed ardiis  in round 16
+suygetsu killed Shyy  in round 16
+suygetsu killed Melser  in round 16
+Round 16 ended with spike_defuse. The winning team is FunPlus Phoenix.
+The current score is FunPlus Phoenix 9 - 7 Leviatán Esports.
+Zyppan killed kiNgg  in round 17
+Shao killed Shyy  in round 17
+ardiis killed Tacolilla  in round 17
+ANGE1 killed adverso  in round 17
+Melser killed ANGE1  in round 17
+Melser killed Shao  in round 17
+Zyppan killed Melser  in round 17
+Round 17 ended with elimination. The winning team is FunPlus Phoenix.
+The current score is FunPlus Phoenix 10 - 7 Leviatán Esports.
+kiNgg killed ANGE1  in round 18
+suygetsu killed adverso  in round 18
+suygetsu killed Melser  in round 18
+Tacolilla killed suygetsu  in round 18
+Shyy killed Zyppan  in round 18
+Shyy killed Shao  in round 18
+ardiis killed Tacolilla  in round 18
+Round 18 ended with detonate. The winning team is Leviatán Esports.
+The current score is FunPlus Phoenix 10 - 8 Leviatán Esports.
+ardiis killed kiNgg  in round 19
+ardiis killed Melser  in round 19
+Zyppan killed Shyy  in round 19
+Tacolilla killed ardiis  in round 19
+Tacolilla killed ANGE1  in round 19
+Round 19 ended with time_expired. The winning team is FunPlus Phoenix.
+The current score is FunPlus Phoenix 11 - 8 Leviatán Esports.
+kiNgg killed ardiis  in round 20
+Round 20 ended with detonate. The winning team is Leviatán Esports.
+The current score is FunPlus Phoenix 11 - 9 Leviatán Esports.
+Zyppan killed kiNgg  in round 21
+Zyppan killed Shyy  in round 21
+adverso killed Zyppan  in round 21
+adverso killed ANGE1  in round 21
+ardiis killed adverso  in round 21
+suygetsu killed Melser  in round 21
+Tacolilla killed ardiis  in round 21
+Shao killed Tacolilla  in round 21
+Round 21 ended with spike_defuse. The winning team is FunPlus Phoenix.
+The current score is FunPlus Phoenix 12 - 9 Leviatán Esports.
+ardiis killed Tacolilla  in round 22
+kiNgg killed Zyppan  in round 22
+Melser killed ANGE1  in round 22
+adverso killed Shao  in round 22
+ardiis killed adverso  in round 22
+Melser killed suygetsu  in round 22
+Melser killed ardiis  in round 22
+Round 22 ended with elimination. The winning team is Leviatán Esports.
+The current score is FunPlus Phoenix 12 - 10 Leviatán Esports.
+Melser killed ardiis  in round 23
+adverso killed ANGE1  in round 23
+Shyy killed Shao  in round 23
+Shyy killed Zyppan  in round 23
+adverso killed suygetsu  in round 23
+Round 23 ended with elimination. The winning team is Leviatán Esports.
+The current score is FunPlus Phoenix 12 - 11 Leviatán Esports.
+suygetsu killed Tacolilla  in round 24
+Melser killed suygetsu  in round 24
+ANGE1 killed kiNgg  in round 24
+adverso killed ANGE1  in round 24
+Shyy killed ardiis  in round 24
+Shao killed Shyy  in round 24
+Shao killed Melser  in round 24
+adverso killed Shao  in round 24
+Zyppan killed adverso  in round 24
+Round 24 ended with spike_defuse. The winning team is FunPlus Phoenix.
+The current score is FunPlus Phoenix 13 - 11 Leviatán Esports.
+Game ended with winning team: FunPlus Phoenix at 2022-09-11T16:10:32Z
+
+--- Player Stats ---
+Melser: Team=Leviatán Esports, Kills=20, Deaths=13, Assists=12, KDA=2.46, First Kills=1, First Deaths=0
+Shyy: Team=Leviatán Esports, Kills=13, Deaths=16, Assists=9, KDA=1.38, First Kills=2, First Deaths=1
+kiNgg: Team=Leviatán Esports, Kills=21, Deaths=13, Assists=9, KDA=2.31, First Kills=5, First Deaths=4
+adverso: Team=Leviatán Esports, Kills=18, Deaths=16, Assists=10, KDA=1.75, First Kills=1, First Deaths=2
+Tacolilla: Team=Leviatán Esports, Kills=14, Deaths=16, Assists=3, KDA=1.06, First Kills=4, First Deaths=4
+suygetsu: Team=FunPlus Phoenix, Kills=17, Deaths=13, Assists=5, KDA=1.69, First Kills=3, First Deaths=1
+ardiis: Team=FunPlus Phoenix, Kills=19, Deaths=20, Assists=1, KDA=1.0, First Kills=5, First Deaths=3
+ANGE1: Team=FunPlus Phoenix, Kills=6, Deaths=22, Assists=1, KDA=0.32, First Kills=0, First Deaths=7
+Shao: Team=FunPlus Phoenix, Kills=15, Deaths=16, Assists=11, KDA=1.62, First Kills=1, First Deaths=1
+Zyppan: Team=FunPlus Phoenix, Kills=17, Deaths=15, Assists=12, KDA=1.93, First Kills=2, First Deaths=1

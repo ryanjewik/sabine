@@ -1,0 +1,241 @@
+Team 1: FURIA
+Team 2: Cloud9 Blue
+Participating Players:
+Player 1: moose
+Player 2: vanity
+Player 3: Oxy
+Player 4: runi
+Player 5: xeppaa
+Player 6: kon4n
+Player 7: mwzera
+Player 8: Nozwer
+Player 9: havoc
+Player 10: Khalil
+Winning Team: Cloud9 Blue
+Score: FURIA 8 - 13 Cloud9 Blue
+Tournament Name: vct americas stage 1 2024
+Game Start Time: 2024-04-28T22:44:24Z
+Game End Time: 2024-04-28T23:32:05Z
+Rounds ended by ELIMINATION count: 13
+Rounds ended by DEFUSE count: 5
+Rounds ended by DETONATE count: 2
+SPIKE PLANTED count: 7
+platformGameId: val:d93465e5-cda3-472a-a010-40a95ad0cc63
+
+--- Events ---
+Game started at 2024-04-28T22:44:24Z
+kon4n killed xeppaa  in round 1
+havoc killed vanity  in round 1
+kon4n killed Oxy  in round 1
+moose killed havoc  in round 1
+runi killed Khalil  in round 1
+moose killed mwzera  in round 1
+kon4n killed runi  in round 1
+moose killed Nozwer  in round 1
+Round 1 ended with detonate. The winning team is FURIA.
+The current score is FURIA 1 - 0 Cloud9 Blue.
+kon4n killed kon4n  in round 2
+havoc killed runi  in round 2
+kon4n killed vanity  in round 2
+Round 2 ended with detonate. The winning team is FURIA.
+The current score is FURIA 2 - 0 Cloud9 Blue.
+moose killed moose  in round 3
+Oxy killed Oxy  in round 3
+xeppaa killed xeppaa  in round 3
+vanity killed mwzera  in round 3
+havoc killed moose  in round 3
+havoc killed vanity  in round 3
+Oxy killed Nozwer  in round 3
+kon4n killed Oxy  in round 3
+havoc killed runi  in round 3
+xeppaa killed Khalil  in round 3
+xeppaa killed kon4n  in round 3
+havoc killed xeppaa  in round 3
+Round 3 ended with elimination. The winning team is FURIA.
+The current score is FURIA 3 - 0 Cloud9 Blue.
+havoc killed runi  in round 4
+Oxy killed havoc  in round 4
+Oxy killed mwzera  in round 4
+Oxy killed Nozwer  in round 4
+Oxy killed kon4n  in round 4
+Oxy killed Khalil  in round 4
+Round 4 ended with elimination. The winning team is Cloud9 Blue.
+The current score is FURIA 3 - 1 Cloud9 Blue.
+Oxy killed havoc  in round 5
+kon4n killed Oxy  in round 5
+vanity killed kon4n  in round 5
+moose killed Nozwer  in round 5
+moose killed mwzera  in round 5
+moose killed Khalil  in round 5
+Round 5 ended with elimination. The winning team is Cloud9 Blue.
+The current score is FURIA 3 - 2 Cloud9 Blue.
+vanity killed havoc  in round 6
+mwzera killed Oxy  in round 6
+vanity killed mwzera  in round 6
+moose killed kon4n  in round 6
+Khalil killed moose  in round 6
+vanity killed Khalil  in round 6
+Nozwer killed vanity  in round 6
+xeppaa killed Nozwer  in round 6
+Round 6 ended with spike_defuse. The winning team is Cloud9 Blue.
+The current score is FURIA 3 - 3 Cloud9 Blue.
+Oxy killed Khalil  in round 7
+runi killed kon4n  in round 7
+havoc killed vanity  in round 7
+runi killed havoc  in round 7
+runi killed Nozwer  in round 7
+mwzera killed Oxy  in round 7
+mwzera killed xeppaa  in round 7
+Round 7 ended with time_expired. The winning team is Cloud9 Blue.
+The current score is FURIA 3 - 4 Cloud9 Blue.
+mwzera killed xeppaa  in round 8
+moose killed Khalil  in round 8
+moose killed kon4n  in round 8
+Nozwer killed moose  in round 8
+havoc killed Oxy  in round 8
+runi killed havoc  in round 8
+vanity killed Nozwer  in round 8
+mwzera killed vanity  in round 8
+runi killed mwzera  in round 8
+Round 8 ended with spike_defuse. The winning team is Cloud9 Blue.
+The current score is FURIA 3 - 5 Cloud9 Blue.
+Oxy killed havoc  in round 9
+Nozwer killed Oxy  in round 9
+Nozwer killed xeppaa  in round 9
+Nozwer killed moose  in round 9
+vanity killed Nozwer  in round 9
+vanity killed kon4n  in round 9
+mwzera killed vanity  in round 9
+runi killed mwzera  in round 9
+Khalil killed runi  in round 9
+Round 9 ended with elimination. The winning team is FURIA.
+The current score is FURIA 4 - 5 Cloud9 Blue.
+vanity killed kon4n  in round 10
+havoc killed vanity  in round 10
+Oxy killed havoc  in round 10
+Nozwer killed Oxy  in round 10
+moose killed Nozwer  in round 10
+moose killed mwzera  in round 10
+Round 10 ended with spike_defuse. The winning team is Cloud9 Blue.
+The current score is FURIA 4 - 6 Cloud9 Blue.
+runi killed Khalil  in round 11
+xeppaa killed mwzera  in round 11
+Oxy killed kon4n  in round 11
+runi killed Khalil  in round 11
+vanity killed Nozwer  in round 11
+havoc killed xeppaa  in round 11
+havoc killed moose  in round 11
+havoc killed Oxy  in round 11
+Round 11 ended with spike_defuse. The winning team is Cloud9 Blue.
+The current score is FURIA 4 - 7 Cloud9 Blue.
+vanity killed havoc  in round 12
+runi killed kon4n  in round 12
+Nozwer killed runi  in round 12
+moose killed mwzera  in round 12
+moose killed Khalil  in round 12
+moose killed Nozwer  in round 12
+havoc killed xeppaa  in round 12
+vanity killed havoc  in round 12
+Round 12 ended with elimination. The winning team is Cloud9 Blue.
+The current score is FURIA 4 - 8 Cloud9 Blue.
+Oxy killed Khalil  in round 13
+Nozwer killed Oxy  in round 13
+xeppaa killed mwzera  in round 13
+Nozwer killed xeppaa  in round 13
+moose killed kon4n  in round 13
+runi killed Nozwer  in round 13
+moose killed havoc  in round 13
+Round 13 ended with elimination. The winning team is Cloud9 Blue.
+The current score is FURIA 4 - 9 Cloud9 Blue.
+xeppaa killed havoc  in round 14
+Oxy killed Nozwer  in round 14
+vanity killed kon4n  in round 14
+Oxy killed mwzera  in round 14
+Khalil killed Oxy  in round 14
+Khalil killed vanity  in round 14
+runi killed Khalil  in round 14
+Round 14 ended with elimination. The winning team is Cloud9 Blue.
+The current score is FURIA 4 - 10 Cloud9 Blue.
+Oxy killed kon4n  in round 15
+runi killed Nozwer  in round 15
+havoc killed xeppaa  in round 15
+Khalil killed runi  in round 15
+Oxy killed Khalil  in round 15
+mwzera killed Oxy  in round 15
+vanity killed mwzera  in round 15
+havoc killed vanity  in round 15
+havoc killed moose  in round 15
+Round 15 ended with spike_defuse. The winning team is FURIA.
+The current score is FURIA 5 - 10 Cloud9 Blue.
+havoc killed Oxy  in round 16
+mwzera killed moose  in round 16
+mwzera killed xeppaa  in round 16
+runi killed havoc  in round 16
+Khalil killed runi  in round 16
+Khalil killed vanity  in round 16
+Round 16 ended with elimination. The winning team is FURIA.
+The current score is FURIA 6 - 10 Cloud9 Blue.
+Oxy killed havoc  in round 17
+Khalil killed vanity  in round 17
+Oxy killed kon4n  in round 17
+Oxy killed Nozwer  in round 17
+xeppaa killed mwzera  in round 17
+Khalil killed xeppaa  in round 17
+Oxy killed Khalil  in round 17
+Round 17 ended with elimination. The winning team is Cloud9 Blue.
+The current score is FURIA 6 - 11 Cloud9 Blue.
+mwzera killed Oxy  in round 18
+havoc killed moose  in round 18
+vanity killed havoc  in round 18
+xeppaa killed mwzera  in round 18
+Khalil killed runi  in round 18
+Nozwer killed xeppaa  in round 18
+vanity killed Khalil  in round 18
+kon4n killed vanity  in round 18
+Round 18 ended with elimination. The winning team is FURIA.
+The current score is FURIA 7 - 11 Cloud9 Blue.
+Oxy killed havoc  in round 19
+mwzera killed vanity  in round 19
+mwzera killed moose  in round 19
+Nozwer killed runi  in round 19
+Oxy killed mwzera  in round 19
+Nozwer killed Oxy  in round 19
+Nozwer killed xeppaa  in round 19
+Round 19 ended with elimination. The winning team is FURIA.
+The current score is FURIA 8 - 11 Cloud9 Blue.
+moose killed kon4n  in round 20
+Khalil killed moose  in round 20
+mwzera killed xeppaa  in round 20
+Oxy killed Khalil  in round 20
+Nozwer killed runi  in round 20
+mwzera killed vanity  in round 20
+Oxy killed mwzera  in round 20
+Oxy killed havoc  in round 20
+Oxy killed Nozwer  in round 20
+Round 20 ended with elimination. The winning team is Cloud9 Blue.
+The current score is FURIA 8 - 12 Cloud9 Blue.
+havoc killed moose  in round 21
+vanity killed Khalil  in round 21
+Oxy killed havoc  in round 21
+mwzera killed vanity  in round 21
+Nozwer killed Oxy  in round 21
+runi killed Nozwer  in round 21
+runi killed mwzera  in round 21
+kon4n killed runi  in round 21
+xeppaa killed kon4n  in round 21
+Round 21 ended with elimination. The winning team is Cloud9 Blue.
+The current score is FURIA 8 - 13 Cloud9 Blue.
+Game ended with winning team: Cloud9 Blue at 2024-04-28T23:32:05Z
+xeppaa killed xeppaa  in round 22
+
+--- Player Stats ---
+moose: Team=Cloud9 Blue, Kills=18, Deaths=12, Assists=5, KDA=1.92, First Kills=2, First Deaths=2
+vanity: Team=Cloud9 Blue, Kills=17, Deaths=16, Assists=15, KDA=2.0, First Kills=3, First Deaths=0
+Oxy: Team=Cloud9 Blue, Kills=28, Deaths=17, Assists=9, KDA=2.18, First Kills=7, First Deaths=2
+runi: Team=Cloud9 Blue, Kills=16, Deaths=12, Assists=5, KDA=1.75, First Kills=1, First Deaths=1
+xeppaa: Team=Cloud9 Blue, Kills=11, Deaths=16, Assists=10, KDA=1.31, First Kills=2, First Deaths=3
+kon4n: Team=FURIA, Kills=9, Deaths=17, Assists=5, KDA=0.82, First Kills=2, First Deaths=4
+mwzera: Team=FURIA, Kills=15, Deaths=18, Assists=5, KDA=1.11, First Kills=2, First Deaths=0
+Nozwer: Team=FURIA, Kills=15, Deaths=17, Assists=9, KDA=1.41, First Kills=0, First Deaths=0
+havoc: Team=FURIA, Kills=20, Deaths=18, Assists=2, KDA=1.22, First Kills=3, First Deaths=7
+Khalil: Team=FURIA, Kills=11, Deaths=17, Assists=6, KDA=1.0, First Kills=0, First Deaths=3

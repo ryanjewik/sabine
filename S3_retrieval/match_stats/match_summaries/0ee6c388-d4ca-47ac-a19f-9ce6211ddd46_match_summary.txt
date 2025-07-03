@@ -1,0 +1,220 @@
+Team 1: NRG
+Team 2: KOI
+Participating Players:
+Player 1: Trexx
+Player 2: starxo
+Player 3: koldamenta
+Player 4: Sheydos
+Player 5: Wolfen
+Player 6: crashies
+Player 7: Victor
+Player 8: FNS
+Player 9: s0m
+Player 10: ardiis
+Winning Team: NRG
+Score: NRG 13 - 9 KOI
+Tournament Name: lock in brazil 2023
+Game Start Time: 2023-02-13T18:26:02Z
+Game End Time: 2023-02-13T19:17:43Z
+Rounds ended by ELIMINATION count: 8
+Rounds ended by DEFUSE count: 7
+Rounds ended by DETONATE count: 7
+SPIKE PLANTED count: 14
+platformGameId: val:0ee6c388-d4ca-47ac-a19f-9ce6211ddd46
+
+--- Events ---
+Game started at 2023-02-13T18:26:02Z
+ardiis killed starxo  in round 1
+Wolfen killed FNS  in round 1
+s0m killed Wolfen  in round 1
+Trexx killed ardiis  in round 1
+Sheydos killed crashies  in round 1
+Sheydos killed s0m  in round 1
+Trexx killed Victor  in round 1
+Round 1 ended with spike_defuse. The winning team is KOI.
+The current score is NRG 0 - 1 KOI.
+FNS killed Trexx  in round 2
+Wolfen killed ardiis  in round 2
+FNS killed Wolfen  in round 2
+starxo killed crashies  in round 2
+FNS killed starxo  in round 2
+koldamenta killed s0m  in round 2
+Victor killed koldamenta  in round 2
+Victor killed Sheydos  in round 2
+Round 2 ended with elimination. The winning team is NRG.
+The current score is NRG 1 - 1 KOI.
+ardiis killed Wolfen  in round 3
+Round 3 ended with detonate. The winning team is NRG.
+The current score is NRG 2 - 1 KOI.
+Sheydos killed Sheydos  in round 4
+koldamenta killed koldamenta  in round 4
+starxo killed starxo  in round 4
+Trexx killed Trexx  in round 4
+Sheydos killed s0m  in round 4
+FNS killed Sheydos  in round 4
+koldamenta killed FNS  in round 4
+Trexx killed ardiis  in round 4
+crashies killed Wolfen  in round 4
+koldamenta killed crashies  in round 4
+koldamenta killed Victor  in round 4
+Round 4 ended with spike_defuse. The winning team is KOI.
+The current score is NRG 2 - 2 KOI.
+Victor killed Sheydos  in round 5
+koldamenta killed Victor  in round 5
+crashies killed Wolfen  in round 5
+crashies killed Trexx  in round 5
+koldamenta killed crashies  in round 5
+koldamenta killed FNS  in round 5
+s0m killed koldamenta  in round 5
+Round 5 ended with detonate. The winning team is NRG.
+The current score is NRG 3 - 2 KOI.
+Wolfen killed crashies  in round 6
+ardiis killed Wolfen  in round 6
+Trexx killed ardiis  in round 6
+starxo killed s0m  in round 6
+Sheydos killed Victor  in round 6
+Trexx killed FNS  in round 6
+Round 6 ended with spike_defuse. The winning team is KOI.
+The current score is NRG 3 - 3 KOI.
+ardiis killed Wolfen  in round 7
+Sheydos killed Victor  in round 7
+ardiis killed Sheydos  in round 7
+Trexx killed FNS  in round 7
+ardiis killed starxo  in round 7
+Round 7 ended with detonate. The winning team is NRG.
+The current score is NRG 4 - 3 KOI.
+Wolfen killed ardiis  in round 8
+FNS killed Wolfen  in round 8
+FNS killed koldamenta  in round 8
+Trexx killed FNS  in round 8
+Round 8 ended with detonate. The winning team is NRG.
+The current score is NRG 5 - 3 KOI.
+ardiis killed Trexx  in round 9
+crashies killed Wolfen  in round 9
+Round 9 ended with detonate. The winning team is NRG.
+The current score is NRG 6 - 3 KOI.
+Wolfen killed s0m  in round 10
+koldamenta killed Victor  in round 10
+starxo killed FNS  in round 10
+Wolfen killed crashies  in round 10
+koldamenta killed ardiis  in round 10
+Round 10 ended with elimination. The winning team is KOI.
+The current score is NRG 6 - 4 KOI.
+ardiis killed Wolfen  in round 11
+crashies killed koldamenta  in round 11
+starxo killed s0m  in round 11
+ardiis killed starxo  in round 11
+Trexx killed ardiis  in round 11
+crashies killed Sheydos  in round 11
+Trexx killed Victor  in round 11
+crashies killed Trexx  in round 11
+Round 11 ended with elimination. The winning team is NRG.
+The current score is NRG 7 - 4 KOI.
+ardiis killed Trexx  in round 12
+ardiis killed Sheydos  in round 12
+starxo killed ardiis  in round 12
+Victor killed koldamenta  in round 12
+Victor killed Wolfen  in round 12
+crashies killed starxo  in round 12
+Round 12 ended with elimination. The winning team is NRG.
+The current score is NRG 8 - 4 KOI.
+Victor killed starxo  in round 13
+Wolfen killed Victor  in round 13
+ardiis killed Wolfen  in round 13
+koldamenta killed ardiis  in round 13
+Sheydos killed FNS  in round 13
+Trexx killed s0m  in round 13
+crashies killed koldamenta  in round 13
+Trexx killed crashies  in round 13
+Round 13 ended with elimination. The winning team is KOI.
+The current score is NRG 8 - 5 KOI.
+Trexx killed s0m  in round 14
+FNS killed Wolfen  in round 14
+Victor killed koldamenta  in round 14
+Trexx killed crashies  in round 14
+starxo killed Victor  in round 14
+Sheydos killed FNS  in round 14
+Trexx killed ardiis  in round 14
+Round 14 ended with elimination. The winning team is KOI.
+The current score is NRG 8 - 6 KOI.
+koldamenta killed s0m  in round 15
+Wolfen killed Victor  in round 15
+Trexx killed crashies  in round 15
+Round 15 ended with detonate. The winning team is KOI.
+The current score is NRG 8 - 7 KOI.
+FNS killed koldamenta  in round 16
+FNS killed Wolfen  in round 16
+Victor killed Wolfen  in round 16
+Sheydos killed ardiis  in round 16
+Trexx killed Victor  in round 16
+Trexx killed crashies  in round 16
+koldamenta killed s0m  in round 16
+FNS killed koldamenta  in round 16
+Round 16 ended with detonate. The winning team is KOI.
+The current score is NRG 8 - 8 KOI.
+ardiis killed Sheydos  in round 17
+Victor killed Wolfen  in round 17
+Victor killed koldamenta  in round 17
+starxo killed Victor  in round 17
+FNS killed Trexx  in round 17
+ardiis killed starxo  in round 17
+Round 17 ended with spike_defuse. The winning team is NRG.
+The current score is NRG 9 - 8 KOI.
+crashies killed koldamenta  in round 18
+s0m killed Wolfen  in round 18
+s0m killed starxo  in round 18
+s0m killed Sheydos  in round 18
+Trexx killed crashies  in round 18
+s0m killed Trexx  in round 18
+Round 18 ended with elimination. The winning team is NRG.
+The current score is NRG 10 - 8 KOI.
+crashies killed koldamenta  in round 19
+Wolfen killed Victor  in round 19
+s0m killed starxo  in round 19
+s0m killed Trexx  in round 19
+crashies killed Wolfen  in round 19
+Sheydos killed s0m  in round 19
+crashies killed Sheydos  in round 19
+Round 19 ended with spike_defuse. The winning team is NRG.
+The current score is NRG 11 - 8 KOI.
+Wolfen killed crashies  in round 20
+s0m killed koldamenta  in round 20
+Victor killed Trexx  in round 20
+Sheydos killed Victor  in round 20
+s0m killed Sheydos  in round 20
+Wolfen killed ardiis  in round 20
+Wolfen killed s0m  in round 20
+Wolfen killed FNS  in round 20
+Round 20 ended with elimination. The winning team is KOI.
+The current score is NRG 11 - 9 KOI.
+starxo killed starxo  in round 21
+Wolfen killed Wolfen  in round 21
+Wolfen killed Victor  in round 21
+ardiis killed Wolfen  in round 21
+s0m killed starxo  in round 21
+FNS killed Sheydos  in round 21
+s0m killed Trexx  in round 21
+ardiis killed koldamenta  in round 21
+Round 21 ended with spike_defuse. The winning team is NRG.
+The current score is NRG 12 - 9 KOI.
+Victor killed Wolfen  in round 22
+Victor killed starxo  in round 22
+Trexx killed s0m  in round 22
+crashies killed Trexx  in round 22
+Victor killed Sheydos  in round 22
+Victor killed koldamenta  in round 22
+Round 22 ended with spike_defuse. The winning team is NRG.
+The current score is NRG 13 - 9 KOI.
+Game ended with winning team: NRG at 2023-02-13T19:17:43Z
+
+--- Player Stats ---
+Trexx: Team=KOI, Kills=20, Deaths=12, Assists=3, KDA=1.92, First Kills=1, First Deaths=3
+starxo: Team=KOI, Kills=9, Deaths=13, Assists=11, KDA=1.54, First Kills=1, First Deaths=3
+koldamenta: Team=KOI, Kills=13, Deaths=16, Assists=7, KDA=1.25, First Kills=1, First Deaths=3
+Sheydos: Team=KOI, Kills=11, Deaths=13, Assists=2, KDA=1.0, First Kills=1, First Deaths=3
+Wolfen: Team=KOI, Kills=15, Deaths=21, Assists=4, KDA=0.9, First Kills=4, First Deaths=4
+crashies: Team=NRG, Kills=14, Deaths=12, Assists=11, KDA=2.08, First Kills=2, First Deaths=2
+Victor: Team=NRG, Kills=15, Deaths=15, Assists=1, KDA=1.07, First Kills=3, First Deaths=0
+FNS: Team=NRG, Kills=12, Deaths=10, Assists=15, KDA=2.7, First Kills=2, First Deaths=0
+s0m: Team=NRG, Kills=12, Deaths=13, Assists=8, KDA=1.54, First Kills=0, First Deaths=3
+ardiis: Team=NRG, Kills=16, Deaths=12, Assists=3, KDA=1.58, First Kills=7, First Deaths=1

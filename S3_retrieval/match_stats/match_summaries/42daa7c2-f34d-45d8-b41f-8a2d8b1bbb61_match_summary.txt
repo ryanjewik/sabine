@@ -1,0 +1,198 @@
+Team 1: Futbolist
+Team 2: Team Liquid
+Participating Players:
+Player 1: Mistic
+Player 2: nAts
+Player 3: Enzo 
+Player 4: Keiko
+Player 5: Jamppi
+Player 6: qRaxs
+Player 7: yetujey
+Player 8: MrFaliN
+Player 9: cNed
+Player 10: ATA KAPTAN
+Winning Team: Futbolist
+Score: Futbolist 13 - 5 Team Liquid
+Tournament Name: vct emea stage 1 2024
+Game Start Time: 2024-04-05T14:44:58Z
+Game End Time: 2024-04-05T15:41:01Z
+Rounds ended by ELIMINATION count: 12
+Rounds ended by DEFUSE count: 2
+Rounds ended by DETONATE count: 4
+SPIKE PLANTED count: 6
+platformGameId: val:42daa7c2-f34d-45d8-b41f-8a2d8b1bbb61
+
+--- Events ---
+Game started at 2024-04-05T14:44:58Z
+Keiko killed qRaxs  in round 1
+ATA KAPTAN killed Mistic  in round 1
+nAts killed MrFaliN  in round 1
+nAts killed ATA KAPTAN  in round 1
+nAts killed cNed  in round 1
+Enzo  killed yetujey  in round 1
+Round 1 ended with elimination. The winning team is Team Liquid.
+The current score is Futbolist 0 - 1 Team Liquid.
+cNed killed nAts  in round 2
+Enzo  killed cNed  in round 2
+qRaxs killed Enzo   in round 2
+Jamppi killed MrFaliN  in round 2
+yetujey killed Mistic  in round 2
+Keiko killed yetujey  in round 2
+ATA KAPTAN killed Jamppi  in round 2
+Keiko killed qRaxs  in round 2
+ATA KAPTAN killed Keiko  in round 2
+Round 2 ended with elimination. The winning team is Futbolist.
+The current score is Futbolist 1 - 1 Team Liquid.
+cNed killed Keiko  in round 3
+Enzo  killed qRaxs  in round 3
+nAts killed cNed  in round 3
+ATA KAPTAN killed Jamppi  in round 3
+ATA KAPTAN killed Mistic  in round 3
+Enzo  killed ATA KAPTAN  in round 3
+Round 3 ended with detonate. The winning team is Futbolist.
+The current score is Futbolist 2 - 1 Team Liquid.
+nAts killed nAts  in round 4
+cNed killed Jamppi  in round 4
+Enzo  killed ATA KAPTAN  in round 4
+yetujey killed Mistic  in round 4
+Enzo  killed yetujey  in round 4
+qRaxs killed Keiko  in round 4
+qRaxs killed Enzo   in round 4
+qRaxs killed nAts  in round 4
+Round 4 ended with elimination. The winning team is Futbolist.
+The current score is Futbolist 3 - 1 Team Liquid.
+Jamppi killed qRaxs  in round 5
+cNed killed Jamppi  in round 5
+Mistic killed cNed  in round 5
+Enzo  killed ATA KAPTAN  in round 5
+yetujey killed Keiko  in round 5
+MrFaliN killed Mistic  in round 5
+yetujey killed nAts  in round 5
+yetujey killed Enzo   in round 5
+Round 5 ended with elimination. The winning team is Futbolist.
+The current score is Futbolist 4 - 1 Team Liquid.
+yetujey killed Enzo   in round 6
+cNed killed Keiko  in round 6
+MrFaliN killed Jamppi  in round 6
+Mistic killed MrFaliN  in round 6
+Round 6 ended with detonate. The winning team is Futbolist.
+The current score is Futbolist 5 - 1 Team Liquid.
+Mistic killed Mistic  in round 7
+nAts killed nAts  in round 7
+ATA KAPTAN killed Keiko  in round 7
+Keiko killed ATA KAPTAN  in round 7
+cNed killed Jamppi  in round 7
+cNed killed Enzo   in round 7
+nAts killed cNed  in round 7
+yetujey killed nAts  in round 7
+MrFaliN killed Mistic  in round 7
+Round 7 ended with elimination. The winning team is Futbolist.
+The current score is Futbolist 6 - 1 Team Liquid.
+Keiko killed yetujey  in round 8
+ATA KAPTAN killed Jamppi  in round 8
+Mistic killed ATA KAPTAN  in round 8
+Enzo  killed MrFaliN  in round 8
+nAts killed cNed  in round 8
+qRaxs killed Enzo   in round 8
+qRaxs killed nAts  in round 8
+Mistic killed qRaxs  in round 8
+Round 8 ended with elimination. The winning team is Team Liquid.
+The current score is Futbolist 6 - 2 Team Liquid.
+nAts killed MrFaliN  in round 9
+qRaxs killed nAts  in round 9
+qRaxs killed Enzo   in round 9
+Mistic killed qRaxs  in round 9
+cNed killed Mistic  in round 9
+Round 9 ended with detonate. The winning team is Futbolist.
+The current score is Futbolist 7 - 2 Team Liquid.
+ATA KAPTAN killed Mistic  in round 10
+cNed killed Jamppi  in round 10
+qRaxs killed Enzo   in round 10
+MrFaliN killed nAts  in round 10
+Keiko killed qRaxs  in round 10
+Keiko killed cNed  in round 10
+Keiko killed MrFaliN  in round 10
+ATA KAPTAN killed Keiko  in round 10
+Round 10 ended with elimination. The winning team is Futbolist.
+The current score is Futbolist 8 - 2 Team Liquid.
+Jamppi killed ATA KAPTAN  in round 11
+cNed killed Jamppi  in round 11
+MrFaliN killed nAts  in round 11
+cNed killed Enzo   in round 11
+Mistic killed yetujey  in round 11
+cNed killed Keiko  in round 11
+cNed killed Mistic  in round 11
+Round 11 ended with elimination. The winning team is Futbolist.
+The current score is Futbolist 9 - 2 Team Liquid.
+MrFaliN killed Jamppi  in round 12
+Keiko killed MrFaliN  in round 12
+qRaxs killed Keiko  in round 12
+yetujey killed Mistic  in round 12
+Enzo  killed ATA KAPTAN  in round 12
+cNed killed Enzo   in round 12
+cNed killed nAts  in round 12
+Round 12 ended with elimination. The winning team is Futbolist.
+The current score is Futbolist 10 - 2 Team Liquid.
+ATA KAPTAN killed nAts  in round 13
+qRaxs killed Keiko  in round 13
+ATA KAPTAN killed Enzo   in round 13
+yetujey killed Jamppi  in round 13
+Mistic killed qRaxs  in round 13
+Round 13 ended with spike_defuse. The winning team is Futbolist.
+The current score is Futbolist 11 - 2 Team Liquid.
+ATA KAPTAN killed Mistic  in round 14
+MrFaliN killed Keiko  in round 14
+qRaxs killed Enzo   in round 14
+Jamppi killed qRaxs  in round 14
+yetujey killed nAts  in round 14
+MrFaliN killed Jamppi  in round 14
+ATA KAPTAN killed Mistic  in round 14
+Round 14 ended with elimination. The winning team is Futbolist.
+The current score is Futbolist 12 - 2 Team Liquid.
+Keiko killed cNed  in round 15
+MrFaliN killed Enzo   in round 15
+Keiko killed MrFaliN  in round 15
+Jamppi killed qRaxs  in round 15
+nAts killed ATA KAPTAN  in round 15
+Mistic killed yetujey  in round 15
+Round 15 ended with elimination. The winning team is Team Liquid.
+The current score is Futbolist 12 - 3 Team Liquid.
+Jamppi killed qRaxs  in round 16
+Jamppi killed ATA KAPTAN  in round 16
+cNed killed Enzo   in round 16
+Jamppi killed cNed  in round 16
+nAts killed MrFaliN  in round 16
+Jamppi killed yetujey  in round 16
+Round 16 ended with elimination. The winning team is Team Liquid.
+The current score is Futbolist 12 - 4 Team Liquid.
+ATA KAPTAN killed nAts  in round 17
+Jamppi killed ATA KAPTAN  in round 17
+MrFaliN killed Jamppi  in round 17
+Mistic killed MrFaliN  in round 17
+Keiko killed qRaxs  in round 17
+Enzo  killed yetujey  in round 17
+cNed killed Keiko  in round 17
+Round 17 ended with detonate. The winning team is Team Liquid.
+The current score is Futbolist 12 - 5 Team Liquid.
+Mistic killed cNed  in round 18
+nAts killed ATA KAPTAN  in round 18
+cNed killed nAts  in round 18
+MrFaliN killed Jamppi  in round 18
+yetujey killed Keiko  in round 18
+qRaxs killed Enzo   in round 18
+cNed killed Mistic  in round 18
+Round 18 ended with spike_defuse. The winning team is Futbolist.
+The current score is Futbolist 13 - 5 Team Liquid.
+Game ended with winning team: Futbolist at 2024-04-05T15:41:01Z
+
+--- Player Stats ---
+Mistic: Team=Team Liquid, Kills=11, Deaths=14, Assists=5, KDA=1.14, First Kills=2, First Deaths=3
+nAts: Team=Team Liquid, Kills=12, Deaths=15, Assists=2, KDA=0.93, First Kills=2, First Deaths=4
+Enzo : Team=Team Liquid, Kills=10, Deaths=15, Assists=4, KDA=0.93, First Kills=0, First Deaths=1
+Keiko: Team=Team Liquid, Kills=12, Deaths=13, Assists=3, KDA=1.15, First Kills=3, First Deaths=1
+Jamppi: Team=Team Liquid, Kills=10, Deaths=14, Assists=5, KDA=1.07, First Kills=3, First Deaths=1
+qRaxs: Team=Futbolist, Kills=13, Deaths=12, Assists=2, KDA=1.25, First Kills=0, First Deaths=3
+yetujey: Team=Futbolist, Kills=11, Deaths=8, Assists=3, KDA=1.75, First Kills=1, First Deaths=1
+MrFaliN: Team=Futbolist, Kills=11, Deaths=10, Assists=8, KDA=1.9, First Kills=1, First Deaths=1
+cNed: Team=Futbolist, Kills=19, Deaths=10, Assists=1, KDA=2.0, First Kills=2, First Deaths=2
+ATA KAPTAN: Team=Futbolist, Kills=14, Deaths=12, Assists=6, KDA=1.67, First Kills=4, First Deaths=1

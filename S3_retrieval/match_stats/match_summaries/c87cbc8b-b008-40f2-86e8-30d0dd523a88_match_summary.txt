@@ -1,0 +1,199 @@
+Team 1: Evil Geniuses
+Team 2: Leviatán Esports
+Participating Players:
+Player 1: aspas
+Player 2: tex
+Player 3: kiNgg
+Player 4: C0M
+Player 5: Mazino
+Player 6: JAWGEMO
+Player 7: Derrek
+Player 8: NaturE
+Player 9: Apoth
+Player 10: supamen
+Winning Team: Leviatán Esports
+Score: Evil Geniuses 5 - 13 Leviatán Esports
+Tournament Name: vct americas stage 2 2024
+Game Start Time: 2024-07-02T20:52:08Z
+Game End Time: 2024-07-02T21:45:40Z
+Rounds ended by ELIMINATION count: 12
+Rounds ended by DEFUSE count: 4
+Rounds ended by DETONATE count: 2
+SPIKE PLANTED count: 6
+platformGameId: val:c87cbc8b-b008-40f2-86e8-30d0dd523a88
+
+--- Events ---
+Game started at 2024-07-02T20:52:08Z
+Mazino killed Derrek  in round 1
+kiNgg killed JAWGEMO  in round 1
+supamen killed tex  in round 1
+Mazino killed Apoth  in round 1
+NaturE killed Mazino  in round 1
+kiNgg killed supamen  in round 1
+aspas killed NaturE  in round 1
+Round 1 ended with spike_defuse. The winning team is Leviatán Esports.
+The current score is Evil Geniuses 0 - 1 Leviatán Esports.
+tex killed NaturE  in round 2
+tex killed Apoth  in round 2
+tex killed supamen  in round 2
+Derrek killed tex  in round 2
+Mazino killed Derrek  in round 2
+JAWGEMO killed aspas  in round 2
+kiNgg killed JAWGEMO  in round 2
+Round 2 ended with elimination. The winning team is Leviatán Esports.
+The current score is Evil Geniuses 0 - 2 Leviatán Esports.
+Mazino killed supamen  in round 3
+aspas killed NaturE  in round 3
+Apoth killed kiNgg  in round 3
+Apoth killed Mazino  in round 3
+JAWGEMO killed tex  in round 3
+C0M killed JAWGEMO  in round 3
+Round 3 ended with detonate. The winning team is Evil Geniuses.
+The current score is Evil Geniuses 1 - 2 Leviatán Esports.
+Apoth killed Mazino  in round 4
+aspas killed NaturE  in round 4
+JAWGEMO killed C0M  in round 4
+JAWGEMO killed tex  in round 4
+Apoth killed kiNgg  in round 4
+Round 4 ended with detonate. The winning team is Evil Geniuses.
+The current score is Evil Geniuses 2 - 2 Leviatán Esports.
+aspas killed supamen  in round 5
+aspas killed JAWGEMO  in round 5
+Apoth killed aspas  in round 5
+Apoth killed C0M  in round 5
+kiNgg killed Apoth  in round 5
+NaturE killed tex  in round 5
+kiNgg killed JAWGEMO  in round 5
+Mazino killed Derrek  in round 5
+Mazino killed NaturE  in round 5
+kiNgg killed supamen  in round 5
+Round 5 ended with spike_defuse. The winning team is Leviatán Esports.
+The current score is Evil Geniuses 2 - 3 Leviatán Esports.
+Mazino killed Apoth  in round 6
+Mazino killed JAWGEMO  in round 6
+supamen killed kiNgg  in round 6
+Mazino killed Derrek  in round 6
+Mazino killed NaturE  in round 6
+supamen killed Mazino  in round 6
+C0M killed supamen  in round 6
+Round 6 ended with elimination. The winning team is Leviatán Esports.
+The current score is Evil Geniuses 2 - 4 Leviatán Esports.
+tex killed supamen  in round 7
+aspas killed supamen  in round 7
+aspas killed NaturE  in round 7
+JAWGEMO killed aspas  in round 7
+C0M killed Apoth  in round 7
+C0M killed supamen  in round 7
+JAWGEMO killed C0M  in round 7
+JAWGEMO killed tex  in round 7
+Mazino killed Derrek  in round 7
+JAWGEMO killed kiNgg  in round 7
+JAWGEMO killed Mazino  in round 7
+Round 7 ended with elimination. The winning team is Evil Geniuses.
+The current score is Evil Geniuses 3 - 4 Leviatán Esports.
+Mazino killed Apoth  in round 8
+Mazino killed JAWGEMO  in round 8
+Mazino killed supamen  in round 8
+Derrek killed Mazino  in round 8
+aspas killed Derrek  in round 8
+tex killed NaturE  in round 8
+Round 8 ended with spike_defuse. The winning team is Leviatán Esports.
+The current score is Evil Geniuses 3 - 5 Leviatán Esports.
+aspas killed JAWGEMO  in round 9
+Mazino killed Derrek  in round 9
+kiNgg killed NaturE  in round 9
+tex killed supamen  in round 9
+Mazino killed Apoth  in round 9
+Round 9 ended with elimination. The winning team is Leviatán Esports.
+The current score is Evil Geniuses 3 - 6 Leviatán Esports.
+aspas killed supamen  in round 10
+aspas killed Derrek  in round 10
+NaturE killed C0M  in round 10
+kiNgg killed NaturE  in round 10
+kiNgg killed Apoth  in round 10
+aspas killed JAWGEMO  in round 10
+Round 10 ended with spike_defuse. The winning team is Leviatán Esports.
+The current score is Evil Geniuses 3 - 7 Leviatán Esports.
+supamen killed Mazino  in round 11
+C0M killed JAWGEMO  in round 11
+Apoth killed C0M  in round 11
+Apoth killed kiNgg  in round 11
+Derrek killed tex  in round 11
+Derrek killed aspas  in round 11
+Round 11 ended with elimination. The winning team is Evil Geniuses.
+The current score is Evil Geniuses 4 - 7 Leviatán Esports.
+supamen killed Mazino  in round 12
+Apoth killed tex  in round 12
+C0M killed supamen  in round 12
+supamen killed kiNgg  in round 12
+C0M killed supamen  in round 12
+Apoth killed C0M  in round 12
+aspas killed NaturE  in round 12
+Apoth killed aspas  in round 12
+Round 12 ended with elimination. The winning team is Evil Geniuses.
+The current score is Evil Geniuses 5 - 7 Leviatán Esports.
+aspas killed JAWGEMO  in round 13
+aspas killed Derrek  in round 13
+Mazino killed supamen  in round 13
+kiNgg killed Apoth  in round 13
+aspas killed NaturE  in round 13
+Round 13 ended with elimination. The winning team is Leviatán Esports.
+The current score is Evil Geniuses 5 - 8 Leviatán Esports.
+aspas killed Derrek  in round 14
+aspas killed JAWGEMO  in round 14
+supamen killed aspas  in round 14
+C0M killed supamen  in round 14
+Apoth killed Mazino  in round 14
+C0M killed Apoth  in round 14
+NaturE killed C0M  in round 14
+kiNgg killed NaturE  in round 14
+Round 14 ended with elimination. The winning team is Leviatán Esports.
+The current score is Evil Geniuses 5 - 9 Leviatán Esports.
+supamen killed tex  in round 15
+aspas killed JAWGEMO  in round 15
+Mazino killed Apoth  in round 15
+NaturE killed kiNgg  in round 15
+C0M killed NaturE  in round 15
+C0M killed supamen  in round 15
+C0M killed Derrek  in round 15
+Round 15 ended with elimination. The winning team is Leviatán Esports.
+The current score is Evil Geniuses 5 - 10 Leviatán Esports.
+kiNgg killed supamen  in round 16
+Derrek killed C0M  in round 16
+kiNgg killed Derrek  in round 16
+aspas killed Apoth  in round 16
+aspas killed JAWGEMO  in round 16
+Mazino killed NaturE  in round 16
+Round 16 ended with elimination. The winning team is Leviatán Esports.
+The current score is Evil Geniuses 5 - 11 Leviatán Esports.
+JAWGEMO killed aspas  in round 17
+kiNgg killed supamen  in round 17
+Mazino killed Apoth  in round 17
+kiNgg killed JAWGEMO  in round 17
+Mazino killed Derrek  in round 17
+NaturE killed Mazino  in round 17
+kiNgg killed NaturE  in round 17
+Round 17 ended with elimination. The winning team is Leviatán Esports.
+The current score is Evil Geniuses 5 - 12 Leviatán Esports.
+aspas killed NaturE  in round 18
+tex killed Apoth  in round 18
+aspas killed JAWGEMO  in round 18
+supamen killed aspas  in round 18
+Derrek killed tex  in round 18
+C0M killed Derrek  in round 18
+C0M killed supamen  in round 18
+Round 18 ended with elimination. The winning team is Leviatán Esports.
+The current score is Evil Geniuses 5 - 13 Leviatán Esports.
+Game ended with winning team: Leviatán Esports at 2024-07-02T21:45:40Z
+
+--- Player Stats ---
+aspas: Team=Leviatán Esports, Kills=23, Deaths=8, Assists=2, KDA=3.12, First Kills=6, First Deaths=1
+tex: Team=Leviatán Esports, Kills=7, Deaths=10, Assists=3, KDA=1.0, First Kills=2, First Deaths=1
+kiNgg: Team=Leviatán Esports, Kills=16, Deaths=7, Assists=8, KDA=3.43, First Kills=1, First Deaths=0
+C0M: Team=Leviatán Esports, Kills=14, Deaths=8, Assists=4, KDA=2.25, First Kills=0, First Deaths=0
+Mazino: Team=Leviatán Esports, Kills=21, Deaths=10, Assists=7, KDA=2.8, First Kills=4, First Deaths=3
+JAWGEMO: Team=Evil Geniuses, Kills=10, Deaths=16, Assists=7, KDA=1.06, First Kills=1, First Deaths=2
+Derrek: Team=Evil Geniuses, Kills=6, Deaths=14, Assists=2, KDA=0.57, First Kills=0, First Deaths=2
+NaturE: Team=Evil Geniuses, Kills=6, Deaths=17, Assists=0, KDA=0.35, First Kills=0, First Deaths=2
+Apoth: Team=Evil Geniuses, Kills=12, Deaths=14, Assists=1, KDA=0.93, First Kills=1, First Deaths=2
+supamen: Team=Evil Geniuses, Kills=9, Deaths=20, Assists=2, KDA=0.55, First Kills=3, First Deaths=5

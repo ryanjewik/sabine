@@ -1,0 +1,194 @@
+Team 1: Team Vitality
+Team 2: KOI
+Participating Players:
+Player 1: Sheydos
+Player 2: starxo
+Player 3: Shadow 
+Player 4: kamo
+Player 5: GRUBINHO
+Player 6: Kicks
+Player 7: runneR
+Player 8: ceNder
+Player 9: Sayf
+Player 10: Trexx
+Winning Team: KOI
+Score: Team Vitality 4 - 13 KOI
+Tournament Name: vct emea stage 1 2024
+Game Start Time: 2024-05-02T16:53:44Z
+Game End Time: 2024-05-02T17:31:06Z
+Rounds ended by ELIMINATION count: 6
+Rounds ended by DEFUSE count: 9
+Rounds ended by DETONATE count: 1
+SPIKE PLANTED count: 10
+platformGameId: val:cdcc22dc-3b1a-47ca-b043-14d0d9631692
+
+--- Events ---
+Game started at 2024-05-02T16:53:44Z
+Shadow  killed runneR  in round 1
+starxo killed ceNder  in round 1
+Kicks killed Sheydos  in round 1
+kamo killed Kicks  in round 1
+Trexx killed kamo  in round 1
+starxo killed Sayf  in round 1
+Round 1 ended with spike_defuse. The winning team is KOI.
+The current score is Team Vitality 0 - 1 KOI.
+Trexx killed Shadow   in round 2
+starxo killed Trexx  in round 2
+kamo killed runneR  in round 2
+kamo killed Sayf  in round 2
+starxo killed ceNder  in round 2
+Sheydos killed Trexx  in round 2
+Kicks killed Shadow   in round 2
+Sheydos killed Kicks  in round 2
+Round 2 ended with spike_defuse. The winning team is KOI.
+The current score is Team Vitality 0 - 2 KOI.
+GRUBINHO killed Kicks  in round 3
+runneR killed Shadow   in round 3
+runneR killed starxo  in round 3
+Sheydos killed runneR  in round 3
+Sayf killed kamo  in round 3
+Trexx killed GRUBINHO  in round 3
+Sheydos killed Sayf  in round 3
+ceNder killed Sheydos  in round 3
+Round 3 ended with elimination. The winning team is Team Vitality.
+The current score is Team Vitality 1 - 2 KOI.
+kamo killed ceNder  in round 4
+GRUBINHO killed runneR  in round 4
+Trexx killed kamo  in round 4
+Sheydos killed Trexx  in round 4
+Kicks killed GRUBINHO  in round 4
+Kicks killed starxo  in round 4
+Shadow  killed Kicks  in round 4
+Sheydos killed Sayf  in round 4
+Round 4 ended with spike_defuse. The winning team is KOI.
+The current score is Team Vitality 1 - 3 KOI.
+kamo killed runneR  in round 5
+Trexx killed kamo  in round 5
+Sheydos killed Trexx  in round 5
+Shadow  killed Sayf  in round 5
+ceNder killed Shadow   in round 5
+ceNder killed Sheydos  in round 5
+GRUBINHO killed Kicks  in round 5
+ceNder killed starxo  in round 5
+GRUBINHO killed ceNder  in round 5
+Round 5 ended with spike_defuse. The winning team is KOI.
+The current score is Team Vitality 1 - 4 KOI.
+kamo killed Trexx  in round 6
+GRUBINHO killed runneR  in round 6
+kamo killed Sayf  in round 6
+Kicks killed kamo  in round 6
+ceNder killed GRUBINHO  in round 6
+Kicks killed starxo  in round 6
+Shadow  killed ceNder  in round 6
+Sheydos killed Kicks  in round 6
+Round 6 ended with spike_defuse. The winning team is KOI.
+The current score is Team Vitality 1 - 5 KOI.
+kamo killed ceNder  in round 7
+Shadow  killed runneR  in round 7
+Trexx killed starxo  in round 7
+Shadow  killed Trexx  in round 7
+Shadow  killed Sayf  in round 7
+GRUBINHO killed Kicks  in round 7
+Round 7 ended with spike_defuse. The winning team is KOI.
+The current score is Team Vitality 1 - 6 KOI.
+Trexx killed starxo  in round 8
+runneR killed kamo  in round 8
+Shadow  killed Trexx  in round 8
+GRUBINHO killed Kicks  in round 8
+GRUBINHO killed Sayf  in round 8
+Sheydos killed runneR  in round 8
+ceNder killed Sheydos  in round 8
+GRUBINHO killed ceNder  in round 8
+Round 8 ended with detonate. The winning team is Team Vitality.
+The current score is Team Vitality 2 - 6 KOI.
+Shadow  killed Shadow   in round 9
+runneR killed GRUBINHO  in round 9
+Shadow  killed Kicks  in round 9
+Sheydos killed Sayf  in round 9
+runneR killed starxo  in round 9
+Sheydos killed runneR  in round 9
+ceNder killed kamo  in round 9
+Shadow  killed ceNder  in round 9
+kamo killed Trexx  in round 9
+Round 9 ended with spike_defuse. The winning team is KOI.
+The current score is Team Vitality 2 - 7 KOI.
+kamo killed runneR  in round 10
+Sheydos killed Trexx  in round 10
+Sayf killed Sheydos  in round 10
+GRUBINHO killed Sayf  in round 10
+ceNder killed Shadow   in round 10
+starxo killed ceNder  in round 10
+starxo killed Kicks  in round 10
+Round 10 ended with spike_defuse. The winning team is KOI.
+The current score is Team Vitality 2 - 8 KOI.
+starxo killed Sayf  in round 11
+starxo killed ceNder  in round 11
+GRUBINHO killed runneR  in round 11
+Kicks killed GRUBINHO  in round 11
+Trexx killed kamo  in round 11
+Sheydos killed Trexx  in round 11
+Shadow  killed Kicks  in round 11
+Round 11 ended with spike_defuse. The winning team is KOI.
+The current score is Team Vitality 2 - 9 KOI.
+Kicks killed Sheydos  in round 12
+starxo killed Trexx  in round 12
+kamo killed runneR  in round 12
+Sayf killed starxo  in round 12
+Sayf killed Shadow   in round 12
+Sayf killed kamo  in round 12
+Sayf killed GRUBINHO  in round 12
+Round 12 ended with elimination. The winning team is Team Vitality.
+The current score is Team Vitality 3 - 9 KOI.
+Shadow  killed runneR  in round 13
+Shadow  killed ceNder  in round 13
+GRUBINHO killed Trexx  in round 13
+kamo killed Sayf  in round 13
+Kicks killed kamo  in round 13
+starxo killed Kicks  in round 13
+Round 13 ended with elimination. The winning team is KOI.
+The current score is Team Vitality 3 - 10 KOI.
+GRUBINHO killed ceNder  in round 14
+kamo killed Sayf  in round 14
+kamo killed runneR  in round 14
+starxo killed Trexx  in round 14
+starxo killed Kicks  in round 14
+Round 14 ended with elimination. The winning team is KOI.
+The current score is Team Vitality 3 - 11 KOI.
+Sayf killed Shadow   in round 15
+runneR killed kamo  in round 15
+GRUBINHO killed Trexx  in round 15
+Kicks killed GRUBINHO  in round 15
+ceNder killed starxo  in round 15
+Round 15 ended with time_expired. The winning team is Team Vitality.
+The current score is Team Vitality 4 - 11 KOI.
+Sayf killed starxo  in round 16
+kamo killed Trexx  in round 16
+kamo killed Kicks  in round 16
+ceNder killed kamo  in round 16
+Sheydos killed ceNder  in round 16
+GRUBINHO killed Sayf  in round 16
+runneR killed Shadow   in round 16
+Sheydos killed runneR  in round 16
+Round 16 ended with elimination. The winning team is KOI.
+The current score is Team Vitality 4 - 12 KOI.
+Sheydos killed Sayf  in round 17
+GRUBINHO killed ceNder  in round 17
+Sheydos killed Trexx  in round 17
+GRUBINHO killed runneR  in round 17
+Kicks killed starxo  in round 17
+GRUBINHO killed Kicks  in round 17
+Round 17 ended with elimination. The winning team is KOI.
+The current score is Team Vitality 4 - 13 KOI.
+Game ended with winning team: KOI at 2024-05-02T17:31:06Z
+
+--- Player Stats ---
+Sheydos: Team=KOI, Kills=17, Deaths=6, Assists=1, KDA=3.0, First Kills=1, First Deaths=1
+starxo: Team=KOI, Kills=12, Deaths=11, Assists=16, KDA=2.55, First Kills=1, First Deaths=2
+Shadow : Team=KOI, Kills=14, Deaths=9, Assists=5, KDA=2.11, First Kills=3, First Deaths=3
+kamo: Team=KOI, Kills=16, Deaths=12, Assists=4, KDA=1.67, First Kills=5, First Deaths=0
+GRUBINHO: Team=KOI, Kills=18, Deaths=7, Assists=4, KDA=3.14, First Kills=2, First Deaths=0
+Kicks: Team=Team Vitality, Kills=11, Deaths=15, Assists=3, KDA=0.93, First Kills=1, First Deaths=1
+runneR: Team=Team Vitality, Kills=7, Deaths=16, Assists=3, KDA=0.62, First Kills=0, First Deaths=4
+ceNder: Team=Team Vitality, Kills=10, Deaths=14, Assists=7, KDA=1.21, First Kills=0, First Deaths=3
+Sayf: Team=Team Vitality, Kills=8, Deaths=15, Assists=2, KDA=0.67, First Kills=2, First Deaths=2
+Trexx: Team=Team Vitality, Kills=8, Deaths=16, Assists=7, KDA=0.94, First Kills=2, First Deaths=1

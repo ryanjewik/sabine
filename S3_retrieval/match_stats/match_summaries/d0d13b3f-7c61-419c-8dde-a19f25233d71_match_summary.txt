@@ -1,0 +1,273 @@
+Team 1: None
+Team 2: FunPlus Phoenix
+Participating Players:
+Player 1: SEIDER
+Player 2: ardiis
+Player 3: ANGE1
+Player 4: Shao
+Player 5: Zyppan
+Player 6: Surf
+Player 7: Crws
+Player 8: foxz
+Player 9: CGRS
+Player 10: sScary
+Winning Team: FunPlus Phoenix
+Score: None 12 - 14 FunPlus Phoenix
+Tournament Name: masters 2 2022 stage 1
+Game Start Time: 2022-07-11T15:04:00Z
+Game End Time: 2022-07-11T16:15:36Z
+Rounds ended by ELIMINATION count: 18
+Rounds ended by DEFUSE count: 3
+Rounds ended by DETONATE count: 4
+SPIKE PLANTED count: 7
+platformGameId: val:d0d13b3f-7c61-419c-8dde-a19f25233d71
+
+--- Events ---
+Game started at 2022-07-11T15:04:00Z
+SEIDER killed CGRS  in round 1
+sScary killed SEIDER  in round 1
+foxz killed ardiis  in round 1
+sScary killed ANGE1  in round 1
+Surf killed Shao  in round 1
+sScary killed Zyppan  in round 1
+Round 1 ended with elimination. The winning team is None.
+The current score is None 1 - 0 FunPlus Phoenix.
+ANGE1 killed CGRS  in round 2
+Crws killed Zyppan  in round 2
+Surf killed SEIDER  in round 2
+ANGE1 killed foxz  in round 2
+Crws killed Shao  in round 2
+ardiis killed Surf  in round 2
+Crws killed ANGE1  in round 2
+ardiis killed Crws  in round 2
+Round 2 ended with detonate. The winning team is None.
+The current score is None 2 - 0 FunPlus Phoenix.
+ardiis killed ardiis  in round 3
+Zyppan killed Crws  in round 3
+Surf killed Zyppan  in round 3
+ANGE1 killed Surf  in round 3
+Shao killed foxz  in round 3
+Shao killed CGRS  in round 3
+ardiis killed sScary  in round 3
+Round 3 ended with elimination. The winning team is FunPlus Phoenix.
+The current score is None 2 - 1 FunPlus Phoenix.
+ardiis killed foxz  in round 4
+ardiis killed Surf  in round 4
+CGRS killed ardiis  in round 4
+SEIDER killed CGRS  in round 4
+ANGE1 killed Crws  in round 4
+Round 4 ended with spike_defuse. The winning team is FunPlus Phoenix.
+The current score is None 2 - 2 FunPlus Phoenix.
+sScary killed ANGE1  in round 5
+Shao killed sScary  in round 5
+Surf killed SEIDER  in round 5
+ardiis killed Surf  in round 5
+ardiis killed foxz  in round 5
+CGRS killed Shao  in round 5
+Crws killed ardiis  in round 5
+Zyppan killed CGRS  in round 5
+Crws killed ANGE1  in round 5
+Zyppan killed Crws  in round 5
+Zyppan killed sScary  in round 5
+Round 5 ended with elimination. The winning team is FunPlus Phoenix.
+The current score is None 2 - 3 FunPlus Phoenix.
+CGRS killed SEIDER  in round 6
+CGRS killed ardiis  in round 6
+sScary killed Shao  in round 6
+foxz killed ANGE1  in round 6
+Zyppan killed foxz  in round 6
+sScary killed Zyppan  in round 6
+Round 6 ended with elimination. The winning team is None.
+The current score is None 3 - 3 FunPlus Phoenix.
+Shao killed Surf  in round 7
+sScary killed Shao  in round 7
+Zyppan killed CGRS  in round 7
+CGRS killed Zyppan  in round 7
+sScary killed ANGE1  in round 7
+foxz killed SEIDER  in round 7
+ardiis killed foxz  in round 7
+ardiis killed Crws  in round 7
+Round 7 ended with detonate. The winning team is None.
+The current score is None 4 - 3 FunPlus Phoenix.
+foxz killed ardiis  in round 8
+Shao killed Surf  in round 8
+Crws killed ANGE1  in round 8
+Zyppan killed CGRS  in round 8
+foxz killed Zyppan  in round 8
+foxz killed Shao  in round 8
+sScary killed SEIDER  in round 8
+Round 8 ended with elimination. The winning team is None.
+The current score is None 5 - 3 FunPlus Phoenix.
+foxz killed Zyppan  in round 9
+ardiis killed Surf  in round 9
+CGRS killed ardiis  in round 9
+Crws killed ANGE1  in round 9
+Round 9 ended with detonate. The winning team is None.
+The current score is None 6 - 3 FunPlus Phoenix.
+ardiis killed foxz  in round 10
+CGRS killed ardiis  in round 10
+Crws killed Shao  in round 10
+SEIDER killed sScary  in round 10
+ANGE1 killed CGRS  in round 10
+Zyppan killed Crws  in round 10
+Surf killed ANGE1  in round 10
+ANGE1 killed Surf  in round 10
+Round 10 ended with spike_defuse. The winning team is FunPlus Phoenix.
+The current score is None 6 - 4 FunPlus Phoenix.
+SEIDER killed CGRS  in round 11
+SEIDER killed foxz  in round 11
+sScary killed Shao  in round 11
+SEIDER killed Surf  in round 11
+SEIDER killed sScary  in round 11
+Zyppan killed Crws  in round 11
+Round 11 ended with elimination. The winning team is FunPlus Phoenix.
+The current score is None 6 - 5 FunPlus Phoenix.
+foxz killed ardiis  in round 12
+Crws killed ANGE1  in round 12
+Surf killed SEIDER  in round 12
+Zyppan killed CGRS  in round 12
+foxz killed Zyppan  in round 12
+Surf killed Shao  in round 12
+Round 12 ended with elimination. The winning team is None.
+The current score is None 7 - 5 FunPlus Phoenix.
+ANGE1 killed sScary  in round 13
+Zyppan killed Surf  in round 13
+ANGE1 killed Crws  in round 13
+foxz killed ardiis  in round 13
+ANGE1 killed foxz  in round 13
+ANGE1 killed CGRS  in round 13
+Round 13 ended with elimination. The winning team is FunPlus Phoenix.
+The current score is None 7 - 6 FunPlus Phoenix.
+SEIDER killed sScary  in round 14
+Shao killed Crws  in round 14
+SEIDER killed CGRS  in round 14
+Shao killed foxz  in round 14
+SEIDER killed Surf  in round 14
+Round 14 ended with elimination. The winning team is FunPlus Phoenix.
+The current score is None 7 - 7 FunPlus Phoenix.
+ANGE1 killed sScary  in round 15
+Surf killed ANGE1  in round 15
+ardiis killed Surf  in round 15
+SEIDER killed Crws  in round 15
+CGRS killed Shao  in round 15
+CGRS killed Zyppan  in round 15
+ardiis killed CGRS  in round 15
+ardiis killed foxz  in round 15
+Round 15 ended with elimination. The winning team is FunPlus Phoenix.
+The current score is None 7 - 8 FunPlus Phoenix.
+Zyppan killed foxz  in round 16
+ANGE1 killed Surf  in round 16
+ardiis killed Crws  in round 16
+Zyppan killed CGRS  in round 16
+CGRS killed Zyppan  in round 16
+sScary killed ardiis  in round 16
+Shao killed sScary  in round 16
+Round 16 ended with elimination. The winning team is FunPlus Phoenix.
+The current score is None 7 - 9 FunPlus Phoenix.
+Surf killed ANGE1  in round 17
+Surf killed Zyppan  in round 17
+SEIDER killed Crws  in round 17
+sScary killed SEIDER  in round 17
+Shao killed sScary  in round 17
+Surf killed Shao  in round 17
+Surf killed ardiis  in round 17
+Round 17 ended with elimination. The winning team is None.
+The current score is None 8 - 9 FunPlus Phoenix.
+Surf killed ANGE1  in round 18
+CGRS killed Zyppan  in round 18
+ardiis killed CGRS  in round 18
+Surf killed Shao  in round 18
+Surf killed ardiis  in round 18
+SEIDER killed Surf  in round 18
+Crws killed SEIDER  in round 18
+Round 18 ended with elimination. The winning team is None.
+The current score is None 9 - 9 FunPlus Phoenix.
+CGRS killed Zyppan  in round 19
+ardiis killed sScary  in round 19
+foxz killed ardiis  in round 19
+SEIDER killed foxz  in round 19
+Crws killed SEIDER  in round 19
+ANGE1 killed CGRS  in round 19
+Crws killed Shao  in round 19
+Crws killed ANGE1  in round 19
+Round 19 ended with spike_defuse. The winning team is None.
+The current score is None 10 - 9 FunPlus Phoenix.
+Surf killed Shao  in round 20
+SEIDER killed Crws  in round 20
+sScary killed SEIDER  in round 20
+foxz killed Zyppan  in round 20
+ANGE1 killed Surf  in round 20
+CGRS killed ardiis  in round 20
+CGRS killed ANGE1  in round 20
+Round 20 ended with elimination. The winning team is None.
+The current score is None 11 - 9 FunPlus Phoenix.
+CGRS killed Shao  in round 21
+Zyppan killed CGRS  in round 21
+Surf killed ardiis  in round 21
+Zyppan killed Surf  in round 21
+Crws killed Zyppan  in round 21
+SEIDER killed foxz  in round 21
+sScary killed SEIDER  in round 21
+ANGE1 killed Crws  in round 21
+Round 21 ended with detonate. The winning team is FunPlus Phoenix.
+The current score is None 11 - 10 FunPlus Phoenix.
+sScary killed sScary  in round 22
+ANGE1 killed ANGE1  in round 22
+Surf killed ANGE1  in round 22
+Zyppan killed Surf  in round 22
+CGRS killed SEIDER  in round 22
+sScary killed Zyppan  in round 22
+Shao killed foxz  in round 22
+ardiis killed CGRS  in round 22
+ardiis killed sScary  in round 22
+Shao killed Crws  in round 22
+Round 22 ended with elimination. The winning team is FunPlus Phoenix.
+The current score is None 11 - 11 FunPlus Phoenix.
+ANGE1 killed foxz  in round 23
+Surf killed ANGE1  in round 23
+Surf killed Shao  in round 23
+Zyppan killed Crws  in round 23
+ardiis killed CGRS  in round 23
+SEIDER killed Surf  in round 23
+sScary killed Zyppan  in round 23
+sScary killed ardiis  in round 23
+SEIDER killed sScary  in round 23
+Round 23 ended with elimination. The winning team is FunPlus Phoenix.
+The current score is None 11 - 12 FunPlus Phoenix.
+foxz killed Zyppan  in round 24
+sScary killed ANGE1  in round 24
+foxz killed Shao  in round 24
+SEIDER killed foxz  in round 24
+sScary killed ardiis  in round 24
+Crws killed SEIDER  in round 24
+Round 24 ended with elimination. The winning team is None.
+The current score is None 12 - 12 FunPlus Phoenix.
+Shao killed Surf  in round 25
+ANGE1 killed sScary  in round 25
+CGRS killed SEIDER  in round 25
+Shao killed Crws  in round 25
+Shao killed CGRS  in round 25
+Round 25 ended with time_expired. The winning team is FunPlus Phoenix.
+The current score is None 12 - 13 FunPlus Phoenix.
+Zyppan killed foxz  in round 26
+Crws killed Zyppan  in round 26
+Crws killed ardiis  in round 26
+ANGE1 killed Crws  in round 26
+ANGE1 killed Surf  in round 26
+ANGE1 killed sScary  in round 26
+Shao killed CGRS  in round 26
+Round 26 ended with elimination. The winning team is FunPlus Phoenix.
+The current score is None 12 - 14 FunPlus Phoenix.
+Game ended with winning team: FunPlus Phoenix at 2022-07-11T16:15:36Z
+
+--- Player Stats ---
+SEIDER: Team=FunPlus Phoenix, Kills=19, Deaths=15, Assists=7, KDA=1.73, First Kills=3, First Deaths=1
+ardiis: Team=FunPlus Phoenix, Kills=21, Deaths=19, Assists=10, KDA=1.63, First Kills=3, First Deaths=3
+ANGE1: Team=FunPlus Phoenix, Kills=21, Deaths=19, Assists=3, KDA=1.26, First Kills=4, First Deaths=3
+Shao: Team=FunPlus Phoenix, Kills=15, Deaths=17, Assists=10, KDA=1.47, First Kills=2, First Deaths=2
+Zyppan: Team=FunPlus Phoenix, Kills=18, Deaths=19, Assists=5, KDA=1.21, First Kills=2, First Deaths=3
+Surf: Team=None, Kills=20, Deaths=20, Assists=4, KDA=1.2, First Kills=3, First Deaths=2
+Crws: Team=None, Kills=17, Deaths=18, Assists=10, KDA=1.5, First Kills=0, First Deaths=0
+foxz: Team=None, Kills=14, Deaths=18, Assists=5, KDA=1.06, First Kills=4, First Deaths=5
+CGRS: Team=None, Kills=17, Deaths=21, Assists=6, KDA=1.1, First Kills=3, First Deaths=3
+sScary: Team=None, Kills=20, Deaths=16, Assists=7, KDA=1.69, First Kills=2, First Deaths=4

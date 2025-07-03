@@ -1,0 +1,228 @@
+Team 1: Team Secret
+Team 2: T1
+Participating Players:
+Player 1: Sayaplayer
+Player 2: iZu
+Player 3: carpe
+Player 4: Rossy
+Player 5: Xccurate
+Player 6: BORKUM
+Player 7: Jremy
+Player 8: JessieVash
+Player 9: invy
+Player 10: NDG
+Winning Team: T1
+Score: Team Secret 7 - 13 T1
+Tournament Name: vct pacific stage 1 2024
+Game Start Time: 2024-05-03T07:55:22Z
+Game End Time: 2024-05-03T08:47:09Z
+Rounds ended by ELIMINATION count: 17
+Rounds ended by DEFUSE count: 2
+Rounds ended by DETONATE count: 1
+SPIKE PLANTED count: 3
+platformGameId: val:1cb24bc9-48fb-42f3-a6e1-6a6fad24ddb8
+
+--- Events ---
+Game started at 2024-05-03T07:55:22Z
+NDG killed Xccurate  in round 1
+carpe killed JessieVash  in round 1
+BORKUM killed Rossy  in round 1
+Sayaplayer killed Jremy  in round 1
+Sayaplayer killed invy  in round 1
+BORKUM killed Sayaplayer  in round 1
+NDG killed carpe  in round 1
+NDG killed iZu  in round 1
+Round 1 ended with elimination. The winning team is Team Secret.
+The current score is Team Secret 1 - 0 T1.
+BORKUM killed Xccurate  in round 2
+Sayaplayer killed JessieVash  in round 2
+carpe killed invy  in round 2
+BORKUM killed carpe  in round 2
+Jremy killed iZu  in round 2
+NDG killed Rossy  in round 2
+Round 2 ended with detonate. The winning team is Team Secret.
+The current score is Team Secret 2 - 0 T1.
+Sayaplayer killed Sayaplayer  in round 3
+Sayaplayer killed Jremy  in round 3
+BORKUM killed iZu  in round 3
+Xccurate killed BORKUM  in round 3
+carpe killed invy  in round 3
+Rossy killed JessieVash  in round 3
+NDG killed Rossy  in round 3
+NDG killed Xccurate  in round 3
+Sayaplayer killed NDG  in round 3
+Round 3 ended with spike_defuse. The winning team is T1.
+The current score is Team Secret 2 - 1 T1.
+NDG killed iZu  in round 4
+Rossy killed Jremy  in round 4
+Xccurate killed BORKUM  in round 4
+Xccurate killed JessieVash  in round 4
+invy killed Xccurate  in round 4
+Rossy killed invy  in round 4
+carpe killed NDG  in round 4
+Round 4 ended with elimination. The winning team is T1.
+The current score is Team Secret 2 - 2 T1.
+Xccurate killed invy  in round 5
+Jremy killed Xccurate  in round 5
+carpe killed Jremy  in round 5
+BORKUM killed carpe  in round 5
+Rossy killed NDG  in round 5
+JessieVash killed Rossy  in round 5
+Sayaplayer killed BORKUM  in round 5
+JessieVash killed Sayaplayer  in round 5
+iZu killed JessieVash  in round 5
+Round 5 ended with spike_defuse. The winning team is T1.
+The current score is Team Secret 2 - 3 T1.
+Rossy killed JessieVash  in round 6
+iZu killed NDG  in round 6
+iZu killed BORKUM  in round 6
+invy killed iZu  in round 6
+Rossy killed Jremy  in round 6
+invy killed carpe  in round 6
+Rossy killed invy  in round 6
+Round 6 ended with elimination. The winning team is T1.
+The current score is Team Secret 2 - 4 T1.
+Sayaplayer killed invy  in round 7
+iZu killed BORKUM  in round 7
+NDG killed iZu  in round 7
+JessieVash killed carpe  in round 7
+Sayaplayer killed JessieVash  in round 7
+Jremy killed Sayaplayer  in round 7
+Xccurate killed NDG  in round 7
+Xccurate killed Jremy  in round 7
+Round 7 ended with elimination. The winning team is T1.
+The current score is Team Secret 2 - 5 T1.
+Sayaplayer killed Jremy  in round 8
+BORKUM killed Sayaplayer  in round 8
+iZu killed BORKUM  in round 8
+Rossy killed NDG  in round 8
+invy killed Rossy  in round 8
+invy killed iZu  in round 8
+invy killed carpe  in round 8
+Xccurate killed invy  in round 8
+JessieVash killed Xccurate  in round 8
+Round 8 ended with elimination. The winning team is Team Secret.
+The current score is Team Secret 3 - 5 T1.
+carpe killed invy  in round 9
+Xccurate killed NDG  in round 9
+Jremy killed carpe  in round 9
+Xccurate killed BORKUM  in round 9
+JessieVash killed Xccurate  in round 9
+Jremy killed Rossy  in round 9
+JessieVash killed Sayaplayer  in round 9
+JessieVash killed iZu  in round 9
+Round 9 ended with elimination. The winning team is Team Secret.
+The current score is Team Secret 4 - 5 T1.
+iZu killed Jremy  in round 10
+Rossy killed BORKUM  in round 10
+invy killed iZu  in round 10
+Xccurate killed JessieVash  in round 10
+Rossy killed invy  in round 10
+NDG killed Xccurate  in round 10
+Rossy killed NDG  in round 10
+Round 10 ended with elimination. The winning team is T1.
+The current score is Team Secret 4 - 6 T1.
+Jremy killed Sayaplayer  in round 11
+Xccurate killed invy  in round 11
+iZu killed Jremy  in round 11
+Rossy killed BORKUM  in round 11
+carpe killed NDG  in round 11
+iZu killed JessieVash  in round 11
+Round 11 ended with elimination. The winning team is T1.
+The current score is Team Secret 4 - 7 T1.
+Jremy killed Sayaplayer  in round 12
+iZu killed NDG  in round 12
+invy killed carpe  in round 12
+invy killed Rossy  in round 12
+iZu killed invy  in round 12
+JessieVash killed iZu  in round 12
+Xccurate killed JessieVash  in round 12
+Xccurate killed Jremy  in round 12
+BORKUM killed Xccurate  in round 12
+Round 12 ended with elimination. The winning team is Team Secret.
+The current score is Team Secret 5 - 7 T1.
+carpe killed JessieVash  in round 13
+BORKUM killed carpe  in round 13
+Rossy killed BORKUM  in round 13
+invy killed iZu  in round 13
+Xccurate killed NDG  in round 13
+Rossy killed invy  in round 13
+Jremy killed Rossy  in round 13
+Xccurate killed Jremy  in round 13
+Round 13 ended with elimination. The winning team is T1.
+The current score is Team Secret 5 - 8 T1.
+Jremy killed iZu  in round 14
+Jremy killed Sayaplayer  in round 14
+BORKUM killed carpe  in round 14
+BORKUM killed Xccurate  in round 14
+BORKUM killed Rossy  in round 14
+Round 14 ended with elimination. The winning team is Team Secret.
+The current score is Team Secret 6 - 8 T1.
+BORKUM killed Xccurate  in round 15
+invy killed Sayaplayer  in round 15
+invy killed Rossy  in round 15
+NDG killed iZu  in round 15
+Jremy killed carpe  in round 15
+Round 15 ended with elimination. The winning team is Team Secret.
+The current score is Team Secret 7 - 8 T1.
+iZu killed NDG  in round 16
+invy killed Rossy  in round 16
+Sayaplayer killed BORKUM  in round 16
+carpe killed invy  in round 16
+Xccurate killed JessieVash  in round 16
+Jremy killed Xccurate  in round 16
+carpe killed Jremy  in round 16
+Round 16 ended with elimination. The winning team is T1.
+The current score is Team Secret 7 - 9 T1.
+Xccurate killed BORKUM  in round 17
+Jremy killed Xccurate  in round 17
+Rossy killed NDG  in round 17
+iZu killed invy  in round 17
+iZu killed JessieVash  in round 17
+Jremy killed Sayaplayer  in round 17
+iZu killed Jremy  in round 17
+Round 17 ended with elimination. The winning team is T1.
+The current score is Team Secret 7 - 10 T1.
+Jremy killed Xccurate  in round 18
+Rossy killed Jremy  in round 18
+invy killed Sayaplayer  in round 18
+iZu killed invy  in round 18
+iZu killed JessieVash  in round 18
+Rossy killed NDG  in round 18
+BORKUM killed carpe  in round 18
+iZu killed BORKUM  in round 18
+Round 18 ended with elimination. The winning team is T1.
+The current score is Team Secret 7 - 11 T1.
+JessieVash killed iZu  in round 19
+Sayaplayer killed JessieVash  in round 19
+Xccurate killed NDG  in round 19
+invy killed Sayaplayer  in round 19
+invy killed Xccurate  in round 19
+carpe killed BORKUM  in round 19
+carpe killed invy  in round 19
+Jremy killed carpe  in round 19
+Rossy killed Jremy  in round 19
+Round 19 ended with elimination. The winning team is T1.
+The current score is Team Secret 7 - 12 T1.
+Xccurate killed JessieVash  in round 20
+Sayaplayer killed Jremy  in round 20
+Rossy killed BORKUM  in round 20
+Xccurate killed NDG  in round 20
+invy killed Xccurate  in round 20
+invy killed Rossy  in round 20
+iZu killed invy  in round 20
+Round 20 ended with elimination. The winning team is T1.
+The current score is Team Secret 7 - 13 T1.
+Game ended with winning team: T1 at 2024-05-03T08:47:09Z
+
+--- Player Stats ---
+Sayaplayer: Team=T1, Kills=13, Deaths=13, Assists=3, KDA=1.23, First Kills=3, First Deaths=3
+iZu: Team=T1, Kills=18, Deaths=14, Assists=11, KDA=2.07, First Kills=2, First Deaths=3
+carpe: Team=T1, Kills=12, Deaths=13, Assists=11, KDA=1.77, First Kills=2, First Deaths=0
+Rossy: Team=T1, Kills=19, Deaths=12, Assists=9, KDA=2.33, First Kills=1, First Deaths=0
+Xccurate: Team=T1, Kills=20, Deaths=16, Assists=6, KDA=1.62, First Kills=3, First Deaths=4
+BORKUM: Team=Team Secret, Kills=14, Deaths=15, Assists=4, KDA=1.2, First Kills=2, First Deaths=1
+Jremy: Team=Team Secret, Kills=16, Deaths=16, Assists=7, KDA=1.44, First Kills=4, First Deaths=2
+JessieVash: Team=Team Secret, Kills=9, Deaths=16, Assists=2, KDA=0.69, First Kills=1, First Deaths=3
+invy: Team=Team Secret, Kills=18, Deaths=18, Assists=9, KDA=1.5, First Kills=0, First Deaths=3
+NDG: Team=Team Secret, Kills=10, Deaths=16, Assists=2, KDA=0.75, First Kills=2, First Deaths=1

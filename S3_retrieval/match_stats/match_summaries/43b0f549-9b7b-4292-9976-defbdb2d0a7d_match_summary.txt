@@ -1,0 +1,222 @@
+Team 1: 100 Thieves
+Team 2: FNATIC
+Participating Players:
+Player 1: Mistic
+Player 2: Derke
+Player 3: Boaster
+Player 4: Alfajer
+Player 5: Enz0
+Player 6: Asuna
+Player 7: WillFPS
+Player 8: stellar
+Player 9: Derrek
+Player 10: bangNA
+Winning Team: FNATIC
+Score: 100 Thieves 7 - 13 FNATIC
+Tournament Name: champions 2022
+Game Start Time: 2022-09-08T17:36:29Z
+Game End Time: 2022-09-08T18:24:02Z
+Rounds ended by ELIMINATION count: 14
+Rounds ended by DEFUSE count: 4
+Rounds ended by DETONATE count: 0
+SPIKE PLANTED count: 4
+platformGameId: val:43b0f549-9b7b-4292-9976-defbdb2d0a7d
+
+--- Events ---
+Game started at 2022-09-08T17:36:29Z
+Asuna killed Alfajer  in round 1
+Enz0 killed Asuna  in round 1
+Boaster killed stellar  in round 1
+WillFPS killed Enz0  in round 1
+WillFPS killed Boaster  in round 1
+bangNA killed Mistic  in round 1
+bangNA killed Derke  in round 1
+Round 1 ended with elimination. The winning team is 100 Thieves.
+The current score is 100 Thieves 1 - 0 FNATIC.
+Asuna killed Mistic  in round 2
+Asuna killed Alfajer  in round 2
+Derke killed Asuna  in round 2
+bangNA killed Derke  in round 2
+bangNA killed Enz0  in round 2
+bangNA killed Boaster  in round 2
+Round 2 ended with elimination. The winning team is 100 Thieves.
+The current score is 100 Thieves 2 - 0 FNATIC.
+Derke killed WillFPS  in round 3
+bangNA killed Mistic  in round 3
+stellar killed Boaster  in round 3
+Derke killed Asuna  in round 3
+Derke killed Derrek  in round 3
+stellar killed Derke  in round 3
+bangNA killed Enz0  in round 3
+Alfajer killed stellar  in round 3
+Alfajer killed bangNA  in round 3
+Round 3 ended with spike_defuse. The winning team is FNATIC.
+The current score is 100 Thieves 2 - 1 FNATIC.
+Derke killed Derrek  in round 4
+stellar killed Alfajer  in round 4
+Boaster killed bangNA  in round 4
+Boaster killed Asuna  in round 4
+Mistic killed stellar  in round 4
+WillFPS killed Derke  in round 4
+Enz0 killed WillFPS  in round 4
+Round 4 ended with elimination. The winning team is FNATIC.
+The current score is 100 Thieves 2 - 2 FNATIC.
+Mistic killed bangNA  in round 5
+Derke killed stellar  in round 5
+Asuna killed Enz0  in round 5
+WillFPS killed Derke  in round 5
+Alfajer killed WillFPS  in round 5
+Asuna killed Alfajer  in round 5
+Mistic killed Asuna  in round 5
+Derrek killed Mistic  in round 5
+Derrek killed Boaster  in round 5
+Round 5 ended with elimination. The winning team is 100 Thieves.
+The current score is 100 Thieves 3 - 2 FNATIC.
+Derke killed Derrek  in round 6
+Boaster killed Asuna  in round 6
+WillFPS killed Boaster  in round 6
+bangNA killed Derke  in round 6
+Enz0 killed WillFPS  in round 6
+bangNA killed Enz0  in round 6
+Alfajer killed Asuna  in round 6
+Mistic killed stellar  in round 6
+bangNA killed Alfajer  in round 6
+Mistic killed bangNA  in round 6
+Round 6 ended with spike_defuse. The winning team is FNATIC.
+The current score is 100 Thieves 3 - 3 FNATIC.
+Boaster killed stellar  in round 7
+Boaster killed bangNA  in round 7
+Alfajer killed Asuna  in round 7
+Enz0 killed WillFPS  in round 7
+Derrek killed Alfajer  in round 7
+Mistic killed Derrek  in round 7
+Round 7 ended with elimination. The winning team is FNATIC.
+The current score is 100 Thieves 3 - 4 FNATIC.
+Alfajer killed WillFPS  in round 8
+Derke killed bangNA  in round 8
+Boaster killed stellar  in round 8
+Mistic killed Derrek  in round 8
+Derke killed Asuna  in round 8
+Round 8 ended with elimination. The winning team is FNATIC.
+The current score is 100 Thieves 3 - 5 FNATIC.
+Derke killed stellar  in round 9
+Derke killed WillFPS  in round 9
+Derke killed Asuna  in round 9
+Derke killed Derrek  in round 9
+bangNA killed Derke  in round 9
+Boaster killed bangNA  in round 9
+Round 9 ended with spike_defuse. The winning team is FNATIC.
+The current score is 100 Thieves 3 - 6 FNATIC.
+WillFPS killed Mistic  in round 10
+Alfajer killed WillFPS  in round 10
+Derrek killed Alfajer  in round 10
+Derke killed stellar  in round 10
+Derke killed Asuna  in round 10
+bangNA killed Derke  in round 10
+bangNA killed Boaster  in round 10
+Derrek killed Enz0  in round 10
+Round 10 ended with elimination. The winning team is 100 Thieves.
+The current score is 100 Thieves 4 - 6 FNATIC.
+Asuna killed Boaster  in round 11
+Alfajer killed bangNA  in round 11
+Mistic killed WillFPS  in round 11
+Derke killed stellar  in round 11
+Asuna killed Mistic  in round 11
+Alfajer killed Asuna  in round 11
+Round 11 ended with time_expired. The winning team is FNATIC.
+The current score is 100 Thieves 4 - 7 FNATIC.
+Derrek killed Alfajer  in round 12
+Enz0 killed Derrek  in round 12
+Mistic killed WillFPS  in round 12
+Boaster killed bangNA  in round 12
+Boaster killed stellar  in round 12
+Derke killed Derrek  in round 12
+Asuna killed Mistic  in round 12
+Alfajer killed Asuna  in round 12
+Round 12 ended with spike_defuse. The winning team is FNATIC.
+The current score is 100 Thieves 4 - 8 FNATIC.
+WillFPS killed Boaster  in round 13
+Mistic killed WillFPS  in round 13
+Alfajer killed bangNA  in round 13
+stellar killed Enz0  in round 13
+Asuna killed Alfajer  in round 13
+Derke killed Asuna  in round 13
+Mistic killed Derrek  in round 13
+stellar killed Mistic  in round 13
+Derke killed stellar  in round 13
+Round 13 ended with elimination. The winning team is FNATIC.
+The current score is 100 Thieves 4 - 9 FNATIC.
+WillFPS killed Derke  in round 14
+Enz0 killed WillFPS  in round 14
+Alfajer killed Asuna  in round 14
+Mistic killed bangNA  in round 14
+Alfajer killed Derrek  in round 14
+stellar killed Alfajer  in round 14
+Mistic killed stellar  in round 14
+Round 14 ended with elimination. The winning team is FNATIC.
+The current score is 100 Thieves 4 - 10 FNATIC.
+Mistic killed stellar  in round 15
+Enz0 killed Asuna  in round 15
+WillFPS killed Enz0  in round 15
+Alfajer killed bangNA  in round 15
+WillFPS killed Mistic  in round 15
+Boaster killed Derrek  in round 15
+Alfajer killed WillFPS  in round 15
+Round 15 ended with elimination. The winning team is FNATIC.
+The current score is 100 Thieves 4 - 11 FNATIC.
+Asuna killed Derke  in round 16
+Mistic killed Asuna  in round 16
+bangNA killed Mistic  in round 16
+bangNA killed Alfajer  in round 16
+bangNA killed Boaster  in round 16
+Round 16 ended with time_expired. The winning team is 100 Thieves.
+The current score is 100 Thieves 5 - 11 FNATIC.
+Derke killed Derrek  in round 17
+Alfajer killed bangNA  in round 17
+Asuna killed Derke  in round 17
+WillFPS killed Mistic  in round 17
+stellar killed Boaster  in round 17
+stellar killed Enz0  in round 17
+stellar killed Alfajer  in round 17
+Round 17 ended with elimination. The winning team is 100 Thieves.
+The current score is 100 Thieves 6 - 11 FNATIC.
+Asuna killed Enz0  in round 18
+stellar killed Derke  in round 18
+stellar killed Mistic  in round 18
+Derrek killed Alfajer  in round 18
+Derrek killed Boaster  in round 18
+Round 18 ended with elimination. The winning team is 100 Thieves.
+The current score is 100 Thieves 7 - 11 FNATIC.
+WillFPS killed Derke  in round 19
+Enz0 killed Asuna  in round 19
+bangNA killed Enz0  in round 19
+Mistic killed Derrek  in round 19
+Boaster killed bangNA  in round 19
+WillFPS killed Boaster  in round 19
+Mistic killed WillFPS  in round 19
+Alfajer killed stellar  in round 19
+Round 19 ended with elimination. The winning team is FNATIC.
+The current score is 100 Thieves 7 - 12 FNATIC.
+Derke killed Asuna  in round 20
+Boaster killed bangNA  in round 20
+stellar killed Derke  in round 20
+Derrek killed Mistic  in round 20
+Boaster killed stellar  in round 20
+Derrek killed Boaster  in round 20
+Enz0 killed WillFPS  in round 20
+Enz0 killed Derrek  in round 20
+Round 20 ended with elimination. The winning team is FNATIC.
+The current score is 100 Thieves 7 - 13 FNATIC.
+Game ended with winning team: FNATIC at 2022-09-08T18:24:02Z
+
+--- Player Stats ---
+Mistic: Team=FNATIC, Kills=17, Deaths=13, Assists=11, KDA=2.15, First Kills=2, First Deaths=2
+Derke: Team=FNATIC, Kills=21, Deaths=14, Assists=5, KDA=1.86, First Kills=6, First Deaths=3
+Boaster: Team=FNATIC, Kills=14, Deaths=13, Assists=7, KDA=1.62, First Kills=1, First Deaths=2
+Alfajer: Team=FNATIC, Kills=17, Deaths=13, Assists=6, KDA=1.77, First Kills=1, First Deaths=2
+Enz0: Team=FNATIC, Kills=10, Deaths=11, Assists=10, KDA=1.82, First Kills=0, First Deaths=1
+Asuna: Team=100 Thieves, Kills=12, Deaths=19, Assists=5, KDA=0.89, First Kills=5, First Deaths=1
+WillFPS: Team=100 Thieves, Kills=13, Deaths=15, Assists=3, KDA=1.07, First Kills=4, First Deaths=2
+stellar: Team=100 Thieves, Kills=12, Deaths=16, Assists=5, KDA=1.06, First Kills=0, First Deaths=3
+Derrek: Team=100 Thieves, Kills=10, Deaths=14, Assists=4, KDA=1.0, First Kills=1, First Deaths=3
+bangNA: Team=100 Thieves, Kills=17, Deaths=15, Assists=8, KDA=1.67, First Kills=0, First Deaths=1

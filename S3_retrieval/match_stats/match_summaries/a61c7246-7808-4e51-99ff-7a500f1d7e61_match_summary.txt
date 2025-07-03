@@ -1,0 +1,235 @@
+Team 1: 100 Thieves
+Team 2: Sentinels
+Participating Players:
+Player 1: TenZ
+Player 2: zekken
+Player 3: johnqt
+Player 4: Zellsis
+Player 5: Sacy
+Player 6: eeiu
+Player 7: bangNA
+Player 8: Boostio
+Player 9: Cryo
+Player 10: Asuna
+Winning Team: Sentinels
+Score: 100 Thieves 10 - 13 Sentinels
+Tournament Name: vct americas stage 1 2024
+Game Start Time: 2024-04-07T23:02:57Z
+Game End Time: 2024-04-08T00:00:58Z
+Rounds ended by ELIMINATION count: 14
+Rounds ended by DEFUSE count: 6
+Rounds ended by DETONATE count: 3
+SPIKE PLANTED count: 9
+platformGameId: val:a61c7246-7808-4e51-99ff-7a500f1d7e61
+
+--- Events ---
+Game started at 2024-04-07T23:02:57Z
+TenZ killed Cryo  in round 1
+Zellsis killed Asuna  in round 1
+TenZ killed Boostio  in round 1
+Round 1 ended with spike_defuse. The winning team is Sentinels.
+The current score is 100 Thieves 0 - 1 Sentinels.
+bangNA killed Sacy  in round 2
+Zellsis killed bangNA  in round 2
+Sacy killed Boostio  in round 2
+zekken killed Asuna  in round 2
+johnqt killed bangNA  in round 2
+TenZ killed Cryo  in round 2
+eeiu killed zekken  in round 2
+johnqt killed eeiu  in round 2
+Round 2 ended with elimination. The winning team is Sentinels.
+The current score is 100 Thieves 0 - 2 Sentinels.
+zekken killed bangNA  in round 3
+Boostio killed Zellsis  in round 3
+zekken killed Boostio  in round 3
+Cryo killed TenZ  in round 3
+eeiu killed zekken  in round 3
+Asuna killed Sacy  in round 3
+Asuna killed johnqt  in round 3
+Round 3 ended with elimination. The winning team is 100 Thieves.
+The current score is 100 Thieves 1 - 2 Sentinels.
+zekken killed eeiu  in round 4
+Cryo killed zekken  in round 4
+Cryo killed TenZ  in round 4
+Cryo killed Zellsis  in round 4
+Cryo killed Sacy  in round 4
+Round 4 ended with detonate. The winning team is 100 Thieves.
+The current score is 100 Thieves 2 - 2 Sentinels.
+eeiu killed zekken  in round 5
+TenZ killed Boostio  in round 5
+TenZ killed bangNA  in round 5
+eeiu killed TenZ  in round 5
+Sacy killed Asuna  in round 5
+Cryo killed johnqt  in round 5
+Sacy killed eeiu  in round 5
+Zellsis killed Cryo  in round 5
+Round 5 ended with spike_defuse. The winning team is Sentinels.
+The current score is 100 Thieves 2 - 3 Sentinels.
+Cryo killed TenZ  in round 6
+bangNA killed zekken  in round 6
+eeiu killed Sacy  in round 6
+Zellsis killed bangNA  in round 6
+eeiu killed johnqt  in round 6
+Boostio killed Zellsis  in round 6
+Round 6 ended with elimination. The winning team is 100 Thieves.
+The current score is 100 Thieves 3 - 3 Sentinels.
+Cryo killed zekken  in round 7
+Sacy killed Cryo  in round 7
+Asuna killed johnqt  in round 7
+Sacy killed Asuna  in round 7
+eeiu killed Zellsis  in round 7
+Sacy killed eeiu  in round 7
+bangNA killed Sacy  in round 7
+Asuna killed TenZ  in round 7
+Round 7 ended with elimination. The winning team is 100 Thieves.
+The current score is 100 Thieves 4 - 3 Sentinels.
+Cryo killed TenZ  in round 8
+Cryo killed zekken  in round 8
+Cryo killed Sacy  in round 8
+Zellsis killed Cryo  in round 8
+bangNA killed johnqt  in round 8
+eeiu killed Zellsis  in round 8
+Round 8 ended with elimination. The winning team is 100 Thieves.
+The current score is 100 Thieves 5 - 3 Sentinels.
+zekken killed Cryo  in round 9
+Zellsis killed Asuna  in round 9
+TenZ killed bangNA  in round 9
+johnqt killed Boostio  in round 9
+zekken killed eeiu  in round 9
+Round 9 ended with spike_defuse. The winning team is Sentinels.
+The current score is 100 Thieves 5 - 4 Sentinels.
+Boostio killed johnqt  in round 10
+Cryo killed zekken  in round 10
+bangNA killed TenZ  in round 10
+Cryo killed Zellsis  in round 10
+Sacy killed bangNA  in round 10
+Cryo killed Sacy  in round 10
+Round 10 ended with elimination. The winning team is 100 Thieves.
+The current score is 100 Thieves 6 - 4 Sentinels.
+Asuna killed zekken  in round 11
+johnqt killed Boostio  in round 11
+Asuna killed Zellsis  in round 11
+bangNA killed Sacy  in round 11
+TenZ killed Cryo  in round 11
+bangNA killed TenZ  in round 11
+Round 11 ended with detonate. The winning team is 100 Thieves.
+The current score is 100 Thieves 7 - 4 Sentinels.
+Zellsis killed bangNA  in round 12
+Cryo killed johnqt  in round 12
+zekken killed Cryo  in round 12
+TenZ killed Boostio  in round 12
+Sacy killed Asuna  in round 12
+zekken killed eeiu  in round 12
+Round 12 ended with spike_defuse. The winning team is Sentinels.
+The current score is 100 Thieves 7 - 5 Sentinels.
+Cryo killed zekken  in round 13
+bangNA killed johnqt  in round 13
+TenZ killed Asuna  in round 13
+TenZ killed eeiu  in round 13
+Cryo killed Zellsis  in round 13
+Sacy killed Cryo  in round 13
+Sacy killed bangNA  in round 13
+Sacy killed Boostio  in round 13
+Round 13 ended with elimination. The winning team is Sentinels.
+The current score is 100 Thieves 7 - 6 Sentinels.
+bangNA killed TenZ  in round 14
+johnqt killed Boostio  in round 14
+Sacy killed Cryo  in round 14
+johnqt killed bangNA  in round 14
+johnqt killed eeiu  in round 14
+zekken killed Asuna  in round 14
+Round 14 ended with elimination. The winning team is Sentinels.
+The current score is 100 Thieves 7 - 7 Sentinels.
+Zellsis killed Cryo  in round 15
+Zellsis killed Boostio  in round 15
+Sacy killed bangNA  in round 15
+Asuna killed Sacy  in round 15
+zekken killed Asuna  in round 15
+TenZ killed eeiu  in round 15
+Round 15 ended with elimination. The winning team is Sentinels.
+The current score is 100 Thieves 7 - 8 Sentinels.
+bangNA killed zekken  in round 16
+Boostio killed TenZ  in round 16
+johnqt killed Asuna  in round 16
+bangNA killed Zellsis  in round 16
+eeiu killed Sacy  in round 16
+Boostio killed johnqt  in round 16
+Round 16 ended with spike_defuse. The winning team is 100 Thieves.
+The current score is 100 Thieves 8 - 8 Sentinels.
+Cryo killed johnqt  in round 17
+Zellsis killed Boostio  in round 17
+Asuna killed zekken  in round 17
+Cryo killed Sacy  in round 17
+Asuna killed TenZ  in round 17
+Cryo killed Zellsis  in round 17
+Round 17 ended with elimination. The winning team is 100 Thieves.
+The current score is 100 Thieves 9 - 8 Sentinels.
+Boostio killed Sacy  in round 18
+johnqt killed Boostio  in round 18
+Cryo killed zekken  in round 18
+Zellsis killed Asuna  in round 18
+johnqt killed eeiu  in round 18
+Cryo killed johnqt  in round 18
+bangNA killed Zellsis  in round 18
+Cryo killed TenZ  in round 18
+Round 18 ended with spike_defuse. The winning team is 100 Thieves.
+The current score is 100 Thieves 10 - 8 Sentinels.
+johnqt killed Asuna  in round 19
+zekken killed Boostio  in round 19
+TenZ killed bangNA  in round 19
+eeiu killed zekken  in round 19
+TenZ killed Cryo  in round 19
+Round 19 ended with detonate. The winning team is Sentinels.
+The current score is 100 Thieves 10 - 9 Sentinels.
+Sacy killed Boostio  in round 20
+bangNA killed johnqt  in round 20
+bangNA killed TenZ  in round 20
+zekken killed bangNA  in round 20
+Sacy killed Cryo  in round 20
+zekken killed eeiu  in round 20
+Asuna killed zekken  in round 20
+Sacy killed Asuna  in round 20
+Round 20 ended with elimination. The winning team is Sentinels.
+The current score is 100 Thieves 10 - 10 Sentinels.
+Cryo killed zekken  in round 21
+TenZ killed Asuna  in round 21
+TenZ killed Boostio  in round 21
+eeiu killed Sacy  in round 21
+johnqt killed eeiu  in round 21
+Cryo killed TenZ  in round 21
+Zellsis killed Cryo  in round 21
+Zellsis killed bangNA  in round 21
+Round 21 ended with elimination. The winning team is Sentinels.
+The current score is 100 Thieves 10 - 11 Sentinels.
+Cryo killed TenZ  in round 22
+bangNA killed Zellsis  in round 22
+johnqt killed bangNA  in round 22
+zekken killed Cryo  in round 22
+johnqt killed Boostio  in round 22
+Sacy killed Asuna  in round 22
+Sacy killed eeiu  in round 22
+Round 22 ended with elimination. The winning team is Sentinels.
+The current score is 100 Thieves 10 - 12 Sentinels.
+Asuna killed zekken  in round 23
+Sacy killed Asuna  in round 23
+bangNA killed Zellsis  in round 23
+Sacy killed Cryo  in round 23
+Sacy killed eeiu  in round 23
+johnqt killed Boostio  in round 23
+bangNA killed TenZ  in round 23
+Sacy killed bangNA  in round 23
+Round 23 ended with elimination. The winning team is Sentinels.
+The current score is 100 Thieves 10 - 13 Sentinels.
+Game ended with winning team: Sentinels at 2024-04-08T00:00:58Z
+
+--- Player Stats ---
+TenZ: Team=Sentinels, Kills=15, Deaths=16, Assists=21, KDA=2.25, First Kills=1, First Deaths=4
+zekken: Team=Sentinels, Kills=14, Deaths=17, Assists=3, KDA=1.0, First Kills=3, First Deaths=7
+johnqt: Team=Sentinels, Kills=15, Deaths=12, Assists=5, KDA=1.67, First Kills=1, First Deaths=2
+Zellsis: Team=Sentinels, Kills=13, Deaths=13, Assists=3, KDA=1.23, First Kills=2, First Deaths=0
+Sacy: Team=Sentinels, Kills=22, Deaths=13, Assists=5, KDA=2.08, First Kills=1, First Deaths=2
+eeiu: Team=100 Thieves, Kills=11, Deaths=14, Assists=5, KDA=1.14, First Kills=1, First Deaths=1
+bangNA: Team=100 Thieves, Kills=17, Deaths=16, Assists=11, KDA=1.75, First Kills=3, First Deaths=2
+Boostio: Team=100 Thieves, Kills=6, Deaths=17, Assists=4, KDA=0.59, First Kills=2, First Deaths=1
+Cryo: Team=100 Thieves, Kills=26, Deaths=16, Assists=2, KDA=1.75, First Kills=7, First Deaths=3
+Asuna: Team=100 Thieves, Kills=11, Deaths=16, Assists=6, KDA=1.06, First Kills=2, First Deaths=1

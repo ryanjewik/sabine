@@ -1,0 +1,255 @@
+Team 1: NRG
+Team 2: DRX
+Participating Players:
+Player 1: ZestKR
+Player 2: BuZz
+Player 3: stax
+Player 4: MaKo
+Player 5: Rb
+Player 6: crashies
+Player 7: Victor
+Player 8: FNS
+Player 9: s0m
+Player 10: ardiis
+Winning Team: NRG
+Score: NRG 13 - 11 DRX
+Tournament Name: vct masters 2023 playoffs
+Game Start Time: 2023-06-18T05:27:55Z
+Game End Time: 2023-06-18T06:36:02Z
+Rounds ended by ELIMINATION count: 8
+Rounds ended by DEFUSE count: 12
+Rounds ended by DETONATE count: 3
+SPIKE PLANTED count: 15
+platformGameId: val:b302e222-0960-48cd-9836-04dc3d17961c
+
+--- Events ---
+Game started at 2023-06-18T05:27:55Z
+Rb killed s0m  in round 1
+Rb killed ardiis  in round 1
+FNS killed Rb  in round 1
+ZestKR killed crashies  in round 1
+BuZz killed FNS  in round 1
+Round 1 ended with spike_defuse. The winning team is DRX.
+The current score is NRG 0 - 1 DRX.
+Victor killed MaKo  in round 2
+stax killed Victor  in round 2
+MaKo killed crashies  in round 2
+MaKo killed ardiis  in round 2
+Rb killed FNS  in round 2
+MaKo killed s0m  in round 2
+Rb killed Victor  in round 2
+Round 2 ended with elimination. The winning team is DRX.
+The current score is NRG 0 - 2 DRX.
+FNS killed MaKo  in round 3
+crashies killed ZestKR  in round 3
+Rb killed crashies  in round 3
+FNS killed stax  in round 3
+Rb killed s0m  in round 3
+ardiis killed Rb  in round 3
+BuZz killed FNS  in round 3
+Victor killed BuZz  in round 3
+Round 3 ended with elimination. The winning team is NRG.
+The current score is NRG 1 - 2 DRX.
+ardiis killed stax  in round 4
+ZestKR killed ardiis  in round 4
+Victor killed ZestKR  in round 4
+s0m killed BuZz  in round 4
+Round 4 ended with detonate. The winning team is NRG.
+The current score is NRG 2 - 2 DRX.
+MaKo killed ardiis  in round 5
+s0m killed MaKo  in round 5
+stax killed crashies  in round 5
+s0m killed stax  in round 5
+BuZz killed s0m  in round 5
+ZestKR killed FNS  in round 5
+Victor killed ZestKR  in round 5
+Rb killed Victor  in round 5
+Round 5 ended with elimination. The winning team is DRX.
+The current score is NRG 2 - 3 DRX.
+MaKo killed s0m  in round 6
+Victor killed BuZz  in round 6
+crashies killed MaKo  in round 6
+stax killed crashies  in round 6
+ardiis killed stax  in round 6
+ZestKR killed ardiis  in round 6
+Rb killed FNS  in round 6
+Victor killed Rb  in round 6
+Victor killed ZestKR  in round 6
+Round 6 ended with elimination. The winning team is NRG.
+The current score is NRG 3 - 3 DRX.
+ardiis killed BuZz  in round 7
+ardiis killed stax  in round 7
+MaKo killed ardiis  in round 7
+s0m killed ZestKR  in round 7
+s0m killed MaKo  in round 7
+Rb killed s0m  in round 7
+Rb killed Victor  in round 7
+Rb killed crashies  in round 7
+FNS killed Rb  in round 7
+Round 7 ended with elimination. The winning team is NRG.
+The current score is NRG 4 - 3 DRX.
+BuZz killed Victor  in round 8
+BuZz killed s0m  in round 8
+Rb killed ardiis  in round 8
+Rb killed FNS  in round 8
+Round 8 ended with time_expired. The winning team is DRX.
+The current score is NRG 4 - 4 DRX.
+MaKo killed s0m  in round 9
+Rb killed ardiis  in round 9
+FNS killed ZestKR  in round 9
+Round 9 ended with spike_defuse. The winning team is DRX.
+The current score is NRG 4 - 5 DRX.
+stax killed Victor  in round 10
+stax killed FNS  in round 10
+stax killed ardiis  in round 10
+Victor killed BuZz  in round 10
+ZestKR killed Victor  in round 10
+ZestKR killed crashies  in round 10
+stax killed FNS  in round 10
+s0m killed stax  in round 10
+ZestKR killed s0m  in round 10
+Round 10 ended with elimination. The winning team is DRX.
+The current score is NRG 4 - 6 DRX.
+ardiis killed MaKo  in round 11
+Rb killed ardiis  in round 11
+crashies killed ZestKR  in round 11
+Rb killed crashies  in round 11
+Rb killed Victor  in round 11
+stax killed s0m  in round 11
+FNS killed Rb  in round 11
+BuZz killed FNS  in round 11
+Round 11 ended with spike_defuse. The winning team is DRX.
+The current score is NRG 4 - 7 DRX.
+Rb killed ardiis  in round 12
+MaKo killed crashies  in round 12
+MaKo killed s0m  in round 12
+Victor killed MaKo  in round 12
+stax killed Victor  in round 12
+FNS killed Rb  in round 12
+stax killed FNS  in round 12
+Round 12 ended with spike_defuse. The winning team is DRX.
+The current score is NRG 4 - 8 DRX.
+Rb killed ardiis  in round 13
+Victor killed BuZz  in round 13
+crashies killed Rb  in round 13
+ZestKR killed crashies  in round 13
+FNS killed ZestKR  in round 13
+Victor killed stax  in round 13
+Round 13 ended with spike_defuse. The winning team is NRG.
+The current score is NRG 5 - 8 DRX.
+ardiis killed stax  in round 14
+s0m killed MaKo  in round 14
+s0m killed BuZz  in round 14
+ardiis killed ZestKR  in round 14
+Rb killed ardiis  in round 14
+Victor killed Rb  in round 14
+Round 14 ended with elimination. The winning team is NRG.
+The current score is NRG 6 - 8 DRX.
+Rb killed ardiis  in round 15
+crashies killed Rb  in round 15
+crashies killed MaKo  in round 15
+crashies killed BuZz  in round 15
+stax killed crashies  in round 15
+Victor killed ZestKR  in round 15
+stax killed s0m  in round 15
+FNS killed stax  in round 15
+Round 15 ended with spike_defuse. The winning team is NRG.
+The current score is NRG 7 - 8 DRX.
+stax killed FNS  in round 16
+ardiis killed ZestKR  in round 16
+crashies killed BuZz  in round 16
+ardiis killed MaKo  in round 16
+stax killed Victor  in round 16
+Rb killed ardiis  in round 16
+stax killed s0m  in round 16
+stax killed crashies  in round 16
+Round 16 ended with elimination. The winning team is DRX.
+The current score is NRG 7 - 9 DRX.
+BuZz killed ardiis  in round 17
+crashies killed ZestKR  in round 17
+BuZz killed s0m  in round 17
+BuZz killed crashies  in round 17
+BuZz killed FNS  in round 17
+Victor killed BuZz  in round 17
+Round 17 ended with detonate. The winning team is DRX.
+The current score is NRG 7 - 10 DRX.
+s0m killed BuZz  in round 18
+stax killed s0m  in round 18
+crashies killed stax  in round 18
+Victor killed MaKo  in round 18
+crashies killed ZestKR  in round 18
+FNS killed Rb  in round 18
+Round 18 ended with spike_defuse. The winning team is NRG.
+The current score is NRG 8 - 10 DRX.
+ardiis killed BuZz  in round 19
+FNS killed Rb  in round 19
+stax killed Victor  in round 19
+ardiis killed MaKo  in round 19
+ZestKR killed s0m  in round 19
+crashies killed stax  in round 19
+ZestKR killed ardiis  in round 19
+crashies killed ZestKR  in round 19
+Round 19 ended with spike_defuse. The winning team is NRG.
+The current score is NRG 9 - 10 DRX.
+MaKo killed s0m  in round 20
+FNS killed MaKo  in round 20
+crashies killed Rb  in round 20
+BuZz killed ardiis  in round 20
+BuZz killed crashies  in round 20
+Victor killed BuZz  in round 20
+FNS killed stax  in round 20
+FNS killed ZestKR  in round 20
+Round 20 ended with spike_defuse. The winning team is NRG.
+The current score is NRG 10 - 10 DRX.
+ZestKR killed ardiis  in round 21
+crashies killed ZestKR  in round 21
+BuZz killed crashies  in round 21
+s0m killed BuZz  in round 21
+s0m killed stax  in round 21
+s0m killed MaKo  in round 21
+s0m killed Rb  in round 21
+Round 21 ended with spike_defuse. The winning team is NRG.
+The current score is NRG 11 - 10 DRX.
+FNS killed stax  in round 22
+Victor killed Rb  in round 22
+BuZz killed FNS  in round 22
+Victor killed ZestKR  in round 22
+s0m killed BuZz  in round 22
+crashies killed MaKo  in round 22
+Round 22 ended with spike_defuse. The winning team is NRG.
+The current score is NRG 12 - 10 DRX.
+Victor killed BuZz  in round 23
+MaKo killed s0m  in round 23
+Victor killed MaKo  in round 23
+ZestKR killed ardiis  in round 23
+Victor killed ZestKR  in round 23
+crashies killed Rb  in round 23
+stax killed FNS  in round 23
+stax killed crashies  in round 23
+Victor killed stax  in round 23
+Round 23 ended with detonate. The winning team is DRX.
+The current score is NRG 12 - 11 DRX.
+Victor killed Victor  in round 24
+MaKo killed s0m  in round 24
+Victor killed MaKo  in round 24
+ardiis killed ZestKR  in round 24
+FNS killed BuZz  in round 24
+stax killed Victor  in round 24
+stax killed crashies  in round 24
+Rb killed FNS  in round 24
+ardiis killed stax  in round 24
+Round 24 ended with spike_defuse. The winning team is NRG.
+The current score is NRG 13 - 11 DRX.
+Game ended with winning team: NRG at 2023-06-18T06:36:02Z
+
+--- Player Stats ---
+ZestKR: Team=DRX, Kills=12, Deaths=19, Assists=10, KDA=1.16, First Kills=1, First Deaths=0
+BuZz: Team=DRX, Kills=14, Deaths=17, Assists=3, KDA=1.0, First Kills=2, First Deaths=4
+stax: Team=DRX, Kills=22, Deaths=16, Assists=12, KDA=2.12, First Kills=2, First Deaths=3
+MaKo: Team=DRX, Kills=12, Deaths=17, Assists=9, KDA=1.24, First Kills=4, First Deaths=3
+Rb: Team=DRX, Kills=23, Deaths=15, Assists=5, KDA=1.87, First Kills=4, First Deaths=0
+crashies: Team=NRG, Kills=17, Deaths=17, Assists=15, KDA=1.88, First Kills=0, First Deaths=0
+Victor: Team=NRG, Kills=24, Deaths=13, Assists=2, KDA=2.0, First Kills=3, First Deaths=3
+FNS: Team=NRG, Kills=16, Deaths=15, Assists=11, KDA=1.8, First Kills=2, First Deaths=1
+s0m: Team=NRG, Kills=14, Deaths=19, Assists=14, KDA=1.47, First Kills=1, First Deaths=4
+ardiis: Team=NRG, Kills=14, Deaths=20, Assists=8, KDA=1.1, First Kills=5, First Deaths=6

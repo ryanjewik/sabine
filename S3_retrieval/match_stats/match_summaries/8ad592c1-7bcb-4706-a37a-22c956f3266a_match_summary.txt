@@ -1,0 +1,263 @@
+Team 1: None
+Team 2: ZETA DIVISION
+Participating Players:
+Player 1: Dep
+Player 2: crow 
+Player 3: SugarZ3ro
+Player 4: TENNN
+Player 5: Laz
+Player 6: None
+Player 7: fl1pzjder
+Player 8: blaZek1ngg
+Player 9: None
+Player 10: patt
+Winning Team: None
+Score: None 13 - 11 ZETA DIVISION
+Tournament Name: champions 2022
+Game Start Time: 2022-09-04T11:58:49Z
+Game End Time: 2022-09-04T13:14:44Z
+Rounds ended by ELIMINATION count: 16
+Rounds ended by DEFUSE count: 8
+Rounds ended by DETONATE count: 0
+SPIKE PLANTED count: 8
+platformGameId: val:8ad592c1-7bcb-4706-a37a-22c956f3266a
+
+--- Events ---
+Game started at 2022-09-04T11:58:49Z
+TENNN killed None  in round 1
+None killed Laz  in round 1
+fl1pzjder killed TENNN  in round 1
+fl1pzjder killed Dep  in round 1
+crow  killed patt  in round 1
+blaZek1ngg killed crow   in round 1
+None killed SugarZ3ro  in round 1
+Round 1 ended with elimination. The winning team is None.
+The current score is None 1 - 0 ZETA DIVISION.
+Dep killed None  in round 2
+SugarZ3ro killed blaZek1ngg  in round 2
+None killed crow   in round 2
+None killed TENNN  in round 2
+patt killed SugarZ3ro  in round 2
+Dep killed None  in round 2
+Dep killed fl1pzjder  in round 2
+patt killed Dep  in round 2
+Laz killed patt  in round 2
+Round 2 ended with elimination. The winning team is ZETA DIVISION.
+The current score is None 1 - 1 ZETA DIVISION.
+Laz killed blaZek1ngg  in round 3
+Dep killed fl1pzjder  in round 3
+None killed Dep  in round 3
+Laz killed patt  in round 3
+Laz killed None  in round 3
+TENNN killed None  in round 3
+Round 3 ended with spike_defuse. The winning team is ZETA DIVISION.
+The current score is None 1 - 2 ZETA DIVISION.
+Dep killed None  in round 4
+patt killed Dep  in round 4
+SugarZ3ro killed None  in round 4
+crow  killed blaZek1ngg  in round 4
+fl1pzjder killed TENNN  in round 4
+Laz killed fl1pzjder  in round 4
+Laz killed patt  in round 4
+Round 4 ended with elimination. The winning team is ZETA DIVISION.
+The current score is None 1 - 3 ZETA DIVISION.
+Laz killed None  in round 5
+Laz killed patt  in round 5
+fl1pzjder killed TENNN  in round 5
+Dep killed fl1pzjder  in round 5
+None killed Dep  in round 5
+blaZek1ngg killed SugarZ3ro  in round 5
+crow  killed None  in round 5
+crow  killed blaZek1ngg  in round 5
+Round 5 ended with spike_defuse. The winning team is ZETA DIVISION.
+The current score is None 1 - 4 ZETA DIVISION.
+Laz killed None  in round 6
+Dep killed blaZek1ngg  in round 6
+fl1pzjder killed Dep  in round 6
+patt killed SugarZ3ro  in round 6
+patt killed crow   in round 6
+Laz killed patt  in round 6
+None killed TENNN  in round 6
+Laz killed None  in round 6
+Laz killed fl1pzjder  in round 6
+Round 6 ended with elimination. The winning team is ZETA DIVISION.
+The current score is None 1 - 5 ZETA DIVISION.
+SugarZ3ro killed None  in round 7
+patt killed Laz  in round 7
+crow  killed patt  in round 7
+None killed crow   in round 7
+None killed TENNN  in round 7
+SugarZ3ro killed blaZek1ngg  in round 7
+fl1pzjder killed SugarZ3ro  in round 7
+Dep killed None  in round 7
+fl1pzjder killed Dep  in round 7
+Round 7 ended with elimination. The winning team is None.
+The current score is None 2 - 5 ZETA DIVISION.
+Dep killed fl1pzjder  in round 8
+None killed Dep  in round 8
+None killed crow   in round 8
+SugarZ3ro killed patt  in round 8
+TENNN killed None  in round 8
+SugarZ3ro killed None  in round 8
+Round 8 ended with spike_defuse. The winning team is ZETA DIVISION.
+The current score is None 2 - 6 ZETA DIVISION.
+fl1pzjder killed TENNN  in round 9
+SugarZ3ro killed None  in round 9
+fl1pzjder killed SugarZ3ro  in round 9
+fl1pzjder killed Dep  in round 9
+crow  killed fl1pzjder  in round 9
+Laz killed None  in round 9
+crow  killed blaZek1ngg  in round 9
+patt killed Laz  in round 9
+Round 9 ended with spike_defuse. The winning team is ZETA DIVISION.
+The current score is None 2 - 7 ZETA DIVISION.
+crow  killed patt  in round 10
+Laz killed None  in round 10
+fl1pzjder killed SugarZ3ro  in round 10
+fl1pzjder killed TENNN  in round 10
+Laz killed patt  in round 10
+fl1pzjder killed crow   in round 10
+Dep killed fl1pzjder  in round 10
+blaZek1ngg killed Dep  in round 10
+blaZek1ngg killed Laz  in round 10
+Round 10 ended with elimination. The winning team is None.
+The current score is None 3 - 7 ZETA DIVISION.
+None killed Laz  in round 11
+None killed crow   in round 11
+None killed TENNN  in round 11
+Dep killed None  in round 11
+Dep killed patt  in round 11
+blaZek1ngg killed SugarZ3ro  in round 11
+Dep killed None  in round 11
+fl1pzjder killed Dep  in round 11
+Round 11 ended with elimination. The winning team is None.
+The current score is None 4 - 7 ZETA DIVISION.
+TENNN killed None  in round 12
+Dep killed fl1pzjder  in round 12
+Dep killed None  in round 12
+Dep killed patt  in round 12
+blaZek1ngg killed Dep  in round 12
+TENNN killed blaZek1ngg  in round 12
+Round 12 ended with elimination. The winning team is ZETA DIVISION.
+The current score is None 4 - 8 ZETA DIVISION.
+fl1pzjder killed crow   in round 13
+None killed TENNN  in round 13
+None killed SugarZ3ro  in round 13
+Laz killed None  in round 13
+Laz killed None  in round 13
+Dep killed patt  in round 13
+blaZek1ngg killed Dep  in round 13
+blaZek1ngg killed Laz  in round 13
+Round 13 ended with spike_defuse. The winning team is None.
+The current score is None 5 - 8 ZETA DIVISION.
+None killed Laz  in round 14
+None killed crow   in round 14
+None killed Dep  in round 14
+TENNN killed None  in round 14
+SugarZ3ro killed None  in round 14
+blaZek1ngg killed TENNN  in round 14
+patt killed SugarZ3ro  in round 14
+Round 14 ended with elimination. The winning team is None.
+The current score is None 6 - 8 ZETA DIVISION.
+Dep killed fl1pzjder  in round 15
+patt killed crow   in round 15
+TENNN killed patt  in round 15
+TENNN killed None  in round 15
+None killed TENNN  in round 15
+None killed Laz  in round 15
+Dep killed None  in round 15
+SugarZ3ro killed blaZek1ngg  in round 15
+Round 15 ended with elimination. The winning team is ZETA DIVISION.
+The current score is None 6 - 9 ZETA DIVISION.
+None killed Laz  in round 16
+Dep killed None  in round 16
+patt killed SugarZ3ro  in round 16
+crow  killed None  in round 16
+TENNN killed patt  in round 16
+fl1pzjder killed TENNN  in round 16
+Dep killed fl1pzjder  in round 16
+crow  killed blaZek1ngg  in round 16
+Round 16 ended with elimination. The winning team is ZETA DIVISION.
+The current score is None 6 - 10 ZETA DIVISION.
+fl1pzjder killed SugarZ3ro  in round 17
+Dep killed patt  in round 17
+Laz killed fl1pzjder  in round 17
+TENNN killed None  in round 17
+Dep killed None  in round 17
+blaZek1ngg killed crow   in round 17
+TENNN killed blaZek1ngg  in round 17
+Round 17 ended with elimination. The winning team is ZETA DIVISION.
+The current score is None 6 - 11 ZETA DIVISION.
+None killed Dep  in round 18
+None killed crow   in round 18
+Laz killed None  in round 18
+fl1pzjder killed SugarZ3ro  in round 18
+patt killed Laz  in round 18
+None killed TENNN  in round 18
+Round 18 ended with elimination. The winning team is None.
+The current score is None 7 - 11 ZETA DIVISION.
+None killed SugarZ3ro  in round 19
+Laz killed None  in round 19
+fl1pzjder killed Dep  in round 19
+crow  killed patt  in round 19
+blaZek1ngg killed crow   in round 19
+fl1pzjder killed TENNN  in round 19
+Laz killed None  in round 19
+blaZek1ngg killed Laz  in round 19
+Round 19 ended with elimination. The winning team is None.
+The current score is None 8 - 11 ZETA DIVISION.
+fl1pzjder killed TENNN  in round 20
+Dep killed None  in round 20
+fl1pzjder killed crow   in round 20
+fl1pzjder killed Dep  in round 20
+patt killed SugarZ3ro  in round 20
+patt killed Laz  in round 20
+Round 20 ended with elimination. The winning team is None.
+The current score is None 9 - 11 ZETA DIVISION.
+blaZek1ngg killed TENNN  in round 21
+SugarZ3ro killed fl1pzjder  in round 21
+patt killed Dep  in round 21
+crow  killed patt  in round 21
+None killed SugarZ3ro  in round 21
+blaZek1ngg killed crow   in round 21
+blaZek1ngg killed Laz  in round 21
+Round 21 ended with elimination. The winning team is None.
+The current score is None 10 - 11 ZETA DIVISION.
+crow  killed None  in round 22
+None killed TENNN  in round 22
+Dep killed None  in round 22
+fl1pzjder killed SugarZ3ro  in round 22
+patt killed Laz  in round 22
+patt killed crow   in round 22
+fl1pzjder killed Dep  in round 22
+Round 22 ended with spike_defuse. The winning team is None.
+The current score is None 11 - 11 ZETA DIVISION.
+None killed TENNN  in round 23
+Laz killed patt  in round 23
+Dep killed None  in round 23
+None killed crow   in round 23
+Laz killed fl1pzjder  in round 23
+None killed Dep  in round 23
+None killed SugarZ3ro  in round 23
+Laz killed blaZek1ngg  in round 23
+Round 23 ended with spike_defuse. The winning team is None.
+The current score is None 12 - 11 ZETA DIVISION.
+Laz killed None  in round 24
+None killed TENNN  in round 24
+patt killed SugarZ3ro  in round 24
+fl1pzjder killed Dep  in round 24
+crow  killed patt  in round 24
+Round 24 ended with spike_defuse. The winning team is None.
+The current score is None 13 - 11 ZETA DIVISION.
+Game ended with winning team: None at 2022-09-04T13:14:44Z
+
+--- Player Stats ---
+Dep: Team=ZETA DIVISION, Kills=26, Deaths=21, Assists=4, KDA=1.43, First Kills=4, First Deaths=1
+crow : Team=ZETA DIVISION, Kills=14, Deaths=17, Assists=9, KDA=1.35, First Kills=2, First Deaths=1
+SugarZ3ro: Team=ZETA DIVISION, Kills=10, Deaths=19, Assists=14, KDA=1.26, First Kills=1, First Deaths=2
+TENNN: Team=ZETA DIVISION, Kills=11, Deaths=20, Assists=16, KDA=1.35, First Kills=2, First Deaths=4
+Laz: Team=ZETA DIVISION, Kills=25, Deaths=14, Assists=2, KDA=1.93, First Kills=4, First Deaths=3
+None: Team=None, Kills=33, Deaths=40, Assists=12, KDA=1.12, First Kills=6, First Deaths=9
+fl1pzjder: Team=None, Kills=26, Deaths=14, Assists=3, KDA=2.07, First Kills=4, First Deaths=2
+blaZek1ngg: Team=None, Kills=15, Deaths=12, Assists=9, KDA=2.0, First Kills=1, First Deaths=1
+patt: Team=None, Kills=17, Deaths=20, Assists=7, KDA=1.2, First Kills=0, First Deaths=1

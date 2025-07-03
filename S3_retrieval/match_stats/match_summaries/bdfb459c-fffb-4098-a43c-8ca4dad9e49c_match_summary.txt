@@ -1,0 +1,239 @@
+Team 1: LOUD
+Team 2: KRÜ Esports
+Participating Players:
+Player 1: axeddy
+Player 2: Klaus
+Player 3: Melser
+Player 4: KeznitdeuS
+Player 5: NagZet
+Player 6: aspas
+Player 7: cauanzin
+Player 8: Saadhak
+Player 9: Less
+Player 10: tuyz
+Winning Team: KRÜ Esports
+Score: LOUD 10 - 13 KRÜ Esports
+Tournament Name: vct americas 2023
+Game Start Time: 2023-05-01T18:53:02Z
+Game End Time: 2023-05-01T19:57:50Z
+Rounds ended by ELIMINATION count: 13
+Rounds ended by DEFUSE count: 3
+Rounds ended by DETONATE count: 5
+SPIKE PLANTED count: 8
+platformGameId: val:bdfb459c-fffb-4098-a43c-8ca4dad9e49c
+
+--- Events ---
+Game started at 2023-05-01T18:53:02Z
+Saadhak killed axeddy  in round 1
+Less killed KeznitdeuS  in round 1
+Klaus killed Saadhak  in round 1
+aspas killed Klaus  in round 1
+aspas killed NagZet  in round 1
+Less killed Melser  in round 1
+Round 1 ended with elimination. The winning team is LOUD.
+The current score is LOUD 1 - 0 KRÜ Esports.
+Less killed KeznitdeuS  in round 2
+Less killed Klaus  in round 2
+cauanzin killed NagZet  in round 2
+cauanzin killed axeddy  in round 2
+Round 2 ended with detonate. The winning team is LOUD.
+The current score is LOUD 2 - 0 KRÜ Esports.
+Melser killed Melser  in round 3
+Less killed KeznitdeuS  in round 3
+Less killed axeddy  in round 3
+Melser killed Less  in round 3
+Round 3 ended with detonate. The winning team is LOUD.
+The current score is LOUD 3 - 0 KRÜ Esports.
+KeznitdeuS killed tuyz  in round 4
+axeddy killed Less  in round 4
+aspas killed NagZet  in round 4
+Saadhak killed KeznitdeuS  in round 4
+aspas killed axeddy  in round 4
+aspas killed Klaus  in round 4
+cauanzin killed Melser  in round 4
+Round 4 ended with elimination. The winning team is LOUD.
+The current score is LOUD 4 - 0 KRÜ Esports.
+aspas killed KeznitdeuS  in round 5
+axeddy killed aspas  in round 5
+cauanzin killed axeddy  in round 5
+Klaus killed tuyz  in round 5
+Klaus killed cauanzin  in round 5
+Saadhak killed Klaus  in round 5
+Melser killed Less  in round 5
+NagZet killed Saadhak  in round 5
+Round 5 ended with elimination. The winning team is KRÜ Esports.
+The current score is LOUD 4 - 1 KRÜ Esports.
+Klaus killed Saadhak  in round 6
+axeddy killed cauanzin  in round 6
+tuyz killed axeddy  in round 6
+aspas killed KeznitdeuS  in round 6
+NagZet killed Less  in round 6
+tuyz killed Klaus  in round 6
+Melser killed tuyz  in round 6
+aspas killed Melser  in round 6
+NagZet killed aspas  in round 6
+Round 6 ended with spike_defuse. The winning team is KRÜ Esports.
+The current score is LOUD 4 - 2 KRÜ Esports.
+KeznitdeuS killed Saadhak  in round 7
+aspas killed KeznitdeuS  in round 7
+aspas killed Klaus  in round 7
+axeddy killed aspas  in round 7
+Less killed NagZet  in round 7
+Melser killed tuyz  in round 7
+Less killed Melser  in round 7
+Less killed axeddy  in round 7
+Round 7 ended with elimination. The winning team is LOUD.
+The current score is LOUD 5 - 2 KRÜ Esports.
+aspas killed Melser  in round 8
+aspas killed Klaus  in round 8
+Round 8 ended with detonate. The winning team is LOUD.
+The current score is LOUD 6 - 2 KRÜ Esports.
+NagZet killed NagZet  in round 9
+axeddy killed axeddy  in round 9
+KeznitdeuS killed KeznitdeuS  in round 9
+aspas killed Melser  in round 9
+axeddy killed cauanzin  in round 9
+Klaus killed tuyz  in round 9
+axeddy killed aspas  in round 9
+axeddy killed Less  in round 9
+KeznitdeuS killed Saadhak  in round 9
+Round 9 ended with spike_defuse. The winning team is KRÜ Esports.
+The current score is LOUD 6 - 3 KRÜ Esports.
+aspas killed NagZet  in round 10
+aspas killed Klaus  in round 10
+Melser killed aspas  in round 10
+Melser killed tuyz  in round 10
+Melser killed cauanzin  in round 10
+Less killed KeznitdeuS  in round 10
+axeddy killed Saadhak  in round 10
+Less killed axeddy  in round 10
+Less killed Melser  in round 10
+Round 10 ended with elimination. The winning team is LOUD.
+The current score is LOUD 7 - 3 KRÜ Esports.
+Less killed axeddy  in round 11
+KeznitdeuS killed Saadhak  in round 11
+cauanzin killed NagZet  in round 11
+Klaus killed tuyz  in round 11
+cauanzin killed Klaus  in round 11
+cauanzin killed Melser  in round 11
+Less killed KeznitdeuS  in round 11
+Round 11 ended with elimination. The winning team is LOUD.
+The current score is LOUD 8 - 3 KRÜ Esports.
+cauanzin killed Klaus  in round 12
+KeznitdeuS killed aspas  in round 12
+Less killed NagZet  in round 12
+axeddy killed tuyz  in round 12
+axeddy killed cauanzin  in round 12
+Melser killed Less  in round 12
+axeddy killed Saadhak  in round 12
+Round 12 ended with spike_defuse. The winning team is KRÜ Esports.
+The current score is LOUD 8 - 4 KRÜ Esports.
+NagZet killed aspas  in round 13
+Melser killed cauanzin  in round 13
+axeddy killed Less  in round 13
+NagZet killed tuyz  in round 13
+Klaus killed Saadhak  in round 13
+Round 13 ended with elimination. The winning team is KRÜ Esports.
+The current score is LOUD 8 - 5 KRÜ Esports.
+KeznitdeuS killed Saadhak  in round 14
+cauanzin killed Melser  in round 14
+Klaus killed aspas  in round 14
+KeznitdeuS killed cauanzin  in round 14
+KeznitdeuS killed tuyz  in round 14
+KeznitdeuS killed Less  in round 14
+Round 14 ended with elimination. The winning team is KRÜ Esports.
+The current score is LOUD 8 - 6 KRÜ Esports.
+aspas killed Melser  in round 15
+KeznitdeuS killed Less  in round 15
+cauanzin killed axeddy  in round 15
+cauanzin killed Klaus  in round 15
+cauanzin killed KeznitdeuS  in round 15
+Round 15 ended with time_expired. The winning team is LOUD.
+The current score is LOUD 9 - 6 KRÜ Esports.
+aspas killed KeznitdeuS  in round 16
+cauanzin killed Melser  in round 16
+axeddy killed cauanzin  in round 16
+aspas killed Klaus  in round 16
+aspas killed axeddy  in round 16
+NagZet killed Less  in round 16
+Round 16 ended with time_expired. The winning team is LOUD.
+The current score is LOUD 10 - 6 KRÜ Esports.
+NagZet killed cauanzin  in round 17
+Saadhak killed Melser  in round 17
+Less killed KeznitdeuS  in round 17
+NagZet killed Saadhak  in round 17
+Less killed Klaus  in round 17
+axeddy killed aspas  in round 17
+NagZet killed Less  in round 17
+axeddy killed tuyz  in round 17
+Round 17 ended with elimination. The winning team is KRÜ Esports.
+The current score is LOUD 10 - 7 KRÜ Esports.
+Saadhak killed KeznitdeuS  in round 18
+Less killed Klaus  in round 18
+axeddy killed Less  in round 18
+axeddy killed cauanzin  in round 18
+Melser killed Saadhak  in round 18
+tuyz killed Melser  in round 18
+axeddy killed tuyz  in round 18
+NagZet killed aspas  in round 18
+Round 18 ended with elimination. The winning team is KRÜ Esports.
+The current score is LOUD 10 - 8 KRÜ Esports.
+NagZet killed NagZet  in round 19
+KeznitdeuS killed Saadhak  in round 19
+KeznitdeuS killed tuyz  in round 19
+KeznitdeuS killed cauanzin  in round 19
+Klaus killed aspas  in round 19
+Klaus killed Less  in round 19
+Round 19 ended with elimination. The winning team is KRÜ Esports.
+The current score is LOUD 10 - 9 KRÜ Esports.
+KeznitdeuS killed Less  in round 20
+KeznitdeuS killed tuyz  in round 20
+cauanzin killed axeddy  in round 20
+KeznitdeuS killed cauanzin  in round 20
+Round 20 ended with detonate. The winning team is KRÜ Esports.
+The current score is LOUD 10 - 10 KRÜ Esports.
+aspas killed KeznitdeuS  in round 21
+Melser killed Saadhak  in round 21
+aspas killed KeznitdeuS  in round 21
+axeddy killed aspas  in round 21
+axeddy killed tuyz  in round 21
+Klaus killed Saadhak  in round 21
+Less killed Klaus  in round 21
+Less killed NagZet  in round 21
+axeddy killed Less  in round 21
+cauanzin killed axeddy  in round 21
+Melser killed cauanzin  in round 21
+Round 21 ended with elimination. The winning team is KRÜ Esports.
+The current score is LOUD 10 - 11 KRÜ Esports.
+Klaus killed aspas  in round 22
+Saadhak killed Klaus  in round 22
+KeznitdeuS killed Saadhak  in round 22
+Less killed KeznitdeuS  in round 22
+axeddy killed cauanzin  in round 22
+Less killed axeddy  in round 22
+Melser killed tuyz  in round 22
+Less killed Melser  in round 22
+Round 22 ended with detonate. The winning team is KRÜ Esports.
+The current score is LOUD 10 - 12 KRÜ Esports.
+Less killed Less  in round 23
+axeddy killed aspas  in round 23
+cauanzin killed Klaus  in round 23
+KeznitdeuS killed cauanzin  in round 23
+NagZet killed Less  in round 23
+KeznitdeuS killed Saadhak  in round 23
+Melser killed tuyz  in round 23
+Round 23 ended with elimination. The winning team is KRÜ Esports.
+The current score is LOUD 10 - 13 KRÜ Esports.
+Game ended with winning team: KRÜ Esports at 2023-05-01T19:57:50Z
+
+--- Player Stats ---
+axeddy: Team=KRÜ Esports, Kills=24, Deaths=15, Assists=5, KDA=1.93, First Kills=0, First Deaths=2
+Klaus: Team=KRÜ Esports, Kills=12, Deaths=17, Assists=13, KDA=1.47, First Kills=2, First Deaths=1
+Melser: Team=KRÜ Esports, Kills=15, Deaths=15, Assists=8, KDA=1.53, First Kills=1, First Deaths=3
+KeznitdeuS: Team=KRÜ Esports, Kills=20, Deaths=17, Assists=3, KDA=1.35, First Kills=4, First Deaths=5
+NagZet: Team=KRÜ Esports, Kills=13, Deaths=10, Assists=6, KDA=1.9, First Kills=4, First Deaths=3
+aspas: Team=LOUD, Kills=21, Deaths=14, Assists=1, KDA=1.57, First Kills=6, First Deaths=2
+cauanzin: Team=LOUD, Kills=16, Deaths=15, Assists=10, KDA=1.73, First Kills=1, First Deaths=1
+Saadhak: Team=LOUD, Kills=6, Deaths=17, Assists=12, KDA=1.06, First Kills=2, First Deaths=3
+Less: Team=LOUD, Kills=24, Deaths=17, Assists=7, KDA=1.82, First Kills=3, First Deaths=2
+tuyz: Team=LOUD, Kills=3, Deaths=17, Assists=8, KDA=0.65, First Kills=0, First Deaths=1

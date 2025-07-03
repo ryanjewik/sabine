@@ -1,0 +1,182 @@
+Team 1: None
+Team 2: None
+Participating Players:
+Player 1: crashies
+Player 2: Victor
+Player 3: FNS
+Player 4: Marved
+Player 5: yay
+Player 6: None
+Player 7: fl1pzjder
+Player 8: blaZek1ngg
+Player 9: None
+Player 10: patt
+Winning Team: None
+Score: None 3 - 13 None
+Tournament Name: champions 2022
+Game Start Time: 2022-09-01T17:21:59Z
+Game End Time: 2022-09-01T17:55:14Z
+Rounds ended by ELIMINATION count: 9
+Rounds ended by DEFUSE count: 5
+Rounds ended by DETONATE count: 1
+SPIKE PLANTED count: 6
+platformGameId: val:3dcf600a-2d3b-44ae-8386-06b2ef772974
+
+--- Events ---
+Game started at 2022-09-01T17:21:59Z
+Victor killed None  in round 1
+fl1pzjder killed Victor  in round 1
+None killed FNS  in round 1
+yay killed None  in round 1
+blaZek1ngg killed yay  in round 1
+Marved killed fl1pzjder  in round 1
+patt killed Marved  in round 1
+patt killed crashies  in round 1
+Round 1 ended with elimination. The winning team is None.
+The current score is None 1 - 0 None.
+patt killed Marved  in round 2
+blaZek1ngg killed crashies  in round 2
+yay killed patt  in round 2
+blaZek1ngg killed FNS  in round 2
+None killed Victor  in round 2
+yay killed fl1pzjder  in round 2
+blaZek1ngg killed yay  in round 2
+Round 2 ended with elimination. The winning team is None.
+The current score is None 2 - 0 None.
+crashies killed None  in round 3
+Marved killed patt  in round 3
+crashies killed None  in round 3
+Marved killed fl1pzjder  in round 3
+blaZek1ngg killed Marved  in round 3
+blaZek1ngg killed FNS  in round 3
+crashies killed blaZek1ngg  in round 3
+Round 3 ended with elimination. The winning team is None.
+The current score is None 2 - 1 None.
+FNS killed fl1pzjder  in round 4
+patt killed Marved  in round 4
+crashies killed None  in round 4
+patt killed crashies  in round 4
+blaZek1ngg killed Victor  in round 4
+yay killed patt  in round 4
+yay killed blaZek1ngg  in round 4
+FNS killed None  in round 4
+Round 4 ended with spike_defuse. The winning team is None.
+The current score is None 2 - 2 None.
+fl1pzjder killed Marved  in round 5
+crashies killed None  in round 5
+None killed Victor  in round 5
+FNS killed None  in round 5
+blaZek1ngg killed crashies  in round 5
+blaZek1ngg killed FNS  in round 5
+yay killed fl1pzjder  in round 5
+yay killed blaZek1ngg  in round 5
+yay killed patt  in round 5
+Round 5 ended with spike_defuse. The winning team is None.
+The current score is None 2 - 3 None.
+Victor killed None  in round 6
+fl1pzjder killed Victor  in round 6
+None killed FNS  in round 6
+yay killed None  in round 6
+Marved killed fl1pzjder  in round 6
+blaZek1ngg killed crashies  in round 6
+yay killed patt  in round 6
+blaZek1ngg killed yay  in round 6
+Marved killed blaZek1ngg  in round 6
+Round 6 ended with spike_defuse. The winning team is None.
+The current score is None 2 - 4 None.
+Victor killed None  in round 7
+Victor killed patt  in round 7
+fl1pzjder killed Victor  in round 7
+yay killed fl1pzjder  in round 7
+Marved killed None  in round 7
+blaZek1ngg killed Marved  in round 7
+crashies killed blaZek1ngg  in round 7
+Round 7 ended with spike_defuse. The winning team is None.
+The current score is None 2 - 5 None.
+blaZek1ngg killed Victor  in round 8
+None killed Marved  in round 8
+fl1pzjder killed crashies  in round 8
+blaZek1ngg killed FNS  in round 8
+Round 8 ended with detonate. The winning team is None.
+The current score is None 3 - 5 None.
+yay killed patt  in round 9
+Victor killed fl1pzjder  in round 9
+Victor killed None  in round 9
+None killed Victor  in round 9
+Marved killed None  in round 9
+blaZek1ngg killed crashies  in round 9
+Round 9 ended with time_expired. The winning team is None.
+The current score is None 3 - 6 None.
+yay killed None  in round 10
+None killed Victor  in round 10
+FNS killed None  in round 10
+fl1pzjder killed FNS  in round 10
+fl1pzjder killed Marved  in round 10
+yay killed fl1pzjder  in round 10
+yay killed patt  in round 10
+crashies killed blaZek1ngg  in round 10
+Round 10 ended with spike_defuse. The winning team is None.
+The current score is None 3 - 7 None.
+crashies killed None  in round 11
+crashies killed patt  in round 11
+crashies killed fl1pzjder  in round 11
+crashies killed None  in round 11
+crashies killed blaZek1ngg  in round 11
+Round 11 ended with elimination. The winning team is None.
+The current score is None 3 - 8 None.
+yay killed None  in round 12
+crashies killed None  in round 12
+FNS killed fl1pzjder  in round 12
+FNS killed blaZek1ngg  in round 12
+FNS killed patt  in round 12
+Round 12 ended with elimination. The winning team is None.
+The current score is None 3 - 9 None.
+Victor killed None  in round 13
+patt killed crashies  in round 13
+blaZek1ngg killed Victor  in round 13
+Marved killed blaZek1ngg  in round 13
+None killed Marved  in round 13
+FNS killed None  in round 13
+FNS killed patt  in round 13
+yay killed fl1pzjder  in round 13
+Round 13 ended with elimination. The winning team is None.
+The current score is None 3 - 10 None.
+yay killed fl1pzjder  in round 14
+Victor killed None  in round 14
+Victor killed patt  in round 14
+crashies killed blaZek1ngg  in round 14
+yay killed None  in round 14
+Round 14 ended with elimination. The winning team is None.
+The current score is None 3 - 11 None.
+crashies killed fl1pzjder  in round 15
+None killed FNS  in round 15
+None killed yay  in round 15
+Victor killed None  in round 15
+Marved killed None  in round 15
+patt killed Marved  in round 15
+crashies killed patt  in round 15
+crashies killed blaZek1ngg  in round 15
+Round 15 ended with elimination. The winning team is None.
+The current score is None 3 - 12 None.
+Victor killed fl1pzjder  in round 16
+patt killed Marved  in round 16
+crashies killed patt  in round 16
+FNS killed None  in round 16
+FNS killed None  in round 16
+blaZek1ngg killed FNS  in round 16
+blaZek1ngg killed crashies  in round 16
+Victor killed blaZek1ngg  in round 16
+Round 16 ended with elimination. The winning team is None.
+The current score is None 3 - 13 None.
+Game ended with winning team: None at 2022-09-01T17:55:14Z
+
+--- Player Stats ---
+crashies: Team=None, Kills=18, Deaths=9, Assists=12, KDA=3.33, First Kills=3, First Deaths=0
+Victor: Team=None, Kills=12, Deaths=10, Assists=3, KDA=1.5, First Kills=5, First Deaths=1
+FNS: Team=None, Kills=11, Deaths=9, Assists=5, KDA=1.78, First Kills=1, First Deaths=0
+Marved: Team=None, Kills=9, Deaths=11, Assists=9, KDA=1.64, First Kills=0, First Deaths=2
+yay: Team=None, Kills=19, Deaths=4, Assists=3, KDA=5.5, First Kills=4, First Deaths=0
+None: Team=None, Kills=10, Deaths=28, Assists=9, KDA=0.68, First Kills=0, First Deaths=8
+fl1pzjder: Team=None, Kills=7, Deaths=15, Assists=3, KDA=0.67, First Kills=1, First Deaths=4
+blaZek1ngg: Team=None, Kills=18, Deaths=12, Assists=7, KDA=2.08, First Kills=1, First Deaths=0
+patt: Team=None, Kills=8, Deaths=14, Assists=2, KDA=0.71, First Kills=1, First Deaths=1

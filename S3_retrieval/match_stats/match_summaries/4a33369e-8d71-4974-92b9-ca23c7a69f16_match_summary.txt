@@ -1,0 +1,198 @@
+Team 1: FURIA
+Team 2: Sentinels
+Participating Players:
+Player 1: TenZ
+Player 2: zekken
+Player 3: johnqt
+Player 4: Zellsis
+Player 5: Sacy
+Player 6: kon4n
+Player 7: mwzera
+Player 8: Nozwer
+Player 9: havoc
+Player 10: Khalil
+Winning Team: Sentinels
+Score: FURIA 5 - 13 Sentinels
+Tournament Name: vct americas stage 1 2024
+Game Start Time: 2024-05-03T23:53:19Z
+Game End Time: 2024-05-04T00:48:43Z
+Rounds ended by ELIMINATION count: 9
+Rounds ended by DEFUSE count: 2
+Rounds ended by DETONATE count: 5
+SPIKE PLANTED count: 7
+platformGameId: val:4a33369e-8d71-4974-92b9-ca23c7a69f16
+
+--- Events ---
+Game started at 2024-05-03T23:53:19Z
+TenZ killed havoc  in round 1
+zekken killed Nozwer  in round 1
+kon4n killed Zellsis  in round 1
+zekken killed Khalil  in round 1
+mwzera killed Sacy  in round 1
+kon4n killed TenZ  in round 1
+johnqt killed mwzera  in round 1
+kon4n killed johnqt  in round 1
+zekken killed kon4n  in round 1
+Round 1 ended with elimination. The winning team is Sentinels.
+The current score is FURIA 0 - 1 Sentinels.
+TenZ killed havoc  in round 2
+TenZ killed Khalil  in round 2
+johnqt killed mwzera  in round 2
+johnqt killed kon4n  in round 2
+Nozwer killed johnqt  in round 2
+zekken killed Nozwer  in round 2
+Round 2 ended with elimination. The winning team is Sentinels.
+The current score is FURIA 0 - 2 Sentinels.
+mwzera killed Zellsis  in round 3
+havoc killed TenZ  in round 3
+zekken killed mwzera  in round 3
+kon4n killed Sacy  in round 3
+Nozwer killed johnqt  in round 3
+Khalil killed zekken  in round 3
+Round 3 ended with elimination. The winning team is FURIA.
+The current score is FURIA 1 - 2 Sentinels.
+zekken killed mwzera  in round 4
+havoc killed Zellsis  in round 4
+johnqt killed kon4n  in round 4
+Nozwer killed zekken  in round 4
+havoc killed johnqt  in round 4
+TenZ killed Khalil  in round 4
+Sacy killed havoc  in round 4
+TenZ killed Nozwer  in round 4
+Round 4 ended with spike_defuse. The winning team is Sentinels.
+The current score is FURIA 1 - 3 Sentinels.
+zekken killed havoc  in round 5
+zekken killed mwzera  in round 5
+Round 5 ended with time_expired. The winning team is Sentinels.
+The current score is FURIA 1 - 4 Sentinels.
+TenZ killed kon4n  in round 6
+johnqt killed mwzera  in round 6
+zekken killed havoc  in round 6
+Zellsis killed Nozwer  in round 6
+Khalil killed zekken  in round 6
+Sacy killed Khalil  in round 6
+Round 6 ended with elimination. The winning team is Sentinels.
+The current score is FURIA 1 - 5 Sentinels.
+havoc killed Sacy  in round 7
+Zellsis killed havoc  in round 7
+Nozwer killed Zellsis  in round 7
+Khalil killed TenZ  in round 7
+Nozwer killed zekken  in round 7
+mwzera killed johnqt  in round 7
+Round 7 ended with elimination. The winning team is FURIA.
+The current score is FURIA 2 - 5 Sentinels.
+zekken killed Nozwer  in round 8
+havoc killed TenZ  in round 8
+mwzera killed Zellsis  in round 8
+havoc killed Sacy  in round 8
+havoc killed zekken  in round 8
+johnqt killed mwzera  in round 8
+havoc killed johnqt  in round 8
+Round 8 ended with elimination. The winning team is FURIA.
+The current score is FURIA 3 - 5 Sentinels.
+Zellsis killed havoc  in round 9
+mwzera killed Zellsis  in round 9
+TenZ killed Nozwer  in round 9
+Khalil killed johnqt  in round 9
+Sacy killed mwzera  in round 9
+Sacy killed Khalil  in round 9
+Round 9 ended with time_expired. The winning team is Sentinels.
+The current score is FURIA 3 - 6 Sentinels.
+Sacy killed kon4n  in round 10
+kon4n killed zekken  in round 10
+Sacy killed mwzera  in round 10
+Zellsis killed havoc  in round 10
+Khalil killed johnqt  in round 10
+Nozwer killed Sacy  in round 10
+TenZ killed Khalil  in round 10
+Round 10 ended with detonate. The winning team is FURIA.
+The current score is FURIA 4 - 6 Sentinels.
+kon4n killed kon4n  in round 11
+mwzera killed TenZ  in round 11
+zekken killed havoc  in round 11
+johnqt killed mwzera  in round 11
+kon4n killed zekken  in round 11
+johnqt killed Khalil  in round 11
+Sacy killed Nozwer  in round 11
+kon4n killed johnqt  in round 11
+Zellsis killed kon4n  in round 11
+Round 11 ended with elimination. The winning team is Sentinels.
+The current score is FURIA 4 - 7 Sentinels.
+zekken killed Khalil  in round 12
+havoc killed zekken  in round 12
+TenZ killed havoc  in round 12
+mwzera killed Sacy  in round 12
+TenZ killed mwzera  in round 12
+Nozwer killed TenZ  in round 12
+Zellsis killed kon4n  in round 12
+Nozwer killed Zellsis  in round 12
+johnqt killed Nozwer  in round 12
+Round 12 ended with spike_defuse. The winning team is Sentinels.
+The current score is FURIA 4 - 8 Sentinels.
+havoc killed zekken  in round 13
+TenZ killed Khalil  in round 13
+kon4n killed Zellsis  in round 13
+kon4n killed johnqt  in round 13
+TenZ killed Nozwer  in round 13
+mwzera killed Sacy  in round 13
+mwzera killed TenZ  in round 13
+Round 13 ended with elimination. The winning team is FURIA.
+The current score is FURIA 5 - 8 Sentinels.
+zekken killed havoc  in round 14
+zekken killed Sacy  in round 14
+Nozwer killed TenZ  in round 14
+kon4n killed johnqt  in round 14
+zekken killed Nozwer  in round 14
+Zellsis killed kon4n  in round 14
+zekken killed Khalil  in round 14
+mwzera killed zekken  in round 14
+mwzera killed Zellsis  in round 14
+Round 14 ended with detonate. The winning team is Sentinels.
+The current score is FURIA 5 - 9 Sentinels.
+mwzera killed mwzera  in round 15
+johnqt killed kon4n  in round 15
+TenZ killed Khalil  in round 15
+Zellsis killed havoc  in round 15
+mwzera killed Zellsis  in round 15
+mwzera killed TenZ  in round 15
+Round 15 ended with detonate. The winning team is Sentinels.
+The current score is FURIA 5 - 10 Sentinels.
+mwzera killed mwzera  in round 16
+TenZ killed havoc  in round 16
+Zellsis killed Nozwer  in round 16
+Round 16 ended with detonate. The winning team is Sentinels.
+The current score is FURIA 5 - 11 Sentinels.
+havoc killed johnqt  in round 17
+TenZ killed havoc  in round 17
+kon4n killed Sacy  in round 17
+TenZ killed Nozwer  in round 17
+Zellsis killed kon4n  in round 17
+Khalil killed Zellsis  in round 17
+mwzera killed TenZ  in round 17
+zekken killed Khalil  in round 17
+mwzera killed zekken  in round 17
+Round 17 ended with detonate. The winning team is Sentinels.
+The current score is FURIA 5 - 12 Sentinels.
+TenZ killed havoc  in round 18
+Khalil killed TenZ  in round 18
+zekken killed mwzera  in round 18
+Khalil killed Sacy  in round 18
+zekken killed Khalil  in round 18
+zekken killed Nozwer  in round 18
+kon4n killed zekken  in round 18
+johnqt killed kon4n  in round 18
+Round 18 ended with elimination. The winning team is Sentinels.
+The current score is FURIA 5 - 13 Sentinels.
+Game ended with winning team: Sentinels at 2024-05-04T00:48:43Z
+
+--- Player Stats ---
+TenZ: Team=Sentinels, Kills=17, Deaths=11, Assists=6, KDA=2.09, First Kills=4, First Deaths=0
+zekken: Team=Sentinels, Kills=20, Deaths=12, Assists=5, KDA=2.08, First Kills=5, First Deaths=1
+johnqt: Team=Sentinels, Kills=11, Deaths=12, Assists=4, KDA=1.25, First Kills=0, First Deaths=1
+Zellsis: Team=Sentinels, Kills=10, Deaths=11, Assists=7, KDA=1.55, First Kills=1, First Deaths=1
+Sacy: Team=Sentinels, Kills=7, Deaths=10, Assists=7, KDA=1.4, First Kills=1, First Deaths=1
+kon4n: Team=FURIA, Kills=13, Deaths=12, Assists=7, KDA=1.67, First Kills=1, First Deaths=3
+mwzera: Team=FURIA, Kills=17, Deaths=14, Assists=1, KDA=1.29, First Kills=3, First Deaths=3
+Nozwer: Team=FURIA, Kills=9, Deaths=13, Assists=8, KDA=1.31, First Kills=0, First Deaths=1
+havoc: Team=FURIA, Kills=11, Deaths=15, Assists=7, KDA=1.2, First Kills=3, First Deaths=6
+Khalil: Team=FURIA, Kills=8, Deaths=13, Assists=7, KDA=1.15, First Kills=0, First Deaths=1

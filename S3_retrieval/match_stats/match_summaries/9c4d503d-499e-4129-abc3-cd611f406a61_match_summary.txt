@@ -1,0 +1,232 @@
+Team 1: Team Secret
+Team 2: DRX
+Participating Players:
+Player 1: MaKo
+Player 2: Foxy9
+Player 3: stax
+Player 4: BeYN
+Player 5: BuZz
+Player 6: BORKUM
+Player 7: Jremy
+Player 8: None
+Player 9: invy
+Player 10: NDG
+Winning Team: DRX
+Score: Team Secret 8 - 13 DRX
+Tournament Name: vct pacific stage 1 2024
+Game Start Time: 2024-04-06T12:08:53Z
+Game End Time: 2024-04-06T12:51:46Z
+Rounds ended by ELIMINATION count: 18
+Rounds ended by DEFUSE count: 2
+Rounds ended by DETONATE count: 0
+SPIKE PLANTED count: 2
+platformGameId: val:9c4d503d-499e-4129-abc3-cd611f406a61
+
+--- Events ---
+Game started at 2024-04-06T12:08:53Z
+BeYN killed Jremy  in round 1
+Foxy9 killed None  in round 1
+NDG killed Foxy9  in round 1
+stax killed BORKUM  in round 1
+invy killed BeYN  in round 1
+stax killed NDG  in round 1
+stax killed invy  in round 1
+Round 1 ended with elimination. The winning team is DRX.
+The current score is Team Secret 0 - 1 DRX.
+stax killed Jremy  in round 2
+BuZz killed None  in round 2
+BuZz killed invy  in round 2
+BeYN killed BORKUM  in round 2
+NDG killed BuZz  in round 2
+BeYN killed NDG  in round 2
+Round 2 ended with elimination. The winning team is DRX.
+The current score is Team Secret 0 - 2 DRX.
+BuZz killed Jremy  in round 3
+BeYN killed NDG  in round 3
+BeYN killed BORKUM  in round 3
+invy killed BuZz  in round 3
+invy killed BeYN  in round 3
+None killed stax  in round 3
+Foxy9 killed invy  in round 3
+None killed MaKo  in round 3
+Foxy9 killed None  in round 3
+Round 3 ended with spike_defuse. The winning team is DRX.
+The current score is Team Secret 0 - 3 DRX.
+BORKUM killed BuZz  in round 4
+MaKo killed None  in round 4
+MaKo killed NDG  in round 4
+invy killed MaKo  in round 4
+invy killed Foxy9  in round 4
+invy killed BeYN  in round 4
+invy killed stax  in round 4
+Round 4 ended with elimination. The winning team is Team Secret.
+The current score is Team Secret 1 - 3 DRX.
+Jremy killed MaKo  in round 5
+invy killed Foxy9  in round 5
+None killed stax  in round 5
+invy killed BeYN  in round 5
+BuZz killed None  in round 5
+BORKUM killed BuZz  in round 5
+Round 5 ended with elimination. The winning team is Team Secret.
+The current score is Team Secret 2 - 3 DRX.
+NDG killed stax  in round 6
+BuZz killed NDG  in round 6
+Jremy killed Foxy9  in round 6
+Jremy killed BeYN  in round 6
+BuZz killed BORKUM  in round 6
+BuZz killed invy  in round 6
+MaKo killed None  in round 6
+Round 6 ended with time_expired. The winning team is DRX.
+The current score is Team Secret 2 - 4 DRX.
+BuZz killed Jremy  in round 7
+Foxy9 killed BORKUM  in round 7
+stax killed None  in round 7
+invy killed BuZz  in round 7
+MaKo killed NDG  in round 7
+invy killed BeYN  in round 7
+invy killed Foxy9  in round 7
+Jremy killed MaKo  in round 7
+Jremy killed stax  in round 7
+Round 7 ended with elimination. The winning team is Team Secret.
+The current score is Team Secret 3 - 4 DRX.
+invy killed invy  in round 8
+BuZz killed Jremy  in round 8
+None killed BuZz  in round 8
+invy killed BeYN  in round 8
+MaKo killed invy  in round 8
+NDG killed MaKo  in round 8
+stax killed NDG  in round 8
+None killed stax  in round 8
+BORKUM killed Foxy9  in round 8
+Round 8 ended with elimination. The winning team is Team Secret.
+The current score is Team Secret 4 - 4 DRX.
+BuZz killed None  in round 9
+Jremy killed BeYN  in round 9
+invy killed stax  in round 9
+BuZz killed Jremy  in round 9
+BuZz killed invy  in round 9
+BORKUM killed BuZz  in round 9
+MaKo killed BORKUM  in round 9
+MaKo killed NDG  in round 9
+Round 9 ended with elimination. The winning team is DRX.
+The current score is Team Secret 4 - 5 DRX.
+BuZz killed None  in round 10
+MaKo killed invy  in round 10
+Jremy killed BeYN  in round 10
+BORKUM killed BuZz  in round 10
+NDG killed stax  in round 10
+Foxy9 killed BORKUM  in round 10
+Foxy9 killed NDG  in round 10
+MaKo killed Jremy  in round 10
+Round 10 ended with spike_defuse. The winning team is DRX.
+The current score is Team Secret 4 - 6 DRX.
+Jremy killed BuZz  in round 11
+stax killed NDG  in round 11
+Foxy9 killed invy  in round 11
+stax killed Jremy  in round 11
+stax killed BORKUM  in round 11
+Foxy9 killed None  in round 11
+Round 11 ended with elimination. The winning team is DRX.
+The current score is Team Secret 4 - 7 DRX.
+invy killed BuZz  in round 12
+invy killed BeYN  in round 12
+NDG killed stax  in round 12
+Jremy killed MaKo  in round 12
+Foxy9 killed None  in round 12
+Foxy9 killed Jremy  in round 12
+BORKUM killed Foxy9  in round 12
+Round 12 ended with elimination. The winning team is Team Secret.
+The current score is Team Secret 5 - 7 DRX.
+Jremy killed BuZz  in round 13
+Foxy9 killed BORKUM  in round 13
+Jremy killed Foxy9  in round 13
+BeYN killed Jremy  in round 13
+BeYN killed NDG  in round 13
+BeYN killed invy  in round 13
+BeYN killed None  in round 13
+Round 13 ended with elimination. The winning team is DRX.
+The current score is Team Secret 5 - 8 DRX.
+None killed stax  in round 14
+BeYN killed None  in round 14
+Foxy9 killed NDG  in round 14
+BORKUM killed BuZz  in round 14
+BORKUM killed Foxy9  in round 14
+MaKo killed invy  in round 14
+BeYN killed BORKUM  in round 14
+MaKo killed Jremy  in round 14
+Round 14 ended with elimination. The winning team is DRX.
+The current score is Team Secret 5 - 9 DRX.
+Jremy killed Foxy9  in round 15
+BeYN killed Jremy  in round 15
+stax killed NDG  in round 15
+BuZz killed BORKUM  in round 15
+MaKo killed None  in round 15
+MaKo killed invy  in round 15
+Round 15 ended with elimination. The winning team is DRX.
+The current score is Team Secret 5 - 10 DRX.
+Jremy killed Foxy9  in round 16
+BORKUM killed MaKo  in round 16
+invy killed BuZz  in round 16
+invy killed BeYN  in round 16
+stax killed invy  in round 16
+BORKUM killed stax  in round 16
+Round 16 ended with elimination. The winning team is Team Secret.
+The current score is Team Secret 6 - 10 DRX.
+NDG killed BuZz  in round 17
+MaKo killed NDG  in round 17
+Foxy9 killed invy  in round 17
+BeYN killed Jremy  in round 17
+Jremy killed MaKo  in round 17
+None killed stax  in round 17
+None killed BeYN  in round 17
+None killed Foxy9  in round 17
+Round 17 ended with elimination. The winning team is Team Secret.
+The current score is Team Secret 7 - 10 DRX.
+None killed BuZz  in round 18
+invy killed Foxy9  in round 18
+stax killed None  in round 18
+Jremy killed MaKo  in round 18
+invy killed stax  in round 18
+BeYN killed NDG  in round 18
+Jremy killed BeYN  in round 18
+Round 18 ended with elimination. The winning team is Team Secret.
+The current score is Team Secret 8 - 10 DRX.
+BuZz killed None  in round 19
+MaKo killed Jremy  in round 19
+MaKo killed BORKUM  in round 19
+NDG killed stax  in round 19
+BuZz killed invy  in round 19
+BeYN killed NDG  in round 19
+Round 19 ended with elimination. The winning team is DRX.
+The current score is Team Secret 8 - 11 DRX.
+BuZz killed None  in round 20
+BORKUM killed BeYN  in round 20
+MaKo killed Jremy  in round 20
+MaKo killed NDG  in round 20
+BORKUM killed BuZz  in round 20
+stax killed invy  in round 20
+Foxy9 killed BORKUM  in round 20
+Round 20 ended with elimination. The winning team is DRX.
+The current score is Team Secret 8 - 12 DRX.
+BeYN killed Jremy  in round 21
+MaKo killed None  in round 21
+BuZz killed BORKUM  in round 21
+invy killed BuZz  in round 21
+invy killed BeYN  in round 21
+Foxy9 killed invy  in round 21
+MaKo killed NDG  in round 21
+Round 21 ended with elimination. The winning team is DRX.
+The current score is Team Secret 8 - 13 DRX.
+Game ended with winning team: DRX at 2024-04-06T12:51:46Z
+
+--- Player Stats ---
+MaKo: Team=DRX, Kills=20, Deaths=9, Assists=11, KDA=3.44, First Kills=0, First Deaths=1
+Foxy9: Team=DRX, Kills=15, Deaths=13, Assists=5, KDA=1.54, First Kills=0, First Deaths=2
+stax: Team=DRX, Kills=13, Deaths=14, Assists=5, KDA=1.29, First Kills=1, First Deaths=2
+BeYN: Team=DRX, Kills=16, Deaths=15, Assists=10, KDA=1.73, First Kills=2, First Deaths=0
+BuZz: Team=DRX, Kills=18, Deaths=17, Assists=7, KDA=1.47, First Kills=6, First Deaths=6
+BORKUM: Team=Team Secret, Kills=12, Deaths=14, Assists=8, KDA=1.43, First Kills=1, First Deaths=0
+Jremy: Team=Team Secret, Kills=16, Deaths=16, Assists=2, KDA=1.12, First Kills=5, First Deaths=5
+None: Team=Team Secret, Kills=10, Deaths=18, Assists=12, KDA=1.22, First Kills=2, First Deaths=4
+invy: Team=Team Secret, Kills=23, Deaths=17, Assists=6, KDA=1.71, First Kills=2, First Deaths=1
+NDG: Team=Team Secret, Kills=8, Deaths=18, Assists=2, KDA=0.56, First Kills=2, First Deaths=0

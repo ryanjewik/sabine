@@ -1,0 +1,237 @@
+Team 1: Team Liquid
+Team 2: Evil Geniuses
+Participating Players:
+Player 1: Demon1
+Player 2: Ethan
+Player 3: JAWGEMO
+Player 4: C0M
+Player 5: Boostio
+Player 6: Jamppi
+Player 7: Sayf
+Player 8: Redgar
+Player 9: nAts
+Player 10: soulcas
+Winning Team: Evil Geniuses
+Score: Team Liquid 9 - 13 Evil Geniuses
+Tournament Name: vct masters 2023 playoffs
+Game Start Time: 2023-06-19T03:50:27Z
+Game End Time: 2023-06-19T04:38:34Z
+Rounds ended by ELIMINATION count: 18
+Rounds ended by DEFUSE count: 3
+Rounds ended by DETONATE count: 0
+SPIKE PLANTED count: 3
+platformGameId: val:c83ff754-81b4-4dfe-9694-6bef60238c7f
+
+--- Events ---
+Game started at 2023-06-19T03:50:27Z
+Sayf killed Demon1  in round 1
+JAWGEMO killed Sayf  in round 1
+nAts killed Ethan  in round 1
+Jamppi killed JAWGEMO  in round 1
+C0M killed Jamppi  in round 1
+C0M killed soulcas  in round 1
+C0M killed Redgar  in round 1
+C0M killed nAts  in round 1
+Round 1 ended with elimination. The winning team is Evil Geniuses.
+The current score is Team Liquid 0 - 1 Evil Geniuses.
+Demon1 killed nAts  in round 2
+Redgar killed Demon1  in round 2
+Boostio killed Redgar  in round 2
+Jamppi killed Boostio  in round 2
+C0M killed Jamppi  in round 2
+soulcas killed JAWGEMO  in round 2
+Ethan killed soulcas  in round 2
+C0M killed Sayf  in round 2
+Round 2 ended with elimination. The winning team is Evil Geniuses.
+The current score is Team Liquid 0 - 2 Evil Geniuses.
+Boostio killed Sayf  in round 3
+Boostio killed nAts  in round 3
+soulcas killed Boostio  in round 3
+Redgar killed Ethan  in round 3
+Redgar killed C0M  in round 3
+soulcas killed JAWGEMO  in round 3
+Redgar killed Demon1  in round 3
+Round 3 ended with elimination. The winning team is Team Liquid.
+The current score is Team Liquid 1 - 2 Evil Geniuses.
+Ethan killed Sayf  in round 4
+Boostio killed Redgar  in round 4
+Round 4 ended with time_expired. The winning team is Evil Geniuses.
+The current score is Team Liquid 1 - 3 Evil Geniuses.
+Boostio killed Sayf  in round 5
+Boostio killed soulcas  in round 5
+Ethan killed Jamppi  in round 5
+nAts killed Boostio  in round 5
+Demon1 killed Redgar  in round 5
+JAWGEMO killed nAts  in round 5
+Round 5 ended with elimination. The winning team is Evil Geniuses.
+The current score is Team Liquid 1 - 4 Evil Geniuses.
+nAts killed Boostio  in round 6
+C0M killed Sayf  in round 6
+JAWGEMO killed soulcas  in round 6
+Redgar killed JAWGEMO  in round 6
+Ethan killed Redgar  in round 6
+Jamppi killed Demon1  in round 6
+nAts killed C0M  in round 6
+nAts killed Ethan  in round 6
+Round 6 ended with elimination. The winning team is Team Liquid.
+The current score is Team Liquid 2 - 4 Evil Geniuses.
+Sayf killed Ethan  in round 7
+Jamppi killed C0M  in round 7
+Jamppi killed JAWGEMO  in round 7
+soulcas killed Boostio  in round 7
+nAts killed Demon1  in round 7
+Round 7 ended with elimination. The winning team is Team Liquid.
+The current score is Team Liquid 3 - 4 Evil Geniuses.
+C0M killed Redgar  in round 8
+Demon1 killed nAts  in round 8
+Boostio killed Sayf  in round 8
+soulcas killed Demon1  in round 8
+Ethan killed Jamppi  in round 8
+JAWGEMO killed soulcas  in round 8
+Round 8 ended with elimination. The winning team is Evil Geniuses.
+The current score is Team Liquid 3 - 5 Evil Geniuses.
+Ethan killed soulcas  in round 9
+Sayf killed Ethan  in round 9
+Boostio killed Jamppi  in round 9
+Boostio killed Redgar  in round 9
+JAWGEMO killed nAts  in round 9
+C0M killed Sayf  in round 9
+Round 9 ended with elimination. The winning team is Evil Geniuses.
+The current score is Team Liquid 3 - 6 Evil Geniuses.
+Boostio killed Sayf  in round 10
+Boostio killed Redgar  in round 10
+Jamppi killed Boostio  in round 10
+Jamppi killed Demon1  in round 10
+Ethan killed Jamppi  in round 10
+nAts killed JAWGEMO  in round 10
+C0M killed soulcas  in round 10
+nAts killed Ethan  in round 10
+nAts killed C0M  in round 10
+Round 10 ended with elimination. The winning team is Team Liquid.
+The current score is Team Liquid 4 - 6 Evil Geniuses.
+Boostio killed Sayf  in round 11
+Boostio killed soulcas  in round 11
+C0M killed Redgar  in round 11
+C0M killed nAts  in round 11
+Jamppi killed Boostio  in round 11
+JAWGEMO killed Jamppi  in round 11
+Round 11 ended with spike_defuse. The winning team is Evil Geniuses.
+The current score is Team Liquid 4 - 7 Evil Geniuses.
+Demon1 killed Jamppi  in round 12
+nAts killed Demon1  in round 12
+Redgar killed JAWGEMO  in round 12
+Sayf killed C0M  in round 12
+Boostio killed nAts  in round 12
+soulcas killed Boostio  in round 12
+Sayf killed Ethan  in round 12
+Round 12 ended with elimination. The winning team is Team Liquid.
+The current score is Team Liquid 5 - 7 Evil Geniuses.
+Ethan killed Redgar  in round 13
+Jamppi killed Ethan  in round 13
+Sayf killed JAWGEMO  in round 13
+nAts killed Boostio  in round 13
+Sayf killed C0M  in round 13
+nAts killed Demon1  in round 13
+Round 13 ended with spike_defuse. The winning team is Team Liquid.
+The current score is Team Liquid 6 - 7 Evil Geniuses.
+nAts killed Ethan  in round 14
+Sayf killed JAWGEMO  in round 14
+Demon1 killed nAts  in round 14
+Boostio killed Sayf  in round 14
+Jamppi killed Boostio  in round 14
+Demon1 killed Jamppi  in round 14
+soulcas killed Demon1  in round 14
+Redgar killed C0M  in round 14
+Round 14 ended with elimination. The winning team is Team Liquid.
+The current score is Team Liquid 7 - 7 Evil Geniuses.
+C0M killed Redgar  in round 15
+Sayf killed Demon1  in round 15
+Ethan killed Jamppi  in round 15
+Sayf killed Boostio  in round 15
+C0M killed nAts  in round 15
+C0M killed Sayf  in round 15
+soulcas killed C0M  in round 15
+Ethan killed soulcas  in round 15
+Round 15 ended with elimination. The winning team is Evil Geniuses.
+The current score is Team Liquid 7 - 8 Evil Geniuses.
+nAts killed Boostio  in round 16
+Sayf killed Demon1  in round 16
+soulcas killed Ethan  in round 16
+soulcas killed JAWGEMO  in round 16
+Sayf killed C0M  in round 16
+Round 16 ended with spike_defuse. The winning team is Team Liquid.
+The current score is Team Liquid 8 - 8 Evil Geniuses.
+Jamppi killed Demon1  in round 17
+Boostio killed Sayf  in round 17
+nAts killed Boostio  in round 17
+Ethan killed soulcas  in round 17
+nAts killed Ethan  in round 17
+nAts killed C0M  in round 17
+JAWGEMO killed Jamppi  in round 17
+JAWGEMO killed nAts  in round 17
+JAWGEMO killed Redgar  in round 17
+Round 17 ended with elimination. The winning team is Evil Geniuses.
+The current score is Team Liquid 8 - 9 Evil Geniuses.
+JAWGEMO killed JAWGEMO  in round 18
+Boostio killed Jamppi  in round 18
+nAts killed C0M  in round 18
+Boostio killed Redgar  in round 18
+Sayf killed Ethan  in round 18
+Demon1 killed Sayf  in round 18
+soulcas killed Demon1  in round 18
+soulcas killed JAWGEMO  in round 18
+Boostio killed soulcas  in round 18
+Boostio killed nAts  in round 18
+Round 18 ended with elimination. The winning team is Evil Geniuses.
+The current score is Team Liquid 8 - 10 Evil Geniuses.
+Redgar killed C0M  in round 19
+JAWGEMO killed Sayf  in round 19
+Demon1 killed Redgar  in round 19
+soulcas killed Demon1  in round 19
+Ethan killed soulcas  in round 19
+JAWGEMO killed nAts  in round 19
+Ethan killed Jamppi  in round 19
+Round 19 ended with elimination. The winning team is Evil Geniuses.
+The current score is Team Liquid 8 - 11 Evil Geniuses.
+nAts killed Demon1  in round 20
+Ethan killed nAts  in round 20
+Redgar killed Ethan  in round 20
+JAWGEMO killed soulcas  in round 20
+C0M killed Redgar  in round 20
+Jamppi killed Boostio  in round 20
+JAWGEMO killed Jamppi  in round 20
+JAWGEMO killed Sayf  in round 20
+Round 20 ended with elimination. The winning team is Evil Geniuses.
+The current score is Team Liquid 8 - 12 Evil Geniuses.
+Sayf killed C0M  in round 21
+Sayf killed Boostio  in round 21
+nAts killed JAWGEMO  in round 21
+Demon1 killed Jamppi  in round 21
+soulcas killed Ethan  in round 21
+Demon1 killed Sayf  in round 21
+soulcas killed Demon1  in round 21
+Round 21 ended with elimination. The winning team is Team Liquid.
+The current score is Team Liquid 9 - 12 Evil Geniuses.
+Redgar killed C0M  in round 22
+Demon1 killed soulcas  in round 22
+Demon1 killed Jamppi  in round 22
+nAts killed Demon1  in round 22
+JAWGEMO killed nAts  in round 22
+Redgar killed Ethan  in round 22
+JAWGEMO killed Redgar  in round 22
+Boostio killed Sayf  in round 22
+Round 22 ended with elimination. The winning team is Evil Geniuses.
+The current score is Team Liquid 9 - 13 Evil Geniuses.
+Game ended with winning team: Evil Geniuses at 2023-06-19T04:38:34Z
+
+--- Player Stats ---
+Demon1: Team=Evil Geniuses, Kills=12, Deaths=18, Assists=3, KDA=0.83, First Kills=2, First Deaths=3
+Ethan: Team=Evil Geniuses, Kills=14, Deaths=15, Assists=13, KDA=1.8, First Kills=3, First Deaths=2
+JAWGEMO: Team=Evil Geniuses, Kills=17, Deaths=13, Assists=8, KDA=1.92, First Kills=1, First Deaths=1
+C0M: Team=Evil Geniuses, Kills=16, Deaths=14, Assists=6, KDA=1.57, First Kills=2, First Deaths=3
+Boostio: Team=Evil Geniuses, Kills=21, Deaths=15, Assists=5, KDA=1.73, First Kills=4, First Deaths=2
+Jamppi: Team=Team Liquid, Kills=12, Deaths=16, Assists=14, KDA=1.62, First Kills=1, First Deaths=1
+Sayf: Team=Team Liquid, Kills=15, Deaths=18, Assists=5, KDA=1.11, First Kills=3, First Deaths=5
+Redgar: Team=Team Liquid, Kills=11, Deaths=16, Assists=10, KDA=1.31, First Kills=2, First Deaths=3
+nAts: Team=Team Liquid, Kills=21, Deaths=15, Assists=2, KDA=1.53, First Kills=4, First Deaths=1
+soulcas: Team=Team Liquid, Kills=15, Deaths=14, Assists=6, KDA=1.5, First Kills=0, First Deaths=1

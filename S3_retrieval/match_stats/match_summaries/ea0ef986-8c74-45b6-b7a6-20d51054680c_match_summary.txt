@@ -1,0 +1,228 @@
+Team 1: LOUD
+Team 2: ZETA DIVISION
+Participating Players:
+Player 1: Dep
+Player 2: crow 
+Player 3: SugarZ3ro
+Player 4: TENNN
+Player 5: Laz
+Player 6: aspas
+Player 7: Sacy
+Player 8: Saadhak
+Player 9: Less
+Player 10: pANcada
+Winning Team: LOUD
+Score: LOUD 13 - 8 ZETA DIVISION
+Tournament Name: champions 2022
+Game Start Time: 2022-09-01T11:58:44Z
+Game End Time: 2022-09-01T13:04:07Z
+Rounds ended by ELIMINATION count: 16
+Rounds ended by DEFUSE count: 3
+Rounds ended by DETONATE count: 1
+SPIKE PLANTED count: 4
+platformGameId: val:ea0ef986-8c74-45b6-b7a6-20d51054680c
+
+--- Events ---
+Game started at 2022-09-01T11:58:44Z
+Dep killed pANcada  in round 1
+aspas killed Laz  in round 1
+Saadhak killed crow   in round 1
+Dep killed aspas  in round 1
+Dep killed Saadhak  in round 1
+TENNN killed Less  in round 1
+Sacy killed TENNN  in round 1
+Sacy killed Dep  in round 1
+SugarZ3ro killed Sacy  in round 1
+Round 1 ended with elimination. The winning team is ZETA DIVISION.
+The current score is LOUD 0 - 1 ZETA DIVISION.
+Laz killed Saadhak  in round 2
+Sacy killed Dep  in round 2
+TENNN killed pANcada  in round 2
+crow  killed Less  in round 2
+TENNN killed Sacy  in round 2
+aspas killed TENNN  in round 2
+SugarZ3ro killed aspas  in round 2
+Round 2 ended with elimination. The winning team is ZETA DIVISION.
+The current score is LOUD 0 - 2 ZETA DIVISION.
+Less killed TENNN  in round 3
+Laz killed Saadhak  in round 3
+SugarZ3ro killed Sacy  in round 3
+Less killed Dep  in round 3
+aspas killed crow   in round 3
+aspas killed SugarZ3ro  in round 3
+Laz killed aspas  in round 3
+pANcada killed Laz  in round 3
+Round 3 ended with elimination. The winning team is LOUD.
+The current score is LOUD 1 - 2 ZETA DIVISION.
+pANcada killed SugarZ3ro  in round 4
+TENNN killed Sacy  in round 4
+Saadhak killed Dep  in round 4
+Laz killed Saadhak  in round 4
+Less killed crow   in round 4
+Laz killed aspas  in round 4
+Round 4 ended with spike_defuse. The winning team is ZETA DIVISION.
+The current score is LOUD 1 - 3 ZETA DIVISION.
+Less killed TENNN  in round 5
+Less killed Laz  in round 5
+Saadhak killed Laz  in round 5
+aspas killed TENNN  in round 5
+Less killed SugarZ3ro  in round 5
+aspas killed crow   in round 5
+Less killed Dep  in round 5
+Round 5 ended with elimination. The winning team is LOUD.
+The current score is LOUD 2 - 3 ZETA DIVISION.
+Saadhak killed SugarZ3ro  in round 6
+Dep killed Sacy  in round 6
+TENNN killed aspas  in round 6
+Saadhak killed TENNN  in round 6
+Less killed Dep  in round 6
+pANcada killed crow   in round 6
+Laz killed Saadhak  in round 6
+pANcada killed Laz  in round 6
+Round 6 ended with elimination. The winning team is LOUD.
+The current score is LOUD 3 - 3 ZETA DIVISION.
+SugarZ3ro killed Less  in round 7
+TENNN killed aspas  in round 7
+crow  killed Sacy  in round 7
+Dep killed pANcada  in round 7
+crow  killed Saadhak  in round 7
+Round 7 ended with elimination. The winning team is ZETA DIVISION.
+The current score is LOUD 3 - 4 ZETA DIVISION.
+Less killed Laz  in round 8
+pANcada killed Dep  in round 8
+TENNN killed aspas  in round 8
+Sacy killed TENNN  in round 8
+Less killed SugarZ3ro  in round 8
+Less killed crow   in round 8
+Round 8 ended with elimination. The winning team is LOUD.
+The current score is LOUD 4 - 4 ZETA DIVISION.
+SugarZ3ro killed aspas  in round 9
+SugarZ3ro killed pANcada  in round 9
+Sacy killed crow   in round 9
+SugarZ3ro killed Saadhak  in round 9
+Dep killed Less  in round 9
+Round 9 ended with time_expired. The winning team is ZETA DIVISION.
+The current score is LOUD 4 - 5 ZETA DIVISION.
+Less killed TENNN  in round 10
+SugarZ3ro killed aspas  in round 10
+pANcada killed SugarZ3ro  in round 10
+pANcada killed Laz  in round 10
+Round 10 ended with detonate. The winning team is LOUD.
+The current score is LOUD 5 - 5 ZETA DIVISION.
+crow  killed pANcada  in round 11
+Sacy killed crow   in round 11
+Dep killed Sacy  in round 11
+Laz killed Saadhak  in round 11
+aspas killed Dep  in round 11
+Laz killed Less  in round 11
+aspas killed Laz  in round 11
+TENNN killed aspas  in round 11
+Round 11 ended with elimination. The winning team is ZETA DIVISION.
+The current score is LOUD 5 - 6 ZETA DIVISION.
+Dep killed aspas  in round 12
+Dep killed Saadhak  in round 12
+Dep killed pANcada  in round 12
+Sacy killed Dep  in round 12
+Laz killed Sacy  in round 12
+crow  killed Less  in round 12
+Round 12 ended with elimination. The winning team is ZETA DIVISION.
+The current score is LOUD 5 - 7 ZETA DIVISION.
+Sacy killed TENNN  in round 13
+Saadhak killed Laz  in round 13
+SugarZ3ro killed Less  in round 13
+aspas killed SugarZ3ro  in round 13
+pANcada killed Dep  in round 13
+Saadhak killed crow   in round 13
+Round 13 ended with spike_defuse. The winning team is LOUD.
+The current score is LOUD 6 - 7 ZETA DIVISION.
+Less killed Laz  in round 14
+Less killed crow   in round 14
+pANcada killed TENNN  in round 14
+pANcada killed SugarZ3ro  in round 14
+Dep killed Less  in round 14
+Dep killed Sacy  in round 14
+pANcada killed Dep  in round 14
+Round 14 ended with elimination. The winning team is LOUD.
+The current score is LOUD 7 - 7 ZETA DIVISION.
+Saadhak killed TENNN  in round 15
+crow  killed Saadhak  in round 15
+pANcada killed Dep  in round 15
+pANcada killed Laz  in round 15
+SugarZ3ro killed pANcada  in round 15
+SugarZ3ro killed aspas  in round 15
+Less killed SugarZ3ro  in round 15
+crow  killed Sacy  in round 15
+Less killed crow   in round 15
+Round 15 ended with spike_defuse. The winning team is LOUD.
+The current score is LOUD 8 - 7 ZETA DIVISION.
+Sacy killed crow   in round 16
+pANcada killed SugarZ3ro  in round 16
+Laz killed aspas  in round 16
+Less killed Dep  in round 16
+Sacy killed TENNN  in round 16
+Laz killed pANcada  in round 16
+Less killed Laz  in round 16
+Round 16 ended with elimination. The winning team is LOUD.
+The current score is LOUD 9 - 7 ZETA DIVISION.
+TENNN killed aspas  in round 17
+Less killed TENNN  in round 17
+Dep killed Saadhak  in round 17
+Laz killed pANcada  in round 17
+Sacy killed Dep  in round 17
+Sacy killed Laz  in round 17
+Less killed crow   in round 17
+SugarZ3ro killed Sacy  in round 17
+Less killed SugarZ3ro  in round 17
+Round 17 ended with elimination. The winning team is LOUD.
+The current score is LOUD 10 - 7 ZETA DIVISION.
+Sacy killed crow   in round 18
+Saadhak killed TENNN  in round 18
+Dep killed Less  in round 18
+Saadhak killed Dep  in round 18
+aspas killed SugarZ3ro  in round 18
+Saadhak killed Laz  in round 18
+Round 18 ended with elimination. The winning team is LOUD.
+The current score is LOUD 11 - 7 ZETA DIVISION.
+Sacy killed Laz  in round 19
+TENNN killed Sacy  in round 19
+Less killed crow   in round 19
+pANcada killed Dep  in round 19
+TENNN killed Saadhak  in round 19
+pANcada killed TENNN  in round 19
+SugarZ3ro killed pANcada  in round 19
+SugarZ3ro killed Less  in round 19
+SugarZ3ro killed aspas  in round 19
+Round 19 ended with elimination. The winning team is ZETA DIVISION.
+The current score is LOUD 11 - 8 ZETA DIVISION.
+SugarZ3ro killed SugarZ3ro  in round 20
+Sacy killed Dep  in round 20
+Laz killed pANcada  in round 20
+crow  killed Less  in round 20
+Saadhak killed TENNN  in round 20
+Sacy killed Laz  in round 20
+SugarZ3ro killed Sacy  in round 20
+Saadhak killed SugarZ3ro  in round 20
+aspas killed crow   in round 20
+Round 20 ended with elimination. The winning team is LOUD.
+The current score is LOUD 12 - 8 ZETA DIVISION.
+Sacy killed TENNN  in round 21
+Sacy killed Dep  in round 21
+SugarZ3ro killed Saadhak  in round 21
+aspas killed Laz  in round 21
+Sacy killed SugarZ3ro  in round 21
+aspas killed crow   in round 21
+Round 21 ended with elimination. The winning team is LOUD.
+The current score is LOUD 13 - 8 ZETA DIVISION.
+Game ended with winning team: LOUD at 2022-09-01T13:04:07Z
+
+--- Player Stats ---
+Dep: Team=ZETA DIVISION, Kills=14, Deaths=18, Assists=1, KDA=0.83, First Kills=2, First Deaths=0
+crow : Team=ZETA DIVISION, Kills=8, Deaths=17, Assists=7, KDA=0.88, First Kills=1, First Deaths=2
+SugarZ3ro: Team=ZETA DIVISION, Kills=18, Deaths=15, Assists=4, KDA=1.47, First Kills=3, First Deaths=3
+TENNN: Team=ZETA DIVISION, Kills=11, Deaths=17, Assists=2, KDA=0.76, First Kills=1, First Deaths=6
+Laz: Team=ZETA DIVISION, Kills=13, Deaths=17, Assists=7, KDA=1.18, First Kills=1, First Deaths=3
+aspas: Team=LOUD, Kills=13, Deaths=15, Assists=7, KDA=1.33, First Kills=0, First Deaths=3
+Sacy: Team=LOUD, Kills=19, Deaths=13, Assists=7, KDA=2.0, First Kills=5, First Deaths=0
+Saadhak: Team=LOUD, Kills=13, Deaths=13, Assists=10, KDA=1.77, First Kills=2, First Deaths=1
+Less: Team=LOUD, Kills=22, Deaths=11, Assists=3, KDA=2.27, First Kills=5, First Deaths=1
+pANcada: Team=LOUD, Kills=16, Deaths=11, Assists=10, KDA=2.36, First Kills=1, First Deaths=2

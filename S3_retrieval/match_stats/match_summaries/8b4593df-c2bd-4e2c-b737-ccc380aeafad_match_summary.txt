@@ -1,0 +1,294 @@
+Team 1: NRG
+Team 2: Evil Geniuses
+Participating Players:
+Player 1: Demon1
+Player 2: Ethan
+Player 3: JAWGEMO
+Player 4: C0M
+Player 5: Boostio
+Player 6: crashies
+Player 7: Victor
+Player 8: FNS
+Player 9: s0m
+Player 10: ardiis
+Winning Team: Evil Geniuses
+Score: NRG 13 - 15 Evil Geniuses
+Tournament Name: vct americas 2023
+Game Start Time: 2023-05-24T01:04:40Z
+Game End Time: 2023-05-24T02:11:37Z
+Rounds ended by ELIMINATION count: 20
+Rounds ended by DEFUSE count: 7
+Rounds ended by DETONATE count: 0
+SPIKE PLANTED count: 7
+platformGameId: val:8b4593df-c2bd-4e2c-b737-ccc380aeafad
+
+--- Events ---
+Game started at 2023-05-24T01:04:40Z
+ardiis killed Ethan  in round 1
+C0M killed Victor  in round 1
+Boostio killed ardiis  in round 1
+FNS killed C0M  in round 1
+Demon1 killed FNS  in round 1
+s0m killed Boostio  in round 1
+Demon1 killed crashies  in round 1
+s0m killed JAWGEMO  in round 1
+s0m killed Demon1  in round 1
+Round 1 ended with elimination. The winning team is NRG.
+The current score is NRG 1 - 0 Evil Geniuses.
+ardiis killed JAWGEMO  in round 2
+C0M killed FNS  in round 2
+Boostio killed s0m  in round 2
+Ethan killed ardiis  in round 2
+crashies killed Demon1  in round 2
+crashies killed Ethan  in round 2
+Boostio killed Victor  in round 2
+crashies killed C0M  in round 2
+Boostio killed crashies  in round 2
+Round 2 ended with elimination. The winning team is Evil Geniuses.
+The current score is NRG 1 - 1 Evil Geniuses.
+C0M killed Victor  in round 3
+C0M killed FNS  in round 3
+C0M killed ardiis  in round 3
+Boostio killed crashies  in round 3
+s0m killed C0M  in round 3
+Boostio killed s0m  in round 3
+Round 3 ended with elimination. The winning team is Evil Geniuses.
+The current score is NRG 1 - 2 Evil Geniuses.
+FNS killed Boostio  in round 4
+Demon1 killed ardiis  in round 4
+Demon1 killed Victor  in round 4
+s0m killed JAWGEMO  in round 4
+s0m killed Demon1  in round 4
+Ethan killed crashies  in round 4
+C0M killed s0m  in round 4
+Ethan killed FNS  in round 4
+Round 4 ended with spike_defuse. The winning team is Evil Geniuses.
+The current score is NRG 1 - 3 Evil Geniuses.
+C0M killed FNS  in round 5
+Ethan killed crashies  in round 5
+Ethan killed ardiis  in round 5
+Ethan killed Victor  in round 5
+JAWGEMO killed s0m  in round 5
+Round 5 ended with elimination. The winning team is Evil Geniuses.
+The current score is NRG 1 - 4 Evil Geniuses.
+Ethan killed Victor  in round 6
+ardiis killed Demon1  in round 6
+Boostio killed s0m  in round 6
+ardiis killed JAWGEMO  in round 6
+crashies killed Boostio  in round 6
+ardiis killed Ethan  in round 6
+ardiis killed C0M  in round 6
+Round 6 ended with elimination. The winning team is NRG.
+The current score is NRG 2 - 4 Evil Geniuses.
+Victor killed Demon1  in round 7
+Ethan killed Victor  in round 7
+Boostio killed crashies  in round 7
+Ethan killed ardiis  in round 7
+Round 7 ended with time_expired. The winning team is Evil Geniuses.
+The current score is NRG 2 - 5 Evil Geniuses.
+Victor killed C0M  in round 8
+Demon1 killed FNS  in round 8
+Boostio killed Victor  in round 8
+Demon1 killed s0m  in round 8
+ardiis killed JAWGEMO  in round 8
+Demon1 killed ardiis  in round 8
+Demon1 killed crashies  in round 8
+Round 8 ended with elimination. The winning team is Evil Geniuses.
+The current score is NRG 2 - 6 Evil Geniuses.
+JAWGEMO killed ardiis  in round 9
+Boostio killed s0m  in round 9
+JAWGEMO killed FNS  in round 9
+Boostio killed crashies  in round 9
+Victor killed Boostio  in round 9
+JAWGEMO killed Victor  in round 9
+Round 9 ended with elimination. The winning team is Evil Geniuses.
+The current score is NRG 2 - 7 Evil Geniuses.
+ardiis killed C0M  in round 10
+JAWGEMO killed Victor  in round 10
+ardiis killed Demon1  in round 10
+Boostio killed ardiis  in round 10
+FNS killed JAWGEMO  in round 10
+JAWGEMO killed FNS  in round 10
+s0m killed Boostio  in round 10
+crashies killed Ethan  in round 10
+Round 10 ended with elimination. The winning team is NRG.
+The current score is NRG 3 - 7 Evil Geniuses.
+ardiis killed Boostio  in round 11
+Demon1 killed Victor  in round 11
+ardiis killed Demon1  in round 11
+Ethan killed FNS  in round 11
+Ethan killed ardiis  in round 11
+crashies killed JAWGEMO  in round 11
+crashies killed C0M  in round 11
+crashies killed Ethan  in round 11
+Round 11 ended with elimination. The winning team is NRG.
+The current score is NRG 4 - 7 Evil Geniuses.
+Victor killed Ethan  in round 12
+JAWGEMO killed Victor  in round 12
+s0m killed Demon1  in round 12
+JAWGEMO killed ardiis  in round 12
+Boostio killed s0m  in round 12
+JAWGEMO killed crashies  in round 12
+JAWGEMO killed FNS  in round 12
+Round 12 ended with elimination. The winning team is Evil Geniuses.
+The current score is NRG 4 - 8 Evil Geniuses.
+s0m killed C0M  in round 13
+Victor killed Demon1  in round 13
+s0m killed JAWGEMO  in round 13
+s0m killed Ethan  in round 13
+s0m killed Boostio  in round 13
+Round 13 ended with elimination. The winning team is NRG.
+The current score is NRG 5 - 8 Evil Geniuses.
+FNS killed Boostio  in round 14
+FNS killed Demon1  in round 14
+JAWGEMO killed FNS  in round 14
+crashies killed JAWGEMO  in round 14
+crashies killed C0M  in round 14
+Victor killed Ethan  in round 14
+Round 14 ended with elimination. The winning team is NRG.
+The current score is NRG 6 - 8 Evil Geniuses.
+C0M killed s0m  in round 15
+Victor killed C0M  in round 15
+FNS killed Demon1  in round 15
+FNS killed JAWGEMO  in round 15
+FNS killed Boostio  in round 15
+crashies killed Ethan  in round 15
+Round 15 ended with elimination. The winning team is NRG.
+The current score is NRG 7 - 8 Evil Geniuses.
+ardiis killed Boostio  in round 16
+FNS killed C0M  in round 16
+FNS killed JAWGEMO  in round 16
+Ethan killed FNS  in round 16
+Demon1 killed ardiis  in round 16
+s0m killed Ethan  in round 16
+Demon1 killed s0m  in round 16
+Demon1 killed Victor  in round 16
+crashies killed Demon1  in round 16
+Round 16 ended with spike_defuse. The winning team is NRG.
+The current score is NRG 8 - 8 Evil Geniuses.
+JAWGEMO killed Victor  in round 17
+crashies killed Demon1  in round 17
+crashies killed Boostio  in round 17
+C0M killed ardiis  in round 17
+C0M killed s0m  in round 17
+crashies killed JAWGEMO  in round 17
+Ethan killed crashies  in round 17
+C0M killed FNS  in round 17
+Round 17 ended with elimination. The winning team is Evil Geniuses.
+The current score is NRG 8 - 9 Evil Geniuses.
+JAWGEMO killed ardiis  in round 18
+Demon1 killed crashies  in round 18
+FNS killed JAWGEMO  in round 18
+Demon1 killed Victor  in round 18
+Demon1 killed FNS  in round 18
+Boostio killed s0m  in round 18
+Round 18 ended with elimination. The winning team is Evil Geniuses.
+The current score is NRG 8 - 10 Evil Geniuses.
+JAWGEMO killed Victor  in round 19
+Boostio killed ardiis  in round 19
+C0M killed s0m  in round 19
+FNS killed Boostio  in round 19
+JAWGEMO killed FNS  in round 19
+C0M killed crashies  in round 19
+Round 19 ended with elimination. The winning team is Evil Geniuses.
+The current score is NRG 8 - 11 Evil Geniuses.
+Ethan killed ardiis  in round 20
+Victor killed Ethan  in round 20
+JAWGEMO killed Victor  in round 20
+crashies killed C0M  in round 20
+crashies killed JAWGEMO  in round 20
+Demon1 killed crashies  in round 20
+Demon1 killed FNS  in round 20
+Demon1 killed s0m  in round 20
+Round 20 ended with elimination. The winning team is Evil Geniuses.
+The current score is NRG 8 - 12 Evil Geniuses.
+JAWGEMO killed FNS  in round 21
+crashies killed JAWGEMO  in round 21
+ardiis killed Ethan  in round 21
+s0m killed Boostio  in round 21
+ardiis killed C0M  in round 21
+Demon1 killed s0m  in round 21
+Demon1 killed ardiis  in round 21
+Victor killed Demon1  in round 21
+Round 21 ended with spike_defuse. The winning team is NRG.
+The current score is NRG 9 - 12 Evil Geniuses.
+ardiis killed C0M  in round 22
+ardiis killed Demon1  in round 22
+Ethan killed FNS  in round 22
+ardiis killed JAWGEMO  in round 22
+Victor killed Boostio  in round 22
+Ethan killed Victor  in round 22
+s0m killed Ethan  in round 22
+Round 22 ended with spike_defuse. The winning team is NRG.
+The current score is NRG 10 - 12 Evil Geniuses.
+ardiis killed Boostio  in round 23
+s0m killed JAWGEMO  in round 23
+s0m killed C0M  in round 23
+crashies killed Demon1  in round 23
+Ethan killed Victor  in round 23
+ardiis killed Ethan  in round 23
+Round 23 ended with elimination. The winning team is NRG.
+The current score is NRG 11 - 12 Evil Geniuses.
+s0m killed Demon1  in round 24
+crashies killed C0M  in round 24
+Boostio killed s0m  in round 24
+Ethan killed crashies  in round 24
+ardiis killed JAWGEMO  in round 24
+FNS killed Ethan  in round 24
+Boostio killed Victor  in round 24
+Boostio killed FNS  in round 24
+ardiis killed Boostio  in round 24
+Round 24 ended with spike_defuse. The winning team is NRG.
+The current score is NRG 12 - 12 Evil Geniuses.
+Boostio killed ardiis  in round 25
+Boostio killed crashies  in round 25
+s0m killed Boostio  in round 25
+Ethan killed Victor  in round 25
+Demon1 killed FNS  in round 25
+s0m killed Ethan  in round 25
+C0M killed s0m  in round 25
+Round 25 ended with elimination. The winning team is Evil Geniuses.
+The current score is NRG 12 - 13 Evil Geniuses.
+ardiis killed JAWGEMO  in round 26
+Ethan killed Victor  in round 26
+Demon1 killed crashies  in round 26
+ardiis killed Boostio  in round 26
+ardiis killed Ethan  in round 26
+s0m killed Demon1  in round 26
+ardiis killed C0M  in round 26
+Round 26 ended with spike_defuse. The winning team is NRG.
+The current score is NRG 13 - 13 Evil Geniuses.
+ardiis killed Ethan  in round 27
+Demon1 killed ardiis  in round 27
+Demon1 killed Victor  in round 27
+Boostio killed s0m  in round 27
+crashies killed Boostio  in round 27
+C0M killed crashies  in round 27
+FNS killed C0M  in round 27
+FNS killed JAWGEMO  in round 27
+Demon1 killed FNS  in round 27
+Round 27 ended with spike_defuse. The winning team is Evil Geniuses.
+The current score is NRG 13 - 14 Evil Geniuses.
+FNS killed JAWGEMO  in round 28
+Demon1 killed FNS  in round 28
+s0m killed Ethan  in round 28
+ardiis killed C0M  in round 28
+Demon1 killed s0m  in round 28
+Demon1 killed ardiis  in round 28
+Boostio killed Victor  in round 28
+Boostio killed crashies  in round 28
+Round 28 ended with elimination. The winning team is Evil Geniuses.
+The current score is NRG 13 - 15 Evil Geniuses.
+Game ended with winning team: Evil Geniuses at 2023-05-24T02:11:37Z
+
+--- Player Stats ---
+Demon1: Team=Evil Geniuses, Kills=28, Deaths=18, Assists=1, KDA=1.61, First Kills=0, First Deaths=2
+Ethan: Team=Evil Geniuses, Kills=20, Deaths=19, Assists=15, KDA=1.84, First Kills=2, First Deaths=3
+JAWGEMO: Team=Evil Geniuses, Kills=17, Deaths=21, Assists=9, KDA=1.24, First Kills=5, First Deaths=3
+C0M: Team=Evil Geniuses, Kills=15, Deaths=19, Assists=9, KDA=1.26, First Kills=3, First Deaths=4
+Boostio: Team=Evil Geniuses, Kills=23, Deaths=19, Assists=9, KDA=1.68, First Kills=1, First Deaths=5
+crashies: Team=NRG, Kills=21, Deaths=18, Assists=11, KDA=1.78, First Kills=0, First Deaths=0
+Victor: Team=NRG, Kills=10, Deaths=24, Assists=4, KDA=0.58, First Kills=3, First Deaths=4
+FNS: Team=NRG, Kills=16, Deaths=22, Assists=7, KDA=1.05, First Kills=3, First Deaths=2
+s0m: Team=NRG, Kills=22, Deaths=19, Assists=7, KDA=1.53, First Kills=2, First Deaths=1
+ardiis: Team=NRG, Kills=27, Deaths=20, Assists=8, KDA=1.75, First Kills=9, First Deaths=4

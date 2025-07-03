@@ -1,0 +1,302 @@
+Team 1: KRÜ Esports
+Team 2: Cloud9 Blue
+Participating Players:
+Player 1: Leaf
+Player 2: xeppaa
+Player 3: runi
+Player 4: Zellsis
+Player 5: jakee
+Player 6: DAVEEYS
+Player 7: Klaus
+Player 8: Melser
+Player 9: KeznitdeuS
+Player 10: NagZet
+Winning Team: Cloud9 Blue
+Score: KRÜ Esports 13 - 15 Cloud9 Blue
+Tournament Name: vct americas 2023
+Game Start Time: 2023-05-19T18:54:13Z
+Game End Time: 2023-05-19T20:10:11Z
+Rounds ended by ELIMINATION count: 22
+Rounds ended by DEFUSE count: 4
+Rounds ended by DETONATE count: 1
+SPIKE PLANTED count: 5
+platformGameId: val:93c38186-0e1e-4c85-bb6b-db00377fc577
+
+--- Events ---
+Game started at 2023-05-19T18:54:13Z
+runi killed KeznitdeuS  in round 1
+Zellsis killed Klaus  in round 1
+Melser killed Zellsis  in round 1
+xeppaa killed Melser  in round 1
+DAVEEYS killed xeppaa  in round 1
+jakee killed NagZet  in round 1
+DAVEEYS killed Leaf  in round 1
+DAVEEYS killed runi  in round 1
+jakee killed DAVEEYS  in round 1
+Round 1 ended with elimination. The winning team is Cloud9 Blue.
+The current score is KRÜ Esports 0 - 1 Cloud9 Blue.
+KeznitdeuS killed jakee  in round 2
+DAVEEYS killed xeppaa  in round 2
+Zellsis killed Klaus  in round 2
+DAVEEYS killed Leaf  in round 2
+Zellsis killed DAVEEYS  in round 2
+NagZet killed Zellsis  in round 2
+NagZet killed runi  in round 2
+Round 2 ended with elimination. The winning team is KRÜ Esports.
+The current score is KRÜ Esports 1 - 1 Cloud9 Blue.
+Klaus killed xeppaa  in round 3
+jakee killed Melser  in round 3
+KeznitdeuS killed jakee  in round 3
+Zellsis killed NagZet  in round 3
+DAVEEYS killed Zellsis  in round 3
+DAVEEYS killed Leaf  in round 3
+KeznitdeuS killed runi  in round 3
+Round 3 ended with elimination. The winning team is KRÜ Esports.
+The current score is KRÜ Esports 2 - 1 Cloud9 Blue.
+Leaf killed NagZet  in round 4
+Leaf killed Melser  in round 4
+DAVEEYS killed Zellsis  in round 4
+DAVEEYS killed Leaf  in round 4
+DAVEEYS killed runi  in round 4
+xeppaa killed DAVEEYS  in round 4
+xeppaa killed KeznitdeuS  in round 4
+Klaus killed xeppaa  in round 4
+Klaus killed jakee  in round 4
+Round 4 ended with elimination. The winning team is KRÜ Esports.
+The current score is KRÜ Esports 3 - 1 Cloud9 Blue.
+xeppaa killed KeznitdeuS  in round 5
+DAVEEYS killed jakee  in round 5
+xeppaa killed Melser  in round 5
+xeppaa killed Klaus  in round 5
+DAVEEYS killed Zellsis  in round 5
+xeppaa killed DAVEEYS  in round 5
+NagZet killed xeppaa  in round 5
+NagZet killed Leaf  in round 5
+Round 5 ended with time_expired. The winning team is Cloud9 Blue.
+The current score is KRÜ Esports 3 - 2 Cloud9 Blue.
+DAVEEYS killed Leaf  in round 6
+jakee killed DAVEEYS  in round 6
+KeznitdeuS killed xeppaa  in round 6
+jakee killed NagZet  in round 6
+Zellsis killed Melser  in round 6
+KeznitdeuS killed jakee  in round 6
+KeznitdeuS killed runi  in round 6
+Zellsis killed Klaus  in round 6
+KeznitdeuS killed Zellsis  in round 6
+Round 6 ended with elimination. The winning team is KRÜ Esports.
+The current score is KRÜ Esports 4 - 2 Cloud9 Blue.
+Klaus killed Leaf  in round 7
+Zellsis killed Klaus  in round 7
+jakee killed Melser  in round 7
+DAVEEYS killed xeppaa  in round 7
+DAVEEYS killed jakee  in round 7
+DAVEEYS killed Zellsis  in round 7
+runi killed NagZet  in round 7
+runi killed KeznitdeuS  in round 7
+runi killed DAVEEYS  in round 7
+Round 7 ended with spike_defuse. The winning team is Cloud9 Blue.
+The current score is KRÜ Esports 4 - 3 Cloud9 Blue.
+KeznitdeuS killed jakee  in round 8
+NagZet killed Zellsis  in round 8
+KeznitdeuS killed xeppaa  in round 8
+KeznitdeuS killed Leaf  in round 8
+Melser killed runi  in round 8
+Round 8 ended with elimination. The winning team is KRÜ Esports.
+The current score is KRÜ Esports 5 - 3 Cloud9 Blue.
+KeznitdeuS killed Leaf  in round 9
+Melser killed jakee  in round 9
+Klaus killed runi  in round 9
+xeppaa killed NagZet  in round 9
+Melser killed xeppaa  in round 9
+KeznitdeuS killed Zellsis  in round 9
+Round 9 ended with elimination. The winning team is KRÜ Esports.
+The current score is KRÜ Esports 6 - 3 Cloud9 Blue.
+Klaus killed Leaf  in round 10
+xeppaa killed Klaus  in round 10
+runi killed KeznitdeuS  in round 10
+DAVEEYS killed runi  in round 10
+xeppaa killed DAVEEYS  in round 10
+Melser killed xeppaa  in round 10
+NagZet killed Zellsis  in round 10
+NagZet killed jakee  in round 10
+Round 10 ended with elimination. The winning team is KRÜ Esports.
+The current score is KRÜ Esports 7 - 3 Cloud9 Blue.
+KeznitdeuS killed jakee  in round 11
+KeznitdeuS killed Leaf  in round 11
+Zellsis killed Klaus  in round 11
+Melser killed Zellsis  in round 11
+KeznitdeuS killed runi  in round 11
+xeppaa killed KeznitdeuS  in round 11
+Melser killed xeppaa  in round 11
+Round 11 ended with elimination. The winning team is KRÜ Esports.
+The current score is KRÜ Esports 8 - 3 Cloud9 Blue.
+NagZet killed Leaf  in round 12
+NagZet killed xeppaa  in round 12
+KeznitdeuS killed jakee  in round 12
+Melser killed runi  in round 12
+Klaus killed Zellsis  in round 12
+Round 12 ended with elimination. The winning team is KRÜ Esports.
+The current score is KRÜ Esports 9 - 3 Cloud9 Blue.
+Leaf killed KeznitdeuS  in round 13
+NagZet killed Leaf  in round 13
+runi killed NagZet  in round 13
+DAVEEYS killed xeppaa  in round 13
+jakee killed Melser  in round 13
+jakee killed DAVEEYS  in round 13
+Klaus killed jakee  in round 13
+Zellsis killed Klaus  in round 13
+Round 13 ended with elimination. The winning team is Cloud9 Blue.
+The current score is KRÜ Esports 9 - 4 Cloud9 Blue.
+DAVEEYS killed Leaf  in round 14
+NagZet killed jakee  in round 14
+Zellsis killed NagZet  in round 14
+Zellsis killed Melser  in round 14
+xeppaa killed DAVEEYS  in round 14
+xeppaa killed Klaus  in round 14
+xeppaa killed KeznitdeuS  in round 14
+Round 14 ended with elimination. The winning team is Cloud9 Blue.
+The current score is KRÜ Esports 9 - 5 Cloud9 Blue.
+jakee killed KeznitdeuS  in round 15
+Leaf killed Klaus  in round 15
+xeppaa killed Melser  in round 15
+xeppaa killed NagZet  in round 15
+DAVEEYS killed Leaf  in round 15
+DAVEEYS killed runi  in round 15
+DAVEEYS killed Zellsis  in round 15
+jakee killed DAVEEYS  in round 15
+Round 15 ended with elimination. The winning team is Cloud9 Blue.
+The current score is KRÜ Esports 9 - 6 Cloud9 Blue.
+Melser killed Zellsis  in round 16
+runi killed NagZet  in round 16
+runi killed Klaus  in round 16
+DAVEEYS killed runi  in round 16
+Melser killed jakee  in round 16
+xeppaa killed Melser  in round 16
+Leaf killed KeznitdeuS  in round 16
+DAVEEYS killed xeppaa  in round 16
+DAVEEYS killed Leaf  in round 16
+Round 16 ended with spike_defuse. The winning team is KRÜ Esports.
+The current score is KRÜ Esports 10 - 6 Cloud9 Blue.
+KeznitdeuS killed jakee  in round 17
+runi killed Melser  in round 17
+Klaus killed xeppaa  in round 17
+Klaus killed Leaf  in round 17
+KeznitdeuS killed Zellsis  in round 17
+runi killed Klaus  in round 17
+NagZet killed runi  in round 17
+Round 17 ended with spike_defuse. The winning team is KRÜ Esports.
+The current score is KRÜ Esports 11 - 6 Cloud9 Blue.
+Melser killed xeppaa  in round 18
+Klaus killed Zellsis  in round 18
+Leaf killed Klaus  in round 18
+DAVEEYS killed jakee  in round 18
+NagZet killed Leaf  in round 18
+DAVEEYS killed runi  in round 18
+Round 18 ended with spike_defuse. The winning team is KRÜ Esports.
+The current score is KRÜ Esports 12 - 6 Cloud9 Blue.
+Leaf killed DAVEEYS  in round 19
+Klaus killed runi  in round 19
+Zellsis killed NagZet  in round 19
+xeppaa killed Klaus  in round 19
+xeppaa killed Melser  in round 19
+KeznitdeuS killed xeppaa  in round 19
+Round 19 ended with detonate. The winning team is Cloud9 Blue.
+The current score is KRÜ Esports 12 - 7 Cloud9 Blue.
+Leaf killed Klaus  in round 20
+Melser killed Leaf  in round 20
+xeppaa killed Melser  in round 20
+DAVEEYS killed jakee  in round 20
+xeppaa killed DAVEEYS  in round 20
+xeppaa killed KeznitdeuS  in round 20
+NagZet killed xeppaa  in round 20
+Zellsis killed NagZet  in round 20
+Round 20 ended with elimination. The winning team is Cloud9 Blue.
+The current score is KRÜ Esports 12 - 8 Cloud9 Blue.
+NagZet killed Leaf  in round 21
+runi killed NagZet  in round 21
+KeznitdeuS killed jakee  in round 21
+xeppaa killed DAVEEYS  in round 21
+xeppaa killed Klaus  in round 21
+Melser killed xeppaa  in round 21
+KeznitdeuS killed runi  in round 21
+Zellsis killed KeznitdeuS  in round 21
+Zellsis killed Melser  in round 21
+Round 21 ended with elimination. The winning team is Cloud9 Blue.
+The current score is KRÜ Esports 12 - 9 Cloud9 Blue.
+Leaf killed DAVEEYS  in round 22
+Zellsis killed Klaus  in round 22
+KeznitdeuS killed Zellsis  in round 22
+KeznitdeuS killed xeppaa  in round 22
+KeznitdeuS killed jakee  in round 22
+runi killed KeznitdeuS  in round 22
+Leaf killed NagZet  in round 22
+runi killed Melser  in round 22
+Round 22 ended with elimination. The winning team is Cloud9 Blue.
+The current score is KRÜ Esports 12 - 10 Cloud9 Blue.
+KeznitdeuS killed Leaf  in round 23
+jakee killed KeznitdeuS  in round 23
+Klaus killed jakee  in round 23
+xeppaa killed Klaus  in round 23
+Melser killed Zellsis  in round 23
+xeppaa killed Melser  in round 23
+xeppaa killed NagZet  in round 23
+xeppaa killed DAVEEYS  in round 23
+Round 23 ended with elimination. The winning team is Cloud9 Blue.
+The current score is KRÜ Esports 12 - 11 Cloud9 Blue.
+KeznitdeuS killed Leaf  in round 24
+Klaus killed xeppaa  in round 24
+Zellsis killed KeznitdeuS  in round 24
+jakee killed NagZet  in round 24
+Zellsis killed Klaus  in round 24
+runi killed Melser  in round 24
+runi killed DAVEEYS  in round 24
+Round 24 ended with elimination. The winning team is Cloud9 Blue.
+The current score is KRÜ Esports 12 - 12 Cloud9 Blue.
+NagZet killed xeppaa  in round 25
+NagZet killed jakee  in round 25
+DAVEEYS killed Leaf  in round 25
+runi killed DAVEEYS  in round 25
+runi killed Klaus  in round 25
+Melser killed runi  in round 25
+Melser killed Zellsis  in round 25
+Round 25 ended with elimination. The winning team is KRÜ Esports.
+The current score is KRÜ Esports 13 - 12 Cloud9 Blue.
+Leaf killed Klaus  in round 26
+Leaf killed KeznitdeuS  in round 26
+jakee killed Melser  in round 26
+NagZet killed Leaf  in round 26
+jakee killed NagZet  in round 26
+DAVEEYS killed xeppaa  in round 26
+jakee killed DAVEEYS  in round 26
+Round 26 ended with elimination. The winning team is Cloud9 Blue.
+The current score is KRÜ Esports 13 - 13 Cloud9 Blue.
+Leaf killed NagZet  in round 27
+Melser killed xeppaa  in round 27
+Leaf killed Melser  in round 27
+Leaf killed Klaus  in round 27
+DAVEEYS killed Zellsis  in round 27
+runi killed KeznitdeuS  in round 27
+runi killed DAVEEYS  in round 27
+Round 27 ended with elimination. The winning team is Cloud9 Blue.
+The current score is KRÜ Esports 13 - 14 Cloud9 Blue.
+Leaf killed KeznitdeuS  in round 28
+Leaf killed NagZet  in round 28
+Melser killed Zellsis  in round 28
+Leaf killed Melser  in round 28
+jakee killed Klaus  in round 28
+Leaf killed DAVEEYS  in round 28
+Round 28 ended with elimination. The winning team is Cloud9 Blue.
+The current score is KRÜ Esports 13 - 15 Cloud9 Blue.
+Game ended with winning team: Cloud9 Blue at 2023-05-19T20:10:11Z
+
+--- Player Stats ---
+Leaf: Team=Cloud9 Blue, Kills=19, Deaths=24, Assists=10, KDA=1.21, First Kills=8, First Deaths=9
+xeppaa: Team=Cloud9 Blue, Kills=28, Deaths=24, Assists=7, KDA=1.46, First Kills=1, First Deaths=3
+runi: Team=Cloud9 Blue, Kills=19, Deaths=17, Assists=16, KDA=2.06, First Kills=1, First Deaths=0
+Zellsis: Team=Cloud9 Blue, Kills=18, Deaths=21, Assists=6, KDA=1.14, First Kills=0, First Deaths=1
+jakee: Team=Cloud9 Blue, Kills=16, Deaths=21, Assists=12, KDA=1.33, First Kills=1, First Deaths=4
+DAVEEYS: Team=KRÜ Esports, Kills=31, Deaths=20, Assists=2, KDA=1.65, First Kills=2, First Deaths=2
+Klaus: Team=KRÜ Esports, Kills=14, Deaths=23, Assists=16, KDA=1.3, First Kills=3, First Deaths=2
+Melser: Team=KRÜ Esports, Kills=18, Deaths=20, Assists=7, KDA=1.25, First Kills=2, First Deaths=0
+KeznitdeuS: Team=KRÜ Esports, Kills=26, Deaths=18, Assists=4, KDA=1.67, First Kills=7, First Deaths=5
+NagZet: Team=KRÜ Esports, Kills=18, Deaths=19, Assists=7, KDA=1.32, First Kills=3, First Deaths=2

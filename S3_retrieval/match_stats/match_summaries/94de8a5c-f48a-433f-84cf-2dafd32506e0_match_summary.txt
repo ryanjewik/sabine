@@ -1,0 +1,230 @@
+Team 1: Sentinels
+Team 2: DRX
+Participating Players:
+Player 1: MaKo
+Player 2: Foxy9
+Player 3: Flashback
+Player 4: BeYN
+Player 5: BuZz
+Player 6: TenZ
+Player 7: zekken
+Player 8: johnqt
+Player 9: Zellsis
+Player 10: Sacy
+Winning Team: Sentinels
+Score: Sentinels 13 - 8 DRX
+Tournament Name: vct champions 2024
+Game Start Time: 2024-08-14T09:16:47Z
+Game End Time: 2024-08-14T09:59:47Z
+Rounds ended by ELIMINATION count: 12
+Rounds ended by DEFUSE count: 6
+Rounds ended by DETONATE count: 3
+SPIKE PLANTED count: 9
+platformGameId: val:94de8a5c-f48a-433f-84cf-2dafd32506e0
+
+--- Events ---
+Game started at 2024-08-14T09:16:47Z
+zekken killed Foxy9  in round 1
+johnqt killed BeYN  in round 1
+BuZz killed zekken  in round 1
+Sacy killed BuZz  in round 1
+MaKo killed johnqt  in round 1
+Flashback killed Sacy  in round 1
+TenZ killed Flashback  in round 1
+MaKo killed TenZ  in round 1
+MaKo killed Zellsis  in round 1
+Round 1 ended with spike_defuse. The winning team is DRX.
+The current score is Sentinels 0 - 1 DRX.
+BuZz killed zekken  in round 2
+BeYN killed Zellsis  in round 2
+MaKo killed johnqt  in round 2
+TenZ killed MaKo  in round 2
+Foxy9 killed TenZ  in round 2
+Flashback killed Sacy  in round 2
+Round 2 ended with elimination. The winning team is DRX.
+The current score is Sentinels 0 - 2 DRX.
+TenZ killed BuZz  in round 3
+BeYN killed TenZ  in round 3
+Zellsis killed BeYN  in round 3
+Flashback killed Sacy  in round 3
+zekken killed MaKo  in round 3
+Flashback killed zekken  in round 3
+johnqt killed Foxy9  in round 3
+Zellsis killed Flashback  in round 3
+Round 3 ended with elimination. The winning team is Sentinels.
+The current score is Sentinels 1 - 2 DRX.
+BuZz killed Zellsis  in round 4
+BuZz killed TenZ  in round 4
+BuZz killed zekken  in round 4
+Sacy killed BuZz  in round 4
+MaKo killed Sacy  in round 4
+Foxy9 killed johnqt  in round 4
+Round 4 ended with elimination. The winning team is DRX.
+The current score is Sentinels 1 - 3 DRX.
+Flashback killed TenZ  in round 5
+zekken killed Flashback  in round 5
+zekken killed Foxy9  in round 5
+BeYN killed zekken  in round 5
+johnqt killed BeYN  in round 5
+Zellsis killed BuZz  in round 5
+Round 5 ended with detonate. The winning team is Sentinels.
+The current score is Sentinels 2 - 3 DRX.
+Flashback killed zekken  in round 6
+Sacy killed Foxy9  in round 6
+Flashback killed Zellsis  in round 6
+TenZ killed Flashback  in round 6
+MaKo killed Sacy  in round 6
+TenZ killed MaKo  in round 6
+BeYN killed johnqt  in round 6
+TenZ killed BeYN  in round 6
+BuZz killed TenZ  in round 6
+Round 6 ended with spike_defuse. The winning team is DRX.
+The current score is Sentinels 2 - 4 DRX.
+Flashback killed johnqt  in round 7
+BuZz killed Sacy  in round 7
+zekken killed BuZz  in round 7
+BeYN killed TenZ  in round 7
+zekken killed BeYN  in round 7
+Zellsis killed MaKo  in round 7
+Zellsis killed Flashback  in round 7
+Foxy9 killed Zellsis  in round 7
+Round 7 ended with detonate. The winning team is Sentinels.
+The current score is Sentinels 3 - 4 DRX.
+zekken killed BuZz  in round 8
+BeYN killed zekken  in round 8
+Sacy killed BeYN  in round 8
+TenZ killed Foxy9  in round 8
+Round 8 ended with detonate. The winning team is Sentinels.
+The current score is Sentinels 4 - 4 DRX.
+MaKo killed MaKo  in round 9
+zekken killed BuZz  in round 9
+Foxy9 killed TenZ  in round 9
+zekken killed MaKo  in round 9
+Flashback killed zekken  in round 9
+Flashback killed Zellsis  in round 9
+Sacy killed BeYN  in round 9
+Sacy killed Flashback  in round 9
+Foxy9 killed johnqt  in round 9
+Sacy killed Foxy9  in round 9
+Round 9 ended with elimination. The winning team is Sentinels.
+The current score is Sentinels 5 - 4 DRX.
+Sacy killed Flashback  in round 10
+MaKo killed Sacy  in round 10
+MaKo killed TenZ  in round 10
+johnqt killed MaKo  in round 10
+zekken killed Foxy9  in round 10
+Zellsis killed BuZz  in round 10
+BeYN killed zekken  in round 10
+Zellsis killed BeYN  in round 10
+Round 10 ended with elimination. The winning team is Sentinels.
+The current score is Sentinels 6 - 4 DRX.
+BuZz killed Zellsis  in round 11
+BuZz killed zekken  in round 11
+Flashback killed Sacy  in round 11
+TenZ killed BuZz  in round 11
+Flashback killed johnqt  in round 11
+TenZ killed MaKo  in round 11
+Flashback killed TenZ  in round 11
+Round 11 ended with elimination. The winning team is DRX.
+The current score is Sentinels 6 - 5 DRX.
+MaKo killed Sacy  in round 12
+zekken killed MaKo  in round 12
+BuZz killed TenZ  in round 12
+zekken killed Flashback  in round 12
+BuZz killed zekken  in round 12
+Foxy9 killed johnqt  in round 12
+BeYN killed Zellsis  in round 12
+Round 12 ended with elimination. The winning team is DRX.
+The current score is Sentinels 6 - 6 DRX.
+Sacy killed BuZz  in round 13
+MaKo killed zekken  in round 13
+TenZ killed Foxy9  in round 13
+TenZ killed BeYN  in round 13
+MaKo killed Sacy  in round 13
+Flashback killed johnqt  in round 13
+Zellsis killed Flashback  in round 13
+TenZ killed MaKo  in round 13
+Round 13 ended with spike_defuse. The winning team is Sentinels.
+The current score is Sentinels 7 - 6 DRX.
+BuZz killed TenZ  in round 14
+Zellsis killed BeYN  in round 14
+Zellsis killed MaKo  in round 14
+zekken killed BuZz  in round 14
+zekken killed Foxy9  in round 14
+johnqt killed Flashback  in round 14
+Round 14 ended with spike_defuse. The winning team is Sentinels.
+The current score is Sentinels 8 - 6 DRX.
+Flashback killed Sacy  in round 15
+BeYN killed Zellsis  in round 15
+zekken killed BeYN  in round 15
+MaKo killed johnqt  in round 15
+TenZ killed MaKo  in round 15
+Flashback killed zekken  in round 15
+Foxy9 killed TenZ  in round 15
+Round 15 ended with elimination. The winning team is DRX.
+The current score is Sentinels 8 - 7 DRX.
+Flashback killed Flashback  in round 16
+johnqt killed Foxy9  in round 16
+johnqt killed BuZz  in round 16
+TenZ killed BeYN  in round 16
+zekken killed Flashback  in round 16
+zekken killed MaKo  in round 16
+Round 16 ended with spike_defuse. The winning team is Sentinels.
+The current score is Sentinels 9 - 7 DRX.
+zekken killed BeYN  in round 17
+BuZz killed TenZ  in round 17
+zekken killed BuZz  in round 17
+zekken killed Flashback  in round 17
+MaKo killed zekken  in round 17
+johnqt killed Foxy9  in round 17
+MaKo killed johnqt  in round 17
+Zellsis killed MaKo  in round 17
+Round 17 ended with spike_defuse. The winning team is Sentinels.
+The current score is Sentinels 10 - 7 DRX.
+zekken killed MaKo  in round 18
+Foxy9 killed zekken  in round 18
+Flashback killed Sacy  in round 18
+Zellsis killed Foxy9  in round 18
+Zellsis killed BuZz  in round 18
+johnqt killed Flashback  in round 18
+Zellsis killed BeYN  in round 18
+Round 18 ended with elimination. The winning team is Sentinels.
+The current score is Sentinels 11 - 7 DRX.
+Sacy killed BuZz  in round 19
+zekken killed MaKo  in round 19
+Sacy killed BeYN  in round 19
+zekken killed Flashback  in round 19
+zekken killed Foxy9  in round 19
+Round 19 ended with elimination. The winning team is Sentinels.
+The current score is Sentinels 12 - 7 DRX.
+BuZz killed Sacy  in round 20
+BuZz killed johnqt  in round 20
+Zellsis killed BuZz  in round 20
+MaKo killed zekken  in round 20
+Zellsis killed Foxy9  in round 20
+MaKo killed Zellsis  in round 20
+TenZ killed Flashback  in round 20
+BeYN killed TenZ  in round 20
+Round 20 ended with elimination. The winning team is DRX.
+The current score is Sentinels 12 - 8 DRX.
+zekken killed BuZz  in round 21
+zekken killed Foxy9  in round 21
+Sacy killed Flashback  in round 21
+MaKo killed Sacy  in round 21
+zekken killed BeYN  in round 21
+Zellsis killed MaKo  in round 21
+Round 21 ended with elimination. The winning team is Sentinels.
+The current score is Sentinels 13 - 8 DRX.
+Game ended with winning team: Sentinels at 2024-08-14T09:59:47Z
+
+--- Player Stats ---
+MaKo: Team=DRX, Kills=18, Deaths=17, Assists=10, KDA=1.65, First Kills=2, First Deaths=2
+Foxy9: Team=DRX, Kills=8, Deaths=15, Assists=10, KDA=1.2, First Kills=0, First Deaths=1
+Flashback: Team=DRX, Kills=18, Deaths=17, Assists=3, KDA=1.24, First Kills=5, First Deaths=2
+BeYN: Team=DRX, Kills=10, Deaths=16, Assists=4, KDA=0.88, First Kills=0, First Deaths=1
+BuZz: Team=DRX, Kills=15, Deaths=17, Assists=0, KDA=0.88, First Kills=5, First Deaths=5
+TenZ: Team=Sentinels, Kills=15, Deaths=15, Assists=8, KDA=1.53, First Kills=1, First Deaths=2
+zekken: Team=Sentinels, Kills=27, Deaths=16, Assists=7, KDA=2.12, First Kills=5, First Deaths=2
+johnqt: Team=Sentinels, Kills=9, Deaths=12, Assists=8, KDA=1.42, First Kills=0, First Deaths=1
+Zellsis: Team=Sentinels, Kills=17, Deaths=10, Assists=16, KDA=3.3, First Kills=0, First Deaths=2
+Sacy: Team=Sentinels, Kills=12, Deaths=14, Assists=14, KDA=1.86, First Kills=3, First Deaths=3

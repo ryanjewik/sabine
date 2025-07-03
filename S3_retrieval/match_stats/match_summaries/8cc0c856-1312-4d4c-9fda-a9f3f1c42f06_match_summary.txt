@@ -1,0 +1,205 @@
+Team 1: Trace Esports
+Team 2: DRX
+Participating Players:
+Player 1: MaKo
+Player 2: Foxy9
+Player 3: Flashback
+Player 4: BeYN
+Player 5: BuZz
+Player 6: FengF
+Player 7: Kai 
+Player 8: heybay
+Player 9: Biank
+Player 10: LuoK1ng
+Winning Team: DRX
+Score: Trace Esports 5 - 13 DRX
+Tournament Name: vct champions 2024
+Game Start Time: 2024-08-16T08:46:33Z
+Game End Time: 2024-08-16T09:27:04Z
+Rounds ended by ELIMINATION count: 9
+Rounds ended by DEFUSE count: 6
+Rounds ended by DETONATE count: 2
+SPIKE PLANTED count: 8
+platformGameId: val:8cc0c856-1312-4d4c-9fda-a9f3f1c42f06
+
+--- Events ---
+Game started at 2024-08-16T08:46:33Z
+Flashback killed Kai   in round 1
+heybay killed BeYN  in round 1
+LuoK1ng killed Flashback  in round 1
+BuZz killed Biank  in round 1
+BuZz killed heybay  in round 1
+BuZz killed FengF  in round 1
+LuoK1ng killed Foxy9  in round 1
+LuoK1ng killed MaKo  in round 1
+Round 1 ended with spike_defuse. The winning team is DRX.
+The current score is Trace Esports 0 - 1 DRX.
+LuoK1ng killed BuZz  in round 2
+BuZz killed heybay  in round 2
+BuZz killed Biank  in round 2
+FengF killed Flashback  in round 2
+BuZz killed Kai   in round 2
+LuoK1ng killed BuZz  in round 2
+BeYN killed LuoK1ng  in round 2
+BeYN killed FengF  in round 2
+Round 2 ended with spike_defuse. The winning team is DRX.
+The current score is Trace Esports 0 - 2 DRX.
+FengF killed BuZz  in round 3
+Kai  killed Foxy9  in round 3
+Round 3 ended with spike_defuse. The winning team is DRX.
+The current score is Trace Esports 0 - 3 DRX.
+Kai  killed MaKo  in round 4
+Kai  killed Flashback  in round 4
+BeYN killed FengF  in round 4
+LuoK1ng killed BeYN  in round 4
+Flashback killed Kai   in round 4
+BuZz killed LuoK1ng  in round 4
+heybay killed Flashback  in round 4
+BeYN killed Biank  in round 4
+Foxy9 killed heybay  in round 4
+Foxy9 killed FengF  in round 4
+Round 4 ended with elimination. The winning team is DRX.
+The current score is Trace Esports 0 - 4 DRX.
+BuZz killed FengF  in round 5
+Kai  killed MaKo  in round 5
+Kai  killed BuZz  in round 5
+BeYN killed Kai   in round 5
+BeYN killed heybay  in round 5
+Flashback killed Biank  in round 5
+LuoK1ng killed Flashback  in round 5
+LuoK1ng killed BeYN  in round 5
+Round 5 ended with spike_defuse. The winning team is DRX.
+The current score is Trace Esports 0 - 5 DRX.
+Kai  killed Flashback  in round 6
+BeYN killed Kai   in round 6
+LuoK1ng killed BuZz  in round 6
+BeYN killed LuoK1ng  in round 6
+Foxy9 killed heybay  in round 6
+Biank killed Foxy9  in round 6
+MaKo killed FengF  in round 6
+MaKo killed Biank  in round 6
+Round 6 ended with spike_defuse. The winning team is DRX.
+The current score is Trace Esports 0 - 6 DRX.
+BuZz killed Biank  in round 7
+FengF killed MaKo  in round 7
+Foxy9 killed FengF  in round 7
+Kai  killed Foxy9  in round 7
+BuZz killed Kai   in round 7
+BuZz killed heybay  in round 7
+BeYN killed LuoK1ng  in round 7
+Round 7 ended with elimination. The winning team is DRX.
+The current score is Trace Esports 0 - 7 DRX.
+BuZz killed heybay  in round 8
+Kai  killed Foxy9  in round 8
+LuoK1ng killed MaKo  in round 8
+LuoK1ng killed BuZz  in round 8
+LuoK1ng killed BeYN  in round 8
+Round 8 ended with detonate. The winning team is Trace Esports.
+The current score is Trace Esports 1 - 7 DRX.
+Kai  killed BuZz  in round 9
+MaKo killed heybay  in round 9
+Biank killed Foxy9  in round 9
+BeYN killed Biank  in round 9
+MaKo killed LuoK1ng  in round 9
+FengF killed MaKo  in round 9
+BeYN killed Kai   in round 9
+Round 9 ended with time_expired. The winning team is DRX.
+The current score is Trace Esports 1 - 8 DRX.
+Kai  killed BuZz  in round 10
+Kai  killed Flashback  in round 10
+Kai  killed BeYN  in round 10
+Kai  killed MaKo  in round 10
+Foxy9 killed Kai   in round 10
+Round 10 ended with detonate. The winning team is Trace Esports.
+The current score is Trace Esports 2 - 8 DRX.
+FengF killed MaKo  in round 11
+Flashback killed LuoK1ng  in round 11
+Flashback killed heybay  in round 11
+FengF killed Flashback  in round 11
+Biank killed BuZz  in round 11
+BeYN killed Biank  in round 11
+Kai  killed BeYN  in round 11
+FengF killed Foxy9  in round 11
+Round 11 ended with elimination. The winning team is Trace Esports.
+The current score is Trace Esports 3 - 8 DRX.
+BuZz killed Biank  in round 12
+heybay killed BuZz  in round 12
+Foxy9 killed heybay  in round 12
+Foxy9 killed LuoK1ng  in round 12
+Kai  killed Flashback  in round 12
+Kai  killed Foxy9  in round 12
+BeYN killed FengF  in round 12
+Kai  killed MaKo  in round 12
+BeYN killed Kai   in round 12
+Round 12 ended with spike_defuse. The winning team is DRX.
+The current score is Trace Esports 3 - 9 DRX.
+heybay killed BuZz  in round 13
+Flashback killed Kai   in round 13
+Biank killed BeYN  in round 13
+Foxy9 killed heybay  in round 13
+MaKo killed FengF  in round 13
+Flashback killed Biank  in round 13
+LuoK1ng killed Foxy9  in round 13
+Flashback killed LuoK1ng  in round 13
+Round 13 ended with elimination. The winning team is DRX.
+The current score is Trace Esports 3 - 10 DRX.
+BuZz killed Kai   in round 14
+heybay killed BuZz  in round 14
+Foxy9 killed heybay  in round 14
+FengF killed BeYN  in round 14
+MaKo killed FengF  in round 14
+Flashback killed Biank  in round 14
+MaKo killed LuoK1ng  in round 14
+Round 14 ended with elimination. The winning team is DRX.
+The current score is Trace Esports 3 - 11 DRX.
+FengF killed MaKo  in round 15
+BeYN killed FengF  in round 15
+heybay killed BuZz  in round 15
+Foxy9 killed heybay  in round 15
+Biank killed BeYN  in round 15
+Foxy9 killed Biank  in round 15
+Foxy9 killed Kai   in round 15
+Foxy9 killed LuoK1ng  in round 15
+Round 15 ended with elimination. The winning team is DRX.
+The current score is Trace Esports 3 - 12 DRX.
+Flashback killed Flashback  in round 16
+Foxy9 killed Foxy9  in round 16
+FengF killed BuZz  in round 16
+BeYN killed FengF  in round 16
+Kai  killed Foxy9  in round 16
+Biank killed Flashback  in round 16
+MaKo killed Biank  in round 16
+BeYN killed Kai   in round 16
+heybay killed BeYN  in round 16
+heybay killed MaKo  in round 16
+Round 16 ended with elimination. The winning team is Trace Esports.
+The current score is Trace Esports 4 - 12 DRX.
+Biank killed Flashback  in round 17
+LuoK1ng killed MaKo  in round 17
+LuoK1ng killed BuZz  in round 17
+BeYN killed LuoK1ng  in round 17
+heybay killed BeYN  in round 17
+Foxy9 killed heybay  in round 17
+FengF killed Foxy9  in round 17
+Round 17 ended with elimination. The winning team is Trace Esports.
+The current score is Trace Esports 5 - 12 DRX.
+Flashback killed Kai   in round 18
+BuZz killed LuoK1ng  in round 18
+BuZz killed heybay  in round 18
+MaKo killed FengF  in round 18
+Flashback killed Biank  in round 18
+Round 18 ended with elimination. The winning team is DRX.
+The current score is Trace Esports 5 - 13 DRX.
+Game ended with winning team: DRX at 2024-08-16T09:27:04Z
+
+--- Player Stats ---
+MaKo: Team=DRX, Kills=9, Deaths=12, Assists=6, KDA=1.25, First Kills=0, First Deaths=3
+Foxy9: Team=DRX, Kills=15, Deaths=12, Assists=11, KDA=2.17, First Kills=0, First Deaths=0
+Flashback: Team=DRX, Kills=12, Deaths=12, Assists=4, KDA=1.33, First Kills=3, First Deaths=3
+BeYN: Team=DRX, Kills=18, Deaths=11, Assists=8, KDA=2.36, First Kills=0, First Deaths=0
+BuZz: Team=DRX, Kills=16, Deaths=15, Assists=3, KDA=1.27, First Kills=5, First Deaths=5
+FengF: Team=Trace Esports, Kills=11, Deaths=13, Assists=4, KDA=1.15, First Kills=3, First Deaths=1
+Kai : Team=Trace Esports, Kills=18, Deaths=14, Assists=1, KDA=1.36, First Kills=4, First Deaths=3
+heybay: Team=Trace Esports, Kills=9, Deaths=15, Assists=13, KDA=1.47, First Kills=1, First Deaths=1
+Biank: Team=Trace Esports, Kills=7, Deaths=14, Assists=3, KDA=0.71, First Kills=1, First Deaths=2
+LuoK1ng: Team=Trace Esports, Kills=15, Deaths=12, Assists=11, KDA=2.17, First Kills=1, First Deaths=0

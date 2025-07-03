@@ -1,0 +1,329 @@
+Team 1: Team Vitality
+Team 2: Team Liquid
+Participating Players:
+Player 1: Mistic
+Player 2: nAts
+Player 3: Enzo 
+Player 4: Keiko
+Player 5: Jamppi
+Player 6: Kicks
+Player 7: runneR
+Player 8: ceNder
+Player 9: Sayf
+Player 10: Trexx
+Winning Team: Team Vitality
+Score: Team Vitality 17 - 15 Team Liquid
+Tournament Name: vct emea stage 2 2024
+Game Start Time: 2024-06-20T20:09:47Z
+Game End Time: 2024-06-20T21:25:56Z
+Rounds ended by ELIMINATION count: 25
+Rounds ended by DEFUSE count: 2
+Rounds ended by DETONATE count: 5
+SPIKE PLANTED count: 7
+platformGameId: val:0f3c6359-fd70-44ae-b42a-c9c325904e75
+
+--- Events ---
+Game started at 2024-06-20T20:09:47Z
+Sayf killed Jamppi  in round 1
+Keiko killed Sayf  in round 1
+Kicks killed Keiko  in round 1
+ceNder killed Enzo   in round 1
+Kicks killed Mistic  in round 1
+nAts killed Kicks  in round 1
+runneR killed nAts  in round 1
+Round 1 ended with elimination. The winning team is Team Vitality.
+The current score is Team Vitality 1 - 0 Team Liquid.
+Keiko killed Kicks  in round 2
+Keiko killed Sayf  in round 2
+Trexx killed Mistic  in round 2
+ceNder killed Keiko  in round 2
+Jamppi killed Trexx  in round 2
+ceNder killed Jamppi  in round 2
+Enzo  killed ceNder  in round 2
+Enzo  killed runneR  in round 2
+Round 2 ended with elimination. The winning team is Team Liquid.
+The current score is Team Vitality 1 - 1 Team Liquid.
+Sayf killed Enzo   in round 3
+nAts killed Sayf  in round 3
+Jamppi killed ceNder  in round 3
+Kicks killed Jamppi  in round 3
+runneR killed Keiko  in round 3
+Trexx killed Mistic  in round 3
+nAts killed runneR  in round 3
+nAts killed Kicks  in round 3
+Round 3 ended with detonate. The winning team is Team Vitality.
+The current score is Team Vitality 2 - 1 Team Liquid.
+Kicks killed Keiko  in round 4
+nAts killed ceNder  in round 4
+Trexx killed Jamppi  in round 4
+Mistic killed Sayf  in round 4
+Kicks killed Mistic  in round 4
+runneR killed nAts  in round 4
+Round 4 ended with detonate. The winning team is Team Vitality.
+The current score is Team Vitality 3 - 1 Team Liquid.
+nAts killed Sayf  in round 5
+Kicks killed nAts  in round 5
+Enzo  killed Kicks  in round 5
+Jamppi killed Trexx  in round 5
+Jamppi killed ceNder  in round 5
+runneR killed Mistic  in round 5
+Enzo  killed runneR  in round 5
+Round 5 ended with spike_defuse. The winning team is Team Liquid.
+The current score is Team Vitality 3 - 2 Team Liquid.
+runneR killed Jamppi  in round 6
+Trexx killed Keiko  in round 6
+Enzo  killed Trexx  in round 6
+Sayf killed nAts  in round 6
+runneR killed Mistic  in round 6
+ceNder killed Enzo   in round 6
+Round 6 ended with elimination. The winning team is Team Vitality.
+The current score is Team Vitality 4 - 2 Team Liquid.
+Keiko killed Kicks  in round 7
+Sayf killed Keiko  in round 7
+Jamppi killed ceNder  in round 7
+Sayf killed Jamppi  in round 7
+nAts killed Trexx  in round 7
+Sayf killed Mistic  in round 7
+nAts killed runneR  in round 7
+Sayf killed Enzo   in round 7
+Sayf killed nAts  in round 7
+Round 7 ended with elimination. The winning team is Team Vitality.
+The current score is Team Vitality 5 - 2 Team Liquid.
+Sayf killed Jamppi  in round 8
+ceNder killed nAts  in round 8
+Mistic killed ceNder  in round 8
+Trexx killed Keiko  in round 8
+Trexx killed Mistic  in round 8
+Sayf killed Enzo   in round 8
+Round 8 ended with elimination. The winning team is Team Vitality.
+The current score is Team Vitality 6 - 2 Team Liquid.
+ceNder killed nAts  in round 9
+ceNder killed Jamppi  in round 9
+Kicks killed Keiko  in round 9
+Trexx killed Enzo   in round 9
+nAts killed Kicks  in round 9
+nAts killed runneR  in round 9
+Round 9 ended with detonate. The winning team is Team Vitality.
+The current score is Team Vitality 7 - 2 Team Liquid.
+Sayf killed nAts  in round 10
+runneR killed Keiko  in round 10
+ceNder killed Jamppi  in round 10
+Kicks killed Enzo   in round 10
+Sayf killed Mistic  in round 10
+Round 10 ended with elimination. The winning team is Team Vitality.
+The current score is Team Vitality 8 - 2 Team Liquid.
+Sayf killed Jamppi  in round 11
+Sayf killed Mistic  in round 11
+runneR killed Keiko  in round 11
+Sayf killed nAts  in round 11
+ceNder killed Enzo   in round 11
+Round 11 ended with elimination. The winning team is Team Vitality.
+The current score is Team Vitality 9 - 2 Team Liquid.
+Sayf killed Mistic  in round 12
+Sayf killed Enzo   in round 12
+Jamppi killed ceNder  in round 12
+runneR killed Jamppi  in round 12
+nAts killed Kicks  in round 12
+nAts killed Sayf  in round 12
+runneR killed nAts  in round 12
+Keiko killed Trexx  in round 12
+runneR killed Keiko  in round 12
+Round 12 ended with elimination. The winning team is Team Vitality.
+The current score is Team Vitality 10 - 2 Team Liquid.
+ceNder killed nAts  in round 13
+Enzo  killed Sayf  in round 13
+Enzo  killed runneR  in round 13
+ceNder killed Jamppi  in round 13
+Trexx killed Keiko  in round 13
+Enzo  killed Trexx  in round 13
+Mistic killed Kicks  in round 13
+Mistic killed ceNder  in round 13
+Round 13 ended with elimination. The winning team is Team Liquid.
+The current score is Team Vitality 10 - 3 Team Liquid.
+Jamppi killed Sayf  in round 14
+Jamppi killed Kicks  in round 14
+nAts killed runneR  in round 14
+Trexx killed nAts  in round 14
+Keiko killed ceNder  in round 14
+Trexx killed Jamppi  in round 14
+Enzo  killed Trexx  in round 14
+Round 14 ended with elimination. The winning team is Team Liquid.
+The current score is Team Vitality 10 - 4 Team Liquid.
+runneR killed nAts  in round 15
+Enzo  killed runneR  in round 15
+Keiko killed Sayf  in round 15
+Mistic killed ceNder  in round 15
+Keiko killed Kicks  in round 15
+Trexx killed Jamppi  in round 15
+Enzo  killed Trexx  in round 15
+Round 15 ended with elimination. The winning team is Team Liquid.
+The current score is Team Vitality 10 - 5 Team Liquid.
+Keiko killed Kicks  in round 16
+nAts killed Sayf  in round 16
+Enzo  killed ceNder  in round 16
+Keiko killed Trexx  in round 16
+Keiko killed runneR  in round 16
+Round 16 ended with elimination. The winning team is Team Liquid.
+The current score is Team Vitality 10 - 6 Team Liquid.
+nAts killed Sayf  in round 17
+Enzo  killed Kicks  in round 17
+nAts killed Trexx  in round 17
+ceNder killed nAts  in round 17
+Jamppi killed ceNder  in round 17
+Enzo  killed runneR  in round 17
+Round 17 ended with elimination. The winning team is Team Liquid.
+The current score is Team Vitality 10 - 7 Team Liquid.
+Enzo  killed Sayf  in round 18
+Keiko killed Kicks  in round 18
+nAts killed runneR  in round 18
+Trexx killed Jamppi  in round 18
+Round 18 ended with detonate. The winning team is Team Liquid.
+The current score is Team Vitality 10 - 8 Team Liquid.
+Jamppi killed Trexx  in round 19
+Mistic killed ceNder  in round 19
+nAts killed Sayf  in round 19
+nAts killed Kicks  in round 19
+Keiko killed runneR  in round 19
+Round 19 ended with elimination. The winning team is Team Liquid.
+The current score is Team Vitality 10 - 9 Team Liquid.
+runneR killed nAts  in round 20
+Keiko killed ceNder  in round 20
+Sayf killed Mistic  in round 20
+Kicks killed Jamppi  in round 20
+Keiko killed Kicks  in round 20
+Keiko killed runneR  in round 20
+Enzo  killed Sayf  in round 20
+Enzo  killed Trexx  in round 20
+Round 20 ended with elimination. The winning team is Team Liquid.
+The current score is Team Vitality 10 - 10 Team Liquid.
+Sayf killed nAts  in round 21
+ceNder killed Keiko  in round 21
+Mistic killed Kicks  in round 21
+runneR killed nAts  in round 21
+Mistic killed Sayf  in round 21
+Jamppi killed Trexx  in round 21
+Mistic killed runneR  in round 21
+ceNder killed Enzo   in round 21
+ceNder killed Mistic  in round 21
+ceNder killed Jamppi  in round 21
+Round 21 ended with spike_defuse. The winning team is Team Vitality.
+The current score is Team Vitality 11 - 10 Team Liquid.
+nAts killed Kicks  in round 22
+ceNder killed Jamppi  in round 22
+ceNder killed nAts  in round 22
+Keiko killed ceNder  in round 22
+runneR killed Keiko  in round 22
+Mistic killed Trexx  in round 22
+Sayf killed Mistic  in round 22
+Enzo  killed Sayf  in round 22
+Round 22 ended with detonate. The winning team is Team Liquid.
+The current score is Team Vitality 11 - 11 Team Liquid.
+runneR killed runneR  in round 23
+Sayf killed Mistic  in round 23
+Keiko killed Sayf  in round 23
+nAts killed runneR  in round 23
+nAts killed ceNder  in round 23
+Jamppi killed Trexx  in round 23
+nAts killed Kicks  in round 23
+Round 23 ended with elimination. The winning team is Team Liquid.
+The current score is Team Vitality 11 - 12 Team Liquid.
+Keiko killed Kicks  in round 24
+Keiko killed runneR  in round 24
+ceNder killed Mistic  in round 24
+Trexx killed Jamppi  in round 24
+Enzo  killed Trexx  in round 24
+ceNder killed Enzo   in round 24
+Sayf killed Keiko  in round 24
+nAts killed Sayf  in round 24
+ceNder killed nAts  in round 24
+Round 24 ended with elimination. The winning team is Team Vitality.
+The current score is Team Vitality 12 - 12 Team Liquid.
+Trexx killed nAts  in round 25
+Keiko killed Trexx  in round 25
+ceNder killed Mistic  in round 25
+Jamppi killed runneR  in round 25
+Keiko killed ceNder  in round 25
+Enzo  killed Kicks  in round 25
+Sayf killed Keiko  in round 25
+Jamppi killed Sayf  in round 25
+Round 25 ended with elimination. The winning team is Team Liquid.
+The current score is Team Vitality 12 - 13 Team Liquid.
+Jamppi killed Sayf  in round 26
+runneR killed Keiko  in round 26
+Kicks killed Enzo   in round 26
+ceNder killed nAts  in round 26
+ceNder killed Jamppi  in round 26
+ceNder killed Mistic  in round 26
+Round 26 ended with elimination. The winning team is Team Vitality.
+The current score is Team Vitality 13 - 13 Team Liquid.
+Keiko killed ceNder  in round 27
+runneR killed Keiko  in round 27
+Trexx killed Mistic  in round 27
+Jamppi killed Trexx  in round 27
+Kicks killed Jamppi  in round 27
+nAts killed Kicks  in round 27
+Enzo  killed runneR  in round 27
+nAts killed Sayf  in round 27
+Round 27 ended with elimination. The winning team is Team Liquid.
+The current score is Team Vitality 13 - 14 Team Liquid.
+runneR killed Jamppi  in round 28
+runneR killed Mistic  in round 28
+Trexx killed Enzo   in round 28
+Trexx killed nAts  in round 28
+Keiko killed Kicks  in round 28
+Sayf killed Keiko  in round 28
+Round 28 ended with elimination. The winning team is Team Vitality.
+The current score is Team Vitality 14 - 14 Team Liquid.
+Sayf killed nAts  in round 29
+Jamppi killed Kicks  in round 29
+ceNder killed Enzo   in round 29
+Mistic killed Sayf  in round 29
+Trexx killed Keiko  in round 29
+ceNder killed Mistic  in round 29
+Jamppi killed Trexx  in round 29
+ceNder killed Jamppi  in round 29
+Round 29 ended with elimination. The winning team is Team Vitality.
+The current score is Team Vitality 15 - 14 Team Liquid.
+ceNder killed ceNder  in round 30
+Mistic killed runneR  in round 30
+ceNder killed Mistic  in round 30
+nAts killed ceNder  in round 30
+Trexx killed nAts  in round 30
+Kicks killed Enzo   in round 30
+Keiko killed Trexx  in round 30
+Keiko killed Kicks  in round 30
+Jamppi killed Sayf  in round 30
+Round 30 ended with elimination. The winning team is Team Liquid.
+The current score is Team Vitality 15 - 15 Team Liquid.
+ceNder killed Keiko  in round 31
+Jamppi killed Sayf  in round 31
+Kicks killed nAts  in round 31
+Mistic killed Kicks  in round 31
+Mistic killed ceNder  in round 31
+runneR killed Mistic  in round 31
+Enzo  killed Trexx  in round 31
+runneR killed Enzo   in round 31
+runneR killed Jamppi  in round 31
+Round 31 ended with elimination. The winning team is Team Vitality.
+The current score is Team Vitality 16 - 15 Team Liquid.
+Kicks killed Keiko  in round 32
+Trexx killed Jamppi  in round 32
+Trexx killed nAts  in round 32
+Trexx killed Mistic  in round 32
+Enzo  killed Trexx  in round 32
+ceNder killed Enzo   in round 32
+Round 32 ended with elimination. The winning team is Team Vitality.
+The current score is Team Vitality 17 - 15 Team Liquid.
+Game ended with winning team: Team Vitality at 2024-06-20T21:25:56Z
+
+--- Player Stats ---
+Mistic: Team=Team Liquid, Kills=14, Deaths=24, Assists=8, KDA=0.92, First Kills=0, First Deaths=1
+nAts: Team=Team Liquid, Kills=27, Deaths=26, Assists=13, KDA=1.54, First Kills=3, First Deaths=8
+Enzo : Team=Team Liquid, Kills=23, Deaths=17, Assists=7, KDA=1.76, First Kills=1, First Deaths=1
+Keiko: Team=Team Liquid, Kills=26, Deaths=22, Assists=2, KDA=1.27, First Kills=5, First Deaths=3
+Jamppi: Team=Team Liquid, Kills=20, Deaths=25, Assists=6, KDA=1.04, First Kills=3, First Deaths=5
+Kicks: Team=Team Vitality, Kills=14, Deaths=25, Assists=1, KDA=0.6, First Kills=2, First Deaths=5
+runneR: Team=Team Vitality, Kills=23, Deaths=20, Assists=7, KDA=1.5, First Kills=5, First Deaths=1
+ceNder: Team=Team Vitality, Kills=32, Deaths=21, Assists=6, KDA=1.81, First Kills=4, First Deaths=2
+Sayf: Team=Team Vitality, Kills=25, Deaths=24, Assists=5, KDA=1.25, First Kills=8, First Deaths=5
+Trexx: Team=Team Vitality, Kills=22, Deaths=22, Assists=12, KDA=1.55, First Kills=1, First Deaths=1

@@ -1,0 +1,244 @@
+Team 1: Team Secret
+Team 2: Rex Regum Qeon
+Participating Players:
+Player 1: patt
+Player 2: Lmemore
+Player 3: fl1pzjder
+Player 4: EJAY
+Player 5: 2GE
+Player 6: invy
+Player 7: Jremy
+Player 8: BORKUM
+Player 9: JessieVash
+Player 10: DubsteP
+Winning Team: Rex Regum Qeon
+Score: Team Secret 10 - 13 Rex Regum Qeon
+Tournament Name: vct pacific 2023
+Game Start Time: 2023-04-15T11:39:39Z
+Game End Time: 2023-04-15T12:36:21Z
+Rounds ended by ELIMINATION count: 15
+Rounds ended by DEFUSE count: 6
+Rounds ended by DETONATE count: 1
+SPIKE PLANTED count: 7
+platformGameId: val:d41ded08-7fea-42c3-b22c-87951c905bc0
+
+--- Events ---
+Game started at 2023-04-15T11:39:39Z
+patt killed JessieVash  in round 1
+invy killed EJAY  in round 1
+DubsteP killed 2GE  in round 1
+invy killed fl1pzjder  in round 1
+invy killed Lmemore  in round 1
+patt killed invy  in round 1
+Jremy killed patt  in round 1
+Round 1 ended with elimination. The winning team is Team Secret.
+The current score is Team Secret 1 - 0 Rex Regum Qeon.
+JessieVash killed Lmemore  in round 2
+EJAY killed invy  in round 2
+patt killed BORKUM  in round 2
+EJAY killed Jremy  in round 2
+DubsteP killed EJAY  in round 2
+patt killed DubsteP  in round 2
+2GE killed JessieVash  in round 2
+Round 2 ended with elimination. The winning team is Rex Regum Qeon.
+The current score is Team Secret 1 - 1 Rex Regum Qeon.
+patt killed BORKUM  in round 3
+JessieVash killed Lmemore  in round 3
+EJAY killed JessieVash  in round 3
+fl1pzjder killed Jremy  in round 3
+invy killed patt  in round 3
+fl1pzjder killed invy  in round 3
+DubsteP killed 2GE  in round 3
+EJAY killed DubsteP  in round 3
+Round 3 ended with spike_defuse. The winning team is Rex Regum Qeon.
+The current score is Team Secret 1 - 2 Rex Regum Qeon.
+EJAY killed invy  in round 4
+EJAY killed JessieVash  in round 4
+DubsteP killed fl1pzjder  in round 4
+patt killed BORKUM  in round 4
+2GE killed DubsteP  in round 4
+EJAY killed Jremy  in round 4
+Round 4 ended with spike_defuse. The winning team is Rex Regum Qeon.
+The current score is Team Secret 1 - 3 Rex Regum Qeon.
+EJAY killed Jremy  in round 5
+EJAY killed DubsteP  in round 5
+JessieVash killed EJAY  in round 5
+2GE killed invy  in round 5
+2GE killed JessieVash  in round 5
+2GE killed BORKUM  in round 5
+Round 5 ended with elimination. The winning team is Rex Regum Qeon.
+The current score is Team Secret 1 - 4 Rex Regum Qeon.
+BORKUM killed 2GE  in round 6
+Jremy killed EJAY  in round 6
+fl1pzjder killed invy  in round 6
+DubsteP killed fl1pzjder  in round 6
+BORKUM killed Lmemore  in round 6
+Round 6 ended with detonate. The winning team is Team Secret.
+The current score is Team Secret 2 - 4 Rex Regum Qeon.
+patt killed DubsteP  in round 7
+JessieVash killed patt  in round 7
+Lmemore killed DubsteP  in round 7
+EJAY killed Jremy  in round 7
+Lmemore killed JessieVash  in round 7
+patt killed BORKUM  in round 7
+patt killed invy  in round 7
+Round 7 ended with spike_defuse. The winning team is Rex Regum Qeon.
+The current score is Team Secret 2 - 5 Rex Regum Qeon.
+patt killed Jremy  in round 8
+DubsteP killed patt  in round 8
+BORKUM killed fl1pzjder  in round 8
+Lmemore killed BORKUM  in round 8
+EJAY killed invy  in round 8
+Lmemore killed DubsteP  in round 8
+Lmemore killed JessieVash  in round 8
+Round 8 ended with spike_defuse. The winning team is Rex Regum Qeon.
+The current score is Team Secret 2 - 6 Rex Regum Qeon.
+Lmemore killed BORKUM  in round 9
+DubsteP killed fl1pzjder  in round 9
+JessieVash killed EJAY  in round 9
+patt killed JessieVash  in round 9
+invy killed Lmemore  in round 9
+Jremy killed patt  in round 9
+BORKUM killed 2GE  in round 9
+Round 9 ended with elimination. The winning team is Team Secret.
+The current score is Team Secret 3 - 6 Rex Regum Qeon.
+invy killed 2GE  in round 10
+patt killed invy  in round 10
+DubsteP killed patt  in round 10
+Lmemore killed DubsteP  in round 10
+BORKUM killed Lmemore  in round 10
+BORKUM killed fl1pzjder  in round 10
+BORKUM killed EJAY  in round 10
+Round 10 ended with elimination. The winning team is Team Secret.
+The current score is Team Secret 4 - 6 Rex Regum Qeon.
+fl1pzjder killed invy  in round 11
+DubsteP killed fl1pzjder  in round 11
+Lmemore killed Jremy  in round 11
+Lmemore killed DubsteP  in round 11
+patt killed JessieVash  in round 11
+BORKUM killed EJAY  in round 11
+Lmemore killed BORKUM  in round 11
+Round 11 ended with elimination. The winning team is Rex Regum Qeon.
+The current score is Team Secret 4 - 7 Rex Regum Qeon.
+invy killed EJAY  in round 12
+invy killed patt  in round 12
+Lmemore killed JessieVash  in round 12
+invy killed 2GE  in round 12
+invy killed fl1pzjder  in round 12
+Lmemore killed DubsteP  in round 12
+Lmemore killed invy  in round 12
+Jremy killed Lmemore  in round 12
+Round 12 ended with elimination. The winning team is Team Secret.
+The current score is Team Secret 5 - 7 Rex Regum Qeon.
+Lmemore killed JessieVash  in round 13
+Lmemore killed BORKUM  in round 13
+fl1pzjder killed invy  in round 13
+EJAY killed Jremy  in round 13
+EJAY killed DubsteP  in round 13
+Round 13 ended with elimination. The winning team is Rex Regum Qeon.
+The current score is Team Secret 5 - 8 Rex Regum Qeon.
+Lmemore killed Jremy  in round 14
+EJAY killed JessieVash  in round 14
+EJAY killed DubsteP  in round 14
+invy killed fl1pzjder  in round 14
+EJAY killed invy  in round 14
+2GE killed BORKUM  in round 14
+Round 14 ended with elimination. The winning team is Rex Regum Qeon.
+The current score is Team Secret 5 - 9 Rex Regum Qeon.
+DubsteP killed Lmemore  in round 15
+DubsteP killed patt  in round 15
+EJAY killed JessieVash  in round 15
+Jremy killed fl1pzjder  in round 15
+invy killed 2GE  in round 15
+DubsteP killed EJAY  in round 15
+Round 15 ended with elimination. The winning team is Team Secret.
+The current score is Team Secret 6 - 9 Rex Regum Qeon.
+invy killed patt  in round 16
+Lmemore killed BORKUM  in round 16
+EJAY killed invy  in round 16
+JessieVash killed EJAY  in round 16
+Lmemore killed Jremy  in round 16
+JessieVash killed Lmemore  in round 16
+fl1pzjder killed JessieVash  in round 16
+2GE killed DubsteP  in round 16
+Round 16 ended with elimination. The winning team is Rex Regum Qeon.
+The current score is Team Secret 6 - 10 Rex Regum Qeon.
+EJAY killed DubsteP  in round 17
+Jremy killed fl1pzjder  in round 17
+2GE killed Jremy  in round 17
+BORKUM killed patt  in round 17
+BORKUM killed Lmemore  in round 17
+2GE killed BORKUM  in round 17
+EJAY killed JessieVash  in round 17
+2GE killed invy  in round 17
+Round 17 ended with elimination. The winning team is Rex Regum Qeon.
+The current score is Team Secret 6 - 11 Rex Regum Qeon.
+JessieVash killed patt  in round 18
+EJAY killed Jremy  in round 18
+invy killed EJAY  in round 18
+2GE killed invy  in round 18
+JessieVash killed fl1pzjder  in round 18
+2GE killed JessieVash  in round 18
+Lmemore killed BORKUM  in round 18
+Lmemore killed DubsteP  in round 18
+Round 18 ended with elimination. The winning team is Rex Regum Qeon.
+The current score is Team Secret 6 - 12 Rex Regum Qeon.
+invy killed EJAY  in round 19
+patt killed Jremy  in round 19
+Lmemore killed invy  in round 19
+DubsteP killed Lmemore  in round 19
+fl1pzjder killed BORKUM  in round 19
+DubsteP killed 2GE  in round 19
+DubsteP killed fl1pzjder  in round 19
+patt killed DubsteP  in round 19
+Round 19 ended with time_expired. The winning team is Team Secret.
+The current score is Team Secret 7 - 12 Rex Regum Qeon.
+patt killed JessieVash  in round 20
+JessieVash killed 2GE  in round 20
+fl1pzjder killed invy  in round 20
+JessieVash killed fl1pzjder  in round 20
+BORKUM killed patt  in round 20
+JessieVash killed EJAY  in round 20
+Round 20 ended with spike_defuse. The winning team is Team Secret.
+The current score is Team Secret 8 - 12 Rex Regum Qeon.
+Lmemore killed DubsteP  in round 21
+Jremy killed fl1pzjder  in round 21
+Jremy killed EJAY  in round 21
+DubsteP killed Lmemore  in round 21
+DubsteP killed patt  in round 21
+DubsteP killed 2GE  in round 21
+Round 21 ended with elimination. The winning team is Team Secret.
+The current score is Team Secret 9 - 12 Rex Regum Qeon.
+EJAY killed DubsteP  in round 22
+Lmemore killed DubsteP  in round 22
+JessieVash killed Lmemore  in round 22
+invy killed 2GE  in round 22
+invy killed EJAY  in round 22
+patt killed invy  in round 22
+JessieVash killed fl1pzjder  in round 22
+JessieVash killed patt  in round 22
+Round 22 ended with spike_defuse. The winning team is Team Secret.
+The current score is Team Secret 10 - 12 Rex Regum Qeon.
+EJAY killed BORKUM  in round 23
+Lmemore killed JessieVash  in round 23
+DubsteP killed EJAY  in round 23
+DubsteP killed fl1pzjder  in round 23
+2GE killed Jremy  in round 23
+invy killed Lmemore  in round 23
+patt killed DubsteP  in round 23
+patt killed invy  in round 23
+Round 23 ended with elimination. The winning team is Rex Regum Qeon.
+The current score is Team Secret 10 - 13 Rex Regum Qeon.
+Game ended with winning team: Rex Regum Qeon at 2023-04-15T12:36:21Z
+
+--- Player Stats ---
+patt: Team=Rex Regum Qeon, Kills=19, Deaths=14, Assists=6, KDA=1.79, First Kills=5, First Deaths=2
+Lmemore: Team=Rex Regum Qeon, Kills=24, Deaths=14, Assists=2, KDA=1.86, First Kills=4, First Deaths=2
+fl1pzjder: Team=Rex Regum Qeon, Kills=8, Deaths=17, Assists=9, KDA=1.0, First Kills=1, First Deaths=0
+EJAY: Team=Rex Regum Qeon, Kills=23, Deaths=16, Assists=1, KDA=1.5, First Kills=5, First Deaths=2
+2GE: Team=Rex Regum Qeon, Kills=13, Deaths=11, Assists=6, KDA=1.73, First Kills=0, First Deaths=2
+invy: Team=Team Secret, Kills=18, Deaths=20, Assists=8, KDA=1.3, First Kills=4, First Deaths=2
+Jremy: Team=Team Secret, Kills=8, Deaths=14, Assists=9, KDA=1.21, First Kills=0, First Deaths=3
+BORKUM: Team=Team Secret, Kills=11, Deaths=15, Assists=6, KDA=1.13, First Kills=1, First Deaths=3
+JessieVash: Team=Team Secret, Kills=15, Deaths=18, Assists=5, KDA=1.11, First Kills=2, First Deaths=3
+DubsteP: Team=Team Secret, Kills=20, Deaths=20, Assists=13, KDA=1.65, First Kills=1, First Deaths=4

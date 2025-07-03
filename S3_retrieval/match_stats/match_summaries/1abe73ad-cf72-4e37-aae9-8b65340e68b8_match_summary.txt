@@ -1,0 +1,200 @@
+Team 1: MIBR
+Team 2: 100 Thieves
+Participating Players:
+Player 1: eeiu
+Player 2: bangNA
+Player 3: Boostio
+Player 4: Cryo
+Player 5: Asuna
+Player 6: Palla
+Player 7: Rich 
+Player 8: mazin
+Player 9: artzin
+Player 10: liazzi
+Winning Team: 100 Thieves
+Score: MIBR 5 - 13 100 Thieves
+Tournament Name: vct americas stage 2 2024
+Game Start Time: 2024-07-03T20:53:45Z
+Game End Time: 2024-07-03T21:42:24Z
+Rounds ended by ELIMINATION count: 13
+Rounds ended by DEFUSE count: 4
+Rounds ended by DETONATE count: 0
+SPIKE PLANTED count: 4
+platformGameId: val:1abe73ad-cf72-4e37-aae9-8b65340e68b8
+
+--- Events ---
+Game started at 2024-07-03T20:53:45Z
+mazin killed Boostio  in round 1
+eeiu killed artzin  in round 1
+Cryo killed liazzi  in round 1
+Palla killed Asuna  in round 1
+Rich  killed eeiu  in round 1
+Rich  killed Cryo  in round 1
+Palla killed bangNA  in round 1
+Round 1 ended with elimination. The winning team is MIBR.
+The current score is MIBR 1 - 0 100 Thieves.
+liazzi killed Asuna  in round 2
+Cryo killed liazzi  in round 2
+Palla killed Cryo  in round 2
+Boostio killed mazin  in round 2
+Boostio killed Palla  in round 2
+artzin killed Boostio  in round 2
+Rich  killed bangNA  in round 2
+eeiu killed artzin  in round 2
+Rich  killed eeiu  in round 2
+Round 2 ended with elimination. The winning team is MIBR.
+The current score is MIBR 2 - 0 100 Thieves.
+artzin killed bangNA  in round 3
+Cryo killed artzin  in round 3
+mazin killed Asuna  in round 3
+eeiu killed liazzi  in round 3
+eeiu killed mazin  in round 3
+Rich  killed eeiu  in round 3
+Palla killed Cryo  in round 3
+Boostio killed Palla  in round 3
+Boostio killed Rich   in round 3
+Round 3 ended with spike_defuse. The winning team is 100 Thieves.
+The current score is MIBR 2 - 1 100 Thieves.
+Boostio killed Palla  in round 4
+liazzi killed Boostio  in round 4
+Asuna killed liazzi  in round 4
+Cryo killed artzin  in round 4
+Round 4 ended with time_expired. The winning team is 100 Thieves.
+The current score is MIBR 2 - 2 100 Thieves.
+Boostio killed mazin  in round 5
+bangNA killed Palla  in round 5
+Asuna killed artzin  in round 5
+Cryo killed liazzi  in round 5
+Rich  killed Cryo  in round 5
+Boostio killed Rich   in round 5
+Round 5 ended with elimination. The winning team is 100 Thieves.
+The current score is MIBR 2 - 3 100 Thieves.
+bangNA killed mazin  in round 6
+artzin killed Boostio  in round 6
+bangNA killed artzin  in round 6
+Cryo killed Rich   in round 6
+Cryo killed Palla  in round 6
+bangNA killed liazzi  in round 6
+Round 6 ended with spike_defuse. The winning team is 100 Thieves.
+The current score is MIBR 2 - 4 100 Thieves.
+Asuna killed artzin  in round 7
+Rich  killed bangNA  in round 7
+Boostio killed Palla  in round 7
+Boostio killed liazzi  in round 7
+Boostio killed Rich   in round 7
+eeiu killed mazin  in round 7
+Round 7 ended with elimination. The winning team is 100 Thieves.
+The current score is MIBR 2 - 5 100 Thieves.
+Palla killed Cryo  in round 8
+Boostio killed artzin  in round 8
+Rich  killed Boostio  in round 8
+eeiu killed Rich   in round 8
+Asuna killed liazzi  in round 8
+Palla killed Asuna  in round 8
+eeiu killed Palla  in round 8
+mazin killed eeiu  in round 8
+mazin killed bangNA  in round 8
+Round 8 ended with elimination. The winning team is MIBR.
+The current score is MIBR 3 - 5 100 Thieves.
+eeiu killed mazin  in round 9
+eeiu killed artzin  in round 9
+Rich  killed Cryo  in round 9
+Asuna killed Rich   in round 9
+Asuna killed liazzi  in round 9
+Palla killed eeiu  in round 9
+Boostio killed Palla  in round 9
+Round 9 ended with elimination. The winning team is 100 Thieves.
+The current score is MIBR 3 - 6 100 Thieves.
+Rich  killed Cryo  in round 10
+bangNA killed liazzi  in round 10
+bangNA killed Palla  in round 10
+Boostio killed artzin  in round 10
+Asuna killed Rich   in round 10
+eeiu killed mazin  in round 10
+Round 10 ended with elimination. The winning team is 100 Thieves.
+The current score is MIBR 3 - 7 100 Thieves.
+bangNA killed Palla  in round 11
+artzin killed bangNA  in round 11
+Boostio killed artzin  in round 11
+Boostio killed liazzi  in round 11
+mazin killed eeiu  in round 11
+Cryo killed mazin  in round 11
+Asuna killed Rich   in round 11
+Round 11 ended with elimination. The winning team is 100 Thieves.
+The current score is MIBR 3 - 8 100 Thieves.
+Palla killed Asuna  in round 12
+eeiu killed Palla  in round 12
+eeiu killed artzin  in round 12
+Cryo killed liazzi  in round 12
+Boostio killed mazin  in round 12
+Rich  killed Cryo  in round 12
+Boostio killed Rich   in round 12
+Round 12 ended with spike_defuse. The winning team is 100 Thieves.
+The current score is MIBR 3 - 9 100 Thieves.
+bangNA killed artzin  in round 13
+Palla killed bangNA  in round 13
+Cryo killed liazzi  in round 13
+Palla killed Asuna  in round 13
+Cryo killed mazin  in round 13
+Cryo killed Palla  in round 13
+Boostio killed Rich   in round 13
+Round 13 ended with elimination. The winning team is 100 Thieves.
+The current score is MIBR 3 - 10 100 Thieves.
+Cryo killed Palla  in round 14
+Cryo killed Rich   in round 14
+liazzi killed Cryo  in round 14
+bangNA killed liazzi  in round 14
+mazin killed eeiu  in round 14
+bangNA killed artzin  in round 14
+Asuna killed mazin  in round 14
+Round 14 ended with elimination. The winning team is 100 Thieves.
+The current score is MIBR 3 - 11 100 Thieves.
+Palla killed Boostio  in round 15
+Rich  killed bangNA  in round 15
+Palla killed Cryo  in round 15
+Rich  killed Asuna  in round 15
+eeiu killed mazin  in round 15
+Rich  killed eeiu  in round 15
+Round 15 ended with elimination. The winning team is MIBR.
+The current score is MIBR 4 - 11 100 Thieves.
+Palla killed Boostio  in round 16
+bangNA killed Palla  in round 16
+bangNA killed Rich   in round 16
+Asuna killed mazin  in round 16
+Cryo killed liazzi  in round 16
+artzin killed bangNA  in round 16
+eeiu killed artzin  in round 16
+Round 16 ended with elimination. The winning team is 100 Thieves.
+The current score is MIBR 4 - 12 100 Thieves.
+Rich  killed Cryo  in round 17
+Palla killed bangNA  in round 17
+Boostio killed Palla  in round 17
+Rich  killed Boostio  in round 17
+liazzi killed Asuna  in round 17
+eeiu killed artzin  in round 17
+liazzi killed eeiu  in round 17
+Round 17 ended with spike_defuse. The winning team is MIBR.
+The current score is MIBR 5 - 12 100 Thieves.
+Rich  killed Cryo  in round 18
+liazzi killed bangNA  in round 18
+Boostio killed Rich   in round 18
+eeiu killed liazzi  in round 18
+mazin killed Boostio  in round 18
+Asuna killed Palla  in round 18
+Asuna killed artzin  in round 18
+eeiu killed mazin  in round 18
+Round 18 ended with elimination. The winning team is 100 Thieves.
+The current score is MIBR 5 - 13 100 Thieves.
+Game ended with winning team: 100 Thieves at 2024-07-03T21:42:24Z
+
+--- Player Stats ---
+eeiu: Team=100 Thieves, Kills=17, Deaths=9, Assists=3, KDA=2.22, First Kills=1, First Deaths=0
+bangNA: Team=100 Thieves, Kills=12, Deaths=11, Assists=2, KDA=1.27, First Kills=3, First Deaths=1
+Boostio: Team=100 Thieves, Kills=20, Deaths=9, Assists=2, KDA=2.44, First Kills=2, First Deaths=3
+Cryo: Team=100 Thieves, Kills=15, Deaths=12, Assists=1, KDA=1.33, First Kills=1, First Deaths=4
+Asuna: Team=100 Thieves, Kills=12, Deaths=8, Assists=9, KDA=2.62, First Kills=1, First Deaths=2
+Palla: Team=MIBR, Kills=14, Deaths=16, Assists=1, KDA=0.94, First Kills=4, First Deaths=3
+Rich : Team=MIBR, Kills=17, Deaths=13, Assists=2, KDA=1.46, First Kills=3, First Deaths=0
+mazin: Team=MIBR, Kills=7, Deaths=14, Assists=6, KDA=0.93, First Kills=1, First Deaths=3
+artzin: Team=MIBR, Kills=5, Deaths=17, Assists=2, KDA=0.41, First Kills=1, First Deaths=2
+liazzi: Team=MIBR, Kills=6, Deaths=16, Assists=5, KDA=0.69, First Kills=1, First Deaths=0

@@ -1,0 +1,178 @@
+Team 1: MIBR
+Team 2: Leviatán Esports
+Participating Players:
+Player 1: Mazino
+Player 2: Shyy
+Player 3: kiNgg
+Player 4: Nozwerr
+Player 5: Tacolilla
+Player 6: frz
+Player 7: rglmeister
+Player 8: murizzz
+Player 9: heat
+Player 10: jzz
+Winning Team: Leviatán Esports
+Score: MIBR 3 - 13 Leviatán Esports
+Tournament Name: vct americas 2023
+Game Start Time: 2023-04-22T00:07:30Z
+Game End Time: 2023-04-22T00:46:58Z
+Rounds ended by ELIMINATION count: 8
+Rounds ended by DEFUSE count: 7
+Rounds ended by DETONATE count: 1
+SPIKE PLANTED count: 8
+platformGameId: val:4f81aef8-dbdf-4bce-bd06-7ced8280214c
+
+--- Events ---
+Game started at 2023-04-22T00:07:30Z
+Mazino killed heat  in round 1
+Mazino killed murizzz  in round 1
+rglmeister killed Mazino  in round 1
+Nozwerr killed rglmeister  in round 1
+frz killed Shyy  in round 1
+Nozwerr killed frz  in round 1
+kiNgg killed jzz  in round 1
+Round 1 ended with elimination. The winning team is Leviatán Esports.
+The current score is MIBR 0 - 1 Leviatán Esports.
+frz killed kiNgg  in round 2
+Nozwerr killed heat  in round 2
+Nozwerr killed murizzz  in round 2
+rglmeister killed Nozwerr  in round 2
+Shyy killed jzz  in round 2
+Shyy killed frz  in round 2
+Mazino killed rglmeister  in round 2
+Round 2 ended with spike_defuse. The winning team is Leviatán Esports.
+The current score is MIBR 0 - 2 Leviatán Esports.
+Tacolilla killed frz  in round 3
+heat killed Shyy  in round 3
+kiNgg killed heat  in round 3
+jzz killed kiNgg  in round 3
+Tacolilla killed jzz  in round 3
+murizzz killed Tacolilla  in round 3
+Mazino killed murizzz  in round 3
+Mazino killed rglmeister  in round 3
+Round 3 ended with spike_defuse. The winning team is Leviatán Esports.
+The current score is MIBR 0 - 3 Leviatán Esports.
+murizzz killed Mazino  in round 4
+jzz killed Shyy  in round 4
+Round 4 ended with detonate. The winning team is MIBR.
+The current score is MIBR 1 - 3 Leviatán Esports.
+heat killed Tacolilla  in round 5
+kiNgg killed murizzz  in round 5
+kiNgg killed jzz  in round 5
+heat killed kiNgg  in round 5
+Nozwerr killed frz  in round 5
+Nozwerr killed rglmeister  in round 5
+Mazino killed heat  in round 5
+Round 5 ended with elimination. The winning team is Leviatán Esports.
+The current score is MIBR 1 - 4 Leviatán Esports.
+heat killed Nozwerr  in round 6
+kiNgg killed murizzz  in round 6
+Round 6 ended with spike_defuse. The winning team is Leviatán Esports.
+The current score is MIBR 1 - 5 Leviatán Esports.
+jzz killed kiNgg  in round 7
+Shyy killed rglmeister  in round 7
+Shyy killed jzz  in round 7
+Mazino killed heat  in round 7
+frz killed Mazino  in round 7
+Tacolilla killed frz  in round 7
+frz killed kiNgg  in round 7
+rglmeister killed Mazino  in round 7
+jzz killed Tacolilla  in round 7
+Shyy killed rglmeister  in round 7
+Shyy killed murizzz  in round 7
+heat killed Shyy  in round 7
+frz killed Nozwerr  in round 7
+Round 7 ended with elimination. The winning team is MIBR.
+The current score is MIBR 2 - 5 Leviatán Esports.
+Tacolilla killed murizzz  in round 8
+kiNgg killed heat  in round 8
+kiNgg killed frz  in round 8
+Nozwerr killed rglmeister  in round 8
+jzz killed Shyy  in round 8
+Mazino killed jzz  in round 8
+Round 8 ended with elimination. The winning team is Leviatán Esports.
+The current score is MIBR 2 - 6 Leviatán Esports.
+heat killed Tacolilla  in round 9
+murizzz killed jzz  in round 9
+Nozwerr killed heat  in round 9
+rglmeister killed Mazino  in round 9
+Nozwerr killed murizzz  in round 9
+rglmeister killed kiNgg  in round 9
+Nozwerr killed rglmeister  in round 9
+Nozwerr killed frz  in round 9
+Round 9 ended with elimination. The winning team is Leviatán Esports.
+The current score is MIBR 2 - 7 Leviatán Esports.
+Mazino killed rglmeister  in round 10
+murizzz killed Mazino  in round 10
+Shyy killed frz  in round 10
+Shyy killed murizzz  in round 10
+Tacolilla killed heat  in round 10
+Shyy killed jzz  in round 10
+Round 10 ended with spike_defuse. The winning team is Leviatán Esports.
+The current score is MIBR 2 - 8 Leviatán Esports.
+Tacolilla killed murizzz  in round 11
+Shyy killed heat  in round 11
+Shyy killed jzz  in round 11
+frz killed Shyy  in round 11
+Nozwerr killed rglmeister  in round 11
+kiNgg killed frz  in round 11
+Round 11 ended with spike_defuse. The winning team is Leviatán Esports.
+The current score is MIBR 2 - 9 Leviatán Esports.
+Mazino killed frz  in round 12
+kiNgg killed heat  in round 12
+Shyy killed murizzz  in round 12
+jzz killed Shyy  in round 12
+Tacolilla killed jzz  in round 12
+rglmeister killed Tacolilla  in round 12
+rglmeister killed Nozwerr  in round 12
+kiNgg killed rglmeister  in round 12
+Round 12 ended with spike_defuse. The winning team is Leviatán Esports.
+The current score is MIBR 2 - 10 Leviatán Esports.
+Tacolilla killed jzz  in round 13
+Nozwerr killed heat  in round 13
+kiNgg killed frz  in round 13
+murizzz killed Shyy  in round 13
+Tacolilla killed murizzz  in round 13
+Nozwerr killed rglmeister  in round 13
+Round 13 ended with elimination. The winning team is Leviatán Esports.
+The current score is MIBR 2 - 11 Leviatán Esports.
+Mazino killed rglmeister  in round 14
+Nozwerr killed jzz  in round 14
+Tacolilla killed heat  in round 14
+Tacolilla killed murizzz  in round 14
+frz killed Mazino  in round 14
+Tacolilla killed frz  in round 14
+Round 14 ended with elimination. The winning team is Leviatán Esports.
+The current score is MIBR 2 - 12 Leviatán Esports.
+frz killed kiNgg  in round 15
+heat killed Shyy  in round 15
+frz killed Mazino  in round 15
+Tacolilla killed murizzz  in round 15
+frz killed Nozwerr  in round 15
+Round 15 ended with spike_defuse. The winning team is MIBR.
+The current score is MIBR 3 - 12 Leviatán Esports.
+Tacolilla killed murizzz  in round 16
+rglmeister killed Mazino  in round 16
+kiNgg killed rglmeister  in round 16
+kiNgg killed frz  in round 16
+Tacolilla killed jzz  in round 16
+heat killed Shyy  in round 16
+Nozwerr killed heat  in round 16
+Round 16 ended with elimination. The winning team is Leviatán Esports.
+The current score is MIBR 3 - 13 Leviatán Esports.
+Game ended with winning team: Leviatán Esports at 2023-04-22T00:46:58Z
+kiNgg killed kiNgg  in round 17
+Tacolilla killed Tacolilla  in round 17
+Nozwerr killed Nozwerr  in round 17
+
+--- Player Stats ---
+Mazino: Team=Leviatán Esports, Kills=11, Deaths=9, Assists=7, KDA=2.0, First Kills=4, First Deaths=1
+Shyy: Team=Leviatán Esports, Kills=12, Deaths=10, Assists=2, KDA=1.4, First Kills=0, First Deaths=0
+kiNgg: Team=Leviatán Esports, Kills=14, Deaths=8, Assists=7, KDA=2.62, First Kills=1, First Deaths=4
+Nozwerr: Team=Leviatán Esports, Kills=17, Deaths=6, Assists=7, KDA=4.0, First Kills=0, First Deaths=1
+Tacolilla: Team=Leviatán Esports, Kills=16, Deaths=6, Assists=4, KDA=3.33, First Kills=5, First Deaths=2
+frz: Team=MIBR, Kills=10, Deaths=13, Assists=0, KDA=0.77, First Kills=2, First Deaths=2
+rglmeister: Team=MIBR, Kills=8, Deaths=14, Assists=4, KDA=0.86, First Kills=0, First Deaths=2
+murizzz: Team=MIBR, Kills=5, Deaths=15, Assists=4, KDA=0.6, First Kills=1, First Deaths=3
+heat: Team=MIBR, Kills=8, Deaths=13, Assists=1, KDA=0.69, First Kills=3, First Deaths=1
+jzz: Team=MIBR, Kills=6, Deaths=13, Assists=2, KDA=0.62, First Kills=1, First Deaths=1

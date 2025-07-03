@@ -1,0 +1,195 @@
+Team 1: Team Heretics
+Team 2: Gen.G Esports
+Participating Players:
+Player 1: t3xture
+Player 2: Lakia
+Player 3: Munchkin
+Player 4: Meteor 
+Player 5: Karon
+Player 6: paTiTek
+Player 7: RieNs
+Player 8: Boo
+Player 9: benjyfishy
+Player 10: Wo0t
+Winning Team: Gen.G Esports
+Score: Team Heretics 4 - 13 Gen.G Esports
+Tournament Name: vct masters shanghai 2024
+Game Start Time: 2024-06-09T11:20:15Z
+Game End Time: 2024-06-09T11:55:49Z
+Rounds ended by ELIMINATION count: 13
+Rounds ended by DEFUSE count: 3
+Rounds ended by DETONATE count: 0
+SPIKE PLANTED count: 3
+platformGameId: val:3ad7b26c-e883-4c73-99c7-03ace47ee2be
+
+--- Events ---
+Game started at 2024-06-09T11:20:15Z
+Wo0t killed Karon  in round 1
+t3xture killed paTiTek  in round 1
+RieNs killed t3xture  in round 1
+Boo killed Munchkin  in round 1
+Lakia killed Boo  in round 1
+Lakia killed Wo0t  in round 1
+RieNs killed Lakia  in round 1
+benjyfishy killed Meteor   in round 1
+Round 1 ended with elimination. The winning team is Team Heretics.
+The current score is Team Heretics 1 - 0 Gen.G Esports.
+RieNs killed Munchkin  in round 2
+paTiTek killed Lakia  in round 2
+t3xture killed paTiTek  in round 2
+Wo0t killed Meteor   in round 2
+benjyfishy killed t3xture  in round 2
+Karon killed RieNs  in round 2
+Karon killed benjyfishy  in round 2
+Wo0t killed Karon  in round 2
+Round 2 ended with elimination. The winning team is Team Heretics.
+The current score is Team Heretics 2 - 0 Gen.G Esports.
+Wo0t killed t3xture  in round 3
+Lakia killed Boo  in round 3
+Karon killed Wo0t  in round 3
+paTiTek killed Lakia  in round 3
+Munchkin killed benjyfishy  in round 3
+paTiTek killed Munchkin  in round 3
+RieNs killed Karon  in round 3
+RieNs killed Meteor   in round 3
+Round 3 ended with elimination. The winning team is Team Heretics.
+The current score is Team Heretics 3 - 0 Gen.G Esports.
+Meteor  killed Wo0t  in round 4
+Meteor  killed Boo  in round 4
+RieNs killed Meteor   in round 4
+Lakia killed RieNs  in round 4
+Munchkin killed benjyfishy  in round 4
+Round 4 ended with time_expired. The winning team is Gen.G Esports.
+The current score is Team Heretics 3 - 1 Gen.G Esports.
+t3xture killed Boo  in round 5
+benjyfishy killed Meteor   in round 5
+Munchkin killed Wo0t  in round 5
+Munchkin killed paTiTek  in round 5
+RieNs killed Munchkin  in round 5
+Karon killed benjyfishy  in round 5
+RieNs killed t3xture  in round 5
+Karon killed RieNs  in round 5
+Round 5 ended with spike_defuse. The winning team is Gen.G Esports.
+The current score is Team Heretics 3 - 2 Gen.G Esports.
+Meteor  killed benjyfishy  in round 6
+Meteor  killed paTiTek  in round 6
+Wo0t killed Munchkin  in round 6
+Meteor  killed Boo  in round 6
+t3xture killed RieNs  in round 6
+Meteor  killed Wo0t  in round 6
+Round 6 ended with elimination. The winning team is Gen.G Esports.
+The current score is Team Heretics 3 - 3 Gen.G Esports.
+t3xture killed Boo  in round 7
+t3xture killed paTiTek  in round 7
+Karon killed Wo0t  in round 7
+Munchkin killed benjyfishy  in round 7
+Munchkin killed RieNs  in round 7
+Round 7 ended with elimination. The winning team is Gen.G Esports.
+The current score is Team Heretics 3 - 4 Gen.G Esports.
+paTiTek killed Meteor   in round 8
+t3xture killed benjyfishy  in round 8
+t3xture killed RieNs  in round 8
+Munchkin killed Wo0t  in round 8
+Lakia killed paTiTek  in round 8
+Lakia killed Boo  in round 8
+Round 8 ended with elimination. The winning team is Gen.G Esports.
+The current score is Team Heretics 3 - 5 Gen.G Esports.
+t3xture killed paTiTek  in round 9
+Karon killed Boo  in round 9
+Wo0t killed Karon  in round 9
+Meteor  killed benjyfishy  in round 9
+RieNs killed Meteor   in round 9
+Wo0t killed t3xture  in round 9
+Lakia killed Wo0t  in round 9
+Munchkin killed RieNs  in round 9
+Round 9 ended with elimination. The winning team is Gen.G Esports.
+The current score is Team Heretics 3 - 6 Gen.G Esports.
+t3xture killed benjyfishy  in round 10
+t3xture killed Wo0t  in round 10
+t3xture killed paTiTek  in round 10
+t3xture killed RieNs  in round 10
+Boo killed t3xture  in round 10
+Boo killed Lakia  in round 10
+Meteor  killed Boo  in round 10
+Round 10 ended with elimination. The winning team is Gen.G Esports.
+The current score is Team Heretics 3 - 7 Gen.G Esports.
+Munchkin killed Wo0t  in round 11
+benjyfishy killed Munchkin  in round 11
+benjyfishy killed t3xture  in round 11
+t3xture killed benjyfishy  in round 11
+Karon killed Boo  in round 11
+Lakia killed paTiTek  in round 11
+Lakia killed RieNs  in round 11
+Round 11 ended with elimination. The winning team is Gen.G Esports.
+The current score is Team Heretics 3 - 8 Gen.G Esports.
+Munchkin killed benjyfishy  in round 12
+Wo0t killed t3xture  in round 12
+Meteor  killed RieNs  in round 12
+Lakia killed Wo0t  in round 12
+Lakia killed paTiTek  in round 12
+Boo killed Lakia  in round 12
+Meteor  killed Boo  in round 12
+Round 12 ended with spike_defuse. The winning team is Gen.G Esports.
+The current score is Team Heretics 3 - 9 Gen.G Esports.
+t3xture killed paTiTek  in round 13
+t3xture killed Wo0t  in round 13
+Lakia killed RieNs  in round 13
+benjyfishy killed Lakia  in round 13
+Meteor  killed Boo  in round 13
+t3xture killed benjyfishy  in round 13
+Round 13 ended with elimination. The winning team is Gen.G Esports.
+The current score is Team Heretics 3 - 10 Gen.G Esports.
+t3xture killed Wo0t  in round 14
+Meteor  killed paTiTek  in round 14
+Boo killed Meteor   in round 14
+RieNs killed t3xture  in round 14
+Lakia killed RieNs  in round 14
+Karon killed benjyfishy  in round 14
+Munchkin killed Boo  in round 14
+Round 14 ended with elimination. The winning team is Gen.G Esports.
+The current score is Team Heretics 3 - 11 Gen.G Esports.
+Meteor  killed Wo0t  in round 15
+Meteor  killed Boo  in round 15
+RieNs killed Meteor   in round 15
+benjyfishy killed Karon  in round 15
+Lakia killed benjyfishy  in round 15
+RieNs killed Lakia  in round 15
+RieNs killed t3xture  in round 15
+Munchkin killed RieNs  in round 15
+Munchkin killed paTiTek  in round 15
+Round 15 ended with elimination. The winning team is Gen.G Esports.
+The current score is Team Heretics 3 - 12 Gen.G Esports.
+benjyfishy killed t3xture  in round 16
+Wo0t killed Munchkin  in round 16
+Lakia killed RieNs  in round 16
+Karon killed paTiTek  in round 16
+Meteor  killed Wo0t  in round 16
+benjyfishy killed Meteor   in round 16
+Lakia killed benjyfishy  in round 16
+Boo killed Karon  in round 16
+Boo killed Lakia  in round 16
+Round 16 ended with spike_defuse. The winning team is Team Heretics.
+The current score is Team Heretics 4 - 12 Gen.G Esports.
+benjyfishy killed t3xture  in round 17
+benjyfishy killed Karon  in round 17
+Lakia killed benjyfishy  in round 17
+Meteor  killed paTiTek  in round 17
+Meteor  killed Wo0t  in round 17
+Munchkin killed RieNs  in round 17
+Boo killed Meteor   in round 17
+Munchkin killed Boo  in round 17
+Round 17 ended with elimination. The winning team is Gen.G Esports.
+The current score is Team Heretics 4 - 13 Gen.G Esports.
+Game ended with winning team: Gen.G Esports at 2024-06-09T11:55:49Z
+
+--- Player Stats ---
+t3xture: Team=Gen.G Esports, Kills=18, Deaths=12, Assists=5, KDA=1.92, First Kills=6, First Deaths=3
+Lakia: Team=Gen.G Esports, Kills=17, Deaths=8, Assists=10, KDA=3.38, First Kills=0, First Deaths=0
+Munchkin: Team=Gen.G Esports, Kills=15, Deaths=7, Assists=8, KDA=3.29, First Kills=2, First Deaths=1
+Meteor : Team=Gen.G Esports, Kills=17, Deaths=11, Assists=4, KDA=1.91, First Kills=3, First Deaths=1
+Karon: Team=Gen.G Esports, Kills=10, Deaths=7, Assists=11, KDA=3.0, First Kills=0, First Deaths=1
+paTiTek: Team=Team Heretics, Kills=4, Deaths=15, Assists=3, KDA=0.47, First Kills=1, First Deaths=2
+RieNs: Team=Team Heretics, Kills=13, Deaths=15, Assists=5, KDA=1.2, First Kills=1, First Deaths=0
+Boo: Team=Team Heretics, Kills=8, Deaths=15, Assists=3, KDA=0.73, First Kills=0, First Deaths=2
+benjyfishy: Team=Team Heretics, Kills=11, Deaths=16, Assists=3, KDA=0.88, First Kills=2, First Deaths=3
+Wo0t: Team=Team Heretics, Kills=9, Deaths=16, Assists=3, KDA=0.75, First Kills=2, First Deaths=4

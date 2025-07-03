@@ -1,0 +1,253 @@
+Team 1: Team Heretics
+Team 2: BBL Esports
+Participating Players:
+Player 1: Brave
+Player 2: QutionerX
+Player 3: pAura
+Player 4: Reazy
+Player 5: Elite
+Player 6: MiniBoo
+Player 7: RieNs
+Player 8: Boo
+Player 9: benjyfishy
+Player 10: paTiTek
+Winning Team: BBL Esports
+Score: Team Heretics 10 - 13 BBL Esports
+Tournament Name: vct emea stage 1 2024
+Game Start Time: 2024-04-18T15:56:14Z
+Game End Time: 2024-04-18T16:43:21Z
+Rounds ended by ELIMINATION count: 16
+Rounds ended by DEFUSE count: 5
+Rounds ended by DETONATE count: 2
+SPIKE PLANTED count: 7
+platformGameId: val:7d3e269d-2812-4bec-9ed0-12402fedf534
+
+--- Events ---
+Game started at 2024-04-18T15:56:14Z
+QutionerX killed MiniBoo  in round 1
+QutionerX killed RieNs  in round 1
+paTiTek killed QutionerX  in round 1
+Boo killed Brave  in round 1
+Boo killed Elite  in round 1
+paTiTek killed pAura  in round 1
+Reazy killed Boo  in round 1
+benjyfishy killed Reazy  in round 1
+Round 1 ended with elimination. The winning team is Team Heretics.
+The current score is Team Heretics 1 - 0 BBL Esports.
+paTiTek killed QutionerX  in round 2
+Elite killed paTiTek  in round 2
+Round 2 ended with detonate. The winning team is Team Heretics.
+The current score is Team Heretics 2 - 0 BBL Esports.
+Elite killed Elite  in round 3
+pAura killed pAura  in round 3
+Reazy killed Reazy  in round 3
+Brave killed Brave  in round 3
+paTiTek killed pAura  in round 3
+QutionerX killed MiniBoo  in round 3
+benjyfishy killed Reazy  in round 3
+Boo killed QutionerX  in round 3
+Elite killed paTiTek  in round 3
+Boo killed Elite  in round 3
+RieNs killed Brave  in round 3
+Round 3 ended with elimination. The winning team is Team Heretics.
+The current score is Team Heretics 3 - 0 BBL Esports.
+QutionerX killed paTiTek  in round 4
+QutionerX killed RieNs  in round 4
+MiniBoo killed QutionerX  in round 4
+Boo killed pAura  in round 4
+Elite killed Boo  in round 4
+benjyfishy killed Elite  in round 4
+MiniBoo killed Brave  in round 4
+MiniBoo killed Reazy  in round 4
+Round 4 ended with elimination. The winning team is Team Heretics.
+The current score is Team Heretics 4 - 0 BBL Esports.
+MiniBoo killed MiniBoo  in round 5
+benjyfishy killed benjyfishy  in round 5
+Brave killed MiniBoo  in round 5
+paTiTek killed Brave  in round 5
+paTiTek killed Reazy  in round 5
+paTiTek killed Elite  in round 5
+QutionerX killed benjyfishy  in round 5
+RieNs killed pAura  in round 5
+Boo killed QutionerX  in round 5
+Round 5 ended with elimination. The winning team is Team Heretics.
+The current score is Team Heretics 5 - 0 BBL Esports.
+QutionerX killed MiniBoo  in round 6
+RieNs killed QutionerX  in round 6
+RieNs killed pAura  in round 6
+Elite killed RieNs  in round 6
+Elite killed paTiTek  in round 6
+Elite killed benjyfishy  in round 6
+Reazy killed Boo  in round 6
+Round 6 ended with spike_defuse. The winning team is BBL Esports.
+The current score is Team Heretics 5 - 1 BBL Esports.
+QutionerX killed MiniBoo  in round 7
+RieNs killed QutionerX  in round 7
+pAura killed paTiTek  in round 7
+pAura killed RieNs  in round 7
+benjyfishy killed pAura  in round 7
+benjyfishy killed Brave  in round 7
+Boo killed Elite  in round 7
+Reazy killed Boo  in round 7
+Reazy killed benjyfishy  in round 7
+Round 7 ended with spike_defuse. The winning team is BBL Esports.
+The current score is Team Heretics 5 - 2 BBL Esports.
+RieNs killed pAura  in round 8
+Elite killed MiniBoo  in round 8
+Elite killed benjyfishy  in round 8
+Elite killed paTiTek  in round 8
+QutionerX killed Boo  in round 8
+RieNs killed Elite  in round 8
+QutionerX killed RieNs  in round 8
+Round 8 ended with elimination. The winning team is BBL Esports.
+The current score is Team Heretics 5 - 3 BBL Esports.
+pAura killed RieNs  in round 9
+QutionerX killed Boo  in round 9
+Elite killed MiniBoo  in round 9
+QutionerX killed paTiTek  in round 9
+benjyfishy killed QutionerX  in round 9
+Elite killed benjyfishy  in round 9
+Round 9 ended with elimination. The winning team is BBL Esports.
+The current score is Team Heretics 5 - 4 BBL Esports.
+pAura killed MiniBoo  in round 10
+Elite killed RieNs  in round 10
+Boo killed QutionerX  in round 10
+paTiTek killed Elite  in round 10
+pAura killed paTiTek  in round 10
+benjyfishy killed Reazy  in round 10
+Boo killed pAura  in round 10
+Boo killed Brave  in round 10
+Round 10 ended with elimination. The winning team is Team Heretics.
+The current score is Team Heretics 6 - 4 BBL Esports.
+Boo killed Boo  in round 11
+benjyfishy killed benjyfishy  in round 11
+QutionerX killed MiniBoo  in round 11
+QutionerX killed Boo  in round 11
+Reazy killed RieNs  in round 11
+Brave killed paTiTek  in round 11
+benjyfishy killed Brave  in round 11
+QutionerX killed benjyfishy  in round 11
+Round 11 ended with spike_defuse. The winning team is BBL Esports.
+The current score is Team Heretics 6 - 5 BBL Esports.
+pAura killed paTiTek  in round 12
+Brave killed MiniBoo  in round 12
+QutionerX killed Boo  in round 12
+Brave killed RieNs  in round 12
+Brave killed benjyfishy  in round 12
+Round 12 ended with elimination. The winning team is BBL Esports.
+The current score is Team Heretics 6 - 6 BBL Esports.
+Brave killed RieNs  in round 13
+MiniBoo killed QutionerX  in round 13
+benjyfishy killed Reazy  in round 13
+paTiTek killed Brave  in round 13
+pAura killed paTiTek  in round 13
+pAura killed MiniBoo  in round 13
+benjyfishy killed pAura  in round 13
+benjyfishy killed Elite  in round 13
+Round 13 ended with spike_defuse. The winning team is Team Heretics.
+The current score is Team Heretics 7 - 6 BBL Esports.
+MiniBoo killed Elite  in round 14
+MiniBoo killed QutionerX  in round 14
+pAura killed MiniBoo  in round 14
+Reazy killed Boo  in round 14
+Brave killed paTiTek  in round 14
+benjyfishy killed Brave  in round 14
+benjyfishy killed pAura  in round 14
+benjyfishy killed Reazy  in round 14
+Round 14 ended with elimination. The winning team is Team Heretics.
+The current score is Team Heretics 8 - 6 BBL Esports.
+paTiTek killed Reazy  in round 15
+MiniBoo killed QutionerX  in round 15
+Brave killed Boo  in round 15
+pAura killed MiniBoo  in round 15
+paTiTek killed Brave  in round 15
+benjyfishy killed pAura  in round 15
+paTiTek killed Elite  in round 15
+Round 15 ended with spike_defuse. The winning team is Team Heretics.
+The current score is Team Heretics 9 - 6 BBL Esports.
+Brave killed paTiTek  in round 16
+RieNs killed Brave  in round 16
+Elite killed MiniBoo  in round 16
+RieNs killed Elite  in round 16
+Boo killed QutionerX  in round 16
+benjyfishy killed Reazy  in round 16
+pAura killed benjyfishy  in round 16
+pAura killed RieNs  in round 16
+pAura killed Boo  in round 16
+Round 16 ended with elimination. The winning team is BBL Esports.
+The current score is Team Heretics 9 - 7 BBL Esports.
+pAura killed pAura  in round 17
+benjyfishy killed Elite  in round 17
+Brave killed MiniBoo  in round 17
+benjyfishy killed Brave  in round 17
+QutionerX killed RieNs  in round 17
+QutionerX killed paTiTek  in round 17
+Reazy killed benjyfishy  in round 17
+Reazy killed Boo  in round 17
+Round 17 ended with elimination. The winning team is BBL Esports.
+The current score is Team Heretics 9 - 8 BBL Esports.
+QutionerX killed paTiTek  in round 18
+MiniBoo killed QutionerX  in round 18
+Elite killed MiniBoo  in round 18
+Boo killed pAura  in round 18
+Brave killed Boo  in round 18
+Round 18 ended with detonate. The winning team is BBL Esports.
+The current score is Team Heretics 9 - 9 BBL Esports.
+QutionerX killed Boo  in round 19
+Reazy killed paTiTek  in round 19
+Elite killed MiniBoo  in round 19
+QutionerX killed RieNs  in round 19
+benjyfishy killed Brave  in round 19
+QutionerX killed benjyfishy  in round 19
+Round 19 ended with elimination. The winning team is BBL Esports.
+The current score is Team Heretics 9 - 10 BBL Esports.
+MiniBoo killed QutionerX  in round 20
+RieNs killed Elite  in round 20
+pAura killed RieNs  in round 20
+benjyfishy killed Brave  in round 20
+benjyfishy killed pAura  in round 20
+paTiTek killed Reazy  in round 20
+Round 20 ended with elimination. The winning team is Team Heretics.
+The current score is Team Heretics 10 - 10 BBL Esports.
+QutionerX killed MiniBoo  in round 21
+QutionerX killed RieNs  in round 21
+paTiTek killed Reazy  in round 21
+paTiTek killed pAura  in round 21
+QutionerX killed paTiTek  in round 21
+benjyfishy killed Brave  in round 21
+QutionerX killed benjyfishy  in round 21
+Boo killed QutionerX  in round 21
+Elite killed Boo  in round 21
+Round 21 ended with elimination. The winning team is BBL Esports.
+The current score is Team Heretics 10 - 11 BBL Esports.
+QutionerX killed Boo  in round 22
+QutionerX killed MiniBoo  in round 22
+paTiTek killed QutionerX  in round 22
+paTiTek killed Brave  in round 22
+Reazy killed paTiTek  in round 22
+RieNs killed Reazy  in round 22
+Elite killed benjyfishy  in round 22
+Elite killed RieNs  in round 22
+Round 22 ended with elimination. The winning team is BBL Esports.
+The current score is Team Heretics 10 - 12 BBL Esports.
+QutionerX killed MiniBoo  in round 23
+benjyfishy killed Brave  in round 23
+Elite killed benjyfishy  in round 23
+Elite killed Boo  in round 23
+QutionerX killed RieNs  in round 23
+QutionerX killed paTiTek  in round 23
+Round 23 ended with elimination. The winning team is BBL Esports.
+The current score is Team Heretics 10 - 13 BBL Esports.
+Game ended with winning team: BBL Esports at 2024-04-18T16:43:21Z
+
+--- Player Stats ---
+Brave: Team=BBL Esports, Kills=12, Deaths=18, Assists=11, KDA=1.28, First Kills=2, First Deaths=0
+QutionerX: Team=BBL Esports, Kills=31, Deaths=17, Assists=4, KDA=2.06, First Kills=9, First Deaths=2
+pAura: Team=BBL Esports, Kills=16, Deaths=16, Assists=16, KDA=2.0, First Kills=4, First Deaths=2
+Reazy: Team=BBL Esports, Kills=11, Deaths=13, Assists=12, KDA=1.77, First Kills=0, First Deaths=1
+Elite: Team=BBL Esports, Kills=21, Deaths=14, Assists=5, KDA=1.86, First Kills=1, First Deaths=2
+MiniBoo: Team=Team Heretics, Kills=10, Deaths=21, Assists=4, KDA=0.67, First Kills=3, First Deaths=7
+RieNs: Team=Team Heretics, Kills=11, Deaths=17, Assists=5, KDA=0.94, First Kills=1, First Deaths=2
+Boo: Team=Team Heretics, Kills=14, Deaths=18, Assists=13, KDA=1.5, First Kills=1, First Deaths=3
+benjyfishy: Team=Team Heretics, Kills=25, Deaths=15, Assists=3, KDA=1.87, First Kills=0, First Deaths=0
+paTiTek: Team=Team Heretics, Kills=17, Deaths=19, Assists=10, KDA=1.42, First Kills=2, First Deaths=4

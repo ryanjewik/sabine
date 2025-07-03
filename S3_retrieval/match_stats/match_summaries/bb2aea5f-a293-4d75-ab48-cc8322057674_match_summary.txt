@@ -1,0 +1,226 @@
+Team 1: FNATIC
+Team 2: DRX
+Participating Players:
+Player 1: ZestKR
+Player 2: BuZz
+Player 3: stax
+Player 4: MaKo
+Player 5: Rb
+Player 6: Chronicle
+Player 7: Derke
+Player 8: Boaster
+Player 9: Alfajer
+Player 10: Leo 
+Winning Team: FNATIC
+Score: FNATIC 13 - 9 DRX
+Tournament Name: vct champions 2023
+Game Start Time: 2023-08-20T23:05:06Z
+Game End Time: 2023-08-20T23:57:36Z
+Rounds ended by ELIMINATION count: 16
+Rounds ended by DEFUSE count: 3
+Rounds ended by DETONATE count: 2
+SPIKE PLANTED count: 5
+platformGameId: val:bb2aea5f-a293-4d75-ab48-cc8322057674
+
+--- Events ---
+Game started at 2023-08-20T23:05:06Z
+Boaster killed BuZz  in round 1
+Alfajer killed stax  in round 1
+MaKo killed Alfajer  in round 1
+ZestKR killed Derke  in round 1
+Chronicle killed Rb  in round 1
+ZestKR killed Leo   in round 1
+MaKo killed Chronicle  in round 1
+Boaster killed ZestKR  in round 1
+MaKo killed Boaster  in round 1
+Round 1 ended with detonate. The winning team is FNATIC.
+The current score is FNATIC 1 - 0 DRX.
+MaKo killed MaKo  in round 2
+Boaster killed MaKo  in round 2
+Boaster killed stax  in round 2
+BuZz killed Boaster  in round 2
+Alfajer killed BuZz  in round 2
+Chronicle killed Rb  in round 2
+Leo  killed ZestKR  in round 2
+Round 2 ended with elimination. The winning team is FNATIC.
+The current score is FNATIC 2 - 0 DRX.
+ZestKR killed Boaster  in round 3
+MaKo killed Leo   in round 3
+MaKo killed Alfajer  in round 3
+Rb killed Chronicle  in round 3
+Round 3 ended with time_expired. The winning team is DRX.
+The current score is FNATIC 2 - 1 DRX.
+Alfajer killed BuZz  in round 4
+ZestKR killed Derke  in round 4
+Leo  killed ZestKR  in round 4
+stax killed Alfajer  in round 4
+Rb killed Chronicle  in round 4
+Leo  killed Rb  in round 4
+MaKo killed Boaster  in round 4
+Leo  killed MaKo  in round 4
+Leo  killed stax  in round 4
+Round 4 ended with elimination. The winning team is FNATIC.
+The current score is FNATIC 3 - 1 DRX.
+stax killed Alfajer  in round 5
+ZestKR killed Derke  in round 5
+Boaster killed ZestKR  in round 5
+stax killed Boaster  in round 5
+Rb killed Chronicle  in round 5
+MaKo killed Leo   in round 5
+Round 5 ended with elimination. The winning team is DRX.
+The current score is FNATIC 3 - 2 DRX.
+Derke killed ZestKR  in round 6
+Chronicle killed stax  in round 6
+Round 6 ended with detonate. The winning team is FNATIC.
+The current score is FNATIC 4 - 2 DRX.
+BuZz killed Derke  in round 7
+Chronicle killed stax  in round 7
+MaKo killed Chronicle  in round 7
+Boaster killed MaKo  in round 7
+BuZz killed Boaster  in round 7
+ZestKR killed Alfajer  in round 7
+Leo  killed BuZz  in round 7
+ZestKR killed Leo   in round 7
+Round 7 ended with spike_defuse. The winning team is DRX.
+The current score is FNATIC 4 - 3 DRX.
+Leo  killed ZestKR  in round 8
+BuZz killed Boaster  in round 8
+Rb killed Derke  in round 8
+Rb killed Chronicle  in round 8
+MaKo killed Leo   in round 8
+MaKo killed Alfajer  in round 8
+Round 8 ended with elimination. The winning team is DRX.
+The current score is FNATIC 4 - 4 DRX.
+BuZz killed Derke  in round 9
+stax killed Chronicle  in round 9
+stax killed Leo   in round 9
+Alfajer killed stax  in round 9
+ZestKR killed Alfajer  in round 9
+Boaster killed ZestKR  in round 9
+MaKo killed Boaster  in round 9
+Round 9 ended with elimination. The winning team is DRX.
+The current score is FNATIC 4 - 5 DRX.
+BuZz killed Chronicle  in round 10
+ZestKR killed Derke  in round 10
+Boaster killed ZestKR  in round 10
+stax killed Leo   in round 10
+stax killed Boaster  in round 10
+Alfajer killed stax  in round 10
+Alfajer killed Rb  in round 10
+BuZz killed Alfajer  in round 10
+Round 10 ended with spike_defuse. The winning team is DRX.
+The current score is FNATIC 4 - 6 DRX.
+MaKo killed Derke  in round 11
+Boaster killed ZestKR  in round 11
+MaKo killed Leo   in round 11
+Chronicle killed MaKo  in round 11
+BuZz killed Boaster  in round 11
+Alfajer killed BuZz  in round 11
+Alfajer killed stax  in round 11
+Rb killed Chronicle  in round 11
+Alfajer killed Rb  in round 11
+Round 11 ended with elimination. The winning team is FNATIC.
+The current score is FNATIC 5 - 6 DRX.
+Alfajer killed ZestKR  in round 12
+Leo  killed Rb  in round 12
+Leo  killed stax  in round 12
+Alfajer killed MaKo  in round 12
+Leo  killed BuZz  in round 12
+Round 12 ended with elimination. The winning team is FNATIC.
+The current score is FNATIC 6 - 6 DRX.
+Derke killed MaKo  in round 13
+BuZz killed Derke  in round 13
+BuZz killed Boaster  in round 13
+Leo  killed ZestKR  in round 13
+Leo  killed stax  in round 13
+BuZz killed Leo   in round 13
+BuZz killed Chronicle  in round 13
+Alfajer killed BuZz  in round 13
+Rb killed Alfajer  in round 13
+Round 13 ended with elimination. The winning team is DRX.
+The current score is FNATIC 6 - 7 DRX.
+Derke killed MaKo  in round 14
+ZestKR killed Chronicle  in round 14
+BuZz killed Boaster  in round 14
+BuZz killed Derke  in round 14
+stax killed Leo   in round 14
+stax killed Alfajer  in round 14
+Round 14 ended with elimination. The winning team is DRX.
+The current score is FNATIC 6 - 8 DRX.
+Derke killed BuZz  in round 15
+Boaster killed Rb  in round 15
+Alfajer killed ZestKR  in round 15
+MaKo killed Boaster  in round 15
+Alfajer killed MaKo  in round 15
+stax killed Alfajer  in round 15
+Derke killed stax  in round 15
+Round 15 ended with elimination. The winning team is FNATIC.
+The current score is FNATIC 7 - 8 DRX.
+Derke killed Rb  in round 16
+Alfajer killed ZestKR  in round 16
+BuZz killed Boaster  in round 16
+BuZz killed Chronicle  in round 16
+Derke killed stax  in round 16
+Alfajer killed MaKo  in round 16
+Derke killed BuZz  in round 16
+Round 16 ended with spike_defuse. The winning team is FNATIC.
+The current score is FNATIC 8 - 8 DRX.
+Derke killed Rb  in round 17
+Chronicle killed stax  in round 17
+Derke killed BuZz  in round 17
+Derke killed MaKo  in round 17
+ZestKR killed Boaster  in round 17
+ZestKR killed Chronicle  in round 17
+Leo  killed ZestKR  in round 17
+Round 17 ended with elimination. The winning team is FNATIC.
+The current score is FNATIC 9 - 8 DRX.
+Boaster killed ZestKR  in round 18
+Boaster killed Rb  in round 18
+Leo  killed stax  in round 18
+Derke killed BuZz  in round 18
+Derke killed MaKo  in round 18
+Round 18 ended with elimination. The winning team is FNATIC.
+The current score is FNATIC 10 - 8 DRX.
+ZestKR killed Derke  in round 19
+Alfajer killed ZestKR  in round 19
+Rb killed Leo   in round 19
+Rb killed Chronicle  in round 19
+MaKo killed Boaster  in round 19
+MaKo killed Alfajer  in round 19
+Round 19 ended with elimination. The winning team is DRX.
+The current score is FNATIC 10 - 9 DRX.
+Derke killed BuZz  in round 20
+Boaster killed stax  in round 20
+Chronicle killed MaKo  in round 20
+Derke killed Rb  in round 20
+Alfajer killed ZestKR  in round 20
+Round 20 ended with elimination. The winning team is FNATIC.
+The current score is FNATIC 11 - 9 DRX.
+Alfajer killed MaKo  in round 21
+Leo  killed ZestKR  in round 21
+Boaster killed stax  in round 21
+BuZz killed Alfajer  in round 21
+Chronicle killed BuZz  in round 21
+Chronicle killed Rb  in round 21
+Round 21 ended with elimination. The winning team is FNATIC.
+The current score is FNATIC 12 - 9 DRX.
+Alfajer killed ZestKR  in round 22
+Boaster killed MaKo  in round 22
+Chronicle killed BuZz  in round 22
+Leo  killed Rb  in round 22
+Chronicle killed stax  in round 22
+Round 22 ended with elimination. The winning team is FNATIC.
+The current score is FNATIC 13 - 9 DRX.
+Game ended with winning team: FNATIC at 2023-08-20T23:57:36Z
+
+--- Player Stats ---
+ZestKR: Team=DRX, Kills=13, Deaths=19, Assists=4, KDA=0.89, First Kills=2, First Deaths=5
+BuZz: Team=DRX, Kills=17, Deaths=14, Assists=1, KDA=1.29, First Kills=3, First Deaths=4
+stax: Team=DRX, Kills=10, Deaths=17, Assists=1, KDA=0.65, First Kills=1, First Deaths=0
+MaKo: Team=DRX, Kills=17, Deaths=15, Assists=9, KDA=1.73, First Kills=2, First Deaths=4
+Rb: Team=DRX, Kills=9, Deaths=13, Assists=2, KDA=0.85, First Kills=0, First Deaths=2
+Chronicle: Team=FNATIC, Kills=11, Deaths=14, Assists=11, KDA=1.57, First Kills=0, First Deaths=1
+Derke: Team=FNATIC, Kills=15, Deaths=11, Assists=3, KDA=1.64, First Kills=7, First Deaths=4
+Boaster: Team=FNATIC, Kills=15, Deaths=16, Assists=8, KDA=1.44, First Kills=2, First Deaths=1
+Alfajer: Team=FNATIC, Kills=20, Deaths=13, Assists=5, KDA=1.92, First Kills=4, First Deaths=1
+Leo : Team=FNATIC, Kills=16, Deaths=11, Assists=10, KDA=2.36, First Kills=1, First Deaths=0

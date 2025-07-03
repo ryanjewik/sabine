@@ -1,0 +1,178 @@
+Team 1: Team Liquid
+Team 2: Gentle Mates
+Participating Players:
+Player 1: Wailers
+Player 2: nataNk
+Player 3: beyAz
+Player 4: logaN
+Player 5: TakaS
+Player 6: Mistic
+Player 7: nAts
+Player 8: Enzo 
+Player 9: Keiko
+Player 10: Jamppi
+Winning Team: Team Liquid
+Score: Team Liquid 13 - 3 Gentle Mates
+Tournament Name: vct emea stage 1 2024
+Game Start Time: 2024-05-03T15:53:12Z
+Game End Time: 2024-05-03T16:24:56Z
+Rounds ended by ELIMINATION count: 11
+Rounds ended by DEFUSE count: 2
+Rounds ended by DETONATE count: 2
+SPIKE PLANTED count: 4
+platformGameId: val:da2d3d43-c9ec-4cab-a532-8e5dd3987a97
+
+--- Events ---
+Game started at 2024-05-03T15:53:12Z
+beyAz killed Keiko  in round 1
+Jamppi killed beyAz  in round 1
+nAts killed TakaS  in round 1
+Jamppi killed logaN  in round 1
+nAts killed Wailers  in round 1
+nAts killed nataNk  in round 1
+Round 1 ended with elimination. The winning team is Team Liquid.
+The current score is Team Liquid 1 - 0 Gentle Mates.
+Keiko killed logaN  in round 2
+beyAz killed Keiko  in round 2
+Jamppi killed TakaS  in round 2
+nAts killed beyAz  in round 2
+nAts killed nataNk  in round 2
+nAts killed Wailers  in round 2
+Round 2 ended with elimination. The winning team is Team Liquid.
+The current score is Team Liquid 2 - 0 Gentle Mates.
+TakaS killed Jamppi  in round 3
+Enzo  killed nataNk  in round 3
+Keiko killed beyAz  in round 3
+nAts killed TakaS  in round 3
+Mistic killed logaN  in round 3
+nAts killed Wailers  in round 3
+Round 3 ended with elimination. The winning team is Team Liquid.
+The current score is Team Liquid 3 - 0 Gentle Mates.
+Round 4 ended with time_expired. The winning team is Gentle Mates.
+The current score is Team Liquid 3 - 1 Gentle Mates.
+nataNk killed Keiko  in round 5
+Jamppi killed nataNk  in round 5
+Jamppi killed Wailers  in round 5
+TakaS killed Jamppi  in round 5
+TakaS killed Enzo   in round 5
+nAts killed TakaS  in round 5
+nAts killed beyAz  in round 5
+logaN killed Mistic  in round 5
+nAts killed logaN  in round 5
+Round 5 ended with elimination. The winning team is Team Liquid.
+The current score is Team Liquid 4 - 1 Gentle Mates.
+Keiko killed Wailers  in round 6
+Keiko killed logaN  in round 6
+Keiko killed TakaS  in round 6
+beyAz killed Keiko  in round 6
+Mistic killed beyAz  in round 6
+Round 6 ended with detonate. The winning team is Team Liquid.
+The current score is Team Liquid 5 - 1 Gentle Mates.
+beyAz killed nAts  in round 7
+nataNk killed Jamppi  in round 7
+Mistic killed nataNk  in round 7
+Enzo  killed TakaS  in round 7
+Wailers killed Enzo   in round 7
+logaN killed Mistic  in round 7
+Keiko killed Wailers  in round 7
+logaN killed Jamppi  in round 7
+Keiko killed beyAz  in round 7
+Round 7 ended with detonate. The winning team is Team Liquid.
+The current score is Team Liquid 6 - 1 Gentle Mates.
+Keiko killed Keiko  in round 8
+logaN killed nAts  in round 8
+beyAz killed Enzo   in round 8
+logaN killed Keiko  in round 8
+Jamppi killed TakaS  in round 8
+Jamppi killed Wailers  in round 8
+Jamppi killed logaN  in round 8
+Jamppi killed beyAz  in round 8
+nataNk killed Mistic  in round 8
+Wailers killed Jamppi  in round 8
+Round 8 ended with spike_defuse. The winning team is Gentle Mates.
+The current score is Team Liquid 6 - 2 Gentle Mates.
+TakaS killed Jamppi  in round 9
+nAts killed TakaS  in round 9
+logaN killed nAts  in round 9
+Mistic killed nataNk  in round 9
+Enzo  killed logaN  in round 9
+beyAz killed Enzo   in round 9
+Keiko killed Wailers  in round 9
+Mistic killed beyAz  in round 9
+Round 9 ended with elimination. The winning team is Team Liquid.
+The current score is Team Liquid 7 - 2 Gentle Mates.
+logaN killed Jamppi  in round 10
+Mistic killed logaN  in round 10
+Enzo  killed TakaS  in round 10
+nAts killed beyAz  in round 10
+nataNk killed Mistic  in round 10
+Keiko killed nataNk  in round 10
+nAts killed Wailers  in round 10
+Round 10 ended with elimination. The winning team is Team Liquid.
+The current score is Team Liquid 8 - 2 Gentle Mates.
+nataNk killed Keiko  in round 11
+Wailers killed nAts  in round 11
+Jamppi killed nataNk  in round 11
+beyAz killed Mistic  in round 11
+beyAz killed Keiko  in round 11
+Jamppi killed Wailers  in round 11
+beyAz killed Enzo   in round 11
+beyAz killed Jamppi  in round 11
+Round 11 ended with spike_defuse. The winning team is Gentle Mates.
+The current score is Team Liquid 8 - 3 Gentle Mates.
+logaN killed Keiko  in round 12
+nAts killed logaN  in round 12
+Jamppi killed Wailers  in round 12
+TakaS killed nAts  in round 12
+Jamppi killed beyAz  in round 12
+Jamppi killed nataNk  in round 12
+Enzo  killed TakaS  in round 12
+Round 12 ended with elimination. The winning team is Team Liquid.
+The current score is Team Liquid 9 - 3 Gentle Mates.
+Keiko killed TakaS  in round 13
+nataNk killed Keiko  in round 13
+Jamppi killed beyAz  in round 13
+Enzo  killed nataNk  in round 13
+Mistic killed Wailers  in round 13
+nAts killed logaN  in round 13
+Round 13 ended with elimination. The winning team is Team Liquid.
+The current score is Team Liquid 10 - 3 Gentle Mates.
+logaN killed Mistic  in round 14
+TakaS killed Jamppi  in round 14
+Enzo  killed nataNk  in round 14
+Enzo  killed Wailers  in round 14
+nAts killed TakaS  in round 14
+Enzo  killed logaN  in round 14
+Keiko killed beyAz  in round 14
+Round 14 ended with elimination. The winning team is Team Liquid.
+The current score is Team Liquid 11 - 3 Gentle Mates.
+Jamppi killed nataNk  in round 15
+Jamppi killed TakaS  in round 15
+Keiko killed Wailers  in round 15
+Keiko killed beyAz  in round 15
+Keiko killed logaN  in round 15
+Round 15 ended with elimination. The winning team is Team Liquid.
+The current score is Team Liquid 12 - 3 Gentle Mates.
+nataNk killed Jamppi  in round 16
+nAts killed TakaS  in round 16
+logaN killed Keiko  in round 16
+Mistic killed logaN  in round 16
+Mistic killed nataNk  in round 16
+beyAz killed Mistic  in round 16
+nAts killed beyAz  in round 16
+nAts killed Wailers  in round 16
+Round 16 ended with elimination. The winning team is Team Liquid.
+The current score is Team Liquid 13 - 3 Gentle Mates.
+Game ended with winning team: Team Liquid at 2024-05-03T16:24:56Z
+
+--- Player Stats ---
+Wailers: Team=Gentle Mates, Kills=3, Deaths=15, Assists=1, KDA=0.27, First Kills=0, First Deaths=1
+nataNk: Team=Gentle Mates, Kills=7, Deaths=13, Assists=3, KDA=0.77, First Kills=3, First Deaths=1
+beyAz: Team=Gentle Mates, Kills=11, Deaths=14, Assists=4, KDA=1.07, First Kills=2, First Deaths=0
+logaN: Team=Gentle Mates, Kills=10, Deaths=13, Assists=4, KDA=1.08, First Kills=3, First Deaths=1
+TakaS: Team=Gentle Mates, Kills=6, Deaths=14, Assists=1, KDA=0.5, First Kills=2, First Deaths=1
+Mistic: Team=Team Liquid, Kills=9, Deaths=7, Assists=3, KDA=1.71, First Kills=0, First Deaths=1
+nAts: Team=Team Liquid, Kills=20, Deaths=5, Assists=6, KDA=5.2, First Kills=0, First Deaths=1
+Enzo : Team=Team Liquid, Kills=9, Deaths=5, Assists=6, KDA=3.0, First Kills=0, First Deaths=0
+Keiko: Team=Team Liquid, Kills=15, Deaths=11, Assists=7, KDA=2.0, First Kills=4, First Deaths=5
+Jamppi: Team=Team Liquid, Kills=17, Deaths=10, Assists=2, KDA=1.9, First Kills=1, First Deaths=4

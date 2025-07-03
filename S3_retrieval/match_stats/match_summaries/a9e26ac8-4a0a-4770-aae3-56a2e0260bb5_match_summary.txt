@@ -1,0 +1,226 @@
+Team 1: KOI
+Team 2: Karmine Corp
+Participating Players:
+Player 1: XMS
+Player 2: ScreaM
+Player 3: ZE1SH
+Player 4: Nivera
+Player 5: sh1n
+Player 6: Trexx
+Player 7: starxo
+Player 8: koldamenta
+Player 9: Sheydos
+Player 10: Wolfen
+Winning Team: KOI
+Score: KOI 13 - 8 Karmine Corp
+Tournament Name: vct emea 2023
+Game Start Time: 2023-04-27T21:28:36Z
+Game End Time: 2023-04-27T22:29:07Z
+Rounds ended by ELIMINATION count: 9
+Rounds ended by DEFUSE count: 5
+Rounds ended by DETONATE count: 5
+SPIKE PLANTED count: 10
+platformGameId: val:a9e26ac8-4a0a-4770-aae3-56a2e0260bb5
+
+--- Events ---
+Game started at 2023-04-27T21:28:36Z
+Wolfen killed sh1n  in round 1
+ScreaM killed Wolfen  in round 1
+ScreaM killed starxo  in round 1
+XMS killed Trexx  in round 1
+XMS killed koldamenta  in round 1
+Sheydos killed ScreaM  in round 1
+Nivera killed Sheydos  in round 1
+Round 1 ended with elimination. The winning team is Karmine Corp.
+The current score is KOI 0 - 1 Karmine Corp.
+ZE1SH killed koldamenta  in round 2
+Trexx killed ZE1SH  in round 2
+Nivera killed Sheydos  in round 2
+Nivera killed Wolfen  in round 2
+Nivera killed Trexx  in round 2
+Nivera killed starxo  in round 2
+Round 2 ended with elimination. The winning team is Karmine Corp.
+The current score is KOI 0 - 2 Karmine Corp.
+starxo killed ZE1SH  in round 3
+Nivera killed Wolfen  in round 3
+Round 3 ended with detonate. The winning team is KOI.
+The current score is KOI 1 - 2 Karmine Corp.
+sh1n killed sh1n  in round 4
+Nivera killed Nivera  in round 4
+XMS killed XMS  in round 4
+ScreaM killed Sheydos  in round 4
+ZE1SH killed starxo  in round 4
+Wolfen killed Nivera  in round 4
+ZE1SH killed Trexx  in round 4
+Wolfen killed ZE1SH  in round 4
+ScreaM killed Wolfen  in round 4
+XMS killed koldamenta  in round 4
+Round 4 ended with elimination. The winning team is Karmine Corp.
+The current score is KOI 1 - 3 Karmine Corp.
+Nivera killed Wolfen  in round 5
+Nivera killed starxo  in round 5
+Trexx killed Nivera  in round 5
+ZE1SH killed Sheydos  in round 5
+ZE1SH killed koldamenta  in round 5
+Round 5 ended with time_expired. The winning team is Karmine Corp.
+The current score is KOI 1 - 4 Karmine Corp.
+Wolfen killed ZE1SH  in round 6
+Trexx killed XMS  in round 6
+ScreaM killed starxo  in round 6
+Trexx killed sh1n  in round 6
+Wolfen killed ScreaM  in round 6
+Round 6 ended with detonate. The winning team is KOI.
+The current score is KOI 2 - 4 Karmine Corp.
+Nivera killed starxo  in round 7
+Nivera killed Trexx  in round 7
+sh1n killed Wolfen  in round 7
+koldamenta killed Nivera  in round 7
+Sheydos killed sh1n  in round 7
+Sheydos killed XMS  in round 7
+ScreaM killed koldamenta  in round 7
+Sheydos killed ScreaM  in round 7
+ZE1SH killed Sheydos  in round 7
+Round 7 ended with spike_defuse. The winning team is Karmine Corp.
+The current score is KOI 2 - 5 Karmine Corp.
+Sheydos killed Nivera  in round 8
+Trexx killed XMS  in round 8
+ScreaM killed Wolfen  in round 8
+ZE1SH killed koldamenta  in round 8
+Sheydos killed sh1n  in round 8
+ZE1SH killed Sheydos  in round 8
+Trexx killed ZE1SH  in round 8
+Round 8 ended with detonate. The winning team is KOI.
+The current score is KOI 3 - 5 Karmine Corp.
+ScreaM killed Trexx  in round 9
+XMS killed Wolfen  in round 9
+Sheydos killed XMS  in round 9
+ScreaM killed Sheydos  in round 9
+starxo killed ScreaM  in round 9
+starxo killed ZE1SH  in round 9
+koldamenta killed Nivera  in round 9
+sh1n killed koldamenta  in round 9
+sh1n killed starxo  in round 9
+Round 9 ended with spike_defuse. The winning team is Karmine Corp.
+The current score is KOI 3 - 6 Karmine Corp.
+ScreaM killed Wolfen  in round 10
+koldamenta killed Nivera  in round 10
+Sheydos killed ScreaM  in round 10
+ZE1SH killed koldamenta  in round 10
+starxo killed ZE1SH  in round 10
+Trexx killed sh1n  in round 10
+starxo killed XMS  in round 10
+Round 10 ended with elimination. The winning team is KOI.
+The current score is KOI 4 - 6 Karmine Corp.
+Wolfen killed ScreaM  in round 11
+Sheydos killed ZE1SH  in round 11
+Wolfen killed sh1n  in round 11
+XMS killed koldamenta  in round 11
+starxo killed XMS  in round 11
+Nivera killed starxo  in round 11
+Nivera killed Sheydos  in round 11
+Round 11 ended with detonate. The winning team is KOI.
+The current score is KOI 5 - 6 Karmine Corp.
+Nivera killed Wolfen  in round 12
+Trexx killed Nivera  in round 12
+ScreaM killed Wolfen  in round 12
+Sheydos killed XMS  in round 12
+Nivera killed starxo  in round 12
+ScreaM killed Trexx  in round 12
+Sheydos killed sh1n  in round 12
+ScreaM killed Sheydos  in round 12
+koldamenta killed ScreaM  in round 12
+koldamenta killed Nivera  in round 12
+koldamenta killed ZE1SH  in round 12
+Round 12 ended with elimination. The winning team is KOI.
+The current score is KOI 6 - 6 Karmine Corp.
+Wolfen killed ZE1SH  in round 13
+sh1n killed Trexx  in round 13
+Wolfen killed Nivera  in round 13
+sh1n killed koldamenta  in round 13
+Sheydos killed XMS  in round 13
+starxo killed sh1n  in round 13
+ScreaM killed starxo  in round 13
+Wolfen killed ScreaM  in round 13
+Round 13 ended with spike_defuse. The winning team is KOI.
+The current score is KOI 7 - 6 Karmine Corp.
+Sheydos killed ScreaM  in round 14
+Sheydos killed sh1n  in round 14
+Sheydos killed ZE1SH  in round 14
+Sheydos killed Nivera  in round 14
+starxo killed XMS  in round 14
+Round 14 ended with elimination. The winning team is KOI.
+The current score is KOI 8 - 6 Karmine Corp.
+Nivera killed Trexx  in round 15
+ZE1SH killed Wolfen  in round 15
+koldamenta killed ScreaM  in round 15
+Nivera killed Sheydos  in round 15
+starxo killed XMS  in round 15
+ZE1SH killed starxo  in round 15
+koldamenta killed sh1n  in round 15
+koldamenta killed ZE1SH  in round 15
+koldamenta killed Nivera  in round 15
+Round 15 ended with spike_defuse. The winning team is KOI.
+The current score is KOI 9 - 6 Karmine Corp.
+ScreaM killed koldamenta  in round 16
+ScreaM killed Sheydos  in round 16
+Nivera killed Wolfen  in round 16
+starxo killed Nivera  in round 16
+Round 16 ended with detonate. The winning team is Karmine Corp.
+The current score is KOI 9 - 7 Karmine Corp.
+starxo killed ScreaM  in round 17
+Trexx killed sh1n  in round 17
+Wolfen killed Nivera  in round 17
+ZE1SH killed Trexx  in round 17
+Round 17 ended with time_expired. The winning team is KOI.
+The current score is KOI 10 - 7 Karmine Corp.
+koldamenta killed Nivera  in round 18
+sh1n killed Sheydos  in round 18
+Trexx killed ScreaM  in round 18
+Trexx killed XMS  in round 18
+sh1n killed starxo  in round 18
+Trexx killed sh1n  in round 18
+Trexx killed ZE1SH  in round 18
+Round 18 ended with elimination. The winning team is KOI.
+The current score is KOI 11 - 7 Karmine Corp.
+ScreaM killed koldamenta  in round 19
+ScreaM killed Trexx  in round 19
+Sheydos killed ScreaM  in round 19
+Sheydos killed Nivera  in round 19
+sh1n killed Sheydos  in round 19
+sh1n killed starxo  in round 19
+sh1n killed Wolfen  in round 19
+Round 19 ended with elimination. The winning team is Karmine Corp.
+The current score is KOI 11 - 8 Karmine Corp.
+Nivera killed starxo  in round 20
+Wolfen killed sh1n  in round 20
+ZE1SH killed Trexx  in round 20
+Wolfen killed Nivera  in round 20
+Wolfen killed XMS  in round 20
+ScreaM killed Sheydos  in round 20
+Wolfen killed ZE1SH  in round 20
+koldamenta killed ScreaM  in round 20
+Round 20 ended with spike_defuse. The winning team is KOI.
+The current score is KOI 12 - 8 Karmine Corp.
+ZE1SH killed Wolfen  in round 21
+ZE1SH killed starxo  in round 21
+koldamenta killed ScreaM  in round 21
+Trexx killed sh1n  in round 21
+Sheydos killed XMS  in round 21
+koldamenta killed Nivera  in round 21
+ZE1SH killed koldamenta  in round 21
+Sheydos killed ZE1SH  in round 21
+Round 21 ended with elimination. The winning team is KOI.
+The current score is KOI 13 - 8 Karmine Corp.
+Game ended with winning team: KOI at 2023-04-27T22:29:07Z
+
+--- Player Stats ---
+XMS: Team=Karmine Corp, Kills=6, Deaths=14, Assists=5, KDA=0.79, First Kills=0, First Deaths=0
+ScreaM: Team=Karmine Corp, Kills=19, Deaths=15, Assists=6, KDA=1.67, First Kills=4, First Deaths=3
+ZE1SH: Team=Karmine Corp, Kills=16, Deaths=15, Assists=8, KDA=1.6, First Kills=2, First Deaths=3
+Nivera: Team=Karmine Corp, Kills=19, Deaths=18, Assists=2, KDA=1.17, First Kills=5, First Deaths=2
+sh1n: Team=Karmine Corp, Kills=11, Deaths=15, Assists=9, KDA=1.33, First Kills=1, First Deaths=2
+Trexx: Team=KOI, Kills=14, Deaths=11, Assists=10, KDA=2.18, First Kills=0, First Deaths=2
+starxo: Team=KOI, Kills=11, Deaths=15, Assists=15, KDA=1.73, First Kills=2, First Deaths=2
+koldamenta: Team=KOI, Kills=14, Deaths=13, Assists=4, KDA=1.38, First Kills=1, First Deaths=3
+Sheydos: Team=KOI, Kills=20, Deaths=14, Assists=3, KDA=1.64, First Kills=2, First Deaths=0
+Wolfen: Team=KOI, Kills=15, Deaths=15, Assists=7, KDA=1.47, First Kills=4, First Deaths=4

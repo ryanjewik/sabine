@@ -1,0 +1,173 @@
+Team 1: Team Heretics
+Team 2: NAVI
+Participating Players:
+Player 1: Zyppan
+Player 2: cNed
+Player 3: ANGE1
+Player 4: Shao
+Player 5: suygetsu
+Player 6: Boo
+Player 7: m1xwell
+Player 8: zeek
+Player 9: AvovA
+Player 10: keloqz
+Winning Team: NAVI
+Score: Team Heretics 2 - 13 NAVI
+Tournament Name: vct emea 2023
+Game Start Time: 2023-04-12T20:09:34Z
+Game End Time: 2023-04-12T20:46:07Z
+Rounds ended by ELIMINATION count: 9
+Rounds ended by DEFUSE count: 5
+Rounds ended by DETONATE count: 1
+SPIKE PLANTED count: 6
+platformGameId: val:986dd808-49dc-46bc-bde6-120078cbda01
+
+--- Events ---
+Game started at 2023-04-12T20:09:34Z
+ANGE1 killed zeek  in round 1
+ANGE1 killed Boo  in round 1
+m1xwell killed ANGE1  in round 1
+suygetsu killed AvovA  in round 1
+keloqz killed suygetsu  in round 1
+Shao killed keloqz  in round 1
+m1xwell killed Zyppan  in round 1
+cNed killed m1xwell  in round 1
+Round 1 ended with elimination. The winning team is NAVI.
+The current score is Team Heretics 0 - 1 NAVI.
+ANGE1 killed zeek  in round 2
+m1xwell killed ANGE1  in round 2
+cNed killed keloqz  in round 2
+Shao killed Boo  in round 2
+Shao killed m1xwell  in round 2
+Shao killed AvovA  in round 2
+Round 2 ended with spike_defuse. The winning team is NAVI.
+The current score is Team Heretics 0 - 2 NAVI.
+zeek killed cNed  in round 3
+ANGE1 killed zeek  in round 3
+Shao killed keloqz  in round 3
+Zyppan killed AvovA  in round 3
+m1xwell killed ANGE1  in round 3
+Zyppan killed m1xwell  in round 3
+suygetsu killed Boo  in round 3
+Round 3 ended with spike_defuse. The winning team is NAVI.
+The current score is Team Heretics 0 - 3 NAVI.
+zeek killed Zyppan  in round 4
+ANGE1 killed zeek  in round 4
+suygetsu killed keloqz  in round 4
+Shao killed Boo  in round 4
+suygetsu killed AvovA  in round 4
+Shao killed m1xwell  in round 4
+Round 4 ended with elimination. The winning team is NAVI.
+The current score is Team Heretics 0 - 4 NAVI.
+suygetsu killed keloqz  in round 5
+Shao killed m1xwell  in round 5
+Boo killed ANGE1  in round 5
+cNed killed Boo  in round 5
+Shao killed AvovA  in round 5
+cNed killed zeek  in round 5
+Round 5 ended with elimination. The winning team is NAVI.
+The current score is Team Heretics 0 - 5 NAVI.
+m1xwell killed cNed  in round 6
+suygetsu killed keloqz  in round 6
+zeek killed Zyppan  in round 6
+suygetsu killed m1xwell  in round 6
+ANGE1 killed zeek  in round 6
+AvovA killed ANGE1  in round 6
+suygetsu killed Boo  in round 6
+Shao killed AvovA  in round 6
+Round 6 ended with spike_defuse. The winning team is NAVI.
+The current score is Team Heretics 0 - 6 NAVI.
+Shao killed keloqz  in round 7
+zeek killed suygetsu  in round 7
+cNed killed AvovA  in round 7
+cNed killed m1xwell  in round 7
+ANGE1 killed Boo  in round 7
+Shao killed zeek  in round 7
+Round 7 ended with elimination. The winning team is NAVI.
+The current score is Team Heretics 0 - 7 NAVI.
+Boo killed Shao  in round 8
+ANGE1 killed m1xwell  in round 8
+ANGE1 killed Boo  in round 8
+ANGE1 killed keloqz  in round 8
+AvovA killed ANGE1  in round 8
+suygetsu killed AvovA  in round 8
+Zyppan killed zeek  in round 8
+Round 8 ended with elimination. The winning team is NAVI.
+The current score is Team Heretics 0 - 8 NAVI.
+Shao killed keloqz  in round 9
+Boo killed ANGE1  in round 9
+Boo killed Zyppan  in round 9
+Shao killed zeek  in round 9
+cNed killed AvovA  in round 9
+Boo killed Shao  in round 9
+cNed killed Boo  in round 9
+cNed killed m1xwell  in round 9
+Round 9 ended with elimination. The winning team is NAVI.
+The current score is Team Heretics 0 - 9 NAVI.
+zeek killed ANGE1  in round 10
+Zyppan killed Boo  in round 10
+m1xwell killed cNed  in round 10
+Zyppan killed m1xwell  in round 10
+suygetsu killed keloqz  in round 10
+AvovA killed Zyppan  in round 10
+zeek killed suygetsu  in round 10
+Shao killed zeek  in round 10
+AvovA killed Shao  in round 10
+Round 10 ended with elimination. The winning team is Team Heretics.
+The current score is Team Heretics 1 - 9 NAVI.
+AvovA killed cNed  in round 11
+Shao killed AvovA  in round 11
+Zyppan killed zeek  in round 11
+Shao killed keloqz  in round 11
+Shao killed Boo  in round 11
+Zyppan killed m1xwell  in round 11
+Round 11 ended with spike_defuse. The winning team is NAVI.
+The current score is Team Heretics 1 - 10 NAVI.
+zeek killed cNed  in round 12
+Boo killed ANGE1  in round 12
+Shao killed keloqz  in round 12
+Shao killed m1xwell  in round 12
+Shao killed AvovA  in round 12
+Zyppan killed zeek  in round 12
+Shao killed Boo  in round 12
+Round 12 ended with elimination. The winning team is NAVI.
+The current score is Team Heretics 1 - 11 NAVI.
+m1xwell killed cNed  in round 13
+Shao killed m1xwell  in round 13
+keloqz killed Shao  in round 13
+Zyppan killed keloqz  in round 13
+AvovA killed suygetsu  in round 13
+Zyppan killed zeek  in round 13
+Zyppan killed Boo  in round 13
+AvovA killed ANGE1  in round 13
+AvovA killed Zyppan  in round 13
+Round 13 ended with spike_defuse. The winning team is Team Heretics.
+The current score is Team Heretics 2 - 11 NAVI.
+cNed killed keloqz  in round 14
+m1xwell killed cNed  in round 14
+Zyppan killed m1xwell  in round 14
+ANGE1 killed AvovA  in round 14
+Zyppan killed zeek  in round 14
+Round 14 ended with detonate. The winning team is NAVI.
+The current score is Team Heretics 2 - 12 NAVI.
+ANGE1 killed AvovA  in round 15
+cNed killed Boo  in round 15
+suygetsu killed m1xwell  in round 15
+zeek killed Zyppan  in round 15
+suygetsu killed keloqz  in round 15
+suygetsu killed zeek  in round 15
+Round 15 ended with elimination. The winning team is NAVI.
+The current score is Team Heretics 2 - 13 NAVI.
+Game ended with winning team: NAVI at 2023-04-12T20:46:07Z
+
+--- Player Stats ---
+Zyppan: Team=NAVI, Kills=13, Deaths=7, Assists=9, KDA=3.14, First Kills=0, First Deaths=1
+cNed: Team=NAVI, Kills=11, Deaths=7, Assists=0, KDA=1.57, First Kills=1, First Deaths=5
+ANGE1: Team=NAVI, Kills=12, Deaths=10, Assists=10, KDA=2.2, First Kills=3, First Deaths=1
+Shao: Team=NAVI, Kills=23, Deaths=4, Assists=4, KDA=6.75, First Kills=2, First Deaths=1
+suygetsu: Team=NAVI, Kills=13, Deaths=4, Assists=9, KDA=5.5, First Kills=1, First Deaths=0
+Boo: Team=Team Heretics, Kills=6, Deaths=14, Assists=0, KDA=0.43, First Kills=1, First Deaths=0
+m1xwell: Team=Team Heretics, Kills=8, Deaths=15, Assists=5, KDA=0.87, First Kills=2, First Deaths=0
+zeek: Team=Team Heretics, Kills=8, Deaths=15, Assists=5, KDA=0.87, First Kills=4, First Deaths=2
+AvovA: Team=Team Heretics, Kills=8, Deaths=13, Assists=4, KDA=0.92, First Kills=1, First Deaths=1
+keloqz: Team=Team Heretics, Kills=2, Deaths=15, Assists=2, KDA=0.27, First Kills=0, First Deaths=4

@@ -1,0 +1,194 @@
+Team 1: Team Heretics
+Team 2: NAVI
+Participating Players:
+Player 1: Zyppan
+Player 2: Shao
+Player 3: ANGE1
+Player 4: ardiis
+Player 5: suygetsu
+Player 6: MiniBoo
+Player 7: RieNs
+Player 8: Boo
+Player 9: benjyfishy
+Player 10: paTiTek
+Winning Team: Team Heretics
+Score: Team Heretics 13 - 4 NAVI
+Tournament Name: vct emea kickoff 2024
+Game Start Time: 2024-02-29T17:16:47Z
+Game End Time: 2024-02-29T17:55:18Z
+Rounds ended by ELIMINATION count: 12
+Rounds ended by DEFUSE count: 3
+Rounds ended by DETONATE count: 2
+SPIKE PLANTED count: 5
+platformGameId: val:f99148a9-5b9f-4afc-badc-fcf718ef61b9
+
+--- Events ---
+Game started at 2024-02-29T17:16:47Z
+benjyfishy killed ANGE1  in round 1
+Zyppan killed benjyfishy  in round 1
+MiniBoo killed suygetsu  in round 1
+paTiTek killed Shao  in round 1
+paTiTek killed Zyppan  in round 1
+ardiis killed paTiTek  in round 1
+MiniBoo killed ardiis  in round 1
+Round 1 ended with elimination. The winning team is Team Heretics.
+The current score is Team Heretics 1 - 0 NAVI.
+paTiTek killed ANGE1  in round 2
+Boo killed ardiis  in round 2
+MiniBoo killed Zyppan  in round 2
+RieNs killed suygetsu  in round 2
+RieNs killed Shao  in round 2
+Round 2 ended with elimination. The winning team is Team Heretics.
+The current score is Team Heretics 2 - 0 NAVI.
+MiniBoo killed Shao  in round 3
+benjyfishy killed ANGE1  in round 3
+Zyppan killed benjyfishy  in round 3
+RieNs killed Zyppan  in round 3
+Round 3 ended with detonate. The winning team is Team Heretics.
+The current score is Team Heretics 3 - 0 NAVI.
+ardiis killed benjyfishy  in round 4
+ardiis killed paTiTek  in round 4
+MiniBoo killed ardiis  in round 4
+Shao killed RieNs  in round 4
+Zyppan killed Boo  in round 4
+MiniBoo killed suygetsu  in round 4
+Shao killed MiniBoo  in round 4
+Round 4 ended with elimination. The winning team is NAVI.
+The current score is Team Heretics 3 - 1 NAVI.
+ANGE1 killed paTiTek  in round 5
+benjyfishy killed ANGE1  in round 5
+Zyppan killed benjyfishy  in round 5
+MiniBoo killed Shao  in round 5
+RieNs killed Zyppan  in round 5
+suygetsu killed RieNs  in round 5
+Boo killed ardiis  in round 5
+suygetsu killed Boo  in round 5
+Round 5 ended with detonate. The winning team is Team Heretics.
+The current score is Team Heretics 4 - 1 NAVI.
+suygetsu killed suygetsu  in round 6
+benjyfishy killed ANGE1  in round 6
+Zyppan killed RieNs  in round 6
+MiniBoo killed suygetsu  in round 6
+ardiis killed paTiTek  in round 6
+benjyfishy killed Shao  in round 6
+MiniBoo killed Zyppan  in round 6
+MiniBoo killed ardiis  in round 6
+Round 6 ended with elimination. The winning team is Team Heretics.
+The current score is Team Heretics 5 - 1 NAVI.
+MiniBoo killed Shao  in round 7
+ardiis killed RieNs  in round 7
+MiniBoo killed ardiis  in round 7
+suygetsu killed benjyfishy  in round 7
+MiniBoo killed ANGE1  in round 7
+paTiTek killed Zyppan  in round 7
+MiniBoo killed suygetsu  in round 7
+Round 7 ended with elimination. The winning team is Team Heretics.
+The current score is Team Heretics 6 - 1 NAVI.
+benjyfishy killed suygetsu  in round 8
+MiniBoo killed Shao  in round 8
+ardiis killed paTiTek  in round 8
+MiniBoo killed ardiis  in round 8
+RieNs killed Zyppan  in round 8
+MiniBoo killed ANGE1  in round 8
+Round 8 ended with elimination. The winning team is Team Heretics.
+The current score is Team Heretics 7 - 1 NAVI.
+RieNs killed ardiis  in round 9
+ANGE1 killed MiniBoo  in round 9
+ANGE1 killed Boo  in round 9
+RieNs killed ANGE1  in round 9
+Shao killed benjyfishy  in round 9
+RieNs killed Zyppan  in round 9
+paTiTek killed Shao  in round 9
+suygetsu killed RieNs  in round 9
+suygetsu killed paTiTek  in round 9
+Round 9 ended with spike_defuse. The winning team is NAVI.
+The current score is Team Heretics 7 - 2 NAVI.
+RieNs killed ANGE1  in round 10
+benjyfishy killed Zyppan  in round 10
+RieNs killed Shao  in round 10
+RieNs killed ardiis  in round 10
+suygetsu killed MiniBoo  in round 10
+suygetsu killed paTiTek  in round 10
+benjyfishy killed suygetsu  in round 10
+Round 10 ended with elimination. The winning team is Team Heretics.
+The current score is Team Heretics 8 - 2 NAVI.
+paTiTek killed Shao  in round 11
+Boo killed suygetsu  in round 11
+benjyfishy killed Zyppan  in round 11
+ANGE1 killed benjyfishy  in round 11
+MiniBoo killed ardiis  in round 11
+ANGE1 killed Boo  in round 11
+ANGE1 killed MiniBoo  in round 11
+RieNs killed ANGE1  in round 11
+Round 11 ended with elimination. The winning team is Team Heretics.
+The current score is Team Heretics 9 - 2 NAVI.
+RieNs killed Shao  in round 12
+MiniBoo killed Zyppan  in round 12
+paTiTek killed suygetsu  in round 12
+ardiis killed benjyfishy  in round 12
+Boo killed ardiis  in round 12
+MiniBoo killed ANGE1  in round 12
+Round 12 ended with elimination. The winning team is Team Heretics.
+The current score is Team Heretics 10 - 2 NAVI.
+Zyppan killed MiniBoo  in round 13
+paTiTek killed ANGE1  in round 13
+ardiis killed paTiTek  in round 13
+Boo killed ardiis  in round 13
+Shao killed Boo  in round 13
+benjyfishy killed Zyppan  in round 13
+suygetsu killed RieNs  in round 13
+suygetsu killed benjyfishy  in round 13
+Round 13 ended with elimination. The winning team is NAVI.
+The current score is Team Heretics 10 - 3 NAVI.
+benjyfishy killed Zyppan  in round 14
+benjyfishy killed Shao  in round 14
+ardiis killed Boo  in round 14
+MiniBoo killed ardiis  in round 14
+paTiTek killed ANGE1  in round 14
+suygetsu killed paTiTek  in round 14
+suygetsu killed RieNs  in round 14
+benjyfishy killed suygetsu  in round 14
+Round 14 ended with elimination. The winning team is Team Heretics.
+The current score is Team Heretics 11 - 3 NAVI.
+MiniBoo killed ANGE1  in round 15
+Shao killed paTiTek  in round 15
+MiniBoo killed Shao  in round 15
+Zyppan killed benjyfishy  in round 15
+RieNs killed Zyppan  in round 15
+Boo killed ardiis  in round 15
+Boo killed suygetsu  in round 15
+Round 15 ended with spike_defuse. The winning team is Team Heretics.
+The current score is Team Heretics 12 - 3 NAVI.
+ardiis killed MiniBoo  in round 16
+RieNs killed ardiis  in round 16
+Zyppan killed Boo  in round 16
+benjyfishy killed Zyppan  in round 16
+suygetsu killed benjyfishy  in round 16
+RieNs killed suygetsu  in round 16
+ANGE1 killed RieNs  in round 16
+paTiTek killed ANGE1  in round 16
+Shao killed paTiTek  in round 16
+Round 16 ended with elimination. The winning team is NAVI.
+The current score is Team Heretics 12 - 4 NAVI.
+RieNs killed ANGE1  in round 17
+benjyfishy killed Zyppan  in round 17
+Shao killed benjyfishy  in round 17
+paTiTek killed ardiis  in round 17
+suygetsu killed paTiTek  in round 17
+RieNs killed Shao  in round 17
+MiniBoo killed suygetsu  in round 17
+Round 17 ended with spike_defuse. The winning team is Team Heretics.
+The current score is Team Heretics 13 - 4 NAVI.
+Game ended with winning team: Team Heretics at 2024-02-29T17:55:18Z
+
+--- Player Stats ---
+Zyppan: Team=NAVI, Kills=8, Deaths=16, Assists=1, KDA=0.56, First Kills=1, First Deaths=1
+Shao: Team=NAVI, Kills=7, Deaths=14, Assists=7, KDA=1.0, First Kills=0, First Deaths=4
+ANGE1: Team=NAVI, Kills=7, Deaths=16, Assists=1, KDA=0.5, First Kills=1, First Deaths=5
+ardiis: Team=NAVI, Kills=10, Deaths=16, Assists=7, KDA=1.06, First Kills=2, First Deaths=1
+suygetsu: Team=NAVI, Kills=14, Deaths=14, Assists=1, KDA=1.07, First Kills=1, First Deaths=2
+MiniBoo: Team=Team Heretics, Kills=24, Deaths=6, Assists=2, KDA=4.33, First Kills=3, First Deaths=2
+RieNs: Team=Team Heretics, Kills=18, Deaths=8, Assists=8, KDA=3.25, First Kills=4, First Deaths=0
+Boo: Team=Team Heretics, Kills=7, Deaths=7, Assists=11, KDA=2.57, First Kills=0, First Deaths=0
+benjyfishy: Team=Team Heretics, Kills=15, Deaths=12, Assists=3, KDA=1.5, First Kills=3, First Deaths=1
+paTiTek: Team=Team Heretics, Kills=11, Deaths=12, Assists=13, KDA=2.0, First Kills=2, First Deaths=1

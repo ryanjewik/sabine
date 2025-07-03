@@ -1,0 +1,314 @@
+Team 1: NRG
+Team 2: MIBR
+Participating Players:
+Player 1: frz
+Player 2: rglmeister
+Player 3: murizzz
+Player 4: heat
+Player 5: jzz
+Player 6: crashies
+Player 7: Victor
+Player 8: FNS
+Player 9: s0m
+Player 10: ardiis
+Winning Team: NRG
+Score: NRG 16 - 14 MIBR
+Tournament Name: vct americas 2023
+Game Start Time: 2023-04-15T23:02:13Z
+Game End Time: 2023-04-16T00:27:56Z
+Rounds ended by ELIMINATION count: 19
+Rounds ended by DEFUSE count: 4
+Rounds ended by DETONATE count: 6
+SPIKE PLANTED count: 10
+platformGameId: val:83b31f31-72e2-4aa9-8343-0a1fd9ab9431
+
+--- Events ---
+Game started at 2023-04-15T23:02:13Z
+Victor killed heat  in round 1
+Victor killed jzz  in round 1
+frz killed Victor  in round 1
+murizzz killed FNS  in round 1
+frz killed ardiis  in round 1
+s0m killed murizzz  in round 1
+s0m killed frz  in round 1
+rglmeister killed crashies  in round 1
+rglmeister killed s0m  in round 1
+Round 1 ended with detonate. The winning team is NRG.
+The current score is NRG 1 - 0 MIBR.
+rglmeister killed rglmeister  in round 2
+FNS killed heat  in round 2
+s0m killed jzz  in round 2
+frz killed s0m  in round 2
+rglmeister killed FNS  in round 2
+ardiis killed rglmeister  in round 2
+murizzz killed ardiis  in round 2
+crashies killed murizzz  in round 2
+frz killed crashies  in round 2
+Victor killed frz  in round 2
+Round 2 ended with elimination. The winning team is NRG.
+The current score is NRG 2 - 0 MIBR.
+frz killed s0m  in round 3
+frz killed FNS  in round 3
+crashies killed heat  in round 3
+ardiis killed rglmeister  in round 3
+jzz killed ardiis  in round 3
+crashies killed murizzz  in round 3
+frz killed crashies  in round 3
+Victor killed frz  in round 3
+Round 3 ended with detonate. The winning team is NRG.
+The current score is NRG 3 - 0 MIBR.
+ardiis killed murizzz  in round 4
+jzz killed s0m  in round 4
+jzz killed ardiis  in round 4
+jzz killed FNS  in round 4
+Victor killed rglmeister  in round 4
+Victor killed frz  in round 4
+jzz killed Victor  in round 4
+crashies killed heat  in round 4
+crashies killed jzz  in round 4
+Round 4 ended with elimination. The winning team is NRG.
+The current score is NRG 4 - 0 MIBR.
+heat killed crashies  in round 5
+rglmeister killed ardiis  in round 5
+s0m killed jzz  in round 5
+murizzz killed s0m  in round 5
+murizzz killed FNS  in round 5
+Victor killed murizzz  in round 5
+frz killed Victor  in round 5
+Round 5 ended with spike_defuse. The winning team is MIBR.
+The current score is NRG 4 - 1 MIBR.
+jzz killed Victor  in round 6
+heat killed s0m  in round 6
+jzz killed crashies  in round 6
+rglmeister killed ardiis  in round 6
+FNS killed frz  in round 6
+heat killed FNS  in round 6
+Round 6 ended with elimination. The winning team is MIBR.
+The current score is NRG 4 - 2 MIBR.
+frz killed s0m  in round 7
+crashies killed murizzz  in round 7
+crashies killed frz  in round 7
+jzz killed crashies  in round 7
+ardiis killed jzz  in round 7
+FNS killed heat  in round 7
+FNS killed rglmeister  in round 7
+Round 7 ended with elimination. The winning team is NRG.
+The current score is NRG 5 - 2 MIBR.
+ardiis killed murizzz  in round 8
+ardiis killed rglmeister  in round 8
+ardiis killed heat  in round 8
+Round 8 ended with detonate. The winning team is NRG.
+The current score is NRG 6 - 2 MIBR.
+ardiis killed murizzz  in round 9
+FNS killed rglmeister  in round 9
+jzz killed crashies  in round 9
+ardiis killed heat  in round 9
+Round 9 ended with detonate. The winning team is NRG.
+The current score is NRG 7 - 2 MIBR.
+frz killed Victor  in round 10
+jzz killed FNS  in round 10
+rglmeister killed ardiis  in round 10
+s0m killed rglmeister  in round 10
+murizzz killed s0m  in round 10
+jzz killed crashies  in round 10
+Round 10 ended with elimination. The winning team is MIBR.
+The current score is NRG 7 - 3 MIBR.
+ardiis killed murizzz  in round 11
+ardiis killed rglmeister  in round 11
+jzz killed s0m  in round 11
+heat killed Victor  in round 11
+frz killed ardiis  in round 11
+frz killed crashies  in round 11
+FNS killed jzz  in round 11
+FNS killed frz  in round 11
+heat killed FNS  in round 11
+Round 11 ended with spike_defuse. The winning team is MIBR.
+The current score is NRG 7 - 4 MIBR.
+ardiis killed heat  in round 12
+murizzz killed ardiis  in round 12
+frz killed FNS  in round 12
+crashies killed frz  in round 12
+s0m killed murizzz  in round 12
+s0m killed rglmeister  in round 12
+jzz killed crashies  in round 12
+s0m killed jzz  in round 12
+Round 12 ended with elimination. The winning team is NRG.
+The current score is NRG 8 - 4 MIBR.
+s0m killed s0m  in round 13
+Victor killed jzz  in round 13
+heat killed ardiis  in round 13
+heat killed s0m  in round 13
+Victor killed rglmeister  in round 13
+Victor killed heat  in round 13
+murizzz killed FNS  in round 13
+Victor killed murizzz  in round 13
+Victor killed frz  in round 13
+Round 13 ended with elimination. The winning team is NRG.
+The current score is NRG 9 - 4 MIBR.
+s0m killed heat  in round 14
+murizzz killed crashies  in round 14
+FNS killed frz  in round 14
+ardiis killed jzz  in round 14
+ardiis killed murizzz  in round 14
+Round 14 ended with spike_defuse. The winning team is NRG.
+The current score is NRG 10 - 4 MIBR.
+rglmeister killed FNS  in round 15
+s0m killed rglmeister  in round 15
+jzz killed crashies  in round 15
+ardiis killed jzz  in round 15
+heat killed Victor  in round 15
+heat killed s0m  in round 15
+frz killed FNS  in round 15
+heat killed ardiis  in round 15
+Round 15 ended with elimination. The winning team is MIBR.
+The current score is NRG 10 - 5 MIBR.
+jzz killed ardiis  in round 16
+s0m killed jzz  in round 16
+frz killed Victor  in round 16
+heat killed s0m  in round 16
+crashies killed rglmeister  in round 16
+Round 16 ended with detonate. The winning team is MIBR.
+The current score is NRG 10 - 6 MIBR.
+murizzz killed FNS  in round 17
+heat killed FNS  in round 17
+s0m killed heat  in round 17
+murizzz killed s0m  in round 17
+murizzz killed ardiis  in round 17
+murizzz killed Victor  in round 17
+Round 17 ended with detonate. The winning team is MIBR.
+The current score is NRG 10 - 7 MIBR.
+crashies killed frz  in round 18
+crashies killed jzz  in round 18
+heat killed FNS  in round 18
+heat killed Victor  in round 18
+s0m killed heat  in round 18
+murizzz killed crashies  in round 18
+rglmeister killed s0m  in round 18
+murizzz killed ardiis  in round 18
+Round 18 ended with elimination. The winning team is MIBR.
+The current score is NRG 10 - 8 MIBR.
+s0m killed heat  in round 19
+frz killed ardiis  in round 19
+jzz killed s0m  in round 19
+jzz killed FNS  in round 19
+murizzz killed Victor  in round 19
+crashies killed frz  in round 19
+jzz killed crashies  in round 19
+Round 19 ended with elimination. The winning team is MIBR.
+The current score is NRG 10 - 9 MIBR.
+heat killed ardiis  in round 20
+crashies killed heat  in round 20
+crashies killed murizzz  in round 20
+rglmeister killed crashies  in round 20
+FNS killed jzz  in round 20
+rglmeister killed FNS  in round 20
+s0m killed rglmeister  in round 20
+frz killed Victor  in round 20
+Round 20 ended with spike_defuse. The winning team is NRG.
+The current score is NRG 11 - 9 MIBR.
+s0m killed frz  in round 21
+frz killed Victor  in round 21
+crashies killed frz  in round 21
+s0m killed heat  in round 21
+ardiis killed jzz  in round 21
+rglmeister killed FNS  in round 21
+murizzz killed ardiis  in round 21
+s0m killed rglmeister  in round 21
+murizzz killed s0m  in round 21
+Round 21 ended with time_expired. The winning team is NRG.
+The current score is NRG 12 - 9 MIBR.
+heat killed ardiis  in round 22
+crashies killed rglmeister  in round 22
+jzz killed FNS  in round 22
+murizzz killed Victor  in round 22
+jzz killed s0m  in round 22
+Victor killed heat  in round 22
+frz killed crashies  in round 22
+Round 22 ended with elimination. The winning team is MIBR.
+The current score is NRG 12 - 10 MIBR.
+jzz killed Victor  in round 23
+rglmeister killed s0m  in round 23
+heat killed ardiis  in round 23
+FNS killed heat  in round 23
+murizzz killed crashies  in round 23
+FNS killed murizzz  in round 23
+jzz killed FNS  in round 23
+Round 23 ended with elimination. The winning team is MIBR.
+The current score is NRG 12 - 11 MIBR.
+heat killed s0m  in round 24
+jzz killed FNS  in round 24
+jzz killed Victor  in round 24
+heat killed ardiis  in round 24
+crashies killed jzz  in round 24
+murizzz killed crashies  in round 24
+Round 24 ended with elimination. The winning team is MIBR.
+The current score is NRG 12 - 12 MIBR.
+s0m killed heat  in round 25
+rglmeister killed ardiis  in round 25
+crashies killed murizzz  in round 25
+crashies killed frz  in round 25
+Victor killed jzz  in round 25
+rglmeister killed FNS  in round 25
+crashies killed rglmeister  in round 25
+Round 25 ended with elimination. The winning team is NRG.
+The current score is NRG 13 - 12 MIBR.
+crashies killed murizzz  in round 26
+jzz killed crashies  in round 26
+FNS killed heat  in round 26
+jzz killed FNS  in round 26
+jzz killed Victor  in round 26
+s0m killed jzz  in round 26
+frz killed ardiis  in round 26
+rglmeister killed s0m  in round 26
+Round 26 ended with elimination. The winning team is MIBR.
+The current score is NRG 13 - 13 MIBR.
+crashies killed heat  in round 27
+jzz killed crashies  in round 27
+ardiis killed frz  in round 27
+murizzz killed ardiis  in round 27
+FNS killed jzz  in round 27
+Victor killed murizzz  in round 27
+rglmeister killed s0m  in round 27
+rglmeister killed FNS  in round 27
+Victor killed rglmeister  in round 27
+Round 27 ended with elimination. The winning team is NRG.
+The current score is NRG 14 - 13 MIBR.
+jzz killed Victor  in round 28
+ardiis killed heat  in round 28
+murizzz killed crashies  in round 28
+rglmeister killed ardiis  in round 28
+jzz killed s0m  in round 28
+murizzz killed Victor  in round 28
+murizzz killed FNS  in round 28
+Round 28 ended with elimination. The winning team is MIBR.
+The current score is NRG 14 - 14 MIBR.
+ardiis killed heat  in round 29
+crashies killed murizzz  in round 29
+ardiis killed jzz  in round 29
+frz killed FNS  in round 29
+crashies killed frz  in round 29
+s0m killed rglmeister  in round 29
+Round 29 ended with elimination. The winning team is NRG.
+The current score is NRG 15 - 14 MIBR.
+s0m killed frz  in round 30
+ardiis killed heat  in round 30
+jzz killed crashies  in round 30
+Victor killed jzz  in round 30
+rglmeister killed Victor  in round 30
+ardiis killed rglmeister  in round 30
+ardiis killed murizzz  in round 30
+Round 30 ended with elimination. The winning team is NRG.
+The current score is NRG 16 - 14 MIBR.
+Game ended with winning team: NRG at 2023-04-16T00:27:56Z
+
+--- Player Stats ---
+frz: Team=MIBR, Kills=21, Deaths=18, Assists=7, KDA=1.56, First Kills=3, First Deaths=3
+rglmeister: Team=MIBR, Kills=20, Deaths=20, Assists=14, KDA=1.7, First Kills=2, First Deaths=1
+murizzz: Team=MIBR, Kills=24, Deaths=19, Assists=6, KDA=1.58, First Kills=1, First Deaths=5
+heat: Team=MIBR, Kills=19, Deaths=23, Assists=1, KDA=0.87, First Kills=4, First Deaths=7
+jzz: Team=MIBR, Kills=31, Deaths=20, Assists=23, KDA=2.7, First Kills=4, First Deaths=0
+crashies: Team=NRG, Kills=24, Deaths=22, Assists=4, KDA=1.27, First Kills=3, First Deaths=1
+Victor: Team=NRG, Kills=17, Deaths=20, Assists=17, KDA=1.7, First Kills=1, First Deaths=4
+FNS: Team=NRG, Kills=13, Deaths=26, Assists=16, KDA=1.12, First Kills=0, First Deaths=2
+s0m: Team=NRG, Kills=23, Deaths=23, Assists=10, KDA=1.43, First Kills=6, First Deaths=4
+ardiis: Team=NRG, Kills=23, Deaths=24, Assists=5, KDA=1.17, First Kills=6, First Deaths=3

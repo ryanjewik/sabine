@@ -1,0 +1,218 @@
+Team 1: NRG
+Team 2: KRÜ Esports
+Participating Players:
+Player 1: KeznitdeuS
+Player 2: Shyy
+Player 3: Melser
+Player 4: mta
+Player 5: heat
+Player 6: Ethan
+Player 7: s0m
+Player 8: FNS
+Player 9: crashies
+Player 10: Victor
+Winning Team: NRG
+Score: NRG 13 - 7 KRÜ Esports
+Tournament Name: vct americas stage 2 2024
+Game Start Time: 2024-07-04T01:05:14Z
+Game End Time: 2024-07-04T01:51:55Z
+Rounds ended by ELIMINATION count: 14
+Rounds ended by DEFUSE count: 3
+Rounds ended by DETONATE count: 2
+SPIKE PLANTED count: 5
+platformGameId: val:9f8653d3-d9f4-4aee-a92e-a068dc112ff3
+
+--- Events ---
+Game started at 2024-07-04T01:05:14Z
+s0m killed Melser  in round 1
+s0m killed KeznitdeuS  in round 1
+FNS killed mta  in round 1
+s0m killed Shyy  in round 1
+FNS killed heat  in round 1
+Round 1 ended with elimination. The winning team is NRG.
+The current score is NRG 1 - 0 KRÜ Esports.
+FNS killed mta  in round 2
+FNS killed heat  in round 2
+KeznitdeuS killed FNS  in round 2
+Victor killed KeznitdeuS  in round 2
+Victor killed Shyy  in round 2
+crashies killed Melser  in round 2
+Round 2 ended with elimination. The winning team is NRG.
+The current score is NRG 2 - 0 KRÜ Esports.
+s0m killed heat  in round 3
+mta killed s0m  in round 3
+Ethan killed KeznitdeuS  in round 3
+Victor killed mta  in round 3
+crashies killed Shyy  in round 3
+Victor killed Melser  in round 3
+Round 3 ended with elimination. The winning team is NRG.
+The current score is NRG 3 - 0 KRÜ Esports.
+crashies killed mta  in round 4
+Victor killed heat  in round 4
+Ethan killed Shyy  in round 4
+Victor killed KeznitdeuS  in round 4
+FNS killed Melser  in round 4
+Round 4 ended with elimination. The winning team is NRG.
+The current score is NRG 4 - 0 KRÜ Esports.
+Victor killed Shyy  in round 5
+crashies killed mta  in round 5
+Victor killed KeznitdeuS  in round 5
+heat killed Victor  in round 5
+Melser killed FNS  in round 5
+Ethan killed Melser  in round 5
+heat killed Ethan  in round 5
+Round 5 ended with detonate. The winning team is NRG.
+The current score is NRG 5 - 0 KRÜ Esports.
+Victor killed Melser  in round 6
+KeznitdeuS killed Victor  in round 6
+KeznitdeuS killed mta  in round 6
+Ethan killed KeznitdeuS  in round 6
+heat killed Ethan  in round 6
+crashies killed heat  in round 6
+crashies killed Shyy  in round 6
+Round 6 ended with elimination. The winning team is NRG.
+The current score is NRG 6 - 0 KRÜ Esports.
+KeznitdeuS killed Ethan  in round 7
+KeznitdeuS killed Victor  in round 7
+Shyy killed s0m  in round 7
+mta killed FNS  in round 7
+Melser killed crashies  in round 7
+Round 7 ended with elimination. The winning team is KRÜ Esports.
+The current score is NRG 6 - 1 KRÜ Esports.
+Victor killed mta  in round 8
+Victor killed Melser  in round 8
+heat killed Ethan  in round 8
+heat killed Victor  in round 8
+KeznitdeuS killed s0m  in round 8
+FNS killed KeznitdeuS  in round 8
+crashies killed heat  in round 8
+Shyy killed crashies  in round 8
+FNS killed Shyy  in round 8
+Round 8 ended with elimination. The winning team is NRG.
+The current score is NRG 7 - 1 KRÜ Esports.
+FNS killed heat  in round 9
+KeznitdeuS killed FNS  in round 9
+Shyy killed Victor  in round 9
+Shyy killed Ethan  in round 9
+crashies killed Shyy  in round 9
+crashies killed mta  in round 9
+KeznitdeuS killed crashies  in round 9
+KeznitdeuS killed s0m  in round 9
+Round 9 ended with elimination. The winning team is KRÜ Esports.
+The current score is NRG 7 - 2 KRÜ Esports.
+Victor killed heat  in round 10
+Melser killed Victor  in round 10
+Melser killed s0m  in round 10
+crashies killed Melser  in round 10
+mta killed crashies  in round 10
+KeznitdeuS killed FNS  in round 10
+Shyy killed Ethan  in round 10
+Round 10 ended with spike_defuse. The winning team is KRÜ Esports.
+The current score is NRG 7 - 3 KRÜ Esports.
+Melser killed Victor  in round 11
+FNS killed KeznitdeuS  in round 11
+heat killed FNS  in round 11
+Ethan killed heat  in round 11
+s0m killed Melser  in round 11
+crashies killed Shyy  in round 11
+Ethan killed mta  in round 11
+Round 11 ended with elimination. The winning team is NRG.
+The current score is NRG 8 - 3 KRÜ Esports.
+Victor killed KeznitdeuS  in round 12
+Victor killed mta  in round 12
+heat killed Victor  in round 12
+Shyy killed FNS  in round 12
+Melser killed s0m  in round 12
+Ethan killed Shyy  in round 12
+crashies killed Melser  in round 12
+heat killed crashies  in round 12
+Ethan killed heat  in round 12
+Round 12 ended with elimination. The winning team is NRG.
+The current score is NRG 9 - 3 KRÜ Esports.
+Ethan killed Ethan  in round 13
+KeznitdeuS killed Victor  in round 13
+crashies killed KeznitdeuS  in round 13
+heat killed crashies  in round 13
+s0m killed mta  in round 13
+heat killed Ethan  in round 13
+s0m killed Melser  in round 13
+s0m killed Shyy  in round 13
+heat killed s0m  in round 13
+FNS killed heat  in round 13
+Round 13 ended with elimination. The winning team is NRG.
+The current score is NRG 10 - 3 KRÜ Esports.
+Victor killed KeznitdeuS  in round 14
+Ethan killed mta  in round 14
+crashies killed Melser  in round 14
+heat killed crashies  in round 14
+FNS killed Shyy  in round 14
+Round 14 ended with time_expired. The winning team is NRG.
+The current score is NRG 11 - 3 KRÜ Esports.
+KeznitdeuS killed FNS  in round 15
+Ethan killed heat  in round 15
+mta killed Ethan  in round 15
+KeznitdeuS killed Victor  in round 15
+s0m killed mta  in round 15
+Shyy killed s0m  in round 15
+Round 15 ended with detonate. The winning team is KRÜ Esports.
+The current score is NRG 11 - 4 KRÜ Esports.
+crashies killed heat  in round 16
+mta killed Ethan  in round 16
+KeznitdeuS killed crashies  in round 16
+Shyy killed FNS  in round 16
+s0m killed mta  in round 16
+Shyy killed Victor  in round 16
+KeznitdeuS killed s0m  in round 16
+Round 16 ended with elimination. The winning team is KRÜ Esports.
+The current score is NRG 11 - 5 KRÜ Esports.
+crashies killed Melser  in round 17
+KeznitdeuS killed crashies  in round 17
+KeznitdeuS killed Ethan  in round 17
+KeznitdeuS killed Victor  in round 17
+KeznitdeuS killed FNS  in round 17
+heat killed s0m  in round 17
+Round 17 ended with elimination. The winning team is KRÜ Esports.
+The current score is NRG 11 - 6 KRÜ Esports.
+heat killed Victor  in round 18
+KeznitdeuS killed crashies  in round 18
+Melser killed FNS  in round 18
+Shyy killed Ethan  in round 18
+s0m killed KeznitdeuS  in round 18
+s0m killed mta  in round 18
+heat killed s0m  in round 18
+Round 18 ended with elimination. The winning team is KRÜ Esports.
+The current score is NRG 11 - 7 KRÜ Esports.
+s0m killed heat  in round 19
+KeznitdeuS killed FNS  in round 19
+Victor killed KeznitdeuS  in round 19
+Shyy killed Victor  in round 19
+Ethan killed Shyy  in round 19
+crashies killed Melser  in round 19
+mta killed crashies  in round 19
+s0m killed mta  in round 19
+Round 19 ended with spike_defuse. The winning team is NRG.
+The current score is NRG 12 - 7 KRÜ Esports.
+Victor killed KeznitdeuS  in round 20
+Melser killed s0m  in round 20
+FNS killed mta  in round 20
+Shyy killed FNS  in round 20
+Melser killed Ethan  in round 20
+Victor killed heat  in round 20
+Shyy killed Victor  in round 20
+crashies killed Melser  in round 20
+crashies killed Shyy  in round 20
+Round 20 ended with spike_defuse. The winning team is NRG.
+The current score is NRG 13 - 7 KRÜ Esports.
+Game ended with winning team: NRG at 2024-07-04T01:51:55Z
+
+--- Player Stats ---
+KeznitdeuS: Team=KRÜ Esports, Kills=21, Deaths=14, Assists=5, KDA=1.86, First Kills=2, First Deaths=3
+Shyy: Team=KRÜ Esports, Kills=13, Deaths=14, Assists=2, KDA=1.07, First Kills=0, First Deaths=1
+Melser: Team=KRÜ Esports, Kills=9, Deaths=15, Assists=0, KDA=0.6, First Kills=1, First Deaths=3
+mta: Team=KRÜ Esports, Kills=6, Deaths=17, Assists=4, KDA=0.59, First Kills=0, First Deaths=3
+heat: Team=KRÜ Esports, Kills=15, Deaths=15, Assists=11, KDA=1.73, First Kills=1, First Deaths=5
+Ethan: Team=NRG, Kills=12, Deaths=13, Assists=11, KDA=1.77, First Kills=1, First Deaths=2
+s0m: Team=NRG, Kills=14, Deaths=12, Assists=9, KDA=1.92, First Kills=3, First Deaths=0
+FNS: Team=NRG, Kills=12, Deaths=13, Assists=5, KDA=1.31, First Kills=2, First Deaths=1
+crashies: Team=NRG, Kills=19, Deaths=11, Assists=9, KDA=2.55, First Kills=3, First Deaths=0
+Victor: Team=NRG, Kills=18, Deaths=15, Assists=1, KDA=1.27, First Kills=7, First Deaths=2

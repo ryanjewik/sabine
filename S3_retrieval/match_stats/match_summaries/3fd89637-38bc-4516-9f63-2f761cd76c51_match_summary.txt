@@ -1,0 +1,204 @@
+Team 1: PAPER REX
+Team 2: T1
+Participating Players:
+Player 1: carpe
+Player 2: Sayaplayer
+Player 3: xeta
+Player 4: ban 
+Player 5: Munchkin
+Player 6: f0rsakeN
+Player 7: mindfreak
+Player 8: d4v41
+Player 9: Benkai
+Player 10: Jinggg
+Winning Team: PAPER REX
+Score: PAPER REX 13 - 6 T1
+Tournament Name: vct pacific 2023
+Game Start Time: 2023-04-08T12:11:03Z
+Game End Time: 2023-04-08T12:53:26Z
+Rounds ended by ELIMINATION count: 15
+Rounds ended by DEFUSE count: 3
+Rounds ended by DETONATE count: 0
+SPIKE PLANTED count: 3
+platformGameId: val:3fd89637-38bc-4516-9f63-2f761cd76c51
+
+--- Events ---
+Game started at 2023-04-08T12:11:03Z
+Sayaplayer killed f0rsakeN  in round 1
+mindfreak killed ban   in round 1
+Jinggg killed xeta  in round 1
+carpe killed Jinggg  in round 1
+mindfreak killed carpe  in round 1
+Sayaplayer killed mindfreak  in round 1
+Munchkin killed Benkai  in round 1
+Sayaplayer killed d4v41  in round 1
+Round 1 ended with elimination. The winning team is T1.
+The current score is PAPER REX 0 - 1 T1.
+Munchkin killed Jinggg  in round 2
+carpe killed Benkai  in round 2
+f0rsakeN killed Munchkin  in round 2
+xeta killed f0rsakeN  in round 2
+carpe killed mindfreak  in round 2
+carpe killed d4v41  in round 2
+Round 2 ended with elimination. The winning team is T1.
+The current score is PAPER REX 0 - 2 T1.
+f0rsakeN killed Sayaplayer  in round 3
+Benkai killed carpe  in round 3
+xeta killed Benkai  in round 3
+xeta killed Jinggg  in round 3
+mindfreak killed xeta  in round 3
+d4v41 killed ban   in round 3
+d4v41 killed Munchkin  in round 3
+Round 3 ended with elimination. The winning team is PAPER REX.
+The current score is PAPER REX 1 - 2 T1.
+d4v41 killed ban   in round 4
+Benkai killed carpe  in round 4
+Sayaplayer killed f0rsakeN  in round 4
+mindfreak killed Sayaplayer  in round 4
+mindfreak killed xeta  in round 4
+Jinggg killed Munchkin  in round 4
+Round 4 ended with elimination. The winning team is PAPER REX.
+The current score is PAPER REX 2 - 2 T1.
+Benkai killed Sayaplayer  in round 5
+f0rsakeN killed ban   in round 5
+Munchkin killed d4v41  in round 5
+Munchkin killed Jinggg  in round 5
+Jinggg killed Munchkin  in round 5
+mindfreak killed xeta  in round 5
+mindfreak killed carpe  in round 5
+Round 5 ended with elimination. The winning team is PAPER REX.
+The current score is PAPER REX 3 - 2 T1.
+Munchkin killed f0rsakeN  in round 6
+Munchkin killed Benkai  in round 6
+Jinggg killed Munchkin  in round 6
+xeta killed mindfreak  in round 6
+xeta killed d4v41  in round 6
+xeta killed Jinggg  in round 6
+Round 6 ended with spike_defuse. The winning team is T1.
+The current score is PAPER REX 3 - 3 T1.
+f0rsakeN killed ban   in round 7
+Munchkin killed Benkai  in round 7
+Sayaplayer killed d4v41  in round 7
+Sayaplayer killed f0rsakeN  in round 7
+xeta killed Jinggg  in round 7
+xeta killed mindfreak  in round 7
+Round 7 ended with spike_defuse. The winning team is T1.
+The current score is PAPER REX 3 - 4 T1.
+f0rsakeN killed Munchkin  in round 8
+carpe killed f0rsakeN  in round 8
+mindfreak killed xeta  in round 8
+mindfreak killed Sayaplayer  in round 8
+Jinggg killed carpe  in round 8
+ban  killed mindfreak  in round 8
+d4v41 killed ban   in round 8
+Round 8 ended with elimination. The winning team is PAPER REX.
+The current score is PAPER REX 4 - 4 T1.
+f0rsakeN killed Sayaplayer  in round 9
+Benkai killed carpe  in round 9
+Munchkin killed Benkai  in round 9
+f0rsakeN killed xeta  in round 9
+Jinggg killed Munchkin  in round 9
+d4v41 killed ban   in round 9
+Round 9 ended with elimination. The winning team is PAPER REX.
+The current score is PAPER REX 5 - 4 T1.
+f0rsakeN killed Munchkin  in round 10
+f0rsakeN killed xeta  in round 10
+Jinggg killed carpe  in round 10
+ban  killed Jinggg  in round 10
+f0rsakeN killed ban   in round 10
+f0rsakeN killed Sayaplayer  in round 10
+Round 10 ended with elimination. The winning team is PAPER REX.
+The current score is PAPER REX 6 - 4 T1.
+ban  killed f0rsakeN  in round 11
+mindfreak killed ban   in round 11
+mindfreak killed xeta  in round 11
+carpe killed mindfreak  in round 11
+Sayaplayer killed Jinggg  in round 11
+Munchkin killed Benkai  in round 11
+Round 11 ended with time_expired. The winning team is T1.
+The current score is PAPER REX 6 - 5 T1.
+carpe killed d4v41  in round 12
+ban  killed Benkai  in round 12
+f0rsakeN killed ban   in round 12
+Sayaplayer killed Jinggg  in round 12
+f0rsakeN killed carpe  in round 12
+Munchkin killed f0rsakeN  in round 12
+mindfreak killed xeta  in round 12
+d4v41 killed Sayaplayer  in round 12
+d4v41 killed Munchkin  in round 12
+Round 12 ended with elimination. The winning team is PAPER REX.
+The current score is PAPER REX 7 - 5 T1.
+carpe killed f0rsakeN  in round 13
+ban  killed d4v41  in round 13
+Benkai killed ban   in round 13
+Benkai killed Sayaplayer  in round 13
+mindfreak killed Munchkin  in round 13
+mindfreak killed xeta  in round 13
+Benkai killed carpe  in round 13
+Round 13 ended with spike_defuse. The winning team is PAPER REX.
+The current score is PAPER REX 8 - 5 T1.
+f0rsakeN killed carpe  in round 14
+Sayaplayer killed f0rsakeN  in round 14
+Benkai killed ban   in round 14
+d4v41 killed xeta  in round 14
+d4v41 killed Sayaplayer  in round 14
+Jinggg killed Munchkin  in round 14
+Round 14 ended with elimination. The winning team is PAPER REX.
+The current score is PAPER REX 9 - 5 T1.
+Jinggg killed Sayaplayer  in round 15
+carpe killed Jinggg  in round 15
+Sayaplayer killed Benkai  in round 15
+d4v41 killed ban   in round 15
+Munchkin killed d4v41  in round 15
+mindfreak killed carpe  in round 15
+Munchkin killed f0rsakeN  in round 15
+Munchkin killed mindfreak  in round 15
+Round 15 ended with elimination. The winning team is T1.
+The current score is PAPER REX 9 - 6 T1.
+Benkai killed ban   in round 16
+f0rsakeN killed Sayaplayer  in round 16
+Benkai killed Munchkin  in round 16
+carpe killed Benkai  in round 16
+mindfreak killed carpe  in round 16
+xeta killed Jinggg  in round 16
+d4v41 killed xeta  in round 16
+Round 16 ended with elimination. The winning team is PAPER REX.
+The current score is PAPER REX 10 - 6 T1.
+Benkai killed Sayaplayer  in round 17
+mindfreak killed ban   in round 17
+mindfreak killed xeta  in round 17
+Jinggg killed carpe  in round 17
+f0rsakeN killed Munchkin  in round 17
+Round 17 ended with elimination. The winning team is PAPER REX.
+The current score is PAPER REX 11 - 6 T1.
+f0rsakeN killed ban   in round 18
+Munchkin killed f0rsakeN  in round 18
+Benkai killed carpe  in round 18
+Sayaplayer killed Jinggg  in round 18
+mindfreak killed Sayaplayer  in round 18
+Benkai killed xeta  in round 18
+Munchkin killed d4v41  in round 18
+Benkai killed Munchkin  in round 18
+Round 18 ended with elimination. The winning team is PAPER REX.
+The current score is PAPER REX 12 - 6 T1.
+f0rsakeN killed Munchkin  in round 19
+Benkai killed ban   in round 19
+d4v41 killed xeta  in round 19
+Jinggg killed carpe  in round 19
+Sayaplayer killed Jinggg  in round 19
+d4v41 killed Sayaplayer  in round 19
+Round 19 ended with elimination. The winning team is PAPER REX.
+The current score is PAPER REX 13 - 6 T1.
+Game ended with winning team: PAPER REX at 2023-04-08T12:53:26Z
+
+--- Player Stats ---
+carpe: Team=T1, Kills=10, Deaths=15, Assists=7, KDA=1.13, First Kills=2, First Deaths=1
+Sayaplayer: Team=T1, Kills=12, Deaths=14, Assists=3, KDA=1.07, First Kills=1, First Deaths=5
+xeta: Team=T1, Kills=9, Deaths=15, Assists=10, KDA=1.27, First Kills=0, First Deaths=0
+ban : Team=T1, Kills=5, Deaths=17, Assists=2, KDA=0.41, First Kills=1, First Deaths=4
+Munchkin: Team=T1, Kills=15, Deaths=15, Assists=2, KDA=1.13, First Kills=2, First Deaths=3
+f0rsakeN: Team=PAPER REX, Kills=18, Deaths=12, Assists=5, KDA=1.92, First Kills=8, First Deaths=4
+mindfreak: Team=PAPER REX, Kills=19, Deaths=7, Assists=18, KDA=5.29, First Kills=0, First Deaths=0
+d4v41: Team=PAPER REX, Kills=13, Deaths=9, Assists=4, KDA=1.89, First Kills=1, First Deaths=1
+Benkai: Team=PAPER REX, Kills=15, Deaths=10, Assists=9, KDA=2.4, First Kills=3, First Deaths=0
+Jinggg: Team=PAPER REX, Kills=11, Deaths=13, Assists=6, KDA=1.31, First Kills=1, First Deaths=1

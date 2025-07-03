@@ -1,0 +1,181 @@
+Team 1: Talon Esports
+Team 2: PAPER REX
+Participating Players:
+Player 1: mindfreak
+Player 2: something
+Player 3: d4v41
+Player 4: f0rsakeN
+Player 5: Jinggg
+Player 6: Governor
+Player 7: ban
+Player 8: Crws
+Player 9: Primmie
+Player 10: JitBoyS
+Winning Team: PAPER REX
+Score: Talon Esports 3 - 13 PAPER REX
+Tournament Name: vct pacific stage 2 2024
+Game Start Time: 2024-07-14T11:08:36Z
+Game End Time: 2024-07-14T11:48:58Z
+Rounds ended by ELIMINATION count: 12
+Rounds ended by DEFUSE count: 3
+Rounds ended by DETONATE count: 1
+SPIKE PLANTED count: 4
+platformGameId: val:05b5ff67-9a38-42c4-a046-b3c27845a7a8
+
+--- Events ---
+Game started at 2024-07-14T11:08:36Z
+something killed Primmie  in round 1
+Jinggg killed JitBoyS  in round 1
+f0rsakeN killed ban  in round 1
+f0rsakeN killed Crws  in round 1
+Governor killed f0rsakeN  in round 1
+mindfreak killed Governor  in round 1
+Round 1 ended with elimination. The winning team is PAPER REX.
+The current score is Talon Esports 0 - 1 PAPER REX.
+something killed Crws  in round 2
+something killed Governor  in round 2
+something killed Primmie  in round 2
+d4v41 killed ban  in round 2
+something killed JitBoyS  in round 2
+Round 2 ended with elimination. The winning team is PAPER REX.
+The current score is Talon Esports 0 - 2 PAPER REX.
+Primmie killed something  in round 3
+f0rsakeN killed Primmie  in round 3
+Governor killed Jinggg  in round 3
+JitBoyS killed mindfreak  in round 3
+JitBoyS killed f0rsakeN  in round 3
+d4v41 killed JitBoyS  in round 3
+Round 3 ended with detonate. The winning team is Talon Esports.
+The current score is Talon Esports 1 - 2 PAPER REX.
+Jinggg killed Primmie  in round 4
+something killed ban  in round 4
+Jinggg killed JitBoyS  in round 4
+Crws killed Jinggg  in round 4
+f0rsakeN killed Governor  in round 4
+Crws killed f0rsakeN  in round 4
+d4v41 killed Crws  in round 4
+Round 4 ended with elimination. The winning team is PAPER REX.
+The current score is Talon Esports 1 - 3 PAPER REX.
+mindfreak killed JitBoyS  in round 5
+something killed ban  in round 5
+something killed Governor  in round 5
+mindfreak killed Crws  in round 5
+Primmie killed something  in round 5
+d4v41 killed Primmie  in round 5
+Round 5 ended with elimination. The winning team is PAPER REX.
+The current score is Talon Esports 1 - 4 PAPER REX.
+ban killed mindfreak  in round 6
+Jinggg killed Primmie  in round 6
+f0rsakeN killed ban  in round 6
+Crws killed f0rsakeN  in round 6
+d4v41 killed Crws  in round 6
+Jinggg killed JitBoyS  in round 6
+Governor killed d4v41  in round 6
+Jinggg killed Governor  in round 6
+Round 6 ended with spike_defuse. The winning team is PAPER REX.
+The current score is Talon Esports 1 - 5 PAPER REX.
+Crws killed d4v41  in round 7
+f0rsakeN killed Crws  in round 7
+JitBoyS killed Jinggg  in round 7
+Jinggg killed JitBoyS  in round 7
+something killed ban  in round 7
+Governor killed f0rsakeN  in round 7
+Primmie killed mindfreak  in round 7
+something killed Governor  in round 7
+Primmie killed something  in round 7
+Round 7 ended with elimination. The winning team is Talon Esports.
+The current score is Talon Esports 2 - 5 PAPER REX.
+d4v41 killed Governor  in round 8
+f0rsakeN killed Primmie  in round 8
+JitBoyS killed d4v41  in round 8
+f0rsakeN killed JitBoyS  in round 8
+f0rsakeN killed ban  in round 8
+Jinggg killed Crws  in round 8
+Round 8 ended with elimination. The winning team is PAPER REX.
+The current score is Talon Esports 2 - 6 PAPER REX.
+something killed ban  in round 9
+Primmie killed Jinggg  in round 9
+something killed Crws  in round 9
+mindfreak killed Governor  in round 9
+JitBoyS killed d4v41  in round 9
+Primmie killed f0rsakeN  in round 9
+mindfreak killed Primmie  in round 9
+something killed JitBoyS  in round 9
+Round 9 ended with elimination. The winning team is PAPER REX.
+The current score is Talon Esports 2 - 7 PAPER REX.
+Primmie killed Jinggg  in round 10
+f0rsakeN killed ban  in round 10
+d4v41 killed Crws  in round 10
+d4v41 killed Governor  in round 10
+f0rsakeN killed Primmie  in round 10
+something killed JitBoyS  in round 10
+Round 10 ended with elimination. The winning team is PAPER REX.
+The current score is Talon Esports 2 - 8 PAPER REX.
+something killed Primmie  in round 11
+mindfreak killed JitBoyS  in round 11
+Jinggg killed ban  in round 11
+Governor killed Jinggg  in round 11
+Crws killed something  in round 11
+f0rsakeN killed Crws  in round 11
+f0rsakeN killed Governor  in round 11
+Round 11 ended with elimination. The winning team is PAPER REX.
+The current score is Talon Esports 2 - 9 PAPER REX.
+f0rsakeN killed Crws  in round 12
+JitBoyS killed something  in round 12
+Jinggg killed JitBoyS  in round 12
+mindfreak killed Governor  in round 12
+Primmie killed f0rsakeN  in round 12
+d4v41 killed Primmie  in round 12
+ban killed Jinggg  in round 12
+ban killed d4v41  in round 12
+mindfreak killed ban  in round 12
+Round 12 ended with spike_defuse. The winning team is PAPER REX.
+The current score is Talon Esports 2 - 10 PAPER REX.
+something killed ban  in round 13
+mindfreak killed Primmie  in round 13
+Crws killed d4v41  in round 13
+f0rsakeN killed Crws  in round 13
+something killed Governor  in round 13
+f0rsakeN killed JitBoyS  in round 13
+Round 13 ended with elimination. The winning team is PAPER REX.
+The current score is Talon Esports 2 - 11 PAPER REX.
+Jinggg killed Governor  in round 14
+ban killed f0rsakeN  in round 14
+something killed Primmie  in round 14
+Jinggg killed Crws  in round 14
+JitBoyS killed Jinggg  in round 14
+d4v41 killed ban  in round 14
+d4v41 killed JitBoyS  in round 14
+Round 14 ended with elimination. The winning team is PAPER REX.
+The current score is Talon Esports 2 - 12 PAPER REX.
+d4v41 killed d4v41  in round 15
+Primmie killed Jinggg  in round 15
+JitBoyS killed something  in round 15
+f0rsakeN killed Primmie  in round 15
+JitBoyS killed d4v41  in round 15
+Governor killed f0rsakeN  in round 15
+Crws killed mindfreak  in round 15
+Round 15 ended with spike_defuse. The winning team is Talon Esports.
+The current score is Talon Esports 3 - 12 PAPER REX.
+Primmie killed d4v41  in round 16
+f0rsakeN killed Crws  in round 16
+something killed Governor  in round 16
+Primmie killed something  in round 16
+f0rsakeN killed Primmie  in round 16
+Jinggg killed JitBoyS  in round 16
+mindfreak killed ban  in round 16
+Round 16 ended with elimination. The winning team is PAPER REX.
+The current score is Talon Esports 3 - 13 PAPER REX.
+Game ended with winning team: PAPER REX at 2024-07-14T11:48:58Z
+
+--- Player Stats ---
+mindfreak: Team=PAPER REX, Kills=10, Deaths=4, Assists=4, KDA=3.5, First Kills=1, First Deaths=1
+something: Team=PAPER REX, Kills=19, Deaths=7, Assists=3, KDA=3.14, First Kills=5, First Deaths=1
+d4v41: Team=PAPER REX, Kills=12, Deaths=9, Assists=5, KDA=1.89, First Kills=2, First Deaths=3
+f0rsakeN: Team=PAPER REX, Kills=19, Deaths=9, Assists=8, KDA=3.0, First Kills=1, First Deaths=0
+Jinggg: Team=PAPER REX, Kills=13, Deaths=9, Assists=5, KDA=2.0, First Kills=2, First Deaths=1
+Governor: Team=Talon Esports, Kills=6, Deaths=14, Assists=1, KDA=0.5, First Kills=0, First Deaths=2
+ban: Team=Talon Esports, Kills=4, Deaths=14, Assists=3, KDA=0.5, First Kills=1, First Deaths=2
+Crws: Team=Talon Esports, Kills=7, Deaths=14, Assists=2, KDA=0.64, First Kills=1, First Deaths=2
+Primmie: Team=Talon Esports, Kills=11, Deaths=15, Assists=0, KDA=0.73, First Kills=3, First Deaths=3
+JitBoyS: Team=Talon Esports, Kills=9, Deaths=15, Assists=1, KDA=0.67, First Kills=0, First Deaths=1

@@ -1,0 +1,237 @@
+Team 1: FNATIC
+Team 2: Karmine Corp
+Participating Players:
+Player 1: XMS
+Player 2: ScreaM
+Player 3: ZE1SH
+Player 4: Nivera
+Player 5: sh1n
+Player 6: Chronicle
+Player 7: Derke
+Player 8: Boaster
+Player 9: Alfajer
+Player 10: Leo 
+Winning Team: FNATIC
+Score: FNATIC 13 - 10 Karmine Corp
+Tournament Name: vct emea 2023
+Game Start Time: 2023-05-11T20:06:58Z
+Game End Time: 2023-05-11T21:12:17Z
+Rounds ended by ELIMINATION count: 10
+Rounds ended by DEFUSE count: 7
+Rounds ended by DETONATE count: 5
+SPIKE PLANTED count: 12
+platformGameId: val:746e6491-432c-41b1-b06c-f258727a4d78
+
+--- Events ---
+Game started at 2023-05-11T20:06:58Z
+Nivera killed Derke  in round 1
+Boaster killed Nivera  in round 1
+Chronicle killed sh1n  in round 1
+ZE1SH killed Leo   in round 1
+Chronicle killed ScreaM  in round 1
+Chronicle killed XMS  in round 1
+ZE1SH killed Boaster  in round 1
+ZE1SH killed Chronicle  in round 1
+Alfajer killed ZE1SH  in round 1
+Round 1 ended with elimination. The winning team is FNATIC.
+The current score is FNATIC 1 - 0 Karmine Corp.
+Alfajer killed Alfajer  in round 2
+Alfajer killed sh1n  in round 2
+XMS killed Derke  in round 2
+Chronicle killed XMS  in round 2
+Chronicle killed ZE1SH  in round 2
+ScreaM killed Boaster  in round 2
+Chronicle killed ScreaM  in round 2
+Chronicle killed Nivera  in round 2
+Round 2 ended with elimination. The winning team is FNATIC.
+The current score is FNATIC 2 - 0 Karmine Corp.
+ZE1SH killed Chronicle  in round 3
+Derke killed ZE1SH  in round 3
+ScreaM killed Derke  in round 3
+ScreaM killed Leo   in round 3
+sh1n killed Boaster  in round 3
+Alfajer killed sh1n  in round 3
+ScreaM killed Alfajer  in round 3
+Round 3 ended with elimination. The winning team is Karmine Corp.
+The current score is FNATIC 2 - 1 Karmine Corp.
+Chronicle killed ScreaM  in round 4
+XMS killed Boaster  in round 4
+XMS killed Leo   in round 4
+Derke killed ZE1SH  in round 4
+XMS killed Derke  in round 4
+Chronicle killed Nivera  in round 4
+sh1n killed Alfajer  in round 4
+Chronicle killed XMS  in round 4
+sh1n killed Chronicle  in round 4
+Round 4 ended with spike_defuse. The winning team is Karmine Corp.
+The current score is FNATIC 2 - 2 Karmine Corp.
+Nivera killed Alfajer  in round 5
+Derke killed ScreaM  in round 5
+ZE1SH killed Derke  in round 5
+ZE1SH killed Boaster  in round 5
+Chronicle killed sh1n  in round 5
+Leo  killed ZE1SH  in round 5
+Nivera killed Chronicle  in round 5
+Leo  killed XMS  in round 5
+Nivera killed Leo   in round 5
+Round 5 ended with spike_defuse. The winning team is Karmine Corp.
+The current score is FNATIC 2 - 3 Karmine Corp.
+Derke killed Nivera  in round 6
+Derke killed ZE1SH  in round 6
+Chronicle killed sh1n  in round 6
+XMS killed Chronicle  in round 6
+Round 6 ended with detonate. The winning team is FNATIC.
+The current score is FNATIC 3 - 3 Karmine Corp.
+XMS killed Leo   in round 7
+Derke killed XMS  in round 7
+Derke killed ZE1SH  in round 7
+Round 7 ended with detonate. The winning team is FNATIC.
+The current score is FNATIC 4 - 3 Karmine Corp.
+Nivera killed Nivera  in round 8
+Boaster killed ZE1SH  in round 8
+Boaster killed sh1n  in round 8
+Leo  killed ScreaM  in round 8
+XMS killed Boaster  in round 8
+Round 8 ended with detonate. The winning team is FNATIC.
+The current score is FNATIC 5 - 3 Karmine Corp.
+Nivera killed Chronicle  in round 9
+ZE1SH killed Derke  in round 9
+Boaster killed sh1n  in round 9
+Leo  killed ZE1SH  in round 9
+Alfajer killed XMS  in round 9
+ScreaM killed Alfajer  in round 9
+ScreaM killed Leo   in round 9
+Nivera killed Boaster  in round 9
+Round 9 ended with spike_defuse. The winning team is Karmine Corp.
+The current score is FNATIC 5 - 4 Karmine Corp.
+XMS killed Boaster  in round 10
+Derke killed XMS  in round 10
+Derke killed ZE1SH  in round 10
+Round 10 ended with detonate. The winning team is FNATIC.
+The current score is FNATIC 6 - 4 Karmine Corp.
+Chronicle killed Nivera  in round 11
+ScreaM killed Derke  in round 11
+ScreaM killed Leo   in round 11
+ScreaM killed Chronicle  in round 11
+ScreaM killed Alfajer  in round 11
+Round 11 ended with time_expired. The winning team is Karmine Corp.
+The current score is FNATIC 6 - 5 Karmine Corp.
+Nivera killed Derke  in round 12
+ScreaM killed Alfajer  in round 12
+Boaster killed XMS  in round 12
+ZE1SH killed Boaster  in round 12
+ScreaM killed Leo   in round 12
+Chronicle killed ZE1SH  in round 12
+Chronicle killed Nivera  in round 12
+ScreaM killed Chronicle  in round 12
+Round 12 ended with elimination. The winning team is Karmine Corp.
+The current score is FNATIC 6 - 6 Karmine Corp.
+ScreaM killed Chronicle  in round 13
+ZE1SH killed Alfajer  in round 13
+ScreaM killed Boaster  in round 13
+Leo  killed sh1n  in round 13
+XMS killed Derke  in round 13
+XMS killed Leo   in round 13
+Round 13 ended with elimination. The winning team is Karmine Corp.
+The current score is FNATIC 6 - 7 Karmine Corp.
+sh1n killed Derke  in round 14
+Leo  killed XMS  in round 14
+sh1n killed Leo   in round 14
+sh1n killed Alfajer  in round 14
+ZE1SH killed Boaster  in round 14
+ScreaM killed Chronicle  in round 14
+Round 14 ended with elimination. The winning team is Karmine Corp.
+The current score is FNATIC 6 - 8 Karmine Corp.
+Chronicle killed ZE1SH  in round 15
+Boaster killed sh1n  in round 15
+ScreaM killed Alfajer  in round 15
+Chronicle killed ScreaM  in round 15
+Derke killed Nivera  in round 15
+XMS killed Derke  in round 15
+Round 15 ended with spike_defuse. The winning team is FNATIC.
+The current score is FNATIC 7 - 8 Karmine Corp.
+Nivera killed Derke  in round 16
+XMS killed Boaster  in round 16
+Nivera killed Chronicle  in round 16
+sh1n killed Alfajer  in round 16
+Round 16 ended with detonate. The winning team is Karmine Corp.
+The current score is FNATIC 7 - 9 Karmine Corp.
+Alfajer killed Nivera  in round 17
+Leo  killed ScreaM  in round 17
+Boaster killed ZE1SH  in round 17
+Alfajer killed sh1n  in round 17
+Chronicle killed XMS  in round 17
+Round 17 ended with elimination. The winning team is FNATIC.
+The current score is FNATIC 8 - 9 Karmine Corp.
+Derke killed ScreaM  in round 18
+ZE1SH killed Chronicle  in round 18
+Alfajer killed ZE1SH  in round 18
+Nivera killed Derke  in round 18
+Alfajer killed sh1n  in round 18
+Boaster killed Nivera  in round 18
+Leo  killed XMS  in round 18
+Round 18 ended with spike_defuse. The winning team is FNATIC.
+The current score is FNATIC 9 - 9 Karmine Corp.
+Chronicle killed XMS  in round 19
+Chronicle killed ZE1SH  in round 19
+Nivera killed Chronicle  in round 19
+ScreaM killed Alfajer  in round 19
+Leo  killed Nivera  in round 19
+Leo  killed sh1n  in round 19
+ScreaM killed Derke  in round 19
+Boaster killed ScreaM  in round 19
+Round 19 ended with spike_defuse. The winning team is FNATIC.
+The current score is FNATIC 10 - 9 Karmine Corp.
+Nivera killed Leo   in round 20
+Boaster killed Nivera  in round 20
+ScreaM killed Derke  in round 20
+Alfajer killed ScreaM  in round 20
+ZE1SH killed Chronicle  in round 20
+XMS killed Alfajer  in round 20
+Boaster killed XMS  in round 20
+Boaster killed sh1n  in round 20
+Boaster killed ZE1SH  in round 20
+Round 20 ended with spike_defuse. The winning team is FNATIC.
+The current score is FNATIC 11 - 9 Karmine Corp.
+Derke killed ZE1SH  in round 21
+Derke killed Nivera  in round 21
+Derke killed XMS  in round 21
+ScreaM killed Derke  in round 21
+Leo  killed ScreaM  in round 21
+Chronicle killed sh1n  in round 21
+Round 21 ended with elimination. The winning team is FNATIC.
+The current score is FNATIC 12 - 9 Karmine Corp.
+Derke killed ZE1SH  in round 22
+Derke killed ScreaM  in round 22
+Nivera killed Derke  in round 22
+Chronicle killed XMS  in round 22
+sh1n killed Leo   in round 22
+Nivera killed Boaster  in round 22
+sh1n killed Chronicle  in round 22
+sh1n killed Alfajer  in round 22
+Round 22 ended with elimination. The winning team is Karmine Corp.
+The current score is FNATIC 12 - 10 Karmine Corp.
+Alfajer killed ScreaM  in round 23
+Derke killed Nivera  in round 23
+ZE1SH killed Alfajer  in round 23
+Chronicle killed sh1n  in round 23
+XMS killed Boaster  in round 23
+XMS killed Derke  in round 23
+Chronicle killed XMS  in round 23
+ZE1SH killed Chronicle  in round 23
+Leo  killed ZE1SH  in round 23
+Round 23 ended with elimination. The winning team is FNATIC.
+The current score is FNATIC 13 - 10 Karmine Corp.
+Game ended with winning team: FNATIC at 2023-05-11T21:12:17Z
+
+--- Player Stats ---
+XMS: Team=Karmine Corp, Kills=15, Deaths=16, Assists=2, KDA=1.06, First Kills=2, First Deaths=1
+ScreaM: Team=Karmine Corp, Kills=21, Deaths=13, Assists=5, KDA=2.0, First Kills=1, First Deaths=3
+ZE1SH: Team=Karmine Corp, Kills=14, Deaths=19, Assists=1, KDA=0.79, First Kills=1, First Deaths=3
+Nivera: Team=Karmine Corp, Kills=15, Deaths=14, Assists=4, KDA=1.36, First Kills=7, First Deaths=4
+sh1n: Team=Karmine Corp, Kills=10, Deaths=15, Assists=6, KDA=1.07, First Kills=1, First Deaths=0
+Chronicle: Team=FNATIC, Kills=24, Deaths=16, Assists=7, KDA=1.94, First Kills=4, First Deaths=3
+Derke: Team=FNATIC, Kills=17, Deaths=18, Assists=4, KDA=1.17, First Kills=4, First Deaths=4
+Boaster: Team=FNATIC, Kills=13, Deaths=14, Assists=11, KDA=1.71, First Kills=0, First Deaths=1
+Alfajer: Team=FNATIC, Kills=11, Deaths=15, Assists=7, KDA=1.2, First Kills=3, First Deaths=2
+Leo : Team=FNATIC, Kills=12, Deaths=12, Assists=9, KDA=1.75, First Kills=0, First Deaths=2

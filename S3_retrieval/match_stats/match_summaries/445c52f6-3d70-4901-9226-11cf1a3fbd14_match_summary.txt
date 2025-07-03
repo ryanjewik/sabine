@@ -1,0 +1,177 @@
+Team 1: Team Heretics
+Team 2: FNATIC
+Participating Players:
+Player 1: Chronicle
+Player 2: Derke
+Player 3: Boaster
+Player 4: Alfajer
+Player 5: Leo 
+Player 6: Boo
+Player 7: m1xwell
+Player 8: zeek
+Player 9: AvovA
+Player 10: keloqz
+Winning Team: FNATIC
+Score: Team Heretics 3 - 13 FNATIC
+Tournament Name: vct emea 2023
+Game Start Time: 2023-04-06T18:49:02Z
+Game End Time: 2023-04-06T19:42:26Z
+Rounds ended by ELIMINATION count: 11
+Rounds ended by DEFUSE count: 4
+Rounds ended by DETONATE count: 1
+SPIKE PLANTED count: 5
+platformGameId: val:445c52f6-3d70-4901-9226-11cf1a3fbd14
+
+--- Events ---
+Game started at 2023-04-06T18:49:02Z
+Boaster killed AvovA  in round 1
+m1xwell killed Alfajer  in round 1
+keloqz killed Boaster  in round 1
+Derke killed m1xwell  in round 1
+Derke killed keloqz  in round 1
+Leo  killed zeek  in round 1
+Derke killed Boo  in round 1
+Round 1 ended with spike_defuse. The winning team is FNATIC.
+The current score is Team Heretics 0 - 1 FNATIC.
+Derke killed AvovA  in round 2
+Leo  killed m1xwell  in round 2
+Boo killed Derke  in round 2
+Boaster killed zeek  in round 2
+Boaster killed Boo  in round 2
+Alfajer killed keloqz  in round 2
+Round 2 ended with spike_defuse. The winning team is FNATIC.
+The current score is Team Heretics 0 - 2 FNATIC.
+Derke killed keloqz  in round 3
+Boaster killed m1xwell  in round 3
+zeek killed Chronicle  in round 3
+zeek killed Alfajer  in round 3
+zeek killed Leo   in round 3
+Boaster killed zeek  in round 3
+AvovA killed Boaster  in round 3
+Boo killed Derke  in round 3
+Round 3 ended with elimination. The winning team is Team Heretics.
+The current score is Team Heretics 1 - 2 FNATIC.
+Boaster killed keloqz  in round 4
+m1xwell killed Chronicle  in round 4
+Boaster killed m1xwell  in round 4
+Boo killed Derke  in round 4
+zeek killed Boaster  in round 4
+Round 4 ended with detonate. The winning team is Team Heretics.
+The current score is Team Heretics 2 - 2 FNATIC.
+Leo  killed keloqz  in round 5
+AvovA killed Leo   in round 5
+Boaster killed m1xwell  in round 5
+Derke killed zeek  in round 5
+AvovA killed Boaster  in round 5
+Derke killed Boo  in round 5
+Chronicle killed AvovA  in round 5
+Round 5 ended with elimination. The winning team is FNATIC.
+The current score is Team Heretics 2 - 3 FNATIC.
+Derke killed AvovA  in round 6
+Leo  killed m1xwell  in round 6
+Boo killed Chronicle  in round 6
+Leo  killed Boo  in round 6
+Boaster killed keloqz  in round 6
+Derke killed zeek  in round 6
+Round 6 ended with elimination. The winning team is FNATIC.
+The current score is Team Heretics 2 - 4 FNATIC.
+Boo killed Derke  in round 7
+Chronicle killed zeek  in round 7
+Leo  killed keloqz  in round 7
+Chronicle killed m1xwell  in round 7
+AvovA killed Chronicle  in round 7
+Leo  killed Boo  in round 7
+Leo  killed AvovA  in round 7
+Round 7 ended with elimination. The winning team is FNATIC.
+The current score is Team Heretics 2 - 5 FNATIC.
+Boo killed Leo   in round 8
+Boaster killed m1xwell  in round 8
+Boo killed Chronicle  in round 8
+Alfajer killed Boo  in round 8
+Derke killed zeek  in round 8
+Boaster killed keloqz  in round 8
+AvovA killed Derke  in round 8
+Boaster killed AvovA  in round 8
+Round 8 ended with spike_defuse. The winning team is FNATIC.
+The current score is Team Heretics 2 - 6 FNATIC.
+Derke killed zeek  in round 9
+Boo killed Derke  in round 9
+Alfajer killed m1xwell  in round 9
+Chronicle killed keloqz  in round 9
+Derke killed Boo  in round 9
+AvovA killed Derke  in round 9
+Boaster killed AvovA  in round 9
+Round 9 ended with elimination. The winning team is FNATIC.
+The current score is Team Heretics 2 - 7 FNATIC.
+Boo killed Boaster  in round 10
+Leo  killed AvovA  in round 10
+keloqz killed Derke  in round 10
+m1xwell killed Chronicle  in round 10
+keloqz killed Leo   in round 10
+zeek killed Alfajer  in round 10
+Round 10 ended with elimination. The winning team is Team Heretics.
+The current score is Team Heretics 3 - 7 FNATIC.
+Derke killed keloqz  in round 11
+Derke killed Boo  in round 11
+m1xwell killed Alfajer  in round 11
+Derke killed m1xwell  in round 11
+zeek killed Boaster  in round 11
+zeek killed Derke  in round 11
+Chronicle killed zeek  in round 11
+Leo  killed AvovA  in round 11
+Round 11 ended with spike_defuse. The winning team is FNATIC.
+The current score is Team Heretics 3 - 8 FNATIC.
+Derke killed Boo  in round 12
+Chronicle killed keloqz  in round 12
+Chronicle killed zeek  in round 12
+m1xwell killed Chronicle  in round 12
+Derke killed m1xwell  in round 12
+AvovA killed Derke  in round 12
+Alfajer killed AvovA  in round 12
+Round 12 ended with elimination. The winning team is FNATIC.
+The current score is Team Heretics 3 - 9 FNATIC.
+Derke killed m1xwell  in round 13
+keloqz killed Derke  in round 13
+Alfajer killed zeek  in round 13
+Boo killed Alfajer  in round 13
+Boo killed Boaster  in round 13
+Leo  killed Boo  in round 13
+Leo  killed keloqz  in round 13
+Leo  killed AvovA  in round 13
+Round 13 ended with elimination. The winning team is FNATIC.
+The current score is Team Heretics 3 - 10 FNATIC.
+Derke killed AvovA  in round 14
+Derke killed keloqz  in round 14
+Chronicle killed m1xwell  in round 14
+Chronicle killed zeek  in round 14
+Derke killed Boo  in round 14
+Round 14 ended with elimination. The winning team is FNATIC.
+The current score is Team Heretics 3 - 11 FNATIC.
+Derke killed AvovA  in round 15
+Chronicle killed zeek  in round 15
+Derke killed m1xwell  in round 15
+keloqz killed Alfajer  in round 15
+Chronicle killed keloqz  in round 15
+Boaster killed Boo  in round 15
+Round 15 ended with elimination. The winning team is FNATIC.
+The current score is Team Heretics 3 - 12 FNATIC.
+Leo  killed keloqz  in round 16
+Derke killed zeek  in round 16
+Alfajer killed Boo  in round 16
+Derke killed m1xwell  in round 16
+Chronicle killed AvovA  in round 16
+Round 16 ended with elimination. The winning team is FNATIC.
+The current score is Team Heretics 3 - 13 FNATIC.
+Game ended with winning team: FNATIC at 2023-04-06T19:42:26Z
+
+--- Player Stats ---
+Chronicle: Team=FNATIC, Kills=12, Deaths=7, Assists=8, KDA=2.86, First Kills=0, First Deaths=0
+Derke: Team=FNATIC, Kills=25, Deaths=11, Assists=2, KDA=2.45, First Kills=9, First Deaths=1
+Boaster: Team=FNATIC, Kills=14, Deaths=7, Assists=6, KDA=2.86, First Kills=2, First Deaths=1
+Alfajer: Team=FNATIC, Kills=6, Deaths=6, Assists=4, KDA=1.67, First Kills=0, First Deaths=0
+Leo : Team=FNATIC, Kills=14, Deaths=4, Assists=7, KDA=5.25, First Kills=2, First Deaths=1
+Boo: Team=Team Heretics, Kills=11, Deaths=13, Assists=1, KDA=0.92, First Kills=3, First Deaths=1
+m1xwell: Team=Team Heretics, Kills=5, Deaths=15, Assists=4, KDA=0.6, First Kills=0, First Deaths=1
+zeek: Team=Team Heretics, Kills=7, Deaths=14, Assists=3, KDA=0.71, First Kills=0, First Deaths=1
+AvovA: Team=Team Heretics, Kills=7, Deaths=14, Assists=3, KDA=0.71, First Kills=0, First Deaths=5
+keloqz: Team=Team Heretics, Kills=5, Deaths=15, Assists=4, KDA=0.6, First Kills=0, First Deaths=5

@@ -1,0 +1,198 @@
+Team 1: Karmine Corp
+Team 2: Team Vitality
+Participating Players:
+Player 1: Kicks
+Player 2: runneR
+Player 3: ceNder
+Player 4: Sayf
+Player 5: Trexx
+Player 6: Shin 
+Player 7: Tomaszy
+Player 8: MAGNUM
+Player 9: marteen
+Player 10: N4RRATE
+Winning Team: Team Vitality
+Score: Karmine Corp 4 - 13 Team Vitality
+Tournament Name: vct emea stage 2 2024
+Game Start Time: 2024-07-11T19:03:37Z
+Game End Time: 2024-07-11T19:44:50Z
+Rounds ended by ELIMINATION count: 10
+Rounds ended by DEFUSE count: 6
+Rounds ended by DETONATE count: 1
+SPIKE PLANTED count: 7
+platformGameId: val:42f6516e-c7f9-4613-a1ac-826024842e07
+
+--- Events ---
+Game started at 2024-07-11T19:03:37Z
+N4RRATE killed ceNder  in round 1
+Trexx killed Tomaszy  in round 1
+Kicks killed N4RRATE  in round 1
+marteen killed Sayf  in round 1
+marteen killed Trexx  in round 1
+runneR killed MAGNUM  in round 1
+Shin  killed runneR  in round 1
+Kicks killed marteen  in round 1
+Kicks killed Shin   in round 1
+Round 1 ended with spike_defuse. The winning team is Team Vitality.
+The current score is Karmine Corp 0 - 1 Team Vitality.
+ceNder killed Shin   in round 2
+ceNder killed Tomaszy  in round 2
+ceNder killed marteen  in round 2
+MAGNUM killed ceNder  in round 2
+Trexx killed MAGNUM  in round 2
+N4RRATE killed Trexx  in round 2
+Sayf killed N4RRATE  in round 2
+Round 2 ended with spike_defuse. The winning team is Team Vitality.
+The current score is Karmine Corp 0 - 2 Team Vitality.
+N4RRATE killed Trexx  in round 3
+MAGNUM killed ceNder  in round 3
+Sayf killed Tomaszy  in round 3
+MAGNUM killed Sayf  in round 3
+Kicks killed MAGNUM  in round 3
+marteen killed runneR  in round 3
+Shin  killed Kicks  in round 3
+Round 3 ended with elimination. The winning team is Karmine Corp.
+The current score is Karmine Corp 1 - 2 Team Vitality.
+Sayf killed MAGNUM  in round 4
+Tomaszy killed Trexx  in round 4
+Kicks killed Tomaszy  in round 4
+N4RRATE killed runneR  in round 4
+marteen killed Kicks  in round 4
+ceNder killed Shin   in round 4
+Sayf killed marteen  in round 4
+N4RRATE killed Sayf  in round 4
+N4RRATE killed ceNder  in round 4
+Round 4 ended with elimination. The winning team is Karmine Corp.
+The current score is Karmine Corp 2 - 2 Team Vitality.
+N4RRATE killed ceNder  in round 5
+N4RRATE killed Sayf  in round 5
+N4RRATE killed Kicks  in round 5
+Tomaszy killed Trexx  in round 5
+N4RRATE killed runneR  in round 5
+Round 5 ended with elimination. The winning team is Karmine Corp.
+The current score is Karmine Corp 3 - 2 Team Vitality.
+runneR killed Shin   in round 6
+runneR killed MAGNUM  in round 6
+runneR killed marteen  in round 6
+runneR killed Tomaszy  in round 6
+N4RRATE killed runneR  in round 6
+N4RRATE killed Kicks  in round 6
+Sayf killed N4RRATE  in round 6
+Round 6 ended with elimination. The winning team is Team Vitality.
+The current score is Karmine Corp 3 - 3 Team Vitality.
+Tomaszy killed Kicks  in round 7
+runneR killed Tomaszy  in round 7
+Trexx killed N4RRATE  in round 7
+Shin  killed ceNder  in round 7
+Sayf killed marteen  in round 7
+Trexx killed Shin   in round 7
+runneR killed MAGNUM  in round 7
+Round 7 ended with spike_defuse. The winning team is Team Vitality.
+The current score is Karmine Corp 3 - 4 Team Vitality.
+Tomaszy killed Trexx  in round 8
+Tomaszy killed Sayf  in round 8
+Tomaszy killed ceNder  in round 8
+Kicks killed Tomaszy  in round 8
+runneR killed marteen  in round 8
+runneR killed Shin   in round 8
+runneR killed N4RRATE  in round 8
+MAGNUM killed runneR  in round 8
+Kicks killed MAGNUM  in round 8
+Round 8 ended with spike_defuse. The winning team is Team Vitality.
+The current score is Karmine Corp 3 - 5 Team Vitality.
+Kicks killed MAGNUM  in round 9
+Kicks killed marteen  in round 9
+Trexx killed Tomaszy  in round 9
+Shin  killed Kicks  in round 9
+N4RRATE killed ceNder  in round 9
+runneR killed N4RRATE  in round 9
+runneR killed Shin   in round 9
+Round 9 ended with spike_defuse. The winning team is Team Vitality.
+The current score is Karmine Corp 3 - 6 Team Vitality.
+ceNder killed Shin   in round 10
+Trexx killed N4RRATE  in round 10
+ceNder killed Tomaszy  in round 10
+MAGNUM killed ceNder  in round 10
+marteen killed runneR  in round 10
+marteen killed Kicks  in round 10
+Trexx killed marteen  in round 10
+Trexx killed MAGNUM  in round 10
+Round 10 ended with spike_defuse. The winning team is Team Vitality.
+The current score is Karmine Corp 3 - 7 Team Vitality.
+Kicks killed Tomaszy  in round 11
+Trexx killed MAGNUM  in round 11
+Trexx killed marteen  in round 11
+Shin  killed Trexx  in round 11
+Kicks killed Shin   in round 11
+Kicks killed N4RRATE  in round 11
+Round 11 ended with elimination. The winning team is Team Vitality.
+The current score is Karmine Corp 3 - 8 Team Vitality.
+ceNder killed Tomaszy  in round 12
+Kicks killed N4RRATE  in round 12
+MAGNUM killed ceNder  in round 12
+marteen killed Trexx  in round 12
+Kicks killed marteen  in round 12
+Shin  killed Kicks  in round 12
+Shin  killed Sayf  in round 12
+runneR killed Shin   in round 12
+runneR killed MAGNUM  in round 12
+Round 12 ended with elimination. The winning team is Team Vitality.
+The current score is Karmine Corp 3 - 9 Team Vitality.
+Kicks killed Tomaszy  in round 13
+Kicks killed N4RRATE  in round 13
+Shin  killed Kicks  in round 13
+Shin  killed ceNder  in round 13
+Sayf killed Shin   in round 13
+marteen killed Sayf  in round 13
+runneR killed marteen  in round 13
+MAGNUM killed runneR  in round 13
+Trexx killed MAGNUM  in round 13
+Round 13 ended with elimination. The winning team is Team Vitality.
+The current score is Karmine Corp 3 - 10 Team Vitality.
+Sayf killed MAGNUM  in round 14
+Shin  killed Kicks  in round 14
+Trexx killed Shin   in round 14
+Sayf killed N4RRATE  in round 14
+Round 14 ended with detonate. The winning team is Team Vitality.
+The current score is Karmine Corp 3 - 11 Team Vitality.
+Tomaszy killed Tomaszy  in round 15
+marteen killed marteen  in round 15
+Sayf killed marteen  in round 15
+Sayf killed Tomaszy  in round 15
+Sayf killed MAGNUM  in round 15
+N4RRATE killed Kicks  in round 15
+Sayf killed N4RRATE  in round 15
+Sayf killed Shin   in round 15
+Round 15 ended with elimination. The winning team is Team Vitality.
+The current score is Karmine Corp 3 - 12 Team Vitality.
+Shin  killed ceNder  in round 16
+Tomaszy killed Kicks  in round 16
+runneR killed Shin   in round 16
+runneR killed N4RRATE  in round 16
+marteen killed Sayf  in round 16
+Trexx killed marteen  in round 16
+MAGNUM killed runneR  in round 16
+Tomaszy killed Trexx  in round 16
+Round 16 ended with elimination. The winning team is Karmine Corp.
+The current score is Karmine Corp 4 - 12 Team Vitality.
+ceNder killed Shin   in round 17
+runneR killed Tomaszy  in round 17
+Sayf killed MAGNUM  in round 17
+Kicks killed N4RRATE  in round 17
+marteen killed Sayf  in round 17
+ceNder killed marteen  in round 17
+Round 17 ended with elimination. The winning team is Team Vitality.
+The current score is Karmine Corp 4 - 13 Team Vitality.
+Game ended with winning team: Team Vitality at 2024-07-11T19:44:50Z
+
+--- Player Stats ---
+Kicks: Team=Team Vitality, Kills=17, Deaths=12, Assists=7, KDA=2.0, First Kills=3, First Deaths=1
+runneR: Team=Team Vitality, Kills=18, Deaths=9, Assists=3, KDA=2.33, First Kills=1, First Deaths=0
+ceNder: Team=Team Vitality, Kills=9, Deaths=12, Assists=4, KDA=1.08, First Kills=4, First Deaths=3
+Sayf: Team=Team Vitality, Kills=15, Deaths=9, Assists=2, KDA=1.89, First Kills=2, First Deaths=0
+Trexx: Team=Team Vitality, Kills=13, Deaths=9, Assists=14, KDA=3.0, First Kills=0, First Deaths=2
+Shin : Team=Karmine Corp, Kills=11, Deaths=15, Assists=4, KDA=1.0, First Kills=1, First Deaths=4
+Tomaszy: Team=Karmine Corp, Kills=9, Deaths=15, Assists=2, KDA=0.73, First Kills=3, First Deaths=4
+MAGNUM: Team=Karmine Corp, Kills=8, Deaths=15, Assists=8, KDA=1.07, First Kills=0, First Deaths=3
+marteen: Team=Karmine Corp, Kills=11, Deaths=15, Assists=3, KDA=0.93, First Kills=0, First Deaths=0
+N4RRATE: Team=Karmine Corp, Kills=14, Deaths=14, Assists=8, KDA=1.57, First Kills=3, First Deaths=0

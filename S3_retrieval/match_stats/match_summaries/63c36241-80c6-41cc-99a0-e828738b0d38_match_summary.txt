@@ -1,0 +1,241 @@
+Team 1: NRG
+Team 2: Leviatán Esports
+Participating Players:
+Player 1: Mazino
+Player 2: Shyy
+Player 3: kiNgg
+Player 4: Nozwerr
+Player 5: Tacolilla
+Player 6: crashies
+Player 7: Victor
+Player 8: FNS
+Player 9: s0m
+Player 10: ardiis
+Winning Team: Leviatán Esports
+Score: NRG 11 - 13 Leviatán Esports
+Tournament Name: vct americas 2023
+Game Start Time: 2023-04-03T18:58:52Z
+Game End Time: 2023-04-03T20:06:44Z
+Rounds ended by ELIMINATION count: 8
+Rounds ended by DEFUSE count: 8
+Rounds ended by DETONATE count: 6
+SPIKE PLANTED count: 14
+platformGameId: val:63c36241-80c6-41cc-99a0-e828738b0d38
+
+--- Events ---
+Game started at 2023-04-03T18:58:52Z
+Mazino killed crashies  in round 1
+Mazino killed ardiis  in round 1
+FNS killed Mazino  in round 1
+FNS killed Tacolilla  in round 1
+FNS killed kiNgg  in round 1
+s0m killed Shyy  in round 1
+Victor killed Nozwerr  in round 1
+Round 1 ended with elimination. The winning team is NRG.
+The current score is NRG 1 - 0 Leviatán Esports.
+s0m killed Shyy  in round 2
+s0m killed kiNgg  in round 2
+Mazino killed s0m  in round 2
+crashies killed Mazino  in round 2
+Nozwerr killed crashies  in round 2
+Victor killed Nozwerr  in round 2
+Tacolilla killed FNS  in round 2
+Round 2 ended with detonate. The winning team is NRG.
+The current score is NRG 2 - 0 Leviatán Esports.
+Tacolilla killed Tacolilla  in round 3
+Tacolilla killed FNS  in round 3
+Shyy killed ardiis  in round 3
+s0m killed Tacolilla  in round 3
+Mazino killed crashies  in round 3
+kiNgg killed Victor  in round 3
+Nozwerr killed s0m  in round 3
+Round 3 ended with spike_defuse. The winning team is Leviatán Esports.
+The current score is NRG 2 - 1 Leviatán Esports.
+ardiis killed kiNgg  in round 4
+Victor killed Mazino  in round 4
+Nozwerr killed FNS  in round 4
+Shyy killed s0m  in round 4
+Victor killed Shyy  in round 4
+Victor killed Nozwerr  in round 4
+ardiis killed Tacolilla  in round 4
+Round 4 ended with elimination. The winning team is NRG.
+The current score is NRG 3 - 1 Leviatán Esports.
+Shyy killed crashies  in round 5
+Mazino killed Victor  in round 5
+FNS killed Nozwerr  in round 5
+Shyy killed ardiis  in round 5
+s0m killed kiNgg  in round 5
+Mazino killed s0m  in round 5
+FNS killed Mazino  in round 5
+FNS killed Tacolilla  in round 5
+FNS killed Shyy  in round 5
+Round 5 ended with elimination. The winning team is NRG.
+The current score is NRG 4 - 1 Leviatán Esports.
+kiNgg killed s0m  in round 6
+Nozwerr killed FNS  in round 6
+crashies killed Shyy  in round 6
+Round 6 ended with spike_defuse. The winning team is Leviatán Esports.
+The current score is NRG 4 - 2 Leviatán Esports.
+Victor killed Nozwerr  in round 7
+kiNgg killed Victor  in round 7
+Tacolilla killed s0m  in round 7
+ardiis killed Tacolilla  in round 7
+Nozwerr killed crashies  in round 7
+ardiis killed Nozwerr  in round 7
+FNS killed Mazino  in round 7
+kiNgg killed FNS  in round 7
+ardiis killed Shyy  in round 7
+Round 7 ended with detonate. The winning team is NRG.
+The current score is NRG 5 - 2 Leviatán Esports.
+Mazino killed s0m  in round 8
+Mazino killed crashies  in round 8
+Mazino killed ardiis  in round 8
+Round 8 ended with time_expired. The winning team is Leviatán Esports.
+The current score is NRG 5 - 3 Leviatán Esports.
+kiNgg killed crashies  in round 9
+ardiis killed Nozwerr  in round 9
+s0m killed Tacolilla  in round 9
+Shyy killed ardiis  in round 9
+s0m killed kiNgg  in round 9
+s0m killed Mazino  in round 9
+Round 9 ended with detonate. The winning team is NRG.
+The current score is NRG 6 - 3 Leviatán Esports.
+ardiis killed kiNgg  in round 10
+Nozwerr killed ardiis  in round 10
+Mazino killed crashies  in round 10
+s0m killed Tacolilla  in round 10
+s0m killed Mazino  in round 10
+Shyy killed s0m  in round 10
+Nozwerr killed FNS  in round 10
+Victor killed Shyy  in round 10
+Nozwerr killed Victor  in round 10
+Round 10 ended with spike_defuse. The winning team is Leviatán Esports.
+The current score is NRG 6 - 4 Leviatán Esports.
+ardiis killed ardiis  in round 11
+Victor killed Shyy  in round 11
+kiNgg killed crashies  in round 11
+kiNgg killed Victor  in round 11
+Nozwerr killed FNS  in round 11
+s0m killed kiNgg  in round 11
+Mazino killed s0m  in round 11
+Round 11 ended with spike_defuse. The winning team is Leviatán Esports.
+The current score is NRG 6 - 5 Leviatán Esports.
+Shyy killed s0m  in round 12
+kiNgg killed ardiis  in round 12
+Mazino killed crashies  in round 12
+Victor killed Tacolilla  in round 12
+FNS killed Mazino  in round 12
+Nozwerr killed Victor  in round 12
+FNS killed Shyy  in round 12
+kiNgg killed FNS  in round 12
+Round 12 ended with spike_defuse. The winning team is Leviatán Esports.
+The current score is NRG 6 - 6 Leviatán Esports.
+Mazino killed ardiis  in round 13
+FNS killed Mazino  in round 13
+Tacolilla killed FNS  in round 13
+crashies killed Nozwerr  in round 13
+Victor killed Tacolilla  in round 13
+s0m killed kiNgg  in round 13
+crashies killed Shyy  in round 13
+Round 13 ended with elimination. The winning team is NRG.
+The current score is NRG 7 - 6 Leviatán Esports.
+FNS killed kiNgg  in round 14
+crashies killed Mazino  in round 14
+FNS killed Shyy  in round 14
+Victor killed Tacolilla  in round 14
+crashies killed Nozwerr  in round 14
+Round 14 ended with spike_defuse. The winning team is NRG.
+The current score is NRG 8 - 6 Leviatán Esports.
+ardiis killed Tacolilla  in round 15
+ardiis killed kiNgg  in round 15
+Shyy killed ardiis  in round 15
+crashies killed Nozwerr  in round 15
+s0m killed Mazino  in round 15
+Round 15 ended with time_expired. The winning team is NRG.
+The current score is NRG 9 - 6 Leviatán Esports.
+Shyy killed s0m  in round 16
+FNS killed Shyy  in round 16
+crashies killed Tacolilla  in round 16
+kiNgg killed Victor  in round 16
+kiNgg killed FNS  in round 16
+Mazino killed crashies  in round 16
+s0m killed Mazino  in round 16
+Shyy killed s0m  in round 16
+ardiis killed Nozwerr  in round 16
+kiNgg killed ardiis  in round 16
+Round 16 ended with elimination. The winning team is Leviatán Esports.
+The current score is NRG 9 - 7 Leviatán Esports.
+crashies killed Nozwerr  in round 17
+Tacolilla killed crashies  in round 17
+Tacolilla killed ardiis  in round 17
+Mazino killed Victor  in round 17
+Round 17 ended with detonate. The winning team is Leviatán Esports.
+The current score is NRG 9 - 8 Leviatán Esports.
+Victor killed Tacolilla  in round 18
+Victor killed Mazino  in round 18
+ardiis killed Nozwerr  in round 18
+Shyy killed Victor  in round 18
+Round 18 ended with spike_defuse. The winning team is NRG.
+The current score is NRG 10 - 8 Leviatán Esports.
+Tacolilla killed s0m  in round 19
+FNS killed Tacolilla  in round 19
+Victor killed Nozwerr  in round 19
+Victor killed Mazino  in round 19
+Shyy killed Victor  in round 19
+kiNgg killed FNS  in round 19
+kiNgg killed ardiis  in round 19
+crashies killed Shyy  in round 19
+kiNgg killed crashies  in round 19
+Round 19 ended with elimination. The winning team is Leviatán Esports.
+The current score is NRG 10 - 9 Leviatán Esports.
+crashies killed Nozwerr  in round 20
+Mazino killed crashies  in round 20
+Tacolilla killed FNS  in round 20
+Tacolilla killed s0m  in round 20
+Shyy killed Victor  in round 20
+Round 20 ended with detonate. The winning team is Leviatán Esports.
+The current score is NRG 10 - 10 Leviatán Esports.
+ardiis killed kiNgg  in round 21
+Victor killed Mazino  in round 21
+crashies killed Shyy  in round 21
+ardiis killed Tacolilla  in round 21
+Round 21 ended with spike_defuse. The winning team is NRG.
+The current score is NRG 11 - 10 Leviatán Esports.
+s0m killed Tacolilla  in round 22
+Nozwerr killed ardiis  in round 22
+Shyy killed FNS  in round 22
+Mazino killed s0m  in round 22
+Mazino killed crashies  in round 22
+Round 22 ended with detonate. The winning team is Leviatán Esports.
+The current score is NRG 11 - 11 Leviatán Esports.
+kiNgg killed s0m  in round 23
+kiNgg killed ardiis  in round 23
+crashies killed Tacolilla  in round 23
+Nozwerr killed crashies  in round 23
+Victor killed Nozwerr  in round 23
+Mazino killed Victor  in round 23
+Shyy killed FNS  in round 23
+Round 23 ended with elimination. The winning team is Leviatán Esports.
+The current score is NRG 11 - 12 Leviatán Esports.
+Victor killed Tacolilla  in round 24
+kiNgg killed Victor  in round 24
+Mazino killed FNS  in round 24
+ardiis killed Mazino  in round 24
+Shyy killed ardiis  in round 24
+kiNgg killed s0m  in round 24
+Nozwerr killed crashies  in round 24
+Round 24 ended with elimination. The winning team is Leviatán Esports.
+The current score is NRG 11 - 13 Leviatán Esports.
+Game ended with winning team: Leviatán Esports at 2023-04-03T20:06:44Z
+
+--- Player Stats ---
+Mazino: Team=Leviatán Esports, Kills=20, Deaths=16, Assists=10, KDA=1.88, First Kills=3, First Deaths=0
+Shyy: Team=Leviatán Esports, Kills=16, Deaths=14, Assists=5, KDA=1.5, First Kills=3, First Deaths=1
+kiNgg: Team=Leviatán Esports, Kills=19, Deaths=11, Assists=11, KDA=2.73, First Kills=3, First Deaths=4
+Nozwerr: Team=Leviatán Esports, Kills=13, Deaths=16, Assists=13, KDA=1.62, First Kills=0, First Deaths=3
+Tacolilla: Team=Leviatán Esports, Kills=10, Deaths=19, Assists=1, KDA=0.58, First Kills=2, First Deaths=5
+crashies: Team=NRG, Kills=13, Deaths=17, Assists=2, KDA=0.88, First Kills=2, First Deaths=3
+Victor: Team=NRG, Kills=18, Deaths=13, Assists=2, KDA=1.54, First Kills=3, First Deaths=0
+FNS: Team=NRG, Kills=15, Deaths=15, Assists=8, KDA=1.53, First Kills=1, First Deaths=0
+s0m: Team=NRG, Kills=15, Deaths=17, Assists=8, KDA=1.35, First Kills=2, First Deaths=6
+ardiis: Team=NRG, Kills=15, Deaths=16, Assists=1, KDA=1.0, First Kills=5, First Deaths=2

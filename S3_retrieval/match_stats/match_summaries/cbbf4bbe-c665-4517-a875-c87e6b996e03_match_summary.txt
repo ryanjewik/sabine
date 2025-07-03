@@ -1,0 +1,195 @@
+Team 1: NAVI
+Team 2: KRÜ Esports
+Participating Players:
+Player 1: DAVEEYS
+Player 2: axeddy
+Player 3: Melser
+Player 4: xandeco
+Player 5: NagZet
+Player 6: Zyppan
+Player 7: cNed
+Player 8: ANGE1
+Player 9: Shao
+Player 10: suygetsu
+Winning Team: NAVI
+Score: NAVI 13 - 5 KRÜ Esports
+Tournament Name: lock in brazil 2023
+Game Start Time: 2023-02-22T19:24:18Z
+Game End Time: 2023-02-22T20:11:57Z
+Rounds ended by ELIMINATION count: 11
+Rounds ended by DEFUSE count: 5
+Rounds ended by DETONATE count: 2
+SPIKE PLANTED count: 7
+platformGameId: val:cbbf4bbe-c665-4517-a875-c87e6b996e03
+
+--- Events ---
+Game started at 2023-02-22T19:24:18Z
+Shao killed xandeco  in round 1
+Zyppan killed DAVEEYS  in round 1
+axeddy killed ANGE1  in round 1
+cNed killed axeddy  in round 1
+cNed killed NagZet  in round 1
+Melser killed Zyppan  in round 1
+Shao killed Melser  in round 1
+Round 1 ended with elimination. The winning team is NAVI.
+The current score is NAVI 1 - 0 KRÜ Esports.
+Zyppan killed Melser  in round 2
+Round 2 ended with detonate. The winning team is NAVI.
+The current score is NAVI 2 - 0 KRÜ Esports.
+NagZet killed NagZet  in round 3
+axeddy killed axeddy  in round 3
+DAVEEYS killed DAVEEYS  in round 3
+xandeco killed xandeco  in round 3
+axeddy killed Shao  in round 3
+cNed killed axeddy  in round 3
+DAVEEYS killed ANGE1  in round 3
+DAVEEYS killed Zyppan  in round 3
+xandeco killed cNed  in round 3
+Melser killed suygetsu  in round 3
+Round 3 ended with elimination. The winning team is KRÜ Esports.
+The current score is NAVI 2 - 1 KRÜ Esports.
+ANGE1 killed DAVEEYS  in round 4
+Zyppan killed axeddy  in round 4
+Shao killed xandeco  in round 4
+suygetsu killed NagZet  in round 4
+suygetsu killed Melser  in round 4
+Round 4 ended with elimination. The winning team is NAVI.
+The current score is NAVI 3 - 1 KRÜ Esports.
+cNed killed axeddy  in round 5
+Zyppan killed DAVEEYS  in round 5
+Zyppan killed NagZet  in round 5
+ANGE1 killed xandeco  in round 5
+suygetsu killed Melser  in round 5
+Round 5 ended with elimination. The winning team is NAVI.
+The current score is NAVI 4 - 1 KRÜ Esports.
+Zyppan killed Melser  in round 6
+Shao killed xandeco  in round 6
+axeddy killed Shao  in round 6
+axeddy killed cNed  in round 6
+Zyppan killed NagZet  in round 6
+suygetsu killed DAVEEYS  in round 6
+axeddy killed suygetsu  in round 6
+Round 6 ended with detonate. The winning team is NAVI.
+The current score is NAVI 5 - 1 KRÜ Esports.
+Zyppan killed xandeco  in round 7
+cNed killed NagZet  in round 7
+ANGE1 killed Melser  in round 7
+cNed killed DAVEEYS  in round 7
+ANGE1 killed axeddy  in round 7
+Round 7 ended with elimination. The winning team is NAVI.
+The current score is NAVI 6 - 1 KRÜ Esports.
+xandeco killed cNed  in round 8
+DAVEEYS killed Zyppan  in round 8
+ANGE1 killed xandeco  in round 8
+Shao killed axeddy  in round 8
+DAVEEYS killed suygetsu  in round 8
+NagZet killed ANGE1  in round 8
+DAVEEYS killed Shao  in round 8
+Round 8 ended with spike_defuse. The winning team is KRÜ Esports.
+The current score is NAVI 6 - 2 KRÜ Esports.
+Zyppan killed Melser  in round 9
+xandeco killed Zyppan  in round 9
+ANGE1 killed xandeco  in round 9
+ANGE1 killed axeddy  in round 9
+suygetsu killed DAVEEYS  in round 9
+cNed killed NagZet  in round 9
+Round 9 ended with elimination. The winning team is NAVI.
+The current score is NAVI 7 - 2 KRÜ Esports.
+Zyppan killed axeddy  in round 10
+Zyppan killed DAVEEYS  in round 10
+Melser killed suygetsu  in round 10
+ANGE1 killed xandeco  in round 10
+ANGE1 killed Melser  in round 10
+Shao killed NagZet  in round 10
+Round 10 ended with elimination. The winning team is NAVI.
+The current score is NAVI 8 - 2 KRÜ Esports.
+cNed killed NagZet  in round 11
+Melser killed suygetsu  in round 11
+xandeco killed Zyppan  in round 11
+Melser killed ANGE1  in round 11
+Shao killed Melser  in round 11
+cNed killed xandeco  in round 11
+cNed killed DAVEEYS  in round 11
+axeddy killed Shao  in round 11
+axeddy killed cNed  in round 11
+Round 11 ended with spike_defuse. The winning team is KRÜ Esports.
+The current score is NAVI 8 - 3 KRÜ Esports.
+xandeco killed cNed  in round 12
+ANGE1 killed axeddy  in round 12
+Zyppan killed NagZet  in round 12
+Zyppan killed xandeco  in round 12
+Melser killed suygetsu  in round 12
+ANGE1 killed Melser  in round 12
+Shao killed DAVEEYS  in round 12
+Round 12 ended with elimination. The winning team is NAVI.
+The current score is NAVI 9 - 3 KRÜ Esports.
+axeddy killed ANGE1  in round 13
+DAVEEYS killed Shao  in round 13
+axeddy killed cNed  in round 13
+Zyppan killed axeddy  in round 13
+suygetsu killed DAVEEYS  in round 13
+Melser killed Zyppan  in round 13
+suygetsu killed xandeco  in round 13
+NagZet killed suygetsu  in round 13
+Round 13 ended with elimination. The winning team is KRÜ Esports.
+The current score is NAVI 9 - 4 KRÜ Esports.
+NagZet killed Shao  in round 14
+NagZet killed Zyppan  in round 14
+cNed killed NagZet  in round 14
+axeddy killed cNed  in round 14
+DAVEEYS killed suygetsu  in round 14
+ANGE1 killed xandeco  in round 14
+ANGE1 killed Melser  in round 14
+axeddy killed ANGE1  in round 14
+Round 14 ended with elimination. The winning team is KRÜ Esports.
+The current score is NAVI 9 - 5 KRÜ Esports.
+xandeco killed suygetsu  in round 15
+cNed killed xandeco  in round 15
+cNed killed NagZet  in round 15
+Shao killed DAVEEYS  in round 15
+cNed killed axeddy  in round 15
+ANGE1 killed Melser  in round 15
+Round 15 ended with spike_defuse. The winning team is NAVI.
+The current score is NAVI 10 - 5 KRÜ Esports.
+NagZet killed cNed  in round 16
+ANGE1 killed xandeco  in round 16
+ANGE1 killed NagZet  in round 16
+DAVEEYS killed ANGE1  in round 16
+Zyppan killed DAVEEYS  in round 16
+Zyppan killed axeddy  in round 16
+suygetsu killed Melser  in round 16
+Round 16 ended with spike_defuse. The winning team is NAVI.
+The current score is NAVI 11 - 5 KRÜ Esports.
+NagZet killed cNed  in round 17
+Shao killed NagZet  in round 17
+ANGE1 killed DAVEEYS  in round 17
+axeddy killed ANGE1  in round 17
+xandeco killed Zyppan  in round 17
+Shao killed xandeco  in round 17
+suygetsu killed Melser  in round 17
+suygetsu killed axeddy  in round 17
+Round 17 ended with spike_defuse. The winning team is NAVI.
+The current score is NAVI 12 - 5 KRÜ Esports.
+Shao killed DAVEEYS  in round 18
+suygetsu killed axeddy  in round 18
+ANGE1 killed Melser  in round 18
+NagZet killed suygetsu  in round 18
+Zyppan killed NagZet  in round 18
+Zyppan killed xandeco  in round 18
+Round 18 ended with elimination. The winning team is NAVI.
+The current score is NAVI 13 - 5 KRÜ Esports.
+Game ended with winning team: NAVI at 2023-02-22T20:11:57Z
+xandeco killed Zyppan  in round 19
+xandeco killed Shao  in round 19
+
+--- Player Stats ---
+DAVEEYS: Team=KRÜ Esports, Kills=9, Deaths=15, Assists=1, KDA=0.67, First Kills=0, First Deaths=2
+axeddy: Team=KRÜ Esports, Kills=13, Deaths=15, Assists=5, KDA=1.2, First Kills=1, First Deaths=2
+Melser: Team=KRÜ Esports, Kills=7, Deaths=15, Assists=7, KDA=0.93, First Kills=0, First Deaths=3
+xandeco: Team=KRÜ Esports, Kills=10, Deaths=17, Assists=10, KDA=1.18, First Kills=4, First Deaths=2
+NagZet: Team=KRÜ Esports, Kills=8, Deaths=15, Assists=2, KDA=0.67, First Kills=4, First Deaths=2
+Zyppan: Team=NAVI, Kills=18, Deaths=9, Assists=12, KDA=3.33, First Kills=5, First Deaths=1
+cNed: Team=NAVI, Kills=14, Deaths=9, Assists=7, KDA=2.33, First Kills=2, First Deaths=4
+ANGE1: Team=NAVI, Kills=18, Deaths=8, Assists=13, KDA=3.88, First Kills=1, First Deaths=1
+Shao: Team=NAVI, Kills=12, Deaths=7, Assists=11, KDA=3.29, First Kills=2, First Deaths=1
+suygetsu: Team=NAVI, Kills=11, Deaths=10, Assists=6, KDA=1.7, First Kills=0, First Deaths=1

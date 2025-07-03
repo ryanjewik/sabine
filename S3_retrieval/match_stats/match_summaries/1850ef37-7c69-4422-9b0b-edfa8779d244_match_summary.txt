@@ -1,0 +1,232 @@
+Team 1: PAPER REX
+Team 2: Gen.G Esports
+Participating Players:
+Player 1: t3xture
+Player 2: Lakia
+Player 3: Munchkin
+Player 4: Meteor 
+Player 5: Karon
+Player 6: mindfreak
+Player 7: something
+Player 8: d4v41
+Player 9: f0rsakeN
+Player 10: Jinggg
+Winning Team: Gen.G Esports
+Score: PAPER REX 10 - 13 Gen.G Esports
+Tournament Name: vct pacific stage 2 2024
+Game Start Time: 2024-07-13T07:51:26Z
+Game End Time: 2024-07-13T08:50:49Z
+Rounds ended by ELIMINATION count: 16
+Rounds ended by DEFUSE count: 3
+Rounds ended by DETONATE count: 1
+SPIKE PLANTED count: 4
+platformGameId: val:1850ef37-7c69-4422-9b0b-edfa8779d244
+
+--- Events ---
+Game started at 2024-07-13T07:51:26Z
+t3xture killed mindfreak  in round 1
+t3xture killed f0rsakeN  in round 1
+Jinggg killed Karon  in round 1
+Jinggg killed Munchkin  in round 1
+Lakia killed d4v41  in round 1
+t3xture killed Jinggg  in round 1
+Meteor  killed something  in round 1
+Round 1 ended with elimination. The winning team is Gen.G Esports.
+The current score is PAPER REX 0 - 1 Gen.G Esports.
+Karon killed f0rsakeN  in round 2
+Karon killed Jinggg  in round 2
+mindfreak killed Karon  in round 2
+Munchkin killed something  in round 2
+Munchkin killed d4v41  in round 2
+Munchkin killed mindfreak  in round 2
+Round 2 ended with elimination. The winning team is Gen.G Esports.
+The current score is PAPER REX 0 - 2 Gen.G Esports.
+Karon killed something  in round 3
+mindfreak killed Lakia  in round 3
+Meteor  killed f0rsakeN  in round 3
+d4v41 killed Meteor   in round 3
+Munchkin killed Jinggg  in round 3
+mindfreak killed Munchkin  in round 3
+t3xture killed mindfreak  in round 3
+Round 3 ended with time_expired. The winning team is Gen.G Esports.
+The current score is PAPER REX 0 - 3 Gen.G Esports.
+t3xture killed f0rsakeN  in round 4
+Munchkin killed Jinggg  in round 4
+Munchkin killed d4v41  in round 4
+mindfreak killed Karon  in round 4
+Lakia killed something  in round 4
+Munchkin killed mindfreak  in round 4
+Round 4 ended with elimination. The winning team is Gen.G Esports.
+The current score is PAPER REX 0 - 4 Gen.G Esports.
+Karon killed f0rsakeN  in round 5
+Karon killed d4v41  in round 5
+Jinggg killed Karon  in round 5
+t3xture killed Jinggg  in round 5
+t3xture killed something  in round 5
+mindfreak killed Lakia  in round 5
+Meteor  killed mindfreak  in round 5
+Round 5 ended with elimination. The winning team is Gen.G Esports.
+The current score is PAPER REX 0 - 5 Gen.G Esports.
+something killed Karon  in round 6
+Munchkin killed something  in round 6
+t3xture killed f0rsakeN  in round 6
+d4v41 killed t3xture  in round 6
+d4v41 killed Meteor   in round 6
+Munchkin killed d4v41  in round 6
+Jinggg killed Munchkin  in round 6
+Lakia killed Jinggg  in round 6
+Lakia killed mindfreak  in round 6
+Round 6 ended with spike_defuse. The winning team is Gen.G Esports.
+The current score is PAPER REX 0 - 6 Gen.G Esports.
+Jinggg killed Munchkin  in round 7
+Jinggg killed Meteor   in round 7
+Lakia killed d4v41  in round 7
+Lakia killed f0rsakeN  in round 7
+t3xture killed something  in round 7
+Karon killed Jinggg  in round 7
+Lakia killed mindfreak  in round 7
+Round 7 ended with spike_defuse. The winning team is Gen.G Esports.
+The current score is PAPER REX 0 - 7 Gen.G Esports.
+Jinggg killed Lakia  in round 8
+f0rsakeN killed Meteor   in round 8
+Munchkin killed something  in round 8
+Jinggg killed Karon  in round 8
+mindfreak killed t3xture  in round 8
+Munchkin killed Jinggg  in round 8
+d4v41 killed Munchkin  in round 8
+Round 8 ended with elimination. The winning team is PAPER REX.
+The current score is PAPER REX 1 - 7 Gen.G Esports.
+Karon killed Jinggg  in round 9
+Meteor  killed something  in round 9
+Lakia killed mindfreak  in round 9
+f0rsakeN killed Karon  in round 9
+Munchkin killed f0rsakeN  in round 9
+t3xture killed d4v41  in round 9
+Round 9 ended with elimination. The winning team is Gen.G Esports.
+The current score is PAPER REX 1 - 8 Gen.G Esports.
+t3xture killed something  in round 10
+f0rsakeN killed t3xture  in round 10
+Munchkin killed Jinggg  in round 10
+d4v41 killed Munchkin  in round 10
+Karon killed f0rsakeN  in round 10
+Meteor  killed d4v41  in round 10
+Karon killed mindfreak  in round 10
+Round 10 ended with elimination. The winning team is Gen.G Esports.
+The current score is PAPER REX 1 - 9 Gen.G Esports.
+mindfreak killed Munchkin  in round 11
+Karon killed mindfreak  in round 11
+d4v41 killed Karon  in round 11
+Lakia killed d4v41  in round 11
+Jinggg killed Lakia  in round 11
+Meteor  killed something  in round 11
+f0rsakeN killed Meteor   in round 11
+t3xture killed f0rsakeN  in round 11
+Jinggg killed t3xture  in round 11
+Round 11 ended with elimination. The winning team is PAPER REX.
+The current score is PAPER REX 2 - 9 Gen.G Esports.
+Karon killed mindfreak  in round 12
+something killed t3xture  in round 12
+d4v41 killed Karon  in round 12
+Jinggg killed Munchkin  in round 12
+Jinggg killed Meteor   in round 12
+d4v41 killed Lakia  in round 12
+Round 12 ended with elimination. The winning team is PAPER REX.
+The current score is PAPER REX 3 - 9 Gen.G Esports.
+Munchkin killed Jinggg  in round 13
+Meteor  killed mindfreak  in round 13
+Karon killed something  in round 13
+t3xture killed d4v41  in round 13
+t3xture killed f0rsakeN  in round 13
+Round 13 ended with elimination. The winning team is Gen.G Esports.
+The current score is PAPER REX 3 - 10 Gen.G Esports.
+Munchkin killed f0rsakeN  in round 14
+Lakia killed mindfreak  in round 14
+Munchkin killed Jinggg  in round 14
+t3xture killed d4v41  in round 14
+Lakia killed something  in round 14
+Round 14 ended with elimination. The winning team is Gen.G Esports.
+The current score is PAPER REX 3 - 11 Gen.G Esports.
+f0rsakeN killed Meteor   in round 15
+something killed t3xture  in round 15
+Lakia killed Jinggg  in round 15
+f0rsakeN killed Lakia  in round 15
+mindfreak killed Karon  in round 15
+something killed Munchkin  in round 15
+Round 15 ended with elimination. The winning team is PAPER REX.
+The current score is PAPER REX 4 - 11 Gen.G Esports.
+something killed Meteor   in round 16
+t3xture killed something  in round 16
+d4v41 killed Karon  in round 16
+t3xture killed d4v41  in round 16
+t3xture killed Jinggg  in round 16
+f0rsakeN killed t3xture  in round 16
+f0rsakeN killed Lakia  in round 16
+mindfreak killed Munchkin  in round 16
+Round 16 ended with spike_defuse. The winning team is PAPER REX.
+The current score is PAPER REX 5 - 11 Gen.G Esports.
+mindfreak killed t3xture  in round 17
+f0rsakeN killed Karon  in round 17
+f0rsakeN killed Meteor   in round 17
+mindfreak killed Lakia  in round 17
+f0rsakeN killed Munchkin  in round 17
+Round 17 ended with elimination. The winning team is PAPER REX.
+The current score is PAPER REX 6 - 11 Gen.G Esports.
+Karon killed Jinggg  in round 18
+something killed Meteor   in round 18
+something killed t3xture  in round 18
+Karon killed f0rsakeN  in round 18
+Round 18 ended with time_expired. The winning team is PAPER REX.
+The current score is PAPER REX 7 - 11 Gen.G Esports.
+Meteor  killed f0rsakeN  in round 19
+Jinggg killed t3xture  in round 19
+Jinggg killed Munchkin  in round 19
+something killed Lakia  in round 19
+d4v41 killed Meteor   in round 19
+something killed Karon  in round 19
+Round 19 ended with elimination. The winning team is PAPER REX.
+The current score is PAPER REX 8 - 11 Gen.G Esports.
+t3xture killed Jinggg  in round 20
+t3xture killed f0rsakeN  in round 20
+Munchkin killed mindfreak  in round 20
+t3xture killed d4v41  in round 20
+something killed t3xture  in round 20
+Round 20 ended with detonate. The winning team is Gen.G Esports.
+The current score is PAPER REX 8 - 12 Gen.G Esports.
+f0rsakeN killed t3xture  in round 21
+Lakia killed f0rsakeN  in round 21
+Jinggg killed Munchkin  in round 21
+Jinggg killed Karon  in round 21
+Meteor  killed Jinggg  in round 21
+something killed Meteor   in round 21
+Round 21 ended with time_expired. The winning team is PAPER REX.
+The current score is PAPER REX 9 - 12 Gen.G Esports.
+d4v41 killed Karon  in round 22
+something killed t3xture  in round 22
+Jinggg killed Lakia  in round 22
+mindfreak killed Meteor   in round 22
+Munchkin killed Jinggg  in round 22
+mindfreak killed Munchkin  in round 22
+Round 22 ended with elimination. The winning team is PAPER REX.
+The current score is PAPER REX 10 - 12 Gen.G Esports.
+f0rsakeN killed Karon  in round 23
+t3xture killed something  in round 23
+Meteor  killed f0rsakeN  in round 23
+t3xture killed Jinggg  in round 23
+mindfreak killed Lakia  in round 23
+Munchkin killed mindfreak  in round 23
+t3xture killed d4v41  in round 23
+Round 23 ended with elimination. The winning team is Gen.G Esports.
+The current score is PAPER REX 10 - 13 Gen.G Esports.
+Game ended with winning team: Gen.G Esports at 2024-07-13T08:50:49Z
+
+--- Player Stats ---
+t3xture: Team=Gen.G Esports, Kills=24, Deaths=13, Assists=1, KDA=1.92, First Kills=4, First Deaths=2
+Lakia: Team=Gen.G Esports, Kills=13, Deaths=11, Assists=9, KDA=2.0, First Kills=0, First Deaths=1
+Munchkin: Team=Gen.G Esports, Kills=19, Deaths=14, Assists=17, KDA=2.57, First Kills=2, First Deaths=2
+Meteor : Team=Gen.G Esports, Kills=10, Deaths=13, Assists=3, KDA=1.0, First Kills=1, First Deaths=2
+Karon: Team=Gen.G Esports, Kills=14, Deaths=16, Assists=14, KDA=1.75, First Kills=6, First Deaths=3
+mindfreak: Team=PAPER REX, Kills=14, Deaths=15, Assists=5, KDA=1.27, First Kills=2, First Deaths=2
+something: Team=PAPER REX, Kills=12, Deaths=15, Assists=5, KDA=1.13, First Kills=2, First Deaths=2
+d4v41: Team=PAPER REX, Kills=11, Deaths=14, Assists=9, KDA=1.43, First Kills=1, First Deaths=0
+f0rsakeN: Team=PAPER REX, Kills=13, Deaths=17, Assists=5, KDA=1.06, First Kills=3, First Deaths=5
+Jinggg: Team=PAPER REX, Kills=17, Deaths=19, Assists=1, KDA=0.95, First Kills=2, First Deaths=4

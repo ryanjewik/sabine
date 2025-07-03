@@ -1,0 +1,203 @@
+Team 1: Cloud9 Blue
+Team 2: G2 Esports
+Participating Players:
+Player 1: icy
+Player 2: Leaf
+Player 3: valyn
+Player 4: trent
+Player 5: JonahP
+Player 6: moose
+Player 7: vanity
+Player 8: Oxy
+Player 9: runi
+Player 10: xeppaa
+Winning Team: Cloud9 Blue
+Score: Cloud9 Blue 13 - 5 G2 Esports
+Tournament Name: vct americas stage 2 2024
+Game Start Time: 2024-06-24T22:10:42Z
+Game End Time: 2024-06-24T22:51:14Z
+Rounds ended by ELIMINATION count: 9
+Rounds ended by DEFUSE count: 4
+Rounds ended by DETONATE count: 5
+SPIKE PLANTED count: 9
+platformGameId: val:e9c0e0d3-974f-4e8d-a51a-5c16ec707c15
+
+--- Events ---
+Game started at 2024-06-24T22:10:42Z
+vanity killed trent  in round 1
+valyn killed xeppaa  in round 1
+JonahP killed vanity  in round 1
+runi killed Leaf  in round 1
+runi killed JonahP  in round 1
+icy killed runi  in round 1
+moose killed icy  in round 1
+Oxy killed valyn  in round 1
+Round 1 ended with elimination. The winning team is Cloud9 Blue.
+The current score is Cloud9 Blue 1 - 0 G2 Esports.
+valyn killed xeppaa  in round 2
+Oxy killed Leaf  in round 2
+runi killed valyn  in round 2
+runi killed JonahP  in round 2
+vanity killed trent  in round 2
+icy killed runi  in round 2
+vanity killed icy  in round 2
+Round 2 ended with elimination. The winning team is Cloud9 Blue.
+The current score is Cloud9 Blue 2 - 0 G2 Esports.
+Oxy killed trent  in round 3
+icy killed Oxy  in round 3
+vanity killed icy  in round 3
+Leaf killed moose  in round 3
+xeppaa killed Leaf  in round 3
+xeppaa killed valyn  in round 3
+Round 3 ended with detonate. The winning team is Cloud9 Blue.
+The current score is Cloud9 Blue 3 - 0 G2 Esports.
+xeppaa killed JonahP  in round 4
+Oxy killed JonahP  in round 4
+vanity killed icy  in round 4
+valyn killed vanity  in round 4
+valyn killed Oxy  in round 4
+runi killed valyn  in round 4
+Leaf killed runi  in round 4
+trent killed xeppaa  in round 4
+moose killed trent  in round 4
+moose killed Leaf  in round 4
+Round 4 ended with elimination. The winning team is Cloud9 Blue.
+The current score is Cloud9 Blue 4 - 0 G2 Esports.
+runi killed JonahP  in round 5
+Oxy killed trent  in round 5
+vanity killed icy  in round 5
+Leaf killed vanity  in round 5
+moose killed Leaf  in round 5
+valyn killed moose  in round 5
+valyn killed Oxy  in round 5
+Round 5 ended with detonate. The winning team is Cloud9 Blue.
+The current score is Cloud9 Blue 5 - 0 G2 Esports.
+valyn killed xeppaa  in round 6
+vanity killed JonahP  in round 6
+Oxy killed icy  in round 6
+Oxy killed Leaf  in round 6
+trent killed Oxy  in round 6
+runi killed valyn  in round 6
+moose killed trent  in round 6
+Round 6 ended with elimination. The winning team is Cloud9 Blue.
+The current score is Cloud9 Blue 6 - 0 G2 Esports.
+moose killed icy  in round 7
+xeppaa killed JonahP  in round 7
+valyn killed vanity  in round 7
+valyn killed moose  in round 7
+Oxy killed trent  in round 7
+xeppaa killed valyn  in round 7
+Oxy killed Leaf  in round 7
+Round 7 ended with elimination. The winning team is Cloud9 Blue.
+The current score is Cloud9 Blue 7 - 0 G2 Esports.
+Oxy killed valyn  in round 8
+Leaf killed Oxy  in round 8
+runi killed JonahP  in round 8
+vanity killed Leaf  in round 8
+xeppaa killed icy  in round 8
+xeppaa killed trent  in round 8
+Round 8 ended with elimination. The winning team is Cloud9 Blue.
+The current score is Cloud9 Blue 8 - 0 G2 Esports.
+Oxy killed icy  in round 9
+moose killed Leaf  in round 9
+trent killed moose  in round 9
+xeppaa killed JonahP  in round 9
+trent killed Oxy  in round 9
+trent killed xeppaa  in round 9
+runi killed valyn  in round 9
+trent killed vanity  in round 9
+Round 9 ended with detonate. The winning team is Cloud9 Blue.
+The current score is Cloud9 Blue 9 - 0 G2 Esports.
+trent killed runi  in round 10
+icy killed moose  in round 10
+xeppaa killed JonahP  in round 10
+Oxy killed Leaf  in round 10
+valyn killed Oxy  in round 10
+valyn killed xeppaa  in round 10
+trent killed vanity  in round 10
+valyn killed runi  in round 10
+Round 10 ended with spike_defuse. The winning team is G2 Esports.
+The current score is Cloud9 Blue 9 - 1 G2 Esports.
+trent killed Oxy  in round 11
+JonahP killed vanity  in round 11
+icy killed xeppaa  in round 11
+runi killed icy  in round 11
+JonahP killed runi  in round 11
+JonahP killed moose  in round 11
+Round 11 ended with elimination. The winning team is G2 Esports.
+The current score is Cloud9 Blue 9 - 2 G2 Esports.
+Leaf killed Oxy  in round 12
+xeppaa killed trent  in round 12
+Leaf killed vanity  in round 12
+runi killed JonahP  in round 12
+Leaf killed xeppaa  in round 12
+runi killed valyn  in round 12
+moose killed icy  in round 12
+moose killed Leaf  in round 12
+Round 12 ended with elimination. The winning team is Cloud9 Blue.
+The current score is Cloud9 Blue 10 - 2 G2 Esports.
+trent killed Oxy  in round 13
+xeppaa killed trent  in round 13
+xeppaa killed icy  in round 13
+xeppaa killed JonahP  in round 13
+valyn killed xeppaa  in round 13
+Leaf killed moose  in round 13
+Leaf killed runi  in round 13
+Leaf killed vanity  in round 13
+Round 13 ended with elimination. The winning team is G2 Esports.
+The current score is Cloud9 Blue 10 - 3 G2 Esports.
+JonahP killed Oxy  in round 14
+JonahP killed xeppaa  in round 14
+Leaf killed vanity  in round 14
+runi killed Leaf  in round 14
+Round 14 ended with detonate. The winning team is G2 Esports.
+The current score is Cloud9 Blue 10 - 4 G2 Esports.
+moose killed moose  in round 15
+runi killed runi  in round 15
+Oxy killed Leaf  in round 15
+vanity killed valyn  in round 15
+runi killed icy  in round 15
+JonahP killed vanity  in round 15
+JonahP killed xeppaa  in round 15
+JonahP killed Oxy  in round 15
+runi killed trent  in round 15
+moose killed JonahP  in round 15
+Round 15 ended with spike_defuse. The winning team is Cloud9 Blue.
+The current score is Cloud9 Blue 11 - 4 G2 Esports.
+Oxy killed Leaf  in round 16
+moose killed JonahP  in round 16
+icy killed vanity  in round 16
+moose killed valyn  in round 16
+icy killed xeppaa  in round 16
+moose killed icy  in round 16
+runi killed trent  in round 16
+Round 16 ended with spike_defuse. The winning team is Cloud9 Blue.
+The current score is Cloud9 Blue 12 - 4 G2 Esports.
+icy killed xeppaa  in round 17
+valyn killed Oxy  in round 17
+valyn killed vanity  in round 17
+JonahP killed runi  in round 17
+Round 17 ended with detonate. The winning team is G2 Esports.
+The current score is Cloud9 Blue 12 - 5 G2 Esports.
+runi killed Leaf  in round 18
+xeppaa killed valyn  in round 18
+icy killed Oxy  in round 18
+vanity killed icy  in round 18
+trent killed moose  in round 18
+runi killed trent  in round 18
+xeppaa killed JonahP  in round 18
+Round 18 ended with spike_defuse. The winning team is Cloud9 Blue.
+The current score is Cloud9 Blue 13 - 5 G2 Esports.
+Game ended with winning team: Cloud9 Blue at 2024-06-24T22:51:14Z
+
+--- Player Stats ---
+icy: Team=G2 Esports, Kills=9, Deaths=15, Assists=6, KDA=1.0, First Kills=1, First Deaths=2
+Leaf: Team=G2 Esports, Kills=11, Deaths=15, Assists=3, KDA=0.93, First Kills=1, First Deaths=2
+valyn: Team=G2 Esports, Kills=15, Deaths=12, Assists=7, KDA=1.83, First Kills=2, First Deaths=1
+trent: Team=G2 Esports, Kills=11, Deaths=13, Assists=5, KDA=1.23, First Kills=3, First Deaths=2
+JonahP: Team=G2 Esports, Kills=10, Deaths=15, Assists=3, KDA=0.87, First Kills=1, First Deaths=2
+moose: Team=Cloud9 Blue, Kills=14, Deaths=9, Assists=5, KDA=2.11, First Kills=2, First Deaths=1
+vanity: Team=Cloud9 Blue, Kills=10, Deaths=13, Assists=5, KDA=1.15, First Kills=1, First Deaths=0
+Oxy: Team=Cloud9 Blue, Kills=14, Deaths=14, Assists=3, KDA=1.21, First Kills=4, First Deaths=4
+runi: Team=Cloud9 Blue, Kills=19, Deaths=9, Assists=4, KDA=2.56, First Kills=2, First Deaths=1
+xeppaa: Team=Cloud9 Blue, Kills=15, Deaths=13, Assists=3, KDA=1.38, First Kills=1, First Deaths=3

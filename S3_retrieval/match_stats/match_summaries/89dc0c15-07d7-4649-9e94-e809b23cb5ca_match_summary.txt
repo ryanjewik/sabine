@@ -1,0 +1,205 @@
+Team 1: Sentinels
+Team 2: MIBR
+Participating Players:
+Player 1: frz
+Player 2: rglmeister
+Player 3: murizzz
+Player 4: heat
+Player 5: jzz
+Player 6: Marved
+Player 7: Sacy
+Player 8: dephh
+Player 9: zekken
+Player 10: pANcada
+Winning Team: Sentinels
+Score: Sentinels 13 - 5 MIBR
+Tournament Name: vct americas 2023
+Game Start Time: 2023-04-23T23:07:30Z
+Game End Time: 2023-04-24T00:06:04Z
+Rounds ended by ELIMINATION count: 8
+Rounds ended by DEFUSE count: 4
+Rounds ended by DETONATE count: 5
+SPIKE PLANTED count: 9
+platformGameId: val:89dc0c15-07d7-4649-9e94-e809b23cb5ca
+
+--- Events ---
+Game started at 2023-04-23T23:07:30Z
+pANcada killed murizzz  in round 1
+heat killed Sacy  in round 1
+zekken killed heat  in round 1
+zekken killed jzz  in round 1
+rglmeister killed zekken  in round 1
+dephh killed rglmeister  in round 1
+frz killed Marved  in round 1
+frz killed pANcada  in round 1
+Round 1 ended with detonate. The winning team is Sentinels.
+The current score is Sentinels 1 - 0 MIBR.
+frz killed frz  in round 2
+Sacy killed rglmeister  in round 2
+Sacy killed murizzz  in round 2
+dephh killed jzz  in round 2
+heat killed zekken  in round 2
+Sacy killed frz  in round 2
+Sacy killed heat  in round 2
+Round 2 ended with elimination. The winning team is Sentinels.
+The current score is Sentinels 2 - 0 MIBR.
+heat killed pANcada  in round 3
+murizzz killed zekken  in round 3
+dephh killed murizzz  in round 3
+dephh killed heat  in round 3
+dephh killed frz  in round 3
+jzz killed dephh  in round 3
+Sacy killed rglmeister  in round 3
+Round 3 ended with detonate. The winning team is Sentinels.
+The current score is Sentinels 3 - 0 MIBR.
+jzz killed zekken  in round 4
+pANcada killed heat  in round 4
+Marved killed murizzz  in round 4
+jzz killed Marved  in round 4
+jzz killed pANcada  in round 4
+frz killed dephh  in round 4
+jzz killed Sacy  in round 4
+Round 4 ended with spike_defuse. The winning team is MIBR.
+The current score is Sentinels 3 - 1 MIBR.
+Sacy killed murizzz  in round 5
+zekken killed frz  in round 5
+jzz killed Sacy  in round 5
+zekken killed jzz  in round 5
+rglmeister killed pANcada  in round 5
+Marved killed heat  in round 5
+Marved killed rglmeister  in round 5
+Round 5 ended with elimination. The winning team is Sentinels.
+The current score is Sentinels 4 - 1 MIBR.
+jzz killed zekken  in round 6
+Sacy killed jzz  in round 6
+murizzz killed Sacy  in round 6
+dephh killed rglmeister  in round 6
+heat killed dephh  in round 6
+Marved killed murizzz  in round 6
+Marved killed frz  in round 6
+Marved killed heat  in round 6
+Round 6 ended with elimination. The winning team is Sentinels.
+The current score is Sentinels 5 - 1 MIBR.
+Marved killed rglmeister  in round 7
+zekken killed frz  in round 7
+Marved killed heat  in round 7
+jzz killed dephh  in round 7
+Round 7 ended with detonate. The winning team is Sentinels.
+The current score is Sentinels 6 - 1 MIBR.
+murizzz killed zekken  in round 8
+jzz killed Sacy  in round 8
+jzz killed dephh  in round 8
+zekken killed heat  in round 8
+jzz killed zekken  in round 8
+jzz killed pANcada  in round 8
+Marved killed frz  in round 8
+Marved killed rglmeister  in round 8
+jzz killed Marved  in round 8
+Round 8 ended with elimination. The winning team is MIBR.
+The current score is Sentinels 6 - 2 MIBR.
+murizzz killed Marved  in round 9
+zekken killed frz  in round 9
+Sacy killed jzz  in round 9
+rglmeister killed Sacy  in round 9
+zekken killed murizzz  in round 9
+rglmeister killed zekken  in round 9
+pANcada killed heat  in round 9
+rglmeister killed dephh  in round 9
+pANcada killed rglmeister  in round 9
+Round 9 ended with elimination. The winning team is Sentinels.
+The current score is Sentinels 7 - 2 MIBR.
+zekken killed jzz  in round 10
+heat killed dephh  in round 10
+pANcada killed murizzz  in round 10
+heat killed pANcada  in round 10
+frz killed Marved  in round 10
+Sacy killed rglmeister  in round 10
+Sacy killed frz  in round 10
+heat killed zekken  in round 10
+Sacy killed heat  in round 10
+Round 10 ended with elimination. The winning team is Sentinels.
+The current score is Sentinels 8 - 2 MIBR.
+Sacy killed Sacy  in round 11
+heat killed pANcada  in round 11
+Marved killed frz  in round 11
+heat killed zekken  in round 11
+Sacy killed rglmeister  in round 11
+Marved killed murizzz  in round 11
+jzz killed dephh  in round 11
+Marved killed jzz  in round 11
+heat killed Sacy  in round 11
+Round 11 ended with detonate. The winning team is Sentinels.
+The current score is Sentinels 9 - 2 MIBR.
+frz killed Marved  in round 12
+Sacy killed frz  in round 12
+dephh killed jzz  in round 12
+murizzz killed dephh  in round 12
+rglmeister killed Sacy  in round 12
+rglmeister killed zekken  in round 12
+murizzz killed pANcada  in round 12
+Round 12 ended with spike_defuse. The winning team is MIBR.
+The current score is Sentinels 9 - 3 MIBR.
+Marved killed jzz  in round 13
+frz killed pANcada  in round 13
+zekken killed frz  in round 13
+heat killed zekken  in round 13
+dephh killed murizzz  in round 13
+heat killed Marved  in round 13
+Sacy killed heat  in round 13
+rglmeister killed dephh  in round 13
+Sacy killed rglmeister  in round 13
+Round 13 ended with spike_defuse. The winning team is Sentinels.
+The current score is Sentinels 10 - 3 MIBR.
+zekken killed murizzz  in round 14
+Marved killed heat  in round 14
+frz killed Marved  in round 14
+Sacy killed frz  in round 14
+dephh killed jzz  in round 14
+pANcada killed rglmeister  in round 14
+Round 14 ended with elimination. The winning team is Sentinels.
+The current score is Sentinels 11 - 3 MIBR.
+frz killed Sacy  in round 15
+heat killed zekken  in round 15
+pANcada killed murizzz  in round 15
+rglmeister killed Marved  in round 15
+heat killed dephh  in round 15
+Round 15 ended with detonate. The winning team is MIBR.
+The current score is Sentinels 11 - 4 MIBR.
+pANcada killed pANcada  in round 16
+heat killed heat  in round 16
+Marved killed heat  in round 16
+Marved killed murizzz  in round 16
+Round 16 ended with time_expired. The winning team is Sentinels.
+The current score is Sentinels 12 - 4 MIBR.
+Marved killed murizzz  in round 17
+Sacy killed jzz  in round 17
+heat killed Marved  in round 17
+heat killed Sacy  in round 17
+pANcada killed heat  in round 17
+rglmeister killed pANcada  in round 17
+rglmeister killed zekken  in round 17
+rglmeister killed dephh  in round 17
+Round 17 ended with elimination. The winning team is MIBR.
+The current score is Sentinels 12 - 5 MIBR.
+rglmeister killed rglmeister  in round 18
+zekken killed heat  in round 18
+Sacy killed rglmeister  in round 18
+zekken killed frz  in round 18
+jzz killed zekken  in round 18
+dephh killed jzz  in round 18
+Sacy killed murizzz  in round 18
+Round 18 ended with spike_defuse. The winning team is Sentinels.
+The current score is Sentinels 13 - 5 MIBR.
+Game ended with winning team: Sentinels at 2023-04-24T00:06:04Z
+
+--- Player Stats ---
+frz: Team=MIBR, Kills=9, Deaths=14, Assists=8, KDA=1.21, First Kills=3, First Deaths=1
+rglmeister: Team=MIBR, Kills=13, Deaths=14, Assists=6, KDA=1.36, First Kills=1, First Deaths=2
+murizzz: Team=MIBR, Kills=6, Deaths=15, Assists=6, KDA=0.8, First Kills=2, First Deaths=4
+heat: Team=MIBR, Kills=17, Deaths=16, Assists=3, KDA=1.25, First Kills=1, First Deaths=0
+jzz: Team=MIBR, Kills=15, Deaths=12, Assists=9, KDA=2.0, First Kills=2, First Deaths=2
+Marved: Team=Sentinels, Kills=18, Deaths=10, Assists=9, KDA=2.7, First Kills=3, First Deaths=2
+Sacy: Team=Sentinels, Kills=20, Deaths=11, Assists=8, KDA=2.55, First Kills=2, First Deaths=2
+dephh: Team=Sentinels, Kills=10, Deaths=12, Assists=10, KDA=1.67, First Kills=0, First Deaths=0
+zekken: Team=Sentinels, Kills=13, Deaths=15, Assists=3, KDA=1.07, First Kills=2, First Deaths=3
+pANcada: Team=Sentinels, Kills=9, Deaths=11, Assists=5, KDA=1.27, First Kills=2, First Deaths=2

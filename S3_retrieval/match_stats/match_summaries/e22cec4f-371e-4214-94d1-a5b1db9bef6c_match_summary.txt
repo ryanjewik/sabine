@@ -1,0 +1,172 @@
+Team 1: Cloud9 Blue
+Team 2: Evil Geniuses
+Participating Players:
+Player 1: Demon1
+Player 2: Ethan
+Player 3: JAWGEMO
+Player 4: C0M
+Player 5: Boostio
+Player 6: Leaf
+Player 7: xeppaa
+Player 8: runi
+Player 9: Zellsis
+Player 10: jakee
+Winning Team: Evil Geniuses
+Score: Cloud9 Blue 2 - 13 Evil Geniuses
+Tournament Name: vct americas 2023
+Game Start Time: 2023-05-24T23:02:39Z
+Game End Time: 2023-05-24T23:34:53Z
+Rounds ended by ELIMINATION count: 11
+Rounds ended by DEFUSE count: 3
+Rounds ended by DETONATE count: 1
+SPIKE PLANTED count: 4
+platformGameId: val:e22cec4f-371e-4214-94d1-a5b1db9bef6c
+
+--- Events ---
+Game started at 2023-05-24T23:02:39Z
+jakee killed Demon1  in round 1
+JAWGEMO killed jakee  in round 1
+C0M killed Leaf  in round 1
+xeppaa killed C0M  in round 1
+JAWGEMO killed xeppaa  in round 1
+Boostio killed runi  in round 1
+JAWGEMO killed Zellsis  in round 1
+Round 1 ended with spike_defuse. The winning team is Evil Geniuses.
+The current score is Cloud9 Blue 0 - 1 Evil Geniuses.
+Demon1 killed Leaf  in round 2
+runi killed Demon1  in round 2
+Ethan killed xeppaa  in round 2
+JAWGEMO killed Zellsis  in round 2
+Boostio killed jakee  in round 2
+Ethan killed runi  in round 2
+Round 2 ended with elimination. The winning team is Evil Geniuses.
+The current score is Cloud9 Blue 0 - 2 Evil Geniuses.
+xeppaa killed JAWGEMO  in round 3
+Demon1 killed xeppaa  in round 3
+Demon1 killed Leaf  in round 3
+jakee killed Demon1  in round 3
+Zellsis killed Ethan  in round 3
+Boostio killed Zellsis  in round 3
+C0M killed runi  in round 3
+jakee killed Boostio  in round 3
+C0M killed jakee  in round 3
+Round 3 ended with detonate. The winning team is Cloud9 Blue.
+The current score is Cloud9 Blue 1 - 2 Evil Geniuses.
+Boostio killed Leaf  in round 4
+Zellsis killed Boostio  in round 4
+runi killed JAWGEMO  in round 4
+Demon1 killed runi  in round 4
+C0M killed Zellsis  in round 4
+xeppaa killed C0M  in round 4
+Ethan killed jakee  in round 4
+xeppaa killed Demon1  in round 4
+Ethan killed xeppaa  in round 4
+Round 4 ended with spike_defuse. The winning team is Evil Geniuses.
+The current score is Cloud9 Blue 1 - 3 Evil Geniuses.
+JAWGEMO killed Zellsis  in round 5
+Boostio killed runi  in round 5
+JAWGEMO killed Leaf  in round 5
+Boostio killed jakee  in round 5
+C0M killed xeppaa  in round 5
+Round 5 ended with elimination. The winning team is Evil Geniuses.
+The current score is Cloud9 Blue 1 - 4 Evil Geniuses.
+C0M killed Zellsis  in round 6
+Leaf killed C0M  in round 6
+Boostio killed Leaf  in round 6
+Boostio killed runi  in round 6
+Boostio killed jakee  in round 6
+Demon1 killed xeppaa  in round 6
+Round 6 ended with spike_defuse. The winning team is Evil Geniuses.
+The current score is Cloud9 Blue 1 - 5 Evil Geniuses.
+JAWGEMO killed Zellsis  in round 7
+JAWGEMO killed xeppaa  in round 7
+JAWGEMO killed jakee  in round 7
+Ethan killed runi  in round 7
+Leaf killed JAWGEMO  in round 7
+Leaf killed C0M  in round 7
+Demon1 killed Leaf  in round 7
+Round 7 ended with elimination. The winning team is Evil Geniuses.
+The current score is Cloud9 Blue 1 - 6 Evil Geniuses.
+Ethan killed Leaf  in round 8
+runi killed JAWGEMO  in round 8
+xeppaa killed Ethan  in round 8
+C0M killed runi  in round 8
+xeppaa killed Boostio  in round 8
+Demon1 killed jakee  in round 8
+Zellsis killed C0M  in round 8
+xeppaa killed Demon1  in round 8
+Round 8 ended with elimination. The winning team is Cloud9 Blue.
+The current score is Cloud9 Blue 2 - 6 Evil Geniuses.
+Demon1 killed xeppaa  in round 9
+C0M killed Leaf  in round 9
+C0M killed jakee  in round 9
+Zellsis killed JAWGEMO  in round 9
+C0M killed runi  in round 9
+Ethan killed Zellsis  in round 9
+Round 9 ended with elimination. The winning team is Evil Geniuses.
+The current score is Cloud9 Blue 2 - 7 Evil Geniuses.
+Demon1 killed jakee  in round 10
+Demon1 killed xeppaa  in round 10
+Demon1 killed Zellsis  in round 10
+Leaf killed Ethan  in round 10
+Demon1 killed runi  in round 10
+Leaf killed JAWGEMO  in round 10
+Boostio killed Leaf  in round 10
+Round 10 ended with elimination. The winning team is Evil Geniuses.
+The current score is Cloud9 Blue 2 - 8 Evil Geniuses.
+Zellsis killed Demon1  in round 11
+Boostio killed Leaf  in round 11
+Boostio killed jakee  in round 11
+Boostio killed Zellsis  in round 11
+Boostio killed xeppaa  in round 11
+runi killed Ethan  in round 11
+runi killed Boostio  in round 11
+C0M killed runi  in round 11
+Round 11 ended with elimination. The winning team is Evil Geniuses.
+The current score is Cloud9 Blue 2 - 9 Evil Geniuses.
+JAWGEMO killed Leaf  in round 12
+Boostio killed Zellsis  in round 12
+Boostio killed jakee  in round 12
+xeppaa killed Boostio  in round 12
+JAWGEMO killed xeppaa  in round 12
+JAWGEMO killed runi  in round 12
+Round 12 ended with elimination. The winning team is Evil Geniuses.
+The current score is Cloud9 Blue 2 - 10 Evil Geniuses.
+JAWGEMO killed xeppaa  in round 13
+JAWGEMO killed jakee  in round 13
+Ethan killed Leaf  in round 13
+Zellsis killed Demon1  in round 13
+Boostio killed Zellsis  in round 13
+Ethan killed runi  in round 13
+Round 13 ended with elimination. The winning team is Evil Geniuses.
+The current score is Cloud9 Blue 2 - 11 Evil Geniuses.
+Demon1 killed Leaf  in round 14
+C0M killed Zellsis  in round 14
+Zellsis killed C0M  in round 14
+JAWGEMO killed xeppaa  in round 14
+runi killed Ethan  in round 14
+Boostio killed runi  in round 14
+Boostio killed jakee  in round 14
+Round 14 ended with elimination. The winning team is Evil Geniuses.
+The current score is Cloud9 Blue 2 - 12 Evil Geniuses.
+JAWGEMO killed runi  in round 15
+Boostio killed Zellsis  in round 15
+Boostio killed jakee  in round 15
+C0M killed Leaf  in round 15
+xeppaa killed C0M  in round 15
+Demon1 killed xeppaa  in round 15
+Round 15 ended with elimination. The winning team is Evil Geniuses.
+The current score is Cloud9 Blue 2 - 13 Evil Geniuses.
+Game ended with winning team: Evil Geniuses at 2023-05-24T23:34:53Z
+
+--- Player Stats ---
+Demon1: Team=Evil Geniuses, Kills=14, Deaths=7, Assists=5, KDA=2.71, First Kills=4, First Deaths=2
+Ethan: Team=Evil Geniuses, Kills=9, Deaths=5, Assists=7, KDA=3.2, First Kills=1, First Deaths=0
+JAWGEMO: Team=Evil Geniuses, Kills=16, Deaths=6, Assists=5, KDA=3.5, First Kills=5, First Deaths=1
+C0M: Team=Evil Geniuses, Kills=13, Deaths=7, Assists=4, KDA=2.43, First Kills=1, First Deaths=0
+Boostio: Team=Evil Geniuses, Kills=21, Deaths=5, Assists=3, KDA=4.8, First Kills=1, First Deaths=0
+Leaf: Team=Cloud9 Blue, Kills=5, Deaths=15, Assists=0, KDA=0.33, First Kills=0, First Deaths=5
+xeppaa: Team=Cloud9 Blue, Kills=9, Deaths=14, Assists=5, KDA=1.0, First Kills=1, First Deaths=2
+runi: Team=Cloud9 Blue, Kills=6, Deaths=15, Assists=4, KDA=0.67, First Kills=0, First Deaths=1
+Zellsis: Team=Cloud9 Blue, Kills=7, Deaths=14, Assists=3, KDA=0.71, First Kills=1, First Deaths=3
+jakee: Team=Cloud9 Blue, Kills=3, Deaths=15, Assists=5, KDA=0.53, First Kills=1, First Deaths=1

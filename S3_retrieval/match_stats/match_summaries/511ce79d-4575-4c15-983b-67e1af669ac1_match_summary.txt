@@ -1,0 +1,237 @@
+Team 1: Giants
+Team 2: Team Heretics
+Participating Players:
+Player 1: MiniBoo
+Player 2: RieNs
+Player 3: Boo
+Player 4: benjyfishy
+Player 5: Wo0t
+Player 6: Fit1nho
+Player 7: purp0
+Player 8: Famsii
+Player 9: Cloud
+Player 10: hoody
+Winning Team: Team Heretics
+Score: Giants 9 - 13 Team Heretics
+Tournament Name: vct emea stage 2 2024
+Game Start Time: 2024-07-03T15:46:55Z
+Game End Time: 2024-07-03T16:52:21Z
+Rounds ended by ELIMINATION count: 13
+Rounds ended by DEFUSE count: 5
+Rounds ended by DETONATE count: 4
+SPIKE PLANTED count: 9
+platformGameId: val:511ce79d-4575-4c15-983b-67e1af669ac1
+
+--- Events ---
+Game started at 2024-07-03T15:46:55Z
+RieNs killed purp0  in round 1
+MiniBoo killed Fit1nho  in round 1
+Wo0t killed hoody  in round 1
+RieNs killed Cloud  in round 1
+Famsii killed benjyfishy  in round 1
+RieNs killed Famsii  in round 1
+Round 1 ended with elimination. The winning team is Team Heretics.
+The current score is Giants 0 - 1 Team Heretics.
+Wo0t killed hoody  in round 2
+Wo0t killed Cloud  in round 2
+Fit1nho killed Wo0t  in round 2
+Boo killed Fit1nho  in round 2
+purp0 killed Boo  in round 2
+RieNs killed purp0  in round 2
+MiniBoo killed Famsii  in round 2
+Round 2 ended with spike_defuse. The winning team is Team Heretics.
+The current score is Giants 0 - 2 Team Heretics.
+MiniBoo killed Cloud  in round 3
+purp0 killed Wo0t  in round 3
+benjyfishy killed hoody  in round 3
+Famsii killed RieNs  in round 3
+Famsii killed benjyfishy  in round 3
+MiniBoo killed Famsii  in round 3
+Fit1nho killed MiniBoo  in round 3
+Boo killed purp0  in round 3
+Boo killed Fit1nho  in round 3
+Round 3 ended with spike_defuse. The winning team is Team Heretics.
+The current score is Giants 0 - 3 Team Heretics.
+purp0 killed Boo  in round 4
+Wo0t killed purp0  in round 4
+Fit1nho killed Wo0t  in round 4
+Cloud killed MiniBoo  in round 4
+RieNs killed Cloud  in round 4
+Fit1nho killed RieNs  in round 4
+Round 4 ended with detonate. The winning team is Giants.
+The current score is Giants 1 - 3 Team Heretics.
+RieNs killed purp0  in round 5
+RieNs killed Fit1nho  in round 5
+hoody killed RieNs  in round 5
+Famsii killed benjyfishy  in round 5
+Famsii killed Boo  in round 5
+Cloud killed Wo0t  in round 5
+hoody killed MiniBoo  in round 5
+Round 5 ended with elimination. The winning team is Giants.
+The current score is Giants 2 - 3 Team Heretics.
+MiniBoo killed Cloud  in round 6
+hoody killed MiniBoo  in round 6
+Wo0t killed purp0  in round 6
+Fit1nho killed Boo  in round 6
+Famsii killed Wo0t  in round 6
+RieNs killed Fit1nho  in round 6
+hoody killed benjyfishy  in round 6
+Famsii killed RieNs  in round 6
+Round 6 ended with elimination. The winning team is Giants.
+The current score is Giants 3 - 3 Team Heretics.
+Cloud killed RieNs  in round 7
+Fit1nho killed Wo0t  in round 7
+Famsii killed MiniBoo  in round 7
+Round 7 ended with detonate. The winning team is Giants.
+The current score is Giants 4 - 3 Team Heretics.
+benjyfishy killed Fit1nho  in round 8
+benjyfishy killed Cloud  in round 8
+purp0 killed RieNs  in round 8
+benjyfishy killed purp0  in round 8
+Famsii killed benjyfishy  in round 8
+Boo killed Famsii  in round 8
+hoody killed Boo  in round 8
+MiniBoo killed hoody  in round 8
+Round 8 ended with spike_defuse. The winning team is Team Heretics.
+The current score is Giants 4 - 4 Team Heretics.
+Boo killed purp0  in round 9
+Fit1nho killed MiniBoo  in round 9
+Cloud killed RieNs  in round 9
+Boo killed Cloud  in round 9
+Boo killed hoody  in round 9
+Famsii killed Boo  in round 9
+Fit1nho killed benjyfishy  in round 9
+Fit1nho killed Wo0t  in round 9
+Round 9 ended with elimination. The winning team is Giants.
+The current score is Giants 5 - 4 Team Heretics.
+purp0 killed Wo0t  in round 10
+hoody killed MiniBoo  in round 10
+Cloud killed RieNs  in round 10
+benjyfishy killed Fit1nho  in round 10
+purp0 killed Boo  in round 10
+benjyfishy killed purp0  in round 10
+Cloud killed benjyfishy  in round 10
+Round 10 ended with elimination. The winning team is Giants.
+The current score is Giants 6 - 4 Team Heretics.
+purp0 killed Boo  in round 11
+benjyfishy killed Cloud  in round 11
+benjyfishy killed purp0  in round 11
+RieNs killed Famsii  in round 11
+MiniBoo killed hoody  in round 11
+Fit1nho killed benjyfishy  in round 11
+RieNs killed Fit1nho  in round 11
+Round 11 ended with elimination. The winning team is Team Heretics.
+The current score is Giants 6 - 5 Team Heretics.
+MiniBoo killed Fit1nho  in round 12
+MiniBoo killed purp0  in round 12
+Famsii killed MiniBoo  in round 12
+Boo killed Cloud  in round 12
+Boo killed Famsii  in round 12
+Boo killed hoody  in round 12
+Round 12 ended with elimination. The winning team is Team Heretics.
+The current score is Giants 6 - 6 Team Heretics.
+MiniBoo killed Fit1nho  in round 13
+Famsii killed Boo  in round 13
+benjyfishy killed purp0  in round 13
+RieNs killed Famsii  in round 13
+Cloud killed MiniBoo  in round 13
+benjyfishy killed hoody  in round 13
+benjyfishy killed Cloud  in round 13
+Round 13 ended with elimination. The winning team is Team Heretics.
+The current score is Giants 6 - 7 Team Heretics.
+MiniBoo killed Cloud  in round 14
+hoody killed MiniBoo  in round 14
+benjyfishy killed Famsii  in round 14
+Wo0t killed hoody  in round 14
+Round 14 ended with detonate. The winning team is Team Heretics.
+The current score is Giants 6 - 8 Team Heretics.
+Fit1nho killed Fit1nho  in round 15
+purp0 killed purp0  in round 15
+Fit1nho killed Wo0t  in round 15
+benjyfishy killed purp0  in round 15
+benjyfishy killed Cloud  in round 15
+hoody killed benjyfishy  in round 15
+hoody killed RieNs  in round 15
+Boo killed hoody  in round 15
+Fit1nho killed MiniBoo  in round 15
+Fit1nho killed Boo  in round 15
+Round 15 ended with spike_defuse. The winning team is Giants.
+The current score is Giants 7 - 8 Team Heretics.
+RieNs killed hoody  in round 16
+Cloud killed RieNs  in round 16
+Cloud killed MiniBoo  in round 16
+benjyfishy killed Cloud  in round 16
+Wo0t killed purp0  in round 16
+benjyfishy killed Fit1nho  in round 16
+Boo killed Famsii  in round 16
+Round 16 ended with elimination. The winning team is Team Heretics.
+The current score is Giants 7 - 9 Team Heretics.
+benjyfishy killed Cloud  in round 17
+MiniBoo killed hoody  in round 17
+Famsii killed MiniBoo  in round 17
+Boo killed Famsii  in round 17
+Round 17 ended with detonate. The winning team is Team Heretics.
+The current score is Giants 7 - 10 Team Heretics.
+Fit1nho killed Fit1nho  in round 18
+purp0 killed purp0  in round 18
+Cloud killed benjyfishy  in round 18
+MiniBoo killed Cloud  in round 18
+Boo killed hoody  in round 18
+Fit1nho killed MiniBoo  in round 18
+Wo0t killed Fit1nho  in round 18
+purp0 killed RieNs  in round 18
+Wo0t killed purp0  in round 18
+Famsii killed Wo0t  in round 18
+Boo killed Famsii  in round 18
+Round 18 ended with elimination. The winning team is Team Heretics.
+The current score is Giants 7 - 11 Team Heretics.
+Famsii killed benjyfishy  in round 19
+Boo killed Famsii  in round 19
+hoody killed Boo  in round 19
+MiniBoo killed hoody  in round 19
+Fit1nho killed MiniBoo  in round 19
+RieNs killed Fit1nho  in round 19
+RieNs killed Cloud  in round 19
+RieNs killed purp0  in round 19
+Round 19 ended with elimination. The winning team is Team Heretics.
+The current score is Giants 7 - 12 Team Heretics.
+Fit1nho killed MiniBoo  in round 20
+Boo killed Famsii  in round 20
+RieNs killed Fit1nho  in round 20
+purp0 killed Wo0t  in round 20
+Boo killed purp0  in round 20
+Cloud killed benjyfishy  in round 20
+hoody killed RieNs  in round 20
+Boo killed Cloud  in round 20
+hoody killed Boo  in round 20
+Round 20 ended with spike_defuse. The winning team is Giants.
+The current score is Giants 8 - 12 Team Heretics.
+purp0 killed Wo0t  in round 21
+Cloud killed MiniBoo  in round 21
+Cloud killed Boo  in round 21
+Cloud killed benjyfishy  in round 21
+hoody killed RieNs  in round 21
+Round 21 ended with elimination. The winning team is Giants.
+The current score is Giants 9 - 12 Team Heretics.
+Fit1nho killed MiniBoo  in round 22
+benjyfishy killed Fit1nho  in round 22
+Famsii killed benjyfishy  in round 22
+Boo killed Famsii  in round 22
+Wo0t killed Cloud  in round 22
+Wo0t killed hoody  in round 22
+Boo killed purp0  in round 22
+Round 22 ended with elimination. The winning team is Team Heretics.
+The current score is Giants 9 - 13 Team Heretics.
+Game ended with winning team: Team Heretics at 2024-07-03T16:52:21Z
+
+--- Player Stats ---
+MiniBoo: Team=Team Heretics, Kills=14, Deaths=18, Assists=9, KDA=1.28, First Kills=5, First Deaths=2
+RieNs: Team=Team Heretics, Kills=16, Deaths=13, Assists=7, KDA=1.77, First Kills=3, First Deaths=1
+Boo: Team=Team Heretics, Kills=21, Deaths=13, Assists=12, KDA=2.54, First Kills=1, First Deaths=2
+benjyfishy: Team=Team Heretics, Kills=18, Deaths=14, Assists=5, KDA=1.64, First Kills=2, First Deaths=1
+Wo0t: Team=Team Heretics, Kills=11, Deaths=12, Assists=4, KDA=1.25, First Kills=1, First Deaths=2
+Fit1nho: Team=Giants, Kills=19, Deaths=17, Assists=5, KDA=1.41, First Kills=4, First Deaths=5
+purp0: Team=Giants, Kills=12, Deaths=20, Assists=3, KDA=0.75, First Kills=4, First Deaths=3
+Famsii: Team=Giants, Kills=16, Deaths=14, Assists=5, KDA=1.5, First Kills=1, First Deaths=0
+Cloud: Team=Giants, Kills=14, Deaths=18, Assists=10, KDA=1.33, First Kills=1, First Deaths=4
+hoody: Team=Giants, Kills=13, Deaths=15, Assists=12, KDA=1.67, First Kills=0, First Deaths=2

@@ -1,0 +1,208 @@
+Team 1: Gen.G Esports
+Team 2: DRX
+Participating Players:
+Player 1: MaKo
+Player 2: Foxy9
+Player 3: stax
+Player 4: BeYN
+Player 5: BuZz
+Player 6: t3xture
+Player 7: Lakia
+Player 8: Munchkin
+Player 9: Meteor 
+Player 10: Karon
+Winning Team: DRX
+Score: Gen.G Esports 7 - 13 DRX
+Tournament Name: vct pacific stage 1 2024
+Game Start Time: 2024-04-20T10:04:32Z
+Game End Time: 2024-04-20T10:48:52Z
+Rounds ended by ELIMINATION count: 17
+Rounds ended by DEFUSE count: 0
+Rounds ended by DETONATE count: 2
+SPIKE PLANTED count: 2
+platformGameId: val:d106c4a2-7c71-4f91-b7c7-046e07c2f30f
+
+--- Events ---
+Game started at 2024-04-20T10:04:32Z
+t3xture killed Foxy9  in round 1
+Meteor  killed BeYN  in round 1
+MaKo killed Lakia  in round 1
+Meteor  killed stax  in round 1
+Meteor  killed MaKo  in round 1
+Meteor  killed BuZz  in round 1
+Round 1 ended with elimination. The winning team is Gen.G Esports.
+The current score is Gen.G Esports 1 - 0 DRX.
+Munchkin killed stax  in round 2
+Munchkin killed BeYN  in round 2
+t3xture killed Foxy9  in round 2
+Meteor  killed MaKo  in round 2
+BuZz killed Karon  in round 2
+Meteor  killed BuZz  in round 2
+Round 2 ended with elimination. The winning team is Gen.G Esports.
+The current score is Gen.G Esports 2 - 0 DRX.
+BeYN killed Karon  in round 3
+BuZz killed Meteor   in round 3
+BuZz killed Munchkin  in round 3
+BeYN killed t3xture  in round 3
+Foxy9 killed Lakia  in round 3
+Round 3 ended with elimination. The winning team is DRX.
+The current score is Gen.G Esports 2 - 1 DRX.
+Meteor  killed Foxy9  in round 4
+Meteor  killed BuZz  in round 4
+Round 4 ended with detonate. The winning team is Gen.G Esports.
+The current score is Gen.G Esports 3 - 1 DRX.
+Meteor  killed MaKo  in round 5
+stax killed Meteor   in round 5
+BeYN killed t3xture  in round 5
+Foxy9 killed Lakia  in round 5
+BeYN killed Karon  in round 5
+stax killed Munchkin  in round 5
+Round 5 ended with elimination. The winning team is DRX.
+The current score is Gen.G Esports 3 - 2 DRX.
+BeYN killed Meteor   in round 6
+Karon killed BeYN  in round 6
+stax killed Karon  in round 6
+t3xture killed MaKo  in round 6
+Munchkin killed stax  in round 6
+t3xture killed BuZz  in round 6
+t3xture killed Foxy9  in round 6
+Round 6 ended with elimination. The winning team is Gen.G Esports.
+The current score is Gen.G Esports 4 - 2 DRX.
+BuZz killed t3xture  in round 7
+BeYN killed Karon  in round 7
+BeYN killed Munchkin  in round 7
+Foxy9 killed Meteor   in round 7
+Foxy9 killed Lakia  in round 7
+Round 7 ended with elimination. The winning team is DRX.
+The current score is Gen.G Esports 4 - 3 DRX.
+stax killed Karon  in round 8
+BeYN killed Meteor   in round 8
+MaKo killed Munchkin  in round 8
+t3xture killed BuZz  in round 8
+MaKo killed Lakia  in round 8
+BeYN killed t3xture  in round 8
+Round 8 ended with elimination. The winning team is DRX.
+The current score is Gen.G Esports 4 - 4 DRX.
+Foxy9 killed Meteor   in round 9
+Lakia killed BeYN  in round 9
+Foxy9 killed Lakia  in round 9
+t3xture killed Foxy9  in round 9
+MaKo killed t3xture  in round 9
+Karon killed stax  in round 9
+Karon killed MaKo  in round 9
+Karon killed BuZz  in round 9
+Round 9 ended with elimination. The winning team is Gen.G Esports.
+The current score is Gen.G Esports 5 - 4 DRX.
+BuZz killed Karon  in round 10
+t3xture killed BuZz  in round 10
+t3xture killed MaKo  in round 10
+Foxy9 killed Lakia  in round 10
+Meteor  killed stax  in round 10
+t3xture killed Foxy9  in round 10
+BeYN killed t3xture  in round 10
+Munchkin killed BeYN  in round 10
+Round 10 ended with elimination. The winning team is Gen.G Esports.
+The current score is Gen.G Esports 6 - 4 DRX.
+BeYN killed t3xture  in round 11
+Karon killed BuZz  in round 11
+BeYN killed Karon  in round 11
+MaKo killed Meteor   in round 11
+Foxy9 killed Lakia  in round 11
+Round 11 ended with time_expired. The winning team is DRX.
+The current score is Gen.G Esports 6 - 5 DRX.
+Meteor  killed MaKo  in round 12
+stax killed Lakia  in round 12
+Foxy9 killed Meteor   in round 12
+Foxy9 killed Karon  in round 12
+Foxy9 killed t3xture  in round 12
+Munchkin killed Foxy9  in round 12
+stax killed Munchkin  in round 12
+Round 12 ended with elimination. The winning team is DRX.
+The current score is Gen.G Esports 6 - 6 DRX.
+MaKo killed t3xture  in round 13
+Munchkin killed MaKo  in round 13
+BeYN killed Munchkin  in round 13
+stax killed Lakia  in round 13
+Karon killed stax  in round 13
+Foxy9 killed Meteor   in round 13
+Foxy9 killed Karon  in round 13
+Round 13 ended with elimination. The winning team is DRX.
+The current score is Gen.G Esports 6 - 7 DRX.
+Meteor  killed stax  in round 14
+BeYN killed Meteor   in round 14
+MaKo killed Lakia  in round 14
+Round 14 ended with detonate. The winning team is DRX.
+The current score is Gen.G Esports 6 - 8 DRX.
+t3xture killed t3xture  in round 15
+Karon killed Karon  in round 15
+Munchkin killed Munchkin  in round 15
+MaKo killed t3xture  in round 15
+BuZz killed Munchkin  in round 15
+Karon killed BuZz  in round 15
+Karon killed MaKo  in round 15
+Lakia killed BeYN  in round 15
+stax killed Lakia  in round 15
+Meteor  killed stax  in round 15
+Foxy9 killed Karon  in round 15
+Foxy9 killed Meteor   in round 15
+Round 15 ended with elimination. The winning team is DRX.
+The current score is Gen.G Esports 6 - 9 DRX.
+BuZz killed Munchkin  in round 16
+stax killed t3xture  in round 16
+BuZz killed Karon  in round 16
+Foxy9 killed Meteor   in round 16
+BuZz killed Lakia  in round 16
+Round 16 ended with elimination. The winning team is DRX.
+The current score is Gen.G Esports 6 - 10 DRX.
+BeYN killed BeYN  in round 17
+stax killed stax  in round 17
+Meteor  killed BeYN  in round 17
+BuZz killed Meteor   in round 17
+Lakia killed BuZz  in round 17
+MaKo killed Lakia  in round 17
+stax killed t3xture  in round 17
+MaKo killed Karon  in round 17
+stax killed Munchkin  in round 17
+Round 17 ended with elimination. The winning team is DRX.
+The current score is Gen.G Esports 6 - 11 DRX.
+Karon killed stax  in round 18
+BuZz killed BuZz  in round 18
+BuZz killed Karon  in round 18
+Munchkin killed MaKo  in round 18
+Munchkin killed BeYN  in round 18
+t3xture killed Foxy9  in round 18
+Round 18 ended with elimination. The winning team is Gen.G Esports.
+The current score is Gen.G Esports 7 - 11 DRX.
+BuZz killed Meteor   in round 19
+BuZz killed Lakia  in round 19
+Munchkin killed BuZz  in round 19
+Karon killed MaKo  in round 19
+stax killed Karon  in round 19
+BeYN killed Munchkin  in round 19
+t3xture killed BeYN  in round 19
+stax killed t3xture  in round 19
+Round 19 ended with elimination. The winning team is DRX.
+The current score is Gen.G Esports 7 - 12 DRX.
+stax killed t3xture  in round 20
+stax killed Karon  in round 20
+Lakia killed stax  in round 20
+Munchkin killed Foxy9  in round 20
+MaKo killed Munchkin  in round 20
+Lakia killed BuZz  in round 20
+BeYN killed Lakia  in round 20
+BeYN killed Meteor   in round 20
+Round 20 ended with elimination. The winning team is DRX.
+The current score is Gen.G Esports 7 - 13 DRX.
+Game ended with winning team: DRX at 2024-04-20T10:48:52Z
+
+--- Player Stats ---
+MaKo: Team=DRX, Kills=11, Deaths=11, Assists=5, KDA=1.45, First Kills=1, First Deaths=2
+Foxy9: Team=DRX, Kills=16, Deaths=9, Assists=7, KDA=2.56, First Kills=1, First Deaths=2
+stax: Team=DRX, Kills=16, Deaths=11, Assists=4, KDA=1.82, First Kills=2, First Deaths=3
+BeYN: Team=DRX, Kills=18, Deaths=10, Assists=12, KDA=3.0, First Kills=4, First Deaths=1
+BuZz: Team=DRX, Kills=14, Deaths=13, Assists=2, KDA=1.23, First Kills=4, First Deaths=0
+t3xture: Team=Gen.G Esports, Kills=13, Deaths=15, Assists=1, KDA=0.93, First Kills=2, First Deaths=5
+Lakia: Team=Gen.G Esports, Kills=5, Deaths=16, Assists=6, KDA=0.69, First Kills=0, First Deaths=0
+Munchkin: Team=Gen.G Esports, Kills=11, Deaths=12, Assists=6, KDA=1.42, First Kills=1, First Deaths=1
+Meteor : Team=Gen.G Esports, Kills=14, Deaths=15, Assists=1, KDA=1.0, First Kills=4, First Deaths=3
+Karon: Team=Gen.G Esports, Kills=11, Deaths=17, Assists=4, KDA=0.88, First Kills=1, First Deaths=3

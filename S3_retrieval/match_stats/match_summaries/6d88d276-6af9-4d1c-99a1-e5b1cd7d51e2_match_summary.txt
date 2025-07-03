@@ -1,0 +1,354 @@
+Team 1: T1
+Team 2: Bleed Esports
+Participating Players:
+Player 1: Egoist
+Player 2: Deryeon
+Player 3: crazyguy
+Player 4: sScary
+Player 5: yay
+Player 6: Xccurate
+Player 7: Rossy
+Player 8: carpe
+Player 9: iZu
+Player 10: Sayaplayer
+Winning Team: T1
+Score: T1 18 - 16 Bleed Esports
+Tournament Name: vct pacific kickoff 2024
+Game Start Time: 2024-02-17T08:57:54Z
+Game End Time: 2024-02-17T12:18:25Z
+Rounds ended by ELIMINATION count: 18
+Rounds ended by DEFUSE count: 12
+Rounds ended by DETONATE count: 4
+SPIKE PLANTED count: 16
+platformGameId: val:6d88d276-6af9-4d1c-99a1-e5b1cd7d51e2
+
+--- Events ---
+Game started at 2024-02-17T08:57:54Z
+yay killed Xccurate  in round 1
+Sayaplayer killed yay  in round 1
+Egoist killed iZu  in round 1
+Deryeon killed carpe  in round 1
+crazyguy killed Sayaplayer  in round 1
+sScary killed Rossy  in round 1
+Round 1 ended with elimination. The winning team is Bleed Esports.
+The current score is T1 0 - 1 Bleed Esports.
+crazyguy killed Sayaplayer  in round 2
+crazyguy killed Rossy  in round 2
+Deryeon killed Xccurate  in round 2
+Deryeon killed iZu  in round 2
+Deryeon killed carpe  in round 2
+Round 2 ended with elimination. The winning team is Bleed Esports.
+The current score is T1 0 - 2 Bleed Esports.
+Egoist killed carpe  in round 3
+Sayaplayer killed Egoist  in round 3
+iZu killed sScary  in round 3
+Xccurate killed yay  in round 3
+Deryeon killed iZu  in round 3
+Xccurate killed crazyguy  in round 3
+Sayaplayer killed Deryeon  in round 3
+Round 3 ended with elimination. The winning team is T1.
+The current score is T1 1 - 2 Bleed Esports.
+crazyguy killed Rossy  in round 4
+Deryeon killed Xccurate  in round 4
+Deryeon killed iZu  in round 4
+Sayaplayer killed Deryeon  in round 4
+Sayaplayer killed crazyguy  in round 4
+Sayaplayer killed Egoist  in round 4
+sScary killed Sayaplayer  in round 4
+yay killed carpe  in round 4
+Round 4 ended with spike_defuse. The winning team is Bleed Esports.
+The current score is T1 1 - 3 Bleed Esports.
+Sayaplayer killed Egoist  in round 5
+sScary killed iZu  in round 5
+yay killed carpe  in round 5
+Deryeon killed Xccurate  in round 5
+Deryeon killed Sayaplayer  in round 5
+Rossy killed Deryeon  in round 5
+Rossy killed crazyguy  in round 5
+sScary killed Rossy  in round 5
+Round 5 ended with spike_defuse. The winning team is Bleed Esports.
+The current score is T1 1 - 4 Bleed Esports.
+yay killed iZu  in round 6
+yay killed Sayaplayer  in round 6
+sScary killed Xccurate  in round 6
+sScary killed carpe  in round 6
+Rossy killed sScary  in round 6
+Egoist killed Rossy  in round 6
+Round 6 ended with spike_defuse. The winning team is Bleed Esports.
+The current score is T1 1 - 5 Bleed Esports.
+sScary killed iZu  in round 7
+Sayaplayer killed Deryeon  in round 7
+Egoist killed Sayaplayer  in round 7
+crazyguy killed Rossy  in round 7
+crazyguy killed carpe  in round 7
+crazyguy killed Xccurate  in round 7
+Round 7 ended with spike_defuse. The winning team is Bleed Esports.
+The current score is T1 1 - 6 Bleed Esports.
+iZu killed sScary  in round 8
+crazyguy killed iZu  in round 8
+Xccurate killed yay  in round 8
+Xccurate killed Deryeon  in round 8
+crazyguy killed Xccurate  in round 8
+carpe killed crazyguy  in round 8
+Egoist killed carpe  in round 8
+Sayaplayer killed Egoist  in round 8
+Round 8 ended with elimination. The winning team is T1.
+The current score is T1 2 - 6 Bleed Esports.
+carpe killed Deryeon  in round 9
+Sayaplayer killed crazyguy  in round 9
+yay killed iZu  in round 9
+Sayaplayer killed yay  in round 9
+carpe killed Egoist  in round 9
+sScary killed carpe  in round 9
+Rossy killed sScary  in round 9
+Round 9 ended with elimination. The winning team is T1.
+The current score is T1 3 - 6 Bleed Esports.
+Sayaplayer killed crazyguy  in round 10
+yay killed Xccurate  in round 10
+iZu killed sScary  in round 10
+iZu killed Deryeon  in round 10
+Egoist killed iZu  in round 10
+carpe killed yay  in round 10
+Egoist killed Rossy  in round 10
+Sayaplayer killed Egoist  in round 10
+Round 10 ended with elimination. The winning team is T1.
+The current score is T1 4 - 6 Bleed Esports.
+iZu killed Egoist  in round 11
+Deryeon killed carpe  in round 11
+Sayaplayer killed crazyguy  in round 11
+yay killed Xccurate  in round 11
+Sayaplayer killed yay  in round 11
+iZu killed Deryeon  in round 11
+iZu killed sScary  in round 11
+Round 11 ended with elimination. The winning team is T1.
+The current score is T1 5 - 6 Bleed Esports.
+Deryeon killed Sayaplayer  in round 12
+iZu killed Deryeon  in round 12
+iZu killed yay  in round 12
+sScary killed Rossy  in round 12
+iZu killed sScary  in round 12
+iZu killed crazyguy  in round 12
+iZu killed Egoist  in round 12
+Round 12 ended with elimination. The winning team is T1.
+The current score is T1 6 - 6 Bleed Esports.
+Xccurate killed crazyguy  in round 13
+Egoist killed Xccurate  in round 13
+carpe killed Egoist  in round 13
+sScary killed iZu  in round 13
+carpe killed sScary  in round 13
+yay killed carpe  in round 13
+Deryeon killed Sayaplayer  in round 13
+Rossy killed Deryeon  in round 13
+yay killed Rossy  in round 13
+Round 13 ended with elimination. The winning team is Bleed Esports.
+The current score is T1 6 - 7 Bleed Esports.
+sScary killed Sayaplayer  in round 14
+yay killed Xccurate  in round 14
+yay killed Rossy  in round 14
+yay killed carpe  in round 14
+sScary killed iZu  in round 14
+Round 14 ended with elimination. The winning team is Bleed Esports.
+The current score is T1 6 - 8 Bleed Esports.
+iZu killed yay  in round 15
+Deryeon killed Rossy  in round 15
+iZu killed Egoist  in round 15
+Sayaplayer killed sScary  in round 15
+Xccurate killed Deryeon  in round 15
+crazyguy killed Sayaplayer  in round 15
+Round 15 ended with spike_defuse. The winning team is T1.
+The current score is T1 7 - 8 Bleed Esports.
+Deryeon killed carpe  in round 16
+iZu killed Deryeon  in round 16
+crazyguy killed Rossy  in round 16
+Xccurate killed yay  in round 16
+Egoist killed iZu  in round 16
+Xccurate killed crazyguy  in round 16
+Sayaplayer killed Egoist  in round 16
+sScary killed Sayaplayer  in round 16
+sScary killed Xccurate  in round 16
+Round 16 ended with elimination. The winning team is Bleed Esports.
+The current score is T1 7 - 9 Bleed Esports.
+sScary killed Sayaplayer  in round 17
+Xccurate killed sScary  in round 17
+carpe killed Egoist  in round 17
+carpe killed crazyguy  in round 17
+yay killed carpe  in round 17
+yay killed Rossy  in round 17
+yay killed Xccurate  in round 17
+iZu killed yay  in round 17
+Deryeon killed iZu  in round 17
+Round 17 ended with elimination. The winning team is Bleed Esports.
+The current score is T1 7 - 10 Bleed Esports.
+Sayaplayer killed crazyguy  in round 18
+carpe killed Deryeon  in round 18
+yay killed Sayaplayer  in round 18
+carpe killed yay  in round 18
+sScary killed Xccurate  in round 18
+Egoist killed iZu  in round 18
+carpe killed Egoist  in round 18
+carpe killed sScary  in round 18
+Round 18 ended with spike_defuse. The winning team is T1.
+The current score is T1 8 - 10 Bleed Esports.
+yay killed Xccurate  in round 19
+yay killed Rossy  in round 19
+Round 19 ended with detonate. The winning team is Bleed Esports.
+The current score is T1 8 - 11 Bleed Esports.
+yay killed iZu  in round 20
+Sayaplayer killed crazyguy  in round 20
+carpe killed yay  in round 20
+Deryeon killed carpe  in round 20
+Deryeon killed Xccurate  in round 20
+Rossy killed Egoist  in round 20
+Rossy killed Deryeon  in round 20
+sScary killed Rossy  in round 20
+Sayaplayer killed sScary  in round 20
+Round 20 ended with spike_defuse. The winning team is T1.
+The current score is T1 9 - 11 Bleed Esports.
+Sayaplayer killed yay  in round 21
+Xccurate killed Egoist  in round 21
+iZu killed crazyguy  in round 21
+Deryeon killed Sayaplayer  in round 21
+Deryeon killed carpe  in round 21
+Xccurate killed Deryeon  in round 21
+iZu killed sScary  in round 21
+Round 21 ended with spike_defuse. The winning team is T1.
+The current score is T1 10 - 11 Bleed Esports.
+Sayaplayer killed yay  in round 22
+Rossy killed Deryeon  in round 22
+Rossy killed Egoist  in round 22
+Xccurate killed sScary  in round 22
+crazyguy killed Xccurate  in round 22
+Sayaplayer killed crazyguy  in round 22
+Round 22 ended with elimination. The winning team is T1.
+The current score is T1 11 - 11 Bleed Esports.
+Deryeon killed iZu  in round 23
+Xccurate killed yay  in round 23
+carpe killed Egoist  in round 23
+Deryeon killed Xccurate  in round 23
+carpe killed crazyguy  in round 23
+Sayaplayer killed sScary  in round 23
+Sayaplayer killed Deryeon  in round 23
+Round 23 ended with elimination. The winning team is T1.
+The current score is T1 12 - 11 Bleed Esports.
+Deryeon killed Rossy  in round 24
+Egoist killed iZu  in round 24
+Sayaplayer killed Deryeon  in round 24
+yay killed Sayaplayer  in round 24
+Xccurate killed yay  in round 24
+carpe killed Egoist  in round 24
+sScary killed carpe  in round 24
+Round 24 ended with detonate. The winning team is Bleed Esports.
+The current score is T1 12 - 12 Bleed Esports.
+Xccurate killed Xccurate  in round 25
+crazyguy killed crazyguy  in round 25
+sScary killed sScary  in round 25
+yay killed iZu  in round 25
+yay killed Sayaplayer  in round 25
+Rossy killed Egoist  in round 25
+Xccurate killed crazyguy  in round 25
+yay killed Xccurate  in round 25
+carpe killed yay  in round 25
+Rossy killed Deryeon  in round 25
+sScary killed carpe  in round 25
+sScary killed Rossy  in round 25
+Round 25 ended with spike_defuse. The winning team is Bleed Esports.
+The current score is T1 12 - 13 Bleed Esports.
+Sayaplayer killed sScary  in round 26
+Rossy killed yay  in round 26
+crazyguy killed Rossy  in round 26
+carpe killed Deryeon  in round 26
+crazyguy killed carpe  in round 26
+Egoist killed iZu  in round 26
+Xccurate killed crazyguy  in round 26
+Xccurate killed Egoist  in round 26
+Round 26 ended with spike_defuse. The winning team is T1.
+The current score is T1 13 - 13 Bleed Esports.
+carpe killed yay  in round 27
+Sayaplayer killed crazyguy  in round 27
+Deryeon killed Sayaplayer  in round 27
+iZu killed Deryeon  in round 27
+sScary killed carpe  in round 27
+Egoist killed iZu  in round 27
+Egoist killed Rossy  in round 27
+sScary killed Xccurate  in round 27
+Round 27 ended with spike_defuse. The winning team is Bleed Esports.
+The current score is T1 13 - 14 Bleed Esports.
+carpe killed yay  in round 28
+Deryeon killed carpe  in round 28
+Xccurate killed sScary  in round 28
+Xccurate killed crazyguy  in round 28
+iZu killed Egoist  in round 28
+Xccurate killed Deryeon  in round 28
+Round 28 ended with elimination. The winning team is T1.
+The current score is T1 14 - 14 Bleed Esports.
+Deryeon killed iZu  in round 29
+Sayaplayer killed Deryeon  in round 29
+yay killed Sayaplayer  in round 29
+Rossy killed yay  in round 29
+sScary killed Rossy  in round 29
+sScary killed carpe  in round 29
+Xccurate killed sScary  in round 29
+crazyguy killed Xccurate  in round 29
+Round 29 ended with elimination. The winning team is Bleed Esports.
+The current score is T1 14 - 15 Bleed Esports.
+Egoist killed iZu  in round 30
+Xccurate killed yay  in round 30
+carpe killed crazyguy  in round 30
+Deryeon killed Sayaplayer  in round 30
+Xccurate killed Deryeon  in round 30
+Rossy killed Egoist  in round 30
+Rossy killed sScary  in round 30
+sScary killed carpe  in round 30
+Round 30 ended with spike_defuse. The winning team is T1.
+The current score is T1 15 - 15 Bleed Esports.
+Sayaplayer killed yay  in round 31
+Sayaplayer killed crazyguy  in round 31
+Deryeon killed Xccurate  in round 31
+Sayaplayer killed sScary  in round 31
+Deryeon killed carpe  in round 31
+Sayaplayer killed Egoist  in round 31
+iZu killed Deryeon  in round 31
+Round 31 ended with elimination. The winning team is T1.
+The current score is T1 16 - 15 Bleed Esports.
+yay killed iZu  in round 32
+Xccurate killed crazyguy  in round 32
+Xccurate killed yay  in round 32
+Egoist killed Xccurate  in round 32
+carpe killed Deryeon  in round 32
+carpe killed Egoist  in round 32
+sScary killed Rossy  in round 32
+sScary killed Sayaplayer  in round 32
+Round 32 ended with detonate. The winning team is Bleed Esports.
+The current score is T1 16 - 16 Bleed Esports.
+carpe killed carpe  in round 33
+Deryeon killed carpe  in round 33
+Xccurate killed Deryeon  in round 33
+Egoist killed Xccurate  in round 33
+Sayaplayer killed Egoist  in round 33
+yay killed Rossy  in round 33
+iZu killed yay  in round 33
+Sayaplayer killed crazyguy  in round 33
+sScary killed Sayaplayer  in round 33
+Round 33 ended with detonate. The winning team is T1.
+The current score is T1 17 - 16 Bleed Esports.
+sScary killed sScary  in round 34
+Sayaplayer killed yay  in round 34
+Xccurate killed Egoist  in round 34
+Xccurate killed Deryeon  in round 34
+Xccurate killed crazyguy  in round 34
+Rossy killed sScary  in round 34
+Round 34 ended with elimination. The winning team is T1.
+The current score is T1 18 - 16 Bleed Esports.
+Game ended with winning team: T1 at 2024-02-17T12:18:25Z
+
+--- Player Stats ---
+Egoist: Team=Bleed Esports, Kills=17, Deaths=26, Assists=10, KDA=1.04, First Kills=2, First Deaths=2
+Deryeon: Team=Bleed Esports, Kills=29, Deaths=28, Assists=6, KDA=1.25, First Kills=5, First Deaths=1
+crazyguy: Team=Bleed Esports, Kills=16, Deaths=26, Assists=9, KDA=0.96, First Kills=2, First Deaths=3
+sScary: Team=Bleed Esports, Kills=30, Deaths=23, Assists=10, KDA=1.74, First Kills=4, First Deaths=3
+yay: Team=Bleed Esports, Kills=27, Deaths=26, Assists=6, KDA=1.27, First Kills=5, First Deaths=6
+Xccurate: Team=T1, Kills=30, Deaths=25, Assists=7, KDA=1.48, First Kills=2, First Deaths=3
+Rossy: Team=T1, Kills=16, Deaths=22, Assists=8, KDA=1.09, First Kills=0, First Deaths=2
+carpe: Team=T1, Kills=24, Deaths=26, Assists=11, KDA=1.35, First Kills=4, First Deaths=3
+iZu: Team=T1, Kills=22, Deaths=24, Assists=9, KDA=1.29, First Kills=3, First Deaths=7
+Sayaplayer: Team=T1, Kills=36, Deaths=21, Assists=1, KDA=1.76, First Kills=7, First Deaths=4

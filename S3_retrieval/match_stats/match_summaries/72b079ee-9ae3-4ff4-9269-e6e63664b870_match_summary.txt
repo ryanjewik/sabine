@@ -1,0 +1,201 @@
+Team 1: FNATIC
+Team 2: Giants
+Participating Players:
+Player 1: Fit1nho
+Player 2: purp0
+Player 3: Redgar
+Player 4: Cloud
+Player 5: hoody
+Player 6: Chronicle
+Player 7: Derke
+Player 8: Boaster
+Player 9: Leo 
+Player 10: Alfajer
+Winning Team: Giants
+Score: FNATIC 5 - 13 Giants
+Tournament Name: vct emea stage 1 2024
+Game Start Time: 2024-04-12T15:50:39Z
+Game End Time: 2024-04-12T16:28:15Z
+Rounds ended by ELIMINATION count: 12
+Rounds ended by DEFUSE count: 4
+Rounds ended by DETONATE count: 2
+SPIKE PLANTED count: 6
+platformGameId: val:72b079ee-9ae3-4ff4-9269-e6e63664b870
+
+--- Events ---
+Game started at 2024-04-12T15:50:39Z
+Fit1nho killed Derke  in round 1
+Fit1nho killed Chronicle  in round 1
+hoody killed Boaster  in round 1
+Alfajer killed purp0  in round 1
+Redgar killed Alfajer  in round 1
+Cloud killed Leo   in round 1
+Round 1 ended with elimination. The winning team is Giants.
+The current score is FNATIC 0 - 1 Giants.
+purp0 killed Chronicle  in round 2
+Alfajer killed Cloud  in round 2
+Alfajer killed hoody  in round 2
+Fit1nho killed Alfajer  in round 2
+purp0 killed Derke  in round 2
+Fit1nho killed Leo   in round 2
+Redgar killed Boaster  in round 2
+Round 2 ended with spike_defuse. The winning team is Giants.
+The current score is FNATIC 0 - 2 Giants.
+Alfajer killed Fit1nho  in round 3
+Alfajer killed purp0  in round 3
+Alfajer killed hoody  in round 3
+Derke killed Cloud  in round 3
+Redgar killed Derke  in round 3
+Round 3 ended with detonate. The winning team is FNATIC.
+The current score is FNATIC 1 - 2 Giants.
+Redgar killed Boaster  in round 4
+Fit1nho killed Alfajer  in round 4
+hoody killed Derke  in round 4
+Chronicle killed Cloud  in round 4
+Chronicle killed hoody  in round 4
+Fit1nho killed Chronicle  in round 4
+Fit1nho killed Leo   in round 4
+Round 4 ended with spike_defuse. The winning team is Giants.
+The current score is FNATIC 1 - 3 Giants.
+Chronicle killed Fit1nho  in round 5
+Chronicle killed Redgar  in round 5
+Cloud killed Chronicle  in round 5
+Alfajer killed purp0  in round 5
+Cloud killed Alfajer  in round 5
+hoody killed Derke  in round 5
+hoody killed Leo   in round 5
+Round 5 ended with spike_defuse. The winning team is Giants.
+The current score is FNATIC 1 - 4 Giants.
+hoody killed Boaster  in round 6
+Cloud killed Derke  in round 6
+Cloud killed Chronicle  in round 6
+Leo  killed Fit1nho  in round 6
+Cloud killed Leo   in round 6
+hoody killed Boaster  in round 6
+Cloud killed Alfajer  in round 6
+Round 6 ended with elimination. The winning team is Giants.
+The current score is FNATIC 1 - 5 Giants.
+Chronicle killed Fit1nho  in round 7
+purp0 killed Leo   in round 7
+purp0 killed Alfajer  in round 7
+Boaster killed Cloud  in round 7
+purp0 killed Boaster  in round 7
+Redgar killed Derke  in round 7
+purp0 killed Chronicle  in round 7
+Round 7 ended with elimination. The winning team is Giants.
+The current score is FNATIC 1 - 6 Giants.
+Fit1nho killed Derke  in round 8
+Alfajer killed Fit1nho  in round 8
+Cloud killed Alfajer  in round 8
+hoody killed Boaster  in round 8
+hoody killed Leo   in round 8
+Chronicle killed hoody  in round 8
+purp0 killed Chronicle  in round 8
+Round 8 ended with elimination. The winning team is Giants.
+The current score is FNATIC 1 - 7 Giants.
+Alfajer killed Fit1nho  in round 9
+Derke killed Cloud  in round 9
+Redgar killed Derke  in round 9
+Redgar killed Boaster  in round 9
+purp0 killed Chronicle  in round 9
+Alfajer killed Redgar  in round 9
+Leo  killed purp0  in round 9
+hoody killed Alfajer  in round 9
+Leo  killed hoody  in round 9
+Round 9 ended with elimination. The winning team is FNATIC.
+The current score is FNATIC 2 - 7 Giants.
+hoody killed Alfajer  in round 10
+purp0 killed Derke  in round 10
+Leo  killed hoody  in round 10
+Chronicle killed Fit1nho  in round 10
+Leo  killed Redgar  in round 10
+Chronicle killed Cloud  in round 10
+Chronicle killed purp0  in round 10
+Round 10 ended with elimination. The winning team is FNATIC.
+The current score is FNATIC 3 - 7 Giants.
+Fit1nho killed Boaster  in round 11
+Fit1nho killed Derke  in round 11
+purp0 killed Leo   in round 11
+Chronicle killed purp0  in round 11
+Cloud killed Chronicle  in round 11
+hoody killed Alfajer  in round 11
+Round 11 ended with elimination. The winning team is Giants.
+The current score is FNATIC 3 - 8 Giants.
+Fit1nho killed Boaster  in round 12
+Leo  killed Cloud  in round 12
+purp0 killed Leo   in round 12
+Alfajer killed Redgar  in round 12
+Fit1nho killed Chronicle  in round 12
+Fit1nho killed Alfajer  in round 12
+Derke killed purp0  in round 12
+Derke killed Fit1nho  in round 12
+Derke killed hoody  in round 12
+Round 12 ended with elimination. The winning team is FNATIC.
+The current score is FNATIC 4 - 8 Giants.
+Redgar killed Derke  in round 13
+Chronicle killed Cloud  in round 13
+Redgar killed Chronicle  in round 13
+Leo  killed hoody  in round 13
+Fit1nho killed Leo   in round 13
+Boaster killed Redgar  in round 13
+Fit1nho killed Alfajer  in round 13
+Boaster killed Fit1nho  in round 13
+purp0 killed Boaster  in round 13
+Round 13 ended with elimination. The winning team is Giants.
+The current score is FNATIC 4 - 9 Giants.
+purp0 killed purp0  in round 14
+Round 14 ended with detonate. The winning team is Giants.
+The current score is FNATIC 4 - 10 Giants.
+Leo  killed Leo   in round 15
+Derke killed Derke  in round 15
+Boaster killed Boaster  in round 15
+Chronicle killed Chronicle  in round 15
+Cloud killed Chronicle  in round 15
+Alfajer killed Cloud  in round 15
+Alfajer killed Fit1nho  in round 15
+purp0 killed Alfajer  in round 15
+hoody killed Derke  in round 15
+Redgar killed Boaster  in round 15
+Leo  killed hoody  in round 15
+purp0 killed Leo   in round 15
+Round 15 ended with elimination. The winning team is Giants.
+The current score is FNATIC 4 - 11 Giants.
+Boaster killed purp0  in round 16
+Fit1nho killed Derke  in round 16
+Boaster killed Fit1nho  in round 16
+Boaster killed hoody  in round 16
+Redgar killed Boaster  in round 16
+Leo  killed Cloud  in round 16
+Redgar killed Leo   in round 16
+Redgar killed Chronicle  in round 16
+Alfajer killed Redgar  in round 16
+Round 16 ended with spike_defuse. The winning team is FNATIC.
+The current score is FNATIC 5 - 11 Giants.
+Cloud killed Leo   in round 17
+Cloud killed Derke  in round 17
+Fit1nho killed Chronicle  in round 17
+Redgar killed Boaster  in round 17
+Redgar killed Alfajer  in round 17
+Round 17 ended with elimination. The winning team is Giants.
+The current score is FNATIC 5 - 12 Giants.
+hoody killed Boaster  in round 18
+Alfajer killed hoody  in round 18
+Redgar killed Alfajer  in round 18
+Fit1nho killed Derke  in round 18
+Cloud killed Leo   in round 18
+purp0 killed Chronicle  in round 18
+Round 18 ended with elimination. The winning team is Giants.
+The current score is FNATIC 5 - 13 Giants.
+Game ended with winning team: Giants at 2024-04-12T16:28:15Z
+
+--- Player Stats ---
+Fit1nho: Team=Giants, Kills=18, Deaths=11, Assists=5, KDA=2.09, First Kills=4, First Deaths=4
+purp0: Team=Giants, Kills=16, Deaths=9, Assists=2, KDA=2.0, First Kills=2, First Deaths=2
+Redgar: Team=Giants, Kills=16, Deaths=6, Assists=3, KDA=3.17, First Kills=2, First Deaths=0
+Cloud: Team=Giants, Kills=13, Deaths=10, Assists=7, KDA=2.0, First Kills=1, First Deaths=0
+hoody: Team=Giants, Kills=13, Deaths=11, Assists=3, KDA=1.45, First Kills=3, First Deaths=0
+Chronicle: Team=FNATIC, Kills=12, Deaths=16, Assists=3, KDA=0.94, First Kills=2, First Deaths=1
+Derke: Team=FNATIC, Kills=6, Deaths=17, Assists=3, KDA=0.53, First Kills=0, First Deaths=3
+Boaster: Team=FNATIC, Kills=7, Deaths=16, Assists=7, KDA=0.88, First Kills=1, First Deaths=5
+Leo : Team=FNATIC, Kills=10, Deaths=15, Assists=5, KDA=1.0, First Kills=1, First Deaths=2
+Alfajer: Team=FNATIC, Kills=15, Deaths=15, Assists=1, KDA=1.07, First Kills=2, First Deaths=1

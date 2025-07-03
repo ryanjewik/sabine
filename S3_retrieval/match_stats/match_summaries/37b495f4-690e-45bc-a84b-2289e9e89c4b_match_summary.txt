@@ -1,0 +1,202 @@
+Team 1: FNATIC
+Team 2: FunPlus Phoenix
+Participating Players:
+Player 1: suygetsu
+Player 2: ardiis
+Player 3: ANGE1
+Player 4: Shao
+Player 5: Zyppan
+Player 6: Mistic
+Player 7: Derke
+Player 8: Boaster
+Player 9: Alfajer
+Player 10: Enz0
+Winning Team: FunPlus Phoenix
+Score: FNATIC 5 - 13 FunPlus Phoenix
+Tournament Name: masters 2 2022 stage 2
+Game Start Time: 2022-07-22T20:36:14Z
+Game End Time: 2022-07-22T21:17:28Z
+Rounds ended by ELIMINATION count: 13
+Rounds ended by DEFUSE count: 4
+Rounds ended by DETONATE count: 0
+SPIKE PLANTED count: 4
+platformGameId: val:37b495f4-690e-45bc-a84b-2289e9e89c4b
+
+--- Events ---
+Game started at 2022-07-22T20:36:14Z
+Zyppan killed Mistic  in round 1
+Zyppan killed Derke  in round 1
+Boaster killed ardiis  in round 1
+Enz0 killed ANGE1  in round 1
+suygetsu killed Enz0  in round 1
+Round 1 ended with spike_defuse. The winning team is FunPlus Phoenix.
+The current score is FNATIC 0 - 1 FunPlus Phoenix.
+Shao killed Alfajer  in round 2
+suygetsu killed Boaster  in round 2
+ardiis killed Alfajer  in round 2
+ardiis killed Mistic  in round 2
+Boaster killed ardiis  in round 2
+suygetsu killed Boaster  in round 2
+suygetsu killed Enz0  in round 2
+suygetsu killed Derke  in round 2
+Round 2 ended with elimination. The winning team is FunPlus Phoenix.
+The current score is FNATIC 0 - 2 FunPlus Phoenix.
+ardiis killed Boaster  in round 3
+Alfajer killed suygetsu  in round 3
+Alfajer killed ardiis  in round 3
+ANGE1 killed Alfajer  in round 3
+Zyppan killed Enz0  in round 3
+ANGE1 killed Mistic  in round 3
+Shao killed Derke  in round 3
+Round 3 ended with spike_defuse. The winning team is FunPlus Phoenix.
+The current score is FNATIC 0 - 3 FunPlus Phoenix.
+ANGE1 killed Alfajer  in round 4
+Derke killed ANGE1  in round 4
+Zyppan killed Derke  in round 4
+Shao killed Enz0  in round 4
+Mistic killed Shao  in round 4
+ardiis killed Mistic  in round 4
+Round 4 ended with time_expired. The winning team is FunPlus Phoenix.
+The current score is FNATIC 0 - 4 FunPlus Phoenix.
+Alfajer killed ardiis  in round 5
+ANGE1 killed Mistic  in round 5
+Boaster killed ANGE1  in round 5
+Zyppan killed Boaster  in round 5
+Shao killed Enz0  in round 5
+Shao killed Derke  in round 5
+Alfajer killed Shao  in round 5
+suygetsu killed Alfajer  in round 5
+Round 5 ended with elimination. The winning team is FunPlus Phoenix.
+The current score is FNATIC 0 - 5 FunPlus Phoenix.
+Derke killed ardiis  in round 6
+Derke killed ANGE1  in round 6
+suygetsu killed Enz0  in round 6
+Derke killed suygetsu  in round 6
+Zyppan killed Mistic  in round 6
+Boaster killed Zyppan  in round 6
+Shao killed Boaster  in round 6
+Shao killed Derke  in round 6
+Shao killed Alfajer  in round 6
+Round 6 ended with spike_defuse. The winning team is FunPlus Phoenix.
+The current score is FNATIC 0 - 6 FunPlus Phoenix.
+ANGE1 killed Boaster  in round 7
+Mistic killed ANGE1  in round 7
+suygetsu killed Alfajer  in round 7
+Enz0 killed suygetsu  in round 7
+Derke killed Shao  in round 7
+Derke killed Zyppan  in round 7
+Mistic killed ardiis  in round 7
+Round 7 ended with elimination. The winning team is FNATIC.
+The current score is FNATIC 1 - 6 FunPlus Phoenix.
+Alfajer killed ANGE1  in round 8
+Shao killed Alfajer  in round 8
+Shao killed Boaster  in round 8
+Shao killed Derke  in round 8
+Zyppan killed Mistic  in round 8
+Enz0 killed Zyppan  in round 8
+suygetsu killed Enz0  in round 8
+Round 8 ended with elimination. The winning team is FunPlus Phoenix.
+The current score is FNATIC 1 - 7 FunPlus Phoenix.
+Zyppan killed Boaster  in round 9
+Mistic killed Zyppan  in round 9
+ANGE1 killed Mistic  in round 9
+Alfajer killed ANGE1  in round 9
+suygetsu killed Derke  in round 9
+Enz0 killed suygetsu  in round 9
+Shao killed Alfajer  in round 9
+Enz0 killed Shao  in round 9
+Enz0 killed ardiis  in round 9
+Round 9 ended with elimination. The winning team is FNATIC.
+The current score is FNATIC 2 - 7 FunPlus Phoenix.
+ardiis killed Enz0  in round 10
+Boaster killed ANGE1  in round 10
+Derke killed Zyppan  in round 10
+Alfajer killed suygetsu  in round 10
+ardiis killed Derke  in round 10
+Alfajer killed ardiis  in round 10
+Mistic killed Shao  in round 10
+Round 10 ended with elimination. The winning team is FNATIC.
+The current score is FNATIC 3 - 7 FunPlus Phoenix.
+suygetsu killed Derke  in round 11
+Shao killed Alfajer  in round 11
+Zyppan killed Boaster  in round 11
+Mistic killed Zyppan  in round 11
+suygetsu killed Enz0  in round 11
+ardiis killed Mistic  in round 11
+Round 11 ended with elimination. The winning team is FunPlus Phoenix.
+The current score is FNATIC 3 - 8 FunPlus Phoenix.
+ardiis killed Derke  in round 12
+Zyppan killed Alfajer  in round 12
+Shao killed Boaster  in round 12
+suygetsu killed Mistic  in round 12
+Enz0 killed suygetsu  in round 12
+Enz0 killed ANGE1  in round 12
+Shao killed Enz0  in round 12
+Round 12 ended with elimination. The winning team is FunPlus Phoenix.
+The current score is FNATIC 3 - 9 FunPlus Phoenix.
+Derke killed ardiis  in round 13
+Derke killed Zyppan  in round 13
+suygetsu killed Derke  in round 13
+Alfajer killed ANGE1  in round 13
+Alfajer killed suygetsu  in round 13
+Shao killed Alfajer  in round 13
+Shao killed Boaster  in round 13
+Mistic killed Shao  in round 13
+Round 13 ended with spike_defuse. The winning team is FNATIC.
+The current score is FNATIC 4 - 9 FunPlus Phoenix.
+Alfajer killed ANGE1  in round 14
+Boaster killed ardiis  in round 14
+Boaster killed Shao  in round 14
+suygetsu killed Boaster  in round 14
+Alfajer killed Zyppan  in round 14
+Derke killed suygetsu  in round 14
+Round 14 ended with elimination. The winning team is FNATIC.
+The current score is FNATIC 5 - 9 FunPlus Phoenix.
+Derke killed suygetsu  in round 15
+Derke killed ANGE1  in round 15
+ardiis killed Derke  in round 15
+ardiis killed Mistic  in round 15
+ardiis killed Alfajer  in round 15
+ardiis killed Enz0  in round 15
+Zyppan killed Boaster  in round 15
+Round 15 ended with elimination. The winning team is FunPlus Phoenix.
+The current score is FNATIC 5 - 10 FunPlus Phoenix.
+Derke killed ANGE1  in round 16
+suygetsu killed Mistic  in round 16
+ardiis killed Boaster  in round 16
+Enz0 killed ardiis  in round 16
+Zyppan killed Alfajer  in round 16
+suygetsu killed Derke  in round 16
+Zyppan killed Enz0  in round 16
+Round 16 ended with elimination. The winning team is FunPlus Phoenix.
+The current score is FNATIC 5 - 11 FunPlus Phoenix.
+Alfajer killed Shao  in round 17
+Zyppan killed Alfajer  in round 17
+Enz0 killed Zyppan  in round 17
+ANGE1 killed Enz0  in round 17
+ANGE1 killed Derke  in round 17
+ardiis killed Mistic  in round 17
+suygetsu killed Boaster  in round 17
+Round 17 ended with elimination. The winning team is FunPlus Phoenix.
+The current score is FNATIC 5 - 12 FunPlus Phoenix.
+Zyppan killed Boaster  in round 18
+suygetsu killed Derke  in round 18
+ardiis killed Enz0  in round 18
+suygetsu killed Mistic  in round 18
+Alfajer killed Shao  in round 18
+ardiis killed Alfajer  in round 18
+Round 18 ended with elimination. The winning team is FunPlus Phoenix.
+The current score is FNATIC 5 - 13 FunPlus Phoenix.
+Game ended with winning team: FunPlus Phoenix at 2022-07-22T21:17:28Z
+
+--- Player Stats ---
+suygetsu: Team=FunPlus Phoenix, Kills=20, Deaths=9, Assists=4, KDA=2.67, First Kills=1, First Deaths=1
+ardiis: Team=FunPlus Phoenix, Kills=16, Deaths=11, Assists=1, KDA=1.55, First Kills=3, First Deaths=3
+ANGE1: Team=FunPlus Phoenix, Kills=8, Deaths=13, Assists=4, KDA=0.92, First Kills=2, First Deaths=3
+Shao: Team=FunPlus Phoenix, Kills=17, Deaths=9, Assists=10, KDA=3.0, First Kills=1, First Deaths=1
+Zyppan: Team=FunPlus Phoenix, Kills=15, Deaths=9, Assists=7, KDA=2.44, First Kills=3, First Deaths=0
+Mistic: Team=FNATIC, Kills=7, Deaths=14, Assists=3, KDA=0.71, First Kills=0, First Deaths=1
+Derke: Team=FNATIC, Kills=13, Deaths=16, Assists=2, KDA=0.94, First Kills=4, First Deaths=2
+Boaster: Team=FNATIC, Kills=7, Deaths=16, Assists=5, KDA=0.75, First Kills=0, First Deaths=4
+Alfajer: Team=FNATIC, Kills=14, Deaths=16, Assists=3, KDA=1.06, First Kills=4, First Deaths=2
+Enz0: Team=FNATIC, Kills=10, Deaths=14, Assists=2, KDA=0.86, First Kills=0, First Deaths=1

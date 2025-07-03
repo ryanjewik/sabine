@@ -1,0 +1,249 @@
+Team 1: Talon Esports
+Team 2: DetonatioN FocusMe
+Participating Players:
+Player 1: SSeeS
+Player 2: Meiy
+Player 3: Anthem
+Player 4: Medusa
+Player 5: neth
+Player 6: Governor
+Player 7: ban
+Player 8: Crws
+Player 9: Surf
+Player 10: JitBoyS
+Winning Team: Talon Esports
+Score: Talon Esports 13 - 10 DetonatioN FocusMe
+Tournament Name: vct pacific stage 2 2024
+Game Start Time: 2024-06-29T08:51:00Z
+Game End Time: 2024-06-29T09:45:21Z
+Rounds ended by ELIMINATION count: 10
+Rounds ended by DEFUSE count: 7
+Rounds ended by DETONATE count: 5
+SPIKE PLANTED count: 12
+platformGameId: val:576f083a-ebad-422f-b9e6-3dff9d7d5901
+
+--- Events ---
+Game started at 2024-06-29T08:51:00Z
+Governor killed Anthem  in round 1
+SSeeS killed JitBoyS  in round 1
+Governor killed SSeeS  in round 1
+Meiy killed ban  in round 1
+Governor killed neth  in round 1
+Governor killed Medusa  in round 1
+Governor killed Meiy  in round 1
+Round 1 ended with elimination. The winning team is Talon Esports.
+The current score is Talon Esports 1 - 0 DetonatioN FocusMe.
+JitBoyS killed Anthem  in round 2
+SSeeS killed JitBoyS  in round 2
+ban killed Meiy  in round 2
+Governor killed neth  in round 2
+Medusa killed Governor  in round 2
+ban killed Medusa  in round 2
+ban killed SSeeS  in round 2
+Round 2 ended with elimination. The winning team is Talon Esports.
+The current score is Talon Esports 2 - 0 DetonatioN FocusMe.
+ban killed Meiy  in round 3
+Medusa killed Governor  in round 3
+Crws killed Medusa  in round 3
+neth killed JitBoyS  in round 3
+Crws killed Anthem  in round 3
+neth killed Crws  in round 3
+SSeeS killed ban  in round 3
+SSeeS killed Surf  in round 3
+Round 3 ended with spike_defuse. The winning team is DetonatioN FocusMe.
+The current score is Talon Esports 2 - 1 DetonatioN FocusMe.
+Meiy killed Surf  in round 4
+Governor killed neth  in round 4
+Medusa killed Governor  in round 4
+JitBoyS killed Medusa  in round 4
+JitBoyS killed Anthem  in round 4
+Meiy killed ban  in round 4
+JitBoyS killed SSeeS  in round 4
+Meiy killed Crws  in round 4
+Meiy killed JitBoyS  in round 4
+Round 4 ended with detonate. The winning team is Talon Esports.
+The current score is Talon Esports 3 - 1 DetonatioN FocusMe.
+Meiy killed Surf  in round 5
+Crws killed Meiy  in round 5
+Governor killed Medusa  in round 5
+neth killed Governor  in round 5
+neth killed JitBoyS  in round 5
+ban killed SSeeS  in round 5
+Anthem killed ban  in round 5
+Crws killed Anthem  in round 5
+Round 5 ended with detonate. The winning team is Talon Esports.
+The current score is Talon Esports 4 - 1 DetonatioN FocusMe.
+neth killed neth  in round 6
+neth killed Governor  in round 6
+Medusa killed Surf  in round 6
+JitBoyS killed neth  in round 6
+SSeeS killed Crws  in round 6
+JitBoyS killed Meiy  in round 6
+JitBoyS killed Medusa  in round 6
+JitBoyS killed Anthem  in round 6
+SSeeS killed JitBoyS  in round 6
+ban killed SSeeS  in round 6
+Round 6 ended with elimination. The winning team is Talon Esports.
+The current score is Talon Esports 5 - 1 DetonatioN FocusMe.
+Governor killed Medusa  in round 7
+Meiy killed ban  in round 7
+Meiy killed Governor  in round 7
+Surf killed SSeeS  in round 7
+neth killed JitBoyS  in round 7
+Meiy killed Crws  in round 7
+Round 7 ended with time_expired. The winning team is DetonatioN FocusMe.
+The current score is Talon Esports 5 - 2 DetonatioN FocusMe.
+Meiy killed ban  in round 8
+neth killed Governor  in round 8
+JitBoyS killed neth  in round 8
+Anthem killed JitBoyS  in round 8
+Meiy killed Surf  in round 8
+Crws killed Anthem  in round 8
+Meiy killed Crws  in round 8
+Round 8 ended with elimination. The winning team is DetonatioN FocusMe.
+The current score is Talon Esports 5 - 3 DetonatioN FocusMe.
+JitBoyS killed SSeeS  in round 9
+Meiy killed Governor  in round 9
+Surf killed Medusa  in round 9
+Crws killed Meiy  in round 9
+Round 9 ended with detonate. The winning team is Talon Esports.
+The current score is Talon Esports 6 - 3 DetonatioN FocusMe.
+Anthem killed Surf  in round 10
+Meiy killed ban  in round 10
+Governor killed Meiy  in round 10
+Medusa killed Crws  in round 10
+Governor killed Anthem  in round 10
+neth killed Governor  in round 10
+JitBoyS killed neth  in round 10
+SSeeS killed JitBoyS  in round 10
+Round 10 ended with elimination. The winning team is DetonatioN FocusMe.
+The current score is Talon Esports 6 - 4 DetonatioN FocusMe.
+Meiy killed ban  in round 11
+Governor killed Medusa  in round 11
+SSeeS killed Governor  in round 11
+Crws killed Anthem  in round 11
+Meiy killed JitBoyS  in round 11
+Crws killed SSeeS  in round 11
+neth killed Surf  in round 11
+Crws killed neth  in round 11
+Round 11 ended with spike_defuse. The winning team is DetonatioN FocusMe.
+The current score is Talon Esports 6 - 5 DetonatioN FocusMe.
+Crws killed Meiy  in round 12
+JitBoyS killed Meiy  in round 12
+Anthem killed JitBoyS  in round 12
+SSeeS killed Governor  in round 12
+SSeeS killed Crws  in round 12
+ban killed neth  in round 12
+SSeeS killed ban  in round 12
+SSeeS killed Surf  in round 12
+Round 12 ended with elimination. The winning team is DetonatioN FocusMe.
+The current score is Talon Esports 6 - 6 DetonatioN FocusMe.
+ban killed Medusa  in round 13
+Governor killed SSeeS  in round 13
+Crws killed neth  in round 13
+Meiy killed Crws  in round 13
+Governor killed Meiy  in round 13
+Surf killed Anthem  in round 13
+Round 13 ended with spike_defuse. The winning team is Talon Esports.
+The current score is Talon Esports 7 - 6 DetonatioN FocusMe.
+Governor killed neth  in round 14
+Surf killed SSeeS  in round 14
+Anthem killed Governor  in round 14
+Crws killed Anthem  in round 14
+Crws killed Medusa  in round 14
+Meiy killed ban  in round 14
+Surf killed Meiy  in round 14
+Round 14 ended with elimination. The winning team is Talon Esports.
+The current score is Talon Esports 8 - 6 DetonatioN FocusMe.
+Governor killed SSeeS  in round 15
+Surf killed Anthem  in round 15
+neth killed Surf  in round 15
+Medusa killed Crws  in round 15
+Governor killed Meiy  in round 15
+Governor killed neth  in round 15
+Governor killed Medusa  in round 15
+Round 15 ended with spike_defuse. The winning team is Talon Esports.
+The current score is Talon Esports 9 - 6 DetonatioN FocusMe.
+neth killed Governor  in round 16
+Surf killed Anthem  in round 16
+SSeeS killed Surf  in round 16
+Crws killed SSeeS  in round 16
+Meiy killed JitBoyS  in round 16
+Medusa killed Crws  in round 16
+Meiy killed ban  in round 16
+Round 16 ended with elimination. The winning team is DetonatioN FocusMe.
+The current score is Talon Esports 9 - 7 DetonatioN FocusMe.
+Anthem killed Governor  in round 17
+ban killed Anthem  in round 17
+Meiy killed ban  in round 17
+Surf killed Meiy  in round 17
+Surf killed Medusa  in round 17
+SSeeS killed Surf  in round 17
+SSeeS killed Crws  in round 17
+neth killed JitBoyS  in round 17
+Round 17 ended with elimination. The winning team is DetonatioN FocusMe.
+The current score is Talon Esports 9 - 8 DetonatioN FocusMe.
+Meiy killed Governor  in round 18
+SSeeS killed JitBoyS  in round 18
+ban killed Meiy  in round 18
+Anthem killed ban  in round 18
+Round 18 ended with detonate. The winning team is DetonatioN FocusMe.
+The current score is Talon Esports 9 - 9 DetonatioN FocusMe.
+Surf killed Meiy  in round 19
+Medusa killed Surf  in round 19
+Governor killed Medusa  in round 19
+JitBoyS killed SSeeS  in round 19
+Anthem killed Governor  in round 19
+Crws killed neth  in round 19
+Crws killed Anthem  in round 19
+Round 19 ended with spike_defuse. The winning team is Talon Esports.
+The current score is Talon Esports 10 - 9 DetonatioN FocusMe.
+Meiy killed JitBoyS  in round 20
+Governor killed Anthem  in round 20
+Meiy killed Governor  in round 20
+ban killed neth  in round 20
+ban killed Meiy  in round 20
+Surf killed Medusa  in round 20
+SSeeS killed ban  in round 20
+Crws killed SSeeS  in round 20
+Round 20 ended with elimination. The winning team is Talon Esports.
+The current score is Talon Esports 11 - 9 DetonatioN FocusMe.
+Medusa killed ban  in round 21
+SSeeS killed Crws  in round 21
+SSeeS killed Surf  in round 21
+Round 21 ended with detonate. The winning team is DetonatioN FocusMe.
+The current score is Talon Esports 11 - 10 DetonatioN FocusMe.
+Governor killed Meiy  in round 22
+Anthem killed Governor  in round 22
+ban killed Meiy  in round 22
+JitBoyS killed Anthem  in round 22
+Surf killed Medusa  in round 22
+ban killed neth  in round 22
+SSeeS killed ban  in round 22
+SSeeS killed JitBoyS  in round 22
+Surf killed SSeeS  in round 22
+Round 22 ended with spike_defuse. The winning team is Talon Esports.
+The current score is Talon Esports 12 - 10 DetonatioN FocusMe.
+JitBoyS killed Anthem  in round 23
+Meiy killed JitBoyS  in round 23
+Surf killed SSeeS  in round 23
+Medusa killed Governor  in round 23
+Medusa killed Surf  in round 23
+Crws killed neth  in round 23
+Crws killed Meiy  in round 23
+ban killed Medusa  in round 23
+Round 23 ended with spike_defuse. The winning team is Talon Esports.
+The current score is Talon Esports 13 - 10 DetonatioN FocusMe.
+Game ended with winning team: Talon Esports at 2024-06-29T09:45:21Z
+
+--- Player Stats ---
+SSeeS: Team=DetonatioN FocusMe, Kills=21, Deaths=16, Assists=10, KDA=1.94, First Kills=0, First Deaths=2
+Meiy: Team=DetonatioN FocusMe, Kills=25, Deaths=19, Assists=3, KDA=1.47, First Kills=6, First Deaths=4
+Anthem: Team=DetonatioN FocusMe, Kills=9, Deaths=18, Assists=10, KDA=1.06, First Kills=2, First Deaths=3
+Medusa: Team=DetonatioN FocusMe, Kills=11, Deaths=17, Assists=6, KDA=1.0, First Kills=1, First Deaths=2
+neth: Team=DetonatioN FocusMe, Kills=13, Deaths=16, Assists=14, KDA=1.69, First Kills=2, First Deaths=2
+Governor: Team=Talon Esports, Kills=22, Deaths=19, Assists=7, KDA=1.53, First Kills=5, First Deaths=3
+ban: Team=Talon Esports, Kills=15, Deaths=16, Assists=8, KDA=1.44, First Kills=2, First Deaths=3
+Crws: Team=Talon Esports, Kills=19, Deaths=12, Assists=7, KDA=2.17, First Kills=1, First Deaths=0
+Surf: Team=Talon Esports, Kills=14, Deaths=14, Assists=2, KDA=1.14, First Kills=1, First Deaths=3
+JitBoyS: Team=Talon Esports, Kills=15, Deaths=17, Assists=13, KDA=1.65, First Kills=3, First Deaths=1

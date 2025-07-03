@@ -1,0 +1,230 @@
+Team 1: NRG
+Team 2: FNATIC
+Participating Players:
+Player 1: Chronicle
+Player 2: Derke
+Player 3: Boaster
+Player 4: Alfajer
+Player 5: Leo 
+Player 6: crashies
+Player 7: Victor
+Player 8: FNS
+Player 9: s0m
+Player 10: ardiis
+Winning Team: FNATIC
+Score: NRG 9 - 13 FNATIC
+Tournament Name: vct masters 2023 playoffs
+Game Start Time: 2023-06-17T02:53:24Z
+Game End Time: 2023-06-17T03:58:13Z
+Rounds ended by ELIMINATION count: 16
+Rounds ended by DEFUSE count: 3
+Rounds ended by DETONATE count: 2
+SPIKE PLANTED count: 5
+platformGameId: val:5779fc08-3f46-46ea-8bfa-e94f9da2726c
+
+--- Events ---
+Game started at 2023-06-17T02:53:24Z
+ardiis killed Chronicle  in round 1
+Derke killed ardiis  in round 1
+crashies killed Derke  in round 1
+Boaster killed crashies  in round 1
+s0m killed Boaster  in round 1
+FNS killed Leo   in round 1
+Alfajer killed FNS  in round 1
+s0m killed Alfajer  in round 1
+Round 1 ended with elimination. The winning team is NRG.
+The current score is NRG 1 - 0 FNATIC.
+Alfajer killed ardiis  in round 2
+Victor killed Derke  in round 2
+s0m killed Boaster  in round 2
+s0m killed Alfajer  in round 2
+Leo  killed Victor  in round 2
+Chronicle killed s0m  in round 2
+crashies killed Leo   in round 2
+FNS killed Chronicle  in round 2
+Round 2 ended with elimination. The winning team is NRG.
+The current score is NRG 2 - 0 FNATIC.
+Alfajer killed crashies  in round 3
+Boaster killed Victor  in round 3
+Boaster killed FNS  in round 3
+Alfajer killed s0m  in round 3
+ardiis killed Derke  in round 3
+ardiis killed Chronicle  in round 3
+Alfajer killed ardiis  in round 3
+Round 3 ended with spike_defuse. The winning team is FNATIC.
+The current score is NRG 2 - 1 FNATIC.
+s0m killed Alfajer  in round 4
+Derke killed ardiis  in round 4
+Boaster killed FNS  in round 4
+Victor killed Derke  in round 4
+Victor killed Boaster  in round 4
+Leo  killed Victor  in round 4
+Chronicle killed crashies  in round 4
+s0m killed Chronicle  in round 4
+Round 4 ended with time_expired. The winning team is FNATIC.
+The current score is NRG 2 - 2 FNATIC.
+s0m killed Alfajer  in round 5
+s0m killed Chronicle  in round 5
+Leo  killed FNS  in round 5
+Round 5 ended with detonate. The winning team is NRG.
+The current score is NRG 3 - 2 FNATIC.
+Leo  killed Victor  in round 6
+Alfajer killed crashies  in round 6
+s0m killed Alfajer  in round 6
+Leo  killed s0m  in round 6
+Leo  killed FNS  in round 6
+Chronicle killed ardiis  in round 6
+Round 6 ended with elimination. The winning team is FNATIC.
+The current score is NRG 3 - 3 FNATIC.
+Derke killed FNS  in round 7
+s0m killed Derke  in round 7
+ardiis killed Boaster  in round 7
+ardiis killed Chronicle  in round 7
+Round 7 ended with detonate. The winning team is NRG.
+The current score is NRG 4 - 3 FNATIC.
+Chronicle killed Victor  in round 8
+Derke killed s0m  in round 8
+Chronicle killed crashies  in round 8
+Derke killed FNS  in round 8
+Alfajer killed ardiis  in round 8
+Round 8 ended with elimination. The winning team is FNATIC.
+The current score is NRG 4 - 4 FNATIC.
+Derke killed Victor  in round 9
+s0m killed Derke  in round 9
+Boaster killed s0m  in round 9
+FNS killed Boaster  in round 9
+Chronicle killed FNS  in round 9
+crashies killed Chronicle  in round 9
+Leo  killed ardiis  in round 9
+Alfajer killed crashies  in round 9
+Round 9 ended with elimination. The winning team is FNATIC.
+The current score is NRG 4 - 5 FNATIC.
+Derke killed Victor  in round 10
+Boaster killed FNS  in round 10
+s0m killed Boaster  in round 10
+ardiis killed Derke  in round 10
+Leo  killed crashies  in round 10
+Chronicle killed ardiis  in round 10
+Alfajer killed s0m  in round 10
+Round 10 ended with spike_defuse. The winning team is FNATIC.
+The current score is NRG 4 - 6 FNATIC.
+Boaster killed ardiis  in round 11
+Victor killed Derke  in round 11
+crashies killed Chronicle  in round 11
+crashies killed Boaster  in round 11
+Leo  killed crashies  in round 11
+Leo  killed s0m  in round 11
+Victor killed Leo   in round 11
+Victor killed Alfajer  in round 11
+Round 11 ended with elimination. The winning team is NRG.
+The current score is NRG 5 - 6 FNATIC.
+crashies killed Derke  in round 12
+Victor killed Alfajer  in round 12
+Leo  killed FNS  in round 12
+Leo  killed crashies  in round 12
+s0m killed Boaster  in round 12
+Victor killed Chronicle  in round 12
+s0m killed Leo   in round 12
+Round 12 ended with elimination. The winning team is NRG.
+The current score is NRG 6 - 6 FNATIC.
+Leo  killed crashies  in round 13
+Leo  killed s0m  in round 13
+Chronicle killed FNS  in round 13
+Victor killed Derke  in round 13
+ardiis killed Leo   in round 13
+ardiis killed Chronicle  in round 13
+ardiis killed Boaster  in round 13
+Alfajer killed ardiis  in round 13
+Alfajer killed Victor  in round 13
+Round 13 ended with elimination. The winning team is FNATIC.
+The current score is NRG 6 - 7 FNATIC.
+Boaster killed ardiis  in round 14
+s0m killed Derke  in round 14
+Leo  killed Victor  in round 14
+Boaster killed s0m  in round 14
+Boaster killed crashies  in round 14
+FNS killed Boaster  in round 14
+Leo  killed FNS  in round 14
+Round 14 ended with elimination. The winning team is FNATIC.
+The current score is NRG 6 - 8 FNATIC.
+Boaster killed s0m  in round 15
+Alfajer killed Victor  in round 15
+FNS killed Alfajer  in round 15
+Derke killed ardiis  in round 15
+Chronicle killed crashies  in round 15
+Leo  killed FNS  in round 15
+Round 15 ended with elimination. The winning team is FNATIC.
+The current score is NRG 6 - 9 FNATIC.
+Derke killed ardiis  in round 16
+Derke killed crashies  in round 16
+s0m killed Chronicle  in round 16
+Derke killed s0m  in round 16
+Leo  killed Victor  in round 16
+FNS killed Leo   in round 16
+Alfajer killed FNS  in round 16
+Round 16 ended with elimination. The winning team is FNATIC.
+The current score is NRG 6 - 10 FNATIC.
+s0m killed Derke  in round 17
+Boaster killed ardiis  in round 17
+Boaster killed s0m  in round 17
+crashies killed Boaster  in round 17
+Chronicle killed crashies  in round 17
+Chronicle killed FNS  in round 17
+Victor killed Chronicle  in round 17
+Leo  killed Victor  in round 17
+Round 17 ended with elimination. The winning team is FNATIC.
+The current score is NRG 6 - 11 FNATIC.
+Boaster killed crashies  in round 18
+Boaster killed Victor  in round 18
+s0m killed Boaster  in round 18
+s0m killed Derke  in round 18
+s0m killed Alfajer  in round 18
+ardiis killed Leo   in round 18
+Chronicle killed s0m  in round 18
+FNS killed Chronicle  in round 18
+Round 18 ended with elimination. The winning team is NRG.
+The current score is NRG 7 - 11 FNATIC.
+ardiis killed Derke  in round 19
+Chronicle killed ardiis  in round 19
+Alfajer killed FNS  in round 19
+Chronicle killed s0m  in round 19
+Victor killed Alfajer  in round 19
+crashies killed Leo   in round 19
+crashies killed Chronicle  in round 19
+crashies killed Boaster  in round 19
+Round 19 ended with elimination. The winning team is NRG.
+The current score is NRG 8 - 11 FNATIC.
+Victor killed Chronicle  in round 20
+crashies killed Derke  in round 20
+Round 20 ended with spike_defuse. The winning team is NRG.
+The current score is NRG 9 - 11 FNATIC.
+ardiis killed Derke  in round 21
+Chronicle killed ardiis  in round 21
+Alfajer killed Victor  in round 21
+Chronicle killed FNS  in round 21
+s0m killed Boaster  in round 21
+Alfajer killed s0m  in round 21
+Alfajer killed crashies  in round 21
+Round 21 ended with elimination. The winning team is FNATIC.
+The current score is NRG 9 - 12 FNATIC.
+Alfajer killed Victor  in round 22
+FNS killed Boaster  in round 22
+Chronicle killed FNS  in round 22
+Derke killed crashies  in round 22
+Leo  killed s0m  in round 22
+Derke killed ardiis  in round 22
+Round 22 ended with elimination. The winning team is FNATIC.
+The current score is NRG 9 - 13 FNATIC.
+Game ended with winning team: FNATIC at 2023-06-17T03:58:13Z
+
+--- Player Stats ---
+Chronicle: Team=FNATIC, Kills=17, Deaths=15, Assists=13, KDA=2.0, First Kills=1, First Deaths=2
+Derke: Team=FNATIC, Kills=13, Deaths=16, Assists=3, KDA=1.0, First Kills=4, First Deaths=4
+Boaster: Team=FNATIC, Kills=15, Deaths=15, Assists=9, KDA=1.6, First Kills=4, First Deaths=0
+Alfajer: Team=FNATIC, Kills=18, Deaths=10, Assists=3, KDA=2.1, First Kills=3, First Deaths=2
+Leo : Team=FNATIC, Kills=20, Deaths=8, Assists=6, KDA=3.25, First Kills=2, First Deaths=0
+crashies: Team=NRG, Kills=11, Deaths=17, Assists=1, KDA=0.71, First Kills=1, First Deaths=3
+Victor: Team=NRG, Kills=12, Deaths=15, Assists=2, KDA=0.93, First Kills=1, First Deaths=5
+FNS: Team=NRG, Kills=8, Deaths=18, Assists=5, KDA=0.72, First Kills=0, First Deaths=1
+s0m: Team=NRG, Kills=21, Deaths=16, Assists=7, KDA=1.75, First Kills=3, First Deaths=1
+ardiis: Team=NRG, Kills=12, Deaths=17, Assists=3, KDA=0.88, First Kills=3, First Deaths=4

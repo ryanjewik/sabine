@@ -1,0 +1,201 @@
+Team 1: Bilibili Gaming
+Team 2: NRG
+Participating Players:
+Player 1: crashies
+Player 2: Victor
+Player 3: FNS
+Player 4: s0m
+Player 5: ardiis
+Player 6: rin 
+Player 7: Knight 
+Player 8: whzy
+Player 9: Biank
+Player 10: yosemite
+Winning Team: Bilibili Gaming
+Score: Bilibili Gaming 13 - 5 NRG
+Tournament Name: vct champions 2023
+Game Start Time: 2023-08-13T22:22:19Z
+Game End Time: 2023-08-13T23:02:44Z
+Rounds ended by ELIMINATION count: 13
+Rounds ended by DEFUSE count: 4
+Rounds ended by DETONATE count: 1
+SPIKE PLANTED count: 5
+platformGameId: val:c56710cc-b359-4f62-bb88-96371ced7560
+
+--- Events ---
+Game started at 2023-08-13T22:22:19Z
+crashies killed whzy  in round 1
+Knight  killed s0m  in round 1
+Knight  killed crashies  in round 1
+Knight  killed FNS  in round 1
+Knight  killed ardiis  in round 1
+Victor killed Knight   in round 1
+yosemite killed Victor  in round 1
+Round 1 ended with elimination. The winning team is Bilibili Gaming.
+The current score is Bilibili Gaming 1 - 0 NRG.
+whzy killed ardiis  in round 2
+whzy killed crashies  in round 2
+Knight  killed s0m  in round 2
+Victor killed whzy  in round 2
+Victor killed Biank  in round 2
+yosemite killed FNS  in round 2
+Knight  killed Victor  in round 2
+Round 2 ended with elimination. The winning team is Bilibili Gaming.
+The current score is Bilibili Gaming 2 - 0 NRG.
+whzy killed ardiis  in round 3
+Victor killed yosemite  in round 3
+s0m killed rin   in round 3
+whzy killed s0m  in round 3
+Victor killed whzy  in round 3
+Victor killed Biank  in round 3
+Knight  killed Victor  in round 3
+FNS killed Knight   in round 3
+Round 3 ended with elimination. The winning team is NRG.
+The current score is Bilibili Gaming 2 - 1 NRG.
+whzy killed FNS  in round 4
+ardiis killed whzy  in round 4
+ardiis killed yosemite  in round 4
+Victor killed Knight   in round 4
+ardiis killed rin   in round 4
+Biank killed s0m  in round 4
+Victor killed Biank  in round 4
+Round 4 ended with elimination. The winning team is NRG.
+The current score is Bilibili Gaming 2 - 2 NRG.
+Victor killed Biank  in round 5
+whzy killed Victor  in round 5
+whzy killed s0m  in round 5
+FNS killed whzy  in round 5
+yosemite killed FNS  in round 5
+yosemite killed ardiis  in round 5
+crashies killed yosemite  in round 5
+crashies killed rin   in round 5
+Knight  killed crashies  in round 5
+Round 5 ended with elimination. The winning team is Bilibili Gaming.
+The current score is Bilibili Gaming 3 - 2 NRG.
+Knight  killed Victor  in round 6
+yosemite killed crashies  in round 6
+yosemite killed FNS  in round 6
+Knight  killed s0m  in round 6
+ardiis killed whzy  in round 6
+Biank killed ardiis  in round 6
+Round 6 ended with elimination. The winning team is Bilibili Gaming.
+The current score is Bilibili Gaming 4 - 2 NRG.
+Victor killed whzy  in round 7
+Victor killed rin   in round 7
+ardiis killed yosemite  in round 7
+Knight  killed crashies  in round 7
+FNS killed Knight   in round 7
+Biank killed ardiis  in round 7
+FNS killed Biank  in round 7
+Round 7 ended with spike_defuse. The winning team is NRG.
+The current score is Bilibili Gaming 4 - 3 NRG.
+whzy killed Victor  in round 8
+crashies killed Knight   in round 8
+s0m killed Biank  in round 8
+whzy killed s0m  in round 8
+rin  killed ardiis  in round 8
+crashies killed whzy  in round 8
+yosemite killed FNS  in round 8
+rin  killed crashies  in round 8
+Round 8 ended with elimination. The winning team is Bilibili Gaming.
+The current score is Bilibili Gaming 5 - 3 NRG.
+yosemite killed FNS  in round 9
+s0m killed yosemite  in round 9
+rin  killed Victor  in round 9
+ardiis killed Knight   in round 9
+Round 9 ended with detonate. The winning team is Bilibili Gaming.
+The current score is Bilibili Gaming 6 - 3 NRG.
+crashies killed crashies  in round 10
+ardiis killed Biank  in round 10
+s0m killed rin   in round 10
+yosemite killed FNS  in round 10
+Victor killed Knight   in round 10
+crashies killed whzy  in round 10
+ardiis killed yosemite  in round 10
+Round 10 ended with spike_defuse. The winning team is NRG.
+The current score is Bilibili Gaming 6 - 4 NRG.
+ardiis killed Knight   in round 11
+yosemite killed ardiis  in round 11
+whzy killed Victor  in round 11
+crashies killed whzy  in round 11
+rin  killed crashies  in round 11
+yosemite killed s0m  in round 11
+FNS killed rin   in round 11
+FNS killed yosemite  in round 11
+Biank killed FNS  in round 11
+Round 11 ended with elimination. The winning team is Bilibili Gaming.
+The current score is Bilibili Gaming 7 - 4 NRG.
+FNS killed Knight   in round 12
+crashies killed Biank  in round 12
+whzy killed Victor  in round 12
+rin  killed s0m  in round 12
+whzy killed FNS  in round 12
+rin  killed ardiis  in round 12
+whzy killed crashies  in round 12
+Round 12 ended with elimination. The winning team is Bilibili Gaming.
+The current score is Bilibili Gaming 8 - 4 NRG.
+Victor killed yosemite  in round 13
+FNS killed Biank  in round 13
+ardiis killed rin   in round 13
+whzy killed Victor  in round 13
+Knight  killed FNS  in round 13
+whzy killed ardiis  in round 13
+Knight  killed s0m  in round 13
+whzy killed crashies  in round 13
+Round 13 ended with spike_defuse. The winning team is Bilibili Gaming.
+The current score is Bilibili Gaming 9 - 4 NRG.
+FNS killed Knight   in round 14
+whzy killed s0m  in round 14
+yosemite killed crashies  in round 14
+whzy killed ardiis  in round 14
+Victor killed whzy  in round 14
+yosemite killed FNS  in round 14
+Victor killed yosemite  in round 14
+rin  killed Victor  in round 14
+Round 14 ended with spike_defuse. The winning team is Bilibili Gaming.
+The current score is Bilibili Gaming 10 - 4 NRG.
+ardiis killed rin   in round 15
+ardiis killed Knight   in round 15
+Victor killed whzy  in round 15
+Victor killed Biank  in round 15
+ardiis killed yosemite  in round 15
+Round 15 ended with elimination. The winning team is NRG.
+The current score is Bilibili Gaming 10 - 5 NRG.
+rin  killed FNS  in round 16
+Knight  killed ardiis  in round 16
+Knight  killed Victor  in round 16
+Knight  killed crashies  in round 16
+s0m killed Knight   in round 16
+whzy killed s0m  in round 16
+Round 16 ended with elimination. The winning team is Bilibili Gaming.
+The current score is Bilibili Gaming 11 - 5 NRG.
+yosemite killed FNS  in round 17
+Biank killed ardiis  in round 17
+Victor killed Biank  in round 17
+yosemite killed s0m  in round 17
+whzy killed Victor  in round 17
+whzy killed crashies  in round 17
+Round 17 ended with elimination. The winning team is Bilibili Gaming.
+The current score is Bilibili Gaming 12 - 5 NRG.
+Biank killed ardiis  in round 18
+Victor killed Biank  in round 18
+Knight  killed s0m  in round 18
+rin  killed FNS  in round 18
+rin  killed crashies  in round 18
+Victor killed yosemite  in round 18
+rin  killed Victor  in round 18
+Round 18 ended with elimination. The winning team is Bilibili Gaming.
+The current score is Bilibili Gaming 13 - 5 NRG.
+Game ended with winning team: Bilibili Gaming at 2023-08-13T23:02:44Z
+
+--- Player Stats ---
+crashies: Team=NRG, Kills=9, Deaths=14, Assists=5, KDA=1.0, First Kills=2, First Deaths=1
+Victor: Team=NRG, Kills=20, Deaths=14, Assists=7, KDA=1.93, First Kills=3, First Deaths=2
+FNS: Team=NRG, Kills=9, Deaths=15, Assists=3, KDA=0.8, First Kills=2, First Deaths=4
+s0m: Team=NRG, Kills=5, Deaths=14, Assists=5, KDA=0.71, First Kills=0, First Deaths=0
+ardiis: Team=NRG, Kills=13, Deaths=14, Assists=2, KDA=1.07, First Kills=2, First Deaths=3
+rin : Team=Bilibili Gaming, Kills=11, Deaths=8, Assists=16, KDA=3.38, First Kills=1, First Deaths=1
+Knight : Team=Bilibili Gaming, Kills=17, Deaths=12, Assists=12, KDA=2.42, First Kills=1, First Deaths=3
+whzy: Team=Bilibili Gaming, Kills=21, Deaths=12, Assists=2, KDA=1.92, First Kills=4, First Deaths=2
+Biank: Team=Bilibili Gaming, Kills=6, Deaths=12, Assists=4, KDA=0.83, First Kills=1, First Deaths=1
+yosemite: Team=Bilibili Gaming, Kills=15, Deaths=11, Assists=2, KDA=1.55, First Kills=2, First Deaths=1

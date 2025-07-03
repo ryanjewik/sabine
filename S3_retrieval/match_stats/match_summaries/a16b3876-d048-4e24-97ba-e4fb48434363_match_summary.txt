@@ -1,0 +1,207 @@
+Team 1: DRX
+Team 2: Team Heretics
+Participating Players:
+Player 1: MiniBoo
+Player 2: RieNs
+Player 3: Boo
+Player 4: benjyfishy
+Player 5: Wo0t
+Player 6: MaKo
+Player 7: Foxy9
+Player 8: Flashback
+Player 9: BeYN
+Player 10: BuZz
+Winning Team: DRX
+Score: DRX 13 - 5 Team Heretics
+Tournament Name: vct champions 2024
+Game Start Time: 2024-08-18T11:20:58Z
+Game End Time: 2024-08-18T12:13:32Z
+Rounds ended by ELIMINATION count: 8
+Rounds ended by DEFUSE count: 8
+Rounds ended by DETONATE count: 2
+SPIKE PLANTED count: 10
+platformGameId: val:a16b3876-d048-4e24-97ba-e4fb48434363
+
+--- Events ---
+Game started at 2024-08-18T11:20:58Z
+MiniBoo killed BuZz  in round 1
+BeYN killed Wo0t  in round 1
+Foxy9 killed RieNs  in round 1
+MaKo killed benjyfishy  in round 1
+MiniBoo killed MaKo  in round 1
+Foxy9 killed MiniBoo  in round 1
+Boo killed Foxy9  in round 1
+Flashback killed Boo  in round 1
+Round 1 ended with elimination. The winning team is DRX.
+The current score is DRX 1 - 0 Team Heretics.
+Flashback killed Wo0t  in round 2
+BuZz killed RieNs  in round 2
+Boo killed BuZz  in round 2
+MiniBoo killed Flashback  in round 2
+Foxy9 killed Boo  in round 2
+BeYN killed MiniBoo  in round 2
+BeYN killed benjyfishy  in round 2
+Round 2 ended with elimination. The winning team is DRX.
+The current score is DRX 2 - 0 Team Heretics.
+Wo0t killed MaKo  in round 3
+Wo0t killed Flashback  in round 3
+Foxy9 killed benjyfishy  in round 3
+RieNs killed Foxy9  in round 3
+MiniBoo killed BeYN  in round 3
+BuZz killed RieNs  in round 3
+MiniBoo killed BuZz  in round 3
+Round 3 ended with spike_defuse. The winning team is Team Heretics.
+The current score is DRX 2 - 1 Team Heretics.
+BeYN killed Wo0t  in round 4
+Boo killed BuZz  in round 4
+Boo killed Flashback  in round 4
+Foxy9 killed Boo  in round 4
+benjyfishy killed MaKo  in round 4
+Foxy9 killed MiniBoo  in round 4
+Foxy9 killed benjyfishy  in round 4
+Foxy9 killed RieNs  in round 4
+Round 4 ended with elimination. The winning team is DRX.
+The current score is DRX 3 - 1 Team Heretics.
+Wo0t killed BeYN  in round 5
+MaKo killed Wo0t  in round 5
+Flashback killed MiniBoo  in round 5
+Boo killed MaKo  in round 5
+Boo killed Foxy9  in round 5
+Flashback killed benjyfishy  in round 5
+Flashback killed Boo  in round 5
+BuZz killed RieNs  in round 5
+Round 5 ended with elimination. The winning team is DRX.
+The current score is DRX 4 - 1 Team Heretics.
+Boo killed BuZz  in round 6
+benjyfishy killed Flashback  in round 6
+benjyfishy killed BeYN  in round 6
+MaKo killed benjyfishy  in round 6
+MaKo killed MiniBoo  in round 6
+Foxy9 killed Wo0t  in round 6
+RieNs killed MaKo  in round 6
+Foxy9 killed RieNs  in round 6
+Boo killed Foxy9  in round 6
+Round 6 ended with spike_defuse. The winning team is Team Heretics.
+The current score is DRX 4 - 2 Team Heretics.
+BuZz killed Boo  in round 7
+RieNs killed BuZz  in round 7
+MiniBoo killed Foxy9  in round 7
+MiniBoo killed BeYN  in round 7
+MiniBoo killed MaKo  in round 7
+Flashback killed benjyfishy  in round 7
+Wo0t killed Flashback  in round 7
+Round 7 ended with spike_defuse. The winning team is Team Heretics.
+The current score is DRX 4 - 3 Team Heretics.
+MiniBoo killed BuZz  in round 8
+Foxy9 killed MiniBoo  in round 8
+Flashback killed Wo0t  in round 8
+MaKo killed Boo  in round 8
+Flashback killed RieNs  in round 8
+benjyfishy killed Flashback  in round 8
+Round 8 ended with detonate. The winning team is DRX.
+The current score is DRX 5 - 3 Team Heretics.
+benjyfishy killed MaKo  in round 9
+Foxy9 killed benjyfishy  in round 9
+BuZz killed Boo  in round 9
+MiniBoo killed BeYN  in round 9
+MiniBoo killed Flashback  in round 9
+MaKo killed MiniBoo  in round 9
+RieNs killed Foxy9  in round 9
+BuZz killed RieNs  in round 9
+benjyfishy killed BuZz  in round 9
+MaKo killed benjyfishy  in round 9
+Wo0t killed MaKo  in round 9
+Round 9 ended with spike_defuse. The winning team is Team Heretics.
+The current score is DRX 5 - 4 Team Heretics.
+Boo killed Flashback  in round 10
+Wo0t killed BuZz  in round 10
+RieNs killed MaKo  in round 10
+MiniBoo killed BeYN  in round 10
+benjyfishy killed Foxy9  in round 10
+Round 10 ended with spike_defuse. The winning team is Team Heretics.
+The current score is DRX 5 - 5 Team Heretics.
+RieNs killed RieNs  in round 11
+MaKo killed RieNs  in round 11
+MaKo killed Wo0t  in round 11
+BeYN killed Boo  in round 11
+Round 11 ended with detonate. The winning team is DRX.
+The current score is DRX 6 - 5 Team Heretics.
+Wo0t killed MaKo  in round 12
+Foxy9 killed Wo0t  in round 12
+BeYN killed RieNs  in round 12
+MiniBoo killed BeYN  in round 12
+Foxy9 killed benjyfishy  in round 12
+MiniBoo killed Foxy9  in round 12
+BuZz killed BuZz  in round 12
+Flashback killed MiniBoo  in round 12
+Flashback killed Boo  in round 12
+Round 12 ended with elimination. The winning team is DRX.
+The current score is DRX 7 - 5 Team Heretics.
+Foxy9 killed MiniBoo  in round 13
+MaKo killed benjyfishy  in round 13
+Wo0t killed Foxy9  in round 13
+BeYN killed Wo0t  in round 13
+Boo killed MaKo  in round 13
+BeYN killed Boo  in round 13
+Flashback killed RieNs  in round 13
+Round 13 ended with elimination. The winning team is DRX.
+The current score is DRX 8 - 5 Team Heretics.
+Foxy9 killed benjyfishy  in round 14
+MiniBoo killed Foxy9  in round 14
+MaKo killed Wo0t  in round 14
+MaKo killed RieNs  in round 14
+MaKo killed MiniBoo  in round 14
+BeYN killed Boo  in round 14
+Round 14 ended with elimination. The winning team is DRX.
+The current score is DRX 9 - 5 Team Heretics.
+Boo killed Foxy9  in round 15
+Boo killed BuZz  in round 15
+MaKo killed Boo  in round 15
+Flashback killed Wo0t  in round 15
+BeYN killed RieNs  in round 15
+MiniBoo killed Flashback  in round 15
+BeYN killed benjyfishy  in round 15
+MaKo killed MiniBoo  in round 15
+Round 15 ended with spike_defuse. The winning team is DRX.
+The current score is DRX 10 - 5 Team Heretics.
+Flashback killed MiniBoo  in round 16
+Flashback killed Wo0t  in round 16
+Flashback killed benjyfishy  in round 16
+RieNs killed Flashback  in round 16
+RieNs killed BeYN  in round 16
+MaKo killed RieNs  in round 16
+Round 16 ended with spike_defuse. The winning team is DRX.
+The current score is DRX 11 - 5 Team Heretics.
+MaKo killed Boo  in round 17
+Flashback killed MiniBoo  in round 17
+RieNs killed Flashback  in round 17
+Foxy9 killed Wo0t  in round 17
+Foxy9 killed benjyfishy  in round 17
+Boo killed BuZz  in round 17
+Foxy9 killed Boo  in round 17
+MaKo killed RieNs  in round 17
+Round 17 ended with spike_defuse. The winning team is DRX.
+The current score is DRX 12 - 5 Team Heretics.
+Boo killed BuZz  in round 18
+BeYN killed MiniBoo  in round 18
+Foxy9 killed benjyfishy  in round 18
+Flashback killed RieNs  in round 18
+Boo killed Flashback  in round 18
+Wo0t killed Foxy9  in round 18
+BeYN killed Wo0t  in round 18
+MaKo killed Boo  in round 18
+Round 18 ended with elimination. The winning team is DRX.
+The current score is DRX 13 - 5 Team Heretics.
+Game ended with winning team: DRX at 2024-08-18T12:13:32Z
+
+--- Player Stats ---
+MiniBoo: Team=Team Heretics, Kills=16, Deaths=14, Assists=2, KDA=1.29, First Kills=2, First Deaths=2
+RieNs: Team=Team Heretics, Kills=9, Deaths=17, Assists=6, KDA=0.88, First Kills=1, First Deaths=1
+Boo: Team=Team Heretics, Kills=15, Deaths=15, Assists=9, KDA=1.6, First Kills=4, First Deaths=2
+benjyfishy: Team=Team Heretics, Kills=7, Deaths=16, Assists=1, KDA=0.5, First Kills=1, First Deaths=1
+Wo0t: Team=Team Heretics, Kills=9, Deaths=14, Assists=9, KDA=1.29, First Kills=3, First Deaths=2
+MaKo: Team=DRX, Kills=19, Deaths=11, Assists=10, KDA=2.64, First Kills=1, First Deaths=3
+Foxy9: Team=DRX, Kills=20, Deaths=12, Assists=13, KDA=2.75, First Kills=2, First Deaths=1
+Flashback: Team=DRX, Kills=17, Deaths=12, Assists=4, KDA=1.75, First Kills=2, First Deaths=1
+BeYN: Team=DRX, Kills=13, Deaths=8, Assists=8, KDA=2.62, First Kills=1, First Deaths=1
+BuZz: Team=DRX, Kills=7, Deaths=13, Assists=1, KDA=0.62, First Kills=1, First Deaths=4

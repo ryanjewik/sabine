@@ -1,0 +1,198 @@
+Team 1: PAPER REX
+Team 2: Futbolist
+Participating Players:
+Player 1: ATA KAPTAN
+Player 2: mojj
+Player 3: MrFaliN
+Player 4: qw1
+Player 5: qRaxs
+Player 6: f0rsakeN
+Player 7: mindfreak
+Player 8: d4v41
+Player 9: something
+Player 10: Jinggg
+Winning Team: PAPER REX
+Score: PAPER REX 13 - 4 Futbolist
+Tournament Name: vct champions 2023
+Game Start Time: 2023-08-16T22:19:24Z
+Game End Time: 2023-08-16T22:57:55Z
+Rounds ended by ELIMINATION count: 12
+Rounds ended by DEFUSE count: 2
+Rounds ended by DETONATE count: 3
+SPIKE PLANTED count: 5
+platformGameId: val:3db43977-af2a-45e9-9df9-85d13662a2d7
+
+--- Events ---
+Game started at 2023-08-16T22:19:24Z
+something killed qw1  in round 1
+something killed qRaxs  in round 1
+Jinggg killed MrFaliN  in round 1
+d4v41 killed mojj  in round 1
+Jinggg killed ATA KAPTAN  in round 1
+Round 1 ended with elimination. The winning team is PAPER REX.
+The current score is PAPER REX 1 - 0 Futbolist.
+something killed MrFaliN  in round 2
+Round 2 ended with detonate. The winning team is PAPER REX.
+The current score is PAPER REX 2 - 0 Futbolist.
+ATA KAPTAN killed ATA KAPTAN  in round 3
+mojj killed mojj  in round 3
+qRaxs killed qRaxs  in round 3
+qw1 killed qw1  in round 3
+f0rsakeN killed qRaxs  in round 3
+f0rsakeN killed ATA KAPTAN  in round 3
+MrFaliN killed f0rsakeN  in round 3
+d4v41 killed qw1  in round 3
+MrFaliN killed d4v41  in round 3
+mojj killed mindfreak  in round 3
+something killed MrFaliN  in round 3
+Jinggg killed mojj  in round 3
+Round 3 ended with elimination. The winning team is PAPER REX.
+The current score is PAPER REX 3 - 0 Futbolist.
+MrFaliN killed something  in round 4
+f0rsakeN killed qRaxs  in round 4
+d4v41 killed MrFaliN  in round 4
+Jinggg killed mojj  in round 4
+ATA KAPTAN killed d4v41  in round 4
+ATA KAPTAN killed Jinggg  in round 4
+qw1 killed f0rsakeN  in round 4
+ATA KAPTAN killed mindfreak  in round 4
+Round 4 ended with detonate. The winning team is PAPER REX.
+The current score is PAPER REX 4 - 0 Futbolist.
+qw1 killed qw1  in round 5
+ATA KAPTAN killed ATA KAPTAN  in round 5
+something killed mojj  in round 5
+qw1 killed Jinggg  in round 5
+qw1 killed something  in round 5
+MrFaliN killed d4v41  in round 5
+mindfreak killed MrFaliN  in round 5
+f0rsakeN killed qRaxs  in round 5
+f0rsakeN killed ATA KAPTAN  in round 5
+f0rsakeN killed qw1  in round 5
+Round 5 ended with elimination. The winning team is PAPER REX.
+The current score is PAPER REX 5 - 0 Futbolist.
+f0rsakeN killed ATA KAPTAN  in round 6
+f0rsakeN killed MrFaliN  in round 6
+f0rsakeN killed qRaxs  in round 6
+qw1 killed Jinggg  in round 6
+d4v41 killed qw1  in round 6
+mojj killed f0rsakeN  in round 6
+d4v41 killed mojj  in round 6
+Round 6 ended with elimination. The winning team is PAPER REX.
+The current score is PAPER REX 6 - 0 Futbolist.
+something killed ATA KAPTAN  in round 7
+something killed mojj  in round 7
+MrFaliN killed f0rsakeN  in round 7
+something killed MrFaliN  in round 7
+qRaxs killed something  in round 7
+Round 7 ended with detonate. The winning team is PAPER REX.
+The current score is PAPER REX 7 - 0 Futbolist.
+qw1 killed Jinggg  in round 8
+mindfreak killed mindfreak  in round 8
+qw1 killed Jinggg  in round 8
+f0rsakeN killed qw1  in round 8
+f0rsakeN killed ATA KAPTAN  in round 8
+mindfreak killed MrFaliN  in round 8
+mindfreak killed qRaxs  in round 8
+mojj killed mindfreak  in round 8
+something killed mojj  in round 8
+Round 8 ended with elimination. The winning team is PAPER REX.
+The current score is PAPER REX 8 - 0 Futbolist.
+d4v41 killed qw1  in round 9
+qRaxs killed mindfreak  in round 9
+f0rsakeN killed MrFaliN  in round 9
+qRaxs killed Jinggg  in round 9
+something killed qRaxs  in round 9
+f0rsakeN killed ATA KAPTAN  in round 9
+mojj killed something  in round 9
+d4v41 killed mojj  in round 9
+Round 9 ended with elimination. The winning team is PAPER REX.
+The current score is PAPER REX 9 - 0 Futbolist.
+something killed mojj  in round 10
+qw1 killed f0rsakeN  in round 10
+d4v41 killed qw1  in round 10
+mindfreak killed ATA KAPTAN  in round 10
+qRaxs killed Jinggg  in round 10
+d4v41 killed MrFaliN  in round 10
+mindfreak killed qRaxs  in round 10
+Round 10 ended with elimination. The winning team is PAPER REX.
+The current score is PAPER REX 10 - 0 Futbolist.
+ATA KAPTAN killed Jinggg  in round 11
+ATA KAPTAN killed mindfreak  in round 11
+something killed qRaxs  in round 11
+ATA KAPTAN killed f0rsakeN  in round 11
+d4v41 killed ATA KAPTAN  in round 11
+d4v41 killed qw1  in round 11
+mojj killed something  in round 11
+MrFaliN killed d4v41  in round 11
+Round 11 ended with spike_defuse. The winning team is Futbolist.
+The current score is PAPER REX 10 - 1 Futbolist.
+d4v41 killed qRaxs  in round 12
+d4v41 killed qw1  in round 12
+ATA KAPTAN killed d4v41  in round 12
+something killed ATA KAPTAN  in round 12
+f0rsakeN killed mojj  in round 12
+Jinggg killed MrFaliN  in round 12
+Round 12 ended with elimination. The winning team is PAPER REX.
+The current score is PAPER REX 11 - 1 Futbolist.
+ATA KAPTAN killed mindfreak  in round 13
+d4v41 killed qRaxs  in round 13
+MrFaliN killed f0rsakeN  in round 13
+mojj killed something  in round 13
+d4v41 killed MrFaliN  in round 13
+d4v41 killed mojj  in round 13
+Jinggg killed ATA KAPTAN  in round 13
+Jinggg killed qw1  in round 13
+Round 13 ended with spike_defuse. The winning team is PAPER REX.
+The current score is PAPER REX 12 - 1 Futbolist.
+mojj killed Jinggg  in round 14
+d4v41 killed qRaxs  in round 14
+d4v41 killed MrFaliN  in round 14
+qw1 killed d4v41  in round 14
+mindfreak killed qw1  in round 14
+mojj killed mindfreak  in round 14
+ATA KAPTAN killed something  in round 14
+mojj killed f0rsakeN  in round 14
+Round 14 ended with elimination. The winning team is Futbolist.
+The current score is PAPER REX 12 - 2 Futbolist.
+something killed qRaxs  in round 15
+qw1 killed something  in round 15
+d4v41 killed qw1  in round 15
+ATA KAPTAN killed d4v41  in round 15
+ATA KAPTAN killed f0rsakeN  in round 15
+ATA KAPTAN killed mindfreak  in round 15
+MrFaliN killed Jinggg  in round 15
+Round 15 ended with elimination. The winning team is Futbolist.
+The current score is PAPER REX 12 - 3 Futbolist.
+MrFaliN killed Jinggg  in round 16
+f0rsakeN killed mojj  in round 16
+MrFaliN killed d4v41  in round 16
+f0rsakeN killed ATA KAPTAN  in round 16
+qw1 killed f0rsakeN  in round 16
+mindfreak killed qRaxs  in round 16
+mindfreak killed MrFaliN  in round 16
+qw1 killed mindfreak  in round 16
+qw1 killed something  in round 16
+Round 16 ended with elimination. The winning team is Futbolist.
+The current score is PAPER REX 12 - 4 Futbolist.
+Jinggg killed ATA KAPTAN  in round 17
+Jinggg killed mojj  in round 17
+qRaxs killed Jinggg  in round 17
+d4v41 killed qRaxs  in round 17
+something killed MrFaliN  in round 17
+qw1 killed d4v41  in round 17
+f0rsakeN killed qw1  in round 17
+Round 17 ended with elimination. The winning team is PAPER REX.
+The current score is PAPER REX 13 - 4 Futbolist.
+Game ended with winning team: PAPER REX at 2023-08-16T22:57:55Z
+
+--- Player Stats ---
+ATA KAPTAN: Team=Futbolist, Kills=14, Deaths=15, Assists=6, KDA=1.33, First Kills=3, First Deaths=4
+mojj: Team=Futbolist, Kills=10, Deaths=14, Assists=4, KDA=1.0, First Kills=1, First Deaths=1
+MrFaliN: Team=Futbolist, Kills=10, Deaths=15, Assists=3, KDA=0.87, First Kills=2, First Deaths=1
+qw1: Team=Futbolist, Kills=15, Deaths=15, Assists=3, KDA=1.2, First Kills=2, First Deaths=3
+qRaxs: Team=Futbolist, Kills=6, Deaths=16, Assists=8, KDA=0.88, First Kills=0, First Deaths=2
+f0rsakeN: Team=PAPER REX, Kills=17, Deaths=10, Assists=3, KDA=2.0, First Kills=1, First Deaths=0
+mindfreak: Team=PAPER REX, Kills=9, Deaths=10, Assists=4, KDA=1.3, First Kills=0, First Deaths=1
+d4v41: Team=PAPER REX, Kills=20, Deaths=9, Assists=12, KDA=3.56, First Kills=2, First Deaths=0
+something: Team=PAPER REX, Kills=15, Deaths=9, Assists=1, KDA=1.78, First Kills=5, First Deaths=1
+Jinggg: Team=PAPER REX, Kills=9, Deaths=12, Assists=5, KDA=1.17, First Kills=1, First Deaths=4

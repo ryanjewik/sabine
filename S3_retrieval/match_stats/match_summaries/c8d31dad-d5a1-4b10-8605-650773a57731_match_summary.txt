@@ -1,0 +1,271 @@
+Team 1: Rex Regum Qeon
+Team 2: DRX
+Participating Players:
+Player 1: MaKo
+Player 2: Foxy9
+Player 3: Flashback
+Player 4: BeYN
+Player 5: BuZz
+Player 6: patt
+Player 7: Lmemore
+Player 8: Estrella
+Player 9: Jemkin
+Player 10: Monyet
+Winning Team: Rex Regum Qeon
+Score: Rex Regum Qeon 14 - 12 DRX
+Tournament Name: vct pacific stage 2 2024
+Game Start Time: 2024-06-24T07:52:05Z
+Game End Time: 2024-06-24T08:55:13Z
+Rounds ended by ELIMINATION count: 20
+Rounds ended by DEFUSE count: 2
+Rounds ended by DETONATE count: 0
+SPIKE PLANTED count: 2
+platformGameId: val:c8d31dad-d5a1-4b10-8605-650773a57731
+
+--- Events ---
+Game started at 2024-06-24T07:52:05Z
+Monyet killed BeYN  in round 1
+MaKo killed Monyet  in round 1
+BuZz killed Jemkin  in round 1
+BuZz killed patt  in round 1
+Lmemore killed BuZz  in round 1
+Flashback killed Estrella  in round 1
+Foxy9 killed Lmemore  in round 1
+Round 1 ended with spike_defuse. The winning team is DRX.
+The current score is Rex Regum Qeon 0 - 1 DRX.
+MaKo killed Jemkin  in round 2
+MaKo killed Monyet  in round 2
+BuZz killed patt  in round 2
+Foxy9 killed Estrella  in round 2
+Lmemore killed BuZz  in round 2
+Flashback killed Lmemore  in round 2
+Round 2 ended with elimination. The winning team is DRX.
+The current score is Rex Regum Qeon 0 - 2 DRX.
+Flashback killed Estrella  in round 3
+BuZz killed Monyet  in round 3
+Lmemore killed BuZz  in round 3
+Lmemore killed MaKo  in round 3
+Flashback killed Lmemore  in round 3
+Jemkin killed Flashback  in round 3
+BeYN killed patt  in round 3
+BeYN killed Jemkin  in round 3
+Round 3 ended with elimination. The winning team is DRX.
+The current score is Rex Regum Qeon 0 - 3 DRX.
+BuZz killed Monyet  in round 4
+MaKo killed Jemkin  in round 4
+patt killed BuZz  in round 4
+Lmemore killed BeYN  in round 4
+Lmemore killed MaKo  in round 4
+Lmemore killed Flashback  in round 4
+patt killed Foxy9  in round 4
+Round 4 ended with elimination. The winning team is Rex Regum Qeon.
+The current score is Rex Regum Qeon 1 - 3 DRX.
+Foxy9 killed Jemkin  in round 5
+patt killed Foxy9  in round 5
+BeYN killed Monyet  in round 5
+Lmemore killed BeYN  in round 5
+Lmemore killed MaKo  in round 5
+Flashback killed Lmemore  in round 5
+Flashback killed patt  in round 5
+Estrella killed Flashback  in round 5
+Round 5 ended with time_expired. The winning team is DRX.
+The current score is Rex Regum Qeon 1 - 4 DRX.
+Jemkin killed Foxy9  in round 6
+BeYN killed Jemkin  in round 6
+Monyet killed BeYN  in round 6
+Monyet killed MaKo  in round 6
+BuZz killed Estrella  in round 6
+Flashback killed patt  in round 6
+Monyet killed BuZz  in round 6
+Lmemore killed Flashback  in round 6
+Round 6 ended with elimination. The winning team is Rex Regum Qeon.
+The current score is Rex Regum Qeon 2 - 4 DRX.
+BuZz killed Jemkin  in round 7
+BuZz killed Monyet  in round 7
+Flashback killed patt  in round 7
+Estrella killed BuZz  in round 7
+MaKo killed Estrella  in round 7
+Round 7 ended with time_expired. The winning team is DRX.
+The current score is Rex Regum Qeon 2 - 5 DRX.
+MaKo killed Monyet  in round 8
+Jemkin killed MaKo  in round 8
+BuZz killed Estrella  in round 8
+Lmemore killed BuZz  in round 8
+Lmemore killed Foxy9  in round 8
+BeYN killed Lmemore  in round 8
+Jemkin killed BeYN  in round 8
+Flashback killed Jemkin  in round 8
+Flashback killed patt  in round 8
+Round 8 ended with spike_defuse. The winning team is DRX.
+The current score is Rex Regum Qeon 2 - 6 DRX.
+Jemkin killed Foxy9  in round 9
+BeYN killed Monyet  in round 9
+Lmemore killed BeYN  in round 9
+Estrella killed MaKo  in round 9
+Lmemore killed Flashback  in round 9
+patt killed BuZz  in round 9
+Round 9 ended with elimination. The winning team is Rex Regum Qeon.
+The current score is Rex Regum Qeon 3 - 6 DRX.
+Foxy9 killed patt  in round 10
+Flashback killed Jemkin  in round 10
+MaKo killed Lmemore  in round 10
+Flashback killed Monyet  in round 10
+MaKo killed Estrella  in round 10
+Round 10 ended with elimination. The winning team is DRX.
+The current score is Rex Regum Qeon 3 - 7 DRX.
+BeYN killed Monyet  in round 11
+BuZz killed patt  in round 11
+Estrella killed BuZz  in round 11
+Lmemore killed MaKo  in round 11
+Flashback killed Jemkin  in round 11
+Flashback killed Lmemore  in round 11
+Estrella killed Flashback  in round 11
+Estrella killed BeYN  in round 11
+Round 11 ended with time_expired. The winning team is DRX.
+The current score is Rex Regum Qeon 3 - 8 DRX.
+Foxy9 killed Estrella  in round 12
+MaKo killed Monyet  in round 12
+MaKo killed Jemkin  in round 12
+MaKo killed patt  in round 12
+Lmemore killed BuZz  in round 12
+Estrella killed BeYN  in round 12
+Lmemore killed MaKo  in round 12
+Flashback killed Lmemore  in round 12
+Estrella killed Flashback  in round 12
+Foxy9 killed Estrella  in round 12
+Round 12 ended with elimination. The winning team is DRX.
+The current score is Rex Regum Qeon 3 - 9 DRX.
+Jemkin killed BuZz  in round 13
+patt killed BeYN  in round 13
+MaKo killed patt  in round 13
+MaKo killed Jemkin  in round 13
+MaKo killed Estrella  in round 13
+Lmemore killed MaKo  in round 13
+Monyet killed Flashback  in round 13
+Foxy9 killed Lmemore  in round 13
+Foxy9 killed Monyet  in round 13
+Round 13 ended with elimination. The winning team is DRX.
+The current score is Rex Regum Qeon 3 - 10 DRX.
+Lmemore killed Foxy9  in round 14
+BuZz killed Jemkin  in round 14
+Monyet killed BeYN  in round 14
+BuZz killed Monyet  in round 14
+Estrella killed MaKo  in round 14
+BuZz killed Estrella  in round 14
+patt killed BuZz  in round 14
+Flashback killed patt  in round 14
+Lmemore killed Flashback  in round 14
+Round 14 ended with elimination. The winning team is Rex Regum Qeon.
+The current score is Rex Regum Qeon 4 - 10 DRX.
+Jemkin killed MaKo  in round 15
+Jemkin killed BuZz  in round 15
+Jemkin killed Foxy9  in round 15
+Lmemore killed Flashback  in round 15
+patt killed BeYN  in round 15
+Round 15 ended with elimination. The winning team is Rex Regum Qeon.
+The current score is Rex Regum Qeon 5 - 10 DRX.
+Monyet killed MaKo  in round 16
+Monyet killed BeYN  in round 16
+Monyet killed Flashback  in round 16
+BuZz killed Monyet  in round 16
+Estrella killed BuZz  in round 16
+Round 16 ended with time_expired. The winning team is Rex Regum Qeon.
+The current score is Rex Regum Qeon 6 - 10 DRX.
+BuZz killed Jemkin  in round 17
+Lmemore killed BuZz  in round 17
+Foxy9 killed Lmemore  in round 17
+patt killed Foxy9  in round 17
+BeYN killed Monyet  in round 17
+Flashback killed patt  in round 17
+Estrella killed Flashback  in round 17
+Estrella killed MaKo  in round 17
+BeYN killed Estrella  in round 17
+Round 17 ended with elimination. The winning team is DRX.
+The current score is Rex Regum Qeon 6 - 11 DRX.
+Estrella killed BuZz  in round 18
+Lmemore killed Foxy9  in round 18
+Lmemore killed MaKo  in round 18
+Lmemore killed BeYN  in round 18
+Lmemore killed Flashback  in round 18
+Round 18 ended with elimination. The winning team is Rex Regum Qeon.
+The current score is Rex Regum Qeon 7 - 11 DRX.
+Estrella killed BuZz  in round 19
+Lmemore killed MaKo  in round 19
+BeYN killed patt  in round 19
+Lmemore killed BeYN  in round 19
+Lmemore killed Flashback  in round 19
+Lmemore killed Foxy9  in round 19
+Round 19 ended with elimination. The winning team is Rex Regum Qeon.
+The current score is Rex Regum Qeon 8 - 11 DRX.
+Jemkin killed BuZz  in round 20
+Jemkin killed Foxy9  in round 20
+Jemkin killed BeYN  in round 20
+Jemkin killed MaKo  in round 20
+Flashback killed Monyet  in round 20
+Estrella killed Flashback  in round 20
+Round 20 ended with elimination. The winning team is Rex Regum Qeon.
+The current score is Rex Regum Qeon 9 - 11 DRX.
+Estrella killed BuZz  in round 21
+Jemkin killed MaKo  in round 21
+BeYN killed Estrella  in round 21
+Jemkin killed BeYN  in round 21
+Monyet killed Foxy9  in round 21
+Jemkin killed Flashback  in round 21
+Round 21 ended with elimination. The winning team is Rex Regum Qeon.
+The current score is Rex Regum Qeon 10 - 11 DRX.
+patt killed BuZz  in round 22
+BeYN killed patt  in round 22
+Lmemore killed Foxy9  in round 22
+Lmemore killed MaKo  in round 22
+Flashback killed Estrella  in round 22
+Flashback killed Monyet  in round 22
+Jemkin killed BeYN  in round 22
+Flashback killed Lmemore  in round 22
+Jemkin killed Flashback  in round 22
+Round 22 ended with elimination. The winning team is Rex Regum Qeon.
+The current score is Rex Regum Qeon 11 - 11 DRX.
+patt killed MaKo  in round 23
+patt killed Flashback  in round 23
+BeYN killed patt  in round 23
+Estrella killed Foxy9  in round 23
+Monyet killed BuZz  in round 23
+Monyet killed BeYN  in round 23
+Round 23 ended with elimination. The winning team is Rex Regum Qeon.
+The current score is Rex Regum Qeon 12 - 11 DRX.
+Foxy9 killed patt  in round 24
+Jemkin killed BuZz  in round 24
+Monyet killed MaKo  in round 24
+Foxy9 killed Lmemore  in round 24
+Flashback killed Monyet  in round 24
+Jemkin killed BeYN  in round 24
+Flashback killed Estrella  in round 24
+Flashback killed Jemkin  in round 24
+Round 24 ended with elimination. The winning team is DRX.
+The current score is Rex Regum Qeon 12 - 12 DRX.
+Monyet killed MaKo  in round 25
+Jemkin killed Foxy9  in round 25
+Lmemore killed BeYN  in round 25
+patt killed Flashback  in round 25
+Monyet killed BuZz  in round 25
+Round 25 ended with elimination. The winning team is Rex Regum Qeon.
+The current score is Rex Regum Qeon 13 - 12 DRX.
+Monyet killed Foxy9  in round 26
+Monyet killed BeYN  in round 26
+Estrella killed MaKo  in round 26
+Monyet killed BuZz  in round 26
+Monyet killed Flashback  in round 26
+Round 26 ended with elimination. The winning team is Rex Regum Qeon.
+The current score is Rex Regum Qeon 14 - 12 DRX.
+Game ended with winning team: Rex Regum Qeon at 2024-06-24T08:55:13Z
+
+--- Player Stats ---
+MaKo: Team=DRX, Kills=14, Deaths=22, Assists=9, KDA=1.05, First Kills=2, First Deaths=4
+Foxy9: Team=DRX, Kills=11, Deaths=16, Assists=6, KDA=1.06, First Kills=4, First Deaths=4
+Flashback: Team=DRX, Kills=24, Deaths=20, Assists=5, KDA=1.45, First Kills=1, First Deaths=0
+BeYN: Team=DRX, Kills=13, Deaths=21, Assists=7, KDA=0.95, First Kills=1, First Deaths=1
+BuZz: Team=DRX, Kills=15, Deaths=24, Assists=7, KDA=0.92, First Kills=3, First Deaths=6
+patt: Team=Rex Regum Qeon, Kills=12, Deaths=17, Assists=9, KDA=1.24, First Kills=2, First Deaths=2
+Lmemore: Team=Rex Regum Qeon, Kills=33, Deaths=12, Assists=10, KDA=3.58, First Kills=1, First Deaths=0
+Estrella: Team=Rex Regum Qeon, Kills=18, Deaths=15, Assists=13, KDA=2.07, First Kills=3, First Deaths=2
+Jemkin: Team=Rex Regum Qeon, Kills=21, Deaths=15, Assists=3, KDA=1.6, First Kills=5, First Deaths=4
+Monyet: Team=Rex Regum Qeon, Kills=19, Deaths=18, Assists=5, KDA=1.33, First Kills=4, First Deaths=3

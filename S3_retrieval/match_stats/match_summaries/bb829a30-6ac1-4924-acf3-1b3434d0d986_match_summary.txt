@@ -1,0 +1,229 @@
+Team 1: Futbolist
+Team 2: DRX
+Participating Players:
+Player 1: ZestKR
+Player 2: BuZz
+Player 3: stax
+Player 4: MaKo
+Player 5: Rb
+Player 6: ATA KAPTAN
+Player 7: mojj
+Player 8: MrFaliN
+Player 9: qw1
+Player 10: qRaxs
+Winning Team: DRX
+Score: Futbolist 8 - 13 DRX
+Tournament Name: vct masters 2023 groups
+Game Start Time: 2023-06-14T04:09:15Z
+Game End Time: 2023-06-14T04:58:04Z
+Rounds ended by ELIMINATION count: 12
+Rounds ended by DEFUSE count: 5
+Rounds ended by DETONATE count: 4
+SPIKE PLANTED count: 9
+platformGameId: val:bb829a30-6ac1-4924-acf3-1b3434d0d986
+
+--- Events ---
+Game started at 2023-06-14T04:09:15Z
+Rb killed qRaxs  in round 1
+qw1 killed Rb  in round 1
+MaKo killed qw1  in round 1
+mojj killed ZestKR  in round 1
+stax killed mojj  in round 1
+Round 1 ended with spike_defuse. The winning team is DRX.
+The current score is Futbolist 0 - 1 DRX.
+ATA KAPTAN killed stax  in round 2
+MaKo killed MrFaliN  in round 2
+BuZz killed ATA KAPTAN  in round 2
+BuZz killed MrFaliN  in round 2
+BuZz killed qRaxs  in round 2
+stax killed ATA KAPTAN  in round 2
+qw1 killed stax  in round 2
+BuZz killed qw1  in round 2
+BuZz killed mojj  in round 2
+Round 2 ended with elimination. The winning team is DRX.
+The current score is Futbolist 0 - 2 DRX.
+mojj killed stax  in round 3
+qw1 killed BuZz  in round 3
+qRaxs killed Rb  in round 3
+ZestKR killed mojj  in round 3
+qw1 killed ZestKR  in round 3
+MaKo killed ATA KAPTAN  in round 3
+qRaxs killed MaKo  in round 3
+Round 3 ended with elimination. The winning team is Futbolist.
+The current score is Futbolist 1 - 2 DRX.
+mojj killed BuZz  in round 4
+MrFaliN killed Rb  in round 4
+qRaxs killed stax  in round 4
+qw1 killed ZestKR  in round 4
+MaKo killed MrFaliN  in round 4
+Round 4 ended with detonate. The winning team is Futbolist.
+The current score is Futbolist 2 - 2 DRX.
+Rb killed mojj  in round 5
+qw1 killed Rb  in round 5
+qRaxs killed stax  in round 5
+qw1 killed MaKo  in round 5
+qRaxs killed BuZz  in round 5
+ATA KAPTAN killed ZestKR  in round 5
+Round 5 ended with elimination. The winning team is Futbolist.
+The current score is Futbolist 3 - 2 DRX.
+qw1 killed ZestKR  in round 6
+stax killed qw1  in round 6
+qRaxs killed Rb  in round 6
+mojj killed MaKo  in round 6
+qRaxs killed stax  in round 6
+Round 6 ended with detonate. The winning team is Futbolist.
+The current score is Futbolist 4 - 2 DRX.
+Rb killed qRaxs  in round 7
+ATA KAPTAN killed Rb  in round 7
+MrFaliN killed stax  in round 7
+MaKo killed ATA KAPTAN  in round 7
+BuZz killed MrFaliN  in round 7
+qw1 killed BuZz  in round 7
+ZestKR killed mojj  in round 7
+ZestKR killed qw1  in round 7
+Round 7 ended with elimination. The winning team is DRX.
+The current score is Futbolist 4 - 3 DRX.
+BuZz killed ATA KAPTAN  in round 8
+MrFaliN killed BuZz  in round 8
+qw1 killed MaKo  in round 8
+qRaxs killed stax  in round 8
+ZestKR killed MrFaliN  in round 8
+Rb killed qRaxs  in round 8
+Rb killed qw1  in round 8
+Round 8 ended with spike_defuse. The winning team is DRX.
+The current score is Futbolist 4 - 4 DRX.
+mojj killed Rb  in round 9
+mojj killed ZestKR  in round 9
+qRaxs killed ZestKR  in round 9
+mojj killed Rb  in round 9
+stax killed mojj  in round 9
+MaKo killed qRaxs  in round 9
+ATA KAPTAN killed BuZz  in round 9
+MaKo killed MrFaliN  in round 9
+qw1 killed MaKo  in round 9
+qw1 killed stax  in round 9
+Round 9 ended with elimination. The winning team is Futbolist.
+The current score is Futbolist 5 - 4 DRX.
+qw1 killed stax  in round 10
+Rb killed qw1  in round 10
+ATA KAPTAN killed Rb  in round 10
+BuZz killed ATA KAPTAN  in round 10
+mojj killed MaKo  in round 10
+BuZz killed MrFaliN  in round 10
+ZestKR killed qRaxs  in round 10
+BuZz killed mojj  in round 10
+Round 10 ended with elimination. The winning team is DRX.
+The current score is Futbolist 5 - 5 DRX.
+ATA KAPTAN killed ZestKR  in round 11
+MaKo killed ATA KAPTAN  in round 11
+qw1 killed BuZz  in round 11
+qw1 killed MaKo  in round 11
+qRaxs killed stax  in round 11
+qw1 killed Rb  in round 11
+Round 11 ended with elimination. The winning team is Futbolist.
+The current score is Futbolist 6 - 5 DRX.
+MaKo killed qw1  in round 12
+qRaxs killed BuZz  in round 12
+ZestKR killed qRaxs  in round 12
+MaKo killed mojj  in round 12
+Rb killed ATA KAPTAN  in round 12
+MaKo killed MrFaliN  in round 12
+Round 12 ended with spike_defuse. The winning team is DRX.
+The current score is Futbolist 6 - 6 DRX.
+Rb killed ATA KAPTAN  in round 13
+qw1 killed ZestKR  in round 13
+Rb killed qw1  in round 13
+stax killed qRaxs  in round 13
+stax killed MrFaliN  in round 13
+stax killed mojj  in round 13
+Round 13 ended with elimination. The winning team is DRX.
+The current score is Futbolist 6 - 7 DRX.
+BuZz killed MrFaliN  in round 14
+qRaxs killed Rb  in round 14
+BuZz killed qRaxs  in round 14
+qw1 killed MaKo  in round 14
+BuZz killed mojj  in round 14
+ZestKR killed qw1  in round 14
+BuZz killed ATA KAPTAN  in round 14
+Round 14 ended with elimination. The winning team is DRX.
+The current score is Futbolist 6 - 8 DRX.
+Rb killed qRaxs  in round 15
+qw1 killed Rb  in round 15
+ATA KAPTAN killed BuZz  in round 15
+MaKo killed ATA KAPTAN  in round 15
+stax killed qw1  in round 15
+mojj killed stax  in round 15
+ZestKR killed mojj  in round 15
+MaKo killed MrFaliN  in round 15
+Round 15 ended with elimination. The winning team is DRX.
+The current score is Futbolist 6 - 9 DRX.
+BuZz killed qw1  in round 16
+ATA KAPTAN killed BuZz  in round 16
+Rb killed mojj  in round 16
+ZestKR killed ATA KAPTAN  in round 16
+qRaxs killed ZestKR  in round 16
+qRaxs killed stax  in round 16
+qRaxs killed MaKo  in round 16
+MrFaliN killed Rb  in round 16
+Round 16 ended with spike_defuse. The winning team is Futbolist.
+The current score is Futbolist 7 - 9 DRX.
+BuZz killed qw1  in round 17
+qRaxs killed BuZz  in round 17
+qRaxs killed MaKo  in round 17
+ZestKR killed qRaxs  in round 17
+Rb killed mojj  in round 17
+ATA KAPTAN killed stax  in round 17
+MrFaliN killed ZestKR  in round 17
+ATA KAPTAN killed Rb  in round 17
+Round 17 ended with spike_defuse. The winning team is Futbolist.
+The current score is Futbolist 8 - 9 DRX.
+MaKo killed MrFaliN  in round 18
+mojj killed stax  in round 18
+mojj killed BuZz  in round 18
+MaKo killed mojj  in round 18
+ATA KAPTAN killed Rb  in round 18
+qw1 killed MaKo  in round 18
+ZestKR killed qRaxs  in round 18
+ZestKR killed qw1  in round 18
+ATA KAPTAN killed ZestKR  in round 18
+ATA KAPTAN killed ATA KAPTAN  in round 18
+Round 18 ended with elimination. The winning team is DRX.
+The current score is Futbolist 8 - 10 DRX.
+qw1 killed ZestKR  in round 19
+Rb killed ATA KAPTAN  in round 19
+BuZz killed qRaxs  in round 19
+BuZz killed qw1  in round 19
+MrFaliN killed stax  in round 19
+stax killed MrFaliN  in round 19
+Round 19 ended with detonate. The winning team is DRX.
+The current score is Futbolist 8 - 11 DRX.
+Rb killed ATA KAPTAN  in round 20
+Rb killed qRaxs  in round 20
+stax killed qw1  in round 20
+stax killed MrFaliN  in round 20
+Round 20 ended with detonate. The winning team is DRX.
+The current score is Futbolist 8 - 12 DRX.
+mojj killed Rb  in round 21
+MrFaliN killed BuZz  in round 21
+Rb killed qw1  in round 21
+qRaxs killed stax  in round 21
+ZestKR killed mojj  in round 21
+Rb killed qRaxs  in round 21
+Rb killed ATA KAPTAN  in round 21
+MrFaliN killed ZestKR  in round 21
+MaKo killed MrFaliN  in round 21
+Round 21 ended with elimination. The winning team is DRX.
+The current score is Futbolist 8 - 13 DRX.
+Game ended with winning team: DRX at 2023-06-14T04:58:04Z
+
+--- Player Stats ---
+ZestKR: Team=DRX, Kills=13, Deaths=14, Assists=2, KDA=1.07, First Kills=0, First Deaths=3
+BuZz: Team=DRX, Kills=18, Deaths=13, Assists=3, KDA=1.62, First Kills=4, First Deaths=1
+stax: Team=DRX, Kills=11, Deaths=17, Assists=16, KDA=1.59, First Kills=0, First Deaths=3
+MaKo: Team=DRX, Kills=16, Deaths=11, Assists=10, KDA=2.36, First Kills=2, First Deaths=0
+Rb: Team=DRX, Kills=18, Deaths=16, Assists=2, KDA=1.25, First Kills=6, First Deaths=2
+ATA KAPTAN: Team=Futbolist, Kills=13, Deaths=16, Assists=11, KDA=1.5, First Kills=2, First Deaths=3
+mojj: Team=Futbolist, Kills=12, Deaths=15, Assists=2, KDA=0.93, First Kills=4, First Deaths=1
+MrFaliN: Team=Futbolist, Kills=8, Deaths=15, Assists=7, KDA=1.0, First Kills=0, First Deaths=2
+qw1: Team=Futbolist, Kills=21, Deaths=16, Assists=3, KDA=1.5, First Kills=3, First Deaths=3
+qRaxs: Team=Futbolist, Kills=18, Deaths=15, Assists=15, KDA=2.2, First Kills=0, First Deaths=3

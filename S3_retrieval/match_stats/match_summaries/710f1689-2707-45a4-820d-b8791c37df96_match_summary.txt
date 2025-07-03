@@ -1,0 +1,251 @@
+Team 1: Rex Regum Qeon
+Team 2: Talon Esports
+Participating Players:
+Player 1: Governor
+Player 2: ban
+Player 3: Crws
+Player 4: Surf
+Player 5: JitBoyS
+Player 6: patt
+Player 7: Lmemore
+Player 8: Estrella
+Player 9: Jemkin
+Player 10: Monyet
+Winning Team: Rex Regum Qeon
+Score: Rex Regum Qeon 13 - 10 Talon Esports
+Tournament Name: vct pacific stage 2 2024
+Game Start Time: 2024-06-22T09:12:43Z
+Game End Time: 2024-06-22T10:04:36Z
+Rounds ended by ELIMINATION count: 17
+Rounds ended by DEFUSE count: 4
+Rounds ended by DETONATE count: 1
+SPIKE PLANTED count: 5
+platformGameId: val:710f1689-2707-45a4-820d-b8791c37df96
+
+--- Events ---
+Game started at 2024-06-22T09:12:43Z
+patt killed Crws  in round 1
+Monyet killed ban  in round 1
+Monyet killed Governor  in round 1
+Surf killed Monyet  in round 1
+Surf killed patt  in round 1
+JitBoyS killed Lmemore  in round 1
+Jemkin killed Surf  in round 1
+Jemkin killed JitBoyS  in round 1
+Round 1 ended with elimination. The winning team is Rex Regum Qeon.
+The current score is Rex Regum Qeon 1 - 0 Talon Esports.
+ban killed Jemkin  in round 2
+Lmemore killed ban  in round 2
+Governor killed Monyet  in round 2
+JitBoyS killed Lmemore  in round 2
+Estrella killed Governor  in round 2
+patt killed JitBoyS  in round 2
+patt killed Crws  in round 2
+Round 2 ended with detonate. The winning team is Rex Regum Qeon.
+The current score is Rex Regum Qeon 2 - 0 Talon Esports.
+Surf killed Surf  in round 3
+Monyet killed ban  in round 3
+Jemkin killed Governor  in round 3
+JitBoyS killed Monyet  in round 3
+JitBoyS killed Estrella  in round 3
+Jemkin killed JitBoyS  in round 3
+patt killed Surf  in round 3
+Lmemore killed Crws  in round 3
+Round 3 ended with elimination. The winning team is Rex Regum Qeon.
+The current score is Rex Regum Qeon 3 - 0 Talon Esports.
+ban killed patt  in round 4
+Crws killed Estrella  in round 4
+Lmemore killed Surf  in round 4
+Crws killed Jemkin  in round 4
+Lmemore killed Crws  in round 4
+ban killed Lmemore  in round 4
+Monyet killed ban  in round 4
+Governor killed Monyet  in round 4
+Round 4 ended with spike_defuse. The winning team is Talon Esports.
+The current score is Rex Regum Qeon 3 - 1 Talon Esports.
+Crws killed Lmemore  in round 5
+Crws killed patt  in round 5
+Monyet killed ban  in round 5
+JitBoyS killed Monyet  in round 5
+JitBoyS killed Estrella  in round 5
+Jemkin killed Governor  in round 5
+Round 5 ended with time_expired. The winning team is Talon Esports.
+The current score is Rex Regum Qeon 3 - 2 Talon Esports.
+Estrella killed ban  in round 6
+Monyet killed Crws  in round 6
+Jemkin killed Surf  in round 6
+Jemkin killed Governor  in round 6
+Estrella killed JitBoyS  in round 6
+Round 6 ended with elimination. The winning team is Rex Regum Qeon.
+The current score is Rex Regum Qeon 4 - 2 Talon Esports.
+Surf killed Estrella  in round 7
+Monyet killed Governor  in round 7
+Lmemore killed Crws  in round 7
+ban killed Lmemore  in round 7
+Jemkin killed Surf  in round 7
+JitBoyS killed patt  in round 7
+Jemkin killed ban  in round 7
+JitBoyS killed Jemkin  in round 7
+Monyet killed JitBoyS  in round 7
+Round 7 ended with elimination. The winning team is Rex Regum Qeon.
+The current score is Rex Regum Qeon 5 - 2 Talon Esports.
+Crws killed Lmemore  in round 8
+Estrella killed Crws  in round 8
+Jemkin killed JitBoyS  in round 8
+patt killed ban  in round 8
+Monyet killed Surf  in round 8
+Governor killed Monyet  in round 8
+Governor killed patt  in round 8
+Jemkin killed Governor  in round 8
+Round 8 ended with elimination. The winning team is Rex Regum Qeon.
+The current score is Rex Regum Qeon 6 - 2 Talon Esports.
+Governor killed Monyet  in round 9
+Lmemore killed Surf  in round 9
+ban killed patt  in round 9
+Governor killed Estrella  in round 9
+Lmemore killed Governor  in round 9
+ban killed Lmemore  in round 9
+Crws killed Jemkin  in round 9
+Round 9 ended with elimination. The winning team is Talon Esports.
+The current score is Rex Regum Qeon 6 - 3 Talon Esports.
+Jemkin killed JitBoyS  in round 10
+ban killed Lmemore  in round 10
+Crws killed Jemkin  in round 10
+Estrella killed Crws  in round 10
+ban killed Estrella  in round 10
+Governor killed patt  in round 10
+Monyet killed ban  in round 10
+Governor killed Monyet  in round 10
+Round 10 ended with elimination. The winning team is Talon Esports.
+The current score is Rex Regum Qeon 6 - 4 Talon Esports.
+Governor killed Lmemore  in round 11
+Governor killed Estrella  in round 11
+ban killed Monyet  in round 11
+patt killed Governor  in round 11
+Jemkin killed Crws  in round 11
+patt killed ban  in round 11
+Jemkin killed Surf  in round 11
+Jemkin killed JitBoyS  in round 11
+Round 11 ended with elimination. The winning team is Rex Regum Qeon.
+The current score is Rex Regum Qeon 7 - 4 Talon Esports.
+ban killed Lmemore  in round 12
+Estrella killed Governor  in round 12
+Jemkin killed ban  in round 12
+JitBoyS killed Monyet  in round 12
+JitBoyS killed patt  in round 12
+Estrella killed JitBoyS  in round 12
+Surf killed Jemkin  in round 12
+Surf killed Estrella  in round 12
+Round 12 ended with spike_defuse. The winning team is Talon Esports.
+The current score is Rex Regum Qeon 7 - 5 Talon Esports.
+Governor killed Monyet  in round 13
+Estrella killed Governor  in round 13
+ban killed Jemkin  in round 13
+ban killed patt  in round 13
+ban killed Lmemore  in round 13
+Estrella killed ban  in round 13
+Surf killed Estrella  in round 13
+Round 13 ended with elimination. The winning team is Talon Esports.
+The current score is Rex Regum Qeon 7 - 6 Talon Esports.
+Lmemore killed Surf  in round 14
+Governor killed Monyet  in round 14
+Lmemore killed JitBoyS  in round 14
+Governor killed Lmemore  in round 14
+ban killed Jemkin  in round 14
+ban killed Estrella  in round 14
+Governor killed patt  in round 14
+Round 14 ended with elimination. The winning team is Talon Esports.
+The current score is Rex Regum Qeon 7 - 7 Talon Esports.
+Lmemore killed ban  in round 15
+patt killed Surf  in round 15
+Lmemore killed Governor  in round 15
+Jemkin killed JitBoyS  in round 15
+Crws killed Lmemore  in round 15
+Jemkin killed Crws  in round 15
+Round 15 ended with elimination. The winning team is Rex Regum Qeon.
+The current score is Rex Regum Qeon 8 - 7 Talon Esports.
+ban killed Estrella  in round 16
+JitBoyS killed patt  in round 16
+JitBoyS killed Monyet  in round 16
+ban killed Lmemore  in round 16
+Jemkin killed JitBoyS  in round 16
+ban killed Jemkin  in round 16
+Round 16 ended with elimination. The winning team is Talon Esports.
+The current score is Rex Regum Qeon 8 - 8 Talon Esports.
+Lmemore killed ban  in round 17
+JitBoyS killed Lmemore  in round 17
+Estrella killed Governor  in round 17
+Estrella killed JitBoyS  in round 17
+Monyet killed Surf  in round 17
+Jemkin killed Crws  in round 17
+Round 17 ended with elimination. The winning team is Rex Regum Qeon.
+The current score is Rex Regum Qeon 9 - 8 Talon Esports.
+ban killed Estrella  in round 18
+patt killed ban  in round 18
+Lmemore killed Governor  in round 18
+Lmemore killed JitBoyS  in round 18
+Lmemore killed Crws  in round 18
+patt killed Surf  in round 18
+Round 18 ended with elimination. The winning team is Rex Regum Qeon.
+The current score is Rex Regum Qeon 10 - 8 Talon Esports.
+ban killed Monyet  in round 19
+patt killed Governor  in round 19
+JitBoyS killed patt  in round 19
+Estrella killed Crws  in round 19
+Lmemore killed ban  in round 19
+Surf killed Lmemore  in round 19
+JitBoyS killed Jemkin  in round 19
+Estrella killed Surf  in round 19
+Estrella killed JitBoyS  in round 19
+Round 19 ended with spike_defuse. The winning team is Rex Regum Qeon.
+The current score is Rex Regum Qeon 11 - 8 Talon Esports.
+Monyet killed ban  in round 20
+Surf killed Jemkin  in round 20
+Surf killed Lmemore  in round 20
+Crws killed Estrella  in round 20
+Surf killed Monyet  in round 20
+patt killed Surf  in round 20
+JitBoyS killed patt  in round 20
+Round 20 ended with elimination. The winning team is Talon Esports.
+The current score is Rex Regum Qeon 11 - 9 Talon Esports.
+ban killed patt  in round 21
+Jemkin killed ban  in round 21
+Jemkin killed Crws  in round 21
+JitBoyS killed Monyet  in round 21
+Estrella killed JitBoyS  in round 21
+Lmemore killed Surf  in round 21
+Jemkin killed Governor  in round 21
+Round 21 ended with elimination. The winning team is Rex Regum Qeon.
+The current score is Rex Regum Qeon 12 - 9 Talon Esports.
+ban killed Lmemore  in round 22
+patt killed Governor  in round 22
+ban killed patt  in round 22
+Jemkin killed ban  in round 22
+Estrella killed Crws  in round 22
+Surf killed Estrella  in round 22
+Jemkin killed Surf  in round 22
+JitBoyS killed Jemkin  in round 22
+JitBoyS killed Monyet  in round 22
+Round 22 ended with elimination. The winning team is Talon Esports.
+The current score is Rex Regum Qeon 12 - 10 Talon Esports.
+Jemkin killed Governor  in round 23
+Jemkin killed ban  in round 23
+Estrella killed Surf  in round 23
+Crws killed Estrella  in round 23
+Lmemore killed JitBoyS  in round 23
+Monyet killed Crws  in round 23
+Round 23 ended with spike_defuse. The winning team is Rex Regum Qeon.
+The current score is Rex Regum Qeon 13 - 10 Talon Esports.
+Game ended with winning team: Rex Regum Qeon at 2024-06-22T10:04:36Z
+
+--- Player Stats ---
+Governor: Team=Talon Esports, Kills=14, Deaths=18, Assists=9, KDA=1.28, First Kills=3, First Deaths=1
+ban: Team=Talon Esports, Kills=23, Deaths=20, Assists=4, KDA=1.35, First Kills=8, First Deaths=4
+Crws: Team=Talon Esports, Kills=10, Deaths=16, Assists=5, KDA=0.94, First Kills=2, First Deaths=1
+Surf: Team=Talon Esports, Kills=12, Deaths=18, Assists=4, KDA=0.89, First Kills=2, First Deaths=2
+JitBoyS: Team=Talon Esports, Kills=19, Deaths=17, Assists=5, KDA=1.41, First Kills=0, First Deaths=1
+patt: Team=Rex Regum Qeon, Kills=13, Deaths=15, Assists=11, KDA=1.6, First Kills=1, First Deaths=2
+Lmemore: Team=Rex Regum Qeon, Kills=18, Deaths=18, Assists=8, KDA=1.44, First Kills=3, First Deaths=5
+Estrella: Team=Rex Regum Qeon, Kills=17, Deaths=15, Assists=7, KDA=1.6, First Kills=1, First Deaths=3
+Jemkin: Team=Rex Regum Qeon, Kills=27, Deaths=12, Assists=2, KDA=2.42, First Kills=2, First Deaths=1
+Monyet: Team=Rex Regum Qeon, Kills=13, Deaths=17, Assists=8, KDA=1.24, First Kills=1, First Deaths=3

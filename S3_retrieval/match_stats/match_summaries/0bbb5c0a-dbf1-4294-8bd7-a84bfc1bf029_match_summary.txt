@@ -1,0 +1,229 @@
+Team 1: Cloud9 Blue
+Team 2: LOUD
+Participating Players:
+Player 1: QcK
+Player 2: cauanzin
+Player 3: Saadhak
+Player 4: Less
+Player 5: tuyz
+Player 6: moose
+Player 7: vanity
+Player 8: Oxy
+Player 9: runi
+Player 10: xeppaa
+Winning Team: Cloud9 Blue
+Score: Cloud9 Blue 13 - 9 LOUD
+Tournament Name: vct americas stage 1 2024
+Game Start Time: 2024-04-21T01:29:15Z
+Game End Time: 2024-04-21T02:22:54Z
+Rounds ended by ELIMINATION count: 12
+Rounds ended by DEFUSE count: 6
+Rounds ended by DETONATE count: 3
+SPIKE PLANTED count: 9
+platformGameId: val:0bbb5c0a-dbf1-4294-8bd7-a84bfc1bf029
+
+--- Events ---
+Game started at 2024-04-21T01:29:15Z
+cauanzin killed vanity  in round 1
+cauanzin killed Oxy  in round 1
+xeppaa killed QcK  in round 1
+xeppaa killed Saadhak  in round 1
+cauanzin killed moose  in round 1
+cauanzin killed runi  in round 1
+tuyz killed xeppaa  in round 1
+Round 1 ended with spike_defuse. The winning team is LOUD.
+The current score is Cloud9 Blue 0 - 1 LOUD.
+QcK killed xeppaa  in round 2
+runi killed QcK  in round 2
+Oxy killed Saadhak  in round 2
+vanity killed Less  in round 2
+Oxy killed tuyz  in round 2
+Oxy killed cauanzin  in round 2
+Round 2 ended with elimination. The winning team is Cloud9 Blue.
+The current score is Cloud9 Blue 1 - 1 LOUD.
+QcK killed Oxy  in round 3
+QcK killed moose  in round 3
+xeppaa killed QcK  in round 3
+Saadhak killed runi  in round 3
+Saadhak killed xeppaa  in round 3
+Saadhak killed vanity  in round 3
+Round 3 ended with elimination. The winning team is LOUD.
+The current score is Cloud9 Blue 1 - 2 LOUD.
+Oxy killed QcK  in round 4
+vanity killed tuyz  in round 4
+runi killed Saadhak  in round 4
+Oxy killed cauanzin  in round 4
+Round 4 ended with detonate. The winning team is Cloud9 Blue.
+The current score is Cloud9 Blue 2 - 2 LOUD.
+cauanzin killed Oxy  in round 5
+runi killed cauanzin  in round 5
+tuyz killed runi  in round 5
+Saadhak killed moose  in round 5
+Saadhak killed vanity  in round 5
+xeppaa killed Saadhak  in round 5
+xeppaa killed tuyz  in round 5
+QcK killed xeppaa  in round 5
+Round 5 ended with elimination. The winning team is LOUD.
+The current score is Cloud9 Blue 2 - 3 LOUD.
+runi killed QcK  in round 6
+moose killed Saadhak  in round 6
+Oxy killed tuyz  in round 6
+cauanzin killed vanity  in round 6
+xeppaa killed cauanzin  in round 6
+Less killed runi  in round 6
+Oxy killed Less  in round 6
+Round 6 ended with elimination. The winning team is Cloud9 Blue.
+The current score is Cloud9 Blue 3 - 3 LOUD.
+Oxy killed cauanzin  in round 7
+tuyz killed Oxy  in round 7
+moose killed tuyz  in round 7
+runi killed QcK  in round 7
+runi killed Less  in round 7
+Saadhak killed moose  in round 7
+Saadhak killed runi  in round 7
+Saadhak killed vanity  in round 7
+xeppaa killed Saadhak  in round 7
+Round 7 ended with elimination. The winning team is Cloud9 Blue.
+The current score is Cloud9 Blue 4 - 3 LOUD.
+Oxy killed tuyz  in round 8
+Oxy killed QcK  in round 8
+Saadhak killed vanity  in round 8
+cauanzin killed moose  in round 8
+runi killed cauanzin  in round 8
+Less killed Oxy  in round 8
+xeppaa killed Less  in round 8
+Saadhak killed runi  in round 8
+Saadhak killed xeppaa  in round 8
+Round 8 ended with spike_defuse. The winning team is LOUD.
+The current score is Cloud9 Blue 4 - 4 LOUD.
+Oxy killed QcK  in round 9
+vanity killed tuyz  in round 9
+Round 9 ended with detonate. The winning team is Cloud9 Blue.
+The current score is Cloud9 Blue 5 - 4 LOUD.
+cauanzin killed Oxy  in round 10
+Less killed vanity  in round 10
+moose killed cauanzin  in round 10
+Less killed moose  in round 10
+Round 10 ended with time_expired. The winning team is LOUD.
+The current score is Cloud9 Blue 5 - 5 LOUD.
+runi killed cauanzin  in round 11
+xeppaa killed Saadhak  in round 11
+vanity killed Less  in round 11
+Round 11 ended with detonate. The winning team is Cloud9 Blue.
+The current score is Cloud9 Blue 6 - 5 LOUD.
+Less killed Oxy  in round 12
+vanity killed Saadhak  in round 12
+runi killed Less  in round 12
+Less killed vanity  in round 12
+moose killed tuyz  in round 12
+QcK killed runi  in round 12
+QcK killed xeppaa  in round 12
+QcK killed moose  in round 12
+Round 12 ended with elimination. The winning team is LOUD.
+The current score is Cloud9 Blue 6 - 6 LOUD.
+QcK killed runi  in round 13
+xeppaa killed QcK  in round 13
+Saadhak killed vanity  in round 13
+xeppaa killed cauanzin  in round 13
+xeppaa killed Less  in round 13
+Saadhak killed xeppaa  in round 13
+Oxy killed Saadhak  in round 13
+tuyz killed moose  in round 13
+tuyz killed Oxy  in round 13
+Round 13 ended with elimination. The winning team is LOUD.
+The current score is Cloud9 Blue 6 - 7 LOUD.
+cauanzin killed runi  in round 14
+cauanzin killed xeppaa  in round 14
+cauanzin killed vanity  in round 14
+Saadhak killed moose  in round 14
+Oxy killed cauanzin  in round 14
+tuyz killed Oxy  in round 14
+Round 14 ended with elimination. The winning team is LOUD.
+The current score is Cloud9 Blue 6 - 8 LOUD.
+Oxy killed Saadhak  in round 15
+Oxy killed cauanzin  in round 15
+Less killed Oxy  in round 15
+Less killed moose  in round 15
+vanity killed QcK  in round 15
+vanity killed Less  in round 15
+tuyz killed xeppaa  in round 15
+runi killed tuyz  in round 15
+Round 15 ended with spike_defuse. The winning team is Cloud9 Blue.
+The current score is Cloud9 Blue 7 - 8 LOUD.
+Oxy killed Saadhak  in round 16
+cauanzin killed xeppaa  in round 16
+Oxy killed cauanzin  in round 16
+Oxy killed Less  in round 16
+QcK killed Oxy  in round 16
+runi killed QcK  in round 16
+moose killed tuyz  in round 16
+Round 16 ended with elimination. The winning team is Cloud9 Blue.
+The current score is Cloud9 Blue 8 - 8 LOUD.
+xeppaa killed QcK  in round 17
+xeppaa killed Less  in round 17
+xeppaa killed cauanzin  in round 17
+Saadhak killed Oxy  in round 17
+Saadhak killed xeppaa  in round 17
+runi killed tuyz  in round 17
+runi killed Saadhak  in round 17
+Round 17 ended with elimination. The winning team is Cloud9 Blue.
+The current score is Cloud9 Blue 9 - 8 LOUD.
+Saadhak killed Oxy  in round 18
+xeppaa killed cauanzin  in round 18
+runi killed Saadhak  in round 18
+runi killed Less  in round 18
+QcK killed runi  in round 18
+xeppaa killed QcK  in round 18
+vanity killed tuyz  in round 18
+Round 18 ended with spike_defuse. The winning team is Cloud9 Blue.
+The current score is Cloud9 Blue 10 - 8 LOUD.
+Saadhak killed Oxy  in round 19
+runi killed cauanzin  in round 19
+runi killed Saadhak  in round 19
+runi killed QcK  in round 19
+Less killed runi  in round 19
+moose killed Less  in round 19
+vanity killed tuyz  in round 19
+Round 19 ended with spike_defuse. The winning team is Cloud9 Blue.
+The current score is Cloud9 Blue 11 - 8 LOUD.
+vanity killed QcK  in round 20
+Saadhak killed vanity  in round 20
+Oxy killed Saadhak  in round 20
+Oxy killed cauanzin  in round 20
+xeppaa killed tuyz  in round 20
+Less killed moose  in round 20
+xeppaa killed Less  in round 20
+Round 20 ended with elimination. The winning team is Cloud9 Blue.
+The current score is Cloud9 Blue 12 - 8 LOUD.
+Oxy killed Saadhak  in round 21
+cauanzin killed Oxy  in round 21
+Saadhak killed vanity  in round 21
+Less killed moose  in round 21
+tuyz killed runi  in round 21
+QcK killed xeppaa  in round 21
+Round 21 ended with elimination. The winning team is LOUD.
+The current score is Cloud9 Blue 12 - 9 LOUD.
+moose killed Less  in round 22
+Saadhak killed runi  in round 22
+Saadhak killed Oxy  in round 22
+cauanzin killed vanity  in round 22
+moose killed QcK  in round 22
+xeppaa killed tuyz  in round 22
+Saadhak killed xeppaa  in round 22
+moose killed cauanzin  in round 22
+moose killed Saadhak  in round 22
+Round 22 ended with spike_defuse. The winning team is Cloud9 Blue.
+The current score is Cloud9 Blue 13 - 9 LOUD.
+Game ended with winning team: Cloud9 Blue at 2024-04-21T02:22:54Z
+
+--- Player Stats ---
+QcK: Team=LOUD, Kills=11, Deaths=16, Assists=9, KDA=1.25, First Kills=3, First Deaths=5
+cauanzin: Team=LOUD, Kills=14, Deaths=17, Assists=2, KDA=0.94, First Kills=4, First Deaths=2
+Saadhak: Team=LOUD, Kills=23, Deaths=17, Assists=6, KDA=1.71, First Kills=2, First Deaths=3
+Less: Team=LOUD, Kills=11, Deaths=14, Assists=8, KDA=1.36, First Kills=1, First Deaths=1
+tuyz: Team=LOUD, Kills=8, Deaths=15, Assists=4, KDA=0.8, First Kills=0, First Deaths=1
+moose: Team=Cloud9 Blue, Kills=10, Deaths=12, Assists=6, KDA=1.33, First Kills=1, First Deaths=0
+vanity: Team=Cloud9 Blue, Kills=10, Deaths=13, Assists=12, KDA=1.69, First Kills=1, First Deaths=1
+Oxy: Team=Cloud9 Blue, Kills=21, Deaths=16, Assists=8, KDA=1.81, First Kills=7, First Deaths=6
+runi: Team=Cloud9 Blue, Kills=18, Deaths=13, Assists=7, KDA=1.92, First Kills=2, First Deaths=2
+xeppaa: Team=Cloud9 Blue, Kills=20, Deaths=13, Assists=10, KDA=2.31, First Kills=1, First Deaths=1

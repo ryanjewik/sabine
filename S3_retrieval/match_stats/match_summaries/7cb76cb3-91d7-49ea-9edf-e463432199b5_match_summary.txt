@@ -1,0 +1,301 @@
+Team 1: DRX
+Team 2: NAVI
+Participating Players:
+Player 1: Zyppan
+Player 2: cNed
+Player 3: ANGE1
+Player 4: Shao
+Player 5: suygetsu
+Player 6: ZestKR
+Player 7: BuZz
+Player 8: stax
+Player 9: MaKo
+Player 10: Rb
+Winning Team: DRX
+Score: DRX 15 - 13 NAVI
+Tournament Name: vct champions 2023
+Game Start Time: 2023-08-07T23:10:13Z
+Game End Time: 2023-08-08T00:27:33Z
+Rounds ended by ELIMINATION count: 16
+Rounds ended by DEFUSE count: 11
+Rounds ended by DETONATE count: 0
+SPIKE PLANTED count: 11
+platformGameId: val:7cb76cb3-91d7-49ea-9edf-e463432199b5
+
+--- Events ---
+Game started at 2023-08-07T23:10:13Z
+Rb killed ANGE1  in round 1
+Shao killed stax  in round 1
+Shao killed Rb  in round 1
+BuZz killed Shao  in round 1
+MaKo killed Zyppan  in round 1
+cNed killed MaKo  in round 1
+ZestKR killed cNed  in round 1
+BuZz killed suygetsu  in round 1
+Round 1 ended with elimination. The winning team is DRX.
+The current score is DRX 1 - 0 NAVI.
+BuZz killed Shao  in round 2
+Zyppan killed MaKo  in round 2
+BuZz killed Zyppan  in round 2
+suygetsu killed Rb  in round 2
+stax killed ANGE1  in round 2
+BuZz killed suygetsu  in round 2
+cNed killed BuZz  in round 2
+cNed killed stax  in round 2
+ZestKR killed cNed  in round 2
+Round 2 ended with elimination. The winning team is DRX.
+The current score is DRX 2 - 0 NAVI.
+ANGE1 killed BuZz  in round 3
+cNed killed stax  in round 3
+ANGE1 killed ZestKR  in round 3
+Rb killed ANGE1  in round 3
+cNed killed Rb  in round 3
+MaKo killed cNed  in round 3
+Zyppan killed MaKo  in round 3
+Round 3 ended with elimination. The winning team is NAVI.
+The current score is DRX 2 - 1 NAVI.
+ANGE1 killed stax  in round 4
+Zyppan killed MaKo  in round 4
+Zyppan killed BuZz  in round 4
+Rb killed Zyppan  in round 4
+Rb killed ANGE1  in round 4
+cNed killed ZestKR  in round 4
+suygetsu killed Rb  in round 4
+Round 4 ended with spike_defuse. The winning team is NAVI.
+The current score is DRX 2 - 2 NAVI.
+suygetsu killed Rb  in round 5
+BuZz killed suygetsu  in round 5
+cNed killed BuZz  in round 5
+cNed killed MaKo  in round 5
+stax killed ANGE1  in round 5
+Zyppan killed stax  in round 5
+Shao killed ZestKR  in round 5
+Round 5 ended with spike_defuse. The winning team is NAVI.
+The current score is DRX 2 - 3 NAVI.
+cNed killed stax  in round 6
+ANGE1 killed Rb  in round 6
+BuZz killed ANGE1  in round 6
+Shao killed BuZz  in round 6
+Zyppan killed ZestKR  in round 6
+Zyppan killed MaKo  in round 6
+Round 6 ended with elimination. The winning team is NAVI.
+The current score is DRX 2 - 4 NAVI.
+stax killed ANGE1  in round 7
+cNed killed BuZz  in round 7
+Zyppan killed Rb  in round 7
+Zyppan killed ZestKR  in round 7
+stax killed Zyppan  in round 7
+suygetsu killed MaKo  in round 7
+suygetsu killed stax  in round 7
+Round 7 ended with spike_defuse. The winning team is NAVI.
+The current score is DRX 2 - 5 NAVI.
+cNed killed MaKo  in round 8
+ANGE1 killed BuZz  in round 8
+ANGE1 killed stax  in round 8
+ZestKR killed suygetsu  in round 8
+Round 8 ended with time_expired. The winning team is NAVI.
+The current score is DRX 2 - 6 NAVI.
+ZestKR killed ANGE1  in round 9
+Shao killed ZestKR  in round 9
+Rb killed Zyppan  in round 9
+suygetsu killed BuZz  in round 9
+Shao killed Rb  in round 9
+ZestKR killed Shao  in round 9
+ZestKR killed suygetsu  in round 9
+cNed killed ZestKR  in round 9
+stax killed ANGE1  in round 9
+cNed killed stax  in round 9
+cNed killed MaKo  in round 9
+Round 9 ended with spike_defuse. The winning team is NAVI.
+The current score is DRX 2 - 7 NAVI.
+stax killed ANGE1  in round 10
+Shao killed BuZz  in round 10
+Zyppan killed MaKo  in round 10
+Zyppan killed Rb  in round 10
+cNed killed stax  in round 10
+ZestKR killed ANGE1  in round 10
+ZestKR killed Zyppan  in round 10
+suygetsu killed ZestKR  in round 10
+Round 10 ended with spike_defuse. The winning team is NAVI.
+The current score is DRX 2 - 8 NAVI.
+Shao killed Rb  in round 11
+Shao killed BuZz  in round 11
+ZestKR killed ANGE1  in round 11
+stax killed Shao  in round 11
+stax killed Zyppan  in round 11
+cNed killed ZestKR  in round 11
+MaKo killed suygetsu  in round 11
+stax killed cNed  in round 11
+Round 11 ended with elimination. The winning team is DRX.
+The current score is DRX 3 - 8 NAVI.
+BuZz killed cNed  in round 12
+MaKo killed suygetsu  in round 12
+Shao killed stax  in round 12
+BuZz killed Shao  in round 12
+ANGE1 killed BuZz  in round 12
+ZestKR killed ANGE1  in round 12
+Rb killed Zyppan  in round 12
+Round 12 ended with elimination. The winning team is DRX.
+The current score is DRX 4 - 8 NAVI.
+MaKo killed cNed  in round 13
+ZestKR killed suygetsu  in round 13
+Shao killed Rb  in round 13
+Zyppan killed BuZz  in round 13
+Zyppan killed MaKo  in round 13
+stax killed Zyppan  in round 13
+Shao killed stax  in round 13
+ZestKR killed Shao  in round 13
+ANGE1 killed ZestKR  in round 13
+Round 13 ended with elimination. The winning team is NAVI.
+The current score is DRX 4 - 9 NAVI.
+BuZz killed suygetsu  in round 14
+ANGE1 killed MaKo  in round 14
+Rb killed ANGE1  in round 14
+Zyppan killed BuZz  in round 14
+stax killed Shao  in round 14
+cNed killed ZestKR  in round 14
+Zyppan killed stax  in round 14
+Rb killed cNed  in round 14
+Zyppan killed Rb  in round 14
+Round 14 ended with elimination. The winning team is NAVI.
+The current score is DRX 4 - 10 NAVI.
+Rb killed cNed  in round 15
+ZestKR killed ANGE1  in round 15
+Shao killed Rb  in round 15
+ZestKR killed Zyppan  in round 15
+suygetsu killed ZestKR  in round 15
+Shao killed stax  in round 15
+Round 15 ended with spike_defuse. The winning team is DRX.
+The current score is DRX 5 - 10 NAVI.
+ZestKR killed cNed  in round 16
+suygetsu killed stax  in round 16
+MaKo killed Zyppan  in round 16
+suygetsu killed ZestKR  in round 16
+MaKo killed ANGE1  in round 16
+MaKo killed Shao  in round 16
+BuZz killed suygetsu  in round 16
+Round 16 ended with spike_defuse. The winning team is DRX.
+The current score is DRX 6 - 10 NAVI.
+Rb killed Shao  in round 17
+Rb killed Zyppan  in round 17
+cNed killed Rb  in round 17
+stax killed ANGE1  in round 17
+stax killed cNed  in round 17
+MaKo killed suygetsu  in round 17
+Round 17 ended with elimination. The winning team is DRX.
+The current score is DRX 7 - 10 NAVI.
+ZestKR killed Zyppan  in round 18
+Rb killed ANGE1  in round 18
+suygetsu killed ZestKR  in round 18
+Rb killed cNed  in round 18
+MaKo killed suygetsu  in round 18
+Shao killed Rb  in round 18
+stax killed Shao  in round 18
+Round 18 ended with elimination. The winning team is DRX.
+The current score is DRX 8 - 10 NAVI.
+BuZz killed cNed  in round 19
+Shao killed BuZz  in round 19
+Shao killed MaKo  in round 19
+ZestKR killed ANGE1  in round 19
+ZestKR killed suygetsu  in round 19
+ZestKR killed Shao  in round 19
+stax killed Zyppan  in round 19
+Round 19 ended with spike_defuse. The winning team is DRX.
+The current score is DRX 9 - 10 NAVI.
+stax killed suygetsu  in round 20
+stax killed suygetsu  in round 20
+Zyppan killed stax  in round 20
+Zyppan killed BuZz  in round 20
+MaKo killed Zyppan  in round 20
+cNed killed Rb  in round 20
+ZestKR killed cNed  in round 20
+ZestKR killed ANGE1  in round 20
+Shao killed ZestKR  in round 20
+MaKo killed Shao  in round 20
+Round 20 ended with spike_defuse. The winning team is DRX.
+The current score is DRX 10 - 10 NAVI.
+Rb killed cNed  in round 21
+suygetsu killed Rb  in round 21
+Zyppan killed stax  in round 21
+Zyppan killed ZestKR  in round 21
+Shao killed BuZz  in round 21
+MaKo killed Zyppan  in round 21
+Shao killed MaKo  in round 21
+Round 21 ended with elimination. The winning team is NAVI.
+The current score is DRX 10 - 11 NAVI.
+BuZz killed suygetsu  in round 22
+cNed killed Rb  in round 22
+stax killed cNed  in round 22
+stax killed Zyppan  in round 22
+ANGE1 killed BuZz  in round 22
+MaKo killed ANGE1  in round 22
+Shao killed MaKo  in round 22
+Shao killed stax  in round 22
+Shao killed ZestKR  in round 22
+Round 22 ended with elimination. The winning team is NAVI.
+The current score is DRX 10 - 12 NAVI.
+Rb killed Zyppan  in round 23
+BuZz killed Shao  in round 23
+suygetsu killed BuZz  in round 23
+MaKo killed ANGE1  in round 23
+Rb killed cNed  in round 23
+suygetsu killed Rb  in round 23
+stax killed suygetsu  in round 23
+Round 23 ended with elimination. The winning team is DRX.
+The current score is DRX 11 - 12 NAVI.
+Rb killed ANGE1  in round 24
+Rb killed Zyppan  in round 24
+MaKo killed Shao  in round 24
+cNed killed MaKo  in round 24
+BuZz killed cNed  in round 24
+Rb killed suygetsu  in round 24
+Round 24 ended with elimination. The winning team is DRX.
+The current score is DRX 12 - 12 NAVI.
+suygetsu killed Rb  in round 25
+cNed killed BuZz  in round 25
+ZestKR killed cNed  in round 25
+suygetsu killed MaKo  in round 25
+ZestKR killed Zyppan  in round 25
+ZestKR killed ANGE1  in round 25
+stax killed suygetsu  in round 25
+Round 25 ended with spike_defuse. The winning team is NAVI.
+The current score is DRX 12 - 13 NAVI.
+stax killed Shao  in round 26
+Rb killed cNed  in round 26
+ANGE1 killed Rb  in round 26
+ZestKR killed Zyppan  in round 26
+Shao killed ZestKR  in round 26
+MaKo killed ANGE1  in round 26
+stax killed suygetsu  in round 26
+stax killed Shao  in round 26
+Round 26 ended with elimination. The winning team is DRX.
+The current score is DRX 13 - 13 NAVI.
+MaKo killed cNed  in round 27
+Rb killed ANGE1  in round 27
+Rb killed Shao  in round 27
+Rb killed Zyppan  in round 27
+MaKo killed suygetsu  in round 27
+Round 27 ended with elimination. The winning team is DRX.
+The current score is DRX 14 - 13 NAVI.
+Zyppan killed BuZz  in round 28
+suygetsu killed Rb  in round 28
+stax killed Zyppan  in round 28
+stax killed cNed  in round 28
+MaKo killed Shao  in round 28
+stax killed suygetsu  in round 28
+ZestKR killed ANGE1  in round 28
+Round 28 ended with spike_defuse. The winning team is DRX.
+The current score is DRX 15 - 13 NAVI.
+Game ended with winning team: DRX at 2023-08-08T00:27:33Z
+
+--- Player Stats ---
+Zyppan: Team=NAVI, Kills=21, Deaths=23, Assists=7, KDA=1.22, First Kills=1, First Deaths=2
+cNed: Team=NAVI, Kills=22, Deaths=21, Assists=4, KDA=1.24, First Kills=2, First Deaths=7
+ANGE1: Team=NAVI, Kills=11, Deaths=27, Assists=15, KDA=0.96, First Kills=2, First Deaths=5
+Shao: Team=NAVI, Kills=24, Deaths=18, Assists=3, KDA=1.5, First Kills=1, First Deaths=3
+suygetsu: Team=NAVI, Kills=17, Deaths=22, Assists=2, KDA=0.86, First Kills=2, First Deaths=3
+ZestKR: Team=DRX, Kills=26, Deaths=18, Assists=11, KDA=2.06, First Kills=3, First Deaths=0
+BuZz: Team=DRX, Kills=15, Deaths=20, Assists=2, KDA=0.85, First Kills=5, First Deaths=2
+stax: Team=DRX, Kills=27, Deaths=18, Assists=15, KDA=2.33, First Kills=4, First Deaths=2
+MaKo: Team=DRX, Kills=20, Deaths=17, Assists=16, KDA=2.12, First Kills=2, First Deaths=1
+Rb: Team=DRX, Kills=23, Deaths=22, Assists=5, KDA=1.27, First Kills=6, First Deaths=3

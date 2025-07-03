@@ -1,0 +1,191 @@
+Team 1: Gen.G Esports
+Team 2: ZETA DIVISION
+Participating Players:
+Player 1: Dep
+Player 2: crow 
+Player 3: SugarZ3ro
+Player 4: TENNN
+Player 5: Laz
+Player 6: GodDead
+Player 7: Meteor 
+Player 8: TS
+Player 9: eKo
+Player 10: k1NgKR
+Winning Team: ZETA DIVISION
+Score: Gen.G Esports 4 - 13 ZETA DIVISION
+Tournament Name: vct pacific 2023
+Game Start Time: 2023-05-14T13:06:18Z
+Game End Time: 2023-05-14T13:48:36Z
+Rounds ended by ELIMINATION count: 11
+Rounds ended by DEFUSE count: 3
+Rounds ended by DETONATE count: 3
+SPIKE PLANTED count: 6
+platformGameId: val:2c6b5ff1-c679-4f69-a7f4-d8b0e196cc47
+
+--- Events ---
+Game started at 2023-05-14T13:06:18Z
+GodDead killed Dep  in round 1
+SugarZ3ro killed k1NgKR  in round 1
+SugarZ3ro killed GodDead  in round 1
+SugarZ3ro killed eKo  in round 1
+Meteor  killed Laz  in round 1
+TENNN killed Meteor   in round 1
+SugarZ3ro killed TS  in round 1
+Round 1 ended with elimination. The winning team is ZETA DIVISION.
+The current score is Gen.G Esports 0 - 1 ZETA DIVISION.
+crow  killed TS  in round 2
+GodDead killed crow   in round 2
+Dep killed Meteor   in round 2
+Dep killed GodDead  in round 2
+SugarZ3ro killed k1NgKR  in round 2
+eKo killed Laz  in round 2
+TENNN killed eKo  in round 2
+Round 2 ended with elimination. The winning team is ZETA DIVISION.
+The current score is Gen.G Esports 0 - 2 ZETA DIVISION.
+SugarZ3ro killed Meteor   in round 3
+Dep killed GodDead  in round 3
+TS killed SugarZ3ro  in round 3
+k1NgKR killed Dep  in round 3
+TENNN killed eKo  in round 3
+TS killed crow   in round 3
+TS killed TENNN  in round 3
+Laz killed k1NgKR  in round 3
+Laz killed TS  in round 3
+Round 3 ended with detonate. The winning team is Gen.G Esports.
+The current score is Gen.G Esports 1 - 2 ZETA DIVISION.
+Laz killed Laz  in round 4
+Meteor  killed TENNN  in round 4
+Laz killed Meteor   in round 4
+crow  killed GodDead  in round 4
+eKo killed Laz  in round 4
+SugarZ3ro killed eKo  in round 4
+Dep killed TS  in round 4
+Round 4 ended with spike_defuse. The winning team is ZETA DIVISION.
+The current score is Gen.G Esports 1 - 3 ZETA DIVISION.
+Meteor  killed SugarZ3ro  in round 5
+Laz killed k1NgKR  in round 5
+TENNN killed Meteor   in round 5
+GodDead killed TENNN  in round 5
+Dep killed GodDead  in round 5
+Dep killed eKo  in round 5
+Laz killed TS  in round 5
+Round 5 ended with spike_defuse. The winning team is ZETA DIVISION.
+The current score is Gen.G Esports 1 - 4 ZETA DIVISION.
+TENNN killed TS  in round 6
+GodDead killed TENNN  in round 6
+eKo killed Dep  in round 6
+Laz killed eKo  in round 6
+GodDead killed crow   in round 6
+Laz killed GodDead  in round 6
+k1NgKR killed Laz  in round 6
+SugarZ3ro killed Meteor   in round 6
+k1NgKR killed SugarZ3ro  in round 6
+Round 6 ended with elimination. The winning team is Gen.G Esports.
+The current score is Gen.G Esports 2 - 4 ZETA DIVISION.
+Laz killed GodDead  in round 7
+TENNN killed Meteor   in round 7
+SugarZ3ro killed TS  in round 7
+SugarZ3ro killed k1NgKR  in round 7
+eKo killed SugarZ3ro  in round 7
+Dep killed eKo  in round 7
+Round 7 ended with elimination. The winning team is ZETA DIVISION.
+The current score is Gen.G Esports 2 - 5 ZETA DIVISION.
+SugarZ3ro killed GodDead  in round 8
+SugarZ3ro killed TS  in round 8
+TENNN killed Meteor   in round 8
+SugarZ3ro killed eKo  in round 8
+SugarZ3ro killed k1NgKR  in round 8
+Round 8 ended with elimination. The winning team is ZETA DIVISION.
+The current score is Gen.G Esports 2 - 6 ZETA DIVISION.
+TS killed Dep  in round 9
+TENNN killed TS  in round 9
+Meteor  killed TENNN  in round 9
+Laz killed k1NgKR  in round 9
+Laz killed Meteor   in round 9
+GodDead killed SugarZ3ro  in round 9
+GodDead killed Laz  in round 9
+crow  killed GodDead  in round 9
+crow  killed eKo  in round 9
+Round 9 ended with spike_defuse. The winning team is ZETA DIVISION.
+The current score is Gen.G Esports 2 - 7 ZETA DIVISION.
+Laz killed k1NgKR  in round 10
+TS killed SugarZ3ro  in round 10
+TS killed crow   in round 10
+Laz killed TS  in round 10
+Dep killed GodDead  in round 10
+Meteor  killed Laz  in round 10
+eKo killed Dep  in round 10
+eKo killed TENNN  in round 10
+Round 10 ended with elimination. The winning team is Gen.G Esports.
+The current score is Gen.G Esports 3 - 7 ZETA DIVISION.
+Meteor  killed TENNN  in round 11
+GodDead killed Dep  in round 11
+Round 11 ended with detonate. The winning team is Gen.G Esports.
+The current score is Gen.G Esports 4 - 7 ZETA DIVISION.
+Meteor  killed Dep  in round 12
+SugarZ3ro killed eKo  in round 12
+TS killed SugarZ3ro  in round 12
+crow  killed TS  in round 12
+SugarZ3ro killed GodDead  in round 12
+crow  killed Meteor   in round 12
+Laz killed k1NgKR  in round 12
+Round 12 ended with elimination. The winning team is ZETA DIVISION.
+The current score is Gen.G Esports 4 - 8 ZETA DIVISION.
+TENNN killed Meteor   in round 13
+TS killed TENNN  in round 13
+Dep killed TS  in round 13
+Dep killed GodDead  in round 13
+Laz killed k1NgKR  in round 13
+eKo killed Dep  in round 13
+SugarZ3ro killed eKo  in round 13
+Round 13 ended with elimination. The winning team is ZETA DIVISION.
+The current score is Gen.G Esports 4 - 9 ZETA DIVISION.
+SugarZ3ro killed eKo  in round 14
+Laz killed Meteor   in round 14
+TENNN killed TS  in round 14
+SugarZ3ro killed GodDead  in round 14
+Round 14 ended with detonate. The winning team is ZETA DIVISION.
+The current score is Gen.G Esports 4 - 10 ZETA DIVISION.
+k1NgKR killed k1NgKR  in round 15
+TS killed crow   in round 15
+SugarZ3ro killed Meteor   in round 15
+TS killed Laz  in round 15
+SugarZ3ro killed GodDead  in round 15
+Dep killed TS  in round 15
+Dep killed k1NgKR  in round 15
+eKo killed SugarZ3ro  in round 15
+Dep killed eKo  in round 15
+Round 15 ended with elimination. The winning team is ZETA DIVISION.
+The current score is Gen.G Esports 4 - 11 ZETA DIVISION.
+TENNN killed eKo  in round 16
+GodDead killed TENNN  in round 16
+Dep killed Meteor   in round 16
+GodDead killed SugarZ3ro  in round 16
+Laz killed k1NgKR  in round 16
+Dep killed GodDead  in round 16
+Dep killed TS  in round 16
+Round 16 ended with elimination. The winning team is ZETA DIVISION.
+The current score is Gen.G Esports 4 - 12 ZETA DIVISION.
+Meteor  killed Laz  in round 17
+TENNN killed Meteor   in round 17
+SugarZ3ro killed TS  in round 17
+Dep killed eKo  in round 17
+Dep killed GodDead  in round 17
+k1NgKR killed Dep  in round 17
+k1NgKR killed TENNN  in round 17
+SugarZ3ro killed k1NgKR  in round 17
+Round 17 ended with elimination. The winning team is ZETA DIVISION.
+The current score is Gen.G Esports 4 - 13 ZETA DIVISION.
+Game ended with winning team: ZETA DIVISION at 2023-05-14T13:48:36Z
+
+--- Player Stats ---
+Dep: Team=ZETA DIVISION, Kills=18, Deaths=9, Assists=5, KDA=2.56, First Kills=0, First Deaths=3
+crow : Team=ZETA DIVISION, Kills=6, Deaths=5, Assists=8, KDA=2.8, First Kills=1, First Deaths=0
+SugarZ3ro: Team=ZETA DIVISION, Kills=23, Deaths=9, Assists=5, KDA=3.11, First Kills=3, First Deaths=1
+TENNN: Team=ZETA DIVISION, Kills=12, Deaths=10, Assists=5, KDA=1.7, First Kills=3, First Deaths=1
+Laz: Team=ZETA DIVISION, Kills=17, Deaths=9, Assists=7, KDA=2.67, First Kills=3, First Deaths=2
+GodDead: Team=Gen.G Esports, Kills=10, Deaths=16, Assists=8, KDA=1.12, First Kills=1, First Deaths=2
+Meteor : Team=Gen.G Esports, Kills=8, Deaths=15, Assists=3, KDA=0.73, First Kills=4, First Deaths=2
+TS: Team=Gen.G Esports, Kills=10, Deaths=16, Assists=6, KDA=1.0, First Kills=1, First Deaths=2
+eKo: Team=Gen.G Esports, Kills=8, Deaths=15, Assists=7, KDA=1.0, First Kills=0, First Deaths=2
+k1NgKR: Team=Gen.G Esports, Kills=6, Deaths=14, Assists=3, KDA=0.64, First Kills=1, First Deaths=2

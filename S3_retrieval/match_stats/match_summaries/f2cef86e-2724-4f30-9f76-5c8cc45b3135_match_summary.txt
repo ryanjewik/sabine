@@ -1,0 +1,185 @@
+Team 1: Team Heretics
+Team 2: Futbolist
+Participating Players:
+Player 1: ATA KAPTAN
+Player 2: mojj
+Player 3: MrFaliN
+Player 4: qw1
+Player 5: qRaxs
+Player 6: Boo
+Player 7: m1xwell
+Player 8: zeek
+Player 9: AvovA
+Player 10: keloqz
+Winning Team: Futbolist
+Score: Team Heretics 4 - 13 Futbolist
+Tournament Name: vct emea 2023
+Game Start Time: 2023-03-28T15:57:40Z
+Game End Time: 2023-03-28T16:49:16Z
+Rounds ended by ELIMINATION count: 11
+Rounds ended by DEFUSE count: 4
+Rounds ended by DETONATE count: 0
+SPIKE PLANTED count: 4
+platformGameId: val:f2cef86e-2724-4f30-9f76-5c8cc45b3135
+
+--- Events ---
+Game started at 2023-03-28T15:57:40Z
+mojj killed Boo  in round 1
+mojj killed keloqz  in round 1
+qw1 killed zeek  in round 1
+m1xwell killed qw1  in round 1
+ATA KAPTAN killed m1xwell  in round 1
+AvovA killed ATA KAPTAN  in round 1
+mojj killed AvovA  in round 1
+Round 1 ended with spike_defuse. The winning team is Futbolist.
+The current score is Team Heretics 0 - 1 Futbolist.
+MrFaliN killed m1xwell  in round 2
+qw1 killed zeek  in round 2
+qw1 killed keloqz  in round 2
+qw1 killed AvovA  in round 2
+qRaxs killed Boo  in round 2
+Round 2 ended with elimination. The winning team is Futbolist.
+The current score is Team Heretics 0 - 2 Futbolist.
+qw1 killed zeek  in round 3
+qRaxs killed keloqz  in round 3
+ATA KAPTAN killed m1xwell  in round 3
+AvovA killed qRaxs  in round 3
+ATA KAPTAN killed AvovA  in round 3
+MrFaliN killed Boo  in round 3
+Round 3 ended with elimination. The winning team is Futbolist.
+The current score is Team Heretics 0 - 3 Futbolist.
+qRaxs killed zeek  in round 4
+qRaxs killed m1xwell  in round 4
+MrFaliN killed Boo  in round 4
+keloqz killed MrFaliN  in round 4
+qRaxs killed keloqz  in round 4
+qw1 killed AvovA  in round 4
+Round 4 ended with elimination. The winning team is Futbolist.
+The current score is Team Heretics 0 - 4 Futbolist.
+qw1 killed keloqz  in round 5
+qRaxs killed Boo  in round 5
+qw1 killed zeek  in round 5
+m1xwell killed qRaxs  in round 5
+qw1 killed m1xwell  in round 5
+qw1 killed AvovA  in round 5
+Round 5 ended with elimination. The winning team is Futbolist.
+The current score is Team Heretics 0 - 5 Futbolist.
+keloqz killed mojj  in round 6
+ATA KAPTAN killed zeek  in round 6
+qRaxs killed keloqz  in round 6
+m1xwell killed qRaxs  in round 6
+Boo killed qw1  in round 6
+m1xwell killed MrFaliN  in round 6
+m1xwell killed ATA KAPTAN  in round 6
+Round 6 ended with elimination. The winning team is Team Heretics.
+The current score is Team Heretics 1 - 5 Futbolist.
+qRaxs killed m1xwell  in round 7
+qRaxs killed keloqz  in round 7
+qw1 killed zeek  in round 7
+qRaxs killed Boo  in round 7
+AvovA killed qRaxs  in round 7
+Round 7 ended with time_expired. The winning team is Futbolist.
+The current score is Team Heretics 1 - 6 Futbolist.
+qw1 killed keloqz  in round 8
+qw1 killed AvovA  in round 8
+ATA KAPTAN killed Boo  in round 8
+m1xwell killed MrFaliN  in round 8
+Round 8 ended with time_expired. The winning team is Futbolist.
+The current score is Team Heretics 1 - 7 Futbolist.
+keloqz killed qRaxs  in round 9
+zeek killed mojj  in round 9
+qw1 killed Boo  in round 9
+ATA KAPTAN killed AvovA  in round 9
+zeek killed MrFaliN  in round 9
+ATA KAPTAN killed m1xwell  in round 9
+zeek killed ATA KAPTAN  in round 9
+qw1 killed keloqz  in round 9
+zeek killed qw1  in round 9
+Round 9 ended with elimination. The winning team is Team Heretics.
+The current score is Team Heretics 2 - 7 Futbolist.
+zeek killed qRaxs  in round 10
+mojj killed m1xwell  in round 10
+Boo killed mojj  in round 10
+qw1 killed Boo  in round 10
+zeek killed qw1  in round 10
+ATA KAPTAN killed AvovA  in round 10
+ATA KAPTAN killed keloqz  in round 10
+zeek killed ATA KAPTAN  in round 10
+MrFaliN killed zeek  in round 10
+Round 10 ended with spike_defuse. The winning team is Futbolist.
+The current score is Team Heretics 2 - 8 Futbolist.
+qw1 killed zeek  in round 11
+ATA KAPTAN killed Boo  in round 11
+MrFaliN killed m1xwell  in round 11
+keloqz killed MrFaliN  in round 11
+qw1 killed keloqz  in round 11
+ATA KAPTAN killed AvovA  in round 11
+Round 11 ended with elimination. The winning team is Futbolist.
+The current score is Team Heretics 2 - 9 Futbolist.
+Boo killed MrFaliN  in round 12
+qRaxs killed zeek  in round 12
+keloqz killed qRaxs  in round 12
+qw1 killed keloqz  in round 12
+ATA KAPTAN killed m1xwell  in round 12
+AvovA killed ATA KAPTAN  in round 12
+qw1 killed Boo  in round 12
+Round 12 ended with spike_defuse. The winning team is Futbolist.
+The current score is Team Heretics 2 - 10 Futbolist.
+qw1 killed AvovA  in round 13
+mojj killed AvovA  in round 13
+MrFaliN killed Boo  in round 13
+qw1 killed zeek  in round 13
+m1xwell killed qw1  in round 13
+mojj killed m1xwell  in round 13
+qRaxs killed keloqz  in round 13
+Round 13 ended with elimination. The winning team is Futbolist.
+The current score is Team Heretics 2 - 11 Futbolist.
+zeek killed qw1  in round 14
+m1xwell killed ATA KAPTAN  in round 14
+MrFaliN killed m1xwell  in round 14
+MrFaliN killed zeek  in round 14
+Boo killed qRaxs  in round 14
+keloqz killed MrFaliN  in round 14
+keloqz killed mojj  in round 14
+Round 14 ended with elimination. The winning team is Team Heretics.
+The current score is Team Heretics 3 - 11 Futbolist.
+zeek killed mojj  in round 15
+MrFaliN killed zeek  in round 15
+Boo killed qw1  in round 15
+MrFaliN killed AvovA  in round 15
+qRaxs killed Boo  in round 15
+m1xwell killed qRaxs  in round 15
+MrFaliN killed m1xwell  in round 15
+keloqz killed MrFaliN  in round 15
+ATA KAPTAN killed keloqz  in round 15
+Round 15 ended with elimination. The winning team is Futbolist.
+The current score is Team Heretics 3 - 12 Futbolist.
+keloqz killed qw1  in round 16
+Boo killed ATA KAPTAN  in round 16
+AvovA killed mojj  in round 16
+qRaxs killed Boo  in round 16
+m1xwell killed MrFaliN  in round 16
+Round 16 ended with spike_defuse. The winning team is Team Heretics.
+The current score is Team Heretics 4 - 12 Futbolist.
+MrFaliN killed keloqz  in round 17
+AvovA killed mojj  in round 17
+MrFaliN killed AvovA  in round 17
+m1xwell killed qw1  in round 17
+MrFaliN killed m1xwell  in round 17
+qRaxs killed zeek  in round 17
+qRaxs killed Boo  in round 17
+Round 17 ended with elimination. The winning team is Futbolist.
+The current score is Team Heretics 4 - 13 Futbolist.
+Game ended with winning team: Futbolist at 2023-03-28T16:49:16Z
+
+--- Player Stats ---
+ATA KAPTAN: Team=Futbolist, Kills=13, Deaths=7, Assists=6, KDA=2.71, First Kills=0, First Deaths=0
+mojj: Team=Futbolist, Kills=6, Deaths=7, Assists=6, KDA=1.71, First Kills=1, First Deaths=2
+MrFaliN: Team=Futbolist, Kills=14, Deaths=9, Assists=11, KDA=2.78, First Kills=2, First Deaths=1
+qw1: Team=Futbolist, Kills=22, Deaths=9, Assists=5, KDA=3.0, First Kills=5, First Deaths=2
+qRaxs: Team=Futbolist, Kills=16, Deaths=9, Assists=10, KDA=2.89, First Kills=2, First Deaths=2
+Boo: Team=Team Heretics, Kills=6, Deaths=15, Assists=2, KDA=0.53, First Kills=1, First Deaths=1
+m1xwell: Team=Team Heretics, Kills=11, Deaths=14, Assists=2, KDA=0.93, First Kills=0, First Deaths=2
+zeek: Team=Team Heretics, Kills=9, Deaths=14, Assists=2, KDA=0.79, First Kills=3, First Deaths=3
+AvovA: Team=Team Heretics, Kills=6, Deaths=13, Assists=6, KDA=0.92, First Kills=0, First Deaths=1
+keloqz: Team=Team Heretics, Kills=9, Deaths=15, Assists=1, KDA=0.67, First Kills=3, First Deaths=3

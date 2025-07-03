@@ -1,0 +1,189 @@
+Team 1: KRÜ Esports
+Team 2: Leviatán Esports
+Participating Players:
+Player 1: aspas
+Player 2: tex
+Player 3: kiNgg
+Player 4: C0M
+Player 5: Mazino
+Player 6: KeznitdeuS
+Player 7: Shyy
+Player 8: Melser
+Player 9: mta
+Player 10: heat
+Winning Team: Leviatán Esports
+Score: KRÜ Esports 4 - 13 Leviatán Esports
+Tournament Name: vct americas stage 2 2024
+Game Start Time: 2024-07-18T21:49:40Z
+Game End Time: 2024-07-18T22:25:53Z
+Rounds ended by ELIMINATION count: 13
+Rounds ended by DEFUSE count: 2
+Rounds ended by DETONATE count: 1
+SPIKE PLANTED count: 3
+platformGameId: val:4ebc726f-f7e7-4974-9ee9-827ed10b37f0
+
+--- Events ---
+Game started at 2024-07-18T21:49:40Z
+aspas killed Melser  in round 1
+aspas killed KeznitdeuS  in round 1
+Shyy killed aspas  in round 1
+kiNgg killed Shyy  in round 1
+tex killed mta  in round 1
+tex killed heat  in round 1
+Round 1 ended with elimination. The winning team is Leviatán Esports.
+The current score is KRÜ Esports 0 - 1 Leviatán Esports.
+kiNgg killed KeznitdeuS  in round 2
+kiNgg killed Melser  in round 2
+kiNgg killed mta  in round 2
+heat killed kiNgg  in round 2
+aspas killed Shyy  in round 2
+Mazino killed heat  in round 2
+Round 2 ended with elimination. The winning team is Leviatán Esports.
+The current score is KRÜ Esports 0 - 2 Leviatán Esports.
+Mazino killed heat  in round 3
+mta killed Mazino  in round 3
+C0M killed mta  in round 3
+Shyy killed C0M  in round 3
+Melser killed aspas  in round 3
+kiNgg killed Melser  in round 3
+kiNgg killed KeznitdeuS  in round 3
+Shyy killed kiNgg  in round 3
+tex killed Shyy  in round 3
+Round 3 ended with spike_defuse. The winning team is Leviatán Esports.
+The current score is KRÜ Esports 0 - 3 Leviatán Esports.
+aspas killed KeznitdeuS  in round 4
+mta killed aspas  in round 4
+tex killed mta  in round 4
+C0M killed Melser  in round 4
+tex killed heat  in round 4
+kiNgg killed Shyy  in round 4
+Round 4 ended with elimination. The winning team is Leviatán Esports.
+The current score is KRÜ Esports 0 - 4 Leviatán Esports.
+Shyy killed tex  in round 5
+C0M killed Shyy  in round 5
+C0M killed Melser  in round 5
+KeznitdeuS killed C0M  in round 5
+KeznitdeuS killed aspas  in round 5
+kiNgg killed heat  in round 5
+kiNgg killed KeznitdeuS  in round 5
+Mazino killed mta  in round 5
+Round 5 ended with spike_defuse. The winning team is Leviatán Esports.
+The current score is KRÜ Esports 0 - 5 Leviatán Esports.
+aspas killed KeznitdeuS  in round 6
+C0M killed Melser  in round 6
+tex killed heat  in round 6
+tex killed mta  in round 6
+Shyy killed Mazino  in round 6
+tex killed Shyy  in round 6
+Round 6 ended with elimination. The winning team is Leviatán Esports.
+The current score is KRÜ Esports 0 - 6 Leviatán Esports.
+C0M killed heat  in round 7
+Shyy killed C0M  in round 7
+KeznitdeuS killed kiNgg  in round 7
+Shyy killed Mazino  in round 7
+aspas killed Shyy  in round 7
+KeznitdeuS killed aspas  in round 7
+tex killed KeznitdeuS  in round 7
+tex killed mta  in round 7
+Melser killed tex  in round 7
+Round 7 ended with elimination. The winning team is KRÜ Esports.
+The current score is KRÜ Esports 1 - 6 Leviatán Esports.
+tex killed KeznitdeuS  in round 8
+Melser killed tex  in round 8
+Mazino killed mta  in round 8
+C0M killed Shyy  in round 8
+Mazino killed Melser  in round 8
+C0M killed heat  in round 8
+Round 8 ended with elimination. The winning team is Leviatán Esports.
+The current score is KRÜ Esports 1 - 7 Leviatán Esports.
+KeznitdeuS killed Mazino  in round 9
+C0M killed Shyy  in round 9
+Melser killed aspas  in round 9
+KeznitdeuS killed C0M  in round 9
+tex killed KeznitdeuS  in round 9
+heat killed tex  in round 9
+kiNgg killed Melser  in round 9
+Round 9 ended with detonate. The winning team is KRÜ Esports.
+The current score is KRÜ Esports 2 - 7 Leviatán Esports.
+heat killed heat  in round 10
+kiNgg killed kiNgg  in round 10
+aspas killed Shyy  in round 10
+aspas killed KeznitdeuS  in round 10
+aspas killed heat  in round 10
+mta killed C0M  in round 10
+Round 10 ended with time_expired. The winning team is Leviatán Esports.
+The current score is KRÜ Esports 2 - 8 Leviatán Esports.
+Mazino killed KeznitdeuS  in round 11
+Mazino killed Melser  in round 11
+Shyy killed Mazino  in round 11
+kiNgg killed Shyy  in round 11
+C0M killed mta  in round 11
+kiNgg killed heat  in round 11
+Round 11 ended with elimination. The winning team is Leviatán Esports.
+The current score is KRÜ Esports 2 - 9 Leviatán Esports.
+aspas killed mta  in round 12
+aspas killed Melser  in round 12
+kiNgg killed Shyy  in round 12
+heat killed aspas  in round 12
+KeznitdeuS killed Mazino  in round 12
+kiNgg killed KeznitdeuS  in round 12
+C0M killed heat  in round 12
+Round 12 ended with elimination. The winning team is Leviatán Esports.
+The current score is KRÜ Esports 2 - 10 Leviatán Esports.
+aspas killed Shyy  in round 13
+heat killed aspas  in round 13
+KeznitdeuS killed Mazino  in round 13
+tex killed heat  in round 13
+mta killed kiNgg  in round 13
+KeznitdeuS killed C0M  in round 13
+tex killed mta  in round 13
+KeznitdeuS killed tex  in round 13
+Round 13 ended with elimination. The winning team is KRÜ Esports.
+The current score is KRÜ Esports 3 - 10 Leviatán Esports.
+KeznitdeuS killed C0M  in round 14
+tex killed KeznitdeuS  in round 14
+Melser killed tex  in round 14
+kiNgg killed Melser  in round 14
+mta killed kiNgg  in round 14
+heat killed aspas  in round 14
+Mazino killed heat  in round 14
+mta killed Mazino  in round 14
+Round 14 ended with elimination. The winning team is KRÜ Esports.
+The current score is KRÜ Esports 4 - 10 Leviatán Esports.
+aspas killed KeznitdeuS  in round 15
+aspas killed Shyy  in round 15
+kiNgg killed mta  in round 15
+Mazino killed heat  in round 15
+tex killed Melser  in round 15
+Round 15 ended with elimination. The winning team is Leviatán Esports.
+The current score is KRÜ Esports 4 - 11 Leviatán Esports.
+aspas killed Shyy  in round 16
+tex killed heat  in round 16
+Mazino killed KeznitdeuS  in round 16
+aspas killed mta  in round 16
+Melser killed Mazino  in round 16
+Melser killed tex  in round 16
+kiNgg killed Melser  in round 16
+Round 16 ended with elimination. The winning team is Leviatán Esports.
+The current score is KRÜ Esports 4 - 12 Leviatán Esports.
+tex killed Melser  in round 17
+heat killed tex  in round 17
+aspas killed KeznitdeuS  in round 17
+C0M killed mta  in round 17
+Mazino killed heat  in round 17
+aspas killed Shyy  in round 17
+Round 17 ended with elimination. The winning team is Leviatán Esports.
+The current score is KRÜ Esports 4 - 13 Leviatán Esports.
+Game ended with winning team: Leviatán Esports at 2024-07-18T22:25:53Z
+
+--- Player Stats ---
+aspas: Team=Leviatán Esports, Kills=18, Deaths=9, Assists=5, KDA=2.56, First Kills=7, First Deaths=0
+tex: Team=Leviatán Esports, Kills=18, Deaths=8, Assists=4, KDA=2.75, First Kills=2, First Deaths=1
+kiNgg: Team=Leviatán Esports, Kills=18, Deaths=6, Assists=5, KDA=3.83, First Kills=1, First Deaths=0
+C0M: Team=Leviatán Esports, Kills=12, Deaths=7, Assists=8, KDA=2.86, First Kills=1, First Deaths=1
+Mazino: Team=Leviatán Esports, Kills=11, Deaths=9, Assists=14, KDA=2.78, First Kills=2, First Deaths=1
+KeznitdeuS: Team=KRÜ Esports, Kills=11, Deaths=16, Assists=4, KDA=0.94, First Kills=2, First Deaths=6
+Shyy: Team=KRÜ Esports, Kills=8, Deaths=16, Assists=3, KDA=0.69, First Kills=1, First Deaths=2
+Melser: Team=KRÜ Esports, Kills=7, Deaths=14, Assists=9, KDA=1.14, First Kills=0, First Deaths=2
+mta: Team=KRÜ Esports, Kills=6, Deaths=14, Assists=3, KDA=0.64, First Kills=0, First Deaths=1
+heat: Team=KRÜ Esports, Kills=7, Deaths=17, Assists=4, KDA=0.65, First Kills=1, First Deaths=3

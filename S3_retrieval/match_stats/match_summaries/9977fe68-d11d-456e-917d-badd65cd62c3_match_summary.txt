@@ -1,0 +1,217 @@
+Team 1: Gentle Mates
+Team 2: BBL Esports
+Participating Players:
+Player 1: Brave
+Player 2: QutionerX
+Player 3: pAura
+Player 4: Reazy
+Player 5: Elite
+Player 6: Wailers
+Player 7: nataNk
+Player 8: beyAz
+Player 9: logaN
+Player 10: TakaS
+Winning Team: Gentle Mates
+Score: Gentle Mates 13 - 7 BBL Esports
+Tournament Name: vct emea stage 1 2024
+Game Start Time: 2024-04-05T16:52:02Z
+Game End Time: 2024-04-05T17:46:54Z
+Rounds ended by ELIMINATION count: 14
+Rounds ended by DEFUSE count: 4
+Rounds ended by DETONATE count: 2
+SPIKE PLANTED count: 6
+platformGameId: val:9977fe68-d11d-456e-917d-badd65cd62c3
+
+--- Events ---
+Game started at 2024-04-05T16:52:02Z
+nataNk killed Reazy  in round 1
+Elite killed beyAz  in round 1
+pAura killed TakaS  in round 1
+Wailers killed Elite  in round 1
+logaN killed pAura  in round 1
+QutionerX killed logaN  in round 1
+nataNk killed QutionerX  in round 1
+Brave killed nataNk  in round 1
+Wailers killed Brave  in round 1
+Round 1 ended with elimination. The winning team is Gentle Mates.
+The current score is Gentle Mates 1 - 0 BBL Esports.
+nataNk killed Elite  in round 2
+TakaS killed Reazy  in round 2
+TakaS killed Brave  in round 2
+TakaS killed QutionerX  in round 2
+pAura killed TakaS  in round 2
+Wailers killed pAura  in round 2
+Round 2 ended with elimination. The winning team is Gentle Mates.
+The current score is Gentle Mates 2 - 0 BBL Esports.
+Brave killed TakaS  in round 3
+nataNk killed Brave  in round 3
+Reazy killed nataNk  in round 3
+QutionerX killed Wailers  in round 3
+logaN killed QutionerX  in round 3
+Elite killed logaN  in round 3
+Elite killed beyAz  in round 3
+Round 3 ended with elimination. The winning team is BBL Esports.
+The current score is Gentle Mates 2 - 1 BBL Esports.
+Elite killed TakaS  in round 4
+nataNk killed Brave  in round 4
+nataNk killed pAura  in round 4
+Wailers killed QutionerX  in round 4
+beyAz killed Elite  in round 4
+beyAz killed Reazy  in round 4
+Round 4 ended with elimination. The winning team is Gentle Mates.
+The current score is Gentle Mates 3 - 1 BBL Esports.
+TakaS killed Brave  in round 5
+TakaS killed pAura  in round 5
+Wailers killed Reazy  in round 5
+Elite killed Wailers  in round 5
+Elite killed nataNk  in round 5
+Round 5 ended with detonate. The winning team is Gentle Mates.
+The current score is Gentle Mates 4 - 1 BBL Esports.
+Elite killed Elite  in round 6
+pAura killed TakaS  in round 6
+Wailers killed pAura  in round 6
+nataNk killed Brave  in round 6
+QutionerX killed logaN  in round 6
+beyAz killed QutionerX  in round 6
+beyAz killed Reazy  in round 6
+beyAz killed Elite  in round 6
+Round 6 ended with elimination. The winning team is Gentle Mates.
+The current score is Gentle Mates 5 - 1 BBL Esports.
+pAura killed TakaS  in round 7
+nataNk killed Brave  in round 7
+nataNk killed pAura  in round 7
+QutionerX killed beyAz  in round 7
+logaN killed QutionerX  in round 7
+logaN killed Reazy  in round 7
+Elite killed nataNk  in round 7
+Wailers killed Elite  in round 7
+Round 7 ended with elimination. The winning team is Gentle Mates.
+The current score is Gentle Mates 6 - 1 BBL Esports.
+Elite killed logaN  in round 8
+beyAz killed Elite  in round 8
+Reazy killed nataNk  in round 8
+pAura killed TakaS  in round 8
+pAura killed Wailers  in round 8
+pAura killed beyAz  in round 8
+Round 8 ended with spike_defuse. The winning team is BBL Esports.
+The current score is Gentle Mates 6 - 2 BBL Esports.
+Elite killed TakaS  in round 9
+beyAz killed Reazy  in round 9
+nataNk killed Elite  in round 9
+pAura killed beyAz  in round 9
+Brave killed nataNk  in round 9
+pAura killed logaN  in round 9
+Brave killed Wailers  in round 9
+Round 9 ended with spike_defuse. The winning team is BBL Esports.
+The current score is Gentle Mates 6 - 3 BBL Esports.
+Elite killed beyAz  in round 10
+logaN killed Elite  in round 10
+TakaS killed Reazy  in round 10
+pAura killed TakaS  in round 10
+Brave killed logaN  in round 10
+Wailers killed Brave  in round 10
+QutionerX killed nataNk  in round 10
+pAura killed Wailers  in round 10
+Round 10 ended with spike_defuse. The winning team is BBL Esports.
+The current score is Gentle Mates 6 - 4 BBL Esports.
+TakaS killed Elite  in round 11
+Reazy killed TakaS  in round 11
+nataNk killed QutionerX  in round 11
+Reazy killed Wailers  in round 11
+logaN killed Reazy  in round 11
+pAura killed beyAz  in round 11
+nataNk killed pAura  in round 11
+Brave killed logaN  in round 11
+nataNk killed Brave  in round 11
+Round 11 ended with elimination. The winning team is Gentle Mates.
+The current score is Gentle Mates 7 - 4 BBL Esports.
+TakaS killed pAura  in round 12
+nataNk killed QutionerX  in round 12
+Brave killed nataNk  in round 12
+Brave killed TakaS  in round 12
+beyAz killed Brave  in round 12
+logaN killed Reazy  in round 12
+Wailers killed Elite  in round 12
+Round 12 ended with elimination. The winning team is Gentle Mates.
+The current score is Gentle Mates 8 - 4 BBL Esports.
+Brave killed logaN  in round 13
+pAura killed Wailers  in round 13
+TakaS killed Brave  in round 13
+TakaS killed Reazy  in round 13
+QutionerX killed TakaS  in round 13
+nataNk killed QutionerX  in round 13
+beyAz killed pAura  in round 13
+Elite killed beyAz  in round 13
+Elite killed nataNk  in round 13
+Round 13 ended with elimination. The winning team is BBL Esports.
+The current score is Gentle Mates 8 - 5 BBL Esports.
+Brave killed logaN  in round 14
+Reazy killed beyAz  in round 14
+Elite killed nataNk  in round 14
+pAura killed TakaS  in round 14
+Brave killed Wailers  in round 14
+Round 14 ended with elimination. The winning team is BBL Esports.
+The current score is Gentle Mates 8 - 6 BBL Esports.
+logaN killed QutionerX  in round 15
+nataNk killed Reazy  in round 15
+TakaS killed Brave  in round 15
+Elite killed beyAz  in round 15
+Wailers killed Elite  in round 15
+nataNk killed pAura  in round 15
+Round 15 ended with elimination. The winning team is Gentle Mates.
+The current score is Gentle Mates 9 - 6 BBL Esports.
+Wailers killed Brave  in round 16
+Elite killed Wailers  in round 16
+nataNk killed Elite  in round 16
+nataNk killed Reazy  in round 16
+TakaS killed QutionerX  in round 16
+pAura killed TakaS  in round 16
+pAura killed beyAz  in round 16
+pAura killed logaN  in round 16
+nataNk killed pAura  in round 16
+Round 16 ended with spike_defuse. The winning team is Gentle Mates.
+The current score is Gentle Mates 10 - 6 BBL Esports.
+Elite killed logaN  in round 17
+nataNk killed QutionerX  in round 17
+nataNk killed pAura  in round 17
+beyAz killed Reazy  in round 17
+Elite killed Wailers  in round 17
+Brave killed TakaS  in round 17
+beyAz killed Elite  in round 17
+nataNk killed Brave  in round 17
+Round 17 ended with elimination. The winning team is Gentle Mates.
+The current score is Gentle Mates 11 - 6 BBL Esports.
+Reazy killed nataNk  in round 18
+Reazy killed beyAz  in round 18
+Round 18 ended with detonate. The winning team is BBL Esports.
+The current score is Gentle Mates 11 - 7 BBL Esports.
+beyAz killed Reazy  in round 19
+beyAz killed pAura  in round 19
+Wailers killed Brave  in round 19
+logaN killed QutionerX  in round 19
+Elite killed beyAz  in round 19
+TakaS killed Elite  in round 19
+Round 19 ended with elimination. The winning team is Gentle Mates.
+The current score is Gentle Mates 12 - 7 BBL Esports.
+nataNk killed Brave  in round 20
+nataNk killed Elite  in round 20
+QutionerX killed TakaS  in round 20
+QutionerX killed nataNk  in round 20
+Wailers killed pAura  in round 20
+logaN killed Reazy  in round 20
+logaN killed QutionerX  in round 20
+Round 20 ended with elimination. The winning team is Gentle Mates.
+The current score is Gentle Mates 13 - 7 BBL Esports.
+Game ended with winning team: Gentle Mates at 2024-04-05T17:46:54Z
+
+--- Player Stats ---
+Brave: Team=BBL Esports, Kills=12, Deaths=16, Assists=3, KDA=0.94, First Kills=3, First Deaths=3
+QutionerX: Team=BBL Esports, Kills=8, Deaths=14, Assists=2, KDA=0.71, First Kills=0, First Deaths=1
+pAura: Team=BBL Esports, Kills=17, Deaths=14, Assists=13, KDA=2.14, First Kills=1, First Deaths=1
+Reazy: Team=BBL Esports, Kills=7, Deaths=16, Assists=6, KDA=0.81, First Kills=1, First Deaths=2
+Elite: Team=BBL Esports, Kills=19, Deaths=16, Assists=4, KDA=1.44, First Kills=6, First Deaths=3
+Wailers: Team=Gentle Mates, Kills=13, Deaths=10, Assists=9, KDA=2.2, First Kills=1, First Deaths=0
+nataNk: Team=Gentle Mates, Kills=25, Deaths=12, Assists=6, KDA=2.58, First Kills=3, First Deaths=1
+beyAz: Team=Gentle Mates, Kills=13, Deaths=13, Assists=8, KDA=1.62, First Kills=1, First Deaths=1
+logaN: Team=Gentle Mates, Kills=11, Deaths=11, Assists=3, KDA=1.27, First Kills=1, First Deaths=4
+TakaS: Team=Gentle Mates, Kills=13, Deaths=16, Assists=8, KDA=1.31, First Kills=3, First Deaths=4

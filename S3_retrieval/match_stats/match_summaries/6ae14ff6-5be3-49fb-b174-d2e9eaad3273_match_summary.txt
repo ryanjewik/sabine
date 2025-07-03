@@ -1,0 +1,235 @@
+Team 1: Bleed Esports
+Team 2: DRX
+Participating Players:
+Player 1: MaKo
+Player 2: Foxy9
+Player 3: stax
+Player 4: BeYN
+Player 5: BuZz
+Player 6: ZestKR
+Player 7: yay
+Player 8: sScary
+Player 9: Deryeon
+Player 10: Retla
+Winning Team: DRX
+Score: Bleed Esports 9 - 13 DRX
+Tournament Name: vct pacific stage 1 2024
+Game Start Time: 2024-04-29T07:51:30Z
+Game End Time: 2024-04-29T08:53:33Z
+Rounds ended by ELIMINATION count: 14
+Rounds ended by DEFUSE count: 4
+Rounds ended by DETONATE count: 3
+SPIKE PLANTED count: 7
+platformGameId: val:6ae14ff6-5be3-49fb-b174-d2e9eaad3273
+
+--- Events ---
+Game started at 2024-04-29T07:51:30Z
+sScary killed MaKo  in round 1
+BeYN killed sScary  in round 1
+BeYN killed Retla  in round 1
+BeYN killed yay  in round 1
+Foxy9 killed ZestKR  in round 1
+stax killed Deryeon  in round 1
+Round 1 ended with elimination. The winning team is DRX.
+The current score is Bleed Esports 0 - 1 DRX.
+MaKo killed sScary  in round 2
+MaKo killed yay  in round 2
+MaKo killed Deryeon  in round 2
+MaKo killed ZestKR  in round 2
+Retla killed Foxy9  in round 2
+MaKo killed Retla  in round 2
+Round 2 ended with elimination. The winning team is DRX.
+The current score is Bleed Esports 0 - 2 DRX.
+Deryeon killed BuZz  in round 3
+BeYN killed yay  in round 3
+Retla killed Foxy9  in round 3
+Retla killed stax  in round 3
+Retla killed MaKo  in round 3
+sScary killed BeYN  in round 3
+Round 3 ended with elimination. The winning team is Bleed Esports.
+The current score is Bleed Esports 1 - 2 DRX.
+yay killed MaKo  in round 4
+Foxy9 killed yay  in round 4
+Deryeon killed BeYN  in round 4
+sScary killed stax  in round 4
+Foxy9 killed sScary  in round 4
+Retla killed BuZz  in round 4
+Foxy9 killed Deryeon  in round 4
+Retla killed Foxy9  in round 4
+Round 4 ended with elimination. The winning team is Bleed Esports.
+The current score is Bleed Esports 2 - 2 DRX.
+stax killed yay  in round 5
+ZestKR killed stax  in round 5
+ZestKR killed Foxy9  in round 5
+Deryeon killed BeYN  in round 5
+BuZz killed Deryeon  in round 5
+sScary killed BuZz  in round 5
+sScary killed MaKo  in round 5
+Round 5 ended with elimination. The winning team is Bleed Esports.
+The current score is Bleed Esports 3 - 2 DRX.
+Deryeon killed MaKo  in round 6
+yay killed Foxy9  in round 6
+BeYN killed yay  in round 6
+Retla killed BuZz  in round 6
+BeYN killed sScary  in round 6
+ZestKR killed stax  in round 6
+BeYN killed ZestKR  in round 6
+Round 6 ended with detonate. The winning team is Bleed Esports.
+The current score is Bleed Esports 4 - 2 DRX.
+Foxy9 killed yay  in round 7
+Foxy9 killed ZestKR  in round 7
+sScary killed stax  in round 7
+Foxy9 killed Deryeon  in round 7
+Foxy9 killed sScary  in round 7
+Retla killed MaKo  in round 7
+Foxy9 killed Retla  in round 7
+Round 7 ended with elimination. The winning team is DRX.
+The current score is Bleed Esports 4 - 3 DRX.
+Foxy9 killed yay  in round 8
+BeYN killed sScary  in round 8
+ZestKR killed Foxy9  in round 8
+BeYN killed ZestKR  in round 8
+Round 8 ended with time_expired. The winning team is DRX.
+The current score is Bleed Esports 4 - 4 DRX.
+MaKo killed yay  in round 9
+ZestKR killed MaKo  in round 9
+BeYN killed ZestKR  in round 9
+Deryeon killed BeYN  in round 9
+sScary killed stax  in round 9
+Retla killed BuZz  in round 9
+Foxy9 killed Retla  in round 9
+sScary killed Foxy9  in round 9
+Round 9 ended with elimination. The winning team is Bleed Esports.
+The current score is Bleed Esports 5 - 4 DRX.
+yay killed BeYN  in round 10
+stax killed yay  in round 10
+Deryeon killed stax  in round 10
+MaKo killed Retla  in round 10
+MaKo killed sScary  in round 10
+Deryeon killed MaKo  in round 10
+Deryeon killed Foxy9  in round 10
+BuZz killed Deryeon  in round 10
+BuZz killed ZestKR  in round 10
+Round 10 ended with spike_defuse. The winning team is DRX.
+The current score is Bleed Esports 5 - 5 DRX.
+MaKo killed Deryeon  in round 11
+MaKo killed Retla  in round 11
+ZestKR killed MaKo  in round 11
+sScary killed Foxy9  in round 11
+BeYN killed sScary  in round 11
+BeYN killed yay  in round 11
+ZestKR killed BeYN  in round 11
+ZestKR killed stax  in round 11
+Round 11 ended with spike_defuse. The winning team is DRX.
+The current score is Bleed Esports 5 - 6 DRX.
+ZestKR killed BuZz  in round 12
+sScary killed BuZz  in round 12
+Foxy9 killed Retla  in round 12
+yay killed MaKo  in round 12
+BeYN killed yay  in round 12
+BeYN killed Deryeon  in round 12
+Foxy9 killed ZestKR  in round 12
+stax killed sScary  in round 12
+Round 12 ended with elimination. The winning team is DRX.
+The current score is Bleed Esports 5 - 7 DRX.
+BeYN killed yay  in round 13
+BeYN killed Deryeon  in round 13
+ZestKR killed BeYN  in round 13
+Foxy9 killed sScary  in round 13
+stax killed Retla  in round 13
+MaKo killed ZestKR  in round 13
+Round 13 ended with elimination. The winning team is DRX.
+The current score is Bleed Esports 5 - 8 DRX.
+BeYN killed ZestKR  in round 14
+Retla killed MaKo  in round 14
+BuZz killed Deryeon  in round 14
+BuZz killed Retla  in round 14
+sScary killed Foxy9  in round 14
+yay killed BuZz  in round 14
+BeYN killed sScary  in round 14
+BeYN killed yay  in round 14
+Round 14 ended with elimination. The winning team is DRX.
+The current score is Bleed Esports 5 - 9 DRX.
+yay killed BuZz  in round 15
+Foxy9 killed yay  in round 15
+Foxy9 killed sScary  in round 15
+Deryeon killed MaKo  in round 15
+BeYN killed Retla  in round 15
+Deryeon killed stax  in round 15
+ZestKR killed Foxy9  in round 15
+BeYN killed ZestKR  in round 15
+BeYN killed Deryeon  in round 15
+Round 15 ended with elimination. The winning team is DRX.
+The current score is Bleed Esports 5 - 10 DRX.
+BeYN killed BeYN  in round 16
+MaKo killed Deryeon  in round 16
+yay killed MaKo  in round 16
+Retla killed BeYN  in round 16
+sScary killed Foxy9  in round 16
+yay killed stax  in round 16
+yay killed BuZz  in round 16
+Round 16 ended with spike_defuse. The winning team is Bleed Esports.
+The current score is Bleed Esports 6 - 10 DRX.
+sScary killed stax  in round 17
+MaKo killed sScary  in round 17
+yay killed BuZz  in round 17
+MaKo killed yay  in round 17
+BeYN killed Deryeon  in round 17
+BeYN killed ZestKR  in round 17
+Round 17 ended with detonate. The winning team is DRX.
+The current score is Bleed Esports 6 - 11 DRX.
+Foxy9 killed Foxy9  in round 18
+stax killed ZestKR  in round 18
+Retla killed stax  in round 18
+BuZz killed sScary  in round 18
+sScary killed MaKo  in round 18
+sScary killed BeYN  in round 18
+Retla killed Foxy9  in round 18
+Retla killed BuZz  in round 18
+Round 18 ended with elimination. The winning team is Bleed Esports.
+The current score is Bleed Esports 7 - 11 DRX.
+sScary killed BuZz  in round 19
+yay killed stax  in round 19
+BeYN killed yay  in round 19
+Retla killed Foxy9  in round 19
+Deryeon killed MaKo  in round 19
+Retla killed BeYN  in round 19
+Round 19 ended with spike_defuse. The winning team is Bleed Esports.
+The current score is Bleed Esports 8 - 11 DRX.
+BuZz killed Retla  in round 20
+BuZz killed yay  in round 20
+MaKo killed ZestKR  in round 20
+MaKo killed sScary  in round 20
+Round 20 ended with detonate. The winning team is DRX.
+The current score is Bleed Esports 8 - 12 DRX.
+yay killed Foxy9  in round 21
+yay killed stax  in round 21
+sScary killed BuZz  in round 21
+sScary killed BeYN  in round 21
+MaKo killed sScary  in round 21
+yay killed MaKo  in round 21
+Round 21 ended with elimination. The winning team is Bleed Esports.
+The current score is Bleed Esports 9 - 12 DRX.
+BuZz killed Retla  in round 22
+ZestKR killed BuZz  in round 22
+MaKo killed yay  in round 22
+ZestKR killed stax  in round 22
+ZestKR killed BeYN  in round 22
+MaKo killed ZestKR  in round 22
+MaKo killed sScary  in round 22
+MaKo killed Deryeon  in round 22
+Round 22 ended with elimination. The winning team is DRX.
+The current score is Bleed Esports 9 - 13 DRX.
+Game ended with winning team: DRX at 2024-04-29T08:53:33Z
+
+--- Player Stats ---
+MaKo: Team=DRX, Kills=21, Deaths=16, Assists=8, KDA=1.81, First Kills=3, First Deaths=3
+Foxy9: Team=DRX, Kills=17, Deaths=16, Assists=7, KDA=1.5, First Kills=3, First Deaths=2
+stax: Team=DRX, Kills=6, Deaths=15, Assists=11, KDA=1.13, First Kills=1, First Deaths=1
+BeYN: Team=DRX, Kills=26, Deaths=13, Assists=7, KDA=2.54, First Kills=3, First Deaths=2
+BuZz: Team=DRX, Kills=9, Deaths=15, Assists=4, KDA=0.87, First Kills=2, First Deaths=4
+ZestKR: Team=Bleed Esports, Kills=14, Deaths=15, Assists=8, KDA=1.47, First Kills=1, First Deaths=1
+yay: Team=Bleed Esports, Kills=14, Deaths=19, Assists=3, KDA=0.89, First Kills=4, First Deaths=5
+sScary: Team=Bleed Esports, Kills=18, Deaths=17, Assists=7, KDA=1.47, First Kills=3, First Deaths=1
+Deryeon: Team=Bleed Esports, Kills=11, Deaths=14, Assists=5, KDA=1.14, First Kills=2, First Deaths=1
+Retla: Team=Bleed Esports, Kills=16, Deaths=12, Assists=8, KDA=2.0, First Kills=0, First Deaths=2

@@ -1,0 +1,227 @@
+Team 1: Futbolist
+Team 2: NAVI
+Participating Players:
+Player 1: Zyppan
+Player 2: cNed
+Player 3: ANGE1
+Player 4: Shao
+Player 5: suygetsu
+Player 6: ATA KAPTAN
+Player 7: mojj
+Player 8: MrFaliN
+Player 9: qw1
+Player 10: qRaxs
+Winning Team: Futbolist
+Score: Futbolist 13 - 7 NAVI
+Tournament Name: vct emea 2023
+Game Start Time: 2023-05-26T18:46:34Z
+Game End Time: 2023-05-26T19:32:51Z
+Rounds ended by ELIMINATION count: 14
+Rounds ended by DEFUSE count: 4
+Rounds ended by DETONATE count: 2
+SPIKE PLANTED count: 6
+platformGameId: val:631401ec-53ad-4061-9b7d-3595fda13519
+
+--- Events ---
+Game started at 2023-05-26T18:46:34Z
+Shao killed qRaxs  in round 1
+ATA KAPTAN killed Zyppan  in round 1
+Shao killed MrFaliN  in round 1
+qw1 killed Shao  in round 1
+mojj killed cNed  in round 1
+ANGE1 killed ATA KAPTAN  in round 1
+ANGE1 killed qw1  in round 1
+mojj killed ANGE1  in round 1
+suygetsu killed mojj  in round 1
+suygetsu killed suygetsu  in round 1
+Round 1 ended with elimination. The winning team is Futbolist.
+The current score is Futbolist 1 - 0 NAVI.
+cNed killed qRaxs  in round 2
+MrFaliN killed suygetsu  in round 2
+cNed killed ATA KAPTAN  in round 2
+MrFaliN killed ANGE1  in round 2
+Shao killed mojj  in round 2
+qw1 killed Zyppan  in round 2
+MrFaliN killed Shao  in round 2
+MrFaliN killed cNed  in round 2
+Round 2 ended with elimination. The winning team is Futbolist.
+The current score is Futbolist 2 - 0 NAVI.
+Zyppan killed MrFaliN  in round 3
+suygetsu killed ATA KAPTAN  in round 3
+qw1 killed Zyppan  in round 3
+ANGE1 killed qw1  in round 3
+suygetsu killed qRaxs  in round 3
+suygetsu killed mojj  in round 3
+Round 3 ended with elimination. The winning team is NAVI.
+The current score is Futbolist 2 - 1 NAVI.
+qw1 killed Zyppan  in round 4
+Shao killed qw1  in round 4
+qRaxs killed Shao  in round 4
+ANGE1 killed mojj  in round 4
+ANGE1 killed qRaxs  in round 4
+ANGE1 killed ATA KAPTAN  in round 4
+MrFaliN killed ANGE1  in round 4
+MrFaliN killed suygetsu  in round 4
+cNed killed MrFaliN  in round 4
+Round 4 ended with elimination. The winning team is NAVI.
+The current score is Futbolist 2 - 2 NAVI.
+cNed killed ATA KAPTAN  in round 5
+qw1 killed Zyppan  in round 5
+mojj killed cNed  in round 5
+Shao killed MrFaliN  in round 5
+qw1 killed Shao  in round 5
+qw1 killed ANGE1  in round 5
+qw1 killed suygetsu  in round 5
+Round 5 ended with elimination. The winning team is Futbolist.
+The current score is Futbolist 3 - 2 NAVI.
+Shao killed qw1  in round 6
+MrFaliN killed ANGE1  in round 6
+cNed killed MrFaliN  in round 6
+qRaxs killed cNed  in round 6
+Shao killed qRaxs  in round 6
+ATA KAPTAN killed Zyppan  in round 6
+mojj killed suygetsu  in round 6
+Shao killed ATA KAPTAN  in round 6
+mojj killed Shao  in round 6
+Round 6 ended with elimination. The winning team is Futbolist.
+The current score is Futbolist 4 - 2 NAVI.
+Shao killed qw1  in round 7
+ATA KAPTAN killed Shao  in round 7
+MrFaliN killed ANGE1  in round 7
+qRaxs killed cNed  in round 7
+suygetsu killed qRaxs  in round 7
+mojj killed Zyppan  in round 7
+ATA KAPTAN killed suygetsu  in round 7
+Round 7 ended with elimination. The winning team is Futbolist.
+The current score is Futbolist 5 - 2 NAVI.
+Shao killed MrFaliN  in round 8
+qw1 killed ANGE1  in round 8
+Zyppan killed mojj  in round 8
+Shao killed qRaxs  in round 8
+Zyppan killed ATA KAPTAN  in round 8
+qw1 killed Shao  in round 8
+qw1 killed Zyppan  in round 8
+suygetsu killed qw1  in round 8
+Round 8 ended with elimination. The winning team is NAVI.
+The current score is Futbolist 5 - 3 NAVI.
+Shao killed qw1  in round 9
+mojj killed ANGE1  in round 9
+ATA KAPTAN killed suygetsu  in round 9
+MrFaliN killed Shao  in round 9
+Round 9 ended with detonate. The winning team is Futbolist.
+The current score is Futbolist 6 - 3 NAVI.
+cNed killed qRaxs  in round 10
+qw1 killed cNed  in round 10
+mojj killed Shao  in round 10
+qw1 killed suygetsu  in round 10
+ANGE1 killed ATA KAPTAN  in round 10
+Zyppan killed mojj  in round 10
+qw1 killed Zyppan  in round 10
+qw1 killed ANGE1  in round 10
+Round 10 ended with elimination. The winning team is Futbolist.
+The current score is Futbolist 7 - 3 NAVI.
+qw1 killed ANGE1  in round 11
+Shao killed qw1  in round 11
+qRaxs killed cNed  in round 11
+qRaxs killed suygetsu  in round 11
+qRaxs killed Shao  in round 11
+mojj killed Zyppan  in round 11
+Round 11 ended with elimination. The winning team is Futbolist.
+The current score is Futbolist 8 - 3 NAVI.
+Zyppan killed qw1  in round 12
+Zyppan killed MrFaliN  in round 12
+mojj killed cNed  in round 12
+ANGE1 killed mojj  in round 12
+ATA KAPTAN killed ANGE1  in round 12
+Shao killed ATA KAPTAN  in round 12
+qRaxs killed Shao  in round 12
+suygetsu killed qRaxs  in round 12
+Round 12 ended with spike_defuse. The winning team is NAVI.
+The current score is Futbolist 8 - 4 NAVI.
+ANGE1 killed MrFaliN  in round 13
+qw1 killed ANGE1  in round 13
+mojj killed cNed  in round 13
+qRaxs killed suygetsu  in round 13
+Shao killed qw1  in round 13
+Round 13 ended with spike_defuse. The winning team is Futbolist.
+The current score is Futbolist 9 - 4 NAVI.
+qRaxs killed Zyppan  in round 14
+mojj killed Shao  in round 14
+cNed killed MrFaliN  in round 14
+qw1 killed cNed  in round 14
+ATA KAPTAN killed suygetsu  in round 14
+ANGE1 killed qw1  in round 14
+mojj killed Zyppan  in round 14
+ATA KAPTAN killed ANGE1  in round 14
+mojj killed Shao  in round 14
+Round 14 ended with elimination. The winning team is Futbolist.
+The current score is Futbolist 10 - 4 NAVI.
+Shao killed MrFaliN  in round 15
+mojj killed ANGE1  in round 15
+cNed killed qRaxs  in round 15
+Shao killed ATA KAPTAN  in round 15
+suygetsu killed mojj  in round 15
+qw1 killed suygetsu  in round 15
+Round 15 ended with detonate. The winning team is NAVI.
+The current score is Futbolist 10 - 5 NAVI.
+qRaxs killed ANGE1  in round 16
+cNed killed ATA KAPTAN  in round 16
+MrFaliN killed cNed  in round 16
+MrFaliN killed Zyppan  in round 16
+suygetsu killed MrFaliN  in round 16
+qRaxs killed suygetsu  in round 16
+qRaxs killed Shao  in round 16
+Round 16 ended with elimination. The winning team is Futbolist.
+The current score is Futbolist 11 - 5 NAVI.
+MrFaliN killed cNed  in round 17
+mojj killed suygetsu  in round 17
+Zyppan killed qw1  in round 17
+ANGE1 killed qRaxs  in round 17
+Zyppan killed ATA KAPTAN  in round 17
+Zyppan killed mojj  in round 17
+MrFaliN killed ANGE1  in round 17
+Zyppan killed MrFaliN  in round 17
+Round 17 ended with elimination. The winning team is NAVI.
+The current score is Futbolist 11 - 6 NAVI.
+ANGE1 killed MrFaliN  in round 18
+ANGE1 killed qw1  in round 18
+cNed killed ATA KAPTAN  in round 18
+qRaxs killed ANGE1  in round 18
+suygetsu killed qRaxs  in round 18
+Shao killed mojj  in round 18
+Round 18 ended with elimination. The winning team is NAVI.
+The current score is Futbolist 11 - 7 NAVI.
+qRaxs killed Shao  in round 19
+qRaxs killed Zyppan  in round 19
+suygetsu killed qRaxs  in round 19
+ATA KAPTAN killed ANGE1  in round 19
+cNed killed ATA KAPTAN  in round 19
+suygetsu killed mojj  in round 19
+MrFaliN killed cNed  in round 19
+MrFaliN killed suygetsu  in round 19
+Round 19 ended with spike_defuse. The winning team is Futbolist.
+The current score is Futbolist 12 - 7 NAVI.
+Shao killed qw1  in round 20
+ATA KAPTAN killed cNed  in round 20
+suygetsu killed qRaxs  in round 20
+Shao killed mojj  in round 20
+ATA KAPTAN killed Shao  in round 20
+ATA KAPTAN killed Zyppan  in round 20
+MrFaliN killed ANGE1  in round 20
+suygetsu killed ATA KAPTAN  in round 20
+MrFaliN killed suygetsu  in round 20
+Round 20 ended with spike_defuse. The winning team is Futbolist.
+The current score is Futbolist 13 - 7 NAVI.
+Game ended with winning team: Futbolist at 2023-05-26T19:32:51Z
+
+--- Player Stats ---
+Zyppan: Team=NAVI, Kills=10, Deaths=15, Assists=8, KDA=1.2, First Kills=2, First Deaths=2
+cNed: Team=NAVI, Kills=11, Deaths=14, Assists=4, KDA=1.07, First Kills=3, First Deaths=1
+ANGE1: Team=NAVI, Kills=13, Deaths=19, Assists=7, KDA=1.05, First Kills=2, First Deaths=2
+Shao: Team=NAVI, Kills=20, Deaths=16, Assists=5, KDA=1.56, First Kills=7, First Deaths=1
+suygetsu: Team=NAVI, Kills=15, Deaths=16, Assists=2, KDA=1.06, First Kills=0, First Deaths=0
+ATA KAPTAN: Team=Futbolist, Kills=12, Deaths=15, Assists=18, KDA=2.0, First Kills=0, First Deaths=1
+mojj: Team=Futbolist, Kills=16, Deaths=12, Assists=6, KDA=1.83, First Kills=0, First Deaths=0
+MrFaliN: Team=Futbolist, Kills=17, Deaths=13, Assists=11, KDA=2.15, First Kills=1, First Deaths=5
+qw1: Team=Futbolist, Kills=19, Deaths=14, Assists=3, KDA=1.57, First Kills=2, First Deaths=5
+qRaxs: Team=Futbolist, Kills=15, Deaths=14, Assists=7, KDA=1.57, First Kills=3, First Deaths=3

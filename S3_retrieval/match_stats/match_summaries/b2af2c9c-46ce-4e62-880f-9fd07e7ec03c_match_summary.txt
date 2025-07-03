@@ -1,0 +1,247 @@
+Team 1: ZETA DIVISION
+Team 2: DetonatioN FocusMe
+Participating Players:
+Player 1: SSeeS
+Player 2: Meiy
+Player 3: Anthem
+Player 4: Medusa
+Player 5: neth
+Player 6: Dep
+Player 7: Yuran
+Player 8: SugarZ3ro
+Player 9: hiroronn
+Player 10: Laz
+Winning Team: DetonatioN FocusMe
+Score: ZETA DIVISION 10 - 13 DetonatioN FocusMe
+Tournament Name: vct pacific stage 2 2024
+Game Start Time: 2024-06-23T12:14:02Z
+Game End Time: 2024-06-23T13:05:52Z
+Rounds ended by ELIMINATION count: 16
+Rounds ended by DEFUSE count: 2
+Rounds ended by DETONATE count: 4
+SPIKE PLANTED count: 6
+platformGameId: val:b2af2c9c-46ce-4e62-880f-9fd07e7ec03c
+
+--- Events ---
+Game started at 2024-06-23T12:14:02Z
+Medusa killed Yuran  in round 1
+Laz killed Medusa  in round 1
+Anthem killed hiroronn  in round 1
+Dep killed Anthem  in round 1
+Laz killed neth  in round 1
+Meiy killed Laz  in round 1
+Meiy killed SugarZ3ro  in round 1
+Dep killed SSeeS  in round 1
+Dep killed Meiy  in round 1
+Round 1 ended with elimination. The winning team is ZETA DIVISION.
+The current score is ZETA DIVISION 1 - 0 DetonatioN FocusMe.
+Meiy killed hiroronn  in round 2
+Dep killed neth  in round 2
+SugarZ3ro killed Medusa  in round 2
+Meiy killed SugarZ3ro  in round 2
+Dep killed Anthem  in round 2
+Meiy killed Dep  in round 2
+Yuran killed SSeeS  in round 2
+Laz killed Meiy  in round 2
+Round 2 ended with elimination. The winning team is ZETA DIVISION.
+The current score is ZETA DIVISION 2 - 0 DetonatioN FocusMe.
+SugarZ3ro killed SSeeS  in round 3
+neth killed Yuran  in round 3
+neth killed SugarZ3ro  in round 3
+hiroronn killed Medusa  in round 3
+Meiy killed Dep  in round 3
+Laz killed Meiy  in round 3
+Laz killed neth  in round 3
+Laz killed Anthem  in round 3
+Round 3 ended with elimination. The winning team is ZETA DIVISION.
+The current score is ZETA DIVISION 3 - 0 DetonatioN FocusMe.
+Meiy killed SugarZ3ro  in round 4
+Medusa killed Laz  in round 4
+Meiy killed hiroronn  in round 4
+SSeeS killed Yuran  in round 4
+Dep killed SSeeS  in round 4
+Dep killed neth  in round 4
+Meiy killed Dep  in round 4
+Round 4 ended with elimination. The winning team is DetonatioN FocusMe.
+The current score is ZETA DIVISION 3 - 1 DetonatioN FocusMe.
+Meiy killed Laz  in round 5
+hiroronn killed Medusa  in round 5
+Anthem killed Yuran  in round 5
+SugarZ3ro killed Anthem  in round 5
+neth killed Dep  in round 5
+SSeeS killed hiroronn  in round 5
+SugarZ3ro killed neth  in round 5
+Meiy killed SugarZ3ro  in round 5
+Round 5 ended with spike_defuse. The winning team is DetonatioN FocusMe.
+The current score is ZETA DIVISION 3 - 2 DetonatioN FocusMe.
+SSeeS killed Dep  in round 6
+Medusa killed Laz  in round 6
+Medusa killed SugarZ3ro  in round 6
+Medusa killed Yuran  in round 6
+hiroronn killed Medusa  in round 6
+Meiy killed hiroronn  in round 6
+Round 6 ended with elimination. The winning team is DetonatioN FocusMe.
+The current score is ZETA DIVISION 3 - 3 DetonatioN FocusMe.
+Laz killed neth  in round 7
+Laz killed Anthem  in round 7
+Medusa killed Dep  in round 7
+SSeeS killed Yuran  in round 7
+Meiy killed Laz  in round 7
+hiroronn killed SSeeS  in round 7
+hiroronn killed Meiy  in round 7
+Round 7 ended with time_expired. The winning team is DetonatioN FocusMe.
+The current score is ZETA DIVISION 3 - 4 DetonatioN FocusMe.
+Meiy killed hiroronn  in round 8
+Meiy killed Dep  in round 8
+Meiy killed Laz  in round 8
+SugarZ3ro killed Meiy  in round 8
+SSeeS killed Yuran  in round 8
+SugarZ3ro killed neth  in round 8
+SugarZ3ro killed Medusa  in round 8
+SugarZ3ro killed Anthem  in round 8
+SSeeS killed SugarZ3ro  in round 8
+Round 8 ended with detonate. The winning team is ZETA DIVISION.
+The current score is ZETA DIVISION 4 - 4 DetonatioN FocusMe.
+SSeeS killed SSeeS  in round 9
+Meiy killed SugarZ3ro  in round 9
+Meiy killed Laz  in round 9
+hiroronn killed Medusa  in round 9
+neth killed hiroronn  in round 9
+SSeeS killed Dep  in round 9
+Yuran killed Anthem  in round 9
+Yuran killed Meiy  in round 9
+Yuran killed SSeeS  in round 9
+neth killed Yuran  in round 9
+Round 9 ended with spike_defuse. The winning team is DetonatioN FocusMe.
+The current score is ZETA DIVISION 4 - 5 DetonatioN FocusMe.
+Laz killed Anthem  in round 10
+Medusa killed Laz  in round 10
+Medusa killed Yuran  in round 10
+SugarZ3ro killed Medusa  in round 10
+Meiy killed hiroronn  in round 10
+Dep killed neth  in round 10
+Meiy killed Dep  in round 10
+SugarZ3ro killed Meiy  in round 10
+SugarZ3ro killed SSeeS  in round 10
+Round 10 ended with elimination. The winning team is ZETA DIVISION.
+The current score is ZETA DIVISION 5 - 5 DetonatioN FocusMe.
+Dep killed Medusa  in round 11
+Meiy killed Laz  in round 11
+hiroronn killed Anthem  in round 11
+Dep killed neth  in round 11
+SSeeS killed SugarZ3ro  in round 11
+Dep killed SSeeS  in round 11
+Round 11 ended with detonate. The winning team is ZETA DIVISION.
+The current score is ZETA DIVISION 6 - 5 DetonatioN FocusMe.
+Meiy killed SugarZ3ro  in round 12
+hiroronn killed Meiy  in round 12
+Anthem killed Laz  in round 12
+SSeeS killed Yuran  in round 12
+SSeeS killed Dep  in round 12
+SSeeS killed hiroronn  in round 12
+Round 12 ended with elimination. The winning team is DetonatioN FocusMe.
+The current score is ZETA DIVISION 6 - 6 DetonatioN FocusMe.
+hiroronn killed Meiy  in round 13
+hiroronn killed neth  in round 13
+Medusa killed hiroronn  in round 13
+Dep killed Anthem  in round 13
+Yuran killed SSeeS  in round 13
+SugarZ3ro killed Medusa  in round 13
+Round 13 ended with elimination. The winning team is ZETA DIVISION.
+The current score is ZETA DIVISION 7 - 6 DetonatioN FocusMe.
+Yuran killed Meiy  in round 14
+Yuran killed SSeeS  in round 14
+neth killed Yuran  in round 14
+Dep killed Medusa  in round 14
+Dep killed neth  in round 14
+Dep killed Anthem  in round 14
+Round 14 ended with elimination. The winning team is ZETA DIVISION.
+The current score is ZETA DIVISION 8 - 6 DetonatioN FocusMe.
+Dep killed Anthem  in round 15
+neth killed Dep  in round 15
+Medusa killed Yuran  in round 15
+SSeeS killed SugarZ3ro  in round 15
+hiroronn killed SSeeS  in round 15
+Medusa killed Laz  in round 15
+Meiy killed hiroronn  in round 15
+Round 15 ended with elimination. The winning team is DetonatioN FocusMe.
+The current score is ZETA DIVISION 8 - 7 DetonatioN FocusMe.
+Medusa killed Laz  in round 16
+Meiy killed hiroronn  in round 16
+Medusa killed Yuran  in round 16
+Anthem killed Dep  in round 16
+Medusa killed SugarZ3ro  in round 16
+Round 16 ended with elimination. The winning team is DetonatioN FocusMe.
+The current score is ZETA DIVISION 8 - 8 DetonatioN FocusMe.
+Medusa killed Dep  in round 17
+Laz killed SSeeS  in round 17
+Anthem killed Laz  in round 17
+Anthem killed SugarZ3ro  in round 17
+hiroronn killed Meiy  in round 17
+Yuran killed Anthem  in round 17
+hiroronn killed neth  in round 17
+Medusa killed hiroronn  in round 17
+Medusa killed Yuran  in round 17
+Round 17 ended with elimination. The winning team is DetonatioN FocusMe.
+The current score is ZETA DIVISION 8 - 9 DetonatioN FocusMe.
+Meiy killed SugarZ3ro  in round 18
+Meiy killed Dep  in round 18
+Medusa killed Yuran  in round 18
+Laz killed Medusa  in round 18
+Round 18 ended with detonate. The winning team is DetonatioN FocusMe.
+The current score is ZETA DIVISION 8 - 10 DetonatioN FocusMe.
+Meiy killed hiroronn  in round 19
+Anthem killed Yuran  in round 19
+SugarZ3ro killed Anthem  in round 19
+Dep killed Meiy  in round 19
+neth killed SugarZ3ro  in round 19
+Medusa killed Laz  in round 19
+Medusa killed Dep  in round 19
+Round 19 ended with elimination. The winning team is DetonatioN FocusMe.
+The current score is ZETA DIVISION 8 - 11 DetonatioN FocusMe.
+Meiy killed Laz  in round 20
+Yuran killed Medusa  in round 20
+Yuran killed Meiy  in round 20
+Yuran killed neth  in round 20
+Dep killed Anthem  in round 20
+SSeeS killed Dep  in round 20
+Yuran killed SSeeS  in round 20
+Round 20 ended with elimination. The winning team is ZETA DIVISION.
+The current score is ZETA DIVISION 9 - 11 DetonatioN FocusMe.
+Meiy killed Dep  in round 21
+Laz killed SSeeS  in round 21
+Yuran killed Meiy  in round 21
+hiroronn killed Medusa  in round 21
+neth killed Laz  in round 21
+SugarZ3ro killed neth  in round 21
+Anthem killed Yuran  in round 21
+hiroronn killed Anthem  in round 21
+Round 21 ended with elimination. The winning team is ZETA DIVISION.
+The current score is ZETA DIVISION 10 - 11 DetonatioN FocusMe.
+Meiy killed Yuran  in round 22
+SSeeS killed Dep  in round 22
+SugarZ3ro killed Meiy  in round 22
+neth killed SugarZ3ro  in round 22
+Round 22 ended with detonate. The winning team is DetonatioN FocusMe.
+The current score is ZETA DIVISION 10 - 12 DetonatioN FocusMe.
+Meiy killed Laz  in round 23
+neth killed Dep  in round 23
+Meiy killed hiroronn  in round 23
+neth killed SugarZ3ro  in round 23
+Yuran killed neth  in round 23
+SSeeS killed Yuran  in round 23
+Round 23 ended with elimination. The winning team is DetonatioN FocusMe.
+The current score is ZETA DIVISION 10 - 13 DetonatioN FocusMe.
+Game ended with winning team: DetonatioN FocusMe at 2024-06-23T13:05:52Z
+
+--- Player Stats ---
+SSeeS: Team=DetonatioN FocusMe, Kills=16, Deaths=15, Assists=10, KDA=1.73, First Kills=2, First Deaths=2
+Meiy: Team=DetonatioN FocusMe, Kills=32, Deaths=15, Assists=3, KDA=2.33, First Kills=11, First Deaths=2
+Anthem: Team=DetonatioN FocusMe, Kills=8, Deaths=16, Assists=6, KDA=0.88, First Kills=0, First Deaths=2
+Medusa: Team=DetonatioN FocusMe, Kills=20, Deaths=14, Assists=4, KDA=1.71, First Kills=3, First Deaths=1
+neth: Team=DetonatioN FocusMe, Kills=12, Deaths=15, Assists=21, KDA=2.2, First Kills=0, First Deaths=1
+Dep: Team=ZETA DIVISION, Kills=18, Deaths=19, Assists=7, KDA=1.32, First Kills=2, First Deaths=3
+Yuran: Team=ZETA DIVISION, Kills=14, Deaths=19, Assists=14, KDA=1.47, First Kills=1, First Deaths=2
+SugarZ3ro: Team=ZETA DIVISION, Kills=15, Deaths=17, Assists=10, KDA=1.47, First Kills=1, First Deaths=3
+hiroronn: Team=ZETA DIVISION, Kills=15, Deaths=15, Assists=4, KDA=1.27, First Kills=1, First Deaths=3
+Laz: Team=ZETA DIVISION, Kills=12, Deaths=17, Assists=1, KDA=0.76, First Kills=2, First Deaths=4

@@ -1,0 +1,257 @@
+Team 1: LOUD
+Team 2: FURIA
+Participating Players:
+Player 1: havoc
+Player 2: mwzera
+Player 3: Nozwer
+Player 4: xandeco
+Player 5: Khalil
+Player 6: Less
+Player 7: cauanzin
+Player 8: Saadhak
+Player 9: tuyz
+Player 10: pANcada
+Winning Team: FURIA
+Score: LOUD 10 - 13 FURIA
+Tournament Name: vct americas stage 2 2024
+Game Start Time: 2024-07-03T00:20:29Z
+Game End Time: 2024-07-03T01:13:33Z
+Rounds ended by ELIMINATION count: 14
+Rounds ended by DEFUSE count: 9
+Rounds ended by DETONATE count: 0
+SPIKE PLANTED count: 9
+platformGameId: val:394cc5b9-4d4b-4d4b-adb5-295ea1450ed0
+
+--- Events ---
+Game started at 2024-07-03T00:20:29Z
+pANcada killed mwzera  in round 1
+cauanzin killed xandeco  in round 1
+cauanzin killed Khalil  in round 1
+pANcada killed Nozwer  in round 1
+pANcada killed havoc  in round 1
+Round 1 ended with elimination. The winning team is LOUD.
+The current score is LOUD 1 - 0 FURIA.
+pANcada killed havoc  in round 2
+pANcada killed xandeco  in round 2
+mwzera killed pANcada  in round 2
+mwzera killed tuyz  in round 2
+mwzera killed Saadhak  in round 2
+Less killed mwzera  in round 2
+cauanzin killed Nozwer  in round 2
+cauanzin killed Khalil  in round 2
+Round 2 ended with elimination. The winning team is LOUD.
+The current score is LOUD 2 - 0 FURIA.
+havoc killed pANcada  in round 3
+havoc killed cauanzin  in round 3
+Saadhak killed mwzera  in round 3
+Less killed Khalil  in round 3
+Nozwer killed Less  in round 3
+Nozwer killed tuyz  in round 3
+Saadhak killed xandeco  in round 3
+Nozwer killed Saadhak  in round 3
+Round 3 ended with spike_defuse. The winning team is FURIA.
+The current score is LOUD 2 - 1 FURIA.
+Nozwer killed tuyz  in round 4
+pANcada killed Nozwer  in round 4
+xandeco killed cauanzin  in round 4
+havoc killed pANcada  in round 4
+Saadhak killed havoc  in round 4
+mwzera killed Saadhak  in round 4
+Less killed xandeco  in round 4
+Less killed mwzera  in round 4
+Khalil killed Less  in round 4
+Round 4 ended with spike_defuse. The winning team is FURIA.
+The current score is LOUD 2 - 2 FURIA.
+mwzera killed Less  in round 5
+havoc killed tuyz  in round 5
+Nozwer killed Saadhak  in round 5
+cauanzin killed Nozwer  in round 5
+cauanzin killed havoc  in round 5
+pANcada killed xandeco  in round 5
+mwzera killed cauanzin  in round 5
+pANcada killed Khalil  in round 5
+pANcada killed mwzera  in round 5
+Round 5 ended with elimination. The winning team is LOUD.
+The current score is LOUD 3 - 2 FURIA.
+Less killed xandeco  in round 6
+Less killed Nozwer  in round 6
+mwzera killed Saadhak  in round 6
+mwzera killed pANcada  in round 6
+Less killed mwzera  in round 6
+havoc killed Less  in round 6
+cauanzin killed havoc  in round 6
+cauanzin killed Khalil  in round 6
+Round 6 ended with elimination. The winning team is LOUD.
+The current score is LOUD 4 - 2 FURIA.
+mwzera killed tuyz  in round 7
+Nozwer killed Saadhak  in round 7
+Khalil killed cauanzin  in round 7
+xandeco killed Less  in round 7
+Khalil killed pANcada  in round 7
+Round 7 ended with elimination. The winning team is FURIA.
+The current score is LOUD 4 - 3 FURIA.
+xandeco killed Saadhak  in round 8
+xandeco killed cauanzin  in round 8
+mwzera killed Less  in round 8
+tuyz killed havoc  in round 8
+pANcada killed Nozwer  in round 8
+tuyz killed xandeco  in round 8
+tuyz killed Khalil  in round 8
+tuyz killed mwzera  in round 8
+Round 8 ended with elimination. The winning team is LOUD.
+The current score is LOUD 5 - 3 FURIA.
+havoc killed cauanzin  in round 9
+xandeco killed pANcada  in round 9
+Nozwer killed tuyz  in round 9
+havoc killed Saadhak  in round 9
+Less killed mwzera  in round 9
+havoc killed Less  in round 9
+Round 9 ended with spike_defuse. The winning team is FURIA.
+The current score is LOUD 5 - 4 FURIA.
+havoc killed cauanzin  in round 10
+pANcada killed havoc  in round 10
+Khalil killed pANcada  in round 10
+Nozwer killed tuyz  in round 10
+Saadhak killed Nozwer  in round 10
+Saadhak killed mwzera  in round 10
+xandeco killed Saadhak  in round 10
+xandeco killed Less  in round 10
+Round 10 ended with spike_defuse. The winning team is FURIA.
+The current score is LOUD 5 - 5 FURIA.
+Less killed xandeco  in round 11
+havoc killed cauanzin  in round 11
+havoc killed Less  in round 11
+pANcada killed mwzera  in round 11
+havoc killed pANcada  in round 11
+havoc killed Saadhak  in round 11
+tuyz killed Nozwer  in round 11
+Khalil killed tuyz  in round 11
+Round 11 ended with spike_defuse. The winning team is FURIA.
+The current score is LOUD 5 - 6 FURIA.
+Khalil killed Saadhak  in round 12
+cauanzin killed Khalil  in round 12
+havoc killed cauanzin  in round 12
+Nozwer killed Less  in round 12
+pANcada killed havoc  in round 12
+tuyz killed mwzera  in round 12
+Round 12 ended with spike_defuse. The winning team is FURIA.
+The current score is LOUD 5 - 7 FURIA.
+xandeco killed tuyz  in round 13
+Nozwer killed pANcada  in round 13
+xandeco killed Saadhak  in round 13
+cauanzin killed mwzera  in round 13
+xandeco killed cauanzin  in round 13
+xandeco killed tuyz  in round 13
+Less killed xandeco  in round 13
+pANcada killed Nozwer  in round 13
+Khalil killed pANcada  in round 13
+havoc killed Less  in round 13
+Round 13 ended with elimination. The winning team is FURIA.
+The current score is LOUD 5 - 8 FURIA.
+mwzera killed tuyz  in round 14
+Less killed mwzera  in round 14
+Nozwer killed Less  in round 14
+xandeco killed cauanzin  in round 14
+Nozwer killed Saadhak  in round 14
+Nozwer killed pANcada  in round 14
+Round 14 ended with elimination. The winning team is FURIA.
+The current score is LOUD 5 - 9 FURIA.
+Saadhak killed havoc  in round 15
+Saadhak killed mwzera  in round 15
+xandeco killed Saadhak  in round 15
+Khalil killed pANcada  in round 15
+Less killed mwzera  in round 15
+Nozwer killed cauanzin  in round 15
+tuyz killed Nozwer  in round 15
+xandeco killed Less  in round 15
+xandeco killed tuyz  in round 15
+Round 15 ended with elimination. The winning team is FURIA.
+The current score is LOUD 5 - 10 FURIA.
+Less killed havoc  in round 16
+mwzera killed tuyz  in round 16
+Less killed mwzera  in round 16
+cauanzin killed xandeco  in round 16
+Khalil killed Less  in round 16
+Khalil killed Saadhak  in round 16
+Nozwer killed pANcada  in round 16
+cauanzin killed Nozwer  in round 16
+cauanzin killed Khalil  in round 16
+Round 16 ended with spike_defuse. The winning team is LOUD.
+The current score is LOUD 6 - 10 FURIA.
+cauanzin killed xandeco  in round 17
+havoc killed Less  in round 17
+Nozwer killed pANcada  in round 17
+tuyz killed havoc  in round 17
+havoc killed tuyz  in round 17
+mwzera killed cauanzin  in round 17
+Nozwer killed Saadhak  in round 17
+Round 17 ended with elimination. The winning team is FURIA.
+The current score is LOUD 6 - 11 FURIA.
+pANcada killed mwzera  in round 18
+cauanzin killed xandeco  in round 18
+cauanzin killed Khalil  in round 18
+Nozwer killed Saadhak  in round 18
+Nozwer killed pANcada  in round 18
+havoc killed tuyz  in round 18
+cauanzin killed Nozwer  in round 18
+cauanzin killed havoc  in round 18
+Round 18 ended with spike_defuse. The winning team is LOUD.
+The current score is LOUD 7 - 11 FURIA.
+mwzera killed Saadhak  in round 19
+mwzera killed cauanzin  in round 19
+Less killed mwzera  in round 19
+pANcada killed Khalil  in round 19
+Nozwer killed tuyz  in round 19
+havoc killed Less  in round 19
+Nozwer killed pANcada  in round 19
+Round 19 ended with elimination. The winning team is FURIA.
+The current score is LOUD 7 - 12 FURIA.
+havoc killed havoc  in round 20
+Nozwer killed Nozwer  in round 20
+havoc killed Less  in round 20
+Nozwer killed cauanzin  in round 20
+Saadhak killed xandeco  in round 20
+tuyz killed Khalil  in round 20
+tuyz killed mwzera  in round 20
+Saadhak killed havoc  in round 20
+pANcada killed Nozwer  in round 20
+Round 20 ended with elimination. The winning team is LOUD.
+The current score is LOUD 8 - 12 FURIA.
+tuyz killed havoc  in round 21
+cauanzin killed xandeco  in round 21
+mwzera killed Less  in round 21
+cauanzin killed Khalil  in round 21
+cauanzin killed mwzera  in round 21
+pANcada killed Nozwer  in round 21
+Round 21 ended with spike_defuse. The winning team is LOUD.
+The current score is LOUD 9 - 12 FURIA.
+pANcada killed mwzera  in round 22
+cauanzin killed havoc  in round 22
+Less killed Khalil  in round 22
+cauanzin killed Nozwer  in round 22
+Less killed xandeco  in round 22
+Round 22 ended with elimination. The winning team is LOUD.
+The current score is LOUD 10 - 12 FURIA.
+Less killed xandeco  in round 23
+havoc killed Saadhak  in round 23
+Khalil killed Less  in round 23
+pANcada killed Nozwer  in round 23
+Khalil killed pANcada  in round 23
+cauanzin killed Khalil  in round 23
+havoc killed cauanzin  in round 23
+mwzera killed tuyz  in round 23
+Round 23 ended with elimination. The winning team is FURIA.
+The current score is LOUD 10 - 13 FURIA.
+Game ended with winning team: FURIA at 2024-07-03T01:13:33Z
+
+--- Player Stats ---
+havoc: Team=FURIA, Kills=23, Deaths=16, Assists=5, KDA=1.75, First Kills=4, First Deaths=5
+mwzera: Team=FURIA, Kills=17, Deaths=21, Assists=3, KDA=0.95, First Kills=4, First Deaths=3
+Nozwer: Team=FURIA, Kills=23, Deaths=17, Assists=8, KDA=1.82, First Kills=1, First Deaths=0
+xandeco: Team=FURIA, Kills=15, Deaths=16, Assists=8, KDA=1.44, First Kills=2, First Deaths=4
+Khalil: Team=FURIA, Kills=12, Deaths=14, Assists=8, KDA=1.43, First Kills=1, First Deaths=0
+Less: Team=LOUD, Kills=18, Deaths=19, Assists=6, KDA=1.26, First Kills=4, First Deaths=1
+cauanzin: Team=LOUD, Kills=24, Deaths=16, Assists=3, KDA=1.69, First Kills=1, First Deaths=2
+Saadhak: Team=LOUD, Kills=9, Deaths=19, Assists=12, KDA=1.11, First Kills=1, First Deaths=3
+tuyz: Team=LOUD, Kills=11, Deaths=17, Assists=5, KDA=0.94, First Kills=1, First Deaths=4
+pANcada: Team=LOUD, Kills=20, Deaths=17, Assists=4, KDA=1.41, First Kills=4, First Deaths=1

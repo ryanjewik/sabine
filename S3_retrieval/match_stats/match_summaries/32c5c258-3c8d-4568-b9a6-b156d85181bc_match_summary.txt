@@ -1,0 +1,255 @@
+Team 1: KOI
+Team 2: Giants
+Participating Players:
+Player 1: Fit1nho
+Player 2: nukkye
+Player 3: rhyme
+Player 4: Cloud
+Player 5: hoody
+Player 6: Trexx
+Player 7: starxo
+Player 8: koldamenta
+Player 9: Sheydos
+Player 10: Wolfen
+Winning Team: Giants
+Score: KOI 11 - 13 Giants
+Tournament Name: vct emea 2023
+Game Start Time: 2023-04-07T19:25:12Z
+Game End Time: 2023-04-07T20:26:19Z
+Rounds ended by ELIMINATION count: 15
+Rounds ended by DEFUSE count: 3
+Rounds ended by DETONATE count: 4
+SPIKE PLANTED count: 7
+platformGameId: val:32c5c258-3c8d-4568-b9a6-b156d85181bc
+
+--- Events ---
+Game started at 2023-04-07T19:25:12Z
+nukkye killed koldamenta  in round 1
+Sheydos killed Fit1nho  in round 1
+Trexx killed Cloud  in round 1
+nukkye killed Wolfen  in round 1
+Sheydos killed rhyme  in round 1
+starxo killed nukkye  in round 1
+Trexx killed hoody  in round 1
+Round 1 ended with elimination. The winning team is KOI.
+The current score is KOI 1 - 0 Giants.
+nukkye killed starxo  in round 2
+koldamenta killed nukkye  in round 2
+rhyme killed koldamenta  in round 2
+Cloud killed Wolfen  in round 2
+Sheydos killed rhyme  in round 2
+Sheydos killed Cloud  in round 2
+Fit1nho killed Sheydos  in round 2
+hoody killed Trexx  in round 2
+Round 2 ended with elimination. The winning team is Giants.
+The current score is KOI 1 - 1 Giants.
+Sheydos killed Cloud  in round 3
+rhyme killed Wolfen  in round 3
+nukkye killed koldamenta  in round 3
+nukkye killed starxo  in round 3
+hoody killed Sheydos  in round 3
+nukkye killed Trexx  in round 3
+Round 3 ended with elimination. The winning team is Giants.
+The current score is KOI 1 - 2 Giants.
+Cloud killed Trexx  in round 4
+Sheydos killed Cloud  in round 4
+Fit1nho killed Wolfen  in round 4
+koldamenta killed nukkye  in round 4
+koldamenta killed rhyme  in round 4
+Fit1nho killed koldamenta  in round 4
+Sheydos killed hoody  in round 4
+Round 4 ended with detonate. The winning team is KOI.
+The current score is KOI 2 - 2 Giants.
+Fit1nho killed starxo  in round 5
+rhyme killed Wolfen  in round 5
+nukkye killed koldamenta  in round 5
+Trexx killed nukkye  in round 5
+rhyme killed Trexx  in round 5
+Round 5 ended with time_expired. The winning team is Giants.
+The current score is KOI 2 - 3 Giants.
+starxo killed nukkye  in round 6
+hoody killed Sheydos  in round 6
+Wolfen killed rhyme  in round 6
+Fit1nho killed Wolfen  in round 6
+Cloud killed starxo  in round 6
+Cloud killed koldamenta  in round 6
+Trexx killed Cloud  in round 6
+Trexx killed hoody  in round 6
+Trexx killed Fit1nho  in round 6
+Round 6 ended with elimination. The winning team is KOI.
+The current score is KOI 3 - 3 Giants.
+nukkye killed Wolfen  in round 7
+nukkye killed koldamenta  in round 7
+nukkye killed Trexx  in round 7
+starxo killed nukkye  in round 7
+Sheydos killed rhyme  in round 7
+Cloud killed starxo  in round 7
+hoody killed Sheydos  in round 7
+Round 7 ended with elimination. The winning team is Giants.
+The current score is KOI 3 - 4 Giants.
+rhyme killed Sheydos  in round 8
+koldamenta killed rhyme  in round 8
+hoody killed koldamenta  in round 8
+Fit1nho killed Wolfen  in round 8
+hoody killed Trexx  in round 8
+Fit1nho killed starxo  in round 8
+Round 8 ended with elimination. The winning team is Giants.
+The current score is KOI 3 - 5 Giants.
+Fit1nho killed Wolfen  in round 9
+Trexx killed Fit1nho  in round 9
+starxo killed rhyme  in round 9
+starxo killed Cloud  in round 9
+Trexx killed nukkye  in round 9
+hoody killed Sheydos  in round 9
+hoody killed Trexx  in round 9
+Round 9 ended with detonate. The winning team is KOI.
+The current score is KOI 4 - 5 Giants.
+Cloud killed Wolfen  in round 10
+hoody killed koldamenta  in round 10
+Cloud killed starxo  in round 10
+Cloud killed Trexx  in round 10
+Round 10 ended with time_expired. The winning team is Giants.
+The current score is KOI 4 - 6 Giants.
+Wolfen killed nukkye  in round 11
+rhyme killed Wolfen  in round 11
+hoody killed Sheydos  in round 11
+hoody killed starxo  in round 11
+koldamenta killed hoody  in round 11
+Cloud killed koldamenta  in round 11
+Fit1nho killed Trexx  in round 11
+Round 11 ended with elimination. The winning team is Giants.
+The current score is KOI 4 - 7 Giants.
+Fit1nho killed Wolfen  in round 12
+starxo killed Fit1nho  in round 12
+Cloud killed Trexx  in round 12
+Cloud killed starxo  in round 12
+Sheydos killed Cloud  in round 12
+hoody killed Sheydos  in round 12
+koldamenta killed nukkye  in round 12
+rhyme killed koldamenta  in round 12
+Round 12 ended with elimination. The winning team is Giants.
+The current score is KOI 4 - 8 Giants.
+starxo killed nukkye  in round 13
+Fit1nho killed starxo  in round 13
+Fit1nho killed Sheydos  in round 13
+Fit1nho killed Wolfen  in round 13
+Cloud killed koldamenta  in round 13
+Trexx killed hoody  in round 13
+Cloud killed Trexx  in round 13
+Round 13 ended with elimination. The winning team is Giants.
+The current score is KOI 4 - 9 Giants.
+koldamenta killed rhyme  in round 14
+Sheydos killed Cloud  in round 14
+Fit1nho killed Sheydos  in round 14
+starxo killed hoody  in round 14
+Fit1nho killed starxo  in round 14
+nukkye killed koldamenta  in round 14
+Wolfen killed Fit1nho  in round 14
+Trexx killed nukkye  in round 14
+Round 14 ended with elimination. The winning team is KOI.
+The current score is KOI 5 - 9 Giants.
+koldamenta killed rhyme  in round 15
+hoody killed Trexx  in round 15
+hoody killed koldamenta  in round 15
+Wolfen killed hoody  in round 15
+Cloud killed Sheydos  in round 15
+nukkye killed Wolfen  in round 15
+Cloud killed starxo  in round 15
+Round 15 ended with elimination. The winning team is Giants.
+The current score is KOI 5 - 10 Giants.
+starxo killed Fit1nho  in round 16
+hoody killed Wolfen  in round 16
+Cloud killed starxo  in round 16
+hoody killed Sheydos  in round 16
+Trexx killed rhyme  in round 16
+Round 16 ended with detonate. The winning team is Giants.
+The current score is KOI 5 - 11 Giants.
+Cloud killed Cloud  in round 17
+hoody killed koldamenta  in round 17
+Fit1nho killed Wolfen  in round 17
+Sheydos killed Fit1nho  in round 17
+Cloud killed Trexx  in round 17
+Sheydos killed nukkye  in round 17
+rhyme killed starxo  in round 17
+Round 17 ended with detonate. The winning team is Giants.
+The current score is KOI 5 - 12 Giants.
+Trexx killed Fit1nho  in round 18
+Wolfen killed Cloud  in round 18
+rhyme killed Wolfen  in round 18
+koldamenta killed nukkye  in round 18
+rhyme killed koldamenta  in round 18
+starxo killed rhyme  in round 18
+hoody killed Trexx  in round 18
+starxo killed hoody  in round 18
+Round 18 ended with elimination. The winning team is KOI.
+The current score is KOI 6 - 12 Giants.
+Sheydos killed hoody  in round 19
+Trexx killed Fit1nho  in round 19
+Sheydos killed rhyme  in round 19
+rhyme killed Trexx  in round 19
+Cloud killed Wolfen  in round 19
+Cloud killed Sheydos  in round 19
+nukkye killed starxo  in round 19
+koldamenta killed Cloud  in round 19
+koldamenta killed nukkye  in round 19
+Round 19 ended with elimination. The winning team is KOI.
+The current score is KOI 7 - 12 Giants.
+nukkye killed Wolfen  in round 20
+Trexx killed nukkye  in round 20
+starxo killed Cloud  in round 20
+Fit1nho killed starxo  in round 20
+Sheydos killed hoody  in round 20
+Trexx killed Fit1nho  in round 20
+rhyme killed koldamenta  in round 20
+Sheydos killed rhyme  in round 20
+Round 20 ended with spike_defuse. The winning team is KOI.
+The current score is KOI 8 - 12 Giants.
+Sheydos killed Fit1nho  in round 21
+Trexx killed nukkye  in round 21
+Trexx killed Cloud  in round 21
+rhyme killed Trexx  in round 21
+hoody killed Sheydos  in round 21
+hoody killed koldamenta  in round 21
+starxo killed hoody  in round 21
+rhyme killed Wolfen  in round 21
+starxo killed rhyme  in round 21
+Round 21 ended with spike_defuse. The winning team is KOI.
+The current score is KOI 9 - 12 Giants.
+Sheydos killed Cloud  in round 22
+Fit1nho killed starxo  in round 22
+Trexx killed nukkye  in round 22
+hoody killed Sheydos  in round 22
+koldamenta killed Fit1nho  in round 22
+Trexx killed rhyme  in round 22
+Round 22 ended with spike_defuse. The winning team is KOI.
+The current score is KOI 10 - 12 Giants.
+Trexx killed Fit1nho  in round 23
+nukkye killed Trexx  in round 23
+Sheydos killed Cloud  in round 23
+Sheydos killed hoody  in round 23
+rhyme killed Sheydos  in round 23
+nukkye killed koldamenta  in round 23
+starxo killed nukkye  in round 23
+starxo killed rhyme  in round 23
+Round 23 ended with elimination. The winning team is KOI.
+The current score is KOI 11 - 12 Giants.
+nukkye killed Wolfen  in round 24
+rhyme killed Sheydos  in round 24
+rhyme killed Trexx  in round 24
+Fit1nho killed koldamenta  in round 24
+hoody killed starxo  in round 24
+Round 24 ended with elimination. The winning team is Giants.
+The current score is KOI 11 - 13 Giants.
+Game ended with winning team: Giants at 2023-04-07T20:26:19Z
+
+--- Player Stats ---
+Fit1nho: Team=Giants, Kills=19, Deaths=13, Assists=5, KDA=1.85, First Kills=3, First Deaths=4
+nukkye: Team=Giants, Kills=17, Deaths=18, Assists=19, KDA=2.0, First Kills=5, First Deaths=3
+rhyme: Team=Giants, Kills=17, Deaths=16, Assists=7, KDA=1.5, First Kills=1, First Deaths=2
+Cloud: Team=Giants, Kills=20, Deaths=15, Assists=5, KDA=1.67, First Kills=3, First Deaths=3
+hoody: Team=Giants, Kills=22, Deaths=12, Assists=6, KDA=2.33, First Kills=0, First Deaths=1
+Trexx: Team=KOI, Kills=20, Deaths=18, Assists=14, KDA=1.89, First Kills=2, First Deaths=1
+starxo: Team=KOI, Kills=16, Deaths=18, Assists=14, KDA=1.67, First Kills=3, First Deaths=2
+koldamenta: Team=KOI, Kills=12, Deaths=20, Assists=10, KDA=1.1, First Kills=2, First Deaths=1
+Sheydos: Team=KOI, Kills=20, Deaths=17, Assists=3, KDA=1.35, First Kills=4, First Deaths=1
+Wolfen: Team=KOI, Kills=5, Deaths=21, Assists=3, KDA=0.38, First Kills=1, First Deaths=6

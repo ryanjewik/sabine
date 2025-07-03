@@ -1,0 +1,225 @@
+Team 1: MIBR
+Team 2: LOUD
+Participating Players:
+Player 1: Less
+Player 2: cauanzin
+Player 3: Saadhak
+Player 4: tuyz
+Player 5: pANcada
+Player 6: Palla
+Player 7: Rich 
+Player 8: mazin
+Player 9: artzin
+Player 10: liazzi
+Winning Team: LOUD
+Score: MIBR 7 - 13 LOUD
+Tournament Name: vct americas stage 2 2024
+Game Start Time: 2024-06-30T20:53:12Z
+Game End Time: 2024-06-30T21:52:22Z
+Rounds ended by ELIMINATION count: 10
+Rounds ended by DEFUSE count: 7
+Rounds ended by DETONATE count: 2
+SPIKE PLANTED count: 9
+platformGameId: val:188baa96-9abd-40c7-97b6-0df6a20f41a3
+
+--- Events ---
+Game started at 2024-06-30T20:53:12Z
+cauanzin killed Palla  in round 1
+Saadhak killed artzin  in round 1
+pANcada killed liazzi  in round 1
+Less killed mazin  in round 1
+cauanzin killed Rich   in round 1
+Round 1 ended with spike_defuse. The winning team is LOUD.
+The current score is MIBR 0 - 1 LOUD.
+cauanzin killed liazzi  in round 2
+tuyz killed Rich   in round 2
+Saadhak killed artzin  in round 2
+tuyz killed mazin  in round 2
+tuyz killed Palla  in round 2
+Round 2 ended with elimination. The winning team is LOUD.
+The current score is MIBR 0 - 2 LOUD.
+Saadhak killed Rich   in round 3
+Saadhak killed liazzi  in round 3
+Palla killed Saadhak  in round 3
+Palla killed pANcada  in round 3
+tuyz killed Palla  in round 3
+Less killed artzin  in round 3
+Round 3 ended with time_expired. The winning team is LOUD.
+The current score is MIBR 0 - 3 LOUD.
+tuyz killed Rich   in round 4
+tuyz killed Palla  in round 4
+tuyz killed mazin  in round 4
+tuyz killed liazzi  in round 4
+tuyz killed artzin  in round 4
+Round 4 ended with elimination. The winning team is LOUD.
+The current score is MIBR 0 - 4 LOUD.
+Less killed artzin  in round 5
+Palla killed Less  in round 5
+Rich  killed Saadhak  in round 5
+tuyz killed Rich   in round 5
+tuyz killed Palla  in round 5
+liazzi killed tuyz  in round 5
+liazzi killed pANcada  in round 5
+mazin killed cauanzin  in round 5
+Round 5 ended with elimination. The winning team is MIBR.
+The current score is MIBR 1 - 4 LOUD.
+Rich  killed cauanzin  in round 6
+Saadhak killed Palla  in round 6
+pANcada killed Rich   in round 6
+pANcada killed liazzi  in round 6
+Less killed mazin  in round 6
+artzin killed pANcada  in round 6
+Round 6 ended with spike_defuse. The winning team is LOUD.
+The current score is MIBR 1 - 5 LOUD.
+tuyz killed Palla  in round 7
+tuyz killed artzin  in round 7
+liazzi killed tuyz  in round 7
+cauanzin killed liazzi  in round 7
+mazin killed cauanzin  in round 7
+mazin killed Less  in round 7
+Saadhak killed mazin  in round 7
+Saadhak killed Rich   in round 7
+Round 7 ended with spike_defuse. The winning team is LOUD.
+The current score is MIBR 1 - 6 LOUD.
+pANcada killed Palla  in round 8
+Rich  killed pANcada  in round 8
+tuyz killed Rich   in round 8
+Saadhak killed liazzi  in round 8
+mazin killed Saadhak  in round 8
+cauanzin killed artzin  in round 8
+mazin killed tuyz  in round 8
+cauanzin killed mazin  in round 8
+Round 8 ended with spike_defuse. The winning team is LOUD.
+The current score is MIBR 1 - 7 LOUD.
+Less killed Palla  in round 9
+artzin killed Saadhak  in round 9
+pANcada killed artzin  in round 9
+mazin killed cauanzin  in round 9
+mazin killed pANcada  in round 9
+tuyz killed liazzi  in round 9
+Rich  killed tuyz  in round 9
+Less killed Rich   in round 9
+mazin killed Less  in round 9
+Round 9 ended with elimination. The winning team is MIBR.
+The current score is MIBR 2 - 7 LOUD.
+Palla killed pANcada  in round 10
+artzin killed cauanzin  in round 10
+Saadhak killed Palla  in round 10
+Saadhak killed artzin  in round 10
+Rich  killed Saadhak  in round 10
+Less killed Rich   in round 10
+Less killed liazzi  in round 10
+tuyz killed mazin  in round 10
+Round 10 ended with detonate. The winning team is MIBR.
+The current score is MIBR 3 - 7 LOUD.
+Less killed Palla  in round 11
+liazzi killed tuyz  in round 11
+Saadhak killed Rich   in round 11
+Less killed artzin  in round 11
+mazin killed Less  in round 11
+pANcada killed liazzi  in round 11
+cauanzin killed mazin  in round 11
+Round 11 ended with spike_defuse. The winning team is LOUD.
+The current score is MIBR 3 - 8 LOUD.
+Rich  killed tuyz  in round 12
+mazin killed Less  in round 12
+cauanzin killed Palla  in round 12
+cauanzin killed Rich   in round 12
+liazzi killed Saadhak  in round 12
+cauanzin killed artzin  in round 12
+mazin killed cauanzin  in round 12
+pANcada killed mazin  in round 12
+Round 12 ended with detonate. The winning team is MIBR.
+The current score is MIBR 4 - 8 LOUD.
+pANcada killed pANcada  in round 13
+liazzi killed liazzi  in round 13
+Saadhak killed artzin  in round 13
+mazin killed pANcada  in round 13
+cauanzin killed Palla  in round 13
+Less killed mazin  in round 13
+tuyz killed liazzi  in round 13
+Saadhak killed Rich   in round 13
+Round 13 ended with elimination. The winning team is LOUD.
+The current score is MIBR 4 - 9 LOUD.
+tuyz killed liazzi  in round 14
+pANcada killed mazin  in round 14
+artzin killed cauanzin  in round 14
+pANcada killed artzin  in round 14
+Rich  killed tuyz  in round 14
+Saadhak killed Rich   in round 14
+Palla killed Less  in round 14
+Saadhak killed Palla  in round 14
+Round 14 ended with elimination. The winning team is LOUD.
+The current score is MIBR 4 - 10 LOUD.
+Palla killed cauanzin  in round 15
+tuyz killed Palla  in round 15
+liazzi killed pANcada  in round 15
+liazzi killed Saadhak  in round 15
+artzin killed tuyz  in round 15
+Less killed Rich   in round 15
+liazzi killed Less  in round 15
+Round 15 ended with spike_defuse. The winning team is MIBR.
+The current score is MIBR 5 - 10 LOUD.
+liazzi killed tuyz  in round 16
+cauanzin killed liazzi  in round 16
+Palla killed cauanzin  in round 16
+Saadhak killed Palla  in round 16
+artzin killed Saadhak  in round 16
+Rich  killed Less  in round 16
+pANcada killed Rich   in round 16
+pANcada killed artzin  in round 16
+pANcada killed mazin  in round 16
+Round 16 ended with elimination. The winning team is LOUD.
+The current score is MIBR 5 - 11 LOUD.
+Palla killed tuyz  in round 17
+Palla killed Saadhak  in round 17
+cauanzin killed Palla  in round 17
+pANcada killed Rich   in round 17
+Less killed liazzi  in round 17
+pANcada killed artzin  in round 17
+Less killed mazin  in round 17
+Round 17 ended with elimination. The winning team is LOUD.
+The current score is MIBR 5 - 12 LOUD.
+artzin killed Saadhak  in round 18
+liazzi killed Less  in round 18
+cauanzin killed liazzi  in round 18
+Palla killed cauanzin  in round 18
+pANcada killed Palla  in round 18
+Rich  killed pANcada  in round 18
+tuyz killed Rich   in round 18
+artzin killed tuyz  in round 18
+Round 18 ended with elimination. The winning team is MIBR.
+The current score is MIBR 6 - 12 LOUD.
+Rich  killed Less  in round 19
+artzin killed tuyz  in round 19
+pANcada killed Palla  in round 19
+Rich  killed pANcada  in round 19
+Rich  killed cauanzin  in round 19
+Saadhak killed Rich   in round 19
+mazin killed Saadhak  in round 19
+Round 19 ended with spike_defuse. The winning team is MIBR.
+The current score is MIBR 7 - 12 LOUD.
+cauanzin killed Palla  in round 20
+Less killed Rich   in round 20
+mazin killed pANcada  in round 20
+liazzi killed tuyz  in round 20
+liazzi killed cauanzin  in round 20
+Less killed artzin  in round 20
+liazzi killed Less  in round 20
+Saadhak killed mazin  in round 20
+Saadhak killed liazzi  in round 20
+Round 20 ended with elimination. The winning team is LOUD.
+The current score is MIBR 7 - 13 LOUD.
+Game ended with winning team: LOUD at 2024-06-30T21:52:22Z
+
+--- Player Stats ---
+Less: Team=LOUD, Kills=16, Deaths=11, Assists=4, KDA=1.82, First Kills=3, First Deaths=1
+cauanzin: Team=LOUD, Kills=15, Deaths=12, Assists=4, KDA=1.58, First Kills=3, First Deaths=2
+Saadhak: Team=LOUD, Kills=19, Deaths=11, Assists=14, KDA=3.0, First Kills=1, First Deaths=1
+tuyz: Team=LOUD, Kills=20, Deaths=13, Assists=5, KDA=1.92, First Kills=3, First Deaths=3
+pANcada: Team=LOUD, Kills=17, Deaths=12, Assists=5, KDA=1.83, First Kills=2, First Deaths=2
+Palla: Team=MIBR, Kills=10, Deaths=20, Assists=3, KDA=0.65, First Kills=3, First Deaths=6
+Rich : Team=MIBR, Kills=12, Deaths=20, Assists=1, KDA=0.65, First Kills=3, First Deaths=2
+mazin: Team=MIBR, Kills=14, Deaths=14, Assists=3, KDA=1.21, First Kills=0, First Deaths=0
+artzin: Team=MIBR, Kills=9, Deaths=16, Assists=6, KDA=0.94, First Kills=1, First Deaths=1
+liazzi: Team=MIBR, Kills=14, Deaths=17, Assists=11, KDA=1.47, First Kills=1, First Deaths=2

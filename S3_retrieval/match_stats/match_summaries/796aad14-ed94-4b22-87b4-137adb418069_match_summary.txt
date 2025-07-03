@@ -1,0 +1,197 @@
+Team 1: Bilibili Gaming
+Team 2: KRÜ Esports
+Participating Players:
+Player 1: KeznitdeuS
+Player 2: Shyy
+Player 3: Melser
+Player 4: mta
+Player 5: heat
+Player 6: Flex1n
+Player 7: Knight 
+Player 8: nephh
+Player 9: whzy
+Player 10: yosemite
+Winning Team: KRÜ Esports
+Score: Bilibili Gaming 4 - 13 KRÜ Esports
+Tournament Name: vct champions 2024
+Game Start Time: 2024-08-08T11:15:01Z
+Game End Time: 2024-08-08T11:51:11Z
+Rounds ended by ELIMINATION count: 11
+Rounds ended by DEFUSE count: 5
+Rounds ended by DETONATE count: 1
+SPIKE PLANTED count: 6
+platformGameId: val:796aad14-ed94-4b22-87b4-137adb418069
+
+--- Events ---
+Game started at 2024-08-08T11:15:01Z
+whzy killed Melser  in round 1
+KeznitdeuS killed Knight   in round 1
+KeznitdeuS killed nephh  in round 1
+mta killed whzy  in round 1
+yosemite killed KeznitdeuS  in round 1
+Shyy killed Flex1n  in round 1
+heat killed yosemite  in round 1
+Round 1 ended with spike_defuse. The winning team is KRÜ Esports.
+The current score is Bilibili Gaming 0 - 1 KRÜ Esports.
+heat killed whzy  in round 2
+KeznitdeuS killed Knight   in round 2
+KeznitdeuS killed yosemite  in round 2
+Shyy killed nephh  in round 2
+Flex1n killed Shyy  in round 2
+mta killed Flex1n  in round 2
+Round 2 ended with elimination. The winning team is KRÜ Esports.
+The current score is Bilibili Gaming 0 - 2 KRÜ Esports.
+mta killed whzy  in round 3
+Knight  killed Shyy  in round 3
+KeznitdeuS killed nephh  in round 3
+mta killed yosemite  in round 3
+Round 3 ended with spike_defuse. The winning team is KRÜ Esports.
+The current score is Bilibili Gaming 0 - 3 KRÜ Esports.
+Knight  killed KeznitdeuS  in round 4
+heat killed whzy  in round 4
+Knight  killed heat  in round 4
+Shyy killed yosemite  in round 4
+nephh killed Melser  in round 4
+mta killed nephh  in round 4
+Flex1n killed Shyy  in round 4
+mta killed Flex1n  in round 4
+mta killed Knight   in round 4
+Round 4 ended with spike_defuse. The winning team is KRÜ Esports.
+The current score is Bilibili Gaming 0 - 4 KRÜ Esports.
+Shyy killed Flex1n  in round 5
+mta killed yosemite  in round 5
+heat killed Knight   in round 5
+Melser killed whzy  in round 5
+KeznitdeuS killed nephh  in round 5
+Round 5 ended with spike_defuse. The winning team is KRÜ Esports.
+The current score is Bilibili Gaming 0 - 5 KRÜ Esports.
+Flex1n killed KeznitdeuS  in round 6
+whzy killed mta  in round 6
+whzy killed Melser  in round 6
+Shyy killed whzy  in round 6
+heat killed Knight   in round 6
+yosemite killed heat  in round 6
+Shyy killed nephh  in round 6
+Shyy killed yosemite  in round 6
+Flex1n killed Shyy  in round 6
+Round 6 ended with elimination. The winning team is Bilibili Gaming.
+The current score is Bilibili Gaming 1 - 5 KRÜ Esports.
+mta killed Knight   in round 7
+mta killed nephh  in round 7
+whzy killed Melser  in round 7
+mta killed Flex1n  in round 7
+whzy killed heat  in round 7
+Shyy killed whzy  in round 7
+yosemite killed mta  in round 7
+Shyy killed yosemite  in round 7
+Round 7 ended with spike_defuse. The winning team is KRÜ Esports.
+The current score is Bilibili Gaming 1 - 6 KRÜ Esports.
+heat killed whzy  in round 8
+Shyy killed Knight   in round 8
+Shyy killed Flex1n  in round 8
+yosemite killed Shyy  in round 8
+Melser killed nephh  in round 8
+yosemite killed mta  in round 8
+KeznitdeuS killed yosemite  in round 8
+Round 8 ended with elimination. The winning team is KRÜ Esports.
+The current score is Bilibili Gaming 1 - 7 KRÜ Esports.
+Melser killed Flex1n  in round 9
+whzy killed Melser  in round 9
+heat killed whzy  in round 9
+heat killed yosemite  in round 9
+KeznitdeuS killed Knight   in round 9
+KeznitdeuS killed nephh  in round 9
+Round 9 ended with elimination. The winning team is KRÜ Esports.
+The current score is Bilibili Gaming 1 - 8 KRÜ Esports.
+Flex1n killed heat  in round 10
+whzy killed KeznitdeuS  in round 10
+mta killed whzy  in round 10
+Flex1n killed Melser  in round 10
+mta killed nephh  in round 10
+mta killed yosemite  in round 10
+Flex1n killed Shyy  in round 10
+mta killed Knight   in round 10
+Flex1n killed mta  in round 10
+Round 10 ended with elimination. The winning team is Bilibili Gaming.
+The current score is Bilibili Gaming 2 - 8 KRÜ Esports.
+Flex1n killed Flex1n  in round 11
+yosemite killed Melser  in round 11
+Flex1n killed KeznitdeuS  in round 11
+whzy killed Shyy  in round 11
+whzy killed heat  in round 11
+mta killed whzy  in round 11
+yosemite killed mta  in round 11
+Round 11 ended with elimination. The winning team is Bilibili Gaming.
+The current score is Bilibili Gaming 3 - 8 KRÜ Esports.
+Melser killed whzy  in round 12
+Melser killed Knight   in round 12
+Flex1n killed Melser  in round 12
+KeznitdeuS killed nephh  in round 12
+heat killed yosemite  in round 12
+Shyy killed Flex1n  in round 12
+Round 12 ended with elimination. The winning team is KRÜ Esports.
+The current score is Bilibili Gaming 3 - 9 KRÜ Esports.
+mta killed nephh  in round 13
+heat killed whzy  in round 13
+yosemite killed Shyy  in round 13
+heat killed Knight   in round 13
+KeznitdeuS killed Flex1n  in round 13
+yosemite killed mta  in round 13
+Flex1n killed Melser  in round 13
+KeznitdeuS killed yosemite  in round 13
+Round 13 ended with elimination. The winning team is KRÜ Esports.
+The current score is Bilibili Gaming 3 - 10 KRÜ Esports.
+Shyy killed Knight   in round 14
+yosemite killed Shyy  in round 14
+heat killed whzy  in round 14
+Melser killed nephh  in round 14
+KeznitdeuS killed Flex1n  in round 14
+yosemite killed KeznitdeuS  in round 14
+heat killed yosemite  in round 14
+Round 14 ended with elimination. The winning team is KRÜ Esports.
+The current score is Bilibili Gaming 3 - 11 KRÜ Esports.
+KeznitdeuS killed whzy  in round 15
+nephh killed Melser  in round 15
+mta killed nephh  in round 15
+Shyy killed yosemite  in round 15
+Flex1n killed mta  in round 15
+Flex1n killed KeznitdeuS  in round 15
+Shyy killed Flex1n  in round 15
+heat killed Knight   in round 15
+Round 15 ended with elimination. The winning team is KRÜ Esports.
+The current score is Bilibili Gaming 3 - 12 KRÜ Esports.
+Shyy killed nephh  in round 16
+whzy killed Shyy  in round 16
+whzy killed mta  in round 16
+KeznitdeuS killed whzy  in round 16
+Flex1n killed Melser  in round 16
+Knight  killed KeznitdeuS  in round 16
+heat killed yosemite  in round 16
+Flex1n killed heat  in round 16
+Round 16 ended with elimination. The winning team is Bilibili Gaming.
+The current score is Bilibili Gaming 4 - 12 KRÜ Esports.
+heat killed whzy  in round 17
+nephh killed KeznitdeuS  in round 17
+nephh killed mta  in round 17
+heat killed Knight   in round 17
+nephh killed Melser  in round 17
+Shyy killed nephh  in round 17
+yosemite killed Shyy  in round 17
+heat killed yosemite  in round 17
+Flex1n killed heat  in round 17
+Round 17 ended with detonate. The winning team is KRÜ Esports.
+The current score is Bilibili Gaming 4 - 13 KRÜ Esports.
+Flex1n killed Flex1n  in round 18
+Game ended with winning team: KRÜ Esports at 2024-08-08T11:51:11Z
+
+--- Player Stats ---
+KeznitdeuS: Team=KRÜ Esports, Kills=15, Deaths=9, Assists=3, KDA=2.0, First Kills=1, First Deaths=2
+Shyy: Team=KRÜ Esports, Kills=17, Deaths=11, Assists=3, KDA=1.82, First Kills=3, First Deaths=0
+Melser: Team=KRÜ Esports, Kills=6, Deaths=12, Assists=12, KDA=1.5, First Kills=2, First Deaths=1
+mta: Team=KRÜ Esports, Kills=18, Deaths=9, Assists=4, KDA=2.44, First Kills=3, First Deaths=0
+heat: Team=KRÜ Esports, Kills=18, Deaths=7, Assists=3, KDA=3.0, First Kills=3, First Deaths=1
+Flex1n: Team=Bilibili Gaming, Kills=18, Deaths=13, Assists=6, KDA=1.85, First Kills=4, First Deaths=4
+Knight : Team=Bilibili Gaming, Kills=4, Deaths=14, Assists=9, KDA=0.93, First Kills=1, First Deaths=2
+nephh: Team=Bilibili Gaming, Kills=5, Deaths=16, Assists=4, KDA=0.56, First Kills=0, First Deaths=2
+whzy: Team=Bilibili Gaming, Kills=11, Deaths=17, Assists=2, KDA=0.76, First Kills=1, First Deaths=6
+yosemite: Team=Bilibili Gaming, Kills=12, Deaths=16, Assists=2, KDA=0.88, First Kills=0, First Deaths=0

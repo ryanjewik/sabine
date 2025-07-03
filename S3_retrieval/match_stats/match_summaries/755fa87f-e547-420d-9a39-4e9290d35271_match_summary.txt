@@ -1,0 +1,254 @@
+Team 1: Team Vitality
+Team 2: FNATIC
+Participating Players:
+Player 1: Chronicle
+Player 2: Derke
+Player 3: Boaster
+Player 4: Alfajer
+Player 5: Hiro  
+Player 6: Kicks
+Player 7: runneR
+Player 8: Sayf
+Player 9: Trexx
+Player 10: ceNder
+Winning Team: FNATIC
+Score: Team Vitality 11 - 13 FNATIC
+Tournament Name: vct emea stage 2 2024
+Game Start Time: 2024-07-17T15:44:07Z
+Game End Time: 2024-07-17T16:58:52Z
+Rounds ended by ELIMINATION count: 15
+Rounds ended by DEFUSE count: 3
+Rounds ended by DETONATE count: 3
+SPIKE PLANTED count: 6
+platformGameId: val:755fa87f-e547-420d-9a39-4e9290d35271
+
+--- Events ---
+Game started at 2024-07-17T15:44:07Z
+ceNder killed Alfajer  in round 1
+Derke killed Kicks  in round 1
+ceNder killed Chronicle  in round 1
+Derke killed Trexx  in round 1
+ceNder killed Hiro    in round 1
+Derke killed ceNder  in round 1
+runneR killed Boaster  in round 1
+Sayf killed Derke  in round 1
+Round 1 ended with elimination. The winning team is Team Vitality.
+The current score is Team Vitality 1 - 0 FNATIC.
+Derke killed ceNder  in round 2
+Sayf killed Derke  in round 2
+Trexx killed Boaster  in round 2
+Hiro   killed Trexx  in round 2
+Kicks killed Hiro    in round 2
+Sayf killed Chronicle  in round 2
+runneR killed Alfajer  in round 2
+Round 2 ended with elimination. The winning team is Team Vitality.
+The current score is Team Vitality 2 - 0 FNATIC.
+runneR killed Alfajer  in round 3
+Kicks killed Derke  in round 3
+Hiro   killed Sayf  in round 3
+Trexx killed Boaster  in round 3
+Hiro   killed Trexx  in round 3
+ceNder killed Hiro    in round 3
+Round 3 ended with detonate. The winning team is Team Vitality.
+The current score is Team Vitality 3 - 0 FNATIC.
+Chronicle killed runneR  in round 4
+Hiro   killed Sayf  in round 4
+Hiro   killed runneR  in round 4
+ceNder killed Hiro    in round 4
+ceNder killed Boaster  in round 4
+Kicks killed Chronicle  in round 4
+Derke killed Kicks  in round 4
+Trexx killed Alfajer  in round 4
+ceNder killed Derke  in round 4
+Round 4 ended with elimination. The winning team is Team Vitality.
+The current score is Team Vitality 4 - 0 FNATIC.
+Boaster killed ceNder  in round 5
+runneR killed Derke  in round 5
+Trexx killed Boaster  in round 5
+Sayf killed Hiro    in round 5
+Alfajer killed Kicks  in round 5
+Alfajer killed Sayf  in round 5
+Trexx killed Alfajer  in round 5
+Trexx killed Chronicle  in round 5
+Round 5 ended with elimination. The winning team is Team Vitality.
+The current score is Team Vitality 5 - 0 FNATIC.
+Derke killed ceNder  in round 6
+Sayf killed Derke  in round 6
+Boaster killed Kicks  in round 6
+Hiro   killed Trexx  in round 6
+Round 6 ended with time_expired. The winning team is FNATIC.
+The current score is Team Vitality 5 - 1 FNATIC.
+Alfajer killed runneR  in round 7
+Sayf killed Boaster  in round 7
+Hiro   killed Sayf  in round 7
+Chronicle killed Sayf  in round 7
+Chronicle killed ceNder  in round 7
+runneR killed Hiro    in round 7
+Alfajer killed runneR  in round 7
+Trexx killed Alfajer  in round 7
+Kicks killed Boaster  in round 7
+Derke killed Kicks  in round 7
+Trexx killed Chronicle  in round 7
+Derke killed Trexx  in round 7
+Round 7 ended with spike_defuse. The winning team is FNATIC.
+The current score is Team Vitality 5 - 2 FNATIC.
+Alfajer killed Trexx  in round 8
+Hiro   killed runneR  in round 8
+Hiro   killed Kicks  in round 8
+Round 8 ended with spike_defuse. The winning team is FNATIC.
+The current score is Team Vitality 5 - 3 FNATIC.
+Boaster killed Sayf  in round 9
+Hiro   killed ceNder  in round 9
+Derke killed ceNder  in round 9
+Derke killed Kicks  in round 9
+Derke killed Sayf  in round 9
+runneR killed Alfajer  in round 9
+Round 9 ended with time_expired. The winning team is FNATIC.
+The current score is Team Vitality 5 - 4 FNATIC.
+Hiro   killed Trexx  in round 10
+runneR killed Chronicle  in round 10
+Sayf killed Alfajer  in round 10
+Sayf killed Boaster  in round 10
+Derke killed Sayf  in round 10
+Derke killed Kicks  in round 10
+ceNder killed Derke  in round 10
+Hiro   killed ceNder  in round 10
+runneR killed Hiro    in round 10
+Round 10 ended with elimination. The winning team is Team Vitality.
+The current score is Team Vitality 6 - 4 FNATIC.
+Derke killed Sayf  in round 11
+Chronicle killed Trexx  in round 11
+Boaster killed ceNder  in round 11
+Chronicle killed Kicks  in round 11
+Chronicle killed runneR  in round 11
+Round 11 ended with elimination. The winning team is FNATIC.
+The current score is Team Vitality 6 - 5 FNATIC.
+Boaster killed runneR  in round 12
+ceNder killed Alfajer  in round 12
+Boaster killed Sayf  in round 12
+Trexx killed Chronicle  in round 12
+ceNder killed Boaster  in round 12
+Kicks killed Hiro    in round 12
+Derke killed ceNder  in round 12
+Derke killed Trexx  in round 12
+Kicks killed Derke  in round 12
+Round 12 ended with elimination. The winning team is Team Vitality.
+The current score is Team Vitality 7 - 5 FNATIC.
+runneR killed Hiro    in round 13
+Sayf killed Boaster  in round 13
+Derke killed Kicks  in round 13
+Derke killed Sayf  in round 13
+Trexx killed Derke  in round 13
+runneR killed Chronicle  in round 13
+Alfajer killed ceNder  in round 13
+Trexx killed Alfajer  in round 13
+Round 13 ended with elimination. The winning team is Team Vitality.
+The current score is Team Vitality 8 - 5 FNATIC.
+Sayf killed Derke  in round 14
+runneR killed Alfajer  in round 14
+Sayf killed Chronicle  in round 14
+runneR killed Boaster  in round 14
+Hiro   killed Kicks  in round 14
+runneR killed Hiro    in round 14
+Round 14 ended with elimination. The winning team is Team Vitality.
+The current score is Team Vitality 9 - 5 FNATIC.
+Derke killed runneR  in round 15
+Alfajer killed Sayf  in round 15
+Chronicle killed Trexx  in round 15
+Derke killed ceNder  in round 15
+Chronicle killed Kicks  in round 15
+Round 15 ended with elimination. The winning team is FNATIC.
+The current score is Team Vitality 9 - 6 FNATIC.
+Derke killed Sayf  in round 16
+Chronicle killed ceNder  in round 16
+Derke killed runneR  in round 16
+Derke killed Kicks  in round 16
+Trexx killed Chronicle  in round 16
+Round 16 ended with detonate. The winning team is FNATIC.
+The current score is Team Vitality 9 - 7 FNATIC.
+Alfajer killed runneR  in round 17
+Sayf killed Derke  in round 17
+Chronicle killed Kicks  in round 17
+Sayf killed Chronicle  in round 17
+ceNder killed Boaster  in round 17
+Hiro   killed ceNder  in round 17
+Alfajer killed Trexx  in round 17
+Hiro   killed Sayf  in round 17
+Round 17 ended with elimination. The winning team is FNATIC.
+The current score is Team Vitality 9 - 8 FNATIC.
+runneR killed Derke  in round 18
+Chronicle killed Sayf  in round 18
+runneR killed Boaster  in round 18
+ceNder killed Alfajer  in round 18
+Kicks killed Hiro    in round 18
+ceNder killed Chronicle  in round 18
+Round 18 ended with spike_defuse. The winning team is Team Vitality.
+The current score is Team Vitality 10 - 8 FNATIC.
+Boaster killed ceNder  in round 19
+Hiro   killed Trexx  in round 19
+Hiro   killed Sayf  in round 19
+Alfajer killed Kicks  in round 19
+runneR killed Boaster  in round 19
+runneR killed Chronicle  in round 19
+Alfajer killed runneR  in round 19
+Round 19 ended with elimination. The winning team is FNATIC.
+The current score is Team Vitality 10 - 9 FNATIC.
+Sayf killed Derke  in round 20
+Trexx killed Chronicle  in round 20
+Kicks killed Hiro    in round 20
+Kicks killed Alfajer  in round 20
+Boaster killed Trexx  in round 20
+Boaster killed ceNder  in round 20
+Round 20 ended with time_expired. The winning team is Team Vitality.
+The current score is Team Vitality 11 - 9 FNATIC.
+Trexx killed Derke  in round 21
+Boaster killed runneR  in round 21
+Hiro   killed Trexx  in round 21
+Sayf killed Hiro    in round 21
+Sayf killed Boaster  in round 21
+Chronicle killed Sayf  in round 21
+Chronicle killed Kicks  in round 21
+ceNder killed Chronicle  in round 21
+Alfajer killed ceNder  in round 21
+Round 21 ended with elimination. The winning team is FNATIC.
+The current score is Team Vitality 11 - 10 FNATIC.
+Trexx killed Boaster  in round 22
+Chronicle killed ceNder  in round 22
+Hiro   killed Trexx  in round 22
+Derke killed Kicks  in round 22
+Sayf killed Hiro    in round 22
+Chronicle killed Sayf  in round 22
+Chronicle killed runneR  in round 22
+Round 22 ended with elimination. The winning team is FNATIC.
+The current score is Team Vitality 11 - 11 FNATIC.
+Boaster killed Trexx  in round 23
+Kicks killed Hiro    in round 23
+Alfajer killed ceNder  in round 23
+Sayf killed Alfajer  in round 23
+Chronicle killed Kicks  in round 23
+Sayf killed Derke  in round 23
+Sayf killed Boaster  in round 23
+Chronicle killed runneR  in round 23
+Sayf killed Chronicle  in round 23
+Round 23 ended with detonate. The winning team is FNATIC.
+The current score is Team Vitality 11 - 12 FNATIC.
+Chronicle killed Sayf  in round 24
+Hiro   killed runneR  in round 24
+Derke killed Trexx  in round 24
+Boaster killed ceNder  in round 24
+Alfajer killed Kicks  in round 24
+Round 24 ended with elimination. The winning team is FNATIC.
+The current score is Team Vitality 11 - 13 FNATIC.
+Game ended with winning team: FNATIC at 2024-07-17T16:58:52Z
+
+--- Player Stats ---
+Chronicle: Team=FNATIC, Kills=19, Deaths=16, Assists=10, KDA=1.81, First Kills=2, First Deaths=0
+Derke: Team=FNATIC, Kills=25, Deaths=15, Assists=7, KDA=2.13, First Kills=5, First Deaths=4
+Boaster: Team=FNATIC, Kills=12, Deaths=17, Assists=10, KDA=1.29, First Kills=5, First Deaths=1
+Alfajer: Team=FNATIC, Kills=14, Deaths=14, Assists=1, KDA=1.07, First Kills=3, First Deaths=2
+Hiro  : Team=FNATIC, Kills=20, Deaths=15, Assists=8, KDA=1.87, First Kills=1, First Deaths=1
+Kicks: Team=Team Vitality, Kills=10, Deaths=19, Assists=7, KDA=0.89, First Kills=0, First Deaths=0
+runneR: Team=Team Vitality, Kills=17, Deaths=15, Assists=9, KDA=1.73, First Kills=3, First Deaths=5
+Sayf: Team=Team Vitality, Kills=21, Deaths=19, Assists=6, KDA=1.42, First Kills=2, First Deaths=4
+Trexx: Team=Team Vitality, Kills=15, Deaths=17, Assists=13, KDA=1.65, First Kills=2, First Deaths=3
+ceNder: Team=Team Vitality, Kills=14, Deaths=20, Assists=5, KDA=0.95, First Kills=1, First Deaths=4

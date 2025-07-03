@@ -1,0 +1,186 @@
+Team 1: Team Liquid
+Team 2: Karmine Corp
+Participating Players:
+Player 1: XMS
+Player 2: sh1n
+Player 3: ScreaM
+Player 4: Nivera
+Player 5: Newzera
+Player 6: Jamppi
+Player 7: Sayf
+Player 8: Redgar
+Player 9: nAts
+Player 10: soulcas
+Winning Team: Team Liquid
+Score: Team Liquid 13 - 5 Karmine Corp
+Tournament Name: vct emea 2023
+Game Start Time: 2023-04-07T15:51:31Z
+Game End Time: 2023-04-07T16:55:21Z
+Rounds ended by ELIMINATION count: 8
+Rounds ended by DEFUSE count: 3
+Rounds ended by DETONATE count: 4
+SPIKE PLANTED count: 7
+platformGameId: val:df993595-0f0e-4b26-92aa-9d9089741d06
+
+--- Events ---
+Game started at 2023-04-07T15:51:31Z
+ScreaM killed nAts  in round 1
+sh1n killed Jamppi  in round 1
+soulcas killed ScreaM  in round 1
+Nivera killed soulcas  in round 1
+Newzera killed Redgar  in round 1
+Round 1 ended with time_expired. The winning team is Karmine Corp.
+The current score is Team Liquid 0 - 1 Karmine Corp.
+Nivera killed Sayf  in round 2
+sh1n killed Redgar  in round 2
+Sayf killed ScreaM  in round 2
+sh1n killed Sayf  in round 2
+sh1n killed soulcas  in round 2
+Nivera killed Jamppi  in round 2
+nAts killed XMS  in round 2
+Newzera killed nAts  in round 2
+Round 2 ended with elimination. The winning team is Karmine Corp.
+The current score is Team Liquid 0 - 2 Karmine Corp.
+Sayf killed XMS  in round 3
+Jamppi killed Newzera  in round 3
+Nivera killed Jamppi  in round 3
+Sayf killed Nivera  in round 3
+Sayf killed sh1n  in round 3
+ScreaM killed soulcas  in round 3
+Round 3 ended with detonate. The winning team is Team Liquid.
+The current score is Team Liquid 1 - 2 Karmine Corp.
+Sayf killed ScreaM  in round 4
+Nivera killed Redgar  in round 4
+Jamppi killed Newzera  in round 4
+nAts killed sh1n  in round 4
+Sayf killed XMS  in round 4
+nAts killed Nivera  in round 4
+Round 4 ended with elimination. The winning team is Team Liquid.
+The current score is Team Liquid 2 - 2 Karmine Corp.
+Sayf killed sh1n  in round 5
+ScreaM killed Redgar  in round 5
+Jamppi killed XMS  in round 5
+Nivera killed Jamppi  in round 5
+soulcas killed Nivera  in round 5
+soulcas killed Newzera  in round 5
+Round 5 ended with time_expired. The winning team is Karmine Corp.
+The current score is Team Liquid 2 - 3 Karmine Corp.
+nAts killed ScreaM  in round 6
+Nivera killed Sayf  in round 6
+Jamppi killed XMS  in round 6
+Redgar killed sh1n  in round 6
+Nivera killed nAts  in round 6
+Redgar killed Nivera  in round 6
+ScreaM killed Jamppi  in round 6
+ScreaM killed Redgar  in round 6
+soulcas killed Newzera  in round 6
+soulcas killed ScreaM  in round 6
+Round 6 ended with elimination. The winning team is Team Liquid.
+The current score is Team Liquid 3 - 3 Karmine Corp.
+Redgar killed Newzera  in round 7
+Sayf killed sh1n  in round 7
+Jamppi killed XMS  in round 7
+Nivera killed Sayf  in round 7
+Jamppi killed Nivera  in round 7
+Jamppi killed ScreaM  in round 7
+Round 7 ended with elimination. The winning team is Team Liquid.
+The current score is Team Liquid 4 - 3 Karmine Corp.
+Sayf killed Nivera  in round 8
+Sayf killed Newzera  in round 8
+ScreaM killed Jamppi  in round 8
+XMS killed nAts  in round 8
+Sayf killed ScreaM  in round 8
+Round 8 ended with detonate. The winning team is Team Liquid.
+The current score is Team Liquid 5 - 3 Karmine Corp.
+nAts killed Nivera  in round 9
+Redgar killed XMS  in round 9
+nAts killed sh1n  in round 9
+ScreaM killed soulcas  in round 9
+Round 9 ended with detonate. The winning team is Team Liquid.
+The current score is Team Liquid 6 - 3 Karmine Corp.
+Newzera killed Redgar  in round 10
+Redgar killed Nivera  in round 10
+Redgar killed ScreaM  in round 10
+XMS killed Sayf  in round 10
+Redgar killed XMS  in round 10
+Round 10 ended with detonate. The winning team is Team Liquid.
+The current score is Team Liquid 7 - 3 Karmine Corp.
+Jamppi killed Jamppi  in round 11
+Nivera killed Sayf  in round 11
+ScreaM killed Redgar  in round 11
+ScreaM killed soulcas  in round 11
+XMS killed nAts  in round 11
+Jamppi killed Nivera  in round 11
+XMS killed Jamppi  in round 11
+Round 11 ended with spike_defuse. The winning team is Karmine Corp.
+The current score is Team Liquid 7 - 4 Karmine Corp.
+Sayf killed sh1n  in round 12
+Jamppi killed Newzera  in round 12
+Redgar killed ScreaM  in round 12
+Jamppi killed Nivera  in round 12
+Jamppi killed XMS  in round 12
+Round 12 ended with elimination. The winning team is Team Liquid.
+The current score is Team Liquid 8 - 4 Karmine Corp.
+Redgar killed Nivera  in round 13
+XMS killed Redgar  in round 13
+Sayf killed ScreaM  in round 13
+XMS killed soulcas  in round 13
+sh1n killed Sayf  in round 13
+nAts killed Newzera  in round 13
+nAts killed XMS  in round 13
+nAts killed sh1n  in round 13
+Round 13 ended with elimination. The winning team is Team Liquid.
+The current score is Team Liquid 9 - 4 Karmine Corp.
+ScreaM killed Redgar  in round 14
+soulcas killed Nivera  in round 14
+soulcas killed Newzera  in round 14
+Jamppi killed sh1n  in round 14
+Jamppi killed ScreaM  in round 14
+nAts killed XMS  in round 14
+Round 14 ended with spike_defuse. The winning team is Team Liquid.
+The current score is Team Liquid 10 - 4 Karmine Corp.
+Nivera killed Redgar  in round 15
+XMS killed nAts  in round 15
+ScreaM killed Jamppi  in round 15
+XMS killed Sayf  in round 15
+XMS killed soulcas  in round 15
+Round 15 ended with elimination. The winning team is Karmine Corp.
+The current score is Team Liquid 10 - 5 Karmine Corp.
+sh1n killed Sayf  in round 16
+Redgar killed ScreaM  in round 16
+XMS killed Redgar  in round 16
+soulcas killed Newzera  in round 16
+nAts killed Nivera  in round 16
+XMS killed soulcas  in round 16
+nAts killed sh1n  in round 16
+nAts killed XMS  in round 16
+Round 16 ended with spike_defuse. The winning team is Team Liquid.
+The current score is Team Liquid 11 - 5 Karmine Corp.
+Redgar killed Nivera  in round 17
+ScreaM killed Redgar  in round 17
+Sayf killed ScreaM  in round 17
+Sayf killed XMS  in round 17
+Round 17 ended with time_expired. The winning team is Team Liquid.
+The current score is Team Liquid 12 - 5 Karmine Corp.
+Sayf killed XMS  in round 18
+Sayf killed sh1n  in round 18
+Newzera killed nAts  in round 18
+Sayf killed ScreaM  in round 18
+Newzera killed Sayf  in round 18
+Redgar killed Newzera  in round 18
+Jamppi killed Nivera  in round 18
+Round 18 ended with elimination. The winning team is Team Liquid.
+The current score is Team Liquid 13 - 5 Karmine Corp.
+Game ended with winning team: Team Liquid at 2023-04-07T16:55:21Z
+
+--- Player Stats ---
+XMS: Team=Karmine Corp, Kills=11, Deaths=14, Assists=6, KDA=1.21, First Kills=0, First Deaths=2
+sh1n: Team=Karmine Corp, Kills=6, Deaths=11, Assists=5, KDA=1.0, First Kills=1, First Deaths=2
+ScreaM: Team=Karmine Corp, Kills=12, Deaths=14, Assists=2, KDA=1.0, First Kills=2, First Deaths=2
+Nivera: Team=Karmine Corp, Kills=11, Deaths=15, Assists=3, KDA=0.93, First Kills=2, First Deaths=4
+Newzera: Team=Karmine Corp, Kills=5, Deaths=11, Assists=3, KDA=0.73, First Kills=1, First Deaths=1
+Jamppi: Team=Team Liquid, Kills=15, Deaths=9, Assists=3, KDA=2.0, First Kills=1, First Deaths=1
+Sayf: Team=Team Liquid, Kills=18, Deaths=10, Assists=6, KDA=2.4, First Kills=6, First Deaths=2
+Redgar: Team=Team Liquid, Kills=12, Deaths=12, Assists=7, KDA=1.58, First Kills=3, First Deaths=3
+nAts: Team=Team Liquid, Kills=13, Deaths=7, Assists=2, KDA=2.14, First Kills=2, First Deaths=1
+soulcas: Team=Team Liquid, Kills=8, Deaths=8, Assists=6, KDA=1.75, First Kills=0, First Deaths=0

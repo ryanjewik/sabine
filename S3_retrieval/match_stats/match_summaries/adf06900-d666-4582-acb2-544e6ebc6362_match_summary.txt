@@ -1,0 +1,230 @@
+Team 1: LOUD
+Team 2: Evil Geniuses
+Participating Players:
+Player 1: Demon1
+Player 2: Ethan
+Player 3: Boostio
+Player 4: C0M
+Player 5: JAWGEMO
+Player 6: aspas
+Player 7: cauanzin
+Player 8: Saadhak
+Player 9: Less
+Player 10: tuyz
+Winning Team: LOUD
+Score: LOUD 13 - 7 Evil Geniuses
+Tournament Name: vct champions 2023
+Game Start Time: 2023-08-25T22:20:34Z
+Game End Time: 2023-08-25T23:09:42Z
+Rounds ended by ELIMINATION count: 13
+Rounds ended by DEFUSE count: 6
+Rounds ended by DETONATE count: 1
+SPIKE PLANTED count: 7
+platformGameId: val:adf06900-d666-4582-acb2-544e6ebc6362
+
+--- Events ---
+Game started at 2023-08-25T22:20:34Z
+Saadhak killed Demon1  in round 1
+aspas killed JAWGEMO  in round 1
+C0M killed cauanzin  in round 1
+aspas killed C0M  in round 1
+Ethan killed aspas  in round 1
+Less killed Ethan  in round 1
+Boostio killed Less  in round 1
+Saadhak killed Boostio  in round 1
+Round 1 ended with elimination. The winning team is LOUD.
+The current score is LOUD 1 - 0 Evil Geniuses.
+Boostio killed Less  in round 2
+Ethan killed Saadhak  in round 2
+aspas killed JAWGEMO  in round 2
+aspas killed Boostio  in round 2
+Ethan killed cauanzin  in round 2
+aspas killed Ethan  in round 2
+Demon1 killed tuyz  in round 2
+aspas killed Demon1  in round 2
+C0M killed aspas  in round 2
+Round 2 ended with spike_defuse. The winning team is Evil Geniuses.
+The current score is LOUD 1 - 1 Evil Geniuses.
+aspas killed Demon1  in round 3
+cauanzin killed C0M  in round 3
+aspas killed Ethan  in round 3
+aspas killed JAWGEMO  in round 3
+aspas killed Boostio  in round 3
+Round 3 ended with elimination. The winning team is LOUD.
+The current score is LOUD 2 - 1 Evil Geniuses.
+tuyz killed Boostio  in round 4
+Saadhak killed JAWGEMO  in round 4
+aspas killed Demon1  in round 4
+C0M killed tuyz  in round 4
+aspas killed Ethan  in round 4
+cauanzin killed C0M  in round 4
+Round 4 ended with elimination. The winning team is LOUD.
+The current score is LOUD 3 - 1 Evil Geniuses.
+cauanzin killed JAWGEMO  in round 5
+aspas killed C0M  in round 5
+Boostio killed aspas  in round 5
+cauanzin killed Demon1  in round 5
+Ethan killed cauanzin  in round 5
+Round 5 ended with detonate. The winning team is LOUD.
+The current score is LOUD 4 - 1 Evil Geniuses.
+Ethan killed Less  in round 6
+aspas killed JAWGEMO  in round 6
+cauanzin killed C0M  in round 6
+tuyz killed Boostio  in round 6
+aspas killed Ethan  in round 6
+aspas killed Demon1  in round 6
+Round 6 ended with elimination. The winning team is LOUD.
+The current score is LOUD 5 - 1 Evil Geniuses.
+Boostio killed aspas  in round 7
+Less killed Boostio  in round 7
+C0M killed Less  in round 7
+Ethan killed cauanzin  in round 7
+tuyz killed C0M  in round 7
+JAWGEMO killed tuyz  in round 7
+Demon1 killed Saadhak  in round 7
+Round 7 ended with spike_defuse. The winning team is Evil Geniuses.
+The current score is LOUD 5 - 2 Evil Geniuses.
+cauanzin killed Ethan  in round 8
+C0M killed cauanzin  in round 8
+aspas killed Boostio  in round 8
+C0M killed aspas  in round 8
+tuyz killed C0M  in round 8
+Saadhak killed JAWGEMO  in round 8
+Demon1 killed tuyz  in round 8
+Less killed Demon1  in round 8
+Round 8 ended with elimination. The winning team is LOUD.
+The current score is LOUD 6 - 2 Evil Geniuses.
+Saadhak killed Demon1  in round 9
+tuyz killed C0M  in round 9
+tuyz killed Ethan  in round 9
+JAWGEMO killed Less  in round 9
+aspas killed Boostio  in round 9
+JAWGEMO killed aspas  in round 9
+cauanzin killed JAWGEMO  in round 9
+Round 9 ended with elimination. The winning team is LOUD.
+The current score is LOUD 7 - 2 Evil Geniuses.
+Boostio killed Less  in round 10
+Ethan killed Saadhak  in round 10
+aspas killed Ethan  in round 10
+tuyz killed C0M  in round 10
+cauanzin killed Boostio  in round 10
+JAWGEMO killed cauanzin  in round 10
+JAWGEMO killed tuyz  in round 10
+aspas killed JAWGEMO  in round 10
+Demon1 killed aspas  in round 10
+aspas killed Demon1  in round 10
+Round 10 ended with elimination. The winning team is LOUD.
+The current score is LOUD 8 - 2 Evil Geniuses.
+Less killed C0M  in round 11
+Boostio killed tuyz  in round 11
+Boostio killed aspas  in round 11
+Saadhak killed JAWGEMO  in round 11
+Less killed Ethan  in round 11
+Demon1 killed Less  in round 11
+Saadhak killed Demon1  in round 11
+cauanzin killed Boostio  in round 11
+Round 11 ended with elimination. The winning team is LOUD.
+The current score is LOUD 9 - 2 Evil Geniuses.
+Boostio killed Less  in round 12
+Demon1 killed Saadhak  in round 12
+aspas killed Demon1  in round 12
+tuyz killed C0M  in round 12
+aspas killed JAWGEMO  in round 12
+Ethan killed aspas  in round 12
+Ethan killed cauanzin  in round 12
+Boostio killed tuyz  in round 12
+Round 12 ended with spike_defuse. The winning team is Evil Geniuses.
+The current score is LOUD 9 - 3 Evil Geniuses.
+aspas killed JAWGEMO  in round 13
+C0M killed Less  in round 13
+cauanzin killed Boostio  in round 13
+Saadhak killed C0M  in round 13
+tuyz killed Demon1  in round 13
+Ethan killed tuyz  in round 13
+aspas killed Ethan  in round 13
+Round 13 ended with elimination. The winning team is LOUD.
+The current score is LOUD 10 - 3 Evil Geniuses.
+cauanzin killed JAWGEMO  in round 14
+C0M killed cauanzin  in round 14
+Boostio killed Saadhak  in round 14
+Demon1 killed Less  in round 14
+aspas killed Ethan  in round 14
+C0M killed aspas  in round 14
+C0M killed tuyz  in round 14
+Round 14 ended with elimination. The winning team is Evil Geniuses.
+The current score is LOUD 10 - 4 Evil Geniuses.
+JAWGEMO killed Less  in round 15
+C0M killed aspas  in round 15
+cauanzin killed C0M  in round 15
+Boostio killed tuyz  in round 15
+JAWGEMO killed Saadhak  in round 15
+cauanzin killed Boostio  in round 15
+cauanzin killed Demon1  in round 15
+cauanzin killed Ethan  in round 15
+JAWGEMO killed cauanzin  in round 15
+Round 15 ended with elimination. The winning team is Evil Geniuses.
+The current score is LOUD 10 - 5 Evil Geniuses.
+aspas killed JAWGEMO  in round 16
+C0M killed Saadhak  in round 16
+cauanzin killed Ethan  in round 16
+Boostio killed aspas  in round 16
+cauanzin killed Boostio  in round 16
+tuyz killed C0M  in round 16
+Demon1 killed cauanzin  in round 16
+Demon1 killed Less  in round 16
+tuyz killed Demon1  in round 16
+Round 16 ended with spike_defuse. The winning team is LOUD.
+The current score is LOUD 11 - 5 Evil Geniuses.
+Boostio killed Less  in round 17
+Saadhak killed Boostio  in round 17
+JAWGEMO killed Saadhak  in round 17
+cauanzin killed JAWGEMO  in round 17
+cauanzin killed C0M  in round 17
+Ethan killed cauanzin  in round 17
+aspas killed Ethan  in round 17
+Demon1 killed aspas  in round 17
+tuyz killed Demon1  in round 17
+Round 17 ended with spike_defuse. The winning team is LOUD.
+The current score is LOUD 12 - 5 Evil Geniuses.
+cauanzin killed JAWGEMO  in round 18
+Boostio killed tuyz  in round 18
+Demon1 killed cauanzin  in round 18
+Less killed Demon1  in round 18
+Boostio killed Less  in round 18
+Ethan killed aspas  in round 18
+Saadhak killed Ethan  in round 18
+C0M killed Saadhak  in round 18
+Round 18 ended with elimination. The winning team is Evil Geniuses.
+The current score is LOUD 12 - 6 Evil Geniuses.
+aspas killed Demon1  in round 19
+C0M killed Saadhak  in round 19
+Boostio killed cauanzin  in round 19
+Ethan killed aspas  in round 19
+JAWGEMO killed Less  in round 19
+C0M killed tuyz  in round 19
+Round 19 ended with elimination. The winning team is Evil Geniuses.
+The current score is LOUD 12 - 7 Evil Geniuses.
+cauanzin killed C0M  in round 20
+Less killed JAWGEMO  in round 20
+cauanzin killed Boostio  in round 20
+Demon1 killed cauanzin  in round 20
+Demon1 killed Less  in round 20
+Demon1 killed Saadhak  in round 20
+aspas killed Demon1  in round 20
+Ethan killed aspas  in round 20
+tuyz killed Ethan  in round 20
+Round 20 ended with spike_defuse. The winning team is LOUD.
+The current score is LOUD 13 - 7 Evil Geniuses.
+Game ended with winning team: LOUD at 2023-08-25T23:09:42Z
+
+--- Player Stats ---
+Demon1: Team=Evil Geniuses, Kills=14, Deaths=18, Assists=7, KDA=1.17, First Kills=0, First Deaths=4
+Ethan: Team=Evil Geniuses, Kills=14, Deaths=16, Assists=11, KDA=1.56, First Kills=1, First Deaths=1
+Boostio: Team=Evil Geniuses, Kills=16, Deaths=15, Assists=2, KDA=1.2, First Kills=5, First Deaths=1
+C0M: Team=Evil Geniuses, Kills=15, Deaths=16, Assists=5, KDA=1.25, First Kills=0, First Deaths=2
+JAWGEMO: Team=Evil Geniuses, Kills=10, Deaths=17, Assists=1, KDA=0.65, First Kills=1, First Deaths=5
+aspas: Team=LOUD, Kills=30, Deaths=16, Assists=1, KDA=1.94, First Kills=4, First Deaths=1
+cauanzin: Team=LOUD, Kills=22, Deaths=14, Assists=11, KDA=2.36, First Kills=5, First Deaths=0
+Saadhak: Team=LOUD, Kills=10, Deaths=11, Assists=11, KDA=1.91, First Kills=2, First Deaths=0
+Less: Team=LOUD, Kills=7, Deaths=16, Assists=2, KDA=0.56, First Kills=1, First Deaths=6
+tuyz: Team=LOUD, Kills=13, Deaths=12, Assists=11, KDA=2.0, First Kills=1, First Deaths=0

@@ -1,0 +1,197 @@
+Team 1: T1
+Team 2: FURIA
+Participating Players:
+Player 1: QcK
+Player 2: dgzin
+Player 3: mazin
+Player 4: mwzera
+Player 5: Khalil
+Player 6: ban 
+Player 7: Munchkin
+Player 8: xeta
+Player 9: Sayaplayer
+Player 10: carpe
+Winning Team: FURIA
+Score: T1 5 - 13 FURIA
+Tournament Name: lock in brazil 2023
+Game Start Time: 2023-02-24T20:44:51Z
+Game End Time: 2023-02-24T21:53:21Z
+Rounds ended by ELIMINATION count: 13
+Rounds ended by DEFUSE count: 4
+Rounds ended by DETONATE count: 1
+SPIKE PLANTED count: 5
+platformGameId: val:3cfe3e0c-6a28-43c4-a284-8c463b716c4a
+
+--- Events ---
+Game started at 2023-02-24T20:44:51Z
+dgzin killed Munchkin  in round 1
+QcK killed ban   in round 1
+carpe killed mwzera  in round 1
+QcK killed carpe  in round 1
+dgzin killed xeta  in round 1
+QcK killed Sayaplayer  in round 1
+Round 1 ended with spike_defuse. The winning team is FURIA.
+The current score is T1 0 - 1 FURIA.
+QcK killed xeta  in round 2
+QcK killed Munchkin  in round 2
+Sayaplayer killed QcK  in round 2
+mazin killed ban   in round 2
+Sayaplayer killed mazin  in round 2
+mwzera killed Sayaplayer  in round 2
+carpe killed Khalil  in round 2
+carpe killed mwzera  in round 2
+dgzin killed carpe  in round 2
+Round 2 ended with elimination. The winning team is FURIA.
+The current score is T1 0 - 2 FURIA.
+dgzin killed xeta  in round 3
+dgzin killed Sayaplayer  in round 3
+carpe killed QcK  in round 3
+mwzera killed ban   in round 3
+mwzera killed Munchkin  in round 3
+mazin killed carpe  in round 3
+Round 3 ended with spike_defuse. The winning team is FURIA.
+The current score is T1 0 - 3 FURIA.
+Munchkin killed mazin  in round 4
+Khalil killed xeta  in round 4
+Munchkin killed Khalil  in round 4
+QcK killed Munchkin  in round 4
+carpe killed mazin  in round 4
+mwzera killed ban   in round 4
+carpe killed mwzera  in round 4
+Sayaplayer killed QcK  in round 4
+dgzin killed carpe  in round 4
+Sayaplayer killed dgzin  in round 4
+Round 4 ended with elimination. The winning team is T1.
+The current score is T1 1 - 3 FURIA.
+QcK killed carpe  in round 5
+QcK killed xeta  in round 5
+QcK killed Munchkin  in round 5
+ban  killed QcK  in round 5
+dgzin killed ban   in round 5
+Sayaplayer killed dgzin  in round 5
+mwzera killed Sayaplayer  in round 5
+Round 5 ended with elimination. The winning team is FURIA.
+The current score is T1 1 - 4 FURIA.
+dgzin killed Sayaplayer  in round 6
+mazin killed ban   in round 6
+mazin killed Munchkin  in round 6
+mazin killed xeta  in round 6
+mazin killed carpe  in round 6
+Round 6 ended with elimination. The winning team is FURIA.
+The current score is T1 1 - 5 FURIA.
+Round 7 ended with elimination. The winning team is T1.
+The current score is T1 2 - 5 FURIA.
+mazin killed ban   in round 8
+xeta killed Khalil  in round 8
+Sayaplayer killed mwzera  in round 8
+QcK killed Sayaplayer  in round 8
+carpe killed QcK  in round 8
+Round 8 ended with detonate. The winning team is T1.
+The current score is T1 3 - 5 FURIA.
+mazin killed Sayaplayer  in round 9
+Munchkin killed mazin  in round 9
+carpe killed mwzera  in round 9
+QcK killed ban   in round 9
+dgzin killed Munchkin  in round 9
+xeta killed Khalil  in round 9
+carpe killed dgzin  in round 9
+xeta killed QcK  in round 9
+Round 9 ended with elimination. The winning team is T1.
+The current score is T1 4 - 5 FURIA.
+xeta killed mwzera  in round 10
+xeta killed dgzin  in round 10
+Sayaplayer killed QcK  in round 10
+Khalil killed ban   in round 10
+carpe killed Khalil  in round 10
+mazin killed Sayaplayer  in round 10
+Munchkin killed mazin  in round 10
+Round 10 ended with elimination. The winning team is T1.
+The current score is T1 5 - 5 FURIA.
+Munchkin killed QcK  in round 11
+mwzera killed xeta  in round 11
+Khalil killed ban   in round 11
+Khalil killed Munchkin  in round 11
+Sayaplayer killed Khalil  in round 11
+carpe killed dgzin  in round 11
+mazin killed carpe  in round 11
+mwzera killed Sayaplayer  in round 11
+Round 11 ended with spike_defuse. The winning team is FURIA.
+The current score is T1 5 - 6 FURIA.
+dgzin killed Sayaplayer  in round 12
+xeta killed mwzera  in round 12
+Khalil killed xeta  in round 12
+mazin killed carpe  in round 12
+ban  killed Khalil  in round 12
+ban  killed mwzera  in round 12
+QcK killed ban   in round 12
+mazin killed Munchkin  in round 12
+Round 12 ended with spike_defuse. The winning team is FURIA.
+The current score is T1 5 - 7 FURIA.
+dgzin killed Sayaplayer  in round 13
+mazin killed ban   in round 13
+mazin killed Munchkin  in round 13
+mazin killed xeta  in round 13
+carpe killed mazin  in round 13
+QcK killed carpe  in round 13
+Round 13 ended with elimination. The winning team is FURIA.
+The current score is T1 5 - 8 FURIA.
+QcK killed Munchkin  in round 14
+mwzera killed Sayaplayer  in round 14
+QcK killed ban   in round 14
+xeta killed QcK  in round 14
+mwzera killed xeta  in round 14
+mwzera killed carpe  in round 14
+Round 14 ended with elimination. The winning team is FURIA.
+The current score is T1 5 - 9 FURIA.
+Sayaplayer killed mazin  in round 15
+QcK killed ban   in round 15
+carpe killed Khalil  in round 15
+QcK killed carpe  in round 15
+dgzin killed xeta  in round 15
+mwzera killed Munchkin  in round 15
+mwzera killed Sayaplayer  in round 15
+Round 15 ended with elimination. The winning team is FURIA.
+The current score is T1 5 - 10 FURIA.
+dgzin killed carpe  in round 16
+mazin killed ban   in round 16
+dgzin killed Munchkin  in round 16
+mazin killed xeta  in round 16
+Sayaplayer killed dgzin  in round 16
+Sayaplayer killed mwzera  in round 16
+QcK killed Sayaplayer  in round 16
+Round 16 ended with elimination. The winning team is FURIA.
+The current score is T1 5 - 11 FURIA.
+mwzera killed xeta  in round 17
+carpe killed Khalil  in round 17
+mwzera killed ban   in round 17
+Sayaplayer killed dgzin  in round 17
+carpe killed QcK  in round 17
+mazin killed Sayaplayer  in round 17
+mazin killed Munchkin  in round 17
+carpe killed mwzera  in round 17
+carpe killed mazin  in round 17
+carpe killed carpe  in round 17
+Round 17 ended with elimination. The winning team is FURIA.
+The current score is T1 5 - 12 FURIA.
+dgzin killed Sayaplayer  in round 18
+Munchkin killed mazin  in round 18
+Munchkin killed mwzera  in round 18
+QcK killed xeta  in round 18
+dgzin killed carpe  in round 18
+QcK killed ban   in round 18
+QcK killed Munchkin  in round 18
+Round 18 ended with elimination. The winning team is FURIA.
+The current score is T1 5 - 13 FURIA.
+Game ended with winning team: FURIA at 2023-02-24T21:53:21Z
+
+--- Player Stats ---
+QcK: Team=FURIA, Kills=21, Deaths=10, Assists=1, KDA=2.2, First Kills=3, First Deaths=1
+dgzin: Team=FURIA, Kills=16, Deaths=7, Assists=3, KDA=2.71, First Kills=7, First Deaths=0
+mazin: Team=FURIA, Kills=19, Deaths=9, Assists=7, KDA=2.89, First Kills=2, First Deaths=2
+mwzera: Team=FURIA, Kills=14, Deaths=11, Assists=9, KDA=2.09, First Kills=1, First Deaths=1
+Khalil: Team=FURIA, Kills=5, Deaths=9, Assists=4, KDA=1.0, First Kills=0, First Deaths=0
+ban : Team=T1, Kills=3, Deaths=17, Assists=1, KDA=0.24, First Kills=0, First Deaths=1
+Munchkin: Team=T1, Kills=7, Deaths=15, Assists=5, KDA=0.8, First Kills=2, First Deaths=2
+xeta: Team=T1, Kills=7, Deaths=14, Assists=5, KDA=0.86, First Kills=1, First Deaths=3
+Sayaplayer: Team=T1, Kills=12, Deaths=16, Assists=2, KDA=0.88, First Kills=1, First Deaths=5
+carpe: Team=T1, Kills=18, Deaths=14, Assists=1, KDA=1.36, First Kills=0, First Deaths=2

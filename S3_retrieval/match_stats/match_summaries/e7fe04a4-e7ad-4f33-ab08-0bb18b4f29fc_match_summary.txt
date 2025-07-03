@@ -1,0 +1,236 @@
+Team 1: Team Heretics
+Team 2: FunPlus Phoenix
+Participating Players:
+Player 1: AAAAY
+Player 2: Lysoar
+Player 3: autumn 
+Player 4: BerLIN
+Player 5: Life2
+Player 6: MiniBoo
+Player 7: RieNs
+Player 8: Boo
+Player 9: benjyfishy
+Player 10: Wo0t
+Winning Team: FunPlus Phoenix
+Score: Team Heretics 9 - 13 FunPlus Phoenix
+Tournament Name: vct champions 2024
+Game Start Time: 2024-08-01T11:39:45Z
+Game End Time: 2024-08-01T12:32:36Z
+Rounds ended by ELIMINATION count: 15
+Rounds ended by DEFUSE count: 4
+Rounds ended by DETONATE count: 2
+SPIKE PLANTED count: 6
+platformGameId: val:e7fe04a4-e7ad-4f33-ab08-0bb18b4f29fc
+
+--- Events ---
+Game started at 2024-08-01T11:39:45Z
+autumn  killed benjyfishy  in round 1
+Boo killed Life2  in round 1
+Boo killed AAAAY  in round 1
+BerLIN killed RieNs  in round 1
+BerLIN killed MiniBoo  in round 1
+Wo0t killed BerLIN  in round 1
+Wo0t killed Lysoar  in round 1
+autumn  killed Wo0t  in round 1
+autumn  killed Boo  in round 1
+Round 1 ended with elimination. The winning team is FunPlus Phoenix.
+The current score is Team Heretics 0 - 1 FunPlus Phoenix.
+autumn  killed RieNs  in round 2
+AAAAY killed Boo  in round 2
+AAAAY killed Wo0t  in round 2
+AAAAY killed benjyfishy  in round 2
+Life2 killed MiniBoo  in round 2
+Round 2 ended with elimination. The winning team is FunPlus Phoenix.
+The current score is Team Heretics 0 - 2 FunPlus Phoenix.
+RieNs killed autumn   in round 3
+MiniBoo killed AAAAY  in round 3
+BerLIN killed MiniBoo  in round 3
+benjyfishy killed Life2  in round 3
+benjyfishy killed BerLIN  in round 3
+RieNs killed Lysoar  in round 3
+Round 3 ended with elimination. The winning team is Team Heretics.
+The current score is Team Heretics 1 - 2 FunPlus Phoenix.
+autumn  killed Boo  in round 4
+Life2 killed MiniBoo  in round 4
+Lysoar killed RieNs  in round 4
+Round 4 ended with time_expired. The winning team is FunPlus Phoenix.
+The current score is Team Heretics 1 - 3 FunPlus Phoenix.
+Lysoar killed MiniBoo  in round 5
+benjyfishy killed Life2  in round 5
+benjyfishy killed AAAAY  in round 5
+benjyfishy killed BerLIN  in round 5
+Boo killed Lysoar  in round 5
+Round 5 ended with detonate. The winning team is Team Heretics.
+The current score is Team Heretics 2 - 3 FunPlus Phoenix.
+Boo killed autumn   in round 6
+Life2 killed MiniBoo  in round 6
+benjyfishy killed Lysoar  in round 6
+Life2 killed RieNs  in round 6
+Life2 killed Boo  in round 6
+benjyfishy killed Life2  in round 6
+AAAAY killed benjyfishy  in round 6
+BerLIN killed Wo0t  in round 6
+Round 6 ended with spike_defuse. The winning team is FunPlus Phoenix.
+The current score is Team Heretics 2 - 4 FunPlus Phoenix.
+autumn  killed Boo  in round 7
+autumn  killed RieNs  in round 7
+BerLIN killed Wo0t  in round 7
+Life2 killed MiniBoo  in round 7
+benjyfishy killed AAAAY  in round 7
+autumn  killed benjyfishy  in round 7
+Round 7 ended with elimination. The winning team is FunPlus Phoenix.
+The current score is Team Heretics 2 - 5 FunPlus Phoenix.
+Wo0t killed BerLIN  in round 8
+Life2 killed Wo0t  in round 8
+benjyfishy killed Life2  in round 8
+AAAAY killed benjyfishy  in round 8
+MiniBoo killed AAAAY  in round 8
+RieNs killed Lysoar  in round 8
+autumn  killed Boo  in round 8
+RieNs killed autumn   in round 8
+Round 8 ended with elimination. The winning team is Team Heretics.
+The current score is Team Heretics 3 - 5 FunPlus Phoenix.
+Life2 killed MiniBoo  in round 9
+Life2 killed RieNs  in round 9
+Wo0t killed BerLIN  in round 9
+AAAAY killed Boo  in round 9
+benjyfishy killed AAAAY  in round 9
+Lysoar killed Wo0t  in round 9
+benjyfishy killed Lysoar  in round 9
+benjyfishy killed Life2  in round 9
+autumn  killed benjyfishy  in round 9
+Round 9 ended with elimination. The winning team is FunPlus Phoenix.
+The current score is Team Heretics 3 - 6 FunPlus Phoenix.
+MiniBoo killed autumn   in round 10
+Lysoar killed benjyfishy  in round 10
+AAAAY killed MiniBoo  in round 10
+AAAAY killed Boo  in round 10
+AAAAY killed Wo0t  in round 10
+Lysoar killed RieNs  in round 10
+Round 10 ended with elimination. The winning team is FunPlus Phoenix.
+The current score is Team Heretics 3 - 7 FunPlus Phoenix.
+MiniBoo killed autumn   in round 11
+AAAAY killed benjyfishy  in round 11
+Boo killed AAAAY  in round 11
+Life2 killed Wo0t  in round 11
+RieNs killed Lysoar  in round 11
+MiniBoo killed Life2  in round 11
+BerLIN killed MiniBoo  in round 11
+RieNs killed BerLIN  in round 11
+Round 11 ended with elimination. The winning team is Team Heretics.
+The current score is Team Heretics 4 - 7 FunPlus Phoenix.
+AAAAY killed MiniBoo  in round 12
+Boo killed AAAAY  in round 12
+Life2 killed benjyfishy  in round 12
+Wo0t killed Life2  in round 12
+Lysoar killed Wo0t  in round 12
+RieNs killed Lysoar  in round 12
+BerLIN killed Boo  in round 12
+BerLIN killed RieNs  in round 12
+Round 12 ended with spike_defuse. The winning team is FunPlus Phoenix.
+The current score is Team Heretics 4 - 8 FunPlus Phoenix.
+BerLIN killed benjyfishy  in round 13
+Lysoar killed MiniBoo  in round 13
+RieNs killed autumn   in round 13
+RieNs killed BerLIN  in round 13
+Lysoar killed RieNs  in round 13
+Wo0t killed AAAAY  in round 13
+Lysoar killed Wo0t  in round 13
+Boo killed Life2  in round 13
+Lysoar killed Boo  in round 13
+Round 13 ended with elimination. The winning team is FunPlus Phoenix.
+The current score is Team Heretics 4 - 9 FunPlus Phoenix.
+Lysoar killed RieNs  in round 14
+AAAAY killed Boo  in round 14
+benjyfishy killed AAAAY  in round 14
+Round 14 ended with detonate. The winning team is FunPlus Phoenix.
+The current score is Team Heretics 4 - 10 FunPlus Phoenix.
+Wo0t killed Wo0t  in round 15
+benjyfishy killed benjyfishy  in round 15
+MiniBoo killed MiniBoo  in round 15
+RieNs killed Life2  in round 15
+AAAAY killed MiniBoo  in round 15
+benjyfishy killed autumn   in round 15
+RieNs killed BerLIN  in round 15
+Lysoar killed benjyfishy  in round 15
+RieNs killed Lysoar  in round 15
+RieNs killed AAAAY  in round 15
+Round 15 ended with elimination. The winning team is Team Heretics.
+The current score is Team Heretics 5 - 10 FunPlus Phoenix.
+Life2 killed MiniBoo  in round 16
+BerLIN killed RieNs  in round 16
+Wo0t killed AAAAY  in round 16
+Wo0t killed Lysoar  in round 16
+autumn  killed benjyfishy  in round 16
+Wo0t killed BerLIN  in round 16
+Boo killed autumn   in round 16
+Boo killed Life2  in round 16
+Round 16 ended with spike_defuse. The winning team is Team Heretics.
+The current score is Team Heretics 6 - 10 FunPlus Phoenix.
+Life2 killed Wo0t  in round 17
+MiniBoo killed Life2  in round 17
+MiniBoo killed BerLIN  in round 17
+benjyfishy killed AAAAY  in round 17
+benjyfishy killed autumn   in round 17
+benjyfishy killed Lysoar  in round 17
+Round 17 ended with elimination. The winning team is Team Heretics.
+The current score is Team Heretics 7 - 10 FunPlus Phoenix.
+RieNs killed Life2  in round 18
+RieNs killed BerLIN  in round 18
+RieNs killed AAAAY  in round 18
+Boo killed autumn   in round 18
+Lysoar killed RieNs  in round 18
+Lysoar killed benjyfishy  in round 18
+MiniBoo killed Lysoar  in round 18
+Round 18 ended with elimination. The winning team is Team Heretics.
+The current score is Team Heretics 8 - 10 FunPlus Phoenix.
+MiniBoo killed BerLIN  in round 19
+MiniBoo killed autumn   in round 19
+Lysoar killed MiniBoo  in round 19
+RieNs killed Lysoar  in round 19
+Life2 killed Wo0t  in round 19
+benjyfishy killed Life2  in round 19
+benjyfishy killed AAAAY  in round 19
+Round 19 ended with spike_defuse. The winning team is Team Heretics.
+The current score is Team Heretics 9 - 10 FunPlus Phoenix.
+benjyfishy killed BerLIN  in round 20
+Life2 killed MiniBoo  in round 20
+Lysoar killed benjyfishy  in round 20
+AAAAY killed RieNs  in round 20
+autumn  killed Wo0t  in round 20
+autumn  killed Boo  in round 20
+Round 20 ended with elimination. The winning team is FunPlus Phoenix.
+The current score is Team Heretics 9 - 11 FunPlus Phoenix.
+autumn  killed Wo0t  in round 21
+Life2 killed Boo  in round 21
+RieNs killed Life2  in round 21
+RieNs killed Lysoar  in round 21
+AAAAY killed RieNs  in round 21
+AAAAY killed MiniBoo  in round 21
+autumn  killed benjyfishy  in round 21
+Round 21 ended with elimination. The winning team is FunPlus Phoenix.
+The current score is Team Heretics 9 - 12 FunPlus Phoenix.
+autumn  killed Boo  in round 22
+Life2 killed MiniBoo  in round 22
+Wo0t killed BerLIN  in round 22
+benjyfishy killed AAAAY  in round 22
+Lysoar killed Wo0t  in round 22
+benjyfishy killed Lysoar  in round 22
+Life2 killed RieNs  in round 22
+benjyfishy killed Life2  in round 22
+autumn  killed benjyfishy  in round 22
+Round 22 ended with elimination. The winning team is FunPlus Phoenix.
+The current score is Team Heretics 9 - 13 FunPlus Phoenix.
+Game ended with winning team: FunPlus Phoenix at 2024-08-01T12:32:36Z
+
+--- Player Stats ---
+AAAAY: Team=FunPlus Phoenix, Kills=16, Deaths=16, Assists=5, KDA=1.31, First Kills=1, First Deaths=0
+Lysoar: Team=FunPlus Phoenix, Kills=17, Deaths=15, Assists=12, KDA=1.93, First Kills=2, First Deaths=0
+autumn : Team=FunPlus Phoenix, Kills=17, Deaths=11, Assists=5, KDA=2.0, First Kills=6, First Deaths=4
+BerLIN: Team=FunPlus Phoenix, Kills=10, Deaths=14, Assists=10, KDA=1.43, First Kills=1, First Deaths=3
+Life2: Team=FunPlus Phoenix, Kills=18, Deaths=16, Assists=5, KDA=1.44, First Kills=3, First Deaths=1
+MiniBoo: Team=Team Heretics, Kills=11, Deaths=19, Assists=3, KDA=0.74, First Kills=3, First Deaths=4
+RieNs: Team=Team Heretics, Kills=19, Deaths=15, Assists=3, KDA=1.47, First Kills=2, First Deaths=2
+Boo: Team=Team Heretics, Kills=10, Deaths=14, Assists=11, KDA=1.5, First Kills=1, First Deaths=3
+benjyfishy: Team=Team Heretics, Kills=24, Deaths=17, Assists=11, KDA=2.06, First Kills=1, First Deaths=2
+Wo0t: Team=Team Heretics, Kills=11, Deaths=16, Assists=10, KDA=1.31, First Kills=2, First Deaths=3

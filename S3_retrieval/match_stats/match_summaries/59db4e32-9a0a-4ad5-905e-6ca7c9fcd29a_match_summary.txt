@@ -1,0 +1,181 @@
+Team 1: FURIA
+Team 2: G2 Esports
+Participating Players:
+Player 1: icy
+Player 2: Leaf
+Player 3: valyn
+Player 4: trent
+Player 5: JonahP
+Player 6: kon4n
+Player 7: mwzera
+Player 8: havoc
+Player 9: Khalil
+Player 10: Nozwer
+Winning Team: G2 Esports
+Score: FURIA 3 - 13 G2 Esports
+Tournament Name: vct americas stage 1 2024
+Game Start Time: 2024-04-22T21:54:37Z
+Game End Time: 2024-04-22T22:33:02Z
+Rounds ended by ELIMINATION count: 11
+Rounds ended by DEFUSE count: 4
+Rounds ended by DETONATE count: 1
+SPIKE PLANTED count: 5
+platformGameId: val:59db4e32-9a0a-4ad5-905e-6ca7c9fcd29a
+
+--- Events ---
+Game started at 2024-04-22T21:54:37Z
+icy killed Khalil  in round 1
+mwzera killed valyn  in round 1
+JonahP killed mwzera  in round 1
+Leaf killed kon4n  in round 1
+Nozwer killed JonahP  in round 1
+trent killed Nozwer  in round 1
+trent killed havoc  in round 1
+Round 1 ended with spike_defuse. The winning team is G2 Esports.
+The current score is FURIA 0 - 1 G2 Esports.
+Leaf killed havoc  in round 2
+mwzera killed valyn  in round 2
+Khalil killed JonahP  in round 2
+icy killed Khalil  in round 2
+trent killed kon4n  in round 2
+Nozwer killed icy  in round 2
+trent killed mwzera  in round 2
+trent killed Nozwer  in round 2
+Round 2 ended with elimination. The winning team is G2 Esports.
+The current score is FURIA 0 - 2 G2 Esports.
+mwzera killed icy  in round 3
+Leaf killed mwzera  in round 3
+Nozwer killed Leaf  in round 3
+Nozwer killed trent  in round 3
+havoc killed valyn  in round 3
+Khalil killed JonahP  in round 3
+Round 3 ended with elimination. The winning team is FURIA.
+The current score is FURIA 1 - 2 G2 Esports.
+havoc killed icy  in round 4
+JonahP killed havoc  in round 4
+JonahP killed Nozwer  in round 4
+Khalil killed JonahP  in round 4
+valyn killed kon4n  in round 4
+trent killed mwzera  in round 4
+Leaf killed Khalil  in round 4
+Round 4 ended with spike_defuse. The winning team is G2 Esports.
+The current score is FURIA 1 - 3 G2 Esports.
+Khalil killed valyn  in round 5
+trent killed mwzera  in round 5
+Leaf killed Nozwer  in round 5
+kon4n killed trent  in round 5
+JonahP killed kon4n  in round 5
+havoc killed JonahP  in round 5
+havoc killed icy  in round 5
+Khalil killed Leaf  in round 5
+Round 5 ended with elimination. The winning team is FURIA.
+The current score is FURIA 2 - 3 G2 Esports.
+icy killed mwzera  in round 6
+kon4n killed valyn  in round 6
+havoc killed icy  in round 6
+trent killed havoc  in round 6
+Khalil killed trent  in round 6
+Khalil killed JonahP  in round 6
+Leaf killed kon4n  in round 6
+Round 6 ended with detonate. The winning team is FURIA.
+The current score is FURIA 3 - 3 G2 Esports.
+Leaf killed Leaf  in round 7
+JonahP killed havoc  in round 7
+trent killed Nozwer  in round 7
+JonahP killed mwzera  in round 7
+Leaf killed Khalil  in round 7
+trent killed kon4n  in round 7
+Round 7 ended with elimination. The winning team is G2 Esports.
+The current score is FURIA 3 - 4 G2 Esports.
+Leaf killed havoc  in round 8
+icy killed Khalil  in round 8
+Nozwer killed icy  in round 8
+Nozwer killed Leaf  in round 8
+valyn killed Nozwer  in round 8
+JonahP killed mwzera  in round 8
+JonahP killed kon4n  in round 8
+Round 8 ended with spike_defuse. The winning team is G2 Esports.
+The current score is FURIA 3 - 5 G2 Esports.
+icy killed kon4n  in round 9
+Leaf killed Khalil  in round 9
+havoc killed icy  in round 9
+JonahP killed mwzera  in round 9
+JonahP killed havoc  in round 9
+JonahP killed Nozwer  in round 9
+Round 9 ended with elimination. The winning team is G2 Esports.
+The current score is FURIA 3 - 6 G2 Esports.
+Nozwer killed Leaf  in round 10
+JonahP killed kon4n  in round 10
+icy killed Khalil  in round 10
+havoc killed valyn  in round 10
+trent killed havoc  in round 10
+Nozwer killed icy  in round 10
+trent killed Nozwer  in round 10
+mwzera killed JonahP  in round 10
+trent killed mwzera  in round 10
+Round 10 ended with spike_defuse. The winning team is G2 Esports.
+The current score is FURIA 3 - 7 G2 Esports.
+trent killed kon4n  in round 11
+Leaf killed Khalil  in round 11
+Leaf killed havoc  in round 11
+icy killed Nozwer  in round 11
+JonahP killed mwzera  in round 11
+Round 11 ended with elimination. The winning team is G2 Esports.
+The current score is FURIA 3 - 8 G2 Esports.
+Leaf killed Khalil  in round 12
+valyn killed mwzera  in round 12
+kon4n killed valyn  in round 12
+Nozwer killed icy  in round 12
+trent killed Nozwer  in round 12
+Leaf killed havoc  in round 12
+trent killed kon4n  in round 12
+Round 12 ended with elimination. The winning team is G2 Esports.
+The current score is FURIA 3 - 9 G2 Esports.
+JonahP killed Khalil  in round 13
+havoc killed JonahP  in round 13
+valyn killed mwzera  in round 13
+valyn killed kon4n  in round 13
+valyn killed havoc  in round 13
+valyn killed Nozwer  in round 13
+Round 13 ended with elimination. The winning team is G2 Esports.
+The current score is FURIA 3 - 10 G2 Esports.
+JonahP killed kon4n  in round 14
+JonahP killed mwzera  in round 14
+valyn killed havoc  in round 14
+Nozwer killed trent  in round 14
+Nozwer killed valyn  in round 14
+icy killed Nozwer  in round 14
+icy killed Khalil  in round 14
+Round 14 ended with elimination. The winning team is G2 Esports.
+The current score is FURIA 3 - 11 G2 Esports.
+Nozwer killed valyn  in round 15
+mwzera killed Leaf  in round 15
+trent killed kon4n  in round 15
+icy killed mwzera  in round 15
+trent killed havoc  in round 15
+Nozwer killed trent  in round 15
+JonahP killed Khalil  in round 15
+Nozwer killed icy  in round 15
+JonahP killed Nozwer  in round 15
+Round 15 ended with elimination. The winning team is G2 Esports.
+The current score is FURIA 3 - 12 G2 Esports.
+valyn killed mwzera  in round 16
+Leaf killed kon4n  in round 16
+icy killed havoc  in round 16
+trent killed Khalil  in round 16
+JonahP killed Nozwer  in round 16
+Round 16 ended with elimination. The winning team is G2 Esports.
+The current score is FURIA 3 - 13 G2 Esports.
+Game ended with winning team: G2 Esports at 2024-04-22T22:33:02Z
+
+--- Player Stats ---
+icy: Team=G2 Esports, Kills=11, Deaths=10, Assists=4, KDA=1.5, First Kills=3, First Deaths=2
+Leaf: Team=G2 Esports, Kills=15, Deaths=6, Assists=4, KDA=3.17, First Kills=4, First Deaths=2
+valyn: Team=G2 Esports, Kills=9, Deaths=9, Assists=4, KDA=1.44, First Kills=1, First Deaths=2
+trent: Team=G2 Esports, Kills=19, Deaths=5, Assists=7, KDA=5.2, First Kills=1, First Deaths=0
+JonahP: Team=G2 Esports, Kills=19, Deaths=8, Assists=3, KDA=2.75, First Kills=2, First Deaths=0
+kon4n: Team=FURIA, Kills=3, Deaths=15, Assists=1, KDA=0.27, First Kills=0, First Deaths=3
+mwzera: Team=FURIA, Kills=5, Deaths=16, Assists=5, KDA=0.62, First Kills=1, First Deaths=2
+havoc: Team=FURIA, Kills=8, Deaths=14, Assists=2, KDA=0.71, First Kills=1, First Deaths=2
+Khalil: Team=FURIA, Kills=7, Deaths=13, Assists=5, KDA=0.92, First Kills=1, First Deaths=3
+Nozwer: Team=FURIA, Kills=14, Deaths=14, Assists=2, KDA=1.14, First Kills=2, First Deaths=0

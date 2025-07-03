@@ -1,0 +1,263 @@
+Team 1: KRÜ Esports
+Team 2: FNATIC
+Participating Players:
+Player 1: Chronicle
+Player 2: Derke
+Player 3: Boaster
+Player 4: Alfajer
+Player 5: Hiro  
+Player 6: KeznitdeuS
+Player 7: Shyy
+Player 8: Melser
+Player 9: mta
+Player 10: heat
+Winning Team: KRÜ Esports
+Score: KRÜ Esports 13 - 11 FNATIC
+Tournament Name: vct champions 2024
+Game Start Time: 2024-08-10T10:06:26Z
+Game End Time: 2024-08-10T11:11:45Z
+Rounds ended by ELIMINATION count: 15
+Rounds ended by DEFUSE count: 2
+Rounds ended by DETONATE count: 5
+SPIKE PLANTED count: 7
+platformGameId: val:47c24883-c299-4f6f-8836-1f87434bda34
+
+--- Events ---
+Game started at 2024-08-10T10:06:26Z
+KeznitdeuS killed Alfajer  in round 1
+KeznitdeuS killed Chronicle  in round 1
+Boaster killed mta  in round 1
+Shyy killed Boaster  in round 1
+Derke killed Melser  in round 1
+heat killed Derke  in round 1
+Hiro   killed KeznitdeuS  in round 1
+Hiro   killed Shyy  in round 1
+heat killed Hiro    in round 1
+Round 1 ended with elimination. The winning team is KRÜ Esports.
+The current score is KRÜ Esports 1 - 0 FNATIC.
+Boaster killed Shyy  in round 2
+heat killed Derke  in round 2
+Melser killed Hiro    in round 2
+heat killed Boaster  in round 2
+Melser killed Alfajer  in round 2
+Round 2 ended with detonate. The winning team is KRÜ Esports.
+The current score is KRÜ Esports 2 - 0 FNATIC.
+Chronicle killed Chronicle  in round 3
+Hiro   killed KeznitdeuS  in round 3
+Shyy killed Alfajer  in round 3
+Hiro   killed mta  in round 3
+Shyy killed Derke  in round 3
+Shyy killed Hiro    in round 3
+Melser killed Chronicle  in round 3
+Boaster killed heat  in round 3
+Boaster killed Melser  in round 3
+Round 3 ended with detonate. The winning team is KRÜ Esports.
+The current score is KRÜ Esports 3 - 0 FNATIC.
+Shyy killed Shyy  in round 4
+Shyy killed Boaster  in round 4
+heat killed Alfajer  in round 4
+Hiro   killed heat  in round 4
+Melser killed Hiro    in round 4
+KeznitdeuS killed Chronicle  in round 4
+KeznitdeuS killed Derke  in round 4
+Round 4 ended with elimination. The winning team is KRÜ Esports.
+The current score is KRÜ Esports 4 - 0 FNATIC.
+Melser killed Derke  in round 5
+KeznitdeuS killed Alfajer  in round 5
+KeznitdeuS killed Hiro    in round 5
+Chronicle killed KeznitdeuS  in round 5
+Chronicle killed mta  in round 5
+Chronicle killed heat  in round 5
+Chronicle killed Shyy  in round 5
+Melser killed Chronicle  in round 5
+Round 5 ended with time_expired. The winning team is FNATIC.
+The current score is KRÜ Esports 4 - 1 FNATIC.
+KeznitdeuS killed Derke  in round 6
+Chronicle killed Melser  in round 6
+Shyy killed Chronicle  in round 6
+Hiro   killed KeznitdeuS  in round 6
+mta killed Hiro    in round 6
+mta killed Boaster  in round 6
+Shyy killed Alfajer  in round 6
+Round 6 ended with elimination. The winning team is KRÜ Esports.
+The current score is KRÜ Esports 5 - 1 FNATIC.
+Shyy killed Alfajer  in round 7
+Hiro   killed Shyy  in round 7
+mta killed Boaster  in round 7
+Derke killed heat  in round 7
+mta killed Chronicle  in round 7
+Derke killed Melser  in round 7
+Hiro   killed KeznitdeuS  in round 7
+mta killed Hiro    in round 7
+mta killed Derke  in round 7
+Round 7 ended with elimination. The winning team is KRÜ Esports.
+The current score is KRÜ Esports 6 - 1 FNATIC.
+Chronicle killed KeznitdeuS  in round 8
+Chronicle killed mta  in round 8
+Chronicle killed Shyy  in round 8
+Derke killed Melser  in round 8
+Derke killed heat  in round 8
+Round 8 ended with elimination. The winning team is FNATIC.
+The current score is KRÜ Esports 6 - 2 FNATIC.
+mta killed Alfajer  in round 9
+Derke killed KeznitdeuS  in round 9
+Derke killed mta  in round 9
+heat killed Derke  in round 9
+Chronicle killed heat  in round 9
+Hiro   killed Shyy  in round 9
+Melser killed Chronicle  in round 9
+Melser killed Hiro    in round 9
+Melser killed Boaster  in round 9
+Round 9 ended with elimination. The winning team is KRÜ Esports.
+The current score is KRÜ Esports 7 - 2 FNATIC.
+Boaster killed KeznitdeuS  in round 10
+Shyy killed Chronicle  in round 10
+Hiro   killed heat  in round 10
+mta killed Hiro    in round 10
+Boaster killed mta  in round 10
+Alfajer killed Melser  in round 10
+Alfajer killed Shyy  in round 10
+Round 10 ended with spike_defuse. The winning team is FNATIC.
+The current score is KRÜ Esports 7 - 3 FNATIC.
+Boaster killed Shyy  in round 11
+Boaster killed mta  in round 11
+Hiro   killed KeznitdeuS  in round 11
+Derke killed heat  in round 11
+Derke killed Melser  in round 11
+Round 11 ended with elimination. The winning team is FNATIC.
+The current score is KRÜ Esports 7 - 4 FNATIC.
+KeznitdeuS killed Hiro    in round 12
+KeznitdeuS killed Boaster  in round 12
+KeznitdeuS killed Alfajer  in round 12
+KeznitdeuS killed Derke  in round 12
+Chronicle killed KeznitdeuS  in round 12
+Chronicle killed Shyy  in round 12
+Chronicle killed Melser  in round 12
+mta killed Chronicle  in round 12
+Round 12 ended with elimination. The winning team is KRÜ Esports.
+The current score is KRÜ Esports 8 - 4 FNATIC.
+Derke killed Melser  in round 13
+Boaster killed mta  in round 13
+KeznitdeuS killed Derke  in round 13
+Shyy killed Hiro    in round 13
+Chronicle killed Shyy  in round 13
+heat killed Boaster  in round 13
+KeznitdeuS killed Alfajer  in round 13
+Chronicle killed heat  in round 13
+Round 13 ended with time_expired. The winning team is KRÜ Esports.
+The current score is KRÜ Esports 9 - 4 FNATIC.
+Chronicle killed KeznitdeuS  in round 14
+Shyy killed Derke  in round 14
+heat killed Chronicle  in round 14
+heat killed Alfajer  in round 14
+KeznitdeuS killed Boaster  in round 14
+heat killed Hiro    in round 14
+Round 14 ended with elimination. The winning team is KRÜ Esports.
+The current score is KRÜ Esports 10 - 4 FNATIC.
+Shyy killed Hiro    in round 15
+Chronicle killed Shyy  in round 15
+Alfajer killed mta  in round 15
+heat killed Derke  in round 15
+Alfajer killed heat  in round 15
+KeznitdeuS killed Chronicle  in round 15
+KeznitdeuS killed Boaster  in round 15
+KeznitdeuS killed Alfajer  in round 15
+Round 15 ended with elimination. The winning team is KRÜ Esports.
+The current score is KRÜ Esports 11 - 4 FNATIC.
+Derke killed mta  in round 16
+Boaster killed heat  in round 16
+Boaster killed KeznitdeuS  in round 16
+Shyy killed Chronicle  in round 16
+Melser killed Derke  in round 16
+Shyy killed Hiro    in round 16
+Shyy killed Boaster  in round 16
+Alfajer killed Melser  in round 16
+Shyy killed Alfajer  in round 16
+Round 16 ended with detonate. The winning team is FNATIC.
+The current score is KRÜ Esports 11 - 5 FNATIC.
+Shyy killed Shyy  in round 17
+Derke killed Melser  in round 17
+heat killed Derke  in round 17
+Hiro   killed mta  in round 17
+Chronicle killed KeznitdeuS  in round 17
+Shyy killed Chronicle  in round 17
+Alfajer killed heat  in round 17
+Round 17 ended with detonate. The winning team is FNATIC.
+The current score is KRÜ Esports 11 - 6 FNATIC.
+Chronicle killed Melser  in round 18
+Alfajer killed mta  in round 18
+heat killed Hiro    in round 18
+Chronicle killed KeznitdeuS  in round 18
+heat killed Chronicle  in round 18
+Derke killed Shyy  in round 18
+Alfajer killed Derke  in round 18
+Round 18 ended with detonate. The winning team is FNATIC.
+The current score is KRÜ Esports 11 - 7 FNATIC.
+Hiro   killed Melser  in round 19
+Boaster killed KeznitdeuS  in round 19
+Shyy killed Derke  in round 19
+Boaster killed Shyy  in round 19
+Hiro   killed heat  in round 19
+Chronicle killed mta  in round 19
+Round 19 ended with elimination. The winning team is FNATIC.
+The current score is KRÜ Esports 11 - 8 FNATIC.
+Boaster killed Shyy  in round 20
+Alfajer killed mta  in round 20
+heat killed Boaster  in round 20
+Hiro   killed Melser  in round 20
+Alfajer killed KeznitdeuS  in round 20
+Derke killed heat  in round 20
+Round 20 ended with elimination. The winning team is FNATIC.
+The current score is KRÜ Esports 11 - 9 FNATIC.
+Melser killed Hiro    in round 21
+Chronicle killed Melser  in round 21
+KeznitdeuS killed Derke  in round 21
+Chronicle killed KeznitdeuS  in round 21
+Alfajer killed Shyy  in round 21
+heat killed Alfajer  in round 21
+Chronicle killed mta  in round 21
+Chronicle killed heat  in round 21
+Round 21 ended with elimination. The winning team is FNATIC.
+The current score is KRÜ Esports 11 - 10 FNATIC.
+Shyy killed Derke  in round 22
+Boaster killed Shyy  in round 22
+Melser killed Chronicle  in round 22
+mta killed Hiro    in round 22
+Boaster killed heat  in round 22
+Alfajer killed mta  in round 22
+KeznitdeuS killed Alfajer  in round 22
+KeznitdeuS killed Boaster  in round 22
+Round 22 ended with spike_defuse. The winning team is KRÜ Esports.
+The current score is KRÜ Esports 12 - 10 FNATIC.
+Shyy killed Derke  in round 23
+Alfajer killed Shyy  in round 23
+Hiro   killed Melser  in round 23
+Hiro   killed mta  in round 23
+KeznitdeuS killed Chronicle  in round 23
+Hiro   killed KeznitdeuS  in round 23
+Alfajer killed heat  in round 23
+Round 23 ended with elimination. The winning team is FNATIC.
+The current score is KRÜ Esports 12 - 11 FNATIC.
+heat killed Derke  in round 24
+Melser killed Boaster  in round 24
+Hiro   killed Melser  in round 24
+KeznitdeuS killed Hiro    in round 24
+Alfajer killed mta  in round 24
+heat killed Chronicle  in round 24
+Alfajer killed KeznitdeuS  in round 24
+Shyy killed Alfajer  in round 24
+Round 24 ended with elimination. The winning team is KRÜ Esports.
+The current score is KRÜ Esports 13 - 11 FNATIC.
+Game ended with winning team: KRÜ Esports at 2024-08-10T11:11:45Z
+
+--- Player Stats ---
+Chronicle: Team=FNATIC, Kills=25, Deaths=18, Assists=6, KDA=1.72, First Kills=4, First Deaths=1
+Derke: Team=FNATIC, Kills=14, Deaths=20, Assists=9, KDA=1.15, First Kills=2, First Deaths=5
+Boaster: Team=FNATIC, Kills=16, Deaths=14, Assists=3, KDA=1.36, First Kills=4, First Deaths=0
+Alfajer: Team=FNATIC, Kills=16, Deaths=16, Assists=11, KDA=1.69, First Kills=0, First Deaths=3
+Hiro  : Team=FNATIC, Kills=19, Deaths=18, Assists=6, KDA=1.39, First Kills=1, First Deaths=3
+KeznitdeuS: Team=KRÜ Esports, Kills=22, Deaths=19, Assists=6, KDA=1.47, First Kills=3, First Deaths=3
+Shyy: Team=KRÜ Esports, Kills=23, Deaths=19, Assists=9, KDA=1.68, First Kills=6, First Deaths=5
+Melser: Team=KRÜ Esports, Kills=13, Deaths=17, Assists=4, KDA=1.0, First Kills=2, First Deaths=3
+mta: Team=KRÜ Esports, Kills=10, Deaths=18, Assists=5, KDA=0.83, First Kills=1, First Deaths=1
+heat: Team=KRÜ Esports, Kills=18, Deaths=17, Assists=8, KDA=1.53, First Kills=1, First Deaths=0

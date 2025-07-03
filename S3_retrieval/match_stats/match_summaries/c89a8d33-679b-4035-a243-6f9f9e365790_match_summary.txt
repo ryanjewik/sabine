@@ -1,0 +1,189 @@
+Team 1: PAPER REX
+Team 2: GLOBAL ESPORTS
+Participating Players:
+Player 1: blaZek1ngg
+Player 2: Benkai
+Player 3: Russ
+Player 4: polvi
+Player 5: Lightningfa
+Player 6: f0rsakeN
+Player 7: mindfreak
+Player 8: d4v41
+Player 9: something
+Player 10: Jinggg
+Winning Team: PAPER REX
+Score: PAPER REX 13 - 4 GLOBAL ESPORTS
+Tournament Name: vct pacific stage 1 2024
+Game Start Time: 2024-04-23T10:51:55Z
+Game End Time: 2024-04-23T11:33:38Z
+Rounds ended by ELIMINATION count: 12
+Rounds ended by DEFUSE count: 3
+Rounds ended by DETONATE count: 2
+SPIKE PLANTED count: 5
+platformGameId: val:c89a8d33-679b-4035-a243-6f9f9e365790
+
+--- Events ---
+Game started at 2024-04-23T10:51:55Z
+Lightningfa killed mindfreak  in round 1
+d4v41 killed Russ  in round 1
+something killed Lightningfa  in round 1
+Jinggg killed blaZek1ngg  in round 1
+polvi killed Jinggg  in round 1
+f0rsakeN killed polvi  in round 1
+Benkai killed d4v41  in round 1
+Benkai killed something  in round 1
+f0rsakeN killed Benkai  in round 1
+Round 1 ended with elimination. The winning team is PAPER REX.
+The current score is PAPER REX 1 - 0 GLOBAL ESPORTS.
+d4v41 killed Russ  in round 2
+something killed polvi  in round 2
+d4v41 killed Benkai  in round 2
+mindfreak killed Lightningfa  in round 2
+d4v41 killed blaZek1ngg  in round 2
+Round 2 ended with elimination. The winning team is PAPER REX.
+The current score is PAPER REX 2 - 0 GLOBAL ESPORTS.
+blaZek1ngg killed Jinggg  in round 3
+blaZek1ngg killed f0rsakeN  in round 3
+mindfreak killed blaZek1ngg  in round 3
+mindfreak killed polvi  in round 3
+Russ killed d4v41  in round 3
+something killed Russ  in round 3
+something killed Lightningfa  in round 3
+Benkai killed mindfreak  in round 3
+something killed Benkai  in round 3
+Round 3 ended with elimination. The winning team is PAPER REX.
+The current score is PAPER REX 3 - 0 GLOBAL ESPORTS.
+d4v41 killed Benkai  in round 4
+Lightningfa killed d4v41  in round 4
+Lightningfa killed f0rsakeN  in round 4
+Jinggg killed polvi  in round 4
+Jinggg killed Russ  in round 4
+something killed Lightningfa  in round 4
+something killed blaZek1ngg  in round 4
+Round 4 ended with elimination. The winning team is PAPER REX.
+The current score is PAPER REX 4 - 0 GLOBAL ESPORTS.
+Jinggg killed blaZek1ngg  in round 5
+d4v41 killed Russ  in round 5
+d4v41 killed polvi  in round 5
+Jinggg killed Lightningfa  in round 5
+d4v41 killed Benkai  in round 5
+Round 5 ended with elimination. The winning team is PAPER REX.
+The current score is PAPER REX 5 - 0 GLOBAL ESPORTS.
+Lightningfa killed something  in round 6
+mindfreak killed blaZek1ngg  in round 6
+something killed polvi  in round 6
+Russ killed mindfreak  in round 6
+Russ killed Jinggg  in round 6
+f0rsakeN killed Russ  in round 6
+something killed Lightningfa  in round 6
+Benkai killed f0rsakeN  in round 6
+d4v41 killed Benkai  in round 6
+Round 6 ended with elimination. The winning team is PAPER REX.
+The current score is PAPER REX 6 - 0 GLOBAL ESPORTS.
+mindfreak killed blaZek1ngg  in round 7
+Jinggg killed polvi  in round 7
+Russ killed f0rsakeN  in round 7
+Round 7 ended with detonate. The winning team is PAPER REX.
+The current score is PAPER REX 7 - 0 GLOBAL ESPORTS.
+Benkai killed Jinggg  in round 8
+Russ killed d4v41  in round 8
+polvi killed mindfreak  in round 8
+f0rsakeN killed Lightningfa  in round 8
+Benkai killed Jinggg  in round 8
+polvi killed f0rsakeN  in round 8
+Round 8 ended with spike_defuse. The winning team is GLOBAL ESPORTS.
+The current score is PAPER REX 7 - 1 GLOBAL ESPORTS.
+f0rsakeN killed Benkai  in round 9
+Russ killed d4v41  in round 9
+Lightningfa killed Jinggg  in round 9
+mindfreak killed Russ  in round 9
+Lightningfa killed f0rsakeN  in round 9
+something killed Lightningfa  in round 9
+something killed Benkai  in round 9
+blaZek1ngg killed something  in round 9
+mindfreak killed blaZek1ngg  in round 9
+mindfreak killed polvi  in round 9
+Round 9 ended with elimination. The winning team is PAPER REX.
+The current score is PAPER REX 8 - 1 GLOBAL ESPORTS.
+blaZek1ngg killed Jinggg  in round 10
+polvi killed f0rsakeN  in round 10
+d4v41 killed Lightningfa  in round 10
+Russ killed mindfreak  in round 10
+something killed Russ  in round 10
+something killed Benkai  in round 10
+polvi killed d4v41  in round 10
+something killed polvi  in round 10
+blaZek1ngg killed something  in round 10
+Round 10 ended with spike_defuse. The winning team is GLOBAL ESPORTS.
+The current score is PAPER REX 8 - 2 GLOBAL ESPORTS.
+blaZek1ngg killed Jinggg  in round 11
+something killed blaZek1ngg  in round 11
+mindfreak killed Russ  in round 11
+d4v41 killed Lightningfa  in round 11
+Round 11 ended with detonate. The winning team is PAPER REX.
+The current score is PAPER REX 9 - 2 GLOBAL ESPORTS.
+something killed Lightningfa  in round 12
+Jinggg killed Benkai  in round 12
+Jinggg killed blaZek1ngg  in round 12
+Jinggg killed Russ  in round 12
+f0rsakeN killed polvi  in round 12
+Round 12 ended with elimination. The winning team is PAPER REX.
+The current score is PAPER REX 10 - 2 GLOBAL ESPORTS.
+polvi killed d4v41  in round 13
+mindfreak killed Lightningfa  in round 13
+polvi killed mindfreak  in round 13
+f0rsakeN killed Russ  in round 13
+blaZek1ngg killed f0rsakeN  in round 13
+blaZek1ngg killed Jinggg  in round 13
+polvi killed something  in round 13
+Round 13 ended with elimination. The winning team is GLOBAL ESPORTS.
+The current score is PAPER REX 10 - 3 GLOBAL ESPORTS.
+d4v41 killed Lightningfa  in round 14
+Russ killed something  in round 14
+Russ killed f0rsakeN  in round 14
+polvi killed d4v41  in round 14
+blaZek1ngg killed mindfreak  in round 14
+blaZek1ngg killed Jinggg  in round 14
+Round 14 ended with elimination. The winning team is GLOBAL ESPORTS.
+The current score is PAPER REX 10 - 4 GLOBAL ESPORTS.
+Jinggg killed blaZek1ngg  in round 15
+f0rsakeN killed Lightningfa  in round 15
+polvi killed f0rsakeN  in round 15
+Jinggg killed polvi  in round 15
+Russ killed Jinggg  in round 15
+d4v41 killed Benkai  in round 15
+something killed Russ  in round 15
+Round 15 ended with elimination. The winning team is PAPER REX.
+The current score is PAPER REX 11 - 4 GLOBAL ESPORTS.
+d4v41 killed Lightningfa  in round 16
+mindfreak killed Benkai  in round 16
+mindfreak killed Russ  in round 16
+Jinggg killed blaZek1ngg  in round 16
+polvi killed f0rsakeN  in round 16
+Jinggg killed polvi  in round 16
+Round 16 ended with elimination. The winning team is PAPER REX.
+The current score is PAPER REX 12 - 4 GLOBAL ESPORTS.
+blaZek1ngg killed f0rsakeN  in round 17
+Jinggg killed Russ  in round 17
+Lightningfa killed something  in round 17
+mindfreak killed Lightningfa  in round 17
+Jinggg killed Benkai  in round 17
+blaZek1ngg killed mindfreak  in round 17
+d4v41 killed polvi  in round 17
+blaZek1ngg killed d4v41  in round 17
+Jinggg killed blaZek1ngg  in round 17
+Round 17 ended with spike_defuse. The winning team is PAPER REX.
+The current score is PAPER REX 13 - 4 GLOBAL ESPORTS.
+Game ended with winning team: PAPER REX at 2024-04-23T11:33:38Z
+
+--- Player Stats ---
+blaZek1ngg: Team=GLOBAL ESPORTS, Kills=13, Deaths=13, Assists=3, KDA=1.23, First Kills=4, First Deaths=3
+Benkai: Team=GLOBAL ESPORTS, Kills=6, Deaths=13, Assists=4, KDA=0.77, First Kills=1, First Deaths=2
+Russ: Team=GLOBAL ESPORTS, Kills=10, Deaths=14, Assists=7, KDA=1.21, First Kills=0, First Deaths=1
+polvi: Team=GLOBAL ESPORTS, Kills=11, Deaths=13, Assists=3, KDA=1.08, First Kills=1, First Deaths=0
+Lightningfa: Team=GLOBAL ESPORTS, Kills=7, Deaths=16, Assists=4, KDA=0.69, First Kills=2, First Deaths=3
+f0rsakeN: Team=PAPER REX, Kills=8, Deaths=12, Assists=12, KDA=1.67, First Kills=1, First Deaths=1
+mindfreak: Team=PAPER REX, Kills=13, Deaths=8, Assists=5, KDA=2.25, First Kills=1, First Deaths=1
+d4v41: Team=PAPER REX, Kills=15, Deaths=9, Assists=12, KDA=3.0, First Kills=4, First Deaths=1
+something: Team=PAPER REX, Kills=17, Deaths=7, Assists=3, KDA=2.86, First Kills=1, First Deaths=1
+Jinggg: Team=PAPER REX, Kills=16, Deaths=11, Assists=1, KDA=1.55, First Kills=2, First Deaths=4

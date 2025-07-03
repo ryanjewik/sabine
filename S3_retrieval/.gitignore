@@ -7,6 +7,6 @@
 **/games/
 val
 val_*
-*_match_summary.txt
+
 _pycache
 __pycache__

@@ -1,0 +1,208 @@
+Team 1: T1
+Team 2: PAPER REX
+Participating Players:
+Player 1: f0rsakeN
+Player 2: mindfreak
+Player 3: d4v41
+Player 4: something
+Player 5: Jinggg
+Player 6: Xccurate
+Player 7: Rossy
+Player 8: carpe
+Player 9: iZu
+Player 10: Sayaplayer
+Winning Team: PAPER REX
+Score: T1 5 - 13 PAPER REX
+Tournament Name: vct pacific stage 1 2024
+Game Start Time: 2024-05-05T08:57:20Z
+Game End Time: 2024-05-05T09:32:14Z
+Rounds ended by ELIMINATION count: 14
+Rounds ended by DEFUSE count: 3
+Rounds ended by DETONATE count: 1
+SPIKE PLANTED count: 4
+platformGameId: val:db6988a4-78d2-4f75-9d5a-a18390b985ed
+
+--- Events ---
+Game started at 2024-05-05T08:57:20Z
+something killed Sayaplayer  in round 1
+Rossy killed something  in round 1
+f0rsakeN killed iZu  in round 1
+f0rsakeN killed Rossy  in round 1
+mindfreak killed Xccurate  in round 1
+carpe killed mindfreak  in round 1
+f0rsakeN killed carpe  in round 1
+Round 1 ended with elimination. The winning team is PAPER REX.
+The current score is T1 0 - 1 PAPER REX.
+d4v41 killed Sayaplayer  in round 2
+d4v41 killed iZu  in round 2
+mindfreak killed Rossy  in round 2
+mindfreak killed carpe  in round 2
+Xccurate killed mindfreak  in round 2
+Xccurate killed d4v41  in round 2
+something killed Xccurate  in round 2
+Round 2 ended with elimination. The winning team is PAPER REX.
+The current score is T1 0 - 2 PAPER REX.
+something killed Xccurate  in round 3
+Sayaplayer killed f0rsakeN  in round 3
+something killed carpe  in round 3
+something killed Sayaplayer  in round 3
+something killed iZu  in round 3
+Rossy killed something  in round 3
+Rossy killed d4v41  in round 3
+Rossy killed Jinggg  in round 3
+Rossy killed mindfreak  in round 3
+Round 3 ended with elimination. The winning team is T1.
+The current score is T1 1 - 2 PAPER REX.
+Rossy killed Rossy  in round 4
+something killed Sayaplayer  in round 4
+d4v41 killed Rossy  in round 4
+d4v41 killed Xccurate  in round 4
+something killed iZu  in round 4
+carpe killed d4v41  in round 4
+Jinggg killed carpe  in round 4
+Round 4 ended with elimination. The winning team is PAPER REX.
+The current score is T1 1 - 3 PAPER REX.
+f0rsakeN killed carpe  in round 5
+d4v41 killed Rossy  in round 5
+f0rsakeN killed iZu  in round 5
+Sayaplayer killed f0rsakeN  in round 5
+d4v41 killed Xccurate  in round 5
+Sayaplayer killed Jinggg  in round 5
+d4v41 killed Sayaplayer  in round 5
+Round 5 ended with elimination. The winning team is PAPER REX.
+The current score is T1 1 - 4 PAPER REX.
+d4v41 killed Rossy  in round 6
+Sayaplayer killed f0rsakeN  in round 6
+iZu killed something  in round 6
+carpe killed Jinggg  in round 6
+mindfreak killed Sayaplayer  in round 6
+mindfreak killed carpe  in round 6
+mindfreak killed iZu  in round 6
+Xccurate killed d4v41  in round 6
+mindfreak killed Xccurate  in round 6
+Round 6 ended with detonate. The winning team is T1.
+The current score is T1 2 - 4 PAPER REX.
+mindfreak killed mindfreak  in round 7
+Xccurate killed d4v41  in round 7
+Jinggg killed iZu  in round 7
+Jinggg killed Sayaplayer  in round 7
+Jinggg killed carpe  in round 7
+Xccurate killed Jinggg  in round 7
+f0rsakeN killed Xccurate  in round 7
+Rossy killed f0rsakeN  in round 7
+Rossy killed something  in round 7
+mindfreak killed Rossy  in round 7
+Round 7 ended with elimination. The winning team is PAPER REX.
+The current score is T1 2 - 5 PAPER REX.
+Rossy killed d4v41  in round 8
+f0rsakeN killed Xccurate  in round 8
+mindfreak killed Rossy  in round 8
+mindfreak killed carpe  in round 8
+Sayaplayer killed mindfreak  in round 8
+f0rsakeN killed iZu  in round 8
+f0rsakeN killed Sayaplayer  in round 8
+Round 8 ended with elimination. The winning team is PAPER REX.
+The current score is T1 2 - 6 PAPER REX.
+Jinggg killed Sayaplayer  in round 9
+Jinggg killed iZu  in round 9
+Xccurate killed Jinggg  in round 9
+f0rsakeN killed carpe  in round 9
+mindfreak killed Rossy  in round 9
+mindfreak killed Xccurate  in round 9
+Round 9 ended with spike_defuse. The winning team is PAPER REX.
+The current score is T1 2 - 7 PAPER REX.
+d4v41 killed Sayaplayer  in round 10
+d4v41 killed Rossy  in round 10
+Xccurate killed Jinggg  in round 10
+f0rsakeN killed iZu  in round 10
+d4v41 killed Xccurate  in round 10
+something killed carpe  in round 10
+Round 10 ended with elimination. The winning team is PAPER REX.
+The current score is T1 2 - 8 PAPER REX.
+f0rsakeN killed iZu  in round 11
+something killed carpe  in round 11
+something killed Rossy  in round 11
+Sayaplayer killed f0rsakeN  in round 11
+Jinggg killed Sayaplayer  in round 11
+Xccurate killed something  in round 11
+Xccurate killed d4v41  in round 11
+Xccurate killed Jinggg  in round 11
+mindfreak killed Xccurate  in round 11
+Round 11 ended with spike_defuse. The winning team is PAPER REX.
+The current score is T1 2 - 9 PAPER REX.
+Jinggg killed iZu  in round 12
+carpe killed something  in round 12
+mindfreak killed carpe  in round 12
+f0rsakeN killed Xccurate  in round 12
+mindfreak killed Rossy  in round 12
+Sayaplayer killed f0rsakeN  in round 12
+f0rsakeN killed Sayaplayer  in round 12
+Round 12 ended with elimination. The winning team is PAPER REX.
+The current score is T1 2 - 10 PAPER REX.
+Jinggg killed iZu  in round 13
+Xccurate killed something  in round 13
+Rossy killed Jinggg  in round 13
+f0rsakeN killed Xccurate  in round 13
+Rossy killed f0rsakeN  in round 13
+carpe killed mindfreak  in round 13
+Sayaplayer killed d4v41  in round 13
+Round 13 ended with spike_defuse. The winning team is T1.
+The current score is T1 3 - 10 PAPER REX.
+iZu killed mindfreak  in round 14
+Sayaplayer killed f0rsakeN  in round 14
+iZu killed Jinggg  in round 14
+carpe killed something  in round 14
+Sayaplayer killed d4v41  in round 14
+Round 14 ended with elimination. The winning team is T1.
+The current score is T1 4 - 10 PAPER REX.
+Xccurate killed d4v41  in round 15
+something killed Xccurate  in round 15
+Rossy killed f0rsakeN  in round 15
+Jinggg killed Sayaplayer  in round 15
+carpe killed Jinggg  in round 15
+carpe killed something  in round 15
+iZu killed mindfreak  in round 15
+Round 15 ended with elimination. The winning team is T1.
+The current score is T1 5 - 10 PAPER REX.
+d4v41 killed iZu  in round 16
+Xccurate killed d4v41  in round 16
+Xccurate killed something  in round 16
+Jinggg killed Xccurate  in round 16
+Jinggg killed Sayaplayer  in round 16
+f0rsakeN killed carpe  in round 16
+Jinggg killed Rossy  in round 16
+Round 16 ended with elimination. The winning team is PAPER REX.
+The current score is T1 5 - 11 PAPER REX.
+something killed iZu  in round 17
+Xccurate killed Jinggg  in round 17
+d4v41 killed Xccurate  in round 17
+Sayaplayer killed something  in round 17
+carpe killed mindfreak  in round 17
+f0rsakeN killed Rossy  in round 17
+d4v41 killed carpe  in round 17
+d4v41 killed Sayaplayer  in round 17
+Round 17 ended with elimination. The winning team is PAPER REX.
+The current score is T1 5 - 12 PAPER REX.
+Jinggg killed carpe  in round 18
+f0rsakeN killed Rossy  in round 18
+Sayaplayer killed f0rsakeN  in round 18
+something killed iZu  in round 18
+Xccurate killed mindfreak  in round 18
+Jinggg killed Xccurate  in round 18
+Sayaplayer killed something  in round 18
+d4v41 killed Sayaplayer  in round 18
+Round 18 ended with elimination. The winning team is PAPER REX.
+The current score is T1 5 - 13 PAPER REX.
+Game ended with winning team: PAPER REX at 2024-05-05T09:32:14Z
+
+--- Player Stats ---
+f0rsakeN: Team=PAPER REX, Kills=18, Deaths=10, Assists=8, KDA=2.6, First Kills=2, First Deaths=0
+mindfreak: Team=PAPER REX, Kills=16, Deaths=10, Assists=13, KDA=2.9, First Kills=1, First Deaths=2
+d4v41: Team=PAPER REX, Kills=16, Deaths=11, Assists=6, KDA=2.0, First Kills=4, First Deaths=2
+something: Team=PAPER REX, Kills=14, Deaths=12, Assists=8, KDA=1.83, First Kills=3, First Deaths=0
+Jinggg: Team=PAPER REX, Kills=15, Deaths=11, Assists=2, KDA=1.55, First Kills=4, First Deaths=0
+Xccurate: Team=T1, Kills=16, Deaths=17, Assists=4, KDA=1.18, First Kills=1, First Deaths=1
+Rossy: Team=T1, Kills=12, Deaths=15, Assists=5, KDA=1.13, First Kills=2, First Deaths=2
+carpe: Team=T1, Kills=9, Deaths=15, Assists=3, KDA=0.8, First Kills=0, First Deaths=2
+iZu: Team=T1, Kills=4, Deaths=16, Assists=3, KDA=0.44, First Kills=1, First Deaths=5
+Sayaplayer: Team=T1, Kills=13, Deaths=16, Assists=2, KDA=0.94, First Kills=0, First Deaths=4

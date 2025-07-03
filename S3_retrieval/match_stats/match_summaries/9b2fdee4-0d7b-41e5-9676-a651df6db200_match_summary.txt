@@ -1,0 +1,185 @@
+Team 1: NAVI
+Team 2: Team Vitality
+Participating Players:
+Player 1: Sayf
+Player 2: runneR
+Player 3: ceNder
+Player 4: Kicks
+Player 5: Trexx
+Player 6: Zyppan
+Player 7: Shao
+Player 8: ANGE1
+Player 9: ardiis
+Player 10: suygetsu
+Winning Team: NAVI
+Score: NAVI 13 - 4 Team Vitality
+Tournament Name: vct emea stage 1 2024
+Game Start Time: 2024-04-04T16:03:23Z
+Game End Time: 2024-04-04T16:42:58Z
+Rounds ended by ELIMINATION count: 8
+Rounds ended by DEFUSE count: 6
+Rounds ended by DETONATE count: 3
+SPIKE PLANTED count: 9
+platformGameId: val:9b2fdee4-0d7b-41e5-9676-a651df6db200
+
+--- Events ---
+Game started at 2024-04-04T16:03:23Z
+Kicks killed Shao  in round 1
+Zyppan killed runneR  in round 1
+Trexx killed Zyppan  in round 1
+Sayf killed ANGE1  in round 1
+Trexx killed ardiis  in round 1
+suygetsu killed Kicks  in round 1
+Round 1 ended with spike_defuse. The winning team is Team Vitality.
+The current score is NAVI 0 - 1 Team Vitality.
+Sayf killed suygetsu  in round 2
+ANGE1 killed Kicks  in round 2
+runneR killed ANGE1  in round 2
+runneR killed ardiis  in round 2
+runneR killed Shao  in round 2
+runneR killed Zyppan  in round 2
+runneR killed suygetsu  in round 2
+Round 2 ended with spike_defuse. The winning team is Team Vitality.
+The current score is NAVI 0 - 2 Team Vitality.
+runneR killed Shao  in round 3
+Zyppan killed runneR  in round 3
+suygetsu killed Trexx  in round 3
+suygetsu killed Kicks  in round 3
+Sayf killed suygetsu  in round 3
+Zyppan killed ceNder  in round 3
+ANGE1 killed Sayf  in round 3
+Round 3 ended with elimination. The winning team is NAVI.
+The current score is NAVI 1 - 2 Team Vitality.
+Trexx killed ANGE1  in round 4
+runneR killed ardiis  in round 4
+Shao killed runneR  in round 4
+Kicks killed Zyppan  in round 4
+suygetsu killed Kicks  in round 4
+Trexx killed suygetsu  in round 4
+Shao killed Trexx  in round 4
+Shao killed Sayf  in round 4
+Shao killed ceNder  in round 4
+Round 4 ended with elimination. The winning team is NAVI.
+The current score is NAVI 2 - 2 Team Vitality.
+suygetsu killed Sayf  in round 5
+ANGE1 killed Trexx  in round 5
+runneR killed ANGE1  in round 5
+suygetsu killed ceNder  in round 5
+Zyppan killed runneR  in round 5
+Kicks killed Zyppan  in round 5
+Shao killed Kicks  in round 5
+Round 5 ended with elimination. The winning team is NAVI.
+The current score is NAVI 3 - 2 Team Vitality.
+runneR killed suygetsu  in round 6
+ceNder killed ANGE1  in round 6
+ceNder killed ardiis  in round 6
+Shao killed ceNder  in round 6
+Zyppan killed runneR  in round 6
+Shao killed Trexx  in round 6
+Zyppan killed Sayf  in round 6
+Zyppan killed Kicks  in round 6
+Round 6 ended with elimination. The winning team is NAVI.
+The current score is NAVI 4 - 2 Team Vitality.
+ANGE1 killed ceNder  in round 7
+ANGE1 killed Trexx  in round 7
+Zyppan killed Kicks  in round 7
+Round 7 ended with detonate. The winning team is NAVI.
+The current score is NAVI 5 - 2 Team Vitality.
+ANGE1 killed Trexx  in round 8
+runneR killed ANGE1  in round 8
+runneR killed Zyppan  in round 8
+Sayf killed Shao  in round 8
+Kicks killed ardiis  in round 8
+Sayf killed suygetsu  in round 8
+Round 8 ended with spike_defuse. The winning team is Team Vitality.
+The current score is NAVI 5 - 3 Team Vitality.
+runneR killed ANGE1  in round 9
+suygetsu killed Sayf  in round 9
+Shao killed Kicks  in round 9
+Trexx killed suygetsu  in round 9
+Shao killed Trexx  in round 9
+Shao killed runneR  in round 9
+runneR killed Shao  in round 9
+ardiis killed ceNder  in round 9
+Round 9 ended with elimination. The winning team is NAVI.
+The current score is NAVI 6 - 3 Team Vitality.
+Shao killed ceNder  in round 10
+Sayf killed ANGE1  in round 10
+Zyppan killed Sayf  in round 10
+runneR killed Zyppan  in round 10
+ardiis killed runneR  in round 10
+ardiis killed Trexx  in round 10
+Round 10 ended with detonate. The winning team is NAVI.
+The current score is NAVI 7 - 3 Team Vitality.
+ardiis killed ceNder  in round 11
+runneR killed Shao  in round 11
+ardiis killed runneR  in round 11
+suygetsu killed Sayf  in round 11
+Round 11 ended with detonate. The winning team is NAVI.
+The current score is NAVI 8 - 3 Team Vitality.
+Trexx killed Trexx  in round 12
+Zyppan killed Sayf  in round 12
+Shao killed Kicks  in round 12
+suygetsu killed runneR  in round 12
+suygetsu killed ceNder  in round 12
+Trexx killed Zyppan  in round 12
+ANGE1 killed Trexx  in round 12
+Round 12 ended with elimination. The winning team is NAVI.
+The current score is NAVI 9 - 3 Team Vitality.
+runneR killed ardiis  in round 13
+runneR killed Zyppan  in round 13
+ANGE1 killed runneR  in round 13
+Kicks killed ANGE1  in round 13
+Sayf killed Shao  in round 13
+suygetsu killed ceNder  in round 13
+Kicks killed suygetsu  in round 13
+Round 13 ended with elimination. The winning team is Team Vitality.
+The current score is NAVI 9 - 4 Team Vitality.
+Shao killed runneR  in round 14
+Shao killed ceNder  in round 14
+Sayf killed Zyppan  in round 14
+suygetsu killed Trexx  in round 14
+ANGE1 killed Sayf  in round 14
+Kicks killed ANGE1  in round 14
+Kicks killed ardiis  in round 14
+Shao killed Kicks  in round 14
+Round 14 ended with spike_defuse. The winning team is NAVI.
+The current score is NAVI 10 - 4 Team Vitality.
+suygetsu killed Trexx  in round 15
+Sayf killed suygetsu  in round 15
+Kicks killed ANGE1  in round 15
+Zyppan killed Kicks  in round 15
+Zyppan killed runneR  in round 15
+Shao killed ceNder  in round 15
+Zyppan killed Sayf  in round 15
+Round 15 ended with spike_defuse. The winning team is NAVI.
+The current score is NAVI 11 - 4 Team Vitality.
+Zyppan killed runneR  in round 16
+ardiis killed ceNder  in round 16
+suygetsu killed Sayf  in round 16
+suygetsu killed Kicks  in round 16
+Shao killed Trexx  in round 16
+Round 16 ended with elimination. The winning team is NAVI.
+The current score is NAVI 12 - 4 Team Vitality.
+Zyppan killed Trexx  in round 17
+Sayf killed ANGE1  in round 17
+Zyppan killed Kicks  in round 17
+ardiis killed runneR  in round 17
+Sayf killed Zyppan  in round 17
+suygetsu killed ceNder  in round 17
+suygetsu killed Sayf  in round 17
+Round 17 ended with spike_defuse. The winning team is NAVI.
+The current score is NAVI 13 - 4 Team Vitality.
+Game ended with winning team: NAVI at 2024-04-04T16:42:58Z
+
+--- Player Stats ---
+Sayf: Team=Team Vitality, Kills=11, Deaths=12, Assists=3, KDA=1.17, First Kills=1, First Deaths=1
+runneR: Team=Team Vitality, Kills=17, Deaths=14, Assists=1, KDA=1.29, First Kills=4, First Deaths=2
+ceNder: Team=Team Vitality, Kills=2, Deaths=14, Assists=4, KDA=0.43, First Kills=0, First Deaths=3
+Kicks: Team=Team Vitality, Kills=9, Deaths=13, Assists=2, KDA=0.85, First Kills=1, First Deaths=0
+Trexx: Team=Team Vitality, Kills=7, Deaths=14, Assists=8, KDA=1.07, First Kills=2, First Deaths=4
+Zyppan: Team=NAVI, Kills=16, Deaths=10, Assists=4, KDA=2.0, First Kills=2, First Deaths=0
+Shao: Team=NAVI, Kills=17, Deaths=7, Assists=3, KDA=2.86, First Kills=2, First Deaths=2
+ANGE1: Team=NAVI, Kills=9, Deaths=12, Assists=5, KDA=1.17, First Kills=2, First Deaths=2
+ardiis: Team=NAVI, Kills=7, Deaths=7, Assists=10, KDA=2.43, First Kills=1, First Deaths=1
+suygetsu: Team=NAVI, Kills=17, Deaths=9, Assists=1, KDA=2.0, First Kills=2, First Deaths=2

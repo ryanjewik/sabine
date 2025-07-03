@@ -1,0 +1,211 @@
+Team 1: PAPER REX
+Team 2: Karmine Corp
+Participating Players:
+Player 1: Shin 
+Player 2: Tomaszy
+Player 3: MAGNUM
+Player 4: marteen
+Player 5: N4RRATE
+Player 6: Monyet
+Player 7: mindfreak
+Player 8: d4v41
+Player 9: something
+Player 10: f0rsakeN
+Winning Team: Karmine Corp
+Score: PAPER REX 6 - 13 Karmine Corp
+Tournament Name: vct masters madrid 2024
+Game Start Time: 2024-03-18T17:55:16Z
+Game End Time: 2024-03-18T18:38:01Z
+Rounds ended by ELIMINATION count: 4
+Rounds ended by DEFUSE count: 8
+Rounds ended by DETONATE count: 6
+SPIKE PLANTED count: 14
+platformGameId: val:abab5b36-2f2c-440e-ad95-eb027e6dd6d9
+
+--- Events ---
+Game started at 2024-03-18T17:55:16Z
+Monyet killed Tomaszy  in round 1
+f0rsakeN killed MAGNUM  in round 1
+marteen killed f0rsakeN  in round 1
+Monyet killed marteen  in round 1
+something killed Shin   in round 1
+N4RRATE killed d4v41  in round 1
+mindfreak killed N4RRATE  in round 1
+Round 1 ended with elimination. The winning team is PAPER REX.
+The current score is PAPER REX 1 - 0 Karmine Corp.
+N4RRATE killed f0rsakeN  in round 2
+something killed N4RRATE  in round 2
+MAGNUM killed something  in round 2
+Monyet killed Tomaszy  in round 2
+MAGNUM killed Monyet  in round 2
+Round 2 ended with detonate. The winning team is PAPER REX.
+The current score is PAPER REX 2 - 0 Karmine Corp.
+marteen killed marteen  in round 3
+Shin  killed Shin   in round 3
+MAGNUM killed MAGNUM  in round 3
+N4RRATE killed mindfreak  in round 3
+f0rsakeN killed marteen  in round 3
+Tomaszy killed f0rsakeN  in round 3
+d4v41 killed MAGNUM  in round 3
+Tomaszy killed d4v41  in round 3
+Shin  killed something  in round 3
+N4RRATE killed Monyet  in round 3
+Round 3 ended with spike_defuse. The winning team is Karmine Corp.
+The current score is PAPER REX 2 - 1 Karmine Corp.
+Monyet killed marteen  in round 4
+something killed Shin   in round 4
+d4v41 killed MAGNUM  in round 4
+N4RRATE killed Monyet  in round 4
+d4v41 killed Tomaszy  in round 4
+Round 4 ended with detonate. The winning team is PAPER REX.
+The current score is PAPER REX 3 - 1 Karmine Corp.
+f0rsakeN killed marteen  in round 5
+Monyet killed Tomaszy  in round 5
+MAGNUM killed Monyet  in round 5
+MAGNUM killed something  in round 5
+mindfreak killed Shin   in round 5
+f0rsakeN killed MAGNUM  in round 5
+N4RRATE killed f0rsakeN  in round 5
+N4RRATE killed mindfreak  in round 5
+N4RRATE killed d4v41  in round 5
+Round 5 ended with spike_defuse. The winning team is Karmine Corp.
+The current score is PAPER REX 3 - 2 Karmine Corp.
+MAGNUM killed Monyet  in round 6
+marteen killed f0rsakeN  in round 6
+marteen killed d4v41  in round 6
+marteen killed mindfreak  in round 6
+something killed N4RRATE  in round 6
+something killed marteen  in round 6
+something killed Shin   in round 6
+Tomaszy killed something  in round 6
+Round 6 ended with spike_defuse. The winning team is Karmine Corp.
+The current score is PAPER REX 3 - 3 Karmine Corp.
+marteen killed Monyet  in round 7
+marteen killed d4v41  in round 7
+marteen killed mindfreak  in round 7
+MAGNUM killed f0rsakeN  in round 7
+something killed marteen  in round 7
+Round 7 ended with spike_defuse. The winning team is Karmine Corp.
+The current score is PAPER REX 3 - 4 Karmine Corp.
+Tomaszy killed something  in round 8
+MAGNUM killed something  in round 8
+f0rsakeN killed Shin   in round 8
+N4RRATE killed Monyet  in round 8
+marteen killed mindfreak  in round 8
+f0rsakeN killed Tomaszy  in round 8
+marteen killed f0rsakeN  in round 8
+MAGNUM killed d4v41  in round 8
+Round 8 ended with spike_defuse. The winning team is Karmine Corp.
+The current score is PAPER REX 3 - 5 Karmine Corp.
+marteen killed f0rsakeN  in round 9
+something killed Tomaszy  in round 9
+N4RRATE killed something  in round 9
+N4RRATE killed d4v41  in round 9
+mindfreak killed marteen  in round 9
+mindfreak killed MAGNUM  in round 9
+mindfreak killed N4RRATE  in round 9
+Shin  killed Monyet  in round 9
+Shin  killed mindfreak  in round 9
+Round 9 ended with spike_defuse. The winning team is Karmine Corp.
+The current score is PAPER REX 3 - 6 Karmine Corp.
+something killed Tomaszy  in round 10
+d4v41 killed MAGNUM  in round 10
+f0rsakeN killed marteen  in round 10
+Shin  killed mindfreak  in round 10
+N4RRATE killed f0rsakeN  in round 10
+d4v41 killed Shin   in round 10
+Round 10 ended with detonate. The winning team is PAPER REX.
+The current score is PAPER REX 4 - 6 Karmine Corp.
+marteen killed Monyet  in round 11
+N4RRATE killed f0rsakeN  in round 11
+mindfreak killed marteen  in round 11
+d4v41 killed Tomaszy  in round 11
+N4RRATE killed something  in round 11
+d4v41 killed N4RRATE  in round 11
+MAGNUM killed mindfreak  in round 11
+Round 11 ended with time_expired. The winning team is Karmine Corp.
+The current score is PAPER REX 4 - 7 Karmine Corp.
+MAGNUM killed mindfreak  in round 12
+Tomaszy killed something  in round 12
+d4v41 killed MAGNUM  in round 12
+Tomaszy killed f0rsakeN  in round 12
+d4v41 killed Tomaszy  in round 12
+Shin  killed d4v41  in round 12
+marteen killed Monyet  in round 12
+Round 12 ended with elimination. The winning team is Karmine Corp.
+The current score is PAPER REX 4 - 8 Karmine Corp.
+something killed Shin   in round 13
+something killed MAGNUM  in round 13
+Monyet killed Tomaszy  in round 13
+d4v41 killed marteen  in round 13
+Round 13 ended with spike_defuse. The winning team is PAPER REX.
+The current score is PAPER REX 5 - 8 Karmine Corp.
+Monyet killed N4RRATE  in round 14
+MAGNUM killed mindfreak  in round 14
+N4RRATE killed f0rsakeN  in round 14
+Monyet killed Tomaszy  in round 14
+Monyet killed MAGNUM  in round 14
+something killed marteen  in round 14
+N4RRATE killed Monyet  in round 14
+d4v41 killed N4RRATE  in round 14
+Shin  killed d4v41  in round 14
+something killed Shin   in round 14
+Round 14 ended with spike_defuse. The winning team is PAPER REX.
+The current score is PAPER REX 6 - 8 Karmine Corp.
+MAGNUM killed something  in round 15
+Monyet killed marteen  in round 15
+Shin  killed f0rsakeN  in round 15
+Shin  killed Monyet  in round 15
+MAGNUM killed d4v41  in round 15
+Round 15 ended with detonate. The winning team is Karmine Corp.
+The current score is PAPER REX 6 - 9 Karmine Corp.
+N4RRATE killed something  in round 16
+Tomaszy killed f0rsakeN  in round 16
+Tomaszy killed d4v41  in round 16
+Shin  killed Monyet  in round 16
+marteen killed mindfreak  in round 16
+Round 16 ended with elimination. The winning team is Karmine Corp.
+The current score is PAPER REX 6 - 10 Karmine Corp.
+d4v41 killed MAGNUM  in round 17
+d4v41 killed N4RRATE  in round 17
+marteen killed something  in round 17
+Shin  killed d4v41  in round 17
+mindfreak killed Shin   in round 17
+marteen killed Monyet  in round 17
+f0rsakeN killed Tomaszy  in round 17
+f0rsakeN killed marteen  in round 17
+Round 17 ended with detonate. The winning team is Karmine Corp.
+The current score is PAPER REX 6 - 11 Karmine Corp.
+mindfreak killed mindfreak  in round 18
+f0rsakeN killed f0rsakeN  in round 18
+Shin  killed Monyet  in round 18
+Shin  killed d4v41  in round 18
+Shin  killed f0rsakeN  in round 18
+something killed Shin   in round 18
+mindfreak killed marteen  in round 18
+Round 18 ended with detonate. The winning team is Karmine Corp.
+The current score is PAPER REX 6 - 12 Karmine Corp.
+N4RRATE killed mindfreak  in round 19
+f0rsakeN killed Shin   in round 19
+Tomaszy killed mindfreak  in round 19
+MAGNUM killed d4v41  in round 19
+f0rsakeN killed MAGNUM  in round 19
+Tomaszy killed f0rsakeN  in round 19
+marteen killed something  in round 19
+Monyet killed N4RRATE  in round 19
+marteen killed Monyet  in round 19
+Round 19 ended with elimination. The winning team is Karmine Corp.
+The current score is PAPER REX 6 - 13 Karmine Corp.
+Game ended with winning team: Karmine Corp at 2024-03-18T18:38:01Z
+
+--- Player Stats ---
+Shin : Team=Karmine Corp, Kills=14, Deaths=12, Assists=11, KDA=2.08, First Kills=0, First Deaths=1
+Tomaszy: Team=Karmine Corp, Kills=10, Deaths=12, Assists=6, KDA=1.33, First Kills=1, First Deaths=2
+MAGNUM: Team=Karmine Corp, Kills=15, Deaths=12, Assists=2, KDA=1.42, First Kills=3, First Deaths=1
+marteen: Team=Karmine Corp, Kills=18, Deaths=15, Assists=5, KDA=1.53, First Kills=4, First Deaths=3
+N4RRATE: Team=Karmine Corp, Kills=18, Deaths=9, Assists=7, KDA=2.78, First Kills=3, First Deaths=1
+Monyet: Team=PAPER REX, Kills=11, Deaths=16, Assists=4, KDA=0.94, First Kills=3, First Deaths=3
+mindfreak: Team=PAPER REX, Kills=9, Deaths=14, Assists=5, KDA=1.0, First Kills=1, First Deaths=3
+d4v41: Team=PAPER REX, Kills=13, Deaths=14, Assists=13, KDA=1.86, First Kills=1, First Deaths=0
+something: Team=PAPER REX, Kills=14, Deaths=13, Assists=0, KDA=1.08, First Kills=2, First Deaths=3
+f0rsakeN: Team=PAPER REX, Kills=12, Deaths=17, Assists=3, KDA=0.88, First Kills=1, First Deaths=2

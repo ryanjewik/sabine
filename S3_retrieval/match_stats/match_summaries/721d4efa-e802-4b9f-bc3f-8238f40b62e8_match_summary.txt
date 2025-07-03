@@ -1,0 +1,220 @@
+Team 1: FNATIC
+Team 2: None
+Participating Players:
+Player 1: BcJ
+Player 2: zekken
+Player 3: dephh
+Player 4: AYRIN
+Player 5: Cryo
+Player 6: Mistic
+Player 7: Derke
+Player 8: Boaster
+Player 9: Alfajer
+Player 10: Enz0
+Winning Team: None
+Score: FNATIC 8 - 13 None
+Tournament Name: champions 2022
+Game Start Time: 2022-09-10T17:40:17Z
+Game End Time: 2022-09-10T18:43:24Z
+Rounds ended by ELIMINATION count: 10
+Rounds ended by DEFUSE count: 7
+Rounds ended by DETONATE count: 1
+SPIKE PLANTED count: 8
+platformGameId: val:721d4efa-e802-4b9f-bc3f-8238f40b62e8
+
+--- Events ---
+Game started at 2022-09-10T17:40:17Z
+zekken killed Alfajer  in round 1
+Boaster killed BcJ  in round 1
+Derke killed zekken  in round 1
+AYRIN killed Boaster  in round 1
+Mistic killed AYRIN  in round 1
+Cryo killed Mistic  in round 1
+Derke killed dephh  in round 1
+Cryo killed Derke  in round 1
+Cryo killed Enz0  in round 1
+Round 1 ended with spike_defuse. The winning team is None.
+The current score is FNATIC 0 - 1 None.
+Cryo killed Derke  in round 2
+Cryo killed Boaster  in round 2
+zekken killed Mistic  in round 2
+zekken killed Alfajer  in round 2
+Enz0 killed zekken  in round 2
+dephh killed Enz0  in round 2
+Round 2 ended with elimination. The winning team is None.
+The current score is FNATIC 0 - 2 None.
+zekken killed Alfajer  in round 3
+BcJ killed Enz0  in round 3
+Cryo killed Derke  in round 3
+Round 3 ended with time_expired. The winning team is None.
+The current score is FNATIC 0 - 3 None.
+Cryo killed Boaster  in round 4
+Alfajer killed dephh  in round 4
+zekken killed Alfajer  in round 4
+Cryo killed Enz0  in round 4
+Round 4 ended with spike_defuse. The winning team is None.
+The current score is FNATIC 0 - 4 None.
+zekken killed Derke  in round 5
+dephh killed Alfajer  in round 5
+Mistic killed dephh  in round 5
+Cryo killed Mistic  in round 5
+Boaster killed AYRIN  in round 5
+Cryo killed Derke  in round 5
+Boaster killed BcJ  in round 5
+zekken killed Enz0  in round 5
+Boaster killed zekken  in round 5
+Cryo killed Boaster  in round 5
+Round 5 ended with spike_defuse. The winning team is None.
+The current score is FNATIC 0 - 5 None.
+Alfajer killed dephh  in round 6
+Cryo killed Mistic  in round 6
+zekken killed Boaster  in round 6
+Enz0 killed zekken  in round 6
+Derke killed BcJ  in round 6
+Alfajer killed Cryo  in round 6
+Enz0 killed AYRIN  in round 6
+Round 6 ended with elimination. The winning team is FNATIC.
+The current score is FNATIC 1 - 5 None.
+Cryo killed Derke  in round 7
+AYRIN killed Boaster  in round 7
+Enz0 killed AYRIN  in round 7
+BcJ killed Enz0  in round 7
+Round 7 ended with time_expired. The winning team is None.
+The current score is FNATIC 1 - 6 None.
+Cryo killed Alfajer  in round 8
+AYRIN killed Mistic  in round 8
+Enz0 killed dephh  in round 8
+Boaster killed Cryo  in round 8
+zekken killed Boaster  in round 8
+Round 8 ended with time_expired. The winning team is None.
+The current score is FNATIC 1 - 7 None.
+Alfajer killed Cryo  in round 9
+Derke killed zekken  in round 9
+Alfajer killed BcJ  in round 9
+Mistic killed dephh  in round 9
+Round 9 ended with detonate. The winning team is FNATIC.
+The current score is FNATIC 2 - 7 None.
+Alfajer killed zekken  in round 10
+dephh killed Mistic  in round 10
+Cryo killed Alfajer  in round 10
+dephh killed Derke  in round 10
+AYRIN killed Boaster  in round 10
+Enz0 killed dephh  in round 10
+Cryo killed Enz0  in round 10
+Round 10 ended with elimination. The winning team is None.
+The current score is FNATIC 2 - 8 None.
+Mistic killed zekken  in round 11
+dephh killed Alfajer  in round 11
+AYRIN killed Derke  in round 11
+Enz0 killed AYRIN  in round 11
+dephh killed Mistic  in round 11
+Cryo killed Enz0  in round 11
+dephh killed Boaster  in round 11
+Round 11 ended with spike_defuse. The winning team is None.
+The current score is FNATIC 2 - 9 None.
+Derke killed Cryo  in round 12
+Boaster killed BcJ  in round 12
+AYRIN killed Boaster  in round 12
+Alfajer killed dephh  in round 12
+Derke killed AYRIN  in round 12
+Derke killed zekken  in round 12
+Round 12 ended with elimination. The winning team is FNATIC.
+The current score is FNATIC 3 - 9 None.
+Mistic killed BcJ  in round 13
+Cryo killed Alfajer  in round 13
+Cryo killed Mistic  in round 13
+AYRIN killed Enz0  in round 13
+Derke killed dephh  in round 13
+Derke killed zekken  in round 13
+Derke killed Cryo  in round 13
+AYRIN killed Derke  in round 13
+Boaster killed AYRIN  in round 13
+Round 13 ended with spike_defuse. The winning team is FNATIC.
+The current score is FNATIC 4 - 9 None.
+Mistic killed dephh  in round 14
+Mistic killed BcJ  in round 14
+Derke killed zekken  in round 14
+Enz0 killed AYRIN  in round 14
+Derke killed Cryo  in round 14
+Round 14 ended with elimination. The winning team is FNATIC.
+The current score is FNATIC 5 - 9 None.
+Derke killed Cryo  in round 15
+Mistic killed BcJ  in round 15
+Mistic killed AYRIN  in round 15
+Enz0 killed zekken  in round 15
+Alfajer killed dephh  in round 15
+Round 15 ended with elimination. The winning team is FNATIC.
+The current score is FNATIC 6 - 9 None.
+zekken killed Derke  in round 16
+AYRIN killed Alfajer  in round 16
+Mistic killed BcJ  in round 16
+AYRIN killed Mistic  in round 16
+Boaster killed zekken  in round 16
+Boaster killed dephh  in round 16
+Enz0 killed AYRIN  in round 16
+Cryo killed Enz0  in round 16
+Cryo killed Boaster  in round 16
+Round 16 ended with elimination. The winning team is None.
+The current score is FNATIC 6 - 10 None.
+Derke killed zekken  in round 17
+Mistic killed Cryo  in round 17
+AYRIN killed Enz0  in round 17
+Mistic killed dephh  in round 17
+BcJ killed Derke  in round 17
+AYRIN killed Alfajer  in round 17
+Mistic killed BcJ  in round 17
+Mistic killed AYRIN  in round 17
+Round 17 ended with spike_defuse. The winning team is FNATIC.
+The current score is FNATIC 7 - 10 None.
+Enz0 killed dephh  in round 18
+Derke killed zekken  in round 18
+Alfajer killed BcJ  in round 18
+Enz0 killed AYRIN  in round 18
+Boaster killed Cryo  in round 18
+Round 18 ended with spike_defuse. The winning team is FNATIC.
+The current score is FNATIC 8 - 10 None.
+BcJ killed Alfajer  in round 19
+Enz0 killed zekken  in round 19
+dephh killed Enz0  in round 19
+Derke killed dephh  in round 19
+Cryo killed Mistic  in round 19
+AYRIN killed Derke  in round 19
+Boaster killed AYRIN  in round 19
+BcJ killed Boaster  in round 19
+Round 19 ended with elimination. The winning team is None.
+The current score is FNATIC 8 - 11 None.
+Derke killed zekken  in round 20
+AYRIN killed Boaster  in round 20
+Derke killed dephh  in round 20
+Derke killed BcJ  in round 20
+Cryo killed Enz0  in round 20
+Cryo killed Alfajer  in round 20
+Mistic killed Cryo  in round 20
+AYRIN killed Derke  in round 20
+AYRIN killed Mistic  in round 20
+Round 20 ended with elimination. The winning team is None.
+The current score is FNATIC 8 - 12 None.
+Cryo killed Alfajer  in round 21
+Enz0 killed zekken  in round 21
+Boaster killed BcJ  in round 21
+AYRIN killed Boaster  in round 21
+AYRIN killed Derke  in round 21
+Cryo killed Enz0  in round 21
+Mistic killed Cryo  in round 21
+Mistic killed dephh  in round 21
+AYRIN killed Mistic  in round 21
+Round 21 ended with elimination. The winning team is None.
+The current score is FNATIC 8 - 13 None.
+Game ended with winning team: None at 2022-09-10T18:43:24Z
+
+--- Player Stats ---
+BcJ: Team=None, Kills=5, Deaths=13, Assists=9, KDA=1.08, First Kills=1, First Deaths=1
+zekken: Team=None, Kills=10, Deaths=17, Assists=0, KDA=0.59, First Kills=4, First Deaths=4
+dephh: Team=None, Kills=8, Deaths=17, Assists=7, KDA=0.88, First Kills=0, First Deaths=3
+AYRIN: Team=None, Kills=19, Deaths=13, Assists=3, KDA=1.69, First Kills=0, First Deaths=0
+Cryo: Team=None, Kills=26, Deaths=11, Assists=1, KDA=2.45, First Kills=5, First Deaths=3
+Mistic: Team=FNATIC, Kills=17, Deaths=12, Assists=2, KDA=1.58, First Kills=3, First Deaths=0
+Derke: Team=FNATIC, Kills=19, Deaths=14, Assists=2, KDA=1.5, First Kills=4, First Deaths=4
+Boaster: Team=FNATIC, Kills=12, Deaths=14, Assists=11, KDA=1.64, First Kills=0, First Deaths=1
+Alfajer: Team=FNATIC, Kills=9, Deaths=14, Assists=4, KDA=0.93, First Kills=3, First Deaths=5
+Enz0: Team=FNATIC, Kills=14, Deaths=14, Assists=7, KDA=1.5, First Kills=1, First Deaths=0

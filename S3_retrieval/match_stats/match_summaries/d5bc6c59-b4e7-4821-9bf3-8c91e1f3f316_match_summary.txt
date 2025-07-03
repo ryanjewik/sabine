@@ -1,0 +1,190 @@
+Team 1: NRG
+Team 2: Team Liquid
+Participating Players:
+Player 1: Jamppi
+Player 2: Sayf
+Player 3: Redgar
+Player 4: nAts
+Player 5: soulcas
+Player 6: crashies
+Player 7: Victor
+Player 8: FNS
+Player 9: s0m
+Player 10: ardiis
+Winning Team: NRG
+Score: NRG 13 - 5 Team Liquid
+Tournament Name: vct masters 2023 playoffs
+Game Start Time: 2023-06-20T05:26:47Z
+Game End Time: 2023-06-20T06:10:37Z
+Rounds ended by ELIMINATION count: 10
+Rounds ended by DEFUSE count: 2
+Rounds ended by DETONATE count: 3
+SPIKE PLANTED count: 5
+platformGameId: val:d5bc6c59-b4e7-4821-9bf3-8c91e1f3f316
+
+--- Events ---
+Game started at 2023-06-20T05:26:47Z
+Sayf killed ardiis  in round 1
+soulcas killed Victor  in round 1
+crashies killed soulcas  in round 1
+Sayf killed crashies  in round 1
+FNS killed Sayf  in round 1
+Redgar killed FNS  in round 1
+s0m killed Redgar  in round 1
+nAts killed s0m  in round 1
+Round 1 ended with spike_defuse. The winning team is Team Liquid.
+The current score is NRG 0 - 1 Team Liquid.
+nAts killed ardiis  in round 2
+s0m killed nAts  in round 2
+crashies killed Jamppi  in round 2
+crashies killed Sayf  in round 2
+Redgar killed crashies  in round 2
+FNS killed Redgar  in round 2
+soulcas killed FNS  in round 2
+Victor killed soulcas  in round 2
+Round 2 ended with elimination. The winning team is NRG.
+The current score is NRG 1 - 1 Team Liquid.
+Victor killed Redgar  in round 3
+soulcas killed ardiis  in round 3
+Victor killed Jamppi  in round 3
+soulcas killed s0m  in round 3
+Victor killed soulcas  in round 3
+crashies killed Sayf  in round 3
+Victor killed nAts  in round 3
+Round 3 ended with elimination. The winning team is NRG.
+The current score is NRG 2 - 1 Team Liquid.
+Sayf killed ardiis  in round 4
+soulcas killed crashies  in round 4
+Jamppi killed Victor  in round 4
+FNS killed Jamppi  in round 4
+Round 4 ended with time_expired. The winning team is Team Liquid.
+The current score is NRG 2 - 2 Team Liquid.
+Jamppi killed Victor  in round 5
+soulcas killed crashies  in round 5
+Jamppi killed FNS  in round 5
+Sayf killed ardiis  in round 5
+Round 5 ended with time_expired. The winning team is Team Liquid.
+The current score is NRG 2 - 3 Team Liquid.
+Jamppi killed crashies  in round 6
+Victor killed Jamppi  in round 6
+ardiis killed Sayf  in round 6
+Victor killed Jamppi  in round 6
+Victor killed nAts  in round 6
+s0m killed soulcas  in round 6
+Victor killed Redgar  in round 6
+Round 6 ended with elimination. The winning team is NRG.
+The current score is NRG 3 - 3 Team Liquid.
+Sayf killed ardiis  in round 7
+Sayf killed FNS  in round 7
+Victor killed Redgar  in round 7
+s0m killed Jamppi  in round 7
+nAts killed Victor  in round 7
+crashies killed nAts  in round 7
+Sayf killed crashies  in round 7
+s0m killed Sayf  in round 7
+s0m killed soulcas  in round 7
+Round 7 ended with elimination. The winning team is NRG.
+The current score is NRG 4 - 3 Team Liquid.
+Sayf killed s0m  in round 8
+Victor killed nAts  in round 8
+Victor killed soulcas  in round 8
+ardiis killed Jamppi  in round 8
+Round 8 ended with detonate. The winning team is NRG.
+The current score is NRG 5 - 3 Team Liquid.
+Sayf killed FNS  in round 9
+ardiis killed Redgar  in round 9
+Jamppi killed Victor  in round 9
+ardiis killed Jamppi  in round 9
+FNS killed Sayf  in round 9
+nAts killed ardiis  in round 9
+s0m killed nAts  in round 9
+soulcas killed FNS  in round 9
+Round 9 ended with detonate. The winning team is NRG.
+The current score is NRG 6 - 3 Team Liquid.
+ardiis killed Sayf  in round 10
+Victor killed nAts  in round 10
+FNS killed Jamppi  in round 10
+s0m killed soulcas  in round 10
+Redgar killed s0m  in round 10
+FNS killed Redgar  in round 10
+Round 10 ended with elimination. The winning team is NRG.
+The current score is NRG 7 - 3 Team Liquid.
+soulcas killed ardiis  in round 11
+soulcas killed Victor  in round 11
+Sayf killed crashies  in round 11
+soulcas killed s0m  in round 11
+soulcas killed FNS  in round 11
+Round 11 ended with elimination. The winning team is Team Liquid.
+The current score is NRG 7 - 4 Team Liquid.
+ardiis killed Sayf  in round 12
+nAts killed ardiis  in round 12
+s0m killed Jamppi  in round 12
+FNS killed nAts  in round 12
+s0m killed Redgar  in round 12
+FNS killed Sayf  in round 12
+FNS killed soulcas  in round 12
+Round 12 ended with elimination. The winning team is NRG.
+The current score is NRG 8 - 4 Team Liquid.
+crashies killed Sayf  in round 13
+Victor killed soulcas  in round 13
+nAts killed crashies  in round 13
+Victor killed Redgar  in round 13
+Victor killed nAts  in round 13
+FNS killed Jamppi  in round 13
+Round 13 ended with spike_defuse. The winning team is NRG.
+The current score is NRG 9 - 4 Team Liquid.
+Victor killed Jamppi  in round 14
+s0m killed soulcas  in round 14
+Victor killed Redgar  in round 14
+nAts killed s0m  in round 14
+FNS killed nAts  in round 14
+crashies killed Sayf  in round 14
+Round 14 ended with elimination. The winning team is NRG.
+The current score is NRG 10 - 4 Team Liquid.
+Sayf killed crashies  in round 15
+ardiis killed Sayf  in round 15
+nAts killed FNS  in round 15
+Victor killed soulcas  in round 15
+Victor killed Redgar  in round 15
+nAts killed Victor  in round 15
+s0m killed nAts  in round 15
+Jamppi killed s0m  in round 15
+ardiis killed Jamppi  in round 15
+Round 15 ended with detonate. The winning team is Team Liquid.
+The current score is NRG 10 - 5 Team Liquid.
+ardiis killed ardiis  in round 16
+FNS killed Jamppi  in round 16
+ardiis killed Sayf  in round 16
+ardiis killed soulcas  in round 16
+nAts killed Victor  in round 16
+Round 16 ended with time_expired. The winning team is NRG.
+The current score is NRG 11 - 5 Team Liquid.
+ardiis killed Redgar  in round 17
+FNS killed nAts  in round 17
+FNS killed Sayf  in round 17
+FNS killed soulcas  in round 17
+Jamppi killed ardiis  in round 17
+crashies killed Jamppi  in round 17
+Round 17 ended with elimination. The winning team is NRG.
+The current score is NRG 12 - 5 Team Liquid.
+Victor killed Sayf  in round 18
+ardiis killed nAts  in round 18
+FNS killed soulcas  in round 18
+s0m killed Redgar  in round 18
+Jamppi killed FNS  in round 18
+Victor killed Jamppi  in round 18
+Round 18 ended with elimination. The winning team is NRG.
+The current score is NRG 13 - 5 Team Liquid.
+Game ended with winning team: NRG at 2023-06-20T06:10:37Z
+
+--- Player Stats ---
+Jamppi: Team=Team Liquid, Kills=8, Deaths=16, Assists=7, KDA=0.94, First Kills=2, First Deaths=1
+Sayf: Team=Team Liquid, Kills=11, Deaths=15, Assists=5, KDA=1.07, First Kills=6, First Deaths=4
+Redgar: Team=Team Liquid, Kills=3, Deaths=13, Assists=4, KDA=0.54, First Kills=0, First Deaths=2
+nAts: Team=Team Liquid, Kills=10, Deaths=13, Assists=2, KDA=0.92, First Kills=1, First Deaths=0
+soulcas: Team=Team Liquid, Kills=11, Deaths=14, Assists=4, KDA=1.07, First Kills=1, First Deaths=0
+crashies: Team=NRG, Kills=8, Deaths=9, Assists=7, KDA=1.67, First Kills=1, First Deaths=2
+Victor: Team=NRG, Kills=22, Deaths=8, Assists=6, KDA=3.5, First Kills=3, First Deaths=1
+FNS: Team=NRG, Kills=16, Deaths=9, Assists=6, KDA=2.44, First Kills=0, First Deaths=1
+s0m: Team=NRG, Kills=13, Deaths=7, Assists=9, KDA=3.14, First Kills=0, First Deaths=1
+ardiis: Team=NRG, Kills=13, Deaths=11, Assists=2, KDA=1.36, First Kills=4, First Deaths=6

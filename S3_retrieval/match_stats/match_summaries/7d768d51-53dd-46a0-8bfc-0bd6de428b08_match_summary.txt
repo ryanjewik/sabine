@@ -1,0 +1,183 @@
+Team 1: Sentinels
+Team 2: NRG
+Participating Players:
+Player 1: crashies
+Player 2: Victor
+Player 3: FNS
+Player 4: s0m
+Player 5: ardiis
+Player 6: TenZ
+Player 7: Sacy
+Player 8: dephh
+Player 9: zekken
+Player 10: pANcada
+Winning Team: NRG
+Score: Sentinels 2 - 13 NRG
+Tournament Name: vct americas 2023
+Game Start Time: 2023-04-09T20:21:06Z
+Game End Time: 2023-04-09T21:00:09Z
+Rounds ended by ELIMINATION count: 10
+Rounds ended by DEFUSE count: 4
+Rounds ended by DETONATE count: 0
+SPIKE PLANTED count: 4
+platformGameId: val:7d768d51-53dd-46a0-8bfc-0bd6de428b08
+
+--- Events ---
+Game started at 2023-04-09T20:21:06Z
+TenZ killed FNS  in round 1
+ardiis killed Sacy  in round 1
+crashies killed dephh  in round 1
+ardiis killed pANcada  in round 1
+s0m killed zekken  in round 1
+s0m killed TenZ  in round 1
+Round 1 ended with spike_defuse. The winning team is NRG.
+The current score is Sentinels 0 - 1 NRG.
+ardiis killed zekken  in round 2
+TenZ killed ardiis  in round 2
+crashies killed TenZ  in round 2
+Sacy killed Victor  in round 2
+crashies killed pANcada  in round 2
+dephh killed crashies  in round 2
+FNS killed dephh  in round 2
+s0m killed Sacy  in round 2
+Round 2 ended with elimination. The winning team is NRG.
+The current score is Sentinels 0 - 2 NRG.
+ardiis killed TenZ  in round 3
+Sacy killed ardiis  in round 3
+zekken killed Victor  in round 3
+crashies killed zekken  in round 3
+crashies killed dephh  in round 3
+Sacy killed crashies  in round 3
+FNS killed Sacy  in round 3
+pANcada killed FNS  in round 3
+s0m killed pANcada  in round 3
+Round 3 ended with elimination. The winning team is NRG.
+The current score is Sentinels 0 - 3 NRG.
+s0m killed TenZ  in round 4
+FNS killed Sacy  in round 4
+zekken killed s0m  in round 4
+crashies killed dephh  in round 4
+zekken killed crashies  in round 4
+Victor killed zekken  in round 4
+Victor killed pANcada  in round 4
+Round 4 ended with elimination. The winning team is NRG.
+The current score is Sentinels 0 - 4 NRG.
+ardiis killed TenZ  in round 5
+pANcada killed Victor  in round 5
+FNS killed pANcada  in round 5
+ardiis killed Sacy  in round 5
+zekken killed s0m  in round 5
+crashies killed dephh  in round 5
+FNS killed zekken  in round 5
+Round 5 ended with spike_defuse. The winning team is NRG.
+The current score is Sentinels 0 - 5 NRG.
+crashies killed TenZ  in round 6
+zekken killed crashies  in round 6
+FNS killed zekken  in round 6
+pANcada killed FNS  in round 6
+ardiis killed dephh  in round 6
+pANcada killed ardiis  in round 6
+pANcada killed Victor  in round 6
+s0m killed Sacy  in round 6
+s0m killed pANcada  in round 6
+Round 6 ended with spike_defuse. The winning team is NRG.
+The current score is Sentinels 0 - 6 NRG.
+Victor killed TenZ  in round 7
+zekken killed ardiis  in round 7
+pANcada killed crashies  in round 7
+Victor killed zekken  in round 7
+dephh killed Victor  in round 7
+s0m killed dephh  in round 7
+s0m killed Sacy  in round 7
+FNS killed pANcada  in round 7
+Round 7 ended with elimination. The winning team is NRG.
+The current score is Sentinels 0 - 7 NRG.
+pANcada killed ardiis  in round 8
+FNS killed TenZ  in round 8
+s0m killed pANcada  in round 8
+FNS killed zekken  in round 8
+FNS killed dephh  in round 8
+FNS killed Sacy  in round 8
+Round 8 ended with spike_defuse. The winning team is NRG.
+The current score is Sentinels 0 - 8 NRG.
+s0m killed TenZ  in round 9
+zekken killed ardiis  in round 9
+dephh killed crashies  in round 9
+FNS killed dephh  in round 9
+pANcada killed FNS  in round 9
+s0m killed Sacy  in round 9
+zekken killed s0m  in round 9
+Victor killed zekken  in round 9
+pANcada killed Victor  in round 9
+Round 9 ended with elimination. The winning team is Sentinels.
+The current score is Sentinels 1 - 8 NRG.
+FNS killed TenZ  in round 10
+Sacy killed ardiis  in round 10
+crashies killed Sacy  in round 10
+dephh killed FNS  in round 10
+crashies killed dephh  in round 10
+crashies killed zekken  in round 10
+Round 10 ended with time_expired. The winning team is NRG.
+The current score is Sentinels 1 - 9 NRG.
+Victor killed dephh  in round 11
+zekken killed FNS  in round 11
+pANcada killed Victor  in round 11
+crashies killed zekken  in round 11
+Sacy killed ardiis  in round 11
+pANcada killed s0m  in round 11
+crashies killed Sacy  in round 11
+crashies killed pANcada  in round 11
+TenZ killed crashies  in round 11
+TenZ killed Victor  in round 11
+Round 11 ended with elimination. The winning team is Sentinels.
+The current score is Sentinels 2 - 9 NRG.
+s0m killed TenZ  in round 12
+s0m killed pANcada  in round 12
+s0m killed dephh  in round 12
+zekken killed s0m  in round 12
+crashies killed zekken  in round 12
+Sacy killed crashies  in round 12
+ardiis killed Sacy  in round 12
+Round 12 ended with elimination. The winning team is NRG.
+The current score is Sentinels 2 - 10 NRG.
+zekken killed Victor  in round 13
+crashies killed zekken  in round 13
+crashies killed dephh  in round 13
+FNS killed pANcada  in round 13
+ardiis killed TenZ  in round 13
+ardiis killed Sacy  in round 13
+Round 13 ended with elimination. The winning team is NRG.
+The current score is Sentinels 2 - 11 NRG.
+Sacy killed FNS  in round 14
+TenZ killed Victor  in round 14
+s0m killed zekken  in round 14
+Sacy killed ardiis  in round 14
+crashies killed dephh  in round 14
+crashies killed Sacy  in round 14
+s0m killed TenZ  in round 14
+s0m killed pANcada  in round 14
+Round 14 ended with elimination. The winning team is NRG.
+The current score is Sentinels 2 - 12 NRG.
+pANcada killed FNS  in round 15
+Victor killed Sacy  in round 15
+s0m killed TenZ  in round 15
+pANcada killed Victor  in round 15
+ardiis killed dephh  in round 15
+ardiis killed pANcada  in round 15
+zekken killed s0m  in round 15
+ardiis killed zekken  in round 15
+Round 15 ended with elimination. The winning team is NRG.
+The current score is Sentinels 2 - 13 NRG.
+Game ended with winning team: NRG at 2023-04-09T21:00:09Z
+
+--- Player Stats ---
+crashies: Team=NRG, Kills=19, Deaths=8, Assists=6, KDA=3.12, First Kills=1, First Deaths=0
+Victor: Team=NRG, Kills=7, Deaths=11, Assists=15, KDA=2.0, First Kills=2, First Deaths=1
+FNS: Team=NRG, Kills=14, Deaths=8, Assists=0, KDA=1.75, First Kills=1, First Deaths=3
+s0m: Team=NRG, Kills=19, Deaths=6, Assists=6, KDA=4.17, First Kills=3, First Deaths=0
+ardiis: Team=NRG, Kills=13, Deaths=9, Assists=8, KDA=2.33, First Kills=3, First Deaths=1
+TenZ: Team=Sentinels, Kills=5, Deaths=14, Assists=2, KDA=0.5, First Kills=1, First Deaths=8
+Sacy: Team=Sentinels, Kills=8, Deaths=15, Assists=1, KDA=0.6, First Kills=1, First Deaths=0
+dephh: Team=Sentinels, Kills=4, Deaths=15, Assists=2, KDA=0.4, First Kills=0, First Deaths=1
+zekken: Team=Sentinels, Kills=12, Deaths=15, Assists=2, KDA=0.93, First Kills=1, First Deaths=1
+pANcada: Team=Sentinels, Kills=13, Deaths=13, Assists=2, KDA=1.15, First Kills=2, First Deaths=0

@@ -1,0 +1,221 @@
+Team 1: MIBR
+Team 2: Leviatán Esports
+Participating Players:
+Player 1: aspas
+Player 2: tex
+Player 3: kiNgg
+Player 4: C0M
+Player 5: Mazino
+Player 6: PA1NT
+Player 7: ShahZaM
+Player 8: mazin
+Player 9: artzin
+Player 10: liazzi
+Winning Team: Leviatán Esports
+Score: MIBR 7 - 13 Leviatán Esports
+Tournament Name: vct americas stage 2 2024
+Game Start Time: 2024-06-22T22:05:48Z
+Game End Time: 2024-06-22T22:50:41Z
+Rounds ended by ELIMINATION count: 12
+Rounds ended by DEFUSE count: 5
+Rounds ended by DETONATE count: 3
+SPIKE PLANTED count: 8
+platformGameId: val:9a0a4c1a-a098-459a-86f7-1205e50d4aa6
+
+--- Events ---
+Game started at 2024-06-22T22:05:48Z
+C0M killed PA1NT  in round 1
+artzin killed C0M  in round 1
+artzin killed kiNgg  in round 1
+ShahZaM killed Mazino  in round 1
+ShahZaM killed tex  in round 1
+aspas killed artzin  in round 1
+aspas killed mazin  in round 1
+aspas killed liazzi  in round 1
+aspas killed ShahZaM  in round 1
+Round 1 ended with detonate. The winning team is MIBR.
+The current score is MIBR 1 - 0 Leviatán Esports.
+aspas killed aspas  in round 2
+Mazino killed PA1NT  in round 2
+liazzi killed Mazino  in round 2
+aspas killed liazzi  in round 2
+artzin killed tex  in round 2
+C0M killed artzin  in round 2
+kiNgg killed ShahZaM  in round 2
+kiNgg killed mazin  in round 2
+Round 2 ended with spike_defuse. The winning team is Leviatán Esports.
+The current score is MIBR 1 - 1 Leviatán Esports.
+kiNgg killed ShahZaM  in round 3
+C0M killed mazin  in round 3
+tex killed PA1NT  in round 3
+liazzi killed kiNgg  in round 3
+artzin killed C0M  in round 3
+tex killed liazzi  in round 3
+artzin killed tex  in round 3
+Mazino killed artzin  in round 3
+Round 3 ended with elimination. The winning team is Leviatán Esports.
+The current score is MIBR 1 - 2 Leviatán Esports.
+PA1NT killed tex  in round 4
+C0M killed PA1NT  in round 4
+ShahZaM killed C0M  in round 4
+Mazino killed artzin  in round 4
+kiNgg killed liazzi  in round 4
+kiNgg killed ShahZaM  in round 4
+mazin killed Mazino  in round 4
+mazin killed kiNgg  in round 4
+aspas killed mazin  in round 4
+Round 4 ended with elimination. The winning team is Leviatán Esports.
+The current score is MIBR 1 - 3 Leviatán Esports.
+kiNgg killed PA1NT  in round 5
+C0M killed artzin  in round 5
+tex killed liazzi  in round 5
+C0M killed ShahZaM  in round 5
+mazin killed Mazino  in round 5
+mazin killed C0M  in round 5
+aspas killed mazin  in round 5
+Round 5 ended with spike_defuse. The winning team is Leviatán Esports.
+The current score is MIBR 1 - 4 Leviatán Esports.
+aspas killed artzin  in round 6
+aspas killed PA1NT  in round 6
+ShahZaM killed aspas  in round 6
+tex killed liazzi  in round 6
+mazin killed tex  in round 6
+mazin killed Mazino  in round 6
+mazin killed C0M  in round 6
+mazin killed kiNgg  in round 6
+Round 6 ended with elimination. The winning team is MIBR.
+The current score is MIBR 2 - 4 Leviatán Esports.
+aspas killed mazin  in round 7
+artzin killed C0M  in round 7
+tex killed PA1NT  in round 7
+ShahZaM killed tex  in round 7
+tex killed ShahZaM  in round 7
+Mazino killed artzin  in round 7
+aspas killed liazzi  in round 7
+Round 7 ended with elimination. The winning team is Leviatán Esports.
+The current score is MIBR 2 - 5 Leviatán Esports.
+aspas killed liazzi  in round 8
+kiNgg killed artzin  in round 8
+kiNgg killed PA1NT  in round 8
+mazin killed kiNgg  in round 8
+Mazino killed ShahZaM  in round 8
+mazin killed Mazino  in round 8
+aspas killed mazin  in round 8
+Round 8 ended with elimination. The winning team is Leviatán Esports.
+The current score is MIBR 2 - 6 Leviatán Esports.
+kiNgg killed PA1NT  in round 9
+Mazino killed mazin  in round 9
+Round 9 ended with spike_defuse. The winning team is Leviatán Esports.
+The current score is MIBR 2 - 7 Leviatán Esports.
+ShahZaM killed C0M  in round 10
+tex killed artzin  in round 10
+aspas killed liazzi  in round 10
+ShahZaM killed Mazino  in round 10
+C0M killed PA1NT  in round 10
+kiNgg killed mazin  in round 10
+kiNgg killed ShahZaM  in round 10
+Mazino killed liazzi  in round 10
+artzin killed tex  in round 10
+kiNgg killed artzin  in round 10
+Round 10 ended with elimination. The winning team is Leviatán Esports.
+The current score is MIBR 2 - 8 Leviatán Esports.
+mazin killed Mazino  in round 11
+kiNgg killed ShahZaM  in round 11
+kiNgg killed PA1NT  in round 11
+aspas killed liazzi  in round 11
+artzin killed aspas  in round 11
+artzin killed C0M  in round 11
+mazin killed tex  in round 11
+kiNgg killed artzin  in round 11
+kiNgg killed mazin  in round 11
+Round 11 ended with detonate. The winning team is MIBR.
+The current score is MIBR 3 - 8 Leviatán Esports.
+kiNgg killed kiNgg  in round 12
+tex killed artzin  in round 12
+Mazino killed liazzi  in round 12
+PA1NT killed Mazino  in round 12
+C0M killed mazin  in round 12
+aspas killed PA1NT  in round 12
+ShahZaM killed C0M  in round 12
+kiNgg killed ShahZaM  in round 12
+Round 12 ended with spike_defuse. The winning team is Leviatán Esports.
+The current score is MIBR 3 - 9 Leviatán Esports.
+aspas killed ShahZaM  in round 13
+aspas killed PA1NT  in round 13
+Mazino killed liazzi  in round 13
+C0M killed mazin  in round 13
+kiNgg killed artzin  in round 13
+Round 13 ended with elimination. The winning team is Leviatán Esports.
+The current score is MIBR 3 - 10 Leviatán Esports.
+aspas killed ShahZaM  in round 14
+Round 14 ended with detonate. The winning team is Leviatán Esports.
+The current score is MIBR 3 - 11 Leviatán Esports.
+PA1NT killed PA1NT  in round 15
+liazzi killed liazzi  in round 15
+artzin killed artzin  in round 15
+mazin killed mazin  in round 15
+ShahZaM killed aspas  in round 15
+artzin killed Mazino  in round 15
+C0M killed ShahZaM  in round 15
+kiNgg killed PA1NT  in round 15
+artzin killed kiNgg  in round 15
+artzin killed tex  in round 15
+artzin killed C0M  in round 15
+Round 15 ended with elimination. The winning team is MIBR.
+The current score is MIBR 4 - 11 Leviatán Esports.
+mazin killed tex  in round 16
+PA1NT killed kiNgg  in round 16
+aspas killed artzin  in round 16
+ShahZaM killed Mazino  in round 16
+aspas killed liazzi  in round 16
+mazin killed aspas  in round 16
+C0M killed ShahZaM  in round 16
+C0M killed PA1NT  in round 16
+C0M killed mazin  in round 16
+Round 16 ended with elimination. The winning team is Leviatán Esports.
+The current score is MIBR 4 - 12 Leviatán Esports.
+mazin killed tex  in round 17
+liazzi killed kiNgg  in round 17
+C0M killed liazzi  in round 17
+PA1NT killed aspas  in round 17
+C0M killed PA1NT  in round 17
+artzin killed Mazino  in round 17
+ShahZaM killed C0M  in round 17
+Round 17 ended with spike_defuse. The winning team is MIBR.
+The current score is MIBR 5 - 12 Leviatán Esports.
+liazzi killed Mazino  in round 18
+liazzi killed aspas  in round 18
+liazzi killed kiNgg  in round 18
+liazzi killed tex  in round 18
+PA1NT killed C0M  in round 18
+Round 18 ended with elimination. The winning team is MIBR.
+The current score is MIBR 6 - 12 Leviatán Esports.
+PA1NT killed Mazino  in round 19
+artzin killed aspas  in round 19
+PA1NT killed kiNgg  in round 19
+PA1NT killed C0M  in round 19
+tex killed PA1NT  in round 19
+artzin killed tex  in round 19
+Round 19 ended with elimination. The winning team is MIBR.
+The current score is MIBR 7 - 12 Leviatán Esports.
+kiNgg killed artzin  in round 20
+liazzi killed aspas  in round 20
+kiNgg killed liazzi  in round 20
+C0M killed ShahZaM  in round 20
+C0M killed mazin  in round 20
+kiNgg killed PA1NT  in round 20
+Round 20 ended with elimination. The winning team is Leviatán Esports.
+The current score is MIBR 7 - 13 Leviatán Esports.
+Game ended with winning team: Leviatán Esports at 2024-06-22T22:50:41Z
+
+--- Player Stats ---
+aspas: Team=Leviatán Esports, Kills=22, Deaths=9, Assists=4, KDA=2.89, First Kills=6, First Deaths=1
+tex: Team=Leviatán Esports, Kills=9, Deaths=13, Assists=3, KDA=0.92, First Kills=0, First Deaths=3
+kiNgg: Team=Leviatán Esports, Kills=23, Deaths=11, Assists=8, KDA=2.82, First Kills=5, First Deaths=1
+C0M: Team=Leviatán Esports, Kills=17, Deaths=13, Assists=5, KDA=1.69, First Kills=1, First Deaths=1
+Mazino: Team=Leviatán Esports, Kills=9, Deaths=14, Assists=12, KDA=1.5, First Kills=0, First Deaths=3
+PA1NT: Team=MIBR, Kills=9, Deaths=19, Assists=6, KDA=0.79, First Kills=3, First Deaths=4
+ShahZaM: Team=MIBR, Kills=11, Deaths=15, Assists=5, KDA=1.07, First Kills=1, First Deaths=3
+mazin: Team=MIBR, Kills=16, Deaths=15, Assists=5, KDA=1.4, First Kills=3, First Deaths=1
+artzin: Team=MIBR, Kills=17, Deaths=16, Assists=4, KDA=1.31, First Kills=0, First Deaths=2
+liazzi: Team=MIBR, Kills=9, Deaths=17, Assists=1, KDA=0.59, First Kills=1, First Deaths=1

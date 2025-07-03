@@ -1,0 +1,204 @@
+Team 1: PAPER REX
+Team 2: Sentinels
+Participating Players:
+Player 1: TenZ
+Player 2: Zellsis
+Player 3: johnqt
+Player 4: zekken
+Player 5: Sacy
+Player 6: Monyet
+Player 7: mindfreak
+Player 8: d4v41
+Player 9: something
+Player 10: f0rsakeN
+Winning Team: Sentinels
+Score: PAPER REX 6 - 13 Sentinels
+Tournament Name: vct masters madrid 2024
+Game Start Time: 2024-03-23T16:15:20Z
+Game End Time: 2024-03-23T16:56:20Z
+Rounds ended by ELIMINATION count: 14
+Rounds ended by DEFUSE count: 2
+Rounds ended by DETONATE count: 3
+SPIKE PLANTED count: 5
+platformGameId: val:0147b5ab-4bba-4770-87e8-c2d8326b4da3
+
+--- Events ---
+Game started at 2024-03-23T16:15:20Z
+Zellsis killed Monyet  in round 1
+Zellsis killed d4v41  in round 1
+something killed Zellsis  in round 1
+johnqt killed mindfreak  in round 1
+Sacy killed something  in round 1
+f0rsakeN killed Sacy  in round 1
+f0rsakeN killed TenZ  in round 1
+zekken killed f0rsakeN  in round 1
+Round 1 ended with elimination. The winning team is Sentinels.
+The current score is PAPER REX 0 - 1 Sentinels.
+TenZ killed f0rsakeN  in round 2
+zekken killed mindfreak  in round 2
+zekken killed something  in round 2
+zekken killed Monyet  in round 2
+zekken killed d4v41  in round 2
+Round 2 ended with elimination. The winning team is Sentinels.
+The current score is PAPER REX 0 - 2 Sentinels.
+Monyet killed Sacy  in round 3
+zekken killed mindfreak  in round 3
+zekken killed something  in round 3
+TenZ killed d4v41  in round 3
+Zellsis killed f0rsakeN  in round 3
+Monyet killed johnqt  in round 3
+Monyet killed zekken  in round 3
+Monyet killed Zellsis  in round 3
+Round 3 ended with detonate. The winning team is PAPER REX.
+The current score is PAPER REX 1 - 2 Sentinels.
+TenZ killed TenZ  in round 4
+Monyet killed TenZ  in round 4
+Sacy killed something  in round 4
+zekken killed f0rsakeN  in round 4
+zekken killed d4v41  in round 4
+Sacy killed Monyet  in round 4
+Sacy killed mindfreak  in round 4
+Round 4 ended with spike_defuse. The winning team is Sentinels.
+The current score is PAPER REX 1 - 3 Sentinels.
+something killed zekken  in round 5
+something killed TenZ  in round 5
+Monyet killed Zellsis  in round 5
+Sacy killed Monyet  in round 5
+Sacy killed d4v41  in round 5
+f0rsakeN killed johnqt  in round 5
+mindfreak killed Sacy  in round 5
+Round 5 ended with elimination. The winning team is PAPER REX.
+The current score is PAPER REX 2 - 3 Sentinels.
+TenZ killed f0rsakeN  in round 6
+TenZ killed something  in round 6
+zekken killed Monyet  in round 6
+zekken killed d4v41  in round 6
+mindfreak killed Zellsis  in round 6
+zekken killed mindfreak  in round 6
+Round 6 ended with elimination. The winning team is Sentinels.
+The current score is PAPER REX 2 - 4 Sentinels.
+something killed zekken  in round 7
+mindfreak killed Sacy  in round 7
+mindfreak killed TenZ  in round 7
+Monyet killed Zellsis  in round 7
+johnqt killed Monyet  in round 7
+f0rsakeN killed johnqt  in round 7
+Round 7 ended with elimination. The winning team is PAPER REX.
+The current score is PAPER REX 3 - 4 Sentinels.
+zekken killed d4v41  in round 8
+mindfreak killed zekken  in round 8
+something killed johnqt  in round 8
+Monyet killed TenZ  in round 8
+Monyet killed Zellsis  in round 8
+Sacy killed Monyet  in round 8
+Sacy killed f0rsakeN  in round 8
+mindfreak killed Sacy  in round 8
+Round 8 ended with elimination. The winning team is PAPER REX.
+The current score is PAPER REX 4 - 4 Sentinels.
+d4v41 killed zekken  in round 9
+d4v41 killed Zellsis  in round 9
+mindfreak killed TenZ  in round 9
+Sacy killed Monyet  in round 9
+something killed Sacy  in round 9
+mindfreak killed johnqt  in round 9
+Round 9 ended with elimination. The winning team is PAPER REX.
+The current score is PAPER REX 5 - 4 Sentinels.
+Monyet killed zekken  in round 10
+d4v41 killed Zellsis  in round 10
+TenZ killed d4v41  in round 10
+Monyet killed TenZ  in round 10
+mindfreak killed johnqt  in round 10
+f0rsakeN killed Sacy  in round 10
+Round 10 ended with elimination. The winning team is PAPER REX.
+The current score is PAPER REX 6 - 4 Sentinels.
+Sacy killed d4v41  in round 11
+zekken killed mindfreak  in round 11
+zekken killed f0rsakeN  in round 11
+TenZ killed something  in round 11
+TenZ killed Monyet  in round 11
+Round 11 ended with elimination. The winning team is Sentinels.
+The current score is PAPER REX 6 - 5 Sentinels.
+zekken killed mindfreak  in round 12
+f0rsakeN killed zekken  in round 12
+TenZ killed Monyet  in round 12
+johnqt killed something  in round 12
+d4v41 killed TenZ  in round 12
+Zellsis killed f0rsakeN  in round 12
+Zellsis killed d4v41  in round 12
+Round 12 ended with spike_defuse. The winning team is Sentinels.
+The current score is PAPER REX 6 - 6 Sentinels.
+zekken killed Monyet  in round 13
+f0rsakeN killed Zellsis  in round 13
+d4v41 killed TenZ  in round 13
+f0rsakeN killed Sacy  in round 13
+zekken killed f0rsakeN  in round 13
+zekken killed something  in round 13
+mindfreak killed zekken  in round 13
+johnqt killed d4v41  in round 13
+johnqt killed mindfreak  in round 13
+Round 13 ended with elimination. The winning team is Sentinels.
+The current score is PAPER REX 6 - 7 Sentinels.
+zekken killed d4v41  in round 14
+zekken killed Monyet  in round 14
+Zellsis killed f0rsakeN  in round 14
+mindfreak killed Zellsis  in round 14
+TenZ killed something  in round 14
+TenZ killed mindfreak  in round 14
+Round 14 ended with elimination. The winning team is Sentinels.
+The current score is PAPER REX 6 - 8 Sentinels.
+TenZ killed Monyet  in round 15
+zekken killed mindfreak  in round 15
+johnqt killed something  in round 15
+Sacy killed d4v41  in round 15
+f0rsakeN killed johnqt  in round 15
+f0rsakeN killed Zellsis  in round 15
+Round 15 ended with detonate. The winning team is Sentinels.
+The current score is PAPER REX 6 - 9 Sentinels.
+TenZ killed f0rsakeN  in round 16
+zekken killed something  in round 16
+TenZ killed mindfreak  in round 16
+Monyet killed TenZ  in round 16
+johnqt killed Monyet  in round 16
+johnqt killed d4v41  in round 16
+Round 16 ended with elimination. The winning team is Sentinels.
+The current score is PAPER REX 6 - 10 Sentinels.
+zekken killed something  in round 17
+Sacy killed f0rsakeN  in round 17
+zekken killed Monyet  in round 17
+johnqt killed d4v41  in round 17
+Round 17 ended with detonate. The winning team is Sentinels.
+The current score is PAPER REX 6 - 11 Sentinels.
+mindfreak killed Sacy  in round 18
+something killed zekken  in round 18
+TenZ killed something  in round 18
+johnqt killed f0rsakeN  in round 18
+Monyet killed TenZ  in round 18
+johnqt killed d4v41  in round 18
+johnqt killed mindfreak  in round 18
+Zellsis killed Monyet  in round 18
+Round 18 ended with elimination. The winning team is Sentinels.
+The current score is PAPER REX 6 - 12 Sentinels.
+johnqt killed Monyet  in round 19
+something killed johnqt  in round 19
+f0rsakeN killed Zellsis  in round 19
+f0rsakeN killed zekken  in round 19
+Sacy killed something  in round 19
+Sacy killed mindfreak  in round 19
+f0rsakeN killed Sacy  in round 19
+TenZ killed f0rsakeN  in round 19
+TenZ killed d4v41  in round 19
+Round 19 ended with elimination. The winning team is Sentinels.
+The current score is PAPER REX 6 - 13 Sentinels.
+Game ended with winning team: Sentinels at 2024-03-23T16:56:20Z
+
+--- Player Stats ---
+TenZ: Team=Sentinels, Kills=17, Deaths=12, Assists=13, KDA=2.5, First Kills=5, First Deaths=1
+Zellsis: Team=Sentinels, Kills=7, Deaths=12, Assists=19, KDA=2.17, First Kills=1, First Deaths=0
+johnqt: Team=Sentinels, Kills=13, Deaths=8, Assists=4, KDA=2.12, First Kills=1, First Deaths=0
+zekken: Team=Sentinels, Kills=25, Deaths=10, Assists=3, KDA=2.8, First Kills=5, First Deaths=4
+Sacy: Team=Sentinels, Kills=14, Deaths=10, Assists=6, KDA=2.0, First Kills=1, First Deaths=2
+Monyet: Team=PAPER REX, Kills=13, Deaths=17, Assists=2, KDA=0.88, First Kills=2, First Deaths=4
+mindfreak: Team=PAPER REX, Kills=12, Deaths=13, Assists=3, KDA=1.15, First Kills=1, First Deaths=1
+d4v41: Team=PAPER REX, Kills=5, Deaths=17, Assists=6, KDA=0.65, First Kills=1, First Deaths=3
+something: Team=PAPER REX, Kills=8, Deaths=14, Assists=6, KDA=1.0, First Kills=2, First Deaths=1
+f0rsakeN: Team=PAPER REX, Kills=13, Deaths=14, Assists=6, KDA=1.36, First Kills=0, First Deaths=3

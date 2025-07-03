@@ -1,0 +1,219 @@
+Team 1: Team Liquid
+Team 2: Team Secret
+Participating Players:
+Player 1: invy
+Player 2: Jremy
+Player 3: JessieVash
+Player 4: DubsteP
+Player 5: BORKUM
+Player 6: Jamppi
+Player 7: Sayf
+Player 8: Redgar
+Player 9: nAts
+Player 10: soulcas
+Winning Team: Team Secret
+Score: Team Liquid 7 - 13 Team Secret
+Tournament Name: lock in brazil 2023
+Game Start Time: 2023-02-22T18:10:59Z
+Game End Time: 2023-02-22T18:53:29Z
+Rounds ended by ELIMINATION count: 12
+Rounds ended by DEFUSE count: 5
+Rounds ended by DETONATE count: 1
+SPIKE PLANTED count: 6
+platformGameId: val:7bb71d89-3ed2-47db-a989-687e427b7685
+
+--- Events ---
+Game started at 2023-02-22T18:10:59Z
+Redgar killed BORKUM  in round 1
+invy killed Jamppi  in round 1
+soulcas killed JessieVash  in round 1
+Jremy killed soulcas  in round 1
+invy killed Sayf  in round 1
+DubsteP killed Redgar  in round 1
+nAts killed Jremy  in round 1
+DubsteP killed nAts  in round 1
+Round 1 ended with spike_defuse. The winning team is Team Secret.
+The current score is Team Liquid 0 - 1 Team Secret.
+DubsteP killed nAts  in round 2
+Jamppi killed BORKUM  in round 2
+JessieVash killed soulcas  in round 2
+invy killed Sayf  in round 2
+Jamppi killed JessieVash  in round 2
+DubsteP killed Jamppi  in round 2
+Jremy killed Redgar  in round 2
+Round 2 ended with elimination. The winning team is Team Secret.
+The current score is Team Liquid 0 - 2 Team Secret.
+DubsteP killed Sayf  in round 3
+Jamppi killed invy  in round 3
+nAts killed BORKUM  in round 3
+DubsteP killed Jamppi  in round 3
+Jremy killed soulcas  in round 3
+nAts killed DubsteP  in round 3
+nAts killed JessieVash  in round 3
+nAts killed Jremy  in round 3
+Round 3 ended with elimination. The winning team is Team Liquid.
+The current score is Team Liquid 1 - 2 Team Secret.
+Jremy killed Jamppi  in round 4
+Jremy killed Redgar  in round 4
+nAts killed Jremy  in round 4
+JessieVash killed nAts  in round 4
+JessieVash killed soulcas  in round 4
+Sayf killed JessieVash  in round 4
+Round 4 ended with time_expired. The winning team is Team Secret.
+The current score is Team Liquid 1 - 3 Team Secret.
+JessieVash killed Redgar  in round 5
+JessieVash killed Jamppi  in round 5
+nAts killed BORKUM  in round 5
+JessieVash killed nAts  in round 5
+invy killed Sayf  in round 5
+Jremy killed soulcas  in round 5
+Round 5 ended with elimination. The winning team is Team Secret.
+The current score is Team Liquid 1 - 4 Team Secret.
+Jamppi killed BORKUM  in round 6
+invy killed Jamppi  in round 6
+invy killed Redgar  in round 6
+nAts killed invy  in round 6
+JessieVash killed Sayf  in round 6
+JessieVash killed soulcas  in round 6
+JessieVash killed nAts  in round 6
+Round 6 ended with spike_defuse. The winning team is Team Secret.
+The current score is Team Liquid 1 - 5 Team Secret.
+BORKUM killed Redgar  in round 7
+BORKUM killed soulcas  in round 7
+DubsteP killed Jamppi  in round 7
+Sayf killed DubsteP  in round 7
+BORKUM killed Sayf  in round 7
+nAts killed JessieVash  in round 7
+BORKUM killed nAts  in round 7
+Round 7 ended with elimination. The winning team is Team Secret.
+The current score is Team Liquid 1 - 6 Team Secret.
+DubsteP killed nAts  in round 8
+Jamppi killed Jremy  in round 8
+JessieVash killed Jamppi  in round 8
+JessieVash killed Redgar  in round 8
+Sayf killed BORKUM  in round 8
+JessieVash killed Sayf  in round 8
+invy killed soulcas  in round 8
+Round 8 ended with spike_defuse. The winning team is Team Secret.
+The current score is Team Liquid 1 - 7 Team Secret.
+Jremy killed Jamppi  in round 9
+Jremy killed soulcas  in round 9
+JessieVash killed Sayf  in round 9
+JessieVash killed nAts  in round 9
+Redgar killed JessieVash  in round 9
+DubsteP killed Redgar  in round 9
+Round 9 ended with elimination. The winning team is Team Secret.
+The current score is Team Liquid 1 - 8 Team Secret.
+Jremy killed soulcas  in round 10
+DubsteP killed Jamppi  in round 10
+nAts killed Jremy  in round 10
+invy killed Sayf  in round 10
+BORKUM killed Redgar  in round 10
+nAts killed invy  in round 10
+Round 10 ended with time_expired. The winning team is Team Secret.
+The current score is Team Liquid 1 - 9 Team Secret.
+JessieVash killed nAts  in round 11
+Jamppi killed BORKUM  in round 11
+Sayf killed JessieVash  in round 11
+invy killed Sayf  in round 11
+Jremy killed Redgar  in round 11
+nAts killed Jremy  in round 11
+nAts killed invy  in round 11
+Jamppi killed DubsteP  in round 11
+Round 11 ended with elimination. The winning team is Team Liquid.
+The current score is Team Liquid 2 - 9 Team Secret.
+Jremy killed soulcas  in round 12
+JessieVash killed Sayf  in round 12
+Jamppi killed JessieVash  in round 12
+Jamppi killed BORKUM  in round 12
+nAts killed DubsteP  in round 12
+Jremy killed nAts  in round 12
+Jamppi killed invy  in round 12
+Jremy killed Redgar  in round 12
+Jamppi killed Jremy  in round 12
+Round 12 ended with elimination. The winning team is Team Liquid.
+The current score is Team Liquid 3 - 9 Team Secret.
+Jremy killed Redgar  in round 13
+Jamppi killed BORKUM  in round 13
+invy killed Sayf  in round 13
+soulcas killed invy  in round 13
+nAts killed Jremy  in round 13
+soulcas killed DubsteP  in round 13
+soulcas killed JessieVash  in round 13
+Round 13 ended with spike_defuse. The winning team is Team Liquid.
+The current score is Team Liquid 4 - 9 Team Secret.
+invy killed Jamppi  in round 14
+Jremy killed Redgar  in round 14
+nAts killed BORKUM  in round 14
+nAts killed invy  in round 14
+Sayf killed DubsteP  in round 14
+nAts killed JessieVash  in round 14
+nAts killed Jremy  in round 14
+Round 14 ended with elimination. The winning team is Team Liquid.
+The current score is Team Liquid 5 - 9 Team Secret.
+Sayf killed DubsteP  in round 15
+nAts killed Jremy  in round 15
+invy killed Sayf  in round 15
+Jamppi killed invy  in round 15
+Jamppi killed JessieVash  in round 15
+nAts killed BORKUM  in round 15
+Round 15 ended with spike_defuse. The winning team is Team Liquid.
+The current score is Team Liquid 6 - 9 Team Secret.
+Jamppi killed JessieVash  in round 16
+Jamppi killed Jremy  in round 16
+Sayf killed BORKUM  in round 16
+invy killed Jamppi  in round 16
+nAts killed DubsteP  in round 16
+nAts killed invy  in round 16
+Round 16 ended with elimination. The winning team is Team Liquid.
+The current score is Team Liquid 7 - 9 Team Secret.
+Redgar killed JessieVash  in round 17
+Jremy killed Jamppi  in round 17
+Redgar killed DubsteP  in round 17
+BORKUM killed Redgar  in round 17
+BORKUM killed Sayf  in round 17
+nAts killed BORKUM  in round 17
+Jremy killed nAts  in round 17
+soulcas killed Jremy  in round 17
+invy killed soulcas  in round 17
+Round 17 ended with elimination. The winning team is Team Secret.
+The current score is Team Liquid 7 - 10 Team Secret.
+Jremy killed nAts  in round 18
+Jamppi killed Jremy  in round 18
+DubsteP killed Jamppi  in round 18
+BORKUM killed Redgar  in round 18
+invy killed Sayf  in round 18
+soulcas killed invy  in round 18
+Round 18 ended with detonate. The winning team is Team Secret.
+The current score is Team Liquid 7 - 11 Team Secret.
+BORKUM killed Jamppi  in round 19
+nAts killed Jremy  in round 19
+JessieVash killed nAts  in round 19
+Redgar killed JessieVash  in round 19
+invy killed Redgar  in round 19
+DubsteP killed Sayf  in round 19
+DubsteP killed soulcas  in round 19
+Round 19 ended with elimination. The winning team is Team Secret.
+The current score is Team Liquid 7 - 12 Team Secret.
+DubsteP killed Redgar  in round 20
+Sayf killed DubsteP  in round 20
+Jremy killed soulcas  in round 20
+JessieVash killed Jamppi  in round 20
+nAts killed BORKUM  in round 20
+invy killed nAts  in round 20
+invy killed Sayf  in round 20
+Round 20 ended with elimination. The winning team is Team Secret.
+The current score is Team Liquid 7 - 13 Team Secret.
+Game ended with winning team: Team Secret at 2023-02-22T18:53:29Z
+
+--- Player Stats ---
+invy: Team=Team Secret, Kills=18, Deaths=10, Assists=11, KDA=2.9, First Kills=1, First Deaths=0
+Jremy: Team=Team Secret, Kills=19, Deaths=14, Assists=4, KDA=1.64, First Kills=6, First Deaths=0
+JessieVash: Team=Team Secret, Kills=18, Deaths=14, Assists=9, KDA=1.93, First Kills=2, First Deaths=2
+DubsteP: Team=Team Secret, Kills=14, Deaths=10, Assists=7, KDA=2.1, First Kills=4, First Deaths=1
+BORKUM: Team=Team Secret, Kills=9, Deaths=14, Assists=16, KDA=1.79, First Kills=2, First Deaths=2
+Jamppi: Team=Team Liquid, Kills=17, Deaths=16, Assists=3, KDA=1.25, First Kills=2, First Deaths=4
+Sayf: Team=Team Liquid, Kills=8, Deaths=17, Assists=6, KDA=0.82, First Kills=1, First Deaths=1
+Redgar: Team=Team Liquid, Kills=5, Deaths=17, Assists=7, KDA=0.71, First Kills=2, First Deaths=4
+nAts: Team=Team Liquid, Kills=26, Deaths=14, Assists=3, KDA=2.07, First Kills=0, First Deaths=4
+soulcas: Team=Team Liquid, Kills=6, Deaths=14, Assists=7, KDA=0.93, First Kills=0, First Deaths=2

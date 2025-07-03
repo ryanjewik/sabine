@@ -1,0 +1,218 @@
+Team 1: Sentinels
+Team 2: FURIA
+Participating Players:
+Player 1: QcK
+Player 2: dgzin
+Player 3: mazin
+Player 4: mwzera
+Player 5: Khalil
+Player 6: TenZ
+Player 7: Sacy
+Player 8: Marved
+Player 9: zekken
+Player 10: pANcada
+Winning Team: Sentinels
+Score: Sentinels 13 - 7 FURIA
+Tournament Name: vct americas 2023
+Game Start Time: 2023-05-18T18:52:33Z
+Game End Time: 2023-05-18T19:56:16Z
+Rounds ended by ELIMINATION count: 14
+Rounds ended by DEFUSE count: 3
+Rounds ended by DETONATE count: 2
+SPIKE PLANTED count: 5
+platformGameId: val:a4e539fa-9b42-4ce7-81f2-720ad4dfef57
+
+--- Events ---
+Game started at 2023-05-18T18:52:33Z
+dgzin killed zekken  in round 1
+dgzin killed Marved  in round 1
+Sacy killed dgzin  in round 1
+mazin killed Sacy  in round 1
+mazin killed TenZ  in round 1
+pANcada killed QcK  in round 1
+mwzera killed pANcada  in round 1
+Round 1 ended with elimination. The winning team is FURIA.
+The current score is Sentinels 0 - 1 FURIA.
+mwzera killed zekken  in round 2
+mwzera killed Marved  in round 2
+QcK killed Sacy  in round 2
+mazin killed TenZ  in round 2
+QcK killed pANcada  in round 2
+Round 2 ended with elimination. The winning team is FURIA.
+The current score is Sentinels 0 - 2 FURIA.
+TenZ killed mwzera  in round 3
+Sacy killed dgzin  in round 3
+zekken killed mazin  in round 3
+QcK killed zekken  in round 3
+Sacy killed QcK  in round 3
+Round 3 ended with detonate. The winning team is Sentinels.
+The current score is Sentinels 1 - 2 FURIA.
+Khalil killed Khalil  in round 4
+dgzin killed Marved  in round 4
+pANcada killed QcK  in round 4
+TenZ killed mazin  in round 4
+mwzera killed Sacy  in round 4
+TenZ killed mwzera  in round 4
+Khalil killed TenZ  in round 4
+Khalil killed zekken  in round 4
+pANcada killed Khalil  in round 4
+pANcada killed dgzin  in round 4
+Round 4 ended with elimination. The winning team is Sentinels.
+The current score is Sentinels 2 - 2 FURIA.
+dgzin killed pANcada  in round 5
+zekken killed mwzera  in round 5
+dgzin killed zekken  in round 5
+TenZ killed dgzin  in round 5
+TenZ killed Khalil  in round 5
+Marved killed QcK  in round 5
+Sacy killed mazin  in round 5
+Round 5 ended with elimination. The winning team is Sentinels.
+The current score is Sentinels 3 - 2 FURIA.
+dgzin killed TenZ  in round 6
+zekken killed mwzera  in round 6
+Khalil killed Marved  in round 6
+zekken killed Khalil  in round 6
+pANcada killed QcK  in round 6
+dgzin killed Sacy  in round 6
+mazin killed pANcada  in round 6
+zekken killed dgzin  in round 6
+zekken killed mazin  in round 6
+Round 6 ended with elimination. The winning team is Sentinels.
+The current score is Sentinels 4 - 2 FURIA.
+TenZ killed dgzin  in round 7
+mwzera killed Marved  in round 7
+pANcada killed mazin  in round 7
+TenZ killed Khalil  in round 7
+TenZ killed mwzera  in round 7
+pANcada killed QcK  in round 7
+Round 7 ended with elimination. The winning team is Sentinels.
+The current score is Sentinels 5 - 2 FURIA.
+mazin killed zekken  in round 8
+Marved killed mazin  in round 8
+mwzera killed TenZ  in round 8
+Marved killed QcK  in round 8
+mwzera killed pANcada  in round 8
+mwzera killed Marved  in round 8
+mwzera killed Sacy  in round 8
+Round 8 ended with elimination. The winning team is FURIA.
+The current score is Sentinels 5 - 3 FURIA.
+TenZ killed mwzera  in round 9
+zekken killed QcK  in round 9
+Sacy killed mazin  in round 9
+TenZ killed dgzin  in round 9
+Marved killed Khalil  in round 9
+Round 9 ended with elimination. The winning team is Sentinels.
+The current score is Sentinels 6 - 3 FURIA.
+zekken killed mazin  in round 10
+Sacy killed dgzin  in round 10
+TenZ killed mwzera  in round 10
+TenZ killed QcK  in round 10
+zekken killed Khalil  in round 10
+Round 10 ended with elimination. The winning team is Sentinels.
+The current score is Sentinels 7 - 3 FURIA.
+zekken killed QcK  in round 11
+zekken killed mwzera  in round 11
+mazin killed Sacy  in round 11
+dgzin killed TenZ  in round 11
+Round 11 ended with detonate. The winning team is Sentinels.
+The current score is Sentinels 8 - 3 FURIA.
+Khalil killed pANcada  in round 12
+Marved killed dgzin  in round 12
+mwzera killed zekken  in round 12
+TenZ killed QcK  in round 12
+TenZ killed mwzera  in round 12
+mazin killed Marved  in round 12
+Sacy killed Khalil  in round 12
+mazin killed TenZ  in round 12
+Sacy killed mazin  in round 12
+Round 12 ended with elimination. The winning team is Sentinels.
+The current score is Sentinels 9 - 3 FURIA.
+pANcada killed pANcada  in round 13
+Sacy killed Sacy  in round 13
+mwzera killed Marved  in round 13
+TenZ killed mazin  in round 13
+TenZ killed QcK  in round 13
+pANcada killed mwzera  in round 13
+Khalil killed TenZ  in round 13
+dgzin killed pANcada  in round 13
+Khalil killed zekken  in round 13
+Sacy killed Khalil  in round 13
+dgzin killed Sacy  in round 13
+Round 13 ended with elimination. The winning team is FURIA.
+The current score is Sentinels 9 - 4 FURIA.
+mwzera killed Marved  in round 14
+TenZ killed mwzera  in round 14
+TenZ killed dgzin  in round 14
+mazin killed TenZ  in round 14
+mazin killed pANcada  in round 14
+mazin killed Sacy  in round 14
+QcK killed zekken  in round 14
+Round 14 ended with elimination. The winning team is FURIA.
+The current score is Sentinels 9 - 5 FURIA.
+pANcada killed mazin  in round 15
+mwzera killed zekken  in round 15
+zekken killed mwzera  in round 15
+QcK killed Sacy  in round 15
+TenZ killed dgzin  in round 15
+Khalil killed TenZ  in round 15
+Marved killed QcK  in round 15
+pANcada killed Khalil  in round 15
+Round 15 ended with spike_defuse. The winning team is Sentinels.
+The current score is Sentinels 10 - 5 FURIA.
+Sacy killed mazin  in round 16
+dgzin killed TenZ  in round 16
+dgzin killed Sacy  in round 16
+Marved killed mwzera  in round 16
+dgzin killed pANcada  in round 16
+dgzin killed Marved  in round 16
+dgzin killed zekken  in round 16
+Round 16 ended with elimination. The winning team is FURIA.
+The current score is Sentinels 10 - 6 FURIA.
+mazin killed Sacy  in round 17
+mazin killed pANcada  in round 17
+mazin killed zekken  in round 17
+Marved killed mazin  in round 17
+dgzin killed Marved  in round 17
+mwzera killed TenZ  in round 17
+Round 17 ended with elimination. The winning team is FURIA.
+The current score is Sentinels 10 - 7 FURIA.
+Sacy killed dgzin  in round 18
+QcK killed pANcada  in round 18
+zekken killed mwzera  in round 18
+TenZ killed mazin  in round 18
+QcK killed zekken  in round 18
+Marved killed QcK  in round 18
+Khalil killed TenZ  in round 18
+Marved killed Khalil  in round 18
+Round 18 ended with spike_defuse. The winning team is Sentinels.
+The current score is Sentinels 11 - 7 FURIA.
+zekken killed mwzera  in round 19
+zekken killed dgzin  in round 19
+zekken killed mazin  in round 19
+zekken killed Khalil  in round 19
+QcK killed Sacy  in round 19
+Round 19 ended with time_expired. The winning team is Sentinels.
+The current score is Sentinels 12 - 7 FURIA.
+TenZ killed mazin  in round 20
+QcK killed pANcada  in round 20
+zekken killed mwzera  in round 20
+Marved killed Khalil  in round 20
+zekken killed QcK  in round 20
+dgzin killed zekken  in round 20
+dgzin killed Marved  in round 20
+Sacy killed dgzin  in round 20
+Round 20 ended with spike_defuse. The winning team is Sentinels.
+The current score is Sentinels 13 - 7 FURIA.
+Game ended with winning team: Sentinels at 2023-05-18T19:56:16Z
+
+--- Player Stats ---
+QcK: Team=FURIA, Kills=9, Deaths=15, Assists=8, KDA=1.13, First Kills=0, First Deaths=1
+dgzin: Team=FURIA, Kills=18, Deaths=14, Assists=3, KDA=1.5, First Kills=3, First Deaths=2
+mazin: Team=FURIA, Kills=14, Deaths=16, Assists=6, KDA=1.25, First Kills=2, First Deaths=4
+mwzera: Team=FURIA, Kills=14, Deaths=16, Assists=5, KDA=1.19, First Kills=2, First Deaths=3
+Khalil: Team=FURIA, Kills=9, Deaths=13, Assists=9, KDA=1.38, First Kills=2, First Deaths=1
+TenZ: Team=Sentinels, Kills=21, Deaths=13, Assists=4, KDA=1.92, First Kills=4, First Deaths=1
+Sacy: Team=Sentinels, Kills=13, Deaths=13, Assists=7, KDA=1.54, First Kills=2, First Deaths=1
+Marved: Team=Sentinels, Kills=11, Deaths=12, Assists=5, KDA=1.33, First Kills=0, First Deaths=1
+zekken: Team=Sentinels, Kills=19, Deaths=14, Assists=5, KDA=1.71, First Kills=3, First Deaths=3
+pANcada: Team=Sentinels, Kills=11, Deaths=13, Assists=2, KDA=1.0, First Kills=2, First Deaths=3

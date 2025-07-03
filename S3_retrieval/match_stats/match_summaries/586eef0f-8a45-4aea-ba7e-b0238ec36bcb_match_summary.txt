@@ -1,0 +1,248 @@
+Team 1: Gen.G Esports
+Team 2: Team Secret
+Participating Players:
+Player 1: invy
+Player 2: Jremy
+Player 3: JessieVash
+Player 4: DubsteP
+Player 5: BORKUM
+Player 6: GodDead
+Player 7: Meteor 
+Player 8: TS
+Player 9: eKo
+Player 10: k1NgKR
+Winning Team: Gen.G Esports
+Score: Gen.G Esports 13 - 11 Team Secret
+Tournament Name: vct pacific 2023
+Game Start Time: 2023-04-10T10:04:26Z
+Game End Time: 2023-04-10T10:59:07Z
+Rounds ended by ELIMINATION count: 18
+Rounds ended by DEFUSE count: 3
+Rounds ended by DETONATE count: 2
+SPIKE PLANTED count: 5
+platformGameId: val:586eef0f-8a45-4aea-ba7e-b0238ec36bcb
+
+--- Events ---
+Game started at 2023-04-10T10:04:26Z
+TS killed JessieVash  in round 1
+BORKUM killed Meteor   in round 1
+GodDead killed BORKUM  in round 1
+Jremy killed GodDead  in round 1
+Jremy killed eKo  in round 1
+TS killed Jremy  in round 1
+invy killed k1NgKR  in round 1
+DubsteP killed TS  in round 1
+Round 1 ended with elimination. The winning team is Team Secret.
+The current score is Gen.G Esports 0 - 1 Team Secret.
+JessieVash killed TS  in round 2
+Jremy killed eKo  in round 2
+Jremy killed GodDead  in round 2
+BORKUM killed k1NgKR  in round 2
+Jremy killed Meteor   in round 2
+Round 2 ended with elimination. The winning team is Team Secret.
+The current score is Gen.G Esports 0 - 2 Team Secret.
+BORKUM killed TS  in round 3
+Meteor  killed DubsteP  in round 3
+Meteor  killed invy  in round 3
+Meteor  killed Jremy  in round 3
+eKo killed JessieVash  in round 3
+GodDead killed BORKUM  in round 3
+Round 3 ended with elimination. The winning team is Gen.G Esports.
+The current score is Gen.G Esports 1 - 2 Team Secret.
+Jremy killed Meteor   in round 4
+GodDead killed JessieVash  in round 4
+GodDead killed DubsteP  in round 4
+k1NgKR killed BORKUM  in round 4
+k1NgKR killed invy  in round 4
+eKo killed Jremy  in round 4
+Round 4 ended with elimination. The winning team is Gen.G Esports.
+The current score is Gen.G Esports 2 - 2 Team Secret.
+TS killed BORKUM  in round 5
+Meteor  killed invy  in round 5
+Jremy killed Meteor   in round 5
+JessieVash killed GodDead  in round 5
+JessieVash killed eKo  in round 5
+TS killed Jremy  in round 5
+k1NgKR killed DubsteP  in round 5
+k1NgKR killed JessieVash  in round 5
+Round 5 ended with elimination. The winning team is Gen.G Esports.
+The current score is Gen.G Esports 3 - 2 Team Secret.
+invy killed k1NgKR  in round 6
+Meteor  killed Jremy  in round 6
+eKo killed BORKUM  in round 6
+invy killed TS  in round 6
+JessieVash killed Meteor   in round 6
+invy killed eKo  in round 6
+GodDead killed JessieVash  in round 6
+invy killed GodDead  in round 6
+Round 6 ended with elimination. The winning team is Team Secret.
+The current score is Gen.G Esports 3 - 3 Team Secret.
+Jremy killed TS  in round 7
+Jremy killed Meteor   in round 7
+Jremy killed eKo  in round 7
+DubsteP killed k1NgKR  in round 7
+DubsteP killed GodDead  in round 7
+Round 7 ended with elimination. The winning team is Team Secret.
+The current score is Gen.G Esports 3 - 4 Team Secret.
+JessieVash killed k1NgKR  in round 8
+Jremy killed eKo  in round 8
+invy killed Meteor   in round 8
+JessieVash killed GodDead  in round 8
+TS killed BORKUM  in round 8
+Round 8 ended with spike_defuse. The winning team is Team Secret.
+The current score is Gen.G Esports 3 - 5 Team Secret.
+JessieVash killed TS  in round 9
+Meteor  killed BORKUM  in round 9
+Jremy killed eKo  in round 9
+TS killed Jremy  in round 9
+DubsteP killed GodDead  in round 9
+DubsteP killed TS  in round 9
+DubsteP killed Meteor   in round 9
+DubsteP killed k1NgKR  in round 9
+Round 9 ended with spike_defuse. The winning team is Team Secret.
+The current score is Gen.G Esports 3 - 6 Team Secret.
+Meteor  killed DubsteP  in round 10
+invy killed Meteor   in round 10
+TS killed BORKUM  in round 10
+k1NgKR killed JessieVash  in round 10
+Jremy killed GodDead  in round 10
+k1NgKR killed invy  in round 10
+eKo killed Jremy  in round 10
+Round 10 ended with elimination. The winning team is Gen.G Esports.
+The current score is Gen.G Esports 4 - 6 Team Secret.
+BORKUM killed Meteor   in round 11
+GodDead killed BORKUM  in round 11
+Jremy killed TS  in round 11
+GodDead killed JessieVash  in round 11
+Jremy killed eKo  in round 11
+k1NgKR killed invy  in round 11
+k1NgKR killed Jremy  in round 11
+DubsteP killed k1NgKR  in round 11
+GodDead killed DubsteP  in round 11
+Round 11 ended with elimination. The winning team is Gen.G Esports.
+The current score is Gen.G Esports 5 - 6 Team Secret.
+TS killed Jremy  in round 12
+TS killed JessieVash  in round 12
+DubsteP killed TS  in round 12
+k1NgKR killed invy  in round 12
+GodDead killed DubsteP  in round 12
+k1NgKR killed BORKUM  in round 12
+Round 12 ended with elimination. The winning team is Gen.G Esports.
+The current score is Gen.G Esports 6 - 6 Team Secret.
+TS killed DubsteP  in round 13
+k1NgKR killed Jremy  in round 13
+JessieVash killed k1NgKR  in round 13
+eKo killed invy  in round 13
+JessieVash killed eKo  in round 13
+Meteor  killed JessieVash  in round 13
+BORKUM killed GodDead  in round 13
+Meteor  killed BORKUM  in round 13
+Round 13 ended with elimination. The winning team is Gen.G Esports.
+The current score is Gen.G Esports 7 - 6 Team Secret.
+Meteor  killed BORKUM  in round 14
+k1NgKR killed Jremy  in round 14
+k1NgKR killed invy  in round 14
+Meteor  killed JessieVash  in round 14
+GodDead killed DubsteP  in round 14
+Round 14 ended with elimination. The winning team is Gen.G Esports.
+The current score is Gen.G Esports 8 - 6 Team Secret.
+Jremy killed Meteor   in round 15
+k1NgKR killed Jremy  in round 15
+JessieVash killed TS  in round 15
+GodDead killed JessieVash  in round 15
+DubsteP killed GodDead  in round 15
+k1NgKR killed DubsteP  in round 15
+invy killed k1NgKR  in round 15
+Round 15 ended with detonate. The winning team is Team Secret.
+The current score is Gen.G Esports 8 - 7 Team Secret.
+GodDead killed DubsteP  in round 16
+Jremy killed GodDead  in round 16
+k1NgKR killed invy  in round 16
+Jremy killed k1NgKR  in round 16
+TS killed Jremy  in round 16
+BORKUM killed eKo  in round 16
+Meteor  killed JessieVash  in round 16
+Meteor  killed BORKUM  in round 16
+Round 16 ended with spike_defuse. The winning team is Gen.G Esports.
+The current score is Gen.G Esports 9 - 7 Team Secret.
+BORKUM killed k1NgKR  in round 17
+GodDead killed BORKUM  in round 17
+GodDead killed Jremy  in round 17
+invy killed GodDead  in round 17
+JessieVash killed TS  in round 17
+eKo killed JessieVash  in round 17
+Meteor  killed invy  in round 17
+DubsteP killed Meteor   in round 17
+DubsteP killed eKo  in round 17
+Round 17 ended with elimination. The winning team is Team Secret.
+The current score is Gen.G Esports 9 - 8 Team Secret.
+TS killed Jremy  in round 18
+BORKUM killed eKo  in round 18
+DubsteP killed k1NgKR  in round 18
+invy killed TS  in round 18
+BORKUM killed Meteor   in round 18
+JessieVash killed GodDead  in round 18
+Round 18 ended with elimination. The winning team is Team Secret.
+The current score is Gen.G Esports 9 - 9 Team Secret.
+GodDead killed Jremy  in round 19
+GodDead killed JessieVash  in round 19
+TS killed DubsteP  in round 19
+TS killed BORKUM  in round 19
+invy killed k1NgKR  in round 19
+TS killed invy  in round 19
+Round 19 ended with elimination. The winning team is Gen.G Esports.
+The current score is Gen.G Esports 10 - 9 Team Secret.
+GodDead killed Jremy  in round 20
+DubsteP killed TS  in round 20
+invy killed Meteor   in round 20
+GodDead killed JessieVash  in round 20
+invy killed GodDead  in round 20
+k1NgKR killed BORKUM  in round 20
+DubsteP killed eKo  in round 20
+DubsteP killed k1NgKR  in round 20
+Round 20 ended with elimination. The winning team is Team Secret.
+The current score is Gen.G Esports 10 - 10 Team Secret.
+eKo killed DubsteP  in round 21
+BORKUM killed eKo  in round 21
+BORKUM killed Meteor   in round 21
+invy killed GodDead  in round 21
+k1NgKR killed Jremy  in round 21
+BORKUM killed k1NgKR  in round 21
+Round 21 ended with detonate. The winning team is Team Secret.
+The current score is Gen.G Esports 10 - 11 Team Secret.
+DubsteP killed k1NgKR  in round 22
+TS killed Jremy  in round 22
+TS killed invy  in round 22
+GodDead killed DubsteP  in round 22
+Meteor  killed JessieVash  in round 22
+eKo killed BORKUM  in round 22
+Round 22 ended with elimination. The winning team is Gen.G Esports.
+The current score is Gen.G Esports 11 - 11 Team Secret.
+k1NgKR killed invy  in round 23
+k1NgKR killed Jremy  in round 23
+Meteor  killed JessieVash  in round 23
+GodDead killed DubsteP  in round 23
+BORKUM killed GodDead  in round 23
+Round 23 ended with time_expired. The winning team is Gen.G Esports.
+The current score is Gen.G Esports 12 - 11 Team Secret.
+GodDead killed DubsteP  in round 24
+Meteor  killed BORKUM  in round 24
+GodDead killed Jremy  in round 24
+k1NgKR killed JessieVash  in round 24
+invy killed k1NgKR  in round 24
+Meteor  killed invy  in round 24
+Round 24 ended with elimination. The winning team is Gen.G Esports.
+The current score is Gen.G Esports 13 - 11 Team Secret.
+Game ended with winning team: Gen.G Esports at 2023-04-10T10:59:07Z
+
+--- Player Stats ---
+invy: Team=Team Secret, Kills=15, Deaths=14, Assists=14, KDA=2.07, First Kills=1, First Deaths=1
+Jremy: Team=Team Secret, Kills=18, Deaths=21, Assists=6, KDA=1.14, First Kills=3, First Deaths=4
+JessieVash: Team=Team Secret, Kills=12, Deaths=18, Assists=4, KDA=0.89, First Kills=3, First Deaths=1
+DubsteP: Team=Team Secret, Kills=17, Deaths=15, Assists=6, KDA=1.53, First Kills=1, First Deaths=5
+BORKUM: Team=Team Secret, Kills=13, Deaths=18, Assists=10, KDA=1.28, First Kills=3, First Deaths=2
+GodDead: Team=Gen.G Esports, Kills=22, Deaths=16, Assists=14, KDA=2.25, First Kills=4, First Deaths=0
+Meteor : Team=Gen.G Esports, Kills=18, Deaths=15, Assists=3, KDA=1.4, First Kills=2, First Deaths=3
+TS: Team=Gen.G Esports, Kills=17, Deaths=13, Assists=3, KDA=1.54, First Kills=5, First Deaths=4
+eKo: Team=Gen.G Esports, Kills=8, Deaths=14, Assists=11, KDA=1.36, First Kills=1, First Deaths=0
+k1NgKR: Team=Gen.G Esports, Kills=21, Deaths=17, Assists=7, KDA=1.65, First Kills=1, First Deaths=4

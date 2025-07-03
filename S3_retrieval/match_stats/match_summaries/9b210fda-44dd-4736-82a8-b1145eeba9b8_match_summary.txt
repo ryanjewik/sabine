@@ -1,0 +1,213 @@
+Team 1: MIBR
+Team 2: FURIA
+Participating Players:
+Player 1: QcK
+Player 2: dgzin
+Player 3: mazin
+Player 4: mwzera
+Player 5: Khalil
+Player 6: frz
+Player 7: rglmeister
+Player 8: murizzz
+Player 9: heat
+Player 10: jzz
+Winning Team: FURIA
+Score: MIBR 7 - 13 FURIA
+Tournament Name: vct americas 2023
+Game Start Time: 2023-04-29T22:29:06Z
+Game End Time: 2023-04-29T23:18:33Z
+Rounds ended by ELIMINATION count: 11
+Rounds ended by DEFUSE count: 5
+Rounds ended by DETONATE count: 1
+SPIKE PLANTED count: 6
+platformGameId: val:9b210fda-44dd-4736-82a8-b1145eeba9b8
+
+--- Events ---
+Game started at 2023-04-29T22:29:06Z
+dgzin killed heat  in round 1
+mazin killed jzz  in round 1
+mwzera killed frz  in round 1
+dgzin killed rglmeister  in round 1
+mwzera killed murizzz  in round 1
+Round 1 ended with elimination. The winning team is FURIA.
+The current score is MIBR 0 - 1 FURIA.
+mwzera killed heat  in round 2
+mwzera killed jzz  in round 2
+frz killed mwzera  in round 2
+mazin killed murizzz  in round 2
+mazin killed rglmeister  in round 2
+frz killed mazin  in round 2
+frz killed dgzin  in round 2
+Round 2 ended with time_expired. The winning team is FURIA.
+The current score is MIBR 0 - 2 FURIA.
+mazin killed heat  in round 3
+murizzz killed mazin  in round 3
+QcK killed murizzz  in round 3
+mwzera killed jzz  in round 3
+QcK killed frz  in round 3
+rglmeister killed mwzera  in round 3
+QcK killed rglmeister  in round 3
+Round 3 ended with elimination. The winning team is FURIA.
+The current score is MIBR 0 - 3 FURIA.
+mwzera killed jzz  in round 4
+mwzera killed heat  in round 4
+QcK killed frz  in round 4
+Khalil killed rglmeister  in round 4
+mazin killed murizzz  in round 4
+Round 4 ended with elimination. The winning team is FURIA.
+The current score is MIBR 0 - 4 FURIA.
+heat killed mazin  in round 5
+QcK killed frz  in round 5
+rglmeister killed QcK  in round 5
+Khalil killed jzz  in round 5
+heat killed Khalil  in round 5
+dgzin killed heat  in round 5
+murizzz killed mwzera  in round 5
+murizzz killed dgzin  in round 5
+Round 5 ended with elimination. The winning team is MIBR.
+The current score is MIBR 1 - 4 FURIA.
+dgzin killed heat  in round 6
+mazin killed murizzz  in round 6
+QcK killed frz  in round 6
+Round 6 ended with time_expired. The winning team is FURIA.
+The current score is MIBR 1 - 5 FURIA.
+QcK killed heat  in round 7
+Khalil killed jzz  in round 7
+QcK killed murizzz  in round 7
+QcK killed frz  in round 7
+rglmeister killed QcK  in round 7
+mwzera killed rglmeister  in round 7
+Round 7 ended with elimination. The winning team is FURIA.
+The current score is MIBR 1 - 6 FURIA.
+heat killed Khalil  in round 8
+dgzin killed jzz  in round 8
+heat killed dgzin  in round 8
+murizzz killed mazin  in round 8
+QcK killed rglmeister  in round 8
+heat killed QcK  in round 8
+heat killed mwzera  in round 8
+Round 8 ended with elimination. The winning team is MIBR.
+The current score is MIBR 2 - 6 FURIA.
+jzz killed mwzera  in round 9
+QcK killed heat  in round 9
+dgzin killed jzz  in round 9
+murizzz killed dgzin  in round 9
+rglmeister killed QcK  in round 9
+mazin killed rglmeister  in round 9
+frz killed Khalil  in round 9
+Round 9 ended with time_expired. The winning team is FURIA.
+The current score is MIBR 2 - 7 FURIA.
+mazin killed frz  in round 10
+dgzin killed heat  in round 10
+QcK killed frz  in round 10
+jzz killed QcK  in round 10
+mazin killed jzz  in round 10
+murizzz killed mazin  in round 10
+Khalil killed rglmeister  in round 10
+murizzz killed mwzera  in round 10
+Khalil killed murizzz  in round 10
+Round 10 ended with spike_defuse. The winning team is FURIA.
+The current score is MIBR 2 - 8 FURIA.
+mwzera killed jzz  in round 11
+mwzera killed heat  in round 11
+rglmeister killed mwzera  in round 11
+QcK killed murizzz  in round 11
+frz killed QcK  in round 11
+mazin killed frz  in round 11
+dgzin killed rglmeister  in round 11
+Round 11 ended with spike_defuse. The winning team is FURIA.
+The current score is MIBR 2 - 9 FURIA.
+dgzin killed heat  in round 12
+frz killed dgzin  in round 12
+jzz killed Khalil  in round 12
+mwzera killed frz  in round 12
+mazin killed murizzz  in round 12
+QcK killed jzz  in round 12
+rglmeister killed QcK  in round 12
+mazin killed rglmeister  in round 12
+Round 12 ended with spike_defuse. The winning team is FURIA.
+The current score is MIBR 2 - 10 FURIA.
+frz killed mwzera  in round 13
+Khalil killed jzz  in round 13
+murizzz killed mazin  in round 13
+frz killed Khalil  in round 13
+heat killed dgzin  in round 13
+QcK killed rglmeister  in round 13
+QcK killed murizzz  in round 13
+frz killed QcK  in round 13
+Round 13 ended with elimination. The winning team is MIBR.
+The current score is MIBR 3 - 10 FURIA.
+jzz killed QcK  in round 14
+heat killed Khalil  in round 14
+heat killed dgzin  in round 14
+heat killed mwzera  in round 14
+jzz killed mazin  in round 14
+Round 14 ended with elimination. The winning team is MIBR.
+The current score is MIBR 4 - 10 FURIA.
+mwzera killed frz  in round 15
+QcK killed heat  in round 15
+QcK killed jzz  in round 15
+Round 15 ended with detonate. The winning team is FURIA.
+The current score is MIBR 4 - 11 FURIA.
+rglmeister killed rglmeister  in round 16
+murizzz killed murizzz  in round 16
+murizzz killed mwzera  in round 16
+frz killed Khalil  in round 16
+frz killed QcK  in round 16
+frz killed mazin  in round 16
+dgzin killed jzz  in round 16
+frz killed dgzin  in round 16
+Round 16 ended with elimination. The winning team is MIBR.
+The current score is MIBR 5 - 11 FURIA.
+QcK killed heat  in round 17
+murizzz killed mwzera  in round 17
+heat killed QcK  in round 17
+dgzin killed murizzz  in round 17
+dgzin killed jzz  in round 17
+Khalil killed rglmeister  in round 17
+frz killed dgzin  in round 17
+mazin killed frz  in round 17
+Round 17 ended with elimination. The winning team is FURIA.
+The current score is MIBR 5 - 12 FURIA.
+mwzera killed frz  in round 18
+dgzin killed murizzz  in round 18
+jzz killed mwzera  in round 18
+jzz killed dgzin  in round 18
+jzz killed mazin  in round 18
+QcK killed jzz  in round 18
+heat killed Khalil  in round 18
+rglmeister killed QcK  in round 18
+Round 18 ended with spike_defuse. The winning team is MIBR.
+The current score is MIBR 6 - 12 FURIA.
+jzz killed dgzin  in round 19
+QcK killed murizzz  in round 19
+heat killed QcK  in round 19
+frz killed mwzera  in round 19
+Khalil killed heat  in round 19
+rglmeister killed Khalil  in round 19
+mazin killed rglmeister  in round 19
+jzz killed mazin  in round 19
+Round 19 ended with spike_defuse. The winning team is MIBR.
+The current score is MIBR 7 - 12 FURIA.
+frz killed QcK  in round 20
+dgzin killed frz  in round 20
+mwzera killed murizzz  in round 20
+mwzera killed rglmeister  in round 20
+jzz killed mwzera  in round 20
+dgzin killed jzz  in round 20
+dgzin killed heat  in round 20
+Round 20 ended with elimination. The winning team is FURIA.
+The current score is MIBR 7 - 13 FURIA.
+Game ended with winning team: FURIA at 2023-04-29T23:18:33Z
+
+--- Player Stats ---
+QcK: Team=FURIA, Kills=21, Deaths=14, Assists=8, KDA=2.07, First Kills=2, First Deaths=2
+dgzin: Team=FURIA, Kills=16, Deaths=11, Assists=3, KDA=1.73, First Kills=3, First Deaths=1
+mazin: Team=FURIA, Kills=14, Deaths=10, Assists=7, KDA=2.1, First Kills=2, First Deaths=1
+mwzera: Team=FURIA, Kills=15, Deaths=14, Assists=8, KDA=1.64, First Kills=5, First Deaths=2
+Khalil: Team=FURIA, Kills=8, Deaths=9, Assists=7, KDA=1.67, First Kills=0, First Deaths=1
+frz: Team=MIBR, Kills=16, Deaths=14, Assists=1, KDA=1.21, First Kills=2, First Deaths=3
+rglmeister: Team=MIBR, Kills=9, Deaths=15, Assists=6, KDA=1.0, First Kills=1, First Deaths=1
+murizzz: Team=MIBR, Kills=11, Deaths=15, Assists=7, KDA=1.2, First Kills=0, First Deaths=0
+heat: Team=MIBR, Kills=13, Deaths=15, Assists=1, KDA=0.93, First Kills=2, First Deaths=7
+jzz: Team=MIBR, Kills=11, Deaths=17, Assists=6, KDA=1.0, First Kills=3, First Deaths=2

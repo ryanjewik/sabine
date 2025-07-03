@@ -1,0 +1,258 @@
+Team 1: EDWARD Gaming
+Team 2: Leviatán Esports
+Participating Players:
+Player 1: aspas
+Player 2: tex
+Player 3: kiNgg
+Player 4: C0M
+Player 5: Mazino
+Player 6: CHICHOO
+Player 7: ZmjjKK
+Player 8: S1Mon
+Player 9: nobody 
+Player 10: Smoggy
+Winning Team: EDWARD Gaming
+Score: EDWARD Gaming 13 - 11 Leviatán Esports
+Tournament Name: vct champions 2024
+Game Start Time: 2024-08-23T09:23:06Z
+Game End Time: 2024-08-23T10:24:29Z
+Rounds ended by ELIMINATION count: 12
+Rounds ended by DEFUSE count: 6
+Rounds ended by DETONATE count: 4
+SPIKE PLANTED count: 10
+platformGameId: val:d3e7bdb2-de49-4f16-857a-00205b41d8a5
+
+--- Events ---
+Game started at 2024-08-23T09:23:06Z
+ZmjjKK killed tex  in round 1
+aspas killed CHICHOO  in round 1
+nobody  killed aspas  in round 1
+kiNgg killed ZmjjKK  in round 1
+S1Mon killed kiNgg  in round 1
+C0M killed S1Mon  in round 1
+Mazino killed nobody   in round 1
+Mazino killed Smoggy  in round 1
+Round 1 ended with spike_defuse. The winning team is Leviatán Esports.
+The current score is EDWARD Gaming 0 - 1 Leviatán Esports.
+ZmjjKK killed tex  in round 2
+C0M killed ZmjjKK  in round 2
+nobody  killed kiNgg  in round 2
+aspas killed nobody   in round 2
+S1Mon killed C0M  in round 2
+aspas killed S1Mon  in round 2
+Mazino killed Smoggy  in round 2
+Mazino killed CHICHOO  in round 2
+Round 2 ended with spike_defuse. The winning team is Leviatán Esports.
+The current score is EDWARD Gaming 0 - 2 Leviatán Esports.
+ZmjjKK killed Mazino  in round 3
+tex killed ZmjjKK  in round 3
+Smoggy killed C0M  in round 3
+kiNgg killed S1Mon  in round 3
+Smoggy killed kiNgg  in round 3
+Smoggy killed tex  in round 3
+Round 3 ended with detonate. The winning team is EDWARD Gaming.
+The current score is EDWARD Gaming 1 - 2 Leviatán Esports.
+S1Mon killed aspas  in round 4
+C0M killed nobody   in round 4
+Mazino killed S1Mon  in round 4
+tex killed ZmjjKK  in round 4
+C0M killed CHICHOO  in round 4
+Smoggy killed C0M  in round 4
+Mazino killed Smoggy  in round 4
+Round 4 ended with spike_defuse. The winning team is Leviatán Esports.
+The current score is EDWARD Gaming 1 - 3 Leviatán Esports.
+tex killed ZmjjKK  in round 5
+Mazino killed CHICHOO  in round 5
+Mazino killed nobody   in round 5
+kiNgg killed S1Mon  in round 5
+C0M killed Smoggy  in round 5
+Round 5 ended with elimination. The winning team is Leviatán Esports.
+The current score is EDWARD Gaming 1 - 4 Leviatán Esports.
+tex killed ZmjjKK  in round 6
+Smoggy killed aspas  in round 6
+Mazino killed Smoggy  in round 6
+CHICHOO killed tex  in round 6
+nobody  killed kiNgg  in round 6
+Mazino killed CHICHOO  in round 6
+nobody  killed Mazino  in round 6
+C0M killed S1Mon  in round 6
+nobody  killed C0M  in round 6
+Round 6 ended with elimination. The winning team is EDWARD Gaming.
+The current score is EDWARD Gaming 2 - 4 Leviatán Esports.
+C0M killed nobody   in round 7
+Smoggy killed Mazino  in round 7
+kiNgg killed S1Mon  in round 7
+ZmjjKK killed kiNgg  in round 7
+tex killed ZmjjKK  in round 7
+Smoggy killed tex  in round 7
+aspas killed Smoggy  in round 7
+CHICHOO killed aspas  in round 7
+CHICHOO killed C0M  in round 7
+Round 7 ended with elimination. The winning team is EDWARD Gaming.
+The current score is EDWARD Gaming 3 - 4 Leviatán Esports.
+CHICHOO killed aspas  in round 8
+kiNgg killed nobody   in round 8
+C0M killed ZmjjKK  in round 8
+kiNgg killed Smoggy  in round 8
+Mazino killed CHICHOO  in round 8
+Round 8 ended with time_expired. The winning team is Leviatán Esports.
+The current score is EDWARD Gaming 3 - 5 Leviatán Esports.
+ZmjjKK killed Mazino  in round 9
+nobody  killed kiNgg  in round 9
+tex killed ZmjjKK  in round 9
+C0M killed nobody   in round 9
+CHICHOO killed tex  in round 9
+Smoggy killed C0M  in round 9
+CHICHOO killed aspas  in round 9
+Round 9 ended with elimination. The winning team is EDWARD Gaming.
+The current score is EDWARD Gaming 4 - 5 Leviatán Esports.
+kiNgg killed ZmjjKK  in round 10
+tex killed CHICHOO  in round 10
+S1Mon killed aspas  in round 10
+C0M killed nobody   in round 10
+S1Mon killed C0M  in round 10
+Round 10 ended with time_expired. The winning team is Leviatán Esports.
+The current score is EDWARD Gaming 4 - 6 Leviatán Esports.
+Smoggy killed Mazino  in round 11
+nobody  killed kiNgg  in round 11
+ZmjjKK killed tex  in round 11
+ZmjjKK killed Mazino  in round 11
+C0M killed ZmjjKK  in round 11
+CHICHOO killed C0M  in round 11
+aspas killed CHICHOO  in round 11
+Round 11 ended with detonate. The winning team is EDWARD Gaming.
+The current score is EDWARD Gaming 5 - 6 Leviatán Esports.
+ZmjjKK killed tex  in round 12
+aspas killed ZmjjKK  in round 12
+Smoggy killed aspas  in round 12
+C0M killed S1Mon  in round 12
+C0M killed Smoggy  in round 12
+CHICHOO killed Mazino  in round 12
+CHICHOO killed kiNgg  in round 12
+nobody  killed C0M  in round 12
+Round 12 ended with elimination. The winning team is EDWARD Gaming.
+The current score is EDWARD Gaming 6 - 6 Leviatán Esports.
+tex killed ZmjjKK  in round 13
+nobody  killed C0M  in round 13
+Mazino killed nobody   in round 13
+S1Mon killed aspas  in round 13
+tex killed CHICHOO  in round 13
+S1Mon killed Mazino  in round 13
+kiNgg killed S1Mon  in round 13
+kiNgg killed Smoggy  in round 13
+Round 13 ended with elimination. The winning team is Leviatán Esports.
+The current score is EDWARD Gaming 6 - 7 Leviatán Esports.
+Smoggy killed tex  in round 14
+C0M killed Smoggy  in round 14
+Mazino killed nobody   in round 14
+Mazino killed CHICHOO  in round 14
+ZmjjKK killed Mazino  in round 14
+aspas killed ZmjjKK  in round 14
+aspas killed S1Mon  in round 14
+Round 14 ended with elimination. The winning team is Leviatán Esports.
+The current score is EDWARD Gaming 6 - 8 Leviatán Esports.
+ZmjjKK killed aspas  in round 15
+tex killed nobody   in round 15
+Mazino killed S1Mon  in round 15
+kiNgg killed CHICHOO  in round 15
+ZmjjKK killed C0M  in round 15
+Mazino killed ZmjjKK  in round 15
+Smoggy killed Mazino  in round 15
+Smoggy killed tex  in round 15
+Smoggy killed kiNgg  in round 15
+Round 15 ended with spike_defuse. The winning team is EDWARD Gaming.
+The current score is EDWARD Gaming 7 - 8 Leviatán Esports.
+ZmjjKK killed tex  in round 16
+aspas killed S1Mon  in round 16
+Mazino killed CHICHOO  in round 16
+aspas killed ZmjjKK  in round 16
+Smoggy killed kiNgg  in round 16
+aspas killed Smoggy  in round 16
+aspas killed nobody   in round 16
+Round 16 ended with elimination. The winning team is Leviatán Esports.
+The current score is EDWARD Gaming 7 - 9 Leviatán Esports.
+ZmjjKK killed tex  in round 17
+kiNgg killed ZmjjKK  in round 17
+aspas killed S1Mon  in round 17
+C0M killed nobody   in round 17
+aspas killed CHICHOO  in round 17
+Smoggy killed Mazino  in round 17
+Smoggy killed C0M  in round 17
+Round 17 ended with detonate. The winning team is Leviatán Esports.
+The current score is EDWARD Gaming 7 - 10 Leviatán Esports.
+Smoggy killed Smoggy  in round 18
+aspas killed aspas  in round 18
+CHICHOO killed C0M  in round 18
+CHICHOO killed Mazino  in round 18
+S1Mon killed kiNgg  in round 18
+S1Mon killed tex  in round 18
+nobody  killed aspas  in round 18
+Round 18 ended with elimination. The winning team is EDWARD Gaming.
+The current score is EDWARD Gaming 8 - 10 Leviatán Esports.
+aspas killed S1Mon  in round 19
+Mazino killed Smoggy  in round 19
+Mazino killed ZmjjKK  in round 19
+nobody  killed aspas  in round 19
+CHICHOO killed kiNgg  in round 19
+Round 19 ended with detonate. The winning team is Leviatán Esports.
+The current score is EDWARD Gaming 8 - 11 Leviatán Esports.
+aspas killed ZmjjKK  in round 20
+CHICHOO killed Mazino  in round 20
+C0M killed Smoggy  in round 20
+S1Mon killed tex  in round 20
+C0M killed S1Mon  in round 20
+CHICHOO killed aspas  in round 20
+CHICHOO killed C0M  in round 20
+CHICHOO killed kiNgg  in round 20
+Round 20 ended with spike_defuse. The winning team is EDWARD Gaming.
+The current score is EDWARD Gaming 9 - 11 Leviatán Esports.
+nobody  killed tex  in round 21
+Mazino killed nobody   in round 21
+C0M killed CHICHOO  in round 21
+Smoggy killed kiNgg  in round 21
+Smoggy killed aspas  in round 21
+ZmjjKK killed Mazino  in round 21
+S1Mon killed C0M  in round 21
+Round 21 ended with elimination. The winning team is EDWARD Gaming.
+The current score is EDWARD Gaming 10 - 11 Leviatán Esports.
+CHICHOO killed Mazino  in round 22
+aspas killed nobody   in round 22
+CHICHOO killed aspas  in round 22
+tex killed ZmjjKK  in round 22
+CHICHOO killed tex  in round 22
+Smoggy killed kiNgg  in round 22
+C0M killed Smoggy  in round 22
+S1Mon killed C0M  in round 22
+Round 22 ended with elimination. The winning team is EDWARD Gaming.
+The current score is EDWARD Gaming 11 - 11 Leviatán Esports.
+ZmjjKK killed C0M  in round 23
+ZmjjKK killed aspas  in round 23
+tex killed S1Mon  in round 23
+tex killed Smoggy  in round 23
+ZmjjKK killed tex  in round 23
+Mazino killed ZmjjKK  in round 23
+CHICHOO killed Mazino  in round 23
+CHICHOO killed kiNgg  in round 23
+Round 23 ended with spike_defuse. The winning team is EDWARD Gaming.
+The current score is EDWARD Gaming 12 - 11 Leviatán Esports.
+S1Mon killed aspas  in round 24
+nobody  killed tex  in round 24
+Smoggy killed kiNgg  in round 24
+Mazino killed S1Mon  in round 24
+Smoggy killed Mazino  in round 24
+nobody  killed C0M  in round 24
+Round 24 ended with elimination. The winning team is EDWARD Gaming.
+The current score is EDWARD Gaming 13 - 11 Leviatán Esports.
+Game ended with winning team: EDWARD Gaming at 2024-08-23T10:24:29Z
+
+--- Player Stats ---
+aspas: Team=Leviatán Esports, Kills=18, Deaths=18, Assists=4, KDA=1.22, First Kills=2, First Deaths=4
+tex: Team=Leviatán Esports, Kills=13, Deaths=18, Assists=3, KDA=0.89, First Kills=3, First Deaths=7
+kiNgg: Team=Leviatán Esports, Kills=11, Deaths=17, Assists=9, KDA=1.18, First Kills=1, First Deaths=0
+C0M: Team=Leviatán Esports, Kills=19, Deaths=18, Assists=10, KDA=1.61, First Kills=1, First Deaths=1
+Mazino: Team=Leviatán Esports, Kills=22, Deaths=17, Assists=8, KDA=1.76, First Kills=0, First Deaths=4
+CHICHOO: Team=EDWARD Gaming, Kills=21, Deaths=14, Assists=7, KDA=2.0, First Kills=2, First Deaths=0
+ZmjjKK: Team=EDWARD Gaming, Kills=17, Deaths=21, Assists=5, KDA=1.05, First Kills=9, First Deaths=5
+S1Mon: Team=EDWARD Gaming, Kills=13, Deaths=17, Assists=15, KDA=1.65, First Kills=2, First Deaths=1
+nobody : Team=EDWARD Gaming, Kills=14, Deaths=15, Assists=5, KDA=1.27, First Kills=1, First Deaths=1
+Smoggy: Team=EDWARD Gaming, Kills=23, Deaths=16, Assists=10, KDA=2.06, First Kills=3, First Deaths=1

@@ -1,0 +1,201 @@
+Team 1: FNATIC
+Team 2: DRX
+Participating Players:
+Player 1: BuZz
+Player 2: stax
+Player 3: MaKo
+Player 4: ZestKR
+Player 5: Rb
+Player 6: Mistic
+Player 7: Derke
+Player 8: Boaster
+Player 9: Alfajer
+Player 10: Enz0
+Winning Team: FNATIC
+Score: FNATIC 13 - 7 DRX
+Tournament Name: champions 2022
+Game Start Time: 2022-09-13T13:57:50Z
+Game End Time: 2022-09-13T15:01:04Z
+Rounds ended by ELIMINATION count: 11
+Rounds ended by DEFUSE count: 5
+Rounds ended by DETONATE count: 2
+SPIKE PLANTED count: 7
+platformGameId: val:2ba41de5-2a99-471e-bede-ec09a55fa0d9
+
+--- Events ---
+Game started at 2022-09-13T13:57:50Z
+Derke killed BuZz  in round 1
+Derke killed Rb  in round 1
+Mistic killed ZestKR  in round 1
+Derke killed MaKo  in round 1
+Derke killed stax  in round 1
+Round 1 ended with elimination. The winning team is FNATIC.
+The current score is FNATIC 1 - 0 DRX.
+Derke killed BuZz  in round 2
+Mistic killed MaKo  in round 2
+Mistic killed ZestKR  in round 2
+Mistic killed stax  in round 2
+Rb killed Derke  in round 2
+Alfajer killed Rb  in round 2
+Round 2 ended with elimination. The winning team is FNATIC.
+The current score is FNATIC 2 - 0 DRX.
+Derke killed Rb  in round 3
+Derke killed stax  in round 3
+Derke killed ZestKR  in round 3
+Boaster killed MaKo  in round 3
+Enz0 killed BuZz  in round 3
+Round 3 ended with elimination. The winning team is FNATIC.
+The current score is FNATIC 3 - 0 DRX.
+BuZz killed Alfajer  in round 4
+Derke killed ZestKR  in round 4
+Derke killed stax  in round 4
+Derke killed BuZz  in round 4
+Mistic killed Rb  in round 4
+Alfajer killed MaKo  in round 4
+Round 4 ended with elimination. The winning team is FNATIC.
+The current score is FNATIC 4 - 0 DRX.
+stax killed Alfajer  in round 5
+Rb killed Derke  in round 5
+Round 5 ended with time_expired. The winning team is DRX.
+The current score is FNATIC 4 - 1 DRX.
+Boaster killed ZestKR  in round 6
+Derke killed stax  in round 6
+Mistic killed MaKo  in round 6
+Rb killed Mistic  in round 6
+Derke killed Rb  in round 6
+Round 6 ended with detonate. The winning team is FNATIC.
+The current score is FNATIC 5 - 1 DRX.
+BuZz killed Alfajer  in round 7
+stax killed Boaster  in round 7
+Derke killed stax  in round 7
+Derke killed Rb  in round 7
+ZestKR killed Derke  in round 7
+BuZz killed Enz0  in round 7
+Round 7 ended with spike_defuse. The winning team is DRX.
+The current score is FNATIC 5 - 2 DRX.
+BuZz killed Derke  in round 8
+Rb killed Boaster  in round 8
+Mistic killed Rb  in round 8
+MaKo killed Alfajer  in round 8
+BuZz killed Enz0  in round 8
+BuZz killed Mistic  in round 8
+Round 8 ended with spike_defuse. The winning team is DRX.
+The current score is FNATIC 5 - 3 DRX.
+Boaster killed Rb  in round 9
+stax killed Boaster  in round 9
+stax killed Derke  in round 9
+Mistic killed ZestKR  in round 9
+Alfajer killed BuZz  in round 9
+Enz0 killed Rb  in round 9
+Mistic killed stax  in round 9
+MaKo killed Mistic  in round 9
+Alfajer killed MaKo  in round 9
+Round 9 ended with elimination. The winning team is FNATIC.
+The current score is FNATIC 6 - 3 DRX.
+stax killed Alfajer  in round 10
+Boaster killed BuZz  in round 10
+Derke killed ZestKR  in round 10
+stax killed Derke  in round 10
+Mistic killed stax  in round 10
+Rb killed Mistic  in round 10
+Rb killed Boaster  in round 10
+Rb killed Enz0  in round 10
+Round 10 ended with spike_defuse. The winning team is DRX.
+The current score is FNATIC 6 - 4 DRX.
+BuZz killed Boaster  in round 11
+Rb killed Derke  in round 11
+stax killed Mistic  in round 11
+stax killed Boaster  in round 11
+Round 11 ended with time_expired. The winning team is DRX.
+The current score is FNATIC 6 - 5 DRX.
+MaKo killed Mistic  in round 12
+Boaster killed Rb  in round 12
+Derke killed ZestKR  in round 12
+MaKo killed Enz0  in round 12
+Derke killed BuZz  in round 12
+Boaster killed stax  in round 12
+Derke killed MaKo  in round 12
+Round 12 ended with elimination. The winning team is FNATIC.
+The current score is FNATIC 7 - 5 DRX.
+Derke killed BuZz  in round 13
+Derke killed ZestKR  in round 13
+Derke killed Rb  in round 13
+Alfajer killed MaKo  in round 13
+stax killed Mistic  in round 13
+Derke killed stax  in round 13
+Round 13 ended with elimination. The winning team is FNATIC.
+The current score is FNATIC 8 - 5 DRX.
+Mistic killed BuZz  in round 14
+Derke killed Rb  in round 14
+stax killed Mistic  in round 14
+Enz0 killed ZestKR  in round 14
+Enz0 killed stax  in round 14
+Derke killed MaKo  in round 14
+Round 14 ended with elimination. The winning team is FNATIC.
+The current score is FNATIC 9 - 5 DRX.
+Alfajer killed BuZz  in round 15
+Derke killed Rb  in round 15
+Boaster killed MaKo  in round 15
+Enz0 killed ZestKR  in round 15
+stax killed Enz0  in round 15
+Alfajer killed stax  in round 15
+Round 15 ended with elimination. The winning team is FNATIC.
+The current score is FNATIC 10 - 5 DRX.
+Mistic killed ZestKR  in round 16
+Derke killed MaKo  in round 16
+Alfajer killed Rb  in round 16
+stax killed Derke  in round 16
+Boaster killed BuZz  in round 16
+Boaster killed stax  in round 16
+Round 16 ended with spike_defuse. The winning team is FNATIC.
+The current score is FNATIC 11 - 5 DRX.
+Mistic killed stax  in round 17
+ZestKR killed Mistic  in round 17
+BuZz killed Derke  in round 17
+Boaster killed BuZz  in round 17
+Rb killed Boaster  in round 17
+Alfajer killed ZestKR  in round 17
+MaKo killed Alfajer  in round 17
+MaKo killed Enz0  in round 17
+Round 17 ended with elimination. The winning team is DRX.
+The current score is FNATIC 11 - 6 DRX.
+ZestKR killed Mistic  in round 18
+Enz0 killed stax  in round 18
+BuZz killed Boaster  in round 18
+Enz0 killed Rb  in round 18
+ZestKR killed Enz0  in round 18
+BuZz killed Alfajer  in round 18
+Derke killed ZestKR  in round 18
+Round 18 ended with detonate. The winning team is DRX.
+The current score is FNATIC 11 - 7 DRX.
+Derke killed BuZz  in round 19
+Rb killed Mistic  in round 19
+Boaster killed Rb  in round 19
+Alfajer killed stax  in round 19
+ZestKR killed Enz0  in round 19
+Derke killed MaKo  in round 19
+Alfajer killed ZestKR  in round 19
+Round 19 ended with spike_defuse. The winning team is FNATIC.
+The current score is FNATIC 12 - 7 DRX.
+Mistic killed BuZz  in round 20
+stax killed Mistic  in round 20
+Enz0 killed Rb  in round 20
+Enz0 killed MaKo  in round 20
+Derke killed ZestKR  in round 20
+stax killed Derke  in round 20
+Alfajer killed stax  in round 20
+Round 20 ended with elimination. The winning team is FNATIC.
+The current score is FNATIC 13 - 7 DRX.
+Game ended with winning team: FNATIC at 2022-09-13T15:01:04Z
+
+--- Player Stats ---
+BuZz: Team=DRX, Kills=10, Deaths=14, Assists=1, KDA=0.79, First Kills=4, First Deaths=7
+stax: Team=DRX, Kills=14, Deaths=17, Assists=1, KDA=0.88, First Kills=2, First Deaths=1
+MaKo: Team=DRX, Kills=6, Deaths=13, Assists=7, KDA=1.0, First Kills=1, First Deaths=0
+ZestKR: Team=DRX, Kills=5, Deaths=16, Assists=5, KDA=0.62, First Kills=1, First Deaths=2
+Rb: Team=DRX, Kills=10, Deaths=17, Assists=4, KDA=0.82, First Kills=0, First Deaths=2
+Mistic: Team=FNATIC, Kills=14, Deaths=12, Assists=15, KDA=2.42, First Kills=4, First Deaths=2
+Derke: Team=FNATIC, Kills=31, Deaths=10, Assists=0, KDA=3.1, First Kills=5, First Deaths=1
+Boaster: Team=FNATIC, Kills=11, Deaths=8, Assists=10, KDA=2.62, First Kills=2, First Deaths=1
+Alfajer: Team=FNATIC, Kills=12, Deaths=7, Assists=1, KDA=1.86, First Kills=1, First Deaths=4
+Enz0: Team=FNATIC, Kills=9, Deaths=8, Assists=9, KDA=2.25, First Kills=0, First Deaths=0

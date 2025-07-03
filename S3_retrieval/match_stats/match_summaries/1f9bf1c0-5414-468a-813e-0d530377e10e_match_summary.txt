@@ -1,0 +1,197 @@
+Team 1: Team Vitality
+Team 2: GLOBAL ESPORTS
+Participating Players:
+Player 1: t3xture
+Player 2: SkRossi
+Player 3: AYRIN
+Player 4: Monyet
+Player 5: Bazzi
+Player 6: Destrian
+Player 7: Twisten
+Player 8: BONECOLD
+Player 9: MOLSI
+Player 10: ceNder
+Winning Team: Team Vitality
+Score: Team Vitality 13 - 4 GLOBAL ESPORTS
+Tournament Name: lock in brazil 2023
+Game Start Time: 2023-02-23T16:54:34Z
+Game End Time: 2023-02-23T17:43:48Z
+Rounds ended by ELIMINATION count: 14
+Rounds ended by DEFUSE count: 3
+Rounds ended by DETONATE count: 0
+SPIKE PLANTED count: 3
+platformGameId: val:1f9bf1c0-5414-468a-813e-0d530377e10e
+
+--- Events ---
+Game started at 2023-02-23T16:54:34Z
+t3xture killed Twisten  in round 1
+ceNder killed Monyet  in round 1
+t3xture killed BONECOLD  in round 1
+MOLSI killed t3xture  in round 1
+ceNder killed Bazzi  in round 1
+ceNder killed SkRossi  in round 1
+AYRIN killed ceNder  in round 1
+AYRIN killed Destrian  in round 1
+AYRIN killed MOLSI  in round 1
+Round 1 ended with spike_defuse. The winning team is GLOBAL ESPORTS.
+The current score is Team Vitality 0 - 1 GLOBAL ESPORTS.
+ceNder killed t3xture  in round 2
+AYRIN killed BONECOLD  in round 2
+ceNder killed Monyet  in round 2
+ceNder killed Bazzi  in round 2
+AYRIN killed MOLSI  in round 2
+Twisten killed SkRossi  in round 2
+AYRIN killed Twisten  in round 2
+Destrian killed AYRIN  in round 2
+Round 2 ended with elimination. The winning team is Team Vitality.
+The current score is Team Vitality 1 - 1 GLOBAL ESPORTS.
+Destrian killed t3xture  in round 3
+MOLSI killed SkRossi  in round 3
+MOLSI killed Monyet  in round 3
+Twisten killed Bazzi  in round 3
+ceNder killed AYRIN  in round 3
+Round 3 ended with elimination. The winning team is Team Vitality.
+The current score is Team Vitality 2 - 1 GLOBAL ESPORTS.
+MOLSI killed MOLSI  in round 4
+Twisten killed Monyet  in round 4
+Bazzi killed ceNder  in round 4
+Destrian killed SkRossi  in round 4
+Bazzi killed BONECOLD  in round 4
+t3xture killed Destrian  in round 4
+MOLSI killed t3xture  in round 4
+Bazzi killed MOLSI  in round 4
+Twisten killed Bazzi  in round 4
+Twisten killed AYRIN  in round 4
+Round 4 ended with elimination. The winning team is Team Vitality.
+The current score is Team Vitality 3 - 1 GLOBAL ESPORTS.
+Twisten killed AYRIN  in round 5
+Twisten killed Bazzi  in round 5
+Twisten killed SkRossi  in round 5
+t3xture killed Twisten  in round 5
+t3xture killed ceNder  in round 5
+MOLSI killed Monyet  in round 5
+MOLSI killed t3xture  in round 5
+Round 5 ended with elimination. The winning team is Team Vitality.
+The current score is Team Vitality 4 - 1 GLOBAL ESPORTS.
+Monyet killed MOLSI  in round 6
+SkRossi killed ceNder  in round 6
+t3xture killed Twisten  in round 6
+AYRIN killed BONECOLD  in round 6
+SkRossi killed Destrian  in round 6
+Round 6 ended with elimination. The winning team is GLOBAL ESPORTS.
+The current score is Team Vitality 4 - 2 GLOBAL ESPORTS.
+AYRIN killed BONECOLD  in round 7
+ceNder killed AYRIN  in round 7
+Destrian killed Bazzi  in round 7
+MOLSI killed t3xture  in round 7
+MOLSI killed SkRossi  in round 7
+Monyet killed MOLSI  in round 7
+Twisten killed Monyet  in round 7
+Twisten killed AYRIN  in round 7
+Round 7 ended with elimination. The winning team is Team Vitality.
+The current score is Team Vitality 5 - 2 GLOBAL ESPORTS.
+Destrian killed Monyet  in round 8
+BONECOLD killed SkRossi  in round 8
+MOLSI killed t3xture  in round 8
+Bazzi killed MOLSI  in round 8
+Bazzi killed ceNder  in round 8
+Twisten killed Bazzi  in round 8
+AYRIN killed BONECOLD  in round 8
+Twisten killed AYRIN  in round 8
+Round 8 ended with elimination. The winning team is Team Vitality.
+The current score is Team Vitality 6 - 2 GLOBAL ESPORTS.
+ceNder killed t3xture  in round 9
+ceNder killed AYRIN  in round 9
+ceNder killed SkRossi  in round 9
+Monyet killed ceNder  in round 9
+Twisten killed Bazzi  in round 9
+Twisten killed Monyet  in round 9
+Round 9 ended with elimination. The winning team is Team Vitality.
+The current score is Team Vitality 7 - 2 GLOBAL ESPORTS.
+Bazzi killed ceNder  in round 10
+Bazzi killed MOLSI  in round 10
+BONECOLD killed Bazzi  in round 10
+Destrian killed AYRIN  in round 10
+Twisten killed Monyet  in round 10
+t3xture killed BONECOLD  in round 10
+Twisten killed SkRossi  in round 10
+MOLSI killed t3xture  in round 10
+Round 10 ended with elimination. The winning team is Team Vitality.
+The current score is Team Vitality 8 - 2 GLOBAL ESPORTS.
+Twisten killed t3xture  in round 11
+MOLSI killed Monyet  in round 11
+MOLSI killed SkRossi  in round 11
+Twisten killed Bazzi  in round 11
+Twisten killed AYRIN  in round 11
+Round 11 ended with elimination. The winning team is Team Vitality.
+The current score is Team Vitality 9 - 2 GLOBAL ESPORTS.
+Monyet killed MOLSI  in round 12
+BONECOLD killed AYRIN  in round 12
+Twisten killed Bazzi  in round 12
+Monyet killed Twisten  in round 12
+t3xture killed ceNder  in round 12
+Destrian killed t3xture  in round 12
+SkRossi killed BONECOLD  in round 12
+Destrian killed SkRossi  in round 12
+Monyet killed Destrian  in round 12
+Round 12 ended with spike_defuse. The winning team is GLOBAL ESPORTS.
+The current score is Team Vitality 9 - 3 GLOBAL ESPORTS.
+AYRIN killed ceNder  in round 13
+Bazzi killed Destrian  in round 13
+MOLSI killed AYRIN  in round 13
+SkRossi killed BONECOLD  in round 13
+MOLSI killed SkRossi  in round 13
+Monyet killed MOLSI  in round 13
+Twisten killed t3xture  in round 13
+Bazzi killed Twisten  in round 13
+Round 13 ended with elimination. The winning team is GLOBAL ESPORTS.
+The current score is Team Vitality 9 - 4 GLOBAL ESPORTS.
+AYRIN killed BONECOLD  in round 14
+AYRIN killed Destrian  in round 14
+Twisten killed AYRIN  in round 14
+MOLSI killed t3xture  in round 14
+SkRossi killed MOLSI  in round 14
+ceNder killed SkRossi  in round 14
+Twisten killed Bazzi  in round 14
+Monyet killed Twisten  in round 14
+ceNder killed Monyet  in round 14
+Round 14 ended with spike_defuse. The winning team is Team Vitality.
+The current score is Team Vitality 10 - 4 GLOBAL ESPORTS.
+BONECOLD killed Monyet  in round 15
+t3xture killed Twisten  in round 15
+ceNder killed SkRossi  in round 15
+Bazzi killed ceNder  in round 15
+MOLSI killed t3xture  in round 15
+BONECOLD killed AYRIN  in round 15
+MOLSI killed Bazzi  in round 15
+Round 15 ended with elimination. The winning team is Team Vitality.
+The current score is Team Vitality 11 - 4 GLOBAL ESPORTS.
+Destrian killed AYRIN  in round 16
+Destrian killed Monyet  in round 16
+MOLSI killed t3xture  in round 16
+Bazzi killed MOLSI  in round 16
+Destrian killed SkRossi  in round 16
+BONECOLD killed Bazzi  in round 16
+Round 16 ended with elimination. The winning team is Team Vitality.
+The current score is Team Vitality 12 - 4 GLOBAL ESPORTS.
+ceNder killed SkRossi  in round 17
+Destrian killed Monyet  in round 17
+ceNder killed Bazzi  in round 17
+ceNder killed t3xture  in round 17
+t3xture killed MOLSI  in round 17
+Destrian killed AYRIN  in round 17
+Round 17 ended with elimination. The winning team is Team Vitality.
+The current score is Team Vitality 13 - 4 GLOBAL ESPORTS.
+Game ended with winning team: Team Vitality at 2023-02-23T17:43:48Z
+
+--- Player Stats ---
+t3xture: Team=GLOBAL ESPORTS, Kills=10, Deaths=16, Assists=1, KDA=0.69, First Kills=1, First Deaths=4
+SkRossi: Team=GLOBAL ESPORTS, Kills=5, Deaths=16, Assists=4, KDA=0.56, First Kills=0, First Deaths=1
+AYRIN: Team=GLOBAL ESPORTS, Kills=12, Deaths=16, Assists=4, KDA=1.0, First Kills=3, First Deaths=2
+Monyet: Team=GLOBAL ESPORTS, Kills=8, Deaths=14, Assists=6, KDA=1.0, First Kills=2, First Deaths=2
+Bazzi: Team=GLOBAL ESPORTS, Kills=11, Deaths=15, Assists=5, KDA=1.07, First Kills=1, First Deaths=0
+Destrian: Team=Team Vitality, Kills=13, Deaths=6, Assists=9, KDA=3.67, First Kills=3, First Deaths=0
+Twisten: Team=Team Vitality, Kills=23, Deaths=8, Assists=2, KDA=3.12, First Kills=2, First Deaths=1
+BONECOLD: Team=Team Vitality, Kills=6, Deaths=10, Assists=9, KDA=1.5, First Kills=1, First Deaths=2
+MOLSI: Team=Team Vitality, Kills=19, Deaths=13, Assists=8, KDA=2.08, First Kills=1, First Deaths=3
+ceNder: Team=Team Vitality, Kills=17, Deaths=10, Assists=4, KDA=2.1, First Kills=3, First Deaths=2

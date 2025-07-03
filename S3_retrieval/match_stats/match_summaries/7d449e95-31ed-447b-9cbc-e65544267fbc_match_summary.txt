@@ -1,0 +1,219 @@
+Team 1: Bleed Esports
+Team 2: Team Secret
+Participating Players:
+Player 1: 2GE
+Player 2: Jremy
+Player 3: None
+Player 4: invy
+Player 5: Wild0reoo
+Player 6: ZestKR
+Player 7: sScary
+Player 8: crazyguy
+Player 9: Deryeon
+Player 10: Retla
+Winning Team: Team Secret
+Score: Bleed Esports 8 - 13 Team Secret
+Tournament Name: vct pacific stage 2 2024
+Game Start Time: 2024-06-15T11:43:27Z
+Game End Time: 2024-06-15T12:31:10Z
+Rounds ended by ELIMINATION count: 15
+Rounds ended by DEFUSE count: 2
+Rounds ended by DETONATE count: 4
+SPIKE PLANTED count: 6
+platformGameId: val:7d449e95-31ed-447b-9cbc-e65544267fbc
+
+--- Events ---
+Game started at 2024-06-15T11:43:27Z
+crazyguy killed None  in round 1
+Retla killed 2GE  in round 1
+Deryeon killed Jremy  in round 1
+invy killed crazyguy  in round 1
+Deryeon killed Wild0reoo  in round 1
+Retla killed invy  in round 1
+Round 1 ended with elimination. The winning team is Bleed Esports.
+The current score is Bleed Esports 1 - 0 Team Secret.
+sScary killed Jremy  in round 2
+ZestKR killed Wild0reoo  in round 2
+Retla killed None  in round 2
+Deryeon killed 2GE  in round 2
+Deryeon killed invy  in round 2
+Round 2 ended with elimination. The winning team is Bleed Esports.
+The current score is Bleed Esports 2 - 0 Team Secret.
+2GE killed ZestKR  in round 3
+Deryeon killed 2GE  in round 3
+None killed Deryeon  in round 3
+crazyguy killed invy  in round 3
+sScary killed Wild0reoo  in round 3
+None killed crazyguy  in round 3
+None killed Retla  in round 3
+sScary killed None  in round 3
+sScary killed Jremy  in round 3
+Round 3 ended with elimination. The winning team is Bleed Esports.
+The current score is Bleed Esports 3 - 0 Team Secret.
+crazyguy killed None  in round 4
+Wild0reoo killed crazyguy  in round 4
+ZestKR killed Wild0reoo  in round 4
+Retla killed Jremy  in round 4
+Retla killed invy  in round 4
+Retla killed 2GE  in round 4
+Round 4 ended with elimination. The winning team is Bleed Esports.
+The current score is Bleed Esports 4 - 0 Team Secret.
+Jremy killed Retla  in round 5
+Wild0reoo killed Deryeon  in round 5
+ZestKR killed None  in round 5
+Jremy killed ZestKR  in round 5
+Jremy killed sScary  in round 5
+Wild0reoo killed crazyguy  in round 5
+Round 5 ended with elimination. The winning team is Team Secret.
+The current score is Bleed Esports 4 - 1 Team Secret.
+Deryeon killed None  in round 6
+Jremy killed Deryeon  in round 6
+sScary killed Wild0reoo  in round 6
+sScary killed invy  in round 6
+ZestKR killed 2GE  in round 6
+Jremy killed crazyguy  in round 6
+Round 6 ended with detonate. The winning team is Bleed Esports.
+The current score is Bleed Esports 5 - 1 Team Secret.
+ZestKR killed ZestKR  in round 7
+sScary killed sScary  in round 7
+Wild0reoo killed Deryeon  in round 7
+2GE killed ZestKR  in round 7
+crazyguy killed 2GE  in round 7
+sScary killed None  in round 7
+Wild0reoo killed crazyguy  in round 7
+invy killed sScary  in round 7
+Retla killed invy  in round 7
+Jremy killed Retla  in round 7
+Round 7 ended with spike_defuse. The winning team is Team Secret.
+The current score is Bleed Esports 5 - 2 Team Secret.
+invy killed Deryeon  in round 8
+crazyguy killed invy  in round 8
+crazyguy killed 2GE  in round 8
+ZestKR killed Jremy  in round 8
+None killed ZestKR  in round 8
+sScary killed Wild0reoo  in round 8
+Retla killed None  in round 8
+Round 8 ended with elimination. The winning team is Bleed Esports.
+The current score is Bleed Esports 6 - 2 Team Secret.
+Retla killed Wild0reoo  in round 9
+Retla killed 2GE  in round 9
+Jremy killed Retla  in round 9
+invy killed Deryeon  in round 9
+ZestKR killed invy  in round 9
+None killed ZestKR  in round 9
+sScary killed Jremy  in round 9
+None killed sScary  in round 9
+None killed crazyguy  in round 9
+Round 9 ended with spike_defuse. The winning team is Team Secret.
+The current score is Bleed Esports 6 - 3 Team Secret.
+invy killed crazyguy  in round 10
+Deryeon killed None  in round 10
+sScary killed Wild0reoo  in round 10
+sScary killed invy  in round 10
+Retla killed 2GE  in round 10
+Jremy killed Retla  in round 10
+Round 10 ended with detonate. The winning team is Bleed Esports.
+The current score is Bleed Esports 7 - 3 Team Secret.
+None killed Deryeon  in round 11
+None killed crazyguy  in round 11
+Retla killed Jremy  in round 11
+None killed Retla  in round 11
+None killed sScary  in round 11
+Jremy killed ZestKR  in round 11
+Round 11 ended with elimination. The winning team is Team Secret.
+The current score is Bleed Esports 7 - 4 Team Secret.
+None killed Deryeon  in round 12
+crazyguy killed 2GE  in round 12
+invy killed Retla  in round 12
+crazyguy killed Jremy  in round 12
+invy killed sScary  in round 12
+None killed ZestKR  in round 12
+Wild0reoo killed crazyguy  in round 12
+Round 12 ended with elimination. The winning team is Team Secret.
+The current score is Bleed Esports 7 - 5 Team Secret.
+Jremy killed sScary  in round 13
+Jremy killed ZestKR  in round 13
+crazyguy killed Jremy  in round 13
+2GE killed Deryeon  in round 13
+2GE killed Retla  in round 13
+invy killed crazyguy  in round 13
+Round 13 ended with elimination. The winning team is Team Secret.
+The current score is Bleed Esports 7 - 6 Team Secret.
+Deryeon killed Jremy  in round 14
+Deryeon killed None  in round 14
+Retla killed Wild0reoo  in round 14
+invy killed Retla  in round 14
+invy killed crazyguy  in round 14
+invy killed Deryeon  in round 14
+sScary killed 2GE  in round 14
+invy killed sScary  in round 14
+invy killed ZestKR  in round 14
+Round 14 ended with elimination. The winning team is Team Secret.
+The current score is Bleed Esports 7 - 7 Team Secret.
+invy killed ZestKR  in round 15
+Wild0reoo killed Deryeon  in round 15
+Jremy killed sScary  in round 15
+crazyguy killed invy  in round 15
+Retla killed Wild0reoo  in round 15
+Round 15 ended with detonate. The winning team is Team Secret.
+The current score is Bleed Esports 7 - 8 Team Secret.
+None killed Deryeon  in round 16
+2GE killed crazyguy  in round 16
+Wild0reoo killed Retla  in round 16
+Jremy killed ZestKR  in round 16
+2GE killed sScary  in round 16
+Round 16 ended with elimination. The winning team is Team Secret.
+The current score is Bleed Esports 7 - 9 Team Secret.
+Jremy killed ZestKR  in round 17
+crazyguy killed Wild0reoo  in round 17
+crazyguy killed 2GE  in round 17
+Retla killed Jremy  in round 17
+invy killed crazyguy  in round 17
+sScary killed None  in round 17
+invy killed Retla  in round 17
+invy killed sScary  in round 17
+invy killed Deryeon  in round 17
+Round 17 ended with elimination. The winning team is Team Secret.
+The current score is Bleed Esports 7 - 10 Team Secret.
+Deryeon killed None  in round 18
+Deryeon killed Jremy  in round 18
+ZestKR killed 2GE  in round 18
+ZestKR killed Wild0reoo  in round 18
+ZestKR killed invy  in round 18
+Round 18 ended with elimination. The winning team is Bleed Esports.
+The current score is Bleed Esports 8 - 10 Team Secret.
+Jremy killed crazyguy  in round 19
+invy killed Retla  in round 19
+Round 19 ended with detonate. The winning team is Team Secret.
+The current score is Bleed Esports 8 - 11 Team Secret.
+2GE killed ZestKR  in round 20
+Wild0reoo killed Retla  in round 20
+2GE killed crazyguy  in round 20
+sScary killed Wild0reoo  in round 20
+Deryeon killed invy  in round 20
+sScary killed None  in round 20
+2GE killed sScary  in round 20
+2GE killed Deryeon  in round 20
+Round 20 ended with elimination. The winning team is Team Secret.
+The current score is Bleed Esports 8 - 12 Team Secret.
+2GE killed Deryeon  in round 21
+2GE killed Retla  in round 21
+Wild0reoo killed crazyguy  in round 21
+sScary killed 2GE  in round 21
+Wild0reoo killed sScary  in round 21
+Wild0reoo killed ZestKR  in round 21
+Round 21 ended with elimination. The winning team is Team Secret.
+The current score is Bleed Esports 8 - 13 Team Secret.
+Game ended with winning team: Team Secret at 2024-06-15T12:31:10Z
+
+--- Player Stats ---
+2GE: Team=Team Secret, Kills=12, Deaths=14, Assists=12, KDA=1.71, First Kills=3, First Deaths=0
+Jremy: Team=Team Secret, Kills=15, Deaths=12, Assists=6, KDA=1.75, First Kills=4, First Deaths=2
+None: Team=Team Secret, Kills=14, Deaths=13, Assists=5, KDA=1.46, First Kills=3, First Deaths=4
+invy: Team=Team Secret, Kills=19, Deaths=12, Assists=8, KDA=2.25, First Kills=3, First Deaths=0
+Wild0reoo: Team=Team Secret, Kills=12, Deaths=13, Assists=3, KDA=1.15, First Kills=0, First Deaths=1
+ZestKR: Team=Bleed Esports, Kills=10, Deaths=15, Assists=7, KDA=1.13, First Kills=1, First Deaths=5
+sScary: Team=Bleed Esports, Kills=17, Deaths=13, Assists=11, KDA=2.15, First Kills=1, First Deaths=1
+crazyguy: Team=Bleed Esports, Kills=12, Deaths=17, Assists=3, KDA=0.88, First Kills=2, First Deaths=2
+Deryeon: Team=Bleed Esports, Kills=12, Deaths=15, Assists=4, KDA=1.07, First Kills=3, First Deaths=5
+Retla: Team=Bleed Esports, Kills=15, Deaths=14, Assists=5, KDA=1.43, First Kills=1, First Deaths=1

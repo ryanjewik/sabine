@@ -1,0 +1,206 @@
+Team 1: Bleed Esports
+Team 2: GLOBAL ESPORTS
+Participating Players:
+Player 1: blaZek1ngg
+Player 2: Benkai
+Player 3: Russ
+Player 4: polvi
+Player 5: Lightningfa
+Player 6: ZestKR
+Player 7: sScary
+Player 8: crazyguy
+Player 9: Deryeon
+Player 10: Retla
+Winning Team: GLOBAL ESPORTS
+Score: Bleed Esports 6 - 13 GLOBAL ESPORTS
+Tournament Name: vct pacific stage 2 2024
+Game Start Time: 2024-06-23T08:53:44Z
+Game End Time: 2024-06-23T09:42:06Z
+Rounds ended by ELIMINATION count: 8
+Rounds ended by DEFUSE count: 5
+Rounds ended by DETONATE count: 4
+SPIKE PLANTED count: 9
+platformGameId: val:5783542b-6b93-4687-b3e4-4bbc3407b1a9
+
+--- Events ---
+Game started at 2024-06-23T08:53:44Z
+ZestKR killed polvi  in round 1
+blaZek1ngg killed Deryeon  in round 1
+sScary killed Lightningfa  in round 1
+sScary killed Russ  in round 1
+Benkai killed sScary  in round 1
+Benkai killed crazyguy  in round 1
+Retla killed Benkai  in round 1
+Retla killed blaZek1ngg  in round 1
+Round 1 ended with elimination. The winning team is Bleed Esports.
+The current score is Bleed Esports 1 - 0 GLOBAL ESPORTS.
+Deryeon killed blaZek1ngg  in round 2
+Retla killed Russ  in round 2
+polvi killed Deryeon  in round 2
+Retla killed Benkai  in round 2
+Lightningfa killed Retla  in round 2
+sScary killed polvi  in round 2
+sScary killed Lightningfa  in round 2
+Round 2 ended with elimination. The winning team is Bleed Esports.
+The current score is Bleed Esports 2 - 0 GLOBAL ESPORTS.
+blaZek1ngg killed ZestKR  in round 3
+Russ killed crazyguy  in round 3
+Benkai killed Deryeon  in round 3
+polvi killed Retla  in round 3
+sScary killed polvi  in round 3
+blaZek1ngg killed sScary  in round 3
+Round 3 ended with spike_defuse. The winning team is GLOBAL ESPORTS.
+The current score is Bleed Esports 2 - 1 GLOBAL ESPORTS.
+blaZek1ngg killed ZestKR  in round 4
+Benkai killed crazyguy  in round 4
+blaZek1ngg killed Deryeon  in round 4
+sScary killed Lightningfa  in round 4
+Retla killed blaZek1ngg  in round 4
+sScary killed Russ  in round 4
+polvi killed sScary  in round 4
+Retla killed polvi  in round 4
+Benkai killed Retla  in round 4
+Round 4 ended with spike_defuse. The winning team is GLOBAL ESPORTS.
+The current score is Bleed Esports 2 - 2 GLOBAL ESPORTS.
+sScary killed Russ  in round 5
+Deryeon killed blaZek1ngg  in round 5
+Deryeon killed Benkai  in round 5
+crazyguy killed polvi  in round 5
+Round 5 ended with detonate. The winning team is Bleed Esports.
+The current score is Bleed Esports 3 - 2 GLOBAL ESPORTS.
+polvi killed ZestKR  in round 6
+sScary killed polvi  in round 6
+Benkai killed Deryeon  in round 6
+blaZek1ngg killed crazyguy  in round 6
+Russ killed Retla  in round 6
+Round 6 ended with time_expired. The winning team is GLOBAL ESPORTS.
+The current score is Bleed Esports 3 - 3 GLOBAL ESPORTS.
+blaZek1ngg killed Deryeon  in round 7
+polvi killed crazyguy  in round 7
+Russ killed ZestKR  in round 7
+polvi killed Retla  in round 7
+polvi killed sScary  in round 7
+Round 7 ended with elimination. The winning team is GLOBAL ESPORTS.
+The current score is Bleed Esports 3 - 4 GLOBAL ESPORTS.
+Retla killed Lightningfa  in round 8
+sScary killed polvi  in round 8
+sScary killed blaZek1ngg  in round 8
+crazyguy killed Benkai  in round 8
+crazyguy killed Russ  in round 8
+Round 8 ended with elimination. The winning team is Bleed Esports.
+The current score is Bleed Esports 4 - 4 GLOBAL ESPORTS.
+Lightningfa killed ZestKR  in round 9
+blaZek1ngg killed Deryeon  in round 9
+Retla killed polvi  in round 9
+Retla killed blaZek1ngg  in round 9
+Retla killed Benkai  in round 9
+Lightningfa killed Retla  in round 9
+Retla killed Russ  in round 9
+sScary killed Lightningfa  in round 9
+Round 9 ended with elimination. The winning team is Bleed Esports.
+The current score is Bleed Esports 5 - 4 GLOBAL ESPORTS.
+crazyguy killed crazyguy  in round 10
+Russ killed Retla  in round 10
+blaZek1ngg killed Deryeon  in round 10
+Lightningfa killed ZestKR  in round 10
+Russ killed sScary  in round 10
+crazyguy killed polvi  in round 10
+Round 10 ended with time_expired. The winning team is GLOBAL ESPORTS.
+The current score is Bleed Esports 5 - 5 GLOBAL ESPORTS.
+Deryeon killed polvi  in round 11
+Benkai killed ZestKR  in round 11
+sScary killed Russ  in round 11
+Benkai killed crazyguy  in round 11
+Lightningfa killed sScary  in round 11
+Benkai killed Retla  in round 11
+Deryeon killed blaZek1ngg  in round 11
+Round 11 ended with spike_defuse. The winning team is GLOBAL ESPORTS.
+The current score is Bleed Esports 5 - 6 GLOBAL ESPORTS.
+Deryeon killed Benkai  in round 12
+Lightningfa killed Deryeon  in round 12
+polvi killed Deryeon  in round 12
+sScary killed polvi  in round 12
+Benkai killed sScary  in round 12
+Lightningfa killed ZestKR  in round 12
+crazyguy killed Lightningfa  in round 12
+blaZek1ngg killed Retla  in round 12
+crazyguy killed Russ  in round 12
+crazyguy killed blaZek1ngg  in round 12
+Benkai killed crazyguy  in round 12
+Round 12 ended with spike_defuse. The winning team is GLOBAL ESPORTS.
+The current score is Bleed Esports 5 - 7 GLOBAL ESPORTS.
+polvi killed Deryeon  in round 13
+blaZek1ngg killed sScary  in round 13
+polvi killed Retla  in round 13
+Russ killed crazyguy  in round 13
+ZestKR killed blaZek1ngg  in round 13
+ZestKR killed polvi  in round 13
+Lightningfa killed ZestKR  in round 13
+Round 13 ended with elimination. The winning team is GLOBAL ESPORTS.
+The current score is Bleed Esports 5 - 8 GLOBAL ESPORTS.
+polvi killed Deryeon  in round 14
+polvi killed Retla  in round 14
+polvi killed crazyguy  in round 14
+ZestKR killed polvi  in round 14
+Round 14 ended with detonate. The winning team is GLOBAL ESPORTS.
+The current score is Bleed Esports 5 - 9 GLOBAL ESPORTS.
+ZestKR killed ZestKR  in round 15
+sScary killed sScary  in round 15
+Deryeon killed polvi  in round 15
+blaZek1ngg killed Deryeon  in round 15
+ZestKR killed Benkai  in round 15
+Lightningfa killed Retla  in round 15
+crazyguy killed Lightningfa  in round 15
+Russ killed crazyguy  in round 15
+sScary killed Russ  in round 15
+sScary killed blaZek1ngg  in round 15
+Round 15 ended with spike_defuse. The winning team is Bleed Esports.
+The current score is Bleed Esports 6 - 9 GLOBAL ESPORTS.
+blaZek1ngg killed crazyguy  in round 16
+Retla killed Lightningfa  in round 16
+polvi killed ZestKR  in round 16
+Russ killed Retla  in round 16
+Deryeon killed polvi  in round 16
+sScary killed blaZek1ngg  in round 16
+Russ killed sScary  in round 16
+Deryeon killed Russ  in round 16
+Round 16 ended with detonate. The winning team is GLOBAL ESPORTS.
+The current score is Bleed Esports 6 - 10 GLOBAL ESPORTS.
+crazyguy killed Russ  in round 17
+Benkai killed crazyguy  in round 17
+blaZek1ngg killed Deryeon  in round 17
+Retla killed blaZek1ngg  in round 17
+polvi killed Retla  in round 17
+Lightningfa killed sScary  in round 17
+ZestKR killed polvi  in round 17
+ZestKR killed Lightningfa  in round 17
+Benkai killed ZestKR  in round 17
+Round 17 ended with elimination. The winning team is GLOBAL ESPORTS.
+The current score is Bleed Esports 6 - 11 GLOBAL ESPORTS.
+crazyguy killed Russ  in round 18
+polvi killed Retla  in round 18
+Benkai killed crazyguy  in round 18
+blaZek1ngg killed Deryeon  in round 18
+Round 18 ended with detonate. The winning team is GLOBAL ESPORTS.
+The current score is Bleed Esports 6 - 12 GLOBAL ESPORTS.
+Russ killed ZestKR  in round 19
+blaZek1ngg killed Retla  in round 19
+polvi killed Deryeon  in round 19
+sScary killed polvi  in round 19
+Russ killed sScary  in round 19
+Russ killed crazyguy  in round 19
+Round 19 ended with elimination. The winning team is GLOBAL ESPORTS.
+The current score is Bleed Esports 6 - 13 GLOBAL ESPORTS.
+Game ended with winning team: GLOBAL ESPORTS at 2024-06-23T09:42:06Z
+
+--- Player Stats ---
+blaZek1ngg: Team=GLOBAL ESPORTS, Kills=16, Deaths=12, Assists=3, KDA=1.58, First Kills=4, First Deaths=1
+Benkai: Team=GLOBAL ESPORTS, Kills=14, Deaths=7, Assists=8, KDA=3.14, First Kills=0, First Deaths=1
+Russ: Team=GLOBAL ESPORTS, Kills=12, Deaths=12, Assists=19, KDA=2.58, First Kills=1, First Deaths=3
+polvi: Team=GLOBAL ESPORTS, Kills=17, Deaths=17, Assists=6, KDA=1.35, First Kills=3, First Deaths=2
+Lightningfa: Team=GLOBAL ESPORTS, Kills=10, Deaths=9, Assists=10, KDA=2.22, First Kills=1, First Deaths=1
+ZestKR: Team=Bleed Esports, Kills=8, Deaths=13, Assists=7, KDA=1.15, First Kills=2, First Deaths=6
+sScary: Team=Bleed Esports, Kills=19, Deaths=12, Assists=2, KDA=1.75, First Kills=1, First Deaths=0
+crazyguy: Team=Bleed Esports, Kills=11, Deaths=15, Assists=5, KDA=1.07, First Kills=3, First Deaths=2
+Deryeon: Team=Bleed Esports, Kills=9, Deaths=16, Assists=4, KDA=0.81, First Kills=3, First Deaths=3
+Retla: Team=Bleed Esports, Kills=13, Deaths=16, Assists=6, KDA=1.19, First Kills=1, First Deaths=0

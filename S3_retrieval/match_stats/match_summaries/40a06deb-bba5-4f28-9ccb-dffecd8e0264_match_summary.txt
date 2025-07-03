@@ -1,0 +1,210 @@
+Team 1: Trace Esports
+Team 2: Team Vitality
+Participating Players:
+Player 1: Kicks
+Player 2: runneR
+Player 3: ceNder
+Player 4: Sayf
+Player 5: Trexx
+Player 6: FengF
+Player 7: Kai 
+Player 8: heybay
+Player 9: Biank
+Player 10: LuoK1ng
+Winning Team: Team Vitality
+Score: Trace Esports 7 - 13 Team Vitality
+Tournament Name: vct champions 2024
+Game Start Time: 2024-08-03T11:42:36Z
+Game End Time: 2024-08-03T12:29:15Z
+Rounds ended by ELIMINATION count: 12
+Rounds ended by DEFUSE count: 4
+Rounds ended by DETONATE count: 1
+SPIKE PLANTED count: 5
+platformGameId: val:40a06deb-bba5-4f28-9ccb-dffecd8e0264
+
+--- Events ---
+Game started at 2024-08-03T11:42:36Z
+Sayf killed LuoK1ng  in round 1
+FengF killed runneR  in round 1
+heybay killed ceNder  in round 1
+FengF killed Sayf  in round 1
+Kai  killed Kicks  in round 1
+Trexx killed Kai   in round 1
+Trexx killed Biank  in round 1
+FengF killed Trexx  in round 1
+Round 1 ended with elimination. The winning team is Trace Esports.
+The current score is Trace Esports 1 - 0 Team Vitality.
+FengF killed runneR  in round 2
+LuoK1ng killed Trexx  in round 2
+Kai  killed Sayf  in round 2
+Biank killed Kicks  in round 2
+Kai  killed ceNder  in round 2
+Round 2 ended with elimination. The winning team is Trace Esports.
+The current score is Trace Esports 2 - 0 Team Vitality.
+runneR killed FengF  in round 3
+runneR killed heybay  in round 3
+Biank killed runneR  in round 3
+Kicks killed LuoK1ng  in round 3
+Biank killed Sayf  in round 3
+Trexx killed Kai   in round 3
+ceNder killed Biank  in round 3
+Round 3 ended with spike_defuse. The winning team is Team Vitality.
+The current score is Trace Esports 2 - 1 Team Vitality.
+LuoK1ng killed ceNder  in round 4
+Kai  killed Kicks  in round 4
+Sayf killed FengF  in round 4
+FengF killed Sayf  in round 4
+heybay killed Trexx  in round 4
+Kai  killed runneR  in round 4
+Round 4 ended with elimination. The winning team is Trace Esports.
+The current score is Trace Esports 3 - 1 Team Vitality.
+LuoK1ng killed Sayf  in round 5
+FengF killed runneR  in round 5
+Trexx killed Biank  in round 5
+Kicks killed FengF  in round 5
+Trexx killed heybay  in round 5
+Trexx killed ceNder  in round 5
+LuoK1ng killed Kicks  in round 5
+Trexx killed LuoK1ng  in round 5
+Round 5 ended with time_expired. The winning team is Team Vitality.
+The current score is Trace Esports 3 - 2 Team Vitality.
+Sayf killed Biank  in round 6
+Trexx killed LuoK1ng  in round 6
+Round 6 ended with time_expired. The winning team is Team Vitality.
+The current score is Trace Esports 3 - 3 Team Vitality.
+Sayf killed FengF  in round 7
+Kai  killed Sayf  in round 7
+Kicks killed Biank  in round 7
+LuoK1ng killed Kicks  in round 7
+LuoK1ng killed Sayf  in round 7
+Kai  killed runneR  in round 7
+heybay killed Trexx  in round 7
+ceNder killed heybay  in round 7
+ceNder killed FengF  in round 7
+Kai  killed ceNder  in round 7
+Round 7 ended with elimination. The winning team is Trace Esports.
+The current score is Trace Esports 4 - 3 Team Vitality.
+runneR killed Kai   in round 8
+LuoK1ng killed Trexx  in round 8
+ceNder killed Biank  in round 8
+ceNder killed FengF  in round 8
+ceNder killed heybay  in round 8
+LuoK1ng killed ceNder  in round 8
+Sayf killed LuoK1ng  in round 8
+Round 8 ended with elimination. The winning team is Team Vitality.
+The current score is Trace Esports 4 - 4 Team Vitality.
+runneR killed Biank  in round 9
+Trexx killed Kai   in round 9
+runneR killed FengF  in round 9
+Trexx killed LuoK1ng  in round 9
+heybay killed runneR  in round 9
+Trexx killed heybay  in round 9
+Round 9 ended with elimination. The winning team is Team Vitality.
+The current score is Trace Esports 4 - 5 Team Vitality.
+runneR killed FengF  in round 10
+LuoK1ng killed runneR  in round 10
+Trexx killed Biank  in round 10
+ceNder killed Kai   in round 10
+LuoK1ng killed ceNder  in round 10
+Trexx killed LuoK1ng  in round 10
+Sayf killed heybay  in round 10
+Round 10 ended with spike_defuse. The winning team is Team Vitality.
+The current score is Trace Esports 4 - 6 Team Vitality.
+runneR killed FengF  in round 11
+Sayf killed Kai   in round 11
+heybay killed ceNder  in round 11
+runneR killed heybay  in round 11
+Sayf killed Biank  in round 11
+Kicks killed LuoK1ng  in round 11
+Round 11 ended with spike_defuse. The winning team is Team Vitality.
+The current score is Trace Esports 4 - 7 Team Vitality.
+ceNder killed FengF  in round 12
+Kicks killed Biank  in round 12
+LuoK1ng killed Sayf  in round 12
+Trexx killed LuoK1ng  in round 12
+runneR killed Kai   in round 12
+runneR killed heybay  in round 12
+Round 12 ended with elimination. The winning team is Team Vitality.
+The current score is Trace Esports 4 - 8 Team Vitality.
+ceNder killed Kai   in round 13
+FengF killed ceNder  in round 13
+Trexx killed Biank  in round 13
+Trexx killed heybay  in round 13
+LuoK1ng killed Sayf  in round 13
+runneR killed LuoK1ng  in round 13
+FengF killed runneR  in round 13
+Trexx killed FengF  in round 13
+Round 13 ended with elimination. The winning team is Team Vitality.
+The current score is Trace Esports 4 - 9 Team Vitality.
+Trexx killed Biank  in round 14
+Trexx killed heybay  in round 14
+LuoK1ng killed Sayf  in round 14
+Kicks killed LuoK1ng  in round 14
+FengF killed Trexx  in round 14
+runneR killed Kai   in round 14
+FengF killed Kicks  in round 14
+runneR killed FengF  in round 14
+Round 14 ended with elimination. The winning team is Team Vitality.
+The current score is Trace Esports 4 - 10 Team Vitality.
+Biank killed runneR  in round 15
+Sayf killed Biank  in round 15
+Trexx killed Kai   in round 15
+ceNder killed LuoK1ng  in round 15
+Sayf killed FengF  in round 15
+Sayf killed heybay  in round 15
+Round 15 ended with elimination. The winning team is Team Vitality.
+The current score is Trace Esports 4 - 11 Team Vitality.
+Biank killed Kicks  in round 16
+Kai  killed ceNder  in round 16
+FengF killed runneR  in round 16
+Sayf killed Kai   in round 16
+Trexx killed heybay  in round 16
+Round 16 ended with time_expired. The winning team is Trace Esports.
+The current score is Trace Esports 5 - 11 Team Vitality.
+ceNder killed heybay  in round 17
+runneR killed Kai   in round 17
+Sayf killed Biank  in round 17
+LuoK1ng killed Sayf  in round 17
+LuoK1ng killed Kicks  in round 17
+Round 17 ended with detonate. The winning team is Team Vitality.
+The current score is Trace Esports 5 - 12 Team Vitality.
+runneR killed LuoK1ng  in round 18
+Kai  killed Kicks  in round 18
+Biank killed ceNder  in round 18
+Kai  killed Sayf  in round 18
+Kai  killed runneR  in round 18
+LuoK1ng killed Trexx  in round 18
+Round 18 ended with elimination. The winning team is Trace Esports.
+The current score is Trace Esports 6 - 12 Team Vitality.
+FengF killed Sayf  in round 19
+ceNder killed FengF  in round 19
+Trexx killed LuoK1ng  in round 19
+Biank killed runneR  in round 19
+Kicks killed heybay  in round 19
+Trexx killed Kai   in round 19
+Biank killed Kicks  in round 19
+Biank killed ceNder  in round 19
+Biank killed Trexx  in round 19
+Round 19 ended with spike_defuse. The winning team is Trace Esports.
+The current score is Trace Esports 7 - 12 Team Vitality.
+Kicks killed Biank  in round 20
+ceNder killed FengF  in round 20
+Kai  killed Kicks  in round 20
+Trexx killed LuoK1ng  in round 20
+ceNder killed Kai   in round 20
+Trexx killed heybay  in round 20
+Round 20 ended with elimination. The winning team is Team Vitality.
+The current score is Trace Esports 7 - 13 Team Vitality.
+Game ended with winning team: Team Vitality at 2024-08-03T12:29:15Z
+
+--- Player Stats ---
+Kicks: Team=Team Vitality, Kills=8, Deaths=11, Assists=19, KDA=2.45, First Kills=1, First Deaths=1
+runneR: Team=Team Vitality, Kills=15, Deaths=13, Assists=5, KDA=1.54, First Kills=6, First Deaths=2
+ceNder: Team=Team Vitality, Kills=14, Deaths=12, Assists=6, KDA=1.67, First Kills=3, First Deaths=1
+Sayf: Team=Team Vitality, Kills=13, Deaths=13, Assists=10, KDA=1.77, First Kills=3, First Deaths=2
+Trexx: Team=Team Vitality, Kills=25, Deaths=8, Assists=9, KDA=4.25, First Kills=1, First Deaths=0
+FengF: Team=Trace Esports, Kills=12, Deaths=15, Assists=1, KDA=0.87, First Kills=2, First Deaths=5
+Kai : Team=Trace Esports, Kills=13, Deaths=14, Assists=4, KDA=1.21, First Kills=0, First Deaths=2
+heybay: Team=Trace Esports, Kills=5, Deaths=15, Assists=9, KDA=0.93, First Kills=0, First Deaths=1
+Biank: Team=Trace Esports, Kills=10, Deaths=15, Assists=5, KDA=1.0, First Kills=2, First Deaths=4
+LuoK1ng: Team=Trace Esports, Kills=16, Deaths=15, Assists=4, KDA=1.33, First Kills=2, First Deaths=2

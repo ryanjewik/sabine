@@ -1,0 +1,218 @@
+Team 1: Futbolist
+Team 2: Team Vitality
+Participating Players:
+Player 1: Kicks
+Player 2: runneR
+Player 3: ceNder
+Player 4: Sayf
+Player 5: Trexx
+Player 6: qRaxs
+Player 7: yetujey
+Player 8: MrFaliN
+Player 9: cNed
+Player 10: ATA KAPTAN
+Winning Team: Futbolist
+Score: Futbolist 13 - 7 Team Vitality
+Tournament Name: vct emea stage 1 2024
+Game Start Time: 2024-04-18T16:59:00Z
+Game End Time: 2024-04-18T17:51:12Z
+Rounds ended by ELIMINATION count: 12
+Rounds ended by DEFUSE count: 5
+Rounds ended by DETONATE count: 3
+SPIKE PLANTED count: 8
+platformGameId: val:c3085dec-f111-44e5-9757-ec5ddc29b12a
+
+--- Events ---
+Game started at 2024-04-18T16:59:00Z
+cNed killed Trexx  in round 1
+runneR killed yetujey  in round 1
+MrFaliN killed Kicks  in round 1
+MrFaliN killed runneR  in round 1
+qRaxs killed ceNder  in round 1
+MrFaliN killed Sayf  in round 1
+Round 1 ended with elimination. The winning team is Futbolist.
+The current score is Futbolist 1 - 0 Team Vitality.
+ATA KAPTAN killed ceNder  in round 2
+ATA KAPTAN killed Kicks  in round 2
+MrFaliN killed Trexx  in round 2
+MrFaliN killed runneR  in round 2
+Sayf killed MrFaliN  in round 2
+Round 2 ended with detonate. The winning team is Futbolist.
+The current score is Futbolist 2 - 0 Team Vitality.
+Sayf killed Sayf  in round 3
+Kicks killed ATA KAPTAN  in round 3
+ceNder killed MrFaliN  in round 3
+yetujey killed Kicks  in round 3
+qRaxs killed ceNder  in round 3
+yetujey killed runneR  in round 3
+Trexx killed cNed  in round 3
+qRaxs killed Trexx  in round 3
+qRaxs killed Sayf  in round 3
+Round 3 ended with elimination. The winning team is Futbolist.
+The current score is Futbolist 3 - 0 Team Vitality.
+cNed killed runneR  in round 4
+ATA KAPTAN killed Kicks  in round 4
+ceNder killed cNed  in round 4
+Trexx killed ATA KAPTAN  in round 4
+qRaxs killed Trexx  in round 4
+qRaxs killed ceNder  in round 4
+Sayf killed qRaxs  in round 4
+yetujey killed Sayf  in round 4
+Round 4 ended with elimination. The winning team is Futbolist.
+The current score is Futbolist 4 - 0 Team Vitality.
+ceNder killed MrFaliN  in round 5
+ATA KAPTAN killed ceNder  in round 5
+yetujey killed runneR  in round 5
+Trexx killed yetujey  in round 5
+qRaxs killed Trexx  in round 5
+cNed killed Kicks  in round 5
+cNed killed Sayf  in round 5
+Round 5 ended with elimination. The winning team is Futbolist.
+The current score is Futbolist 5 - 0 Team Vitality.
+qRaxs killed Trexx  in round 6
+MrFaliN killed ceNder  in round 6
+cNed killed Kicks  in round 6
+ATA KAPTAN killed Sayf  in round 6
+runneR killed qRaxs  in round 6
+Round 6 ended with detonate. The winning team is Futbolist.
+The current score is Futbolist 6 - 0 Team Vitality.
+runneR killed runneR  in round 7
+Trexx killed MrFaliN  in round 7
+qRaxs killed Kicks  in round 7
+ceNder killed cNed  in round 7
+ceNder killed qRaxs  in round 7
+ceNder killed ATA KAPTAN  in round 7
+Sayf killed yetujey  in round 7
+Round 7 ended with spike_defuse. The winning team is Team Vitality.
+The current score is Futbolist 6 - 1 Team Vitality.
+MrFaliN killed runneR  in round 8
+MrFaliN killed Kicks  in round 8
+MrFaliN killed ceNder  in round 8
+cNed killed Sayf  in round 8
+MrFaliN killed Trexx  in round 8
+Round 8 ended with elimination. The winning team is Futbolist.
+The current score is Futbolist 7 - 1 Team Vitality.
+yetujey killed runneR  in round 9
+Kicks killed MrFaliN  in round 9
+Kicks killed qRaxs  in round 9
+cNed killed Kicks  in round 9
+Sayf killed cNed  in round 9
+Trexx killed yetujey  in round 9
+ceNder killed ATA KAPTAN  in round 9
+Round 9 ended with elimination. The winning team is Team Vitality.
+The current score is Futbolist 7 - 2 Team Vitality.
+Sayf killed cNed  in round 10
+ceNder killed yetujey  in round 10
+Trexx killed ATA KAPTAN  in round 10
+MrFaliN killed Kicks  in round 10
+Sayf killed MrFaliN  in round 10
+Trexx killed qRaxs  in round 10
+Round 10 ended with spike_defuse. The winning team is Team Vitality.
+The current score is Futbolist 7 - 3 Team Vitality.
+Sayf killed yetujey  in round 11
+runneR killed ATA KAPTAN  in round 11
+qRaxs killed runneR  in round 11
+Sayf killed MrFaliN  in round 11
+qRaxs killed ceNder  in round 11
+Sayf killed cNed  in round 11
+qRaxs killed Sayf  in round 11
+Kicks killed qRaxs  in round 11
+Round 11 ended with spike_defuse. The winning team is Team Vitality.
+The current score is Futbolist 7 - 4 Team Vitality.
+runneR killed MrFaliN  in round 12
+ceNder killed cNed  in round 12
+Kicks killed yetujey  in round 12
+ATA KAPTAN killed ceNder  in round 12
+Kicks killed ATA KAPTAN  in round 12
+qRaxs killed Kicks  in round 12
+qRaxs killed Trexx  in round 12
+qRaxs killed Sayf  in round 12
+runneR killed qRaxs  in round 12
+Round 12 ended with detonate. The winning team is Futbolist.
+The current score is Futbolist 8 - 4 Team Vitality.
+runneR killed runneR  in round 13
+runneR killed ATA KAPTAN  in round 13
+Kicks killed yetujey  in round 13
+cNed killed runneR  in round 13
+Sayf killed qRaxs  in round 13
+MrFaliN killed ceNder  in round 13
+Sayf killed MrFaliN  in round 13
+Kicks killed cNed  in round 13
+Round 13 ended with elimination. The winning team is Team Vitality.
+The current score is Futbolist 8 - 5 Team Vitality.
+ceNder killed yetujey  in round 14
+MrFaliN killed runneR  in round 14
+Kicks killed ATA KAPTAN  in round 14
+Kicks killed MrFaliN  in round 14
+Kicks killed cNed  in round 14
+qRaxs killed ceNder  in round 14
+qRaxs killed Trexx  in round 14
+Sayf killed qRaxs  in round 14
+Round 14 ended with elimination. The winning team is Team Vitality.
+The current score is Futbolist 8 - 6 Team Vitality.
+cNed killed runneR  in round 15
+ceNder killed ATA KAPTAN  in round 15
+ceNder killed MrFaliN  in round 15
+ceNder killed cNed  in round 15
+qRaxs killed ceNder  in round 15
+Kicks killed yetujey  in round 15
+Sayf killed qRaxs  in round 15
+Round 15 ended with elimination. The winning team is Team Vitality.
+The current score is Futbolist 8 - 7 Team Vitality.
+yetujey killed runneR  in round 16
+yetujey killed ceNder  in round 16
+MrFaliN killed Sayf  in round 16
+Trexx killed MrFaliN  in round 16
+Trexx killed yetujey  in round 16
+Trexx killed ATA KAPTAN  in round 16
+qRaxs killed Kicks  in round 16
+cNed killed Trexx  in round 16
+Round 16 ended with elimination. The winning team is Futbolist.
+The current score is Futbolist 9 - 7 Team Vitality.
+Trexx killed yetujey  in round 17
+ATA KAPTAN killed Sayf  in round 17
+Trexx killed ATA KAPTAN  in round 17
+cNed killed ceNder  in round 17
+qRaxs killed Trexx  in round 17
+qRaxs killed runneR  in round 17
+cNed killed Kicks  in round 17
+Round 17 ended with spike_defuse. The winning team is Futbolist.
+The current score is Futbolist 10 - 7 Team Vitality.
+cNed killed runneR  in round 18
+cNed killed Kicks  in round 18
+cNed killed ceNder  in round 18
+Trexx killed cNed  in round 18
+Trexx killed ATA KAPTAN  in round 18
+qRaxs killed Trexx  in round 18
+Sayf killed qRaxs  in round 18
+yetujey killed Sayf  in round 18
+Round 18 ended with spike_defuse. The winning team is Futbolist.
+The current score is Futbolist 11 - 7 Team Vitality.
+MrFaliN killed runneR  in round 19
+MrFaliN killed Kicks  in round 19
+MrFaliN killed Sayf  in round 19
+ATA KAPTAN killed Trexx  in round 19
+MrFaliN killed ceNder  in round 19
+Round 19 ended with elimination. The winning team is Futbolist.
+The current score is Futbolist 12 - 7 Team Vitality.
+ATA KAPTAN killed runneR  in round 20
+MrFaliN killed Sayf  in round 20
+MrFaliN killed Kicks  in round 20
+Trexx killed MrFaliN  in round 20
+ATA KAPTAN killed ceNder  in round 20
+ATA KAPTAN killed Trexx  in round 20
+Round 20 ended with elimination. The winning team is Futbolist.
+The current score is Futbolist 13 - 7 Team Vitality.
+Game ended with winning team: Futbolist at 2024-04-18T17:51:12Z
+
+--- Player Stats ---
+Kicks: Team=Team Vitality, Kills=12, Deaths=16, Assists=13, KDA=1.56, First Kills=0, First Deaths=0
+runneR: Team=Team Vitality, Kills=8, Deaths=18, Assists=4, KDA=0.67, First Kills=3, First Deaths=10
+ceNder: Team=Team Vitality, Kills=13, Deaths=17, Assists=5, KDA=1.06, First Kills=2, First Deaths=1
+Sayf: Team=Team Vitality, Kills=15, Deaths=14, Assists=8, KDA=1.64, First Kills=3, First Deaths=1
+Trexx: Team=Team Vitality, Kills=15, Deaths=14, Assists=10, KDA=1.79, First Kills=1, First Deaths=2
+qRaxs: Team=Futbolist, Kills=22, Deaths=11, Assists=12, KDA=3.09, First Kills=1, First Deaths=0
+yetujey: Team=Futbolist, Kills=8, Deaths=12, Assists=4, KDA=1.0, First Kills=2, First Deaths=3
+MrFaliN: Team=Futbolist, Kills=20, Deaths=13, Assists=7, KDA=2.08, First Kills=2, First Deaths=2
+cNed: Team=Futbolist, Kills=15, Deaths=11, Assists=4, KDA=1.73, First Kills=4, First Deaths=1
+ATA KAPTAN: Team=Futbolist, Kills=11, Deaths=13, Assists=17, KDA=2.15, First Kills=2, First Deaths=0

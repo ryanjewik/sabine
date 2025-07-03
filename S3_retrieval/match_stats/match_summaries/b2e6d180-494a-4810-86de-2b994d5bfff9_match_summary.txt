@@ -1,0 +1,197 @@
+Team 1: Futbolist
+Team 2: Karmine Corp
+Participating Players:
+Player 1: Shin 
+Player 2: Tomaszy
+Player 3: MAGNUM
+Player 4: marteen
+Player 5: N4RRATE
+Player 6: qRaxs
+Player 7: yetujey
+Player 8: MrFaliN
+Player 9: cNed
+Player 10: ATA KAPTAN
+Winning Team: Futbolist
+Score: Futbolist 13 - 3 Karmine Corp
+Tournament Name: vct emea stage 1 2024
+Game Start Time: 2024-05-10T17:24:53Z
+Game End Time: 2024-05-10T18:16:49Z
+Rounds ended by ELIMINATION count: 11
+Rounds ended by DEFUSE count: 2
+Rounds ended by DETONATE count: 3
+SPIKE PLANTED count: 5
+platformGameId: val:b2e6d180-494a-4810-86de-2b994d5bfff9
+
+--- Events ---
+Game started at 2024-05-10T17:24:53Z
+marteen killed cNed  in round 1
+marteen killed ATA KAPTAN  in round 1
+MrFaliN killed marteen  in round 1
+yetujey killed MAGNUM  in round 1
+N4RRATE killed qRaxs  in round 1
+MrFaliN killed Tomaszy  in round 1
+Shin  killed yetujey  in round 1
+MrFaliN killed N4RRATE  in round 1
+Shin  killed MrFaliN  in round 1
+Round 1 ended with spike_defuse. The winning team is Karmine Corp.
+The current score is Futbolist 0 - 1 Karmine Corp.
+Tomaszy killed ATA KAPTAN  in round 2
+cNed killed Shin   in round 2
+yetujey killed N4RRATE  in round 2
+marteen killed yetujey  in round 2
+MAGNUM killed cNed  in round 2
+MrFaliN killed Tomaszy  in round 2
+MAGNUM killed qRaxs  in round 2
+MrFaliN killed MAGNUM  in round 2
+marteen killed MrFaliN  in round 2
+Round 2 ended with spike_defuse. The winning team is Karmine Corp.
+The current score is Futbolist 0 - 2 Karmine Corp.
+cNed killed MAGNUM  in round 3
+marteen killed ATA KAPTAN  in round 3
+cNed killed marteen  in round 3
+yetujey killed N4RRATE  in round 3
+yetujey killed Shin   in round 3
+cNed killed Tomaszy  in round 3
+Round 3 ended with elimination. The winning team is Futbolist.
+The current score is Futbolist 1 - 2 Karmine Corp.
+cNed killed marteen  in round 4
+ATA KAPTAN killed Shin   in round 4
+MAGNUM killed cNed  in round 4
+qRaxs killed N4RRATE  in round 4
+qRaxs killed Tomaszy  in round 4
+MAGNUM killed qRaxs  in round 4
+MAGNUM killed yetujey  in round 4
+MrFaliN killed MAGNUM  in round 4
+Round 4 ended with elimination. The winning team is Futbolist.
+The current score is Futbolist 2 - 2 Karmine Corp.
+qRaxs killed marteen  in round 5
+cNed killed MAGNUM  in round 5
+N4RRATE killed yetujey  in round 5
+cNed killed N4RRATE  in round 5
+cNed killed Shin   in round 5
+Round 5 ended with detonate. The winning team is Futbolist.
+The current score is Futbolist 3 - 2 Karmine Corp.
+Tomaszy killed Tomaszy  in round 6
+qRaxs killed marteen  in round 6
+MAGNUM killed ATA KAPTAN  in round 6
+cNed killed MAGNUM  in round 6
+cNed killed Shin   in round 6
+Tomaszy killed qRaxs  in round 6
+Tomaszy killed cNed  in round 6
+Tomaszy killed MrFaliN  in round 6
+Round 6 ended with detonate. The winning team is Futbolist.
+The current score is Futbolist 4 - 2 Karmine Corp.
+marteen killed ATA KAPTAN  in round 7
+MrFaliN killed Tomaszy  in round 7
+cNed killed marteen  in round 7
+MAGNUM killed cNed  in round 7
+MrFaliN killed MAGNUM  in round 7
+qRaxs killed N4RRATE  in round 7
+yetujey killed Shin   in round 7
+qRaxs killed Tomaszy  in round 7
+Round 7 ended with elimination. The winning team is Futbolist.
+The current score is Futbolist 5 - 2 Karmine Corp.
+Tomaszy killed yetujey  in round 8
+MrFaliN killed Shin   in round 8
+N4RRATE killed MrFaliN  in round 8
+Tomaszy killed ATA KAPTAN  in round 8
+cNed killed Tomaszy  in round 8
+cNed killed MAGNUM  in round 8
+cNed killed N4RRATE  in round 8
+marteen killed cNed  in round 8
+Round 8 ended with detonate. The winning team is Futbolist.
+The current score is Futbolist 6 - 2 Karmine Corp.
+marteen killed qRaxs  in round 9
+marteen killed marteen  in round 9
+marteen killed cNed  in round 9
+MrFaliN killed MAGNUM  in round 9
+Shin  killed yetujey  in round 9
+ATA KAPTAN killed Shin   in round 9
+N4RRATE killed MrFaliN  in round 9
+qRaxs killed marteen  in round 9
+Tomaszy killed qRaxs  in round 9
+ATA KAPTAN killed Tomaszy  in round 9
+ATA KAPTAN killed N4RRATE  in round 9
+Round 9 ended with elimination. The winning team is Futbolist.
+The current score is Futbolist 7 - 2 Karmine Corp.
+ATA KAPTAN killed MAGNUM  in round 10
+marteen killed qRaxs  in round 10
+cNed killed marteen  in round 10
+Shin  killed cNed  in round 10
+yetujey killed N4RRATE  in round 10
+yetujey killed Tomaszy  in round 10
+Shin  killed MrFaliN  in round 10
+ATA KAPTAN killed Shin   in round 10
+Round 10 ended with elimination. The winning team is Futbolist.
+The current score is Futbolist 8 - 2 Karmine Corp.
+Shin  killed cNed  in round 11
+marteen killed yetujey  in round 11
+MAGNUM killed ATA KAPTAN  in round 11
+MrFaliN killed MAGNUM  in round 11
+MrFaliN killed marteen  in round 11
+MrFaliN killed Tomaszy  in round 11
+Shin  killed MrFaliN  in round 11
+qRaxs killed N4RRATE  in round 11
+qRaxs killed Shin   in round 11
+Round 11 ended with elimination. The winning team is Futbolist.
+The current score is Futbolist 9 - 2 Karmine Corp.
+qRaxs killed qRaxs  in round 12
+yetujey killed Shin   in round 12
+cNed killed MAGNUM  in round 12
+cNed killed N4RRATE  in round 12
+yetujey killed marteen  in round 12
+MrFaliN killed Tomaszy  in round 12
+Round 12 ended with elimination. The winning team is Futbolist.
+The current score is Futbolist 10 - 2 Karmine Corp.
+Shin  killed yetujey  in round 13
+MrFaliN killed Shin   in round 13
+N4RRATE killed qRaxs  in round 13
+MrFaliN killed Tomaszy  in round 13
+ATA KAPTAN killed marteen  in round 13
+MAGNUM killed ATA KAPTAN  in round 13
+MAGNUM killed cNed  in round 13
+MrFaliN killed N4RRATE  in round 13
+MAGNUM killed MrFaliN  in round 13
+Round 13 ended with elimination. The winning team is Karmine Corp.
+The current score is Futbolist 10 - 3 Karmine Corp.
+marteen killed ATA KAPTAN  in round 14
+cNed killed Shin   in round 14
+MrFaliN killed MAGNUM  in round 14
+Tomaszy killed cNed  in round 14
+qRaxs killed Tomaszy  in round 14
+N4RRATE killed qRaxs  in round 14
+marteen killed MrFaliN  in round 14
+yetujey killed N4RRATE  in round 14
+yetujey killed marteen  in round 14
+Round 14 ended with elimination. The winning team is Futbolist.
+The current score is Futbolist 11 - 3 Karmine Corp.
+MrFaliN killed Tomaszy  in round 15
+marteen killed qRaxs  in round 15
+ATA KAPTAN killed MAGNUM  in round 15
+yetujey killed marteen  in round 15
+N4RRATE killed yetujey  in round 15
+ATA KAPTAN killed Shin   in round 15
+cNed killed N4RRATE  in round 15
+Round 15 ended with elimination. The winning team is Futbolist.
+The current score is Futbolist 12 - 3 Karmine Corp.
+qRaxs killed N4RRATE  in round 16
+qRaxs killed marteen  in round 16
+Shin  killed qRaxs  in round 16
+yetujey killed MAGNUM  in round 16
+yetujey killed Tomaszy  in round 16
+yetujey killed Shin   in round 16
+Round 16 ended with elimination. The winning team is Futbolist.
+The current score is Futbolist 13 - 3 Karmine Corp.
+Game ended with winning team: Futbolist at 2024-05-10T18:16:49Z
+
+--- Player Stats ---
+Shin : Team=Karmine Corp, Kills=9, Deaths=15, Assists=7, KDA=1.07, First Kills=2, First Deaths=0
+Tomaszy: Team=Karmine Corp, Kills=9, Deaths=16, Assists=8, KDA=1.06, First Kills=3, First Deaths=2
+MAGNUM: Team=Karmine Corp, Kills=11, Deaths=15, Assists=2, KDA=0.87, First Kills=0, First Deaths=2
+marteen: Team=Karmine Corp, Kills=15, Deaths=15, Assists=1, KDA=1.07, First Kills=4, First Deaths=2
+N4RRATE: Team=Karmine Corp, Kills=7, Deaths=15, Assists=11, KDA=1.2, First Kills=0, First Deaths=1
+qRaxs: Team=Futbolist, Kills=13, Deaths=12, Assists=9, KDA=1.83, First Kills=3, First Deaths=2
+yetujey: Team=Futbolist, Kills=15, Deaths=9, Assists=3, KDA=2.0, First Kills=0, First Deaths=2
+MrFaliN: Team=Futbolist, Kills=19, Deaths=9, Assists=14, KDA=3.67, First Kills=1, First Deaths=0
+cNed: Team=Futbolist, Kills=19, Deaths=11, Assists=4, KDA=2.09, First Kills=2, First Deaths=2
+ATA KAPTAN: Team=Futbolist, Kills=9, Deaths=9, Assists=12, KDA=2.33, First Kills=1, First Deaths=3

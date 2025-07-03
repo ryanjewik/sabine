@@ -1,0 +1,201 @@
+Team 1: FunPlus Phoenix
+Team 2: LOUD
+Participating Players:
+Player 1: QcK
+Player 2: cauanzin
+Player 3: Saadhak
+Player 4: Less
+Player 5: tuyz
+Player 6: AAAAY
+Player 7: Lysoar
+Player 8: autumn 
+Player 9: BerLIN
+Player 10: Life2
+Winning Team: LOUD
+Score: FunPlus Phoenix 5 - 13 LOUD
+Tournament Name: vct masters madrid 2024
+Game Start Time: 2024-03-17T15:09:28Z
+Game End Time: 2024-03-17T15:51:49Z
+Rounds ended by ELIMINATION count: 13
+Rounds ended by DEFUSE count: 3
+Rounds ended by DETONATE count: 2
+SPIKE PLANTED count: 5
+platformGameId: val:aa7a00ba-7663-45ad-83b4-550e39701a72
+
+--- Events ---
+Game started at 2024-03-17T15:09:28Z
+cauanzin killed autumn   in round 1
+QcK killed AAAAY  in round 1
+cauanzin killed BerLIN  in round 1
+cauanzin killed Life2  in round 1
+QcK killed Lysoar  in round 1
+Round 1 ended with elimination. The winning team is LOUD.
+The current score is FunPlus Phoenix 0 - 1 LOUD.
+Less killed Life2  in round 2
+cauanzin killed Lysoar  in round 2
+QcK killed BerLIN  in round 2
+QcK killed autumn   in round 2
+AAAAY killed QcK  in round 2
+cauanzin killed AAAAY  in round 2
+Round 2 ended with elimination. The winning team is LOUD.
+The current score is FunPlus Phoenix 0 - 2 LOUD.
+Life2 killed Less  in round 3
+AAAAY killed QcK  in round 3
+Saadhak killed BerLIN  in round 3
+AAAAY killed Saadhak  in round 3
+tuyz killed AAAAY  in round 3
+cauanzin killed Life2  in round 3
+tuyz killed Lysoar  in round 3
+autumn  killed tuyz  in round 3
+autumn  killed cauanzin  in round 3
+Round 3 ended with elimination. The winning team is FunPlus Phoenix.
+The current score is FunPlus Phoenix 1 - 2 LOUD.
+tuyz killed Life2  in round 4
+Lysoar killed cauanzin  in round 4
+BerLIN killed Saadhak  in round 4
+QcK killed AAAAY  in round 4
+autumn  killed tuyz  in round 4
+BerLIN killed QcK  in round 4
+autumn  killed Less  in round 4
+Round 4 ended with elimination. The winning team is FunPlus Phoenix.
+The current score is FunPlus Phoenix 2 - 2 LOUD.
+autumn  killed Saadhak  in round 5
+tuyz killed BerLIN  in round 5
+Life2 killed QcK  in round 5
+cauanzin killed AAAAY  in round 5
+tuyz killed Lysoar  in round 5
+cauanzin killed autumn   in round 5
+Life2 killed cauanzin  in round 5
+Life2 killed Less  in round 5
+Life2 killed tuyz  in round 5
+Round 5 ended with elimination. The winning team is FunPlus Phoenix.
+The current score is FunPlus Phoenix 3 - 2 LOUD.
+Life2 killed Life2  in round 6
+autumn  killed cauanzin  in round 6
+Life2 killed tuyz  in round 6
+QcK killed BerLIN  in round 6
+QcK killed AAAAY  in round 6
+Saadhak killed Life2  in round 6
+autumn  killed QcK  in round 6
+Saadhak killed autumn   in round 6
+Less killed Lysoar  in round 6
+Round 6 ended with spike_defuse. The winning team is LOUD.
+The current score is FunPlus Phoenix 3 - 3 LOUD.
+QcK killed autumn   in round 7
+QcK killed Lysoar  in round 7
+AAAAY killed QcK  in round 7
+Life2 killed cauanzin  in round 7
+Saadhak killed Life2  in round 7
+Saadhak killed BerLIN  in round 7
+Saadhak killed AAAAY  in round 7
+Round 7 ended with elimination. The winning team is LOUD.
+The current score is FunPlus Phoenix 3 - 4 LOUD.
+BerLIN killed tuyz  in round 8
+Saadhak killed Life2  in round 8
+Less killed Lysoar  in round 8
+AAAAY killed Less  in round 8
+QcK killed autumn   in round 8
+cauanzin killed BerLIN  in round 8
+AAAAY killed cauanzin  in round 8
+Saadhak killed AAAAY  in round 8
+Round 8 ended with elimination. The winning team is LOUD.
+The current score is FunPlus Phoenix 3 - 5 LOUD.
+Life2 killed QcK  in round 9
+BerLIN killed Less  in round 9
+tuyz killed Life2  in round 9
+BerLIN killed cauanzin  in round 9
+autumn  killed Saadhak  in round 9
+tuyz killed Lysoar  in round 9
+autumn  killed tuyz  in round 9
+Round 9 ended with elimination. The winning team is FunPlus Phoenix.
+The current score is FunPlus Phoenix 4 - 5 LOUD.
+Less killed Life2  in round 10
+cauanzin killed BerLIN  in round 10
+autumn  killed cauanzin  in round 10
+tuyz killed autumn   in round 10
+Saadhak killed Lysoar  in round 10
+Saadhak killed AAAAY  in round 10
+Round 10 ended with elimination. The winning team is LOUD.
+The current score is FunPlus Phoenix 4 - 6 LOUD.
+tuyz killed BerLIN  in round 11
+cauanzin killed AAAAY  in round 11
+Life2 killed Less  in round 11
+cauanzin killed Life2  in round 11
+Saadhak killed autumn   in round 11
+Saadhak killed Lysoar  in round 11
+Round 11 ended with spike_defuse. The winning team is LOUD.
+The current score is FunPlus Phoenix 4 - 7 LOUD.
+autumn  killed cauanzin  in round 12
+tuyz killed Lysoar  in round 12
+AAAAY killed Saadhak  in round 12
+Life2 killed tuyz  in round 12
+QcK killed autumn   in round 12
+QcK killed Life2  in round 12
+QcK killed AAAAY  in round 12
+Less killed BerLIN  in round 12
+Round 12 ended with spike_defuse. The winning team is LOUD.
+The current score is FunPlus Phoenix 4 - 8 LOUD.
+QcK killed autumn   in round 13
+Life2 killed QcK  in round 13
+cauanzin killed AAAAY  in round 13
+Life2 killed Saadhak  in round 13
+cauanzin killed Life2  in round 13
+tuyz killed BerLIN  in round 13
+Lysoar killed Less  in round 13
+cauanzin killed Lysoar  in round 13
+Round 13 ended with elimination. The winning team is LOUD.
+The current score is FunPlus Phoenix 4 - 9 LOUD.
+Life2 killed Less  in round 14
+Saadhak killed Life2  in round 14
+Saadhak killed autumn   in round 14
+cauanzin killed AAAAY  in round 14
+Saadhak killed Lysoar  in round 14
+BerLIN killed cauanzin  in round 14
+Saadhak killed BerLIN  in round 14
+Round 14 ended with elimination. The winning team is LOUD.
+The current score is FunPlus Phoenix 4 - 10 LOUD.
+BerLIN killed cauanzin  in round 15
+Lysoar killed QcK  in round 15
+autumn  killed tuyz  in round 15
+Less killed AAAAY  in round 15
+Lysoar killed Saadhak  in round 15
+Less killed autumn   in round 15
+Life2 killed Less  in round 15
+Round 15 ended with elimination. The winning team is FunPlus Phoenix.
+The current score is FunPlus Phoenix 5 - 10 LOUD.
+QcK killed Life2  in round 16
+QcK killed Lysoar  in round 16
+autumn  killed QcK  in round 16
+cauanzin killed autumn   in round 16
+Less killed BerLIN  in round 16
+Round 16 ended with detonate. The winning team is LOUD.
+The current score is FunPlus Phoenix 5 - 11 LOUD.
+Saadhak killed BerLIN  in round 17
+Lysoar killed cauanzin  in round 17
+Lysoar killed QcK  in round 17
+Saadhak killed Life2  in round 17
+tuyz killed autumn   in round 17
+Less killed AAAAY  in round 17
+Round 17 ended with detonate. The winning team is LOUD.
+The current score is FunPlus Phoenix 5 - 12 LOUD.
+QcK killed autumn   in round 18
+BerLIN killed QcK  in round 18
+Less killed Life2  in round 18
+Less killed AAAAY  in round 18
+tuyz killed BerLIN  in round 18
+Less killed Lysoar  in round 18
+Round 18 ended with elimination. The winning team is LOUD.
+The current score is FunPlus Phoenix 5 - 13 LOUD.
+Game ended with winning team: LOUD at 2024-03-17T15:51:49Z
+
+--- Player Stats ---
+QcK: Team=LOUD, Kills=17, Deaths=12, Assists=1, KDA=1.5, First Kills=4, First Deaths=1
+cauanzin: Team=LOUD, Kills=17, Deaths=12, Assists=8, KDA=2.08, First Kills=1, First Deaths=2
+Saadhak: Team=LOUD, Kills=18, Deaths=7, Assists=7, KDA=3.57, First Kills=1, First Deaths=1
+Less: Team=LOUD, Kills=12, Deaths=9, Assists=7, KDA=2.11, First Kills=2, First Deaths=2
+tuyz: Team=LOUD, Kills=13, Deaths=8, Assists=7, KDA=2.5, First Kills=2, First Deaths=1
+AAAAY: Team=FunPlus Phoenix, Kills=7, Deaths=16, Assists=1, KDA=0.5, First Kills=0, First Deaths=0
+Lysoar: Team=FunPlus Phoenix, Kills=6, Deaths=15, Assists=5, KDA=0.73, First Kills=0, First Deaths=0
+autumn : Team=FunPlus Phoenix, Kills=13, Deaths=15, Assists=3, KDA=1.07, First Kills=2, First Deaths=4
+BerLIN: Team=FunPlus Phoenix, Kills=8, Deaths=15, Assists=1, KDA=0.6, First Kills=2, First Deaths=2
+Life2: Team=FunPlus Phoenix, Kills=15, Deaths=17, Assists=1, KDA=0.94, First Kills=4, First Deaths=5

@@ -1,0 +1,228 @@
+Team 1: WOLVES ESPORTS
+Team 2: Bilibili Gaming
+Participating Players:
+Player 1: Flex1n
+Player 2: Knight 
+Player 3: nephh
+Player 4: whzy
+Player 5: yosemite
+Player 6: Yuicaw
+Player 7: Spring
+Player 8: SiuFatBB
+Player 9: pl1xx
+Player 10: aluba
+Winning Team: Bilibili Gaming
+Score: WOLVES ESPORTS 7 - 13 Bilibili Gaming
+Tournament Name: vct cn stage 2 2024
+Game Start Time: 2024-06-16T12:15:57Z
+Game End Time: 2024-06-16T13:03:51Z
+Rounds ended by ELIMINATION count: 12
+Rounds ended by DEFUSE count: 7
+Rounds ended by DETONATE count: 0
+SPIKE PLANTED count: 7
+platformGameId: val:9a648043-170f-4f59-99c8-5fff2fc6c24f
+
+--- Events ---
+Game started at 2024-06-16T12:15:57Z
+Yuicaw killed whzy  in round 1
+aluba killed Flex1n  in round 1
+yosemite killed Yuicaw  in round 1
+yosemite killed aluba  in round 1
+nephh killed pl1xx  in round 1
+yosemite killed SiuFatBB  in round 1
+Spring killed Knight   in round 1
+yosemite killed Spring  in round 1
+Round 1 ended with elimination. The winning team is Bilibili Gaming.
+The current score is WOLVES ESPORTS 0 - 1 Bilibili Gaming.
+whzy killed aluba  in round 2
+Knight  killed Spring  in round 2
+Flex1n killed Yuicaw  in round 2
+Flex1n killed SiuFatBB  in round 2
+pl1xx killed Flex1n  in round 2
+Knight  killed pl1xx  in round 2
+Round 2 ended with elimination. The winning team is Bilibili Gaming.
+The current score is WOLVES ESPORTS 0 - 2 Bilibili Gaming.
+nephh killed Spring  in round 3
+Yuicaw killed Knight   in round 3
+nephh killed pl1xx  in round 3
+SiuFatBB killed Flex1n  in round 3
+aluba killed whzy  in round 3
+yosemite killed aluba  in round 3
+nephh killed Yuicaw  in round 3
+yosemite killed SiuFatBB  in round 3
+Round 3 ended with spike_defuse. The winning team is Bilibili Gaming.
+The current score is WOLVES ESPORTS 0 - 3 Bilibili Gaming.
+whzy killed Spring  in round 4
+yosemite killed pl1xx  in round 4
+yosemite killed aluba  in round 4
+yosemite killed SiuFatBB  in round 4
+Yuicaw killed yosemite  in round 4
+Yuicaw killed whzy  in round 4
+Yuicaw killed Knight   in round 4
+Flex1n killed Yuicaw  in round 4
+Round 4 ended with elimination. The winning team is Bilibili Gaming.
+The current score is WOLVES ESPORTS 0 - 4 Bilibili Gaming.
+nephh killed pl1xx  in round 5
+nephh killed SiuFatBB  in round 5
+aluba killed nephh  in round 5
+Knight  killed Spring  in round 5
+Flex1n killed aluba  in round 5
+whzy killed Yuicaw  in round 5
+Round 5 ended with spike_defuse. The winning team is Bilibili Gaming.
+The current score is WOLVES ESPORTS 0 - 5 Bilibili Gaming.
+Spring killed Knight   in round 6
+nephh killed Spring  in round 6
+Yuicaw killed nephh  in round 6
+Flex1n killed Yuicaw  in round 6
+yosemite killed pl1xx  in round 6
+aluba killed yosemite  in round 6
+whzy killed SiuFatBB  in round 6
+Round 6 ended with spike_defuse. The winning team is Bilibili Gaming.
+The current score is WOLVES ESPORTS 0 - 6 Bilibili Gaming.
+Flex1n killed aluba  in round 7
+Flex1n killed Spring  in round 7
+Spring killed Flex1n  in round 7
+yosemite killed pl1xx  in round 7
+yosemite killed SiuFatBB  in round 7
+Yuicaw killed whzy  in round 7
+whzy killed Yuicaw  in round 7
+Knight  killed aluba  in round 7
+Round 7 ended with elimination. The winning team is Bilibili Gaming.
+The current score is WOLVES ESPORTS 0 - 7 Bilibili Gaming.
+nephh killed Spring  in round 8
+SiuFatBB killed nephh  in round 8
+Flex1n killed SiuFatBB  in round 8
+pl1xx killed Flex1n  in round 8
+whzy killed pl1xx  in round 8
+Knight  killed Yuicaw  in round 8
+aluba killed whzy  in round 8
+Round 8 ended with time_expired. The winning team is Bilibili Gaming.
+The current score is WOLVES ESPORTS 0 - 8 Bilibili Gaming.
+Knight  killed Spring  in round 9
+Yuicaw killed Flex1n  in round 9
+aluba killed yosemite  in round 9
+Knight  killed SiuFatBB  in round 9
+Knight  killed pl1xx  in round 9
+Yuicaw killed nephh  in round 9
+Yuicaw killed Knight   in round 9
+aluba killed whzy  in round 9
+Round 9 ended with elimination. The winning team is WOLVES ESPORTS.
+The current score is WOLVES ESPORTS 1 - 8 Bilibili Gaming.
+whzy killed Spring  in round 10
+pl1xx killed Knight   in round 10
+pl1xx killed Flex1n  in round 10
+yosemite killed aluba  in round 10
+whzy killed SiuFatBB  in round 10
+nephh killed Yuicaw  in round 10
+pl1xx killed nephh  in round 10
+whzy killed pl1xx  in round 10
+Round 10 ended with spike_defuse. The winning team is Bilibili Gaming.
+The current score is WOLVES ESPORTS 1 - 9 Bilibili Gaming.
+aluba killed yosemite  in round 11
+Yuicaw killed whzy  in round 11
+Spring killed Flex1n  in round 11
+Spring killed Knight   in round 11
+nephh killed Yuicaw  in round 11
+SiuFatBB killed nephh  in round 11
+Round 11 ended with elimination. The winning team is WOLVES ESPORTS.
+The current score is WOLVES ESPORTS 2 - 9 Bilibili Gaming.
+Flex1n killed Spring  in round 12
+pl1xx killed Flex1n  in round 12
+SiuFatBB killed Knight   in round 12
+nephh killed aluba  in round 12
+SiuFatBB killed nephh  in round 12
+pl1xx killed whzy  in round 12
+yosemite killed pl1xx  in round 12
+yosemite killed Yuicaw  in round 12
+SiuFatBB killed yosemite  in round 12
+Round 12 ended with elimination. The winning team is WOLVES ESPORTS.
+The current score is WOLVES ESPORTS 3 - 9 Bilibili Gaming.
+SiuFatBB killed SiuFatBB  in round 13
+Flex1n killed aluba  in round 13
+yosemite killed Spring  in round 13
+pl1xx killed yosemite  in round 13
+nephh killed pl1xx  in round 13
+SiuFatBB killed Knight   in round 13
+nephh killed SiuFatBB  in round 13
+Yuicaw killed whzy  in round 13
+Yuicaw killed nephh  in round 13
+Flex1n killed Yuicaw  in round 13
+Round 13 ended with elimination. The winning team is Bilibili Gaming.
+The current score is WOLVES ESPORTS 3 - 10 Bilibili Gaming.
+yosemite killed Yuicaw  in round 14
+pl1xx killed yosemite  in round 14
+whzy killed Spring  in round 14
+SiuFatBB killed whzy  in round 14
+Knight  killed pl1xx  in round 14
+aluba killed nephh  in round 14
+Flex1n killed aluba  in round 14
+Flex1n killed SiuFatBB  in round 14
+Round 14 ended with elimination. The winning team is Bilibili Gaming.
+The current score is WOLVES ESPORTS 3 - 11 Bilibili Gaming.
+Spring killed Knight   in round 15
+Spring killed yosemite  in round 15
+Yuicaw killed Flex1n  in round 15
+Spring killed whzy  in round 15
+nephh killed pl1xx  in round 15
+Yuicaw killed nephh  in round 15
+Round 15 ended with spike_defuse. The winning team is WOLVES ESPORTS.
+The current score is WOLVES ESPORTS 4 - 11 Bilibili Gaming.
+nephh killed Spring  in round 16
+aluba killed nephh  in round 16
+Flex1n killed aluba  in round 16
+SiuFatBB killed Flex1n  in round 16
+Knight  killed pl1xx  in round 16
+Yuicaw killed Knight   in round 16
+whzy killed Yuicaw  in round 16
+whzy killed SiuFatBB  in round 16
+Round 16 ended with elimination. The winning team is Bilibili Gaming.
+The current score is WOLVES ESPORTS 4 - 12 Bilibili Gaming.
+Yuicaw killed Flex1n  in round 17
+Yuicaw killed whzy  in round 17
+pl1xx killed nephh  in round 17
+Knight  killed aluba  in round 17
+Knight  killed pl1xx  in round 17
+Spring killed yosemite  in round 17
+SiuFatBB killed Knight   in round 17
+Round 17 ended with spike_defuse. The winning team is WOLVES ESPORTS.
+The current score is WOLVES ESPORTS 5 - 12 Bilibili Gaming.
+whzy killed Spring  in round 18
+whzy killed nephh  in round 18
+Yuicaw killed yosemite  in round 18
+Yuicaw killed whzy  in round 18
+Yuicaw killed Knight   in round 18
+Flex1n killed Yuicaw  in round 18
+pl1xx killed Flex1n  in round 18
+Round 18 ended with elimination. The winning team is WOLVES ESPORTS.
+The current score is WOLVES ESPORTS 6 - 12 Bilibili Gaming.
+Spring killed yosemite  in round 19
+Spring killed whzy  in round 19
+SiuFatBB killed nephh  in round 19
+Yuicaw killed Flex1n  in round 19
+Knight  killed aluba  in round 19
+pl1xx killed Knight   in round 19
+Round 19 ended with spike_defuse. The winning team is WOLVES ESPORTS.
+The current score is WOLVES ESPORTS 7 - 12 Bilibili Gaming.
+aluba killed Knight   in round 20
+whzy killed aluba  in round 20
+whzy killed pl1xx  in round 20
+SiuFatBB killed whzy  in round 20
+Flex1n killed SiuFatBB  in round 20
+Spring killed nephh  in round 20
+Flex1n killed Yuicaw  in round 20
+yosemite killed Spring  in round 20
+Round 20 ended with elimination. The winning team is Bilibili Gaming.
+The current score is WOLVES ESPORTS 7 - 13 Bilibili Gaming.
+Game ended with winning team: Bilibili Gaming at 2024-06-16T13:03:51Z
+
+--- Player Stats ---
+Flex1n: Team=Bilibili Gaming, Kills=17, Deaths=14, Assists=16, KDA=2.36, First Kills=2, First Deaths=1
+Knight : Team=Bilibili Gaming, Kills=13, Deaths=15, Assists=5, KDA=1.2, First Kills=1, First Deaths=3
+nephh: Team=Bilibili Gaming, Kills=15, Deaths=15, Assists=10, KDA=1.67, First Kills=4, First Deaths=0
+whzy: Team=Bilibili Gaming, Kills=16, Deaths=15, Assists=6, KDA=1.47, First Kills=4, First Deaths=1
+yosemite: Team=Bilibili Gaming, Kills=18, Deaths=11, Assists=6, KDA=2.18, First Kills=1, First Deaths=2
+Yuicaw: Team=WOLVES ESPORTS, Kills=22, Deaths=16, Assists=6, KDA=1.75, First Kills=2, First Deaths=1
+Spring: Team=WOLVES ESPORTS, Kills=12, Deaths=16, Assists=7, KDA=1.19, First Kills=3, First Deaths=8
+SiuFatBB: Team=WOLVES ESPORTS, Kills=13, Deaths=15, Assists=5, KDA=1.2, First Kills=1, First Deaths=1
+pl1xx: Team=WOLVES ESPORTS, Kills=12, Deaths=17, Assists=6, KDA=1.06, First Kills=0, First Deaths=1
+aluba: Team=WOLVES ESPORTS, Kills=11, Deaths=15, Assists=4, KDA=1.0, First Kills=2, First Deaths=2

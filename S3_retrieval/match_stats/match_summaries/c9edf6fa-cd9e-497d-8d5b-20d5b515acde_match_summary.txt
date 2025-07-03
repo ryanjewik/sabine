@@ -1,0 +1,242 @@
+Team 1: ZETA DIVISION
+Team 2: Team Secret
+Participating Players:
+Player 1: invy
+Player 2: Jremy
+Player 3: JessieVash
+Player 4: DubsteP
+Player 5: BORKUM
+Player 6: Dep
+Player 7: crow 
+Player 8: SugarZ3ro
+Player 9: TENNN
+Player 10: Laz
+Winning Team: ZETA DIVISION
+Score: ZETA DIVISION 13 - 9 Team Secret
+Tournament Name: vct pacific 2023
+Game Start Time: 2023-04-29T11:56:32Z
+Game End Time: 2023-04-29T13:01:32Z
+Rounds ended by ELIMINATION count: 16
+Rounds ended by DEFUSE count: 3
+Rounds ended by DETONATE count: 3
+SPIKE PLANTED count: 6
+platformGameId: val:c9edf6fa-cd9e-497d-8d5b-20d5b515acde
+
+--- Events ---
+Game started at 2023-04-29T11:56:32Z
+Dep killed Jremy  in round 1
+BORKUM killed SugarZ3ro  in round 1
+Dep killed invy  in round 1
+DubsteP killed Dep  in round 1
+BORKUM killed crow   in round 1
+Laz killed JessieVash  in round 1
+TENNN killed DubsteP  in round 1
+Laz killed BORKUM  in round 1
+Round 1 ended with elimination. The winning team is ZETA DIVISION.
+The current score is ZETA DIVISION 1 - 0 Team Secret.
+SugarZ3ro killed invy  in round 2
+SugarZ3ro killed Jremy  in round 2
+SugarZ3ro killed JessieVash  in round 2
+SugarZ3ro killed DubsteP  in round 2
+TENNN killed BORKUM  in round 2
+Round 2 ended with elimination. The winning team is ZETA DIVISION.
+The current score is ZETA DIVISION 2 - 0 Team Secret.
+DubsteP killed TENNN  in round 3
+invy killed Dep  in round 3
+DubsteP killed Laz  in round 3
+SugarZ3ro killed invy  in round 3
+DubsteP killed crow   in round 3
+DubsteP killed SugarZ3ro  in round 3
+Round 3 ended with elimination. The winning team is Team Secret.
+The current score is ZETA DIVISION 2 - 1 Team Secret.
+crow  killed Jremy  in round 4
+BORKUM killed TENNN  in round 4
+Dep killed BORKUM  in round 4
+DubsteP killed Dep  in round 4
+JessieVash killed crow   in round 4
+DubsteP killed SugarZ3ro  in round 4
+Laz killed invy  in round 4
+Round 4 ended with spike_defuse. The winning team is Team Secret.
+The current score is ZETA DIVISION 2 - 2 Team Secret.
+Laz killed DubsteP  in round 5
+JessieVash killed TENNN  in round 5
+Dep killed invy  in round 5
+JessieVash killed Dep  in round 5
+crow  killed JessieVash  in round 5
+SugarZ3ro killed BORKUM  in round 5
+Laz killed Jremy  in round 5
+SugarZ3ro killed DubsteP  in round 5
+Round 5 ended with elimination. The winning team is ZETA DIVISION.
+The current score is ZETA DIVISION 3 - 2 Team Secret.
+DubsteP killed Dep  in round 6
+crow  killed DubsteP  in round 6
+TENNN killed Jremy  in round 6
+invy killed TENNN  in round 6
+JessieVash killed crow   in round 6
+invy killed Laz  in round 6
+SugarZ3ro killed invy  in round 6
+JessieVash killed SugarZ3ro  in round 6
+Round 6 ended with elimination. The winning team is Team Secret.
+The current score is ZETA DIVISION 3 - 3 Team Secret.
+Dep killed DubsteP  in round 7
+Dep killed JessieVash  in round 7
+Jremy killed Dep  in round 7
+Jremy killed TENNN  in round 7
+SugarZ3ro killed Jremy  in round 7
+Laz killed invy  in round 7
+BORKUM killed Laz  in round 7
+BORKUM killed SugarZ3ro  in round 7
+BORKUM killed crow   in round 7
+BORKUM killed BORKUM  in round 7
+Round 7 ended with elimination. The winning team is ZETA DIVISION.
+The current score is ZETA DIVISION 4 - 3 Team Secret.
+SugarZ3ro killed JessieVash  in round 8
+Dep killed invy  in round 8
+Jremy killed Laz  in round 8
+TENNN killed Jremy  in round 8
+BORKUM killed TENNN  in round 8
+crow  killed BORKUM  in round 8
+DubsteP killed crow   in round 8
+Dep killed DubsteP  in round 8
+Round 8 ended with elimination. The winning team is ZETA DIVISION.
+The current score is ZETA DIVISION 5 - 3 Team Secret.
+Laz killed Jremy  in round 9
+Dep killed BORKUM  in round 9
+JessieVash killed Dep  in round 9
+invy killed crow   in round 9
+SugarZ3ro killed JessieVash  in round 9
+SugarZ3ro killed invy  in round 9
+DubsteP killed TENNN  in round 9
+SugarZ3ro killed DubsteP  in round 9
+Round 9 ended with elimination. The winning team is ZETA DIVISION.
+The current score is ZETA DIVISION 6 - 3 Team Secret.
+Jremy killed TENNN  in round 10
+JessieVash killed Dep  in round 10
+SugarZ3ro killed Jremy  in round 10
+crow  killed JessieVash  in round 10
+SugarZ3ro killed invy  in round 10
+crow  killed BORKUM  in round 10
+Laz killed DubsteP  in round 10
+Round 10 ended with elimination. The winning team is ZETA DIVISION.
+The current score is ZETA DIVISION 7 - 3 Team Secret.
+Dep killed Jremy  in round 11
+Dep killed BORKUM  in round 11
+invy killed Dep  in round 11
+invy killed Laz  in round 11
+invy killed TENNN  in round 11
+JessieVash killed crow   in round 11
+invy killed SugarZ3ro  in round 11
+Round 11 ended with spike_defuse. The winning team is Team Secret.
+The current score is ZETA DIVISION 7 - 4 Team Secret.
+Dep killed DubsteP  in round 12
+BORKUM killed SugarZ3ro  in round 12
+Laz killed Jremy  in round 12
+Dep killed JessieVash  in round 12
+Laz killed BORKUM  in round 12
+crow  killed invy  in round 12
+Round 12 ended with elimination. The winning team is ZETA DIVISION.
+The current score is ZETA DIVISION 8 - 4 Team Secret.
+Dep killed BORKUM  in round 13
+TENNN killed DubsteP  in round 13
+Jremy killed crow   in round 13
+TENNN killed JessieVash  in round 13
+Jremy killed SugarZ3ro  in round 13
+Jremy killed Dep  in round 13
+TENNN killed Jremy  in round 13
+invy killed TENNN  in round 13
+Laz killed invy  in round 13
+Round 13 ended with spike_defuse. The winning team is ZETA DIVISION.
+The current score is ZETA DIVISION 9 - 4 Team Secret.
+TENNN killed invy  in round 14
+TENNN killed Jremy  in round 14
+TENNN killed BORKUM  in round 14
+Laz killed DubsteP  in round 14
+JessieVash killed Dep  in round 14
+SugarZ3ro killed JessieVash  in round 14
+Round 14 ended with elimination. The winning team is ZETA DIVISION.
+The current score is ZETA DIVISION 10 - 4 Team Secret.
+invy killed SugarZ3ro  in round 15
+BORKUM killed Dep  in round 15
+crow  killed invy  in round 15
+TENNN killed BORKUM  in round 15
+DubsteP killed TENNN  in round 15
+DubsteP killed crow   in round 15
+Laz killed DubsteP  in round 15
+JessieVash killed Laz  in round 15
+Round 15 ended with elimination. The winning team is Team Secret.
+The current score is ZETA DIVISION 10 - 5 Team Secret.
+TENNN killed invy  in round 16
+Jremy killed Laz  in round 16
+DubsteP killed Dep  in round 16
+Jremy killed crow   in round 16
+SugarZ3ro killed DubsteP  in round 16
+Round 16 ended with detonate. The winning team is Team Secret.
+The current score is ZETA DIVISION 10 - 6 Team Secret.
+DubsteP killed Dep  in round 17
+Jremy killed SugarZ3ro  in round 17
+crow  killed JessieVash  in round 17
+crow  killed invy  in round 17
+BORKUM killed crow   in round 17
+Jremy killed TENNN  in round 17
+Laz killed DubsteP  in round 17
+Round 17 ended with detonate. The winning team is Team Secret.
+The current score is ZETA DIVISION 10 - 7 Team Secret.
+Jremy killed Dep  in round 18
+Jremy killed crow   in round 18
+SugarZ3ro killed BORKUM  in round 18
+SugarZ3ro killed invy  in round 18
+Jremy killed Laz  in round 18
+JessieVash killed SugarZ3ro  in round 18
+TENNN killed JessieVash  in round 18
+DubsteP killed TENNN  in round 18
+Round 18 ended with elimination. The winning team is Team Secret.
+The current score is ZETA DIVISION 10 - 8 Team Secret.
+Jremy killed crow   in round 19
+BORKUM killed TENNN  in round 19
+invy killed Laz  in round 19
+Dep killed invy  in round 19
+BORKUM killed Dep  in round 19
+Round 19 ended with detonate. The winning team is Team Secret.
+The current score is ZETA DIVISION 10 - 9 Team Secret.
+TENNN killed Jremy  in round 20
+TENNN killed BORKUM  in round 20
+crow  killed JessieVash  in round 20
+invy killed TENNN  in round 20
+invy killed Laz  in round 20
+Dep killed DubsteP  in round 20
+Dep killed invy  in round 20
+Round 20 ended with elimination. The winning team is ZETA DIVISION.
+The current score is ZETA DIVISION 11 - 9 Team Secret.
+TENNN killed JessieVash  in round 21
+TENNN killed invy  in round 21
+Jremy killed SugarZ3ro  in round 21
+Dep killed Jremy  in round 21
+BORKUM killed crow   in round 21
+DubsteP killed TENNN  in round 21
+Laz killed DubsteP  in round 21
+Laz killed BORKUM  in round 21
+Round 21 ended with elimination. The winning team is ZETA DIVISION.
+The current score is ZETA DIVISION 12 - 9 Team Secret.
+Dep killed invy  in round 22
+Jremy killed Dep  in round 22
+crow  killed BORKUM  in round 22
+crow  killed DubsteP  in round 22
+crow  killed Jremy  in round 22
+JessieVash killed crow   in round 22
+JessieVash killed SugarZ3ro  in round 22
+Laz killed JessieVash  in round 22
+Round 22 ended with elimination. The winning team is ZETA DIVISION.
+The current score is ZETA DIVISION 13 - 9 Team Secret.
+Game ended with winning team: ZETA DIVISION at 2023-04-29T13:01:32Z
+
+--- Player Stats ---
+invy: Team=Team Secret, Kills=13, Deaths=21, Assists=8, KDA=1.0, First Kills=1, First Deaths=4
+Jremy: Team=Team Secret, Kills=17, Deaths=16, Assists=4, KDA=1.31, First Kills=3, First Deaths=5
+JessieVash: Team=Team Secret, Kills=13, Deaths=15, Assists=10, KDA=1.53, First Kills=0, First Deaths=2
+DubsteP: Team=Team Secret, Kills=16, Deaths=18, Assists=1, KDA=0.94, First Kills=3, First Deaths=3
+BORKUM: Team=Team Secret, Kills=14, Deaths=17, Assists=7, KDA=1.24, First Kills=0, First Deaths=1
+Dep: Team=ZETA DIVISION, Kills=19, Deaths=17, Assists=3, KDA=1.29, First Kills=6, First Deaths=3
+crow : Team=ZETA DIVISION, Kills=14, Deaths=16, Assists=16, KDA=1.88, First Kills=1, First Deaths=1
+SugarZ3ro: Team=ZETA DIVISION, Kills=19, Deaths=13, Assists=4, KDA=1.77, First Kills=2, First Deaths=1
+TENNN: Team=ZETA DIVISION, Kills=17, Deaths=16, Assists=6, KDA=1.44, First Kills=4, First Deaths=2
+Laz: Team=ZETA DIVISION, Kills=17, Deaths=10, Assists=5, KDA=2.2, First Kills=2, First Deaths=0

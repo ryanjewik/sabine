@@ -1,0 +1,198 @@
+Team 1: Giants
+Team 2: Futbolist
+Participating Players:
+Player 1: ATA KAPTAN
+Player 2: mojj
+Player 3: MrFaliN
+Player 4: qw1
+Player 5: qRaxs
+Player 6: Fit1nho
+Player 7: nukkye
+Player 8: rhyme
+Player 9: Cloud
+Player 10: hoody
+Winning Team: Futbolist
+Score: Giants 5 - 13 Futbolist
+Tournament Name: vct emea 2023
+Game Start Time: 2023-05-23T14:38:49Z
+Game End Time: 2023-05-23T15:39:58Z
+Rounds ended by ELIMINATION count: 14
+Rounds ended by DEFUSE count: 3
+Rounds ended by DETONATE count: 1
+SPIKE PLANTED count: 4
+platformGameId: val:c9f7be6d-fbba-4322-aa83-1ba990b83f85
+
+--- Events ---
+Game started at 2023-05-23T14:38:49Z
+Fit1nho killed qw1  in round 1
+qRaxs killed Fit1nho  in round 1
+qRaxs killed nukkye  in round 1
+hoody killed qRaxs  in round 1
+MrFaliN killed rhyme  in round 1
+mojj killed Cloud  in round 1
+ATA KAPTAN killed hoody  in round 1
+Round 1 ended with elimination. The winning team is Futbolist.
+The current score is Giants 0 - 1 Futbolist.
+rhyme killed MrFaliN  in round 2
+ATA KAPTAN killed hoody  in round 2
+ATA KAPTAN killed rhyme  in round 2
+Fit1nho killed qRaxs  in round 2
+ATA KAPTAN killed Fit1nho  in round 2
+ATA KAPTAN killed nukkye  in round 2
+qw1 killed Cloud  in round 2
+Round 2 ended with elimination. The winning team is Futbolist.
+The current score is Giants 0 - 2 Futbolist.
+qw1 killed Fit1nho  in round 3
+hoody killed MrFaliN  in round 3
+hoody killed qw1  in round 3
+mojj killed Cloud  in round 3
+mojj killed nukkye  in round 3
+rhyme killed mojj  in round 3
+qRaxs killed hoody  in round 3
+qRaxs killed rhyme  in round 3
+Round 3 ended with elimination. The winning team is Futbolist.
+The current score is Giants 0 - 3 Futbolist.
+Fit1nho killed MrFaliN  in round 4
+ATA KAPTAN killed nukkye  in round 4
+ATA KAPTAN killed rhyme  in round 4
+ATA KAPTAN killed Cloud  in round 4
+hoody killed ATA KAPTAN  in round 4
+qw1 killed Fit1nho  in round 4
+mojj killed hoody  in round 4
+Round 4 ended with elimination. The winning team is Futbolist.
+The current score is Giants 0 - 4 Futbolist.
+mojj killed nukkye  in round 5
+mojj killed Fit1nho  in round 5
+rhyme killed mojj  in round 5
+qw1 killed rhyme  in round 5
+qw1 killed Cloud  in round 5
+qRaxs killed hoody  in round 5
+Round 5 ended with elimination. The winning team is Futbolist.
+The current score is Giants 0 - 5 Futbolist.
+qw1 killed nukkye  in round 6
+Cloud killed mojj  in round 6
+qRaxs killed Fit1nho  in round 6
+qRaxs killed Cloud  in round 6
+rhyme killed MrFaliN  in round 6
+ATA KAPTAN killed hoody  in round 6
+qw1 killed rhyme  in round 6
+Round 6 ended with spike_defuse. The winning team is Futbolist.
+The current score is Giants 0 - 6 Futbolist.
+MrFaliN killed Cloud  in round 7
+MrFaliN killed rhyme  in round 7
+qw1 killed nukkye  in round 7
+qw1 killed hoody  in round 7
+Fit1nho killed ATA KAPTAN  in round 7
+qw1 killed Fit1nho  in round 7
+Round 7 ended with elimination. The winning team is Futbolist.
+The current score is Giants 0 - 7 Futbolist.
+Cloud killed mojj  in round 8
+Fit1nho killed qRaxs  in round 8
+ATA KAPTAN killed nukkye  in round 8
+hoody killed MrFaliN  in round 8
+Cloud killed ATA KAPTAN  in round 8
+Round 8 ended with detonate. The winning team is Giants.
+The current score is Giants 1 - 7 Futbolist.
+rhyme killed mojj  in round 9
+MrFaliN killed rhyme  in round 9
+Cloud killed MrFaliN  in round 9
+Fit1nho killed qRaxs  in round 9
+qw1 killed nukkye  in round 9
+hoody killed qw1  in round 9
+Cloud killed ATA KAPTAN  in round 9
+Round 9 ended with elimination. The winning team is Giants.
+The current score is Giants 2 - 7 Futbolist.
+Fit1nho killed MrFaliN  in round 10
+qw1 killed rhyme  in round 10
+Fit1nho killed qw1  in round 10
+mojj killed nukkye  in round 10
+mojj killed hoody  in round 10
+ATA KAPTAN killed Cloud  in round 10
+ATA KAPTAN killed Fit1nho  in round 10
+Round 10 ended with spike_defuse. The winning team is Futbolist.
+The current score is Giants 2 - 8 Futbolist.
+Fit1nho killed qw1  in round 11
+rhyme killed qRaxs  in round 11
+mojj killed rhyme  in round 11
+Cloud killed mojj  in round 11
+ATA KAPTAN killed Fit1nho  in round 11
+MrFaliN killed Cloud  in round 11
+hoody killed ATA KAPTAN  in round 11
+nukkye killed MrFaliN  in round 11
+Round 11 ended with elimination. The winning team is Giants.
+The current score is Giants 3 - 8 Futbolist.
+qw1 killed Fit1nho  in round 12
+MrFaliN killed Cloud  in round 12
+ATA KAPTAN killed rhyme  in round 12
+qw1 killed hoody  in round 12
+MrFaliN killed nukkye  in round 12
+Round 12 ended with elimination. The winning team is Futbolist.
+The current score is Giants 3 - 9 Futbolist.
+qw1 killed Cloud  in round 13
+ATA KAPTAN killed rhyme  in round 13
+qRaxs killed Fit1nho  in round 13
+hoody killed qRaxs  in round 13
+mojj killed nukkye  in round 13
+qw1 killed hoody  in round 13
+Round 13 ended with elimination. The winning team is Futbolist.
+The current score is Giants 3 - 10 Futbolist.
+MrFaliN killed Fit1nho  in round 14
+nukkye killed qw1  in round 14
+ATA KAPTAN killed Cloud  in round 14
+nukkye killed ATA KAPTAN  in round 14
+MrFaliN killed rhyme  in round 14
+hoody killed MrFaliN  in round 14
+hoody killed mojj  in round 14
+qRaxs killed hoody  in round 14
+qRaxs killed nukkye  in round 14
+Round 14 ended with elimination. The winning team is Futbolist.
+The current score is Giants 3 - 11 Futbolist.
+Cloud killed qw1  in round 15
+qRaxs killed Cloud  in round 15
+ATA KAPTAN killed rhyme  in round 15
+Fit1nho killed mojj  in round 15
+nukkye killed ATA KAPTAN  in round 15
+MrFaliN killed nukkye  in round 15
+MrFaliN killed hoody  in round 15
+qRaxs killed Fit1nho  in round 15
+Round 15 ended with elimination. The winning team is Futbolist.
+The current score is Giants 3 - 12 Futbolist.
+Fit1nho killed qw1  in round 16
+Cloud killed MrFaliN  in round 16
+mojj killed Fit1nho  in round 16
+ATA KAPTAN killed rhyme  in round 16
+Cloud killed ATA KAPTAN  in round 16
+Cloud killed qRaxs  in round 16
+nukkye killed mojj  in round 16
+Round 16 ended with elimination. The winning team is Giants.
+The current score is Giants 4 - 12 Futbolist.
+nukkye killed mojj  in round 17
+hoody killed MrFaliN  in round 17
+Cloud killed ATA KAPTAN  in round 17
+qRaxs killed Cloud  in round 17
+nukkye killed qRaxs  in round 17
+Round 17 ended with spike_defuse. The winning team is Giants.
+The current score is Giants 5 - 12 Futbolist.
+qw1 killed rhyme  in round 18
+Fit1nho killed qRaxs  in round 18
+qw1 killed Fit1nho  in round 18
+mojj killed nukkye  in round 18
+Cloud killed MrFaliN  in round 18
+qw1 killed hoody  in round 18
+Cloud killed mojj  in round 18
+qw1 killed Cloud  in round 18
+Round 18 ended with elimination. The winning team is Futbolist.
+The current score is Giants 5 - 13 Futbolist.
+Game ended with winning team: Futbolist at 2023-05-23T15:39:58Z
+
+--- Player Stats ---
+ATA KAPTAN: Team=Futbolist, Kills=18, Deaths=9, Assists=13, KDA=3.44, First Kills=0, First Deaths=0
+mojj: Team=Futbolist, Kills=12, Deaths=11, Assists=2, KDA=1.27, First Kills=1, First Deaths=3
+MrFaliN: Team=Futbolist, Kills=11, Deaths=12, Assists=9, KDA=1.67, First Kills=2, First Deaths=3
+qw1: Team=Futbolist, Kills=20, Deaths=8, Assists=2, KDA=2.75, First Kills=5, First Deaths=4
+qRaxs: Team=Futbolist, Kills=13, Deaths=9, Assists=5, KDA=2.0, First Kills=0, First Deaths=0
+Fit1nho: Team=Giants, Kills=12, Deaths=15, Assists=4, KDA=1.07, First Kills=5, First Deaths=3
+nukkye: Team=Giants, Kills=7, Deaths=15, Assists=4, KDA=0.73, First Kills=1, First Deaths=2
+rhyme: Team=Giants, Kills=6, Deaths=16, Assists=11, KDA=1.06, First Kills=2, First Deaths=1
+Cloud: Team=Giants, Kills=13, Deaths=15, Assists=6, KDA=1.27, First Kills=2, First Deaths=2
+hoody: Team=Giants, Kills=11, Deaths=13, Assists=2, KDA=1.0, First Kills=0, First Deaths=0

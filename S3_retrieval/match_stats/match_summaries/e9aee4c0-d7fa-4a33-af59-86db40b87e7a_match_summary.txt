@@ -1,0 +1,195 @@
+Team 1: BBL Esports
+Team 2: KOI
+Participating Players:
+Player 1: Trexx
+Player 2: starxo
+Player 3: koldamenta
+Player 4: Sheydos
+Player 5: Wolfen
+Player 6: Brave
+Player 7: QutionerX
+Player 8: SouhcNi
+Player 9: Turko
+Player 10: AsLanMshadW
+Winning Team: BBL Esports
+Score: BBL Esports 13 - 4 KOI
+Tournament Name: vct emea 2023
+Game Start Time: 2023-05-04T19:34:30Z
+Game End Time: 2023-05-04T20:16:22Z
+Rounds ended by ELIMINATION count: 13
+Rounds ended by DEFUSE count: 3
+Rounds ended by DETONATE count: 1
+SPIKE PLANTED count: 4
+platformGameId: val:e9aee4c0-d7fa-4a33-af59-86db40b87e7a
+
+--- Events ---
+Game started at 2023-05-04T19:34:30Z
+SouhcNi killed Trexx  in round 1
+starxo killed Brave  in round 1
+QutionerX killed starxo  in round 1
+koldamenta killed QutionerX  in round 1
+Turko killed Wolfen  in round 1
+AsLanMshadW killed koldamenta  in round 1
+Sheydos killed Turko  in round 1
+Sheydos killed AsLanMshadW  in round 1
+Sheydos killed SouhcNi  in round 1
+Round 1 ended with spike_defuse. The winning team is KOI.
+The current score is BBL Esports 0 - 1 KOI.
+AsLanMshadW killed Trexx  in round 2
+Wolfen killed Turko  in round 2
+QutionerX killed Wolfen  in round 2
+AsLanMshadW killed koldamenta  in round 2
+Brave killed starxo  in round 2
+Brave killed Sheydos  in round 2
+Round 2 ended with elimination. The winning team is BBL Esports.
+The current score is BBL Esports 1 - 1 KOI.
+QutionerX killed Trexx  in round 3
+AsLanMshadW killed koldamenta  in round 3
+QutionerX killed Wolfen  in round 3
+SouhcNi killed Sheydos  in round 3
+QutionerX killed starxo  in round 3
+Round 3 ended with elimination. The winning team is BBL Esports.
+The current score is BBL Esports 2 - 1 KOI.
+QutionerX killed Trexx  in round 4
+Sheydos killed Turko  in round 4
+Sheydos killed SouhcNi  in round 4
+AsLanMshadW killed koldamenta  in round 4
+starxo killed QutionerX  in round 4
+Brave killed Sheydos  in round 4
+AsLanMshadW killed Wolfen  in round 4
+starxo killed AsLanMshadW  in round 4
+Brave killed starxo  in round 4
+Round 4 ended with elimination. The winning team is BBL Esports.
+The current score is BBL Esports 3 - 1 KOI.
+Wolfen killed QutionerX  in round 5
+starxo killed Brave  in round 5
+Turko killed starxo  in round 5
+AsLanMshadW killed koldamenta  in round 5
+AsLanMshadW killed Sheydos  in round 5
+AsLanMshadW killed Wolfen  in round 5
+Turko killed Trexx  in round 5
+Round 5 ended with elimination. The winning team is BBL Esports.
+The current score is BBL Esports 4 - 1 KOI.
+koldamenta killed AsLanMshadW  in round 6
+QutionerX killed starxo  in round 6
+Sheydos killed QutionerX  in round 6
+Brave killed Wolfen  in round 6
+Brave killed koldamenta  in round 6
+Brave killed Sheydos  in round 6
+Trexx killed Brave  in round 6
+SouhcNi killed Trexx  in round 6
+Round 6 ended with elimination. The winning team is BBL Esports.
+The current score is BBL Esports 5 - 1 KOI.
+Turko killed Wolfen  in round 7
+Trexx killed QutionerX  in round 7
+Trexx killed Brave  in round 7
+starxo killed AsLanMshadW  in round 7
+SouhcNi killed Trexx  in round 7
+starxo killed Turko  in round 7
+starxo killed SouhcNi  in round 7
+Round 7 ended with elimination. The winning team is KOI.
+The current score is BBL Esports 5 - 2 KOI.
+koldamenta killed Turko  in round 8
+QutionerX killed koldamenta  in round 8
+QutionerX killed Wolfen  in round 8
+Brave killed starxo  in round 8
+QutionerX killed Sheydos  in round 8
+Brave killed Trexx  in round 8
+Round 8 ended with elimination. The winning team is BBL Esports.
+The current score is BBL Esports 6 - 2 KOI.
+Turko killed koldamenta  in round 9
+QutionerX killed starxo  in round 9
+AsLanMshadW killed Trexx  in round 9
+Sheydos killed AsLanMshadW  in round 9
+QutionerX killed Wolfen  in round 9
+Round 9 ended with detonate. The winning team is BBL Esports.
+The current score is BBL Esports 7 - 2 KOI.
+Sheydos killed QutionerX  in round 10
+Turko killed Sheydos  in round 10
+AsLanMshadW killed Wolfen  in round 10
+Trexx killed AsLanMshadW  in round 10
+Turko killed koldamenta  in round 10
+starxo killed Brave  in round 10
+starxo killed SouhcNi  in round 10
+Turko killed starxo  in round 10
+Trexx killed Turko  in round 10
+Round 10 ended with spike_defuse. The winning team is KOI.
+The current score is BBL Esports 7 - 3 KOI.
+Wolfen killed AsLanMshadW  in round 11
+koldamenta killed QutionerX  in round 11
+Brave killed starxo  in round 11
+Brave killed Wolfen  in round 11
+Brave killed koldamenta  in round 11
+Trexx killed SouhcNi  in round 11
+Trexx killed Turko  in round 11
+Brave killed Trexx  in round 11
+Brave killed Sheydos  in round 11
+Round 11 ended with elimination. The winning team is BBL Esports.
+The current score is BBL Esports 8 - 3 KOI.
+SouhcNi killed starxo  in round 12
+SouhcNi killed koldamenta  in round 12
+Trexx killed SouhcNi  in round 12
+AsLanMshadW killed Wolfen  in round 12
+Brave killed Trexx  in round 12
+Sheydos killed QutionerX  in round 12
+Sheydos killed AsLanMshadW  in round 12
+Turko killed Sheydos  in round 12
+Round 12 ended with elimination. The winning team is BBL Esports.
+The current score is BBL Esports 9 - 3 KOI.
+AsLanMshadW killed Sheydos  in round 13
+AsLanMshadW killed koldamenta  in round 13
+starxo killed Brave  in round 13
+Wolfen killed AsLanMshadW  in round 13
+QutionerX killed Trexx  in round 13
+SouhcNi killed Wolfen  in round 13
+Turko killed starxo  in round 13
+Round 13 ended with spike_defuse. The winning team is BBL Esports.
+The current score is BBL Esports 10 - 3 KOI.
+Wolfen killed Turko  in round 14
+Brave killed Wolfen  in round 14
+QutionerX killed starxo  in round 14
+QutionerX killed Trexx  in round 14
+Brave killed koldamenta  in round 14
+QutionerX killed Sheydos  in round 14
+Round 14 ended with elimination. The winning team is BBL Esports.
+The current score is BBL Esports 11 - 3 KOI.
+Brave killed starxo  in round 15
+Wolfen killed Brave  in round 15
+Turko killed Wolfen  in round 15
+koldamenta killed Turko  in round 15
+Trexx killed AsLanMshadW  in round 15
+SouhcNi killed Trexx  in round 15
+QutionerX killed koldamenta  in round 15
+Sheydos killed QutionerX  in round 15
+Sheydos killed SouhcNi  in round 15
+Round 15 ended with elimination. The winning team is KOI.
+The current score is BBL Esports 11 - 4 KOI.
+Sheydos killed Sheydos  in round 16
+QutionerX killed Wolfen  in round 16
+Trexx killed SouhcNi  in round 16
+AsLanMshadW killed koldamenta  in round 16
+AsLanMshadW killed Sheydos  in round 16
+AsLanMshadW killed starxo  in round 16
+QutionerX killed Trexx  in round 16
+Round 16 ended with elimination. The winning team is BBL Esports.
+The current score is BBL Esports 12 - 4 KOI.
+SouhcNi killed Sheydos  in round 17
+Brave killed Wolfen  in round 17
+QutionerX killed starxo  in round 17
+Brave killed koldamenta  in round 17
+QutionerX killed Trexx  in round 17
+Round 17 ended with elimination. The winning team is BBL Esports.
+The current score is BBL Esports 13 - 4 KOI.
+Game ended with winning team: BBL Esports at 2023-05-04T20:16:22Z
+
+--- Player Stats ---
+Trexx: Team=KOI, Kills=10, Deaths=16, Assists=7, KDA=1.06, First Kills=0, First Deaths=4
+starxo: Team=KOI, Kills=10, Deaths=16, Assists=4, KDA=0.88, First Kills=0, First Deaths=2
+koldamenta: Team=KOI, Kills=5, Deaths=16, Assists=5, KDA=0.62, First Kills=2, First Deaths=1
+Sheydos: Team=KOI, Kills=13, Deaths=14, Assists=0, KDA=0.93, First Kills=2, First Deaths=3
+Wolfen: Team=KOI, Kills=6, Deaths=17, Assists=1, KDA=0.41, First Kills=3, First Deaths=1
+Brave: Team=BBL Esports, Kills=20, Deaths=7, Assists=9, KDA=4.14, First Kills=1, First Deaths=0
+QutionerX: Team=BBL Esports, Kills=21, Deaths=9, Assists=4, KDA=2.78, First Kills=2, First Deaths=2
+SouhcNi: Team=BBL Esports, Kills=9, Deaths=8, Assists=10, KDA=2.38, First Kills=3, First Deaths=0
+Turko: Team=BBL Esports, Kills=11, Deaths=9, Assists=17, KDA=3.11, First Kills=2, First Deaths=2
+AsLanMshadW: Team=BBL Esports, Kills=17, Deaths=10, Assists=1, KDA=1.8, First Kills=2, First Deaths=2

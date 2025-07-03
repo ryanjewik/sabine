@@ -1,0 +1,221 @@
+Team 1: PAPER REX
+Team 2: DRX
+Participating Players:
+Player 1: MaKo
+Player 2: Foxy9
+Player 3: Flashback
+Player 4: BeYN
+Player 5: BuZz
+Player 6: mindfreak
+Player 7: something
+Player 8: d4v41
+Player 9: f0rsakeN
+Player 10: Jinggg
+Winning Team: PAPER REX
+Score: PAPER REX 13 - 7 DRX
+Tournament Name: vct pacific stage 2 2024
+Game Start Time: 2024-07-20T08:11:59Z
+Game End Time: 2024-07-20T08:59:40Z
+Rounds ended by ELIMINATION count: 11
+Rounds ended by DEFUSE count: 8
+Rounds ended by DETONATE count: 1
+SPIKE PLANTED count: 9
+platformGameId: val:f2e2c36d-7270-417d-b7eb-7dd092d457c2
+
+--- Events ---
+Game started at 2024-07-20T08:11:59Z
+BeYN killed mindfreak  in round 1
+something killed BuZz  in round 1
+f0rsakeN killed MaKo  in round 1
+Foxy9 killed f0rsakeN  in round 1
+Jinggg killed BeYN  in round 1
+d4v41 killed Foxy9  in round 1
+Jinggg killed Flashback  in round 1
+Round 1 ended with elimination. The winning team is PAPER REX.
+The current score is PAPER REX 1 - 0 DRX.
+Jinggg killed Flashback  in round 2
+MaKo killed something  in round 2
+Foxy9 killed Foxy9  in round 2
+Round 2 ended with detonate. The winning team is PAPER REX.
+The current score is PAPER REX 2 - 0 DRX.
+BuZz killed BuZz  in round 3
+BeYN killed BeYN  in round 3
+MaKo killed MaKo  in round 3
+BuZz killed Jinggg  in round 3
+d4v41 killed BuZz  in round 3
+something killed Foxy9  in round 3
+Flashback killed f0rsakeN  in round 3
+BeYN killed something  in round 3
+MaKo killed d4v41  in round 3
+Flashback killed mindfreak  in round 3
+Round 3 ended with spike_defuse. The winning team is DRX.
+The current score is PAPER REX 2 - 1 DRX.
+Jinggg killed Foxy9  in round 4
+BuZz killed f0rsakeN  in round 4
+BeYN killed Jinggg  in round 4
+mindfreak killed BeYN  in round 4
+BuZz killed mindfreak  in round 4
+BuZz killed something  in round 4
+BuZz killed d4v41  in round 4
+Round 4 ended with spike_defuse. The winning team is DRX.
+The current score is PAPER REX 2 - 2 DRX.
+Foxy9 killed mindfreak  in round 5
+BuZz killed Jinggg  in round 5
+f0rsakeN killed Flashback  in round 5
+Foxy9 killed f0rsakeN  in round 5
+BeYN killed d4v41  in round 5
+something killed MaKo  in round 5
+Round 5 ended with spike_defuse. The winning team is DRX.
+The current score is PAPER REX 2 - 3 DRX.
+Flashback killed f0rsakeN  in round 6
+Flashback killed Jinggg  in round 6
+Flashback killed d4v41  in round 6
+Flashback killed something  in round 6
+mindfreak killed BeYN  in round 6
+Flashback killed mindfreak  in round 6
+Round 6 ended with spike_defuse. The winning team is DRX.
+The current score is PAPER REX 2 - 4 DRX.
+something killed Flashback  in round 7
+BeYN killed mindfreak  in round 7
+f0rsakeN killed BuZz  in round 7
+f0rsakeN killed MaKo  in round 7
+something killed BeYN  in round 7
+Foxy9 killed f0rsakeN  in round 7
+Foxy9 killed something  in round 7
+d4v41 killed Foxy9  in round 7
+Round 7 ended with elimination. The winning team is PAPER REX.
+The current score is PAPER REX 3 - 4 DRX.
+f0rsakeN killed BeYN  in round 8
+MaKo killed something  in round 8
+f0rsakeN killed Foxy9  in round 8
+Flashback killed f0rsakeN  in round 8
+MaKo killed d4v41  in round 8
+mindfreak killed Flashback  in round 8
+Jinggg killed MaKo  in round 8
+BuZz killed mindfreak  in round 8
+Jinggg killed BuZz  in round 8
+Round 8 ended with elimination. The winning team is PAPER REX.
+The current score is PAPER REX 4 - 4 DRX.
+f0rsakeN killed MaKo  in round 9
+Foxy9 killed mindfreak  in round 9
+Foxy9 killed Jinggg  in round 9
+d4v41 killed Foxy9  in round 9
+d4v41 killed BuZz  in round 9
+d4v41 killed BeYN  in round 9
+Flashback killed d4v41  in round 9
+Flashback killed f0rsakeN  in round 9
+something killed Flashback  in round 9
+Round 9 ended with elimination. The winning team is PAPER REX.
+The current score is PAPER REX 5 - 4 DRX.
+f0rsakeN killed BuZz  in round 10
+d4v41 killed Flashback  in round 10
+Jinggg killed MaKo  in round 10
+BeYN killed f0rsakeN  in round 10
+something killed BeYN  in round 10
+something killed Foxy9  in round 10
+Round 10 ended with elimination. The winning team is PAPER REX.
+The current score is PAPER REX 6 - 4 DRX.
+Foxy9 killed mindfreak  in round 11
+MaKo killed something  in round 11
+Flashback killed f0rsakeN  in round 11
+BeYN killed d4v41  in round 11
+MaKo killed Jinggg  in round 11
+Round 11 ended with elimination. The winning team is DRX.
+The current score is PAPER REX 6 - 5 DRX.
+BeYN killed f0rsakeN  in round 12
+Jinggg killed Foxy9  in round 12
+MaKo killed Jinggg  in round 12
+BeYN killed something  in round 12
+d4v41 killed MaKo  in round 12
+BeYN killed d4v41  in round 12
+mindfreak killed BeYN  in round 12
+mindfreak killed Flashback  in round 12
+BuZz killed mindfreak  in round 12
+Round 12 ended with spike_defuse. The winning team is DRX.
+The current score is PAPER REX 6 - 6 DRX.
+Flashback killed d4v41  in round 13
+Jinggg killed Flashback  in round 13
+BuZz killed mindfreak  in round 13
+Jinggg killed BuZz  in round 13
+something killed Foxy9  in round 13
+Jinggg killed MaKo  in round 13
+Jinggg killed BeYN  in round 13
+Round 13 ended with elimination. The winning team is PAPER REX.
+The current score is PAPER REX 7 - 6 DRX.
+BuZz killed d4v41  in round 14
+something killed Foxy9  in round 14
+mindfreak killed BeYN  in round 14
+f0rsakeN killed MaKo  in round 14
+Flashback killed something  in round 14
+mindfreak killed BuZz  in round 14
+f0rsakeN killed Flashback  in round 14
+Round 14 ended with spike_defuse. The winning team is PAPER REX.
+The current score is PAPER REX 8 - 6 DRX.
+Flashback killed d4v41  in round 15
+BuZz killed f0rsakeN  in round 15
+something killed BuZz  in round 15
+something killed Foxy9  in round 15
+something killed MaKo  in round 15
+something killed Flashback  in round 15
+BeYN killed Jinggg  in round 15
+something killed BeYN  in round 15
+Round 15 ended with spike_defuse. The winning team is PAPER REX.
+The current score is PAPER REX 9 - 6 DRX.
+f0rsakeN killed BuZz  in round 16
+Jinggg killed Flashback  in round 16
+d4v41 killed MaKo  in round 16
+d4v41 killed Foxy9  in round 16
+d4v41 killed BeYN  in round 16
+Round 16 ended with elimination. The winning team is PAPER REX.
+The current score is PAPER REX 10 - 6 DRX.
+Flashback killed f0rsakeN  in round 17
+mindfreak killed MaKo  in round 17
+BuZz killed Jinggg  in round 17
+something killed BuZz  in round 17
+Foxy9 killed something  in round 17
+d4v41 killed Foxy9  in round 17
+d4v41 killed Flashback  in round 17
+BeYN killed d4v41  in round 17
+BeYN killed mindfreak  in round 17
+Round 17 ended with elimination. The winning team is DRX.
+The current score is PAPER REX 10 - 7 DRX.
+f0rsakeN killed BuZz  in round 18
+Flashback killed Jinggg  in round 18
+f0rsakeN killed Foxy9  in round 18
+f0rsakeN killed BeYN  in round 18
+Flashback killed mindfreak  in round 18
+f0rsakeN killed Flashback  in round 18
+MaKo killed f0rsakeN  in round 18
+d4v41 killed MaKo  in round 18
+Round 18 ended with elimination. The winning team is PAPER REX.
+The current score is PAPER REX 11 - 7 DRX.
+Jinggg killed BeYN  in round 19
+something killed BuZz  in round 19
+Jinggg killed Foxy9  in round 19
+mindfreak killed Flashback  in round 19
+Jinggg killed MaKo  in round 19
+Round 19 ended with elimination. The winning team is PAPER REX.
+The current score is PAPER REX 12 - 7 DRX.
+mindfreak killed Flashback  in round 20
+mindfreak killed BuZz  in round 20
+Foxy9 killed d4v41  in round 20
+MaKo killed mindfreak  in round 20
+f0rsakeN killed MaKo  in round 20
+f0rsakeN killed BeYN  in round 20
+Foxy9 killed f0rsakeN  in round 20
+Jinggg killed Foxy9  in round 20
+Round 20 ended with spike_defuse. The winning team is PAPER REX.
+The current score is PAPER REX 13 - 7 DRX.
+Game ended with winning team: PAPER REX at 2024-07-20T08:59:40Z
+
+--- Player Stats ---
+MaKo: Team=DRX, Kills=10, Deaths=16, Assists=7, KDA=1.06, First Kills=0, First Deaths=1
+Foxy9: Team=DRX, Kills=12, Deaths=17, Assists=7, KDA=1.12, First Kills=2, First Deaths=1
+Flashback: Team=DRX, Kills=17, Deaths=16, Assists=3, KDA=1.25, First Kills=4, First Deaths=3
+BeYN: Team=DRX, Kills=14, Deaths=16, Assists=6, KDA=1.25, First Kills=2, First Deaths=2
+BuZz: Team=DRX, Kills=13, Deaths=15, Assists=2, KDA=1.0, First Kills=2, First Deaths=4
+mindfreak: Team=PAPER REX, Kills=11, Deaths=14, Assists=8, KDA=1.36, First Kills=1, First Deaths=3
+something: Team=PAPER REX, Kills=17, Deaths=10, Assists=6, KDA=2.3, First Kills=1, First Deaths=0
+d4v41: Team=PAPER REX, Kills=14, Deaths=13, Assists=12, KDA=2.0, First Kills=0, First Deaths=3
+f0rsakeN: Team=PAPER REX, Kills=17, Deaths=15, Assists=8, KDA=1.67, First Kills=5, First Deaths=3
+Jinggg: Team=PAPER REX, Kills=17, Deaths=10, Assists=1, KDA=1.8, First Kills=3, First Deaths=0

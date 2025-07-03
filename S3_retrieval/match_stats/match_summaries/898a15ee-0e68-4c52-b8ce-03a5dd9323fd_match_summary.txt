@@ -1,0 +1,224 @@
+Team 1: Gen.G Esports
+Team 2: Talon Esports
+Participating Players:
+Player 1: Patiphan
+Player 2: garnetS
+Player 3: Crws
+Player 4: JitBoyS
+Player 5: foxz
+Player 6: GodDead
+Player 7: Meteor 
+Player 8: TS
+Player 9: Sylvan
+Player 10: k1NgKR
+Winning Team: Talon Esports
+Score: Gen.G Esports 7 - 13 Talon Esports
+Tournament Name: vct pacific 2023
+Game Start Time: 2023-05-06T09:07:32Z
+Game End Time: 2023-05-06T09:56:30Z
+Rounds ended by ELIMINATION count: 11
+Rounds ended by DEFUSE count: 7
+Rounds ended by DETONATE count: 2
+SPIKE PLANTED count: 9
+platformGameId: val:898a15ee-0e68-4c52-b8ce-03a5dd9323fd
+
+--- Events ---
+Game started at 2023-05-06T09:07:32Z
+JitBoyS killed GodDead  in round 1
+TS killed JitBoyS  in round 1
+Crws killed Sylvan  in round 1
+Meteor  killed foxz  in round 1
+k1NgKR killed Crws  in round 1
+TS killed Patiphan  in round 1
+garnetS killed TS  in round 1
+Meteor  killed garnetS  in round 1
+Round 1 ended with elimination. The winning team is Gen.G Esports.
+The current score is Gen.G Esports 1 - 0 Talon Esports.
+k1NgKR killed Crws  in round 2
+k1NgKR killed Patiphan  in round 2
+garnetS killed GodDead  in round 2
+k1NgKR killed garnetS  in round 2
+Meteor  killed foxz  in round 2
+Round 2 ended with detonate. The winning team is Gen.G Esports.
+The current score is Gen.G Esports 2 - 0 Talon Esports.
+JitBoyS killed JitBoyS  in round 3
+Crws killed k1NgKR  in round 3
+Patiphan killed GodDead  in round 3
+TS killed Crws  in round 3
+TS killed garnetS  in round 3
+TS killed Patiphan  in round 3
+foxz killed Sylvan  in round 3
+JitBoyS killed TS  in round 3
+foxz killed Meteor   in round 3
+Round 3 ended with spike_defuse. The winning team is Talon Esports.
+The current score is Gen.G Esports 2 - 1 Talon Esports.
+garnetS killed Meteor   in round 4
+garnetS killed Sylvan  in round 4
+garnetS killed k1NgKR  in round 4
+TS killed garnetS  in round 4
+TS killed Patiphan  in round 4
+foxz killed GodDead  in round 4
+JitBoyS killed TS  in round 4
+Round 4 ended with spike_defuse. The winning team is Talon Esports.
+The current score is Gen.G Esports 2 - 2 Talon Esports.
+foxz killed TS  in round 5
+Sylvan killed Crws  in round 5
+JitBoyS killed Sylvan  in round 5
+k1NgKR killed garnetS  in round 5
+garnetS killed k1NgKR  in round 5
+JitBoyS killed Meteor   in round 5
+Patiphan killed GodDead  in round 5
+Round 5 ended with spike_defuse. The winning team is Talon Esports.
+The current score is Gen.G Esports 2 - 3 Talon Esports.
+garnetS killed Meteor   in round 6
+garnetS killed TS  in round 6
+garnetS killed k1NgKR  in round 6
+foxz killed GodDead  in round 6
+foxz killed Sylvan  in round 6
+Round 6 ended with elimination. The winning team is Talon Esports.
+The current score is Gen.G Esports 2 - 4 Talon Esports.
+Patiphan killed TS  in round 7
+k1NgKR killed garnetS  in round 7
+Crws killed k1NgKR  in round 7
+JitBoyS killed GodDead  in round 7
+Sylvan killed foxz  in round 7
+Patiphan killed Sylvan  in round 7
+Meteor  killed Patiphan  in round 7
+Crws killed Meteor   in round 7
+Round 7 ended with spike_defuse. The winning team is Talon Esports.
+The current score is Gen.G Esports 2 - 5 Talon Esports.
+Patiphan killed Meteor   in round 8
+Sylvan killed Crws  in round 8
+k1NgKR killed garnetS  in round 8
+k1NgKR killed Patiphan  in round 8
+foxz killed k1NgKR  in round 8
+foxz killed Sylvan  in round 8
+GodDead killed foxz  in round 8
+TS killed JitBoyS  in round 8
+Round 8 ended with elimination. The winning team is Gen.G Esports.
+The current score is Gen.G Esports 3 - 5 Talon Esports.
+foxz killed Meteor   in round 9
+k1NgKR killed Crws  in round 9
+garnetS killed GodDead  in round 9
+k1NgKR killed garnetS  in round 9
+JitBoyS killed k1NgKR  in round 9
+foxz killed Sylvan  in round 9
+TS killed foxz  in round 9
+Patiphan killed TS  in round 9
+Round 9 ended with spike_defuse. The winning team is Talon Esports.
+The current score is Gen.G Esports 3 - 6 Talon Esports.
+Meteor  killed Patiphan  in round 10
+garnetS killed GodDead  in round 10
+k1NgKR killed garnetS  in round 10
+Crws killed TS  in round 10
+Meteor  killed Crws  in round 10
+foxz killed Meteor   in round 10
+foxz killed k1NgKR  in round 10
+Sylvan killed foxz  in round 10
+Sylvan killed JitBoyS  in round 10
+Round 10 ended with elimination. The winning team is Gen.G Esports.
+The current score is Gen.G Esports 4 - 6 Talon Esports.
+Meteor  killed Crws  in round 11
+k1NgKR killed Patiphan  in round 11
+garnetS killed Sylvan  in round 11
+GodDead killed JitBoyS  in round 11
+garnetS killed Meteor   in round 11
+foxz killed GodDead  in round 11
+TS killed foxz  in round 11
+TS killed garnetS  in round 11
+Round 11 ended with elimination. The winning team is Gen.G Esports.
+The current score is Gen.G Esports 5 - 6 Talon Esports.
+foxz killed Sylvan  in round 12
+Meteor  killed garnetS  in round 12
+garnetS killed Meteor   in round 12
+Patiphan killed GodDead  in round 12
+TS killed foxz  in round 12
+k1NgKR killed Patiphan  in round 12
+Crws killed TS  in round 12
+k1NgKR killed JitBoyS  in round 12
+Crws killed k1NgKR  in round 12
+Round 12 ended with spike_defuse. The winning team is Talon Esports.
+The current score is Gen.G Esports 5 - 7 Talon Esports.
+foxz killed Meteor   in round 13
+Crws killed GodDead  in round 13
+Crws killed TS  in round 13
+Crws killed k1NgKR  in round 13
+Sylvan killed JitBoyS  in round 13
+Patiphan killed Sylvan  in round 13
+Round 13 ended with elimination. The winning team is Talon Esports.
+The current score is Gen.G Esports 5 - 8 Talon Esports.
+Meteor  killed JitBoyS  in round 14
+foxz killed k1NgKR  in round 14
+Patiphan killed TS  in round 14
+Sylvan killed Patiphan  in round 14
+garnetS killed Sylvan  in round 14
+Meteor  killed Crws  in round 14
+garnetS killed GodDead  in round 14
+garnetS killed Meteor   in round 14
+Round 14 ended with elimination. The winning team is Talon Esports.
+The current score is Gen.G Esports 5 - 9 Talon Esports.
+k1NgKR killed Crws  in round 15
+GodDead killed garnetS  in round 15
+foxz killed TS  in round 15
+k1NgKR killed Patiphan  in round 15
+GodDead killed JitBoyS  in round 15
+Sylvan killed foxz  in round 15
+Round 15 ended with spike_defuse. The winning team is Gen.G Esports.
+The current score is Gen.G Esports 6 - 9 Talon Esports.
+garnetS killed Meteor   in round 16
+k1NgKR killed JitBoyS  in round 16
+k1NgKR killed garnetS  in round 16
+Crws killed TS  in round 16
+foxz killed GodDead  in round 16
+Sylvan killed Patiphan  in round 16
+Crws killed Sylvan  in round 16
+Crws killed k1NgKR  in round 16
+Round 16 ended with elimination. The winning team is Talon Esports.
+The current score is Gen.G Esports 6 - 10 Talon Esports.
+k1NgKR killed Crws  in round 17
+JitBoyS killed k1NgKR  in round 17
+foxz killed TS  in round 17
+garnetS killed GodDead  in round 17
+Meteor  killed Patiphan  in round 17
+Sylvan killed garnetS  in round 17
+JitBoyS killed Meteor   in round 17
+Sylvan killed foxz  in round 17
+JitBoyS killed Sylvan  in round 17
+Round 17 ended with elimination. The winning team is Talon Esports.
+The current score is Gen.G Esports 6 - 11 Talon Esports.
+Crws killed TS  in round 18
+garnetS killed Sylvan  in round 18
+GodDead killed foxz  in round 18
+Round 18 ended with detonate. The winning team is Talon Esports.
+The current score is Gen.G Esports 6 - 12 Talon Esports.
+Meteor  killed garnetS  in round 19
+Meteor  killed JitBoyS  in round 19
+Meteor  killed foxz  in round 19
+Meteor  killed Patiphan  in round 19
+Crws killed GodDead  in round 19
+Crws killed TS  in round 19
+Meteor  killed Crws  in round 19
+Round 19 ended with elimination. The winning team is Gen.G Esports.
+The current score is Gen.G Esports 7 - 12 Talon Esports.
+k1NgKR killed garnetS  in round 20
+JitBoyS killed TS  in round 20
+Patiphan killed k1NgKR  in round 20
+Crws killed Sylvan  in round 20
+foxz killed GodDead  in round 20
+Meteor  killed foxz  in round 20
+Patiphan killed Meteor   in round 20
+Round 20 ended with elimination. The winning team is Talon Esports.
+The current score is Gen.G Esports 7 - 13 Talon Esports.
+Game ended with winning team: Talon Esports at 2023-05-06T09:56:30Z
+
+--- Player Stats ---
+Patiphan: Team=Talon Esports, Kills=11, Deaths=14, Assists=11, KDA=1.57, First Kills=2, First Deaths=1
+garnetS: Team=Talon Esports, Kills=20, Deaths=16, Assists=2, KDA=1.38, First Kills=3, First Deaths=2
+Crws: Team=Talon Esports, Kills=17, Deaths=12, Assists=9, KDA=2.17, First Kills=1, First Deaths=4
+JitBoyS: Team=Talon Esports, Kills=12, Deaths=11, Assists=4, KDA=1.45, First Kills=2, First Deaths=2
+foxz: Team=Talon Esports, Kills=20, Deaths=13, Assists=7, KDA=2.08, First Kills=4, First Deaths=0
+GodDead: Team=Gen.G Esports, Kills=5, Deaths=17, Assists=17, KDA=1.29, First Kills=0, First Deaths=1
+Meteor : Team=Gen.G Esports, Kills=17, Deaths=15, Assists=2, KDA=1.27, First Kills=4, First Deaths=6
+TS: Team=Gen.G Esports, Kills=12, Deaths=17, Assists=10, KDA=1.29, First Kills=0, First Deaths=3
+Sylvan: Team=Gen.G Esports, Kills=11, Deaths=16, Assists=8, KDA=1.19, First Kills=0, First Deaths=1
+k1NgKR: Team=Gen.G Esports, Kills=20, Deaths=14, Assists=3, KDA=1.64, First Kills=4, First Deaths=0

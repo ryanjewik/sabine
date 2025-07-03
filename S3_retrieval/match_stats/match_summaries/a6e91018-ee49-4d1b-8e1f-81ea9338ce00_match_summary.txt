@@ -1,0 +1,195 @@
+Team 1: T1
+Team 2: Rex Regum Qeon
+Participating Players:
+Player 1: patt
+Player 2: Lmemore
+Player 3: fl1pzjder
+Player 4: EJAY
+Player 5: Emman
+Player 6: carpe
+Player 7: Sayaplayer
+Player 8: xeta
+Player 9: ban 
+Player 10: Munchkin
+Winning Team: T1
+Score: T1 13 - 4 Rex Regum Qeon
+Tournament Name: vct pacific 2023
+Game Start Time: 2023-04-23T09:10:19Z
+Game End Time: 2023-04-23T09:45:45Z
+Rounds ended by ELIMINATION count: 13
+Rounds ended by DEFUSE count: 2
+Rounds ended by DETONATE count: 2
+SPIKE PLANTED count: 4
+platformGameId: val:a6e91018-ee49-4d1b-8e1f-81ea9338ce00
+
+--- Events ---
+Game started at 2023-04-23T09:10:19Z
+EJAY killed Sayaplayer  in round 1
+ban  killed EJAY  in round 1
+fl1pzjder killed xeta  in round 1
+carpe killed fl1pzjder  in round 1
+patt killed Munchkin  in round 1
+Emman killed carpe  in round 1
+Lmemore killed ban   in round 1
+Round 1 ended with elimination. The winning team is Rex Regum Qeon.
+The current score is T1 0 - 1 Rex Regum Qeon.
+patt killed ban   in round 2
+Sayaplayer killed Lmemore  in round 2
+Emman killed Sayaplayer  in round 2
+patt killed xeta  in round 2
+patt killed carpe  in round 2
+fl1pzjder killed Munchkin  in round 2
+Round 2 ended with elimination. The winning team is Rex Regum Qeon.
+The current score is T1 0 - 2 Rex Regum Qeon.
+Emman killed carpe  in round 3
+Sayaplayer killed Emman  in round 3
+Sayaplayer killed fl1pzjder  in round 3
+EJAY killed Sayaplayer  in round 3
+xeta killed EJAY  in round 3
+Lmemore killed ban   in round 3
+xeta killed Lmemore  in round 3
+xeta killed patt  in round 3
+Round 3 ended with elimination. The winning team is T1.
+The current score is T1 1 - 2 Rex Regum Qeon.
+ban  killed Lmemore  in round 4
+Emman killed Sayaplayer  in round 4
+Emman killed ban   in round 4
+xeta killed Emman  in round 4
+fl1pzjder killed xeta  in round 4
+carpe killed EJAY  in round 4
+fl1pzjder killed carpe  in round 4
+Munchkin killed patt  in round 4
+Munchkin killed fl1pzjder  in round 4
+Round 4 ended with elimination. The winning team is T1.
+The current score is T1 2 - 2 Rex Regum Qeon.
+ban  killed EJAY  in round 5
+ban  killed patt  in round 5
+fl1pzjder killed ban   in round 5
+carpe killed fl1pzjder  in round 5
+Emman killed carpe  in round 5
+Munchkin killed Emman  in round 5
+Sayaplayer killed Lmemore  in round 5
+Round 5 ended with elimination. The winning team is T1.
+The current score is T1 3 - 2 Rex Regum Qeon.
+Emman killed Munchkin  in round 6
+xeta killed EJAY  in round 6
+Lmemore killed xeta  in round 6
+carpe killed Lmemore  in round 6
+carpe killed Emman  in round 6
+Sayaplayer killed patt  in round 6
+carpe killed fl1pzjder  in round 6
+Round 6 ended with elimination. The winning team is T1.
+The current score is T1 4 - 2 Rex Regum Qeon.
+Sayaplayer killed Lmemore  in round 7
+Emman killed ban   in round 7
+Sayaplayer killed Emman  in round 7
+fl1pzjder killed carpe  in round 7
+patt killed Munchkin  in round 7
+xeta killed fl1pzjder  in round 7
+Sayaplayer killed patt  in round 7
+Sayaplayer killed EJAY  in round 7
+Round 7 ended with elimination. The winning team is T1.
+The current score is T1 5 - 2 Rex Regum Qeon.
+EJAY killed ban   in round 8
+fl1pzjder killed Munchkin  in round 8
+Emman killed Sayaplayer  in round 8
+xeta killed Emman  in round 8
+Lmemore killed xeta  in round 8
+carpe killed patt  in round 8
+EJAY killed carpe  in round 8
+Round 8 ended with spike_defuse. The winning team is Rex Regum Qeon.
+The current score is T1 5 - 3 Rex Regum Qeon.
+Lmemore killed ban   in round 9
+Munchkin killed EJAY  in round 9
+Munchkin killed patt  in round 9
+Munchkin killed fl1pzjder  in round 9
+Emman killed Munchkin  in round 9
+xeta killed Emman  in round 9
+Round 9 ended with detonate. The winning team is T1.
+The current score is T1 6 - 3 Rex Regum Qeon.
+xeta killed EJAY  in round 10
+patt killed Munchkin  in round 10
+ban  killed fl1pzjder  in round 10
+carpe killed patt  in round 10
+ban  killed Emman  in round 10
+Lmemore killed xeta  in round 10
+carpe killed Lmemore  in round 10
+Round 10 ended with elimination. The winning team is T1.
+The current score is T1 7 - 3 Rex Regum Qeon.
+Munchkin killed Lmemore  in round 11
+Munchkin killed fl1pzjder  in round 11
+patt killed carpe  in round 11
+Sayaplayer killed patt  in round 11
+Munchkin killed Emman  in round 11
+EJAY killed Munchkin  in round 11
+Round 11 ended with detonate. The winning team is T1.
+The current score is T1 8 - 3 Rex Regum Qeon.
+fl1pzjder killed xeta  in round 12
+carpe killed fl1pzjder  in round 12
+Sayaplayer killed EJAY  in round 12
+Munchkin killed Emman  in round 12
+patt killed Sayaplayer  in round 12
+ban  killed Lmemore  in round 12
+Munchkin killed patt  in round 12
+Round 12 ended with elimination. The winning team is T1.
+The current score is T1 9 - 3 Rex Regum Qeon.
+EJAY killed ban   in round 13
+Munchkin killed patt  in round 13
+EJAY killed Munchkin  in round 13
+xeta killed EJAY  in round 13
+fl1pzjder killed Sayaplayer  in round 13
+fl1pzjder killed xeta  in round 13
+carpe killed fl1pzjder  in round 13
+Emman killed carpe  in round 13
+Round 13 ended with elimination. The winning team is Rex Regum Qeon.
+The current score is T1 9 - 4 Rex Regum Qeon.
+patt killed Sayaplayer  in round 14
+Munchkin killed Lmemore  in round 14
+carpe killed Emman  in round 14
+fl1pzjder killed carpe  in round 14
+EJAY killed ban   in round 14
+Munchkin killed EJAY  in round 14
+Munchkin killed patt  in round 14
+fl1pzjder killed xeta  in round 14
+Munchkin killed fl1pzjder  in round 14
+Round 14 ended with spike_defuse. The winning team is T1.
+The current score is T1 10 - 4 Rex Regum Qeon.
+Munchkin killed fl1pzjder  in round 15
+Munchkin killed Lmemore  in round 15
+ban  killed Emman  in round 15
+ban  killed EJAY  in round 15
+carpe killed patt  in round 15
+Round 15 ended with elimination. The winning team is T1.
+The current score is T1 11 - 4 Rex Regum Qeon.
+EJAY killed xeta  in round 16
+carpe killed Emman  in round 16
+carpe killed EJAY  in round 16
+EJAY killed carpe  in round 16
+Sayaplayer killed Lmemore  in round 16
+ban  killed fl1pzjder  in round 16
+Sayaplayer killed patt  in round 16
+Round 16 ended with elimination. The winning team is T1.
+The current score is T1 12 - 4 Rex Regum Qeon.
+Sayaplayer killed EJAY  in round 17
+Emman killed Sayaplayer  in round 17
+carpe killed fl1pzjder  in round 17
+carpe killed patt  in round 17
+xeta killed Emman  in round 17
+Lmemore killed xeta  in round 17
+Lmemore killed carpe  in round 17
+ban  killed Lmemore  in round 17
+Round 17 ended with elimination. The winning team is T1.
+The current score is T1 13 - 4 Rex Regum Qeon.
+Game ended with winning team: T1 at 2023-04-23T09:45:45Z
+
+--- Player Stats ---
+patt: Team=Rex Regum Qeon, Kills=9, Deaths=15, Assists=3, KDA=0.8, First Kills=2, First Deaths=0
+Lmemore: Team=Rex Regum Qeon, Kills=8, Deaths=13, Assists=4, KDA=0.92, First Kills=1, First Deaths=3
+fl1pzjder: Team=Rex Regum Qeon, Kills=12, Deaths=15, Assists=8, KDA=1.33, First Kills=1, First Deaths=1
+EJAY: Team=Rex Regum Qeon, Kills=10, Deaths=14, Assists=3, KDA=0.93, First Kills=4, First Deaths=3
+Emman: Team=Rex Regum Qeon, Kills=12, Deaths=14, Assists=4, KDA=1.14, First Kills=2, First Deaths=0
+carpe: Team=T1, Kills=17, Deaths=12, Assists=10, KDA=2.25, First Kills=0, First Deaths=1
+Sayaplayer: Team=T1, Kills=14, Deaths=9, Assists=7, KDA=2.33, First Kills=2, First Deaths=2
+xeta: Team=T1, Kills=11, Deaths=11, Assists=10, KDA=1.91, First Kills=1, First Deaths=2
+ban : Team=T1, Kills=11, Deaths=10, Assists=0, KDA=1.1, First Kills=2, First Deaths=4
+Munchkin: Team=T1, Kills=18, Deaths=9, Assists=4, KDA=2.44, First Kills=2, First Deaths=1

@@ -1,0 +1,184 @@
+Team 1: Leviatán Esports
+Team 2: G2 Esports
+Participating Players:
+Player 1: icy
+Player 2: Leaf
+Player 3: valyn
+Player 4: trent
+Player 5: JonahP
+Player 6: aspas
+Player 7: kiNgg
+Player 8: C0M
+Player 9: Mazino
+Player 10: tex
+Winning Team: Leviatán Esports
+Score: Leviatán Esports 13 - 4 G2 Esports
+Tournament Name: vct americas stage 2 2024
+Game Start Time: 2024-07-22T00:36:45Z
+Game End Time: 2024-07-22T01:16:47Z
+Rounds ended by ELIMINATION count: 12
+Rounds ended by DEFUSE count: 4
+Rounds ended by DETONATE count: 0
+SPIKE PLANTED count: 4
+platformGameId: val:42125d7e-9089-4fd4-857c-d9832188f7f7
+
+--- Events ---
+Game started at 2024-07-22T00:36:45Z
+trent killed tex  in round 1
+aspas killed JonahP  in round 1
+kiNgg killed trent  in round 1
+valyn killed Mazino  in round 1
+kiNgg killed icy  in round 1
+valyn killed C0M  in round 1
+kiNgg killed valyn  in round 1
+Leaf killed aspas  in round 1
+Leaf killed kiNgg  in round 1
+Round 1 ended with spike_defuse. The winning team is G2 Esports.
+The current score is Leviatán Esports 0 - 1 G2 Esports.
+valyn killed Mazino  in round 2
+valyn killed aspas  in round 2
+tex killed Leaf  in round 2
+C0M killed trent  in round 2
+tex killed JonahP  in round 2
+valyn killed tex  in round 2
+icy killed kiNgg  in round 2
+C0M killed valyn  in round 2
+icy killed C0M  in round 2
+Round 2 ended with spike_defuse. The winning team is G2 Esports.
+The current score is Leviatán Esports 0 - 2 G2 Esports.
+valyn killed Mazino  in round 3
+kiNgg killed valyn  in round 3
+kiNgg killed trent  in round 3
+kiNgg killed JonahP  in round 3
+Leaf killed C0M  in round 3
+aspas killed Leaf  in round 3
+aspas killed icy  in round 3
+Round 3 ended with elimination. The winning team is Leviatán Esports.
+The current score is Leviatán Esports 1 - 2 G2 Esports.
+aspas killed JonahP  in round 4
+C0M killed icy  in round 4
+kiNgg killed valyn  in round 4
+Mazino killed trent  in round 4
+Leaf killed aspas  in round 4
+C0M killed Leaf  in round 4
+Round 4 ended with elimination. The winning team is Leviatán Esports.
+The current score is Leviatán Esports 2 - 2 G2 Esports.
+Leaf killed tex  in round 5
+Mazino killed Leaf  in round 5
+Mazino killed trent  in round 5
+aspas killed JonahP  in round 5
+kiNgg killed icy  in round 5
+C0M killed valyn  in round 5
+Round 5 ended with elimination. The winning team is Leviatán Esports.
+The current score is Leviatán Esports 3 - 2 G2 Esports.
+valyn killed aspas  in round 6
+JonahP killed C0M  in round 6
+Mazino killed Leaf  in round 6
+trent killed kiNgg  in round 6
+tex killed JonahP  in round 6
+tex killed trent  in round 6
+icy killed Mazino  in round 6
+Round 6 ended with spike_defuse. The winning team is G2 Esports.
+The current score is Leviatán Esports 3 - 3 G2 Esports.
+icy killed tex  in round 7
+JonahP killed C0M  in round 7
+JonahP killed Mazino  in round 7
+Round 7 ended with time_expired. The winning team is G2 Esports.
+The current score is Leviatán Esports 3 - 4 G2 Esports.
+Mazino killed JonahP  in round 8
+aspas killed Leaf  in round 8
+aspas killed trent  in round 8
+valyn killed aspas  in round 8
+tex killed valyn  in round 8
+C0M killed icy  in round 8
+Round 8 ended with elimination. The winning team is Leviatán Esports.
+The current score is Leviatán Esports 4 - 4 G2 Esports.
+valyn killed Mazino  in round 9
+kiNgg killed icy  in round 9
+tex killed JonahP  in round 9
+aspas killed Leaf  in round 9
+trent killed kiNgg  in round 9
+aspas killed valyn  in round 9
+tex killed trent  in round 9
+Round 9 ended with elimination. The winning team is Leviatán Esports.
+The current score is Leviatán Esports 5 - 4 G2 Esports.
+kiNgg killed icy  in round 10
+Mazino killed valyn  in round 10
+aspas killed JonahP  in round 10
+aspas killed Leaf  in round 10
+tex killed trent  in round 10
+Round 10 ended with elimination. The winning team is Leviatán Esports.
+The current score is Leviatán Esports 6 - 4 G2 Esports.
+kiNgg killed Leaf  in round 11
+trent killed C0M  in round 11
+icy killed kiNgg  in round 11
+aspas killed icy  in round 11
+tex killed trent  in round 11
+aspas killed JonahP  in round 11
+aspas killed valyn  in round 11
+Round 11 ended with elimination. The winning team is Leviatán Esports.
+The current score is Leviatán Esports 7 - 4 G2 Esports.
+aspas killed icy  in round 12
+tex killed JonahP  in round 12
+valyn killed aspas  in round 12
+tex killed valyn  in round 12
+kiNgg killed Leaf  in round 12
+C0M killed trent  in round 12
+Round 12 ended with elimination. The winning team is Leviatán Esports.
+The current score is Leviatán Esports 8 - 4 G2 Esports.
+aspas killed Leaf  in round 13
+tex killed icy  in round 13
+valyn killed aspas  in round 13
+JonahP killed tex  in round 13
+JonahP killed Mazino  in round 13
+kiNgg killed JonahP  in round 13
+C0M killed valyn  in round 13
+kiNgg killed trent  in round 13
+Round 13 ended with elimination. The winning team is Leviatán Esports.
+The current score is Leviatán Esports 9 - 4 G2 Esports.
+Mazino killed Leaf  in round 14
+Mazino killed trent  in round 14
+valyn killed C0M  in round 14
+Mazino killed icy  in round 14
+Mazino killed JonahP  in round 14
+valyn killed Mazino  in round 14
+aspas killed valyn  in round 14
+Round 14 ended with elimination. The winning team is Leviatán Esports.
+The current score is Leviatán Esports 10 - 4 G2 Esports.
+aspas killed trent  in round 15
+aspas killed icy  in round 15
+aspas killed JonahP  in round 15
+Mazino killed Leaf  in round 15
+Mazino killed valyn  in round 15
+Round 15 ended with elimination. The winning team is Leviatán Esports.
+The current score is Leviatán Esports 11 - 4 G2 Esports.
+valyn killed Mazino  in round 16
+C0M killed trent  in round 16
+C0M killed JonahP  in round 16
+C0M killed icy  in round 16
+valyn killed C0M  in round 16
+kiNgg killed valyn  in round 16
+aspas killed Leaf  in round 16
+Round 16 ended with spike_defuse. The winning team is Leviatán Esports.
+The current score is Leviatán Esports 12 - 4 G2 Esports.
+aspas killed trent  in round 17
+Mazino killed icy  in round 17
+Mazino killed Leaf  in round 17
+JonahP killed Mazino  in round 17
+tex killed valyn  in round 17
+Mazino killed JonahP  in round 17
+Round 17 ended with elimination. The winning team is Leviatán Esports.
+The current score is Leviatán Esports 13 - 4 G2 Esports.
+Game ended with winning team: Leviatán Esports at 2024-07-22T01:16:47Z
+
+--- Player Stats ---
+icy: Team=G2 Esports, Kills=5, Deaths=14, Assists=4, KDA=0.64, First Kills=1, First Deaths=2
+Leaf: Team=G2 Esports, Kills=5, Deaths=15, Assists=1, KDA=0.4, First Kills=1, First Deaths=3
+valyn: Team=G2 Esports, Kills=15, Deaths=15, Assists=3, KDA=1.2, First Kills=5, First Deaths=0
+trent: Team=G2 Esports, Kills=4, Deaths=16, Assists=6, KDA=0.62, First Kills=1, First Deaths=2
+JonahP: Team=G2 Esports, Kills=6, Deaths=16, Assists=6, KDA=0.75, First Kills=0, First Deaths=2
+aspas: Team=Leviatán Esports, Kills=22, Deaths=7, Assists=1, KDA=3.29, First Kills=5, First Deaths=1
+kiNgg: Team=Leviatán Esports, Kills=15, Deaths=5, Assists=7, KDA=4.4, First Kills=2, First Deaths=0
+C0M: Team=Leviatán Esports, Kills=11, Deaths=8, Assists=6, KDA=2.12, First Kills=0, First Deaths=0
+Mazino: Team=Leviatán Esports, Kills=15, Deaths=10, Assists=3, KDA=1.8, First Kills=2, First Deaths=4
+tex: Team=Leviatán Esports, Kills=13, Deaths=5, Assists=3, KDA=3.2, First Kills=0, First Deaths=3

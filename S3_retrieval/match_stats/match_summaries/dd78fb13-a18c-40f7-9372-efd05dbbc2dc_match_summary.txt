@@ -1,0 +1,273 @@
+Team 1: FunPlus Phoenix
+Team 2: JDG ESPORTS
+Participating Players:
+Player 1: stew
+Player 2: Viva
+Player 3: YHchen
+Player 4: jkuro
+Player 5: Z1Yan
+Player 6: AAAAY
+Player 7: Lysoar
+Player 8: autumn 
+Player 9: BerLIN
+Player 10: Life2
+Winning Team: FunPlus Phoenix
+Score: FunPlus Phoenix 14 - 12 JDG ESPORTS
+Tournament Name: vct cn stage 2 2024
+Game Start Time: 2024-06-26T12:10:15Z
+Game End Time: 2024-06-26T13:10:40Z
+Rounds ended by ELIMINATION count: 16
+Rounds ended by DEFUSE count: 8
+Rounds ended by DETONATE count: 1
+SPIKE PLANTED count: 9
+platformGameId: val:dd78fb13-a18c-40f7-9372-efd05dbbc2dc
+
+--- Events ---
+Game started at 2024-06-26T12:10:15Z
+Lysoar killed stew  in round 1
+YHchen killed autumn   in round 1
+Viva killed Life2  in round 1
+Z1Yan killed Lysoar  in round 1
+Z1Yan killed BerLIN  in round 1
+Z1Yan killed AAAAY  in round 1
+Round 1 ended with elimination. The winning team is JDG ESPORTS.
+The current score is FunPlus Phoenix 0 - 1 JDG ESPORTS.
+jkuro killed BerLIN  in round 2
+Lysoar killed jkuro  in round 2
+Z1Yan killed Life2  in round 2
+Z1Yan killed Lysoar  in round 2
+Viva killed autumn   in round 2
+YHchen killed AAAAY  in round 2
+Round 2 ended with elimination. The winning team is JDG ESPORTS.
+The current score is FunPlus Phoenix 0 - 2 JDG ESPORTS.
+Viva killed Life2  in round 3
+Viva killed BerLIN  in round 3
+Lysoar killed stew  in round 3
+Viva killed AAAAY  in round 3
+autumn  killed Viva  in round 3
+Z1Yan killed Lysoar  in round 3
+autumn  killed Z1Yan  in round 3
+autumn  killed YHchen  in round 3
+autumn  killed jkuro  in round 3
+Round 3 ended with elimination. The winning team is FunPlus Phoenix.
+The current score is FunPlus Phoenix 1 - 2 JDG ESPORTS.
+stew killed Life2  in round 4
+Viva killed BerLIN  in round 4
+Lysoar killed Viva  in round 4
+autumn  killed YHchen  in round 4
+stew killed autumn   in round 4
+stew killed Lysoar  in round 4
+AAAAY killed stew  in round 4
+AAAAY killed jkuro  in round 4
+AAAAY killed Z1Yan  in round 4
+Round 4 ended with elimination. The winning team is FunPlus Phoenix.
+The current score is FunPlus Phoenix 2 - 2 JDG ESPORTS.
+stew killed Lysoar  in round 5
+Life2 killed stew  in round 5
+Life2 killed jkuro  in round 5
+BerLIN killed Viva  in round 5
+BerLIN killed YHchen  in round 5
+BerLIN killed Z1Yan  in round 5
+Round 5 ended with elimination. The winning team is FunPlus Phoenix.
+The current score is FunPlus Phoenix 3 - 2 JDG ESPORTS.
+Z1Yan killed Life2  in round 6
+autumn  killed Viva  in round 6
+YHchen killed BerLIN  in round 6
+autumn  killed Z1Yan  in round 6
+stew killed autumn   in round 6
+AAAAY killed stew  in round 6
+AAAAY killed YHchen  in round 6
+Round 6 ended with spike_defuse. The winning team is JDG ESPORTS.
+The current score is FunPlus Phoenix 3 - 3 JDG ESPORTS.
+AAAAY killed jkuro  in round 7
+Life2 killed jkuro  in round 7
+YHchen killed Life2  in round 7
+AAAAY killed Z1Yan  in round 7
+YHchen killed AAAAY  in round 7
+YHchen killed Lysoar  in round 7
+autumn  killed Viva  in round 7
+autumn  killed stew  in round 7
+YHchen killed BerLIN  in round 7
+autumn  killed YHchen  in round 7
+Round 7 ended with elimination. The winning team is FunPlus Phoenix.
+The current score is FunPlus Phoenix 4 - 3 JDG ESPORTS.
+Life2 killed Viva  in round 8
+Life2 killed stew  in round 8
+Life2 killed Z1Yan  in round 8
+AAAAY killed YHchen  in round 8
+AAAAY killed jkuro  in round 8
+Round 8 ended with elimination. The winning team is FunPlus Phoenix.
+The current score is FunPlus Phoenix 5 - 3 JDG ESPORTS.
+YHchen killed Life2  in round 9
+Lysoar killed Z1Yan  in round 9
+Viva killed autumn   in round 9
+stew killed BerLIN  in round 9
+AAAAY killed Viva  in round 9
+jkuro killed AAAAY  in round 9
+jkuro killed Lysoar  in round 9
+Round 9 ended with elimination. The winning team is JDG ESPORTS.
+The current score is FunPlus Phoenix 5 - 4 JDG ESPORTS.
+YHchen killed BerLIN  in round 10
+autumn  killed Z1Yan  in round 10
+stew killed Lysoar  in round 10
+jkuro killed autumn   in round 10
+YHchen killed Life2  in round 10
+AAAAY killed jkuro  in round 10
+stew killed AAAAY  in round 10
+Round 10 ended with spike_defuse. The winning team is JDG ESPORTS.
+The current score is FunPlus Phoenix 5 - 5 JDG ESPORTS.
+stew killed BerLIN  in round 11
+Life2 killed YHchen  in round 11
+Viva killed Life2  in round 11
+AAAAY killed Viva  in round 11
+stew killed Lysoar  in round 11
+autumn  killed jkuro  in round 11
+Z1Yan killed AAAAY  in round 11
+stew killed autumn   in round 11
+Round 11 ended with spike_defuse. The winning team is JDG ESPORTS.
+The current score is FunPlus Phoenix 5 - 6 JDG ESPORTS.
+jkuro killed Life2  in round 12
+Viva killed autumn   in round 12
+BerLIN killed Z1Yan  in round 12
+jkuro killed AAAAY  in round 12
+Viva killed Lysoar  in round 12
+BerLIN killed jkuro  in round 12
+BerLIN killed Viva  in round 12
+stew killed BerLIN  in round 12
+Round 12 ended with elimination. The winning team is JDG ESPORTS.
+The current score is FunPlus Phoenix 5 - 7 JDG ESPORTS.
+stew killed Lysoar  in round 13
+stew killed autumn   in round 13
+jkuro killed AAAAY  in round 13
+BerLIN killed jkuro  in round 13
+BerLIN killed stew  in round 13
+Viva killed Life2  in round 13
+BerLIN killed YHchen  in round 13
+Viva killed BerLIN  in round 13
+Round 13 ended with elimination. The winning team is JDG ESPORTS.
+The current score is FunPlus Phoenix 5 - 8 JDG ESPORTS.
+YHchen killed Life2  in round 14
+stew killed autumn   in round 14
+stew killed Lysoar  in round 14
+Z1Yan killed AAAAY  in round 14
+Viva killed BerLIN  in round 14
+Round 14 ended with elimination. The winning team is JDG ESPORTS.
+The current score is FunPlus Phoenix 5 - 9 JDG ESPORTS.
+BerLIN killed YHchen  in round 15
+Viva killed Life2  in round 15
+stew killed BerLIN  in round 15
+Lysoar killed jkuro  in round 15
+AAAAY killed Z1Yan  in round 15
+Lysoar killed stew  in round 15
+autumn  killed Viva  in round 15
+Round 15 ended with spike_defuse. The winning team is FunPlus Phoenix.
+The current score is FunPlus Phoenix 6 - 9 JDG ESPORTS.
+Viva killed Life2  in round 16
+Lysoar killed jkuro  in round 16
+YHchen killed Lysoar  in round 16
+AAAAY killed Viva  in round 16
+stew killed autumn   in round 16
+AAAAY killed Z1Yan  in round 16
+AAAAY killed stew  in round 16
+BerLIN killed YHchen  in round 16
+Round 16 ended with elimination. The winning team is FunPlus Phoenix.
+The current score is FunPlus Phoenix 7 - 9 JDG ESPORTS.
+BerLIN killed YHchen  in round 17
+AAAAY killed Z1Yan  in round 17
+Viva killed BerLIN  in round 17
+stew killed Lysoar  in round 17
+autumn  killed jkuro  in round 17
+autumn  killed stew  in round 17
+autumn  killed Viva  in round 17
+Round 17 ended with spike_defuse. The winning team is FunPlus Phoenix.
+The current score is FunPlus Phoenix 8 - 9 JDG ESPORTS.
+Z1Yan killed BerLIN  in round 18
+Life2 killed Viva  in round 18
+Z1Yan killed AAAAY  in round 18
+stew killed Life2  in round 18
+Round 18 ended with detonate. The winning team is JDG ESPORTS.
+The current score is FunPlus Phoenix 8 - 10 JDG ESPORTS.
+Lysoar killed stew  in round 19
+YHchen killed AAAAY  in round 19
+BerLIN killed jkuro  in round 19
+Lysoar killed Z1Yan  in round 19
+YHchen killed autumn   in round 19
+Lysoar killed YHchen  in round 19
+Viva killed BerLIN  in round 19
+Life2 killed Viva  in round 19
+Round 19 ended with spike_defuse. The winning team is FunPlus Phoenix.
+The current score is FunPlus Phoenix 9 - 10 JDG ESPORTS.
+Life2 killed YHchen  in round 20
+BerLIN killed jkuro  in round 20
+autumn  killed Viva  in round 20
+Z1Yan killed AAAAY  in round 20
+Lysoar killed Z1Yan  in round 20
+stew killed BerLIN  in round 20
+Round 20 ended with time_expired. The winning team is FunPlus Phoenix.
+The current score is FunPlus Phoenix 10 - 10 JDG ESPORTS.
+Life2 killed jkuro  in round 21
+Life2 killed stew  in round 21
+Lysoar killed Viva  in round 21
+AAAAY killed YHchen  in round 21
+Lysoar killed Z1Yan  in round 21
+Round 21 ended with elimination. The winning team is FunPlus Phoenix.
+The current score is FunPlus Phoenix 11 - 10 JDG ESPORTS.
+BerLIN killed stew  in round 22
+YHchen killed AAAAY  in round 22
+Life2 killed Viva  in round 22
+BerLIN killed YHchen  in round 22
+Z1Yan killed Life2  in round 22
+BerLIN killed jkuro  in round 22
+Z1Yan killed BerLIN  in round 22
+autumn  killed Z1Yan  in round 22
+Round 22 ended with spike_defuse. The winning team is FunPlus Phoenix.
+The current score is FunPlus Phoenix 12 - 10 JDG ESPORTS.
+stew killed BerLIN  in round 23
+jkuro killed Life2  in round 23
+YHchen killed AAAAY  in round 23
+Viva killed Lysoar  in round 23
+autumn  killed YHchen  in round 23
+Z1Yan killed autumn   in round 23
+Round 23 ended with elimination. The winning team is JDG ESPORTS.
+The current score is FunPlus Phoenix 12 - 11 JDG ESPORTS.
+Life2 killed Z1Yan  in round 24
+Viva killed autumn   in round 24
+AAAAY killed Viva  in round 24
+jkuro killed Lysoar  in round 24
+stew killed AAAAY  in round 24
+BerLIN killed YHchen  in round 24
+BerLIN killed jkuro  in round 24
+stew killed Life2  in round 24
+stew killed BerLIN  in round 24
+Round 24 ended with elimination. The winning team is JDG ESPORTS.
+The current score is FunPlus Phoenix 12 - 12 JDG ESPORTS.
+Life2 killed YHchen  in round 25
+Life2 killed jkuro  in round 25
+Lysoar killed Z1Yan  in round 25
+autumn  killed Viva  in round 25
+Lysoar killed stew  in round 25
+Round 25 ended with elimination. The winning team is FunPlus Phoenix.
+The current score is FunPlus Phoenix 13 - 12 JDG ESPORTS.
+Viva killed BerLIN  in round 26
+AAAAY killed YHchen  in round 26
+AAAAY killed Z1Yan  in round 26
+stew killed AAAAY  in round 26
+Life2 killed Viva  in round 26
+autumn  killed jkuro  in round 26
+stew killed autumn   in round 26
+Life2 killed stew  in round 26
+Round 26 ended with spike_defuse. The winning team is FunPlus Phoenix.
+The current score is FunPlus Phoenix 14 - 12 JDG ESPORTS.
+Game ended with winning team: FunPlus Phoenix at 2024-06-26T13:10:40Z
+
+--- Player Stats ---
+stew: Team=JDG ESPORTS, Kills=27, Deaths=16, Assists=2, KDA=1.81, First Kills=5, First Deaths=3
+Viva: Team=JDG ESPORTS, Kills=20, Deaths=20, Assists=8, KDA=1.4, First Kills=3, First Deaths=1
+YHchen: Team=JDG ESPORTS, Kills=16, Deaths=19, Assists=10, KDA=1.37, First Kills=3, First Deaths=4
+jkuro: Team=JDG ESPORTS, Kills=9, Deaths=21, Assists=4, KDA=0.62, First Kills=2, First Deaths=2
+Z1Yan: Team=JDG ESPORTS, Kills=15, Deaths=19, Assists=11, KDA=1.37, First Kills=2, First Deaths=1
+AAAAY: Team=FunPlus Phoenix, Kills=21, Deaths=17, Assists=9, KDA=1.76, First Kills=1, First Deaths=0
+Lysoar: Team=FunPlus Phoenix, Kills=16, Deaths=16, Assists=13, KDA=1.81, First Kills=2, First Deaths=2
+autumn : Team=FunPlus Phoenix, Kills=21, Deaths=15, Assists=1, KDA=1.47, First Kills=0, First Deaths=0
+BerLIN: Team=FunPlus Phoenix, Kills=19, Deaths=21, Assists=13, KDA=1.52, First Kills=3, First Deaths=6
+Life2: Team=FunPlus Phoenix, Kills=18, Deaths=18, Assists=1, KDA=1.06, First Kills=5, First Deaths=7

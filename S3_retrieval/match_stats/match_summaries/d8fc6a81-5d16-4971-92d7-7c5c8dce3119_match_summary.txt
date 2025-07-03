@@ -1,0 +1,182 @@
+Team 1: Giants
+Team 2: BBL Esports
+Participating Players:
+Player 1: Brave
+Player 2: QutionerX
+Player 3: SouhcNi
+Player 4: Turko
+Player 5: AsLanMshadW
+Player 6: hoody
+Player 7: Cloud
+Player 8: rhyme
+Player 9: nukkye
+Player 10: Fit1nho
+Winning Team: Giants
+Score: Giants 13 - 3 BBL Esports
+Tournament Name: vct emea 2023
+Game Start Time: 2023-04-14T18:03:04Z
+Game End Time: 2023-04-14T18:40:13Z
+Rounds ended by ELIMINATION count: 14
+Rounds ended by DEFUSE count: 2
+Rounds ended by DETONATE count: 0
+SPIKE PLANTED count: 2
+platformGameId: val:d8fc6a81-5d16-4971-92d7-7c5c8dce3119
+
+--- Events ---
+Game started at 2023-04-14T18:03:04Z
+Turko killed Cloud  in round 1
+AsLanMshadW killed nukkye  in round 1
+AsLanMshadW killed rhyme  in round 1
+Brave killed Fit1nho  in round 1
+hoody killed AsLanMshadW  in round 1
+Turko killed hoody  in round 1
+Round 1 ended with elimination. The winning team is BBL Esports.
+The current score is Giants 0 - 1 BBL Esports.
+QutionerX killed rhyme  in round 2
+QutionerX killed Fit1nho  in round 2
+Brave killed nukkye  in round 2
+hoody killed Brave  in round 2
+QutionerX killed hoody  in round 2
+Cloud killed QutionerX  in round 2
+Turko killed Cloud  in round 2
+Round 2 ended with elimination. The winning team is BBL Esports.
+The current score is Giants 0 - 2 BBL Esports.
+nukkye killed AsLanMshadW  in round 3
+hoody killed Brave  in round 3
+rhyme killed SouhcNi  in round 3
+QutionerX killed Cloud  in round 3
+QutionerX killed hoody  in round 3
+Fit1nho killed QutionerX  in round 3
+nukkye killed Turko  in round 3
+Round 3 ended with elimination. The winning team is Giants.
+The current score is Giants 1 - 2 BBL Esports.
+Cloud killed AsLanMshadW  in round 4
+nukkye killed Brave  in round 4
+Cloud killed Turko  in round 4
+rhyme killed QutionerX  in round 4
+rhyme killed SouhcNi  in round 4
+Round 4 ended with elimination. The winning team is Giants.
+The current score is Giants 2 - 2 BBL Esports.
+hoody killed Brave  in round 5
+Cloud killed QutionerX  in round 5
+rhyme killed AsLanMshadW  in round 5
+rhyme killed Turko  in round 5
+nukkye killed SouhcNi  in round 5
+Round 5 ended with elimination. The winning team is Giants.
+The current score is Giants 3 - 2 BBL Esports.
+nukkye killed SouhcNi  in round 6
+QutionerX killed nukkye  in round 6
+rhyme killed Turko  in round 6
+hoody killed QutionerX  in round 6
+hoody killed Turko  in round 6
+rhyme killed AsLanMshadW  in round 6
+Brave killed rhyme  in round 6
+Cloud killed Brave  in round 6
+Round 6 ended with elimination. The winning team is Giants.
+The current score is Giants 4 - 2 BBL Esports.
+Cloud killed AsLanMshadW  in round 7
+Brave killed Fit1nho  in round 7
+rhyme killed Brave  in round 7
+rhyme killed SouhcNi  in round 7
+hoody killed Turko  in round 7
+QutionerX killed hoody  in round 7
+Cloud killed QutionerX  in round 7
+Round 7 ended with elimination. The winning team is Giants.
+The current score is Giants 5 - 2 BBL Esports.
+nukkye killed AsLanMshadW  in round 8
+SouhcNi killed Cloud  in round 8
+Fit1nho killed SouhcNi  in round 8
+Brave killed nukkye  in round 8
+rhyme killed QutionerX  in round 8
+rhyme killed Turko  in round 8
+rhyme killed Brave  in round 8
+Round 8 ended with elimination. The winning team is Giants.
+The current score is Giants 6 - 2 BBL Esports.
+Brave killed rhyme  in round 9
+Cloud killed Brave  in round 9
+Turko killed hoody  in round 9
+nukkye killed SouhcNi  in round 9
+Cloud killed AsLanMshadW  in round 9
+Fit1nho killed QutionerX  in round 9
+Cloud killed Turko  in round 9
+Round 9 ended with elimination. The winning team is Giants.
+The current score is Giants 7 - 2 BBL Esports.
+nukkye killed QutionerX  in round 10
+Brave killed nukkye  in round 10
+Brave killed rhyme  in round 10
+Brave killed hoody  in round 10
+Cloud killed AsLanMshadW  in round 10
+Fit1nho killed Turko  in round 10
+Brave killed Cloud  in round 10
+Fit1nho killed Brave  in round 10
+SouhcNi killed Fit1nho  in round 10
+Round 10 ended with spike_defuse. The winning team is BBL Esports.
+The current score is Giants 7 - 3 BBL Esports.
+Fit1nho killed AsLanMshadW  in round 11
+Turko killed Fit1nho  in round 11
+hoody killed Turko  in round 11
+SouhcNi killed hoody  in round 11
+nukkye killed SouhcNi  in round 11
+QutionerX killed nukkye  in round 11
+Cloud killed QutionerX  in round 11
+AsLanMshadW killed Cloud  in round 11
+rhyme killed Brave  in round 11
+rhyme killed AsLanMshadW  in round 11
+Round 11 ended with elimination. The winning team is Giants.
+The current score is Giants 8 - 3 BBL Esports.
+Fit1nho killed Turko  in round 12
+SouhcNi killed Fit1nho  in round 12
+rhyme killed AsLanMshadW  in round 12
+Cloud killed SouhcNi  in round 12
+nukkye killed QutionerX  in round 12
+nukkye killed Brave  in round 12
+Round 12 ended with elimination. The winning team is Giants.
+The current score is Giants 9 - 3 BBL Esports.
+rhyme killed AsLanMshadW  in round 13
+Brave killed rhyme  in round 13
+QutionerX killed hoody  in round 13
+Cloud killed QutionerX  in round 13
+Cloud killed Brave  in round 13
+Cloud killed Turko  in round 13
+Cloud killed SouhcNi  in round 13
+Round 13 ended with spike_defuse. The winning team is Giants.
+The current score is Giants 10 - 3 BBL Esports.
+AsLanMshadW killed hoody  in round 14
+nukkye killed AsLanMshadW  in round 14
+nukkye killed QutionerX  in round 14
+rhyme killed Brave  in round 14
+SouhcNi killed rhyme  in round 14
+Fit1nho killed Turko  in round 14
+SouhcNi killed Fit1nho  in round 14
+nukkye killed SouhcNi  in round 14
+Round 14 ended with elimination. The winning team is Giants.
+The current score is Giants 11 - 3 BBL Esports.
+hoody killed AsLanMshadW  in round 15
+hoody killed QutionerX  in round 15
+hoody killed Turko  in round 15
+SouhcNi killed hoody  in round 15
+nukkye killed Brave  in round 15
+nukkye killed SouhcNi  in round 15
+Round 15 ended with elimination. The winning team is Giants.
+The current score is Giants 12 - 3 BBL Esports.
+Fit1nho killed SouhcNi  in round 16
+rhyme killed Brave  in round 16
+nukkye killed AsLanMshadW  in round 16
+Cloud killed Turko  in round 16
+QutionerX killed Cloud  in round 16
+hoody killed QutionerX  in round 16
+Round 16 ended with elimination. The winning team is Giants.
+The current score is Giants 13 - 3 BBL Esports.
+Game ended with winning team: Giants at 2023-04-14T18:40:13Z
+
+--- Player Stats ---
+Brave: Team=BBL Esports, Kills=11, Deaths=15, Assists=6, KDA=1.13, First Kills=1, First Deaths=1
+QutionerX: Team=BBL Esports, Kills=10, Deaths=15, Assists=2, KDA=0.8, First Kills=1, First Deaths=1
+SouhcNi: Team=BBL Esports, Kills=7, Deaths=13, Assists=1, KDA=0.62, First Kills=0, First Deaths=2
+Turko: Team=BBL Esports, Kills=5, Deaths=15, Assists=6, KDA=0.73, First Kills=1, First Deaths=1
+AsLanMshadW: Team=BBL Esports, Kills=4, Deaths=16, Assists=5, KDA=0.56, First Kills=1, First Deaths=7
+hoody: Team=Giants, Kills=12, Deaths=10, Assists=2, KDA=1.4, First Kills=2, First Deaths=1
+Cloud: Team=Giants, Kills=18, Deaths=7, Assists=6, KDA=3.43, First Kills=2, First Deaths=1
+rhyme: Team=Giants, Kills=18, Deaths=7, Assists=3, KDA=3.0, First Kills=1, First Deaths=2
+nukkye: Team=Giants, Kills=17, Deaths=6, Assists=5, KDA=3.67, First Kills=4, First Deaths=0
+Fit1nho: Team=Giants, Kills=9, Deaths=7, Assists=8, KDA=2.43, First Kills=3, First Deaths=0

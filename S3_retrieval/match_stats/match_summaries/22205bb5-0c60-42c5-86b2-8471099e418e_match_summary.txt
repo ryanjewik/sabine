@@ -1,0 +1,163 @@
+Team 1: Futbolist
+Team 2: 100 Thieves
+Participating Players:
+Player 1: eeiu
+Player 2: bangNA
+Player 3: Boostio
+Player 4: Cryo
+Player 5: Asuna
+Player 6: qRaxs
+Player 7: yetujey
+Player 8: MrFaliN
+Player 9: cNed
+Player 10: ATA KAPTAN
+Winning Team: 100 Thieves
+Score: Futbolist 2 - 13 100 Thieves
+Tournament Name: vct masters shanghai 2024
+Game Start Time: 2024-05-30T07:51:54Z
+Game End Time: 2024-05-30T08:36:56Z
+Rounds ended by ELIMINATION count: 11
+Rounds ended by DEFUSE count: 1
+Rounds ended by DETONATE count: 1
+SPIKE PLANTED count: 2
+platformGameId: val:22205bb5-0c60-42c5-86b2-8471099e418e
+
+--- Events ---
+Game started at 2024-05-30T07:51:54Z
+Boostio killed ATA KAPTAN  in round 1
+cNed killed Boostio  in round 1
+Cryo killed cNed  in round 1
+bangNA killed qRaxs  in round 1
+MrFaliN killed Cryo  in round 1
+eeiu killed MrFaliN  in round 1
+Round 1 ended with time_expired. The winning team is 100 Thieves.
+The current score is Futbolist 0 - 1 100 Thieves.
+Asuna killed cNed  in round 2
+Asuna killed qRaxs  in round 2
+Asuna killed yetujey  in round 2
+ATA KAPTAN killed Cryo  in round 2
+MrFaliN killed eeiu  in round 2
+Asuna killed ATA KAPTAN  in round 2
+bangNA killed MrFaliN  in round 2
+Round 2 ended with elimination. The winning team is 100 Thieves.
+The current score is Futbolist 0 - 2 100 Thieves.
+Boostio killed yetujey  in round 3
+Cryo killed cNed  in round 3
+Cryo killed MrFaliN  in round 3
+Asuna killed qRaxs  in round 3
+ATA KAPTAN killed Cryo  in round 3
+ATA KAPTAN killed Asuna  in round 3
+Boostio killed ATA KAPTAN  in round 3
+Round 3 ended with elimination. The winning team is 100 Thieves.
+The current score is Futbolist 0 - 3 100 Thieves.
+Cryo killed MrFaliN  in round 4
+bangNA killed qRaxs  in round 4
+Boostio killed ATA KAPTAN  in round 4
+bangNA killed cNed  in round 4
+eeiu killed yetujey  in round 4
+Round 4 ended with elimination. The winning team is 100 Thieves.
+The current score is Futbolist 0 - 4 100 Thieves.
+bangNA killed cNed  in round 5
+Cryo killed MrFaliN  in round 5
+Boostio killed yetujey  in round 5
+bangNA killed ATA KAPTAN  in round 5
+qRaxs killed bangNA  in round 5
+Cryo killed qRaxs  in round 5
+Round 5 ended with elimination. The winning team is 100 Thieves.
+The current score is Futbolist 0 - 5 100 Thieves.
+Cryo killed yetujey  in round 6
+Cryo killed MrFaliN  in round 6
+ATA KAPTAN killed Cryo  in round 6
+Asuna killed cNed  in round 6
+eeiu killed qRaxs  in round 6
+eeiu killed ATA KAPTAN  in round 6
+Round 6 ended with elimination. The winning team is 100 Thieves.
+The current score is Futbolist 0 - 6 100 Thieves.
+cNed killed Cryo  in round 7
+eeiu killed ATA KAPTAN  in round 7
+bangNA killed yetujey  in round 7
+qRaxs killed Boostio  in round 7
+bangNA killed MrFaliN  in round 7
+bangNA killed qRaxs  in round 7
+Round 7 ended with time_expired. The winning team is 100 Thieves.
+The current score is Futbolist 0 - 7 100 Thieves.
+bangNA killed yetujey  in round 8
+Asuna killed ATA KAPTAN  in round 8
+Cryo killed cNed  in round 8
+eeiu killed qRaxs  in round 8
+eeiu killed MrFaliN  in round 8
+Round 8 ended with elimination. The winning team is 100 Thieves.
+The current score is Futbolist 0 - 8 100 Thieves.
+cNed killed Cryo  in round 9
+Asuna killed cNed  in round 9
+ATA KAPTAN killed Asuna  in round 9
+yetujey killed Boostio  in round 9
+eeiu killed ATA KAPTAN  in round 9
+bangNA killed qRaxs  in round 9
+MrFaliN killed bangNA  in round 9
+Round 9 ended with detonate. The winning team is Futbolist.
+The current score is Futbolist 1 - 8 100 Thieves.
+cNed killed bangNA  in round 10
+cNed killed Boostio  in round 10
+eeiu killed qRaxs  in round 10
+eeiu killed ATA KAPTAN  in round 10
+cNed killed eeiu  in round 10
+Cryo killed MrFaliN  in round 10
+Cryo killed cNed  in round 10
+Round 10 ended with spike_defuse. The winning team is 100 Thieves.
+The current score is Futbolist 1 - 9 100 Thieves.
+yetujey killed Cryo  in round 11
+bangNA killed MrFaliN  in round 11
+bangNA killed qRaxs  in round 11
+cNed killed bangNA  in round 11
+Boostio killed ATA KAPTAN  in round 11
+eeiu killed yetujey  in round 11
+Asuna killed cNed  in round 11
+Round 11 ended with elimination. The winning team is 100 Thieves.
+The current score is Futbolist 1 - 10 100 Thieves.
+eeiu killed cNed  in round 12
+eeiu killed ATA KAPTAN  in round 12
+Cryo killed yetujey  in round 12
+eeiu killed qRaxs  in round 12
+bangNA killed MrFaliN  in round 12
+Round 12 ended with elimination. The winning team is 100 Thieves.
+The current score is Futbolist 1 - 11 100 Thieves.
+cNed killed Boostio  in round 13
+cNed killed bangNA  in round 13
+qRaxs killed Asuna  in round 13
+ATA KAPTAN killed eeiu  in round 13
+ATA KAPTAN killed Cryo  in round 13
+Round 13 ended with elimination. The winning team is Futbolist.
+The current score is Futbolist 2 - 11 100 Thieves.
+ATA KAPTAN killed Asuna  in round 14
+Boostio killed cNed  in round 14
+ATA KAPTAN killed bangNA  in round 14
+Boostio killed ATA KAPTAN  in round 14
+MrFaliN killed Boostio  in round 14
+Cryo killed MrFaliN  in round 14
+Cryo killed qRaxs  in round 14
+yetujey killed eeiu  in round 14
+yetujey killed Cryo  in round 14
+yetujey killed yetujey  in round 14
+Round 14 ended with elimination. The winning team is 100 Thieves.
+The current score is Futbolist 2 - 12 100 Thieves.
+Boostio killed yetujey  in round 15
+bangNA killed cNed  in round 15
+eeiu killed qRaxs  in round 15
+Boostio killed ATA KAPTAN  in round 15
+eeiu killed MrFaliN  in round 15
+Round 15 ended with elimination. The winning team is 100 Thieves.
+The current score is Futbolist 2 - 13 100 Thieves.
+Game ended with winning team: 100 Thieves at 2024-05-30T08:36:56Z
+
+--- Player Stats ---
+eeiu: Team=100 Thieves, Kills=16, Deaths=4, Assists=5, KDA=5.25, First Kills=1, First Deaths=0
+bangNA: Team=100 Thieves, Kills=15, Deaths=6, Assists=4, KDA=3.17, First Kills=2, First Deaths=1
+Boostio: Team=100 Thieves, Kills=10, Deaths=6, Assists=0, KDA=1.67, First Kills=3, First Deaths=1
+Cryo: Team=100 Thieves, Kills=14, Deaths=9, Assists=2, KDA=1.78, First Kills=2, First Deaths=3
+Asuna: Team=100 Thieves, Kills=9, Deaths=4, Assists=5, KDA=3.5, First Kills=1, First Deaths=1
+qRaxs: Team=Futbolist, Kills=3, Deaths=14, Assists=6, KDA=0.64, First Kills=0, First Deaths=0
+yetujey: Team=Futbolist, Kills=5, Deaths=11, Assists=0, KDA=0.45, First Kills=1, First Deaths=4
+MrFaliN: Team=Futbolist, Kills=4, Deaths=13, Assists=1, KDA=0.38, First Kills=0, First Deaths=1
+cNed: Team=Futbolist, Kills=9, Deaths=13, Assists=1, KDA=0.77, First Kills=4, First Deaths=3
+ATA KAPTAN: Team=Futbolist, Kills=9, Deaths=14, Assists=4, KDA=0.93, First Kills=1, First Deaths=1

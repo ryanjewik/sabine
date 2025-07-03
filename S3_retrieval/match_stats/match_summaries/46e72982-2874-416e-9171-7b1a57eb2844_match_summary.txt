@@ -1,0 +1,241 @@
+Team 1: Leviatán Esports
+Team 2: NAVI
+Participating Players:
+Player 1: Zyppan
+Player 2: cNed
+Player 3: ANGE1
+Player 4: Shao
+Player 5: suygetsu
+Player 6: Mazino
+Player 7: Nozwerr
+Player 8: kiNgg
+Player 9: Shyy
+Player 10: Tacolilla
+Winning Team: NAVI
+Score: Leviatán Esports 10 - 13 NAVI
+Tournament Name: lock in brazil 2023
+Game Start Time: 2023-02-27T16:55:38Z
+Game End Time: 2023-02-27T17:58:11Z
+Rounds ended by ELIMINATION count: 15
+Rounds ended by DEFUSE count: 4
+Rounds ended by DETONATE count: 2
+SPIKE PLANTED count: 6
+platformGameId: val:46e72982-2874-416e-9171-7b1a57eb2844
+
+--- Events ---
+Game started at 2023-02-27T16:55:38Z
+suygetsu killed Mazino  in round 1
+cNed killed Tacolilla  in round 1
+cNed killed kiNgg  in round 1
+Zyppan killed Shyy  in round 1
+Nozwerr killed Zyppan  in round 1
+Shao killed Nozwerr  in round 1
+Round 1 ended with elimination. The winning team is NAVI.
+The current score is Leviatán Esports 0 - 1 NAVI.
+suygetsu killed Tacolilla  in round 2
+Shao killed Mazino  in round 2
+Shao killed Shyy  in round 2
+ANGE1 killed Nozwerr  in round 2
+Zyppan killed kiNgg  in round 2
+Round 2 ended with elimination. The winning team is NAVI.
+The current score is Leviatán Esports 0 - 2 NAVI.
+Tacolilla killed Zyppan  in round 3
+kiNgg killed cNed  in round 3
+kiNgg killed suygetsu  in round 3
+Shyy killed Shao  in round 3
+ANGE1 killed kiNgg  in round 3
+ANGE1 killed Shyy  in round 3
+Mazino killed ANGE1  in round 3
+Round 3 ended with elimination. The winning team is Leviatán Esports.
+The current score is Leviatán Esports 1 - 2 NAVI.
+cNed killed kiNgg  in round 4
+ANGE1 killed Tacolilla  in round 4
+ANGE1 killed Nozwerr  in round 4
+Mazino killed Zyppan  in round 4
+Round 4 ended with time_expired. The winning team is NAVI.
+The current score is Leviatán Esports 1 - 3 NAVI.
+Tacolilla killed ANGE1  in round 5
+Zyppan killed Mazino  in round 5
+Nozwerr killed Zyppan  in round 5
+kiNgg killed cNed  in round 5
+Shao killed kiNgg  in round 5
+Tacolilla killed Shao  in round 5
+Shyy killed suygetsu  in round 5
+Round 5 ended with elimination. The winning team is Leviatán Esports.
+The current score is Leviatán Esports 2 - 3 NAVI.
+Shyy killed cNed  in round 6
+Shyy killed Zyppan  in round 6
+Shao killed Tacolilla  in round 6
+Mazino killed suygetsu  in round 6
+Shyy killed ANGE1  in round 6
+Shao killed kiNgg  in round 6
+Shyy killed Shao  in round 6
+Round 6 ended with elimination. The winning team is Leviatán Esports.
+The current score is Leviatán Esports 3 - 3 NAVI.
+kiNgg killed ANGE1  in round 7
+cNed killed kiNgg  in round 7
+Nozwerr killed cNed  in round 7
+Shao killed Nozwerr  in round 7
+Tacolilla killed Shao  in round 7
+Mazino killed Zyppan  in round 7
+Mazino killed suygetsu  in round 7
+Round 7 ended with elimination. The winning team is Leviatán Esports.
+The current score is Leviatán Esports 4 - 3 NAVI.
+Tacolilla killed ANGE1  in round 8
+kiNgg killed Zyppan  in round 8
+suygetsu killed Mazino  in round 8
+suygetsu killed kiNgg  in round 8
+Nozwerr killed suygetsu  in round 8
+Shao killed Nozwerr  in round 8
+Shyy killed cNed  in round 8
+Tacolilla killed Shao  in round 8
+Round 8 ended with elimination. The winning team is Leviatán Esports.
+The current score is Leviatán Esports 5 - 3 NAVI.
+suygetsu killed kiNgg  in round 9
+Shyy killed suygetsu  in round 9
+cNed killed Shyy  in round 9
+Nozwerr killed cNed  in round 9
+Mazino killed ANGE1  in round 9
+Shao killed Tacolilla  in round 9
+Nozwerr killed Shao  in round 9
+Mazino killed Zyppan  in round 9
+Round 9 ended with elimination. The winning team is Leviatán Esports.
+The current score is Leviatán Esports 6 - 3 NAVI.
+cNed killed Tacolilla  in round 10
+kiNgg killed ANGE1  in round 10
+Zyppan killed kiNgg  in round 10
+Shyy killed suygetsu  in round 10
+Shao killed Mazino  in round 10
+Shyy killed Shao  in round 10
+Zyppan killed Shyy  in round 10
+Nozwerr killed Zyppan  in round 10
+cNed killed Nozwerr  in round 10
+Round 10 ended with spike_defuse. The winning team is NAVI.
+The current score is Leviatán Esports 6 - 4 NAVI.
+kiNgg killed ANGE1  in round 11
+Zyppan killed Mazino  in round 11
+cNed killed Tacolilla  in round 11
+ANGE1 killed kiNgg  in round 11
+Zyppan killed Shyy  in round 11
+Nozwerr killed Zyppan  in round 11
+cNed killed Nozwerr  in round 11
+Round 11 ended with spike_defuse. The winning team is NAVI.
+The current score is Leviatán Esports 6 - 5 NAVI.
+Shyy killed cNed  in round 12
+kiNgg killed ANGE1  in round 12
+Shao killed Shyy  in round 12
+Shao killed Nozwerr  in round 12
+Shao killed Mazino  in round 12
+Tacolilla killed suygetsu  in round 12
+Tacolilla killed Zyppan  in round 12
+Shao killed kiNgg  in round 12
+Shao killed Tacolilla  in round 12
+Round 12 ended with spike_defuse. The winning team is NAVI.
+The current score is Leviatán Esports 6 - 6 NAVI.
+Shao killed Tacolilla  in round 13
+Shyy killed cNed  in round 13
+ANGE1 killed Shyy  in round 13
+suygetsu killed Mazino  in round 13
+kiNgg killed suygetsu  in round 13
+Zyppan killed kiNgg  in round 13
+Nozwerr killed Shao  in round 13
+ANGE1 killed Nozwerr  in round 13
+Round 13 ended with elimination. The winning team is NAVI.
+The current score is Leviatán Esports 6 - 7 NAVI.
+Zyppan killed Shyy  in round 14
+Tacolilla killed cNed  in round 14
+ANGE1 killed Tacolilla  in round 14
+ANGE1 killed Mazino  in round 14
+suygetsu killed Nozwerr  in round 14
+ANGE1 killed kiNgg  in round 14
+Round 14 ended with elimination. The winning team is NAVI.
+The current score is Leviatán Esports 6 - 8 NAVI.
+Shao killed kiNgg  in round 15
+ANGE1 killed Tacolilla  in round 15
+ANGE1 killed Mazino  in round 15
+cNed killed Shyy  in round 15
+cNed killed Nozwerr  in round 15
+Round 15 ended with elimination. The winning team is NAVI.
+The current score is Leviatán Esports 6 - 9 NAVI.
+ANGE1 killed Tacolilla  in round 16
+Shao killed Nozwerr  in round 16
+ANGE1 killed kiNgg  in round 16
+Shyy killed cNed  in round 16
+Round 16 ended with detonate. The winning team is NAVI.
+The current score is Leviatán Esports 6 - 10 NAVI.
+Mazino killed Mazino  in round 17
+Shao killed Shyy  in round 17
+kiNgg killed cNed  in round 17
+suygetsu killed kiNgg  in round 17
+Tacolilla killed Zyppan  in round 17
+suygetsu killed Mazino  in round 17
+Tacolilla killed suygetsu  in round 17
+Tacolilla killed Shao  in round 17
+ANGE1 killed Tacolilla  in round 17
+Nozwerr killed ANGE1  in round 17
+Round 17 ended with elimination. The winning team is Leviatán Esports.
+The current score is Leviatán Esports 7 - 10 NAVI.
+suygetsu killed Mazino  in round 18
+Tacolilla killed Zyppan  in round 18
+cNed killed kiNgg  in round 18
+ANGE1 killed Tacolilla  in round 18
+Round 18 ended with detonate. The winning team is NAVI.
+The current score is Leviatán Esports 7 - 11 NAVI.
+Shyy killed cNed  in round 19
+ANGE1 killed Mazino  in round 19
+Tacolilla killed Shao  in round 19
+Tacolilla killed ANGE1  in round 19
+suygetsu killed Nozwerr  in round 19
+kiNgg killed Zyppan  in round 19
+Tacolilla killed suygetsu  in round 19
+Round 19 ended with spike_defuse. The winning team is Leviatán Esports.
+The current score is Leviatán Esports 8 - 11 NAVI.
+Zyppan killed Tacolilla  in round 20
+kiNgg killed ANGE1  in round 20
+suygetsu killed kiNgg  in round 20
+Shyy killed cNed  in round 20
+suygetsu killed Shyy  in round 20
+suygetsu killed Mazino  in round 20
+suygetsu killed Nozwerr  in round 20
+Round 20 ended with elimination. The winning team is NAVI.
+The current score is Leviatán Esports 8 - 12 NAVI.
+Tacolilla killed suygetsu  in round 21
+kiNgg killed cNed  in round 21
+Mazino killed ANGE1  in round 21
+ANGE1 killed kiNgg  in round 21
+Shao killed Tacolilla  in round 21
+Shao killed Mazino  in round 21
+Round 21 ended with time_expired. The winning team is Leviatán Esports.
+The current score is Leviatán Esports 9 - 12 NAVI.
+Shyy killed ANGE1  in round 22
+Tacolilla killed Zyppan  in round 22
+cNed killed Tacolilla  in round 22
+cNed killed Nozwerr  in round 22
+Shyy killed cNed  in round 22
+Mazino killed Shao  in round 22
+kiNgg killed suygetsu  in round 22
+Round 22 ended with elimination. The winning team is Leviatán Esports.
+The current score is Leviatán Esports 10 - 12 NAVI.
+Mazino killed ANGE1  in round 23
+Mazino killed Zyppan  in round 23
+cNed killed kiNgg  in round 23
+Shao killed Mazino  in round 23
+cNed killed Shyy  in round 23
+cNed killed Nozwerr  in round 23
+Tacolilla killed cNed  in round 23
+Shao killed Tacolilla  in round 23
+Round 23 ended with elimination. The winning team is NAVI.
+The current score is Leviatán Esports 10 - 13 NAVI.
+Game ended with winning team: NAVI at 2023-02-27T17:58:11Z
+
+--- Player Stats ---
+Zyppan: Team=NAVI, Kills=10, Deaths=16, Assists=11, KDA=1.31, First Kills=2, First Deaths=1
+cNed: Team=NAVI, Kills=17, Deaths=16, Assists=2, KDA=1.19, First Kills=2, First Deaths=3
+ANGE1: Team=NAVI, Kills=19, Deaths=15, Assists=4, KDA=1.53, First Kills=1, First Deaths=6
+Shao: Team=NAVI, Kills=23, Deaths=11, Assists=12, KDA=3.18, First Kills=2, First Deaths=0
+suygetsu: Team=NAVI, Kills=15, Deaths=13, Assists=8, KDA=1.77, First Kills=4, First Deaths=1
+Mazino: Team=Leviatán Esports, Kills=12, Deaths=17, Assists=6, KDA=1.06, First Kills=2, First Deaths=3
+Nozwerr: Team=Leviatán Esports, Kills=10, Deaths=16, Assists=6, KDA=1.0, First Kills=0, First Deaths=0
+kiNgg: Team=Leviatán Esports, Kills=14, Deaths=21, Assists=10, KDA=1.14, First Kills=2, First Deaths=3
+Shyy: Team=Leviatán Esports, Kills=17, Deaths=13, Assists=5, KDA=1.69, First Kills=4, First Deaths=1
+Tacolilla: Team=Leviatán Esports, Kills=19, Deaths=18, Assists=2, KDA=1.17, First Kills=4, First Deaths=5

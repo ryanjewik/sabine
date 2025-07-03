@@ -1,0 +1,250 @@
+Team 1: T1
+Team 2: Team Secret
+Participating Players:
+Player 1: 2GE
+Player 2: Jremy
+Player 3: JessieVash
+Player 4: invy
+Player 5: Wild0reoo
+Player 6: stax
+Player 7: Rossy
+Player 8: Xccurate
+Player 9: iZu
+Player 10: Sayaplayer
+Winning Team: T1
+Score: T1 13 - 10 Team Secret
+Tournament Name: vct pacific stage 2 2024
+Game Start Time: 2024-06-24T10:24:48Z
+Game End Time: 2024-06-24T11:17:21Z
+Rounds ended by ELIMINATION count: 17
+Rounds ended by DEFUSE count: 6
+Rounds ended by DETONATE count: 0
+SPIKE PLANTED count: 6
+platformGameId: val:ec12989a-d694-4aab-a709-6a18035e7bcc
+
+--- Events ---
+Game started at 2024-06-24T10:24:48Z
+Sayaplayer killed Jremy  in round 1
+JessieVash killed Xccurate  in round 1
+iZu killed JessieVash  in round 1
+invy killed Sayaplayer  in round 1
+2GE killed stax  in round 1
+2GE killed iZu  in round 1
+Wild0reoo killed Rossy  in round 1
+Round 1 ended with elimination. The winning team is Team Secret.
+The current score is T1 0 - 1 Team Secret.
+invy killed Sayaplayer  in round 2
+Jremy killed Rossy  in round 2
+Jremy killed Xccurate  in round 2
+Jremy killed stax  in round 2
+iZu killed Jremy  in round 2
+Wild0reoo killed iZu  in round 2
+Round 2 ended with spike_defuse. The winning team is Team Secret.
+The current score is T1 0 - 2 Team Secret.
+Xccurate killed Jremy  in round 3
+Wild0reoo killed Xccurate  in round 3
+iZu killed Wild0reoo  in round 3
+iZu killed 2GE  in round 3
+Sayaplayer killed invy  in round 3
+JessieVash killed iZu  in round 3
+Sayaplayer killed JessieVash  in round 3
+Round 3 ended with elimination. The winning team is T1.
+The current score is T1 1 - 2 Team Secret.
+Sayaplayer killed Jremy  in round 4
+JessieVash killed iZu  in round 4
+invy killed Rossy  in round 4
+invy killed stax  in round 4
+invy killed Sayaplayer  in round 4
+Xccurate killed 2GE  in round 4
+Wild0reoo killed Xccurate  in round 4
+Round 4 ended with elimination. The winning team is Team Secret.
+The current score is T1 1 - 3 Team Secret.
+Wild0reoo killed Sayaplayer  in round 5
+2GE killed iZu  in round 5
+Xccurate killed invy  in round 5
+Wild0reoo killed stax  in round 5
+Jremy killed Rossy  in round 5
+Xccurate killed Jremy  in round 5
+2GE killed Xccurate  in round 5
+Round 5 ended with spike_defuse. The winning team is Team Secret.
+The current score is T1 1 - 4 Team Secret.
+Jremy killed stax  in round 6
+invy killed Rossy  in round 6
+iZu killed Wild0reoo  in round 6
+invy killed Sayaplayer  in round 6
+iZu killed 2GE  in round 6
+Xccurate killed JessieVash  in round 6
+iZu killed Jremy  in round 6
+invy killed iZu  in round 6
+Xccurate killed invy  in round 6
+Round 6 ended with elimination. The winning team is T1.
+The current score is T1 2 - 4 Team Secret.
+Wild0reoo killed Sayaplayer  in round 7
+Xccurate killed 2GE  in round 7
+Xccurate killed invy  in round 7
+Jremy killed Xccurate  in round 7
+iZu killed Jremy  in round 7
+Rossy killed Wild0reoo  in round 7
+Rossy killed JessieVash  in round 7
+Round 7 ended with elimination. The winning team is T1.
+The current score is T1 3 - 4 Team Secret.
+2GE killed stax  in round 8
+iZu killed 2GE  in round 8
+invy killed Xccurate  in round 8
+Sayaplayer killed invy  in round 8
+Jremy killed iZu  in round 8
+Rossy killed Jremy  in round 8
+Wild0reoo killed Sayaplayer  in round 8
+Rossy killed Wild0reoo  in round 8
+JessieVash killed Rossy  in round 8
+Round 8 ended with spike_defuse. The winning team is Team Secret.
+The current score is T1 3 - 5 Team Secret.
+Jremy killed Sayaplayer  in round 9
+iZu killed 2GE  in round 9
+Jremy killed iZu  in round 9
+Xccurate killed JessieVash  in round 9
+invy killed Xccurate  in round 9
+Round 9 ended with spike_defuse. The winning team is Team Secret.
+The current score is T1 3 - 6 Team Secret.
+Rossy killed Jremy  in round 10
+invy killed stax  in round 10
+2GE killed Sayaplayer  in round 10
+2GE killed iZu  in round 10
+Rossy killed Jremy  in round 10
+stax killed Wild0reoo  in round 10
+JessieVash killed stax  in round 10
+Rossy killed invy  in round 10
+Rossy killed JessieVash  in round 10
+Rossy killed 2GE  in round 10
+Round 10 ended with elimination. The winning team is T1.
+The current score is T1 4 - 6 Team Secret.
+Rossy killed Wild0reoo  in round 11
+Rossy killed 2GE  in round 11
+Rossy killed JessieVash  in round 11
+invy killed Rossy  in round 11
+Sayaplayer killed Jremy  in round 11
+Xccurate killed invy  in round 11
+Round 11 ended with elimination. The winning team is T1.
+The current score is T1 5 - 6 Team Secret.
+Jremy killed Xccurate  in round 12
+Rossy killed invy  in round 12
+Rossy killed Jremy  in round 12
+Rossy killed JessieVash  in round 12
+Wild0reoo killed Rossy  in round 12
+Sayaplayer killed Wild0reoo  in round 12
+iZu killed 2GE  in round 12
+Round 12 ended with elimination. The winning team is T1.
+The current score is T1 6 - 6 Team Secret.
+Jremy killed Sayaplayer  in round 13
+JessieVash killed Rossy  in round 13
+JessieVash killed iZu  in round 13
+Jremy killed stax  in round 13
+Xccurate killed invy  in round 13
+Xccurate killed 2GE  in round 13
+Jremy killed Xccurate  in round 13
+Round 13 ended with elimination. The winning team is Team Secret.
+The current score is T1 6 - 7 Team Secret.
+Xccurate killed Jremy  in round 14
+stax killed invy  in round 14
+Rossy killed Wild0reoo  in round 14
+JessieVash killed Xccurate  in round 14
+stax killed JessieVash  in round 14
+2GE killed Rossy  in round 14
+Sayaplayer killed 2GE  in round 14
+Round 14 ended with elimination. The winning team is T1.
+The current score is T1 7 - 7 Team Secret.
+Xccurate killed Jremy  in round 15
+Wild0reoo killed Xccurate  in round 15
+invy killed stax  in round 15
+iZu killed invy  in round 15
+2GE killed iZu  in round 15
+Sayaplayer killed Wild0reoo  in round 15
+JessieVash killed Sayaplayer  in round 15
+2GE killed Rossy  in round 15
+Round 15 ended with elimination. The winning team is Team Secret.
+The current score is T1 7 - 8 Team Secret.
+Rossy killed Jremy  in round 16
+Wild0reoo killed Rossy  in round 16
+stax killed JessieVash  in round 16
+invy killed Xccurate  in round 16
+invy killed stax  in round 16
+iZu killed invy  in round 16
+2GE killed iZu  in round 16
+2GE killed Sayaplayer  in round 16
+Round 16 ended with elimination. The winning team is Team Secret.
+The current score is T1 7 - 9 Team Secret.
+Sayaplayer killed 2GE  in round 17
+Jremy killed Sayaplayer  in round 17
+Rossy killed Jremy  in round 17
+iZu killed Wild0reoo  in round 17
+Rossy killed invy  in round 17
+Rossy killed JessieVash  in round 17
+Round 17 ended with elimination. The winning team is T1.
+The current score is T1 8 - 9 Team Secret.
+Rossy killed Jremy  in round 18
+stax killed 2GE  in round 18
+stax killed Wild0reoo  in round 18
+JessieVash killed stax  in round 18
+Rossy killed invy  in round 18
+Xccurate killed JessieVash  in round 18
+Round 18 ended with elimination. The winning team is T1.
+The current score is T1 9 - 9 Team Secret.
+iZu killed Jremy  in round 19
+invy killed iZu  in round 19
+JessieVash killed stax  in round 19
+Xccurate killed Wild0reoo  in round 19
+invy killed Xccurate  in round 19
+JessieVash killed Sayaplayer  in round 19
+invy killed Rossy  in round 19
+Round 19 ended with elimination. The winning team is Team Secret.
+The current score is T1 9 - 10 Team Secret.
+2GE killed stax  in round 20
+Xccurate killed Wild0reoo  in round 20
+Xccurate killed JessieVash  in round 20
+Xccurate killed 2GE  in round 20
+invy killed Xccurate  in round 20
+Rossy killed invy  in round 20
+Rossy killed Jremy  in round 20
+Round 20 ended with elimination. The winning team is T1.
+The current score is T1 10 - 10 Team Secret.
+Sayaplayer killed Jremy  in round 21
+2GE killed stax  in round 21
+Sayaplayer killed invy  in round 21
+Sayaplayer killed JessieVash  in round 21
+Rossy killed 2GE  in round 21
+Wild0reoo killed Sayaplayer  in round 21
+iZu killed Wild0reoo  in round 21
+Round 21 ended with spike_defuse. The winning team is T1.
+The current score is T1 11 - 10 Team Secret.
+Sayaplayer killed invy  in round 22
+Jremy killed iZu  in round 22
+Jremy killed Sayaplayer  in round 22
+Wild0reoo killed stax  in round 22
+Rossy killed 2GE  in round 22
+Rossy killed Jremy  in round 22
+JessieVash killed Xccurate  in round 22
+Rossy killed JessieVash  in round 22
+Rossy killed Wild0reoo  in round 22
+Round 22 ended with spike_defuse. The winning team is T1.
+The current score is T1 12 - 10 Team Secret.
+Sayaplayer killed Jremy  in round 23
+Xccurate killed Wild0reoo  in round 23
+stax killed 2GE  in round 23
+invy killed Xccurate  in round 23
+iZu killed invy  in round 23
+iZu killed JessieVash  in round 23
+Round 23 ended with elimination. The winning team is T1.
+The current score is T1 13 - 10 Team Secret.
+Game ended with winning team: T1 at 2024-06-24T11:17:21Z
+
+--- Player Stats ---
+2GE: Team=Team Secret, Kills=14, Deaths=17, Assists=13, KDA=1.59, First Kills=2, First Deaths=1
+Jremy: Team=Team Secret, Kills=16, Deaths=22, Assists=1, KDA=0.77, First Kills=4, First Deaths=11
+JessieVash: Team=Team Secret, Kills=13, Deaths=16, Assists=7, KDA=1.25, First Kills=0, First Deaths=0
+invy: Team=Team Secret, Kills=20, Deaths=18, Assists=8, KDA=1.56, First Kills=1, First Deaths=1
+Wild0reoo: Team=Team Secret, Kills=13, Deaths=16, Assists=2, KDA=0.94, First Kills=2, First Deaths=1
+stax: Team=T1, Kills=7, Deaths=16, Assists=15, KDA=1.38, First Kills=0, First Deaths=3
+Rossy: Team=T1, Kills=29, Deaths=13, Assists=6, KDA=2.69, First Kills=4, First Deaths=0
+Xccurate: Team=T1, Kills=20, Deaths=17, Assists=18, KDA=2.24, First Kills=3, First Deaths=1
+iZu: Team=T1, Kills=18, Deaths=14, Assists=3, KDA=1.5, First Kills=1, First Deaths=0
+Sayaplayer: Team=T1, Kills=15, Deaths=16, Assists=2, KDA=1.06, First Kills=6, First Deaths=5

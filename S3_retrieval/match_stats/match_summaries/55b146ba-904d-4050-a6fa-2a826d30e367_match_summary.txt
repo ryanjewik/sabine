@@ -1,0 +1,241 @@
+Team 1: DRX
+Team 2: Bilibili Gaming
+Participating Players:
+Player 1: rin 
+Player 2: Knight 
+Player 3: whzy
+Player 4: Biank
+Player 5: yosemite
+Player 6: ZestKR
+Player 7: BuZz
+Player 8: stax
+Player 9: MaKo
+Player 10: Rb
+Winning Team: DRX
+Score: DRX 13 - 10 Bilibili Gaming
+Tournament Name: vct champions 2023
+Game Start Time: 2023-08-17T18:53:45Z
+Game End Time: 2023-08-17T19:58:15Z
+Rounds ended by ELIMINATION count: 10
+Rounds ended by DEFUSE count: 10
+Rounds ended by DETONATE count: 1
+SPIKE PLANTED count: 11
+platformGameId: val:55b146ba-904d-4050-a6fa-2a826d30e367
+
+--- Events ---
+Game started at 2023-08-17T18:53:45Z
+rin  killed stax  in round 1
+whzy killed BuZz  in round 1
+Knight  killed Rb  in round 1
+MaKo killed yosemite  in round 1
+whzy killed MaKo  in round 1
+Knight  killed ZestKR  in round 1
+Round 1 ended with spike_defuse. The winning team is Bilibili Gaming.
+The current score is DRX 0 - 1 Bilibili Gaming.
+rin  killed ZestKR  in round 2
+rin  killed BuZz  in round 2
+MaKo killed yosemite  in round 2
+rin  killed stax  in round 2
+rin  killed MaKo  in round 2
+rin  killed Rb  in round 2
+Round 2 ended with elimination. The winning team is Bilibili Gaming.
+The current score is DRX 0 - 2 Bilibili Gaming.
+rin  killed BuZz  in round 3
+Rb killed yosemite  in round 3
+yosemite killed ZestKR  in round 3
+rin  killed MaKo  in round 3
+whzy killed Rb  in round 3
+rin  killed stax  in round 3
+Round 3 ended with elimination. The winning team is Bilibili Gaming.
+The current score is DRX 0 - 3 Bilibili Gaming.
+BuZz killed whzy  in round 4
+Knight  killed BuZz  in round 4
+ZestKR killed Knight   in round 4
+ZestKR killed yosemite  in round 4
+Biank killed stax  in round 4
+rin  killed Rb  in round 4
+Biank killed MaKo  in round 4
+Biank killed ZestKR  in round 4
+Round 4 ended with elimination. The winning team is Bilibili Gaming.
+The current score is DRX 0 - 4 Bilibili Gaming.
+BuZz killed whzy  in round 5
+yosemite killed stax  in round 5
+BuZz killed rin   in round 5
+Biank killed ZestKR  in round 5
+BuZz killed Knight   in round 5
+yosemite killed BuZz  in round 5
+Biank killed Rb  in round 5
+MaKo killed Biank  in round 5
+yosemite killed MaKo  in round 5
+Round 5 ended with spike_defuse. The winning team is Bilibili Gaming.
+The current score is DRX 0 - 5 Bilibili Gaming.
+whzy killed BuZz  in round 6
+whzy killed MaKo  in round 6
+whzy killed ZestKR  in round 6
+whzy killed stax  in round 6
+whzy killed Rb  in round 6
+Round 6 ended with elimination. The winning team is Bilibili Gaming.
+The current score is DRX 0 - 6 Bilibili Gaming.
+BuZz killed whzy  in round 7
+ZestKR killed Biank  in round 7
+Knight  killed BuZz  in round 7
+Knight  killed ZestKR  in round 7
+stax killed Knight   in round 7
+yosemite killed stax  in round 7
+yosemite killed MaKo  in round 7
+yosemite killed Rb  in round 7
+Round 7 ended with elimination. The winning team is Bilibili Gaming.
+The current score is DRX 0 - 7 Bilibili Gaming.
+MaKo killed yosemite  in round 8
+MaKo killed rin   in round 8
+Knight  killed MaKo  in round 8
+whzy killed BuZz  in round 8
+stax killed Knight   in round 8
+Rb killed Biank  in round 8
+Round 8 ended with detonate. The winning team is DRX.
+The current score is DRX 1 - 7 Bilibili Gaming.
+rin  killed stax  in round 9
+Rb killed yosemite  in round 9
+rin  killed MaKo  in round 9
+ZestKR killed rin   in round 9
+ZestKR killed Knight   in round 9
+whzy killed ZestKR  in round 9
+whzy killed Rb  in round 9
+whzy killed BuZz  in round 9
+Round 9 ended with spike_defuse. The winning team is Bilibili Gaming.
+The current score is DRX 1 - 8 Bilibili Gaming.
+yosemite killed BuZz  in round 10
+Rb killed yosemite  in round 10
+yosemite killed MaKo  in round 10
+ZestKR killed rin   in round 10
+whzy killed Rb  in round 10
+ZestKR killed Biank  in round 10
+whzy killed stax  in round 10
+whzy killed ZestKR  in round 10
+Round 10 ended with spike_defuse. The winning team is Bilibili Gaming.
+The current score is DRX 1 - 9 Bilibili Gaming.
+whzy killed BuZz  in round 11
+Biank killed ZestKR  in round 11
+whzy killed stax  in round 11
+Knight  killed MaKo  in round 11
+Rb killed whzy  in round 11
+Biank killed Rb  in round 11
+Round 11 ended with elimination. The winning team is Bilibili Gaming.
+The current score is DRX 1 - 10 Bilibili Gaming.
+BuZz killed Knight   in round 12
+ZestKR killed yosemite  in round 12
+Rb killed rin   in round 12
+Biank killed MaKo  in round 12
+Biank killed ZestKR  in round 12
+BuZz killed Biank  in round 12
+whzy killed Rb  in round 12
+stax killed whzy  in round 12
+Round 12 ended with elimination. The winning team is DRX.
+The current score is DRX 2 - 10 Bilibili Gaming.
+Knight  killed stax  in round 13
+BuZz killed Knight   in round 13
+yosemite killed ZestKR  in round 13
+yosemite killed BuZz  in round 13
+Rb killed whzy  in round 13
+MaKo killed Biank  in round 13
+MaKo killed yosemite  in round 13
+rin  killed MaKo  in round 13
+Rb killed rin   in round 13
+Round 13 ended with spike_defuse. The winning team is DRX.
+The current score is DRX 3 - 10 Bilibili Gaming.
+ZestKR killed Knight   in round 14
+Round 14 ended with spike_defuse. The winning team is DRX.
+The current score is DRX 4 - 10 Bilibili Gaming.
+ZestKR killed whzy  in round 15
+ZestKR killed Knight   in round 15
+ZestKR killed Biank  in round 15
+whzy killed ZestKR  in round 15
+whzy killed Rb  in round 15
+yosemite killed stax  in round 15
+MaKo killed rin   in round 15
+BuZz killed whzy  in round 15
+yosemite killed BuZz  in round 15
+MaKo killed yosemite  in round 15
+Round 15 ended with spike_defuse. The winning team is DRX.
+The current score is DRX 5 - 10 Bilibili Gaming.
+BuZz killed rin   in round 16
+BuZz killed yosemite  in round 16
+whzy killed ZestKR  in round 16
+Rb killed Knight   in round 16
+whzy killed BuZz  in round 16
+MaKo killed Biank  in round 16
+Round 16 ended with spike_defuse. The winning team is DRX.
+The current score is DRX 6 - 10 Bilibili Gaming.
+Rb killed whzy  in round 17
+MaKo killed whzy  in round 17
+BuZz killed Biank  in round 17
+BuZz killed rin   in round 17
+Round 17 ended with time_expired. The winning team is DRX.
+The current score is DRX 7 - 10 Bilibili Gaming.
+yosemite killed ZestKR  in round 18
+MaKo killed whzy  in round 18
+Knight  killed MaKo  in round 18
+Rb killed rin   in round 18
+BuZz killed yosemite  in round 18
+Knight  killed Rb  in round 18
+Biank killed BuZz  in round 18
+stax killed Knight   in round 18
+stax killed Biank  in round 18
+Round 18 ended with spike_defuse. The winning team is DRX.
+The current score is DRX 8 - 10 Bilibili Gaming.
+BuZz killed rin   in round 19
+BuZz killed whzy  in round 19
+yosemite killed BuZz  in round 19
+stax killed yosemite  in round 19
+Knight  killed Rb  in round 19
+stax killed Biank  in round 19
+Knight  killed stax  in round 19
+MaKo killed Knight   in round 19
+Round 19 ended with elimination. The winning team is DRX.
+The current score is DRX 9 - 10 Bilibili Gaming.
+BuZz killed yosemite  in round 20
+MaKo killed rin   in round 20
+Knight  killed stax  in round 20
+Rb killed Knight   in round 20
+Round 20 ended with spike_defuse. The winning team is DRX.
+The current score is DRX 10 - 10 Bilibili Gaming.
+BuZz killed Biank  in round 21
+stax killed whzy  in round 21
+MaKo killed Biank  in round 21
+yosemite killed BuZz  in round 21
+MaKo killed yosemite  in round 21
+Knight  killed stax  in round 21
+ZestKR killed rin   in round 21
+Rb killed Knight   in round 21
+Round 21 ended with elimination. The winning team is DRX.
+The current score is DRX 11 - 10 Bilibili Gaming.
+stax killed whzy  in round 22
+ZestKR killed rin   in round 22
+yosemite killed ZestKR  in round 22
+stax killed Knight   in round 22
+Biank killed stax  in round 22
+Rb killed yosemite  in round 22
+Biank killed Rb  in round 22
+BuZz killed Biank  in round 22
+Round 22 ended with elimination. The winning team is DRX.
+The current score is DRX 12 - 10 Bilibili Gaming.
+MaKo killed Biank  in round 23
+MaKo killed yosemite  in round 23
+MaKo killed whzy  in round 23
+BuZz killed Knight   in round 23
+Round 23 ended with time_expired. The winning team is DRX.
+The current score is DRX 13 - 10 Bilibili Gaming.
+MaKo killed rin   in round 24
+Game ended with winning team: DRX at 2023-08-17T19:58:15Z
+
+--- Player Stats ---
+rin : Team=Bilibili Gaming, Kills=13, Deaths=15, Assists=2, KDA=1.0, First Kills=4, First Deaths=3
+Knight : Team=Bilibili Gaming, Kills=14, Deaths=16, Assists=10, KDA=1.5, First Kills=1, First Deaths=2
+whzy: Team=Bilibili Gaming, Kills=22, Deaths=15, Assists=2, KDA=1.6, First Kills=2, First Deaths=6
+Biank: Team=Bilibili Gaming, Kills=12, Deaths=15, Assists=8, KDA=1.33, First Kills=0, First Deaths=2
+yosemite: Team=Bilibili Gaming, Kills=17, Deaths=17, Assists=8, KDA=1.47, First Kills=2, First Deaths=2
+ZestKR: Team=DRX, Kills=14, Deaths=16, Assists=8, KDA=1.38, First Kills=2, First Deaths=2
+BuZz: Team=DRX, Kills=20, Deaths=17, Assists=12, KDA=1.88, First Kills=8, First Deaths=4
+stax: Team=DRX, Kills=10, Deaths=16, Assists=6, KDA=1.0, First Kills=1, First Deaths=3
+MaKo: Team=DRX, Kills=20, Deaths=14, Assists=12, KDA=2.29, First Kills=3, First Deaths=0
+Rb: Team=DRX, Kills=14, Deaths=15, Assists=4, KDA=1.2, First Kills=1, First Deaths=0

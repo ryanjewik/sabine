@@ -1,0 +1,201 @@
+Team 1: Team Heretics
+Team 2: Gen.G Esports
+Participating Players:
+Player 1: t3xture
+Player 2: Lakia
+Player 3: Munchkin
+Player 4: Meteor 
+Player 5: Karon
+Player 6: paTiTek
+Player 7: RieNs
+Player 8: Boo
+Player 9: benjyfishy
+Player 10: Wo0t
+Winning Team: Gen.G Esports
+Score: Team Heretics 6 - 13 Gen.G Esports
+Tournament Name: vct masters shanghai 2024
+Game Start Time: 2024-06-09T08:09:49Z
+Game End Time: 2024-06-09T09:07:39Z
+Rounds ended by ELIMINATION count: 13
+Rounds ended by DEFUSE count: 3
+Rounds ended by DETONATE count: 1
+SPIKE PLANTED count: 4
+platformGameId: val:f95a748d-772e-445a-9325-9f97cbd78771
+
+--- Events ---
+Game started at 2024-06-09T08:09:49Z
+Lakia killed Wo0t  in round 1
+Meteor  killed Boo  in round 1
+RieNs killed Meteor   in round 1
+Lakia killed benjyfishy  in round 1
+t3xture killed RieNs  in round 1
+Karon killed paTiTek  in round 1
+Round 1 ended with elimination. The winning team is Gen.G Esports.
+The current score is Team Heretics 0 - 1 Gen.G Esports.
+t3xture killed Wo0t  in round 2
+Karon killed Boo  in round 2
+Meteor  killed benjyfishy  in round 2
+paTiTek killed Meteor   in round 2
+RieNs killed Munchkin  in round 2
+Lakia killed RieNs  in round 2
+Round 2 ended with time_expired. The winning team is Gen.G Esports.
+The current score is Team Heretics 0 - 2 Gen.G Esports.
+Lakia killed paTiTek  in round 3
+Meteor  killed Wo0t  in round 3
+t3xture killed Boo  in round 3
+Lakia killed paTiTek  in round 3
+Meteor  killed RieNs  in round 3
+Munchkin killed benjyfishy  in round 3
+Round 3 ended with elimination. The winning team is Gen.G Esports.
+The current score is Team Heretics 0 - 3 Gen.G Esports.
+Wo0t killed Munchkin  in round 4
+t3xture killed RieNs  in round 4
+Meteor  killed Wo0t  in round 4
+Meteor  killed Boo  in round 4
+benjyfishy killed t3xture  in round 4
+Lakia killed paTiTek  in round 4
+Meteor  killed benjyfishy  in round 4
+Round 4 ended with elimination. The winning team is Gen.G Esports.
+The current score is Team Heretics 0 - 4 Gen.G Esports.
+Meteor  killed benjyfishy  in round 5
+RieNs killed Munchkin  in round 5
+t3xture killed paTiTek  in round 5
+Meteor  killed Boo  in round 5
+RieNs killed Lakia  in round 5
+Meteor  killed RieNs  in round 5
+Wo0t killed Meteor   in round 5
+t3xture killed Wo0t  in round 5
+Round 5 ended with spike_defuse. The winning team is Gen.G Esports.
+The current score is Team Heretics 0 - 5 Gen.G Esports.
+paTiTek killed Munchkin  in round 6
+Meteor  killed paTiTek  in round 6
+Karon killed benjyfishy  in round 6
+RieNs killed Karon  in round 6
+t3xture killed Wo0t  in round 6
+Lakia killed RieNs  in round 6
+t3xture killed Boo  in round 6
+Round 6 ended with elimination. The winning team is Gen.G Esports.
+The current score is Team Heretics 0 - 6 Gen.G Esports.
+benjyfishy killed Munchkin  in round 7
+Boo killed Meteor   in round 7
+Wo0t killed Karon  in round 7
+Wo0t killed Lakia  in round 7
+Round 7 ended with detonate. The winning team is Team Heretics.
+The current score is Team Heretics 1 - 6 Gen.G Esports.
+t3xture killed benjyfishy  in round 8
+Meteor  killed Wo0t  in round 8
+RieNs killed Lakia  in round 8
+Boo killed Meteor   in round 8
+Karon killed RieNs  in round 8
+paTiTek killed Karon  in round 8
+t3xture killed Boo  in round 8
+benjyfishy killed Munchkin  in round 8
+paTiTek killed t3xture  in round 8
+Round 8 ended with elimination. The winning team is Team Heretics.
+The current score is Team Heretics 2 - 6 Gen.G Esports.
+RieNs killed t3xture  in round 9
+Munchkin killed RieNs  in round 9
+Munchkin killed Wo0t  in round 9
+benjyfishy killed Karon  in round 9
+Meteor  killed Boo  in round 9
+Meteor  killed paTiTek  in round 9
+Round 9 ended with time_expired. The winning team is Gen.G Esports.
+The current score is Team Heretics 2 - 7 Gen.G Esports.
+benjyfishy killed Meteor   in round 10
+t3xture killed paTiTek  in round 10
+t3xture killed Wo0t  in round 10
+RieNs killed t3xture  in round 10
+Karon killed RieNs  in round 10
+Boo killed Lakia  in round 10
+Karon killed Boo  in round 10
+Karon killed benjyfishy  in round 10
+Round 10 ended with elimination. The winning team is Gen.G Esports.
+The current score is Team Heretics 2 - 8 Gen.G Esports.
+Lakia killed Boo  in round 11
+t3xture killed Wo0t  in round 11
+t3xture killed RieNs  in round 11
+Meteor  killed paTiTek  in round 11
+Meteor  killed benjyfishy  in round 11
+Round 11 ended with elimination. The winning team is Gen.G Esports.
+The current score is Team Heretics 2 - 9 Gen.G Esports.
+Karon killed Wo0t  in round 12
+Munchkin killed RieNs  in round 12
+Boo killed Munchkin  in round 12
+Karon killed benjyfishy  in round 12
+Karon killed Boo  in round 12
+Meteor  killed paTiTek  in round 12
+Round 12 ended with elimination. The winning team is Gen.G Esports.
+The current score is Team Heretics 2 - 10 Gen.G Esports.
+Munchkin killed benjyfishy  in round 13
+Munchkin killed Wo0t  in round 13
+Munchkin killed paTiTek  in round 13
+Munchkin killed RieNs  in round 13
+Boo killed Munchkin  in round 13
+Lakia killed Boo  in round 13
+Round 13 ended with elimination. The winning team is Gen.G Esports.
+The current score is Team Heretics 2 - 11 Gen.G Esports.
+RieNs killed t3xture  in round 14
+Munchkin killed Boo  in round 14
+RieNs killed Munchkin  in round 14
+paTiTek killed Karon  in round 14
+Wo0t killed Meteor   in round 14
+benjyfishy killed Lakia  in round 14
+Round 14 ended with spike_defuse. The winning team is Team Heretics.
+The current score is Team Heretics 3 - 11 Gen.G Esports.
+Wo0t killed Munchkin  in round 15
+Meteor  killed Wo0t  in round 15
+paTiTek killed Meteor   in round 15
+Boo killed Karon  in round 15
+t3xture killed Boo  in round 15
+benjyfishy killed t3xture  in round 15
+Lakia killed paTiTek  in round 15
+RieNs killed Lakia  in round 15
+Round 15 ended with spike_defuse. The winning team is Team Heretics.
+The current score is Team Heretics 4 - 11 Gen.G Esports.
+Karon killed paTiTek  in round 16
+Meteor  killed RieNs  in round 16
+Meteor  killed Boo  in round 16
+Meteor  killed benjyfishy  in round 16
+Wo0t killed t3xture  in round 16
+Lakia killed Wo0t  in round 16
+Round 16 ended with elimination. The winning team is Gen.G Esports.
+The current score is Team Heretics 4 - 12 Gen.G Esports.
+paTiTek killed Lakia  in round 17
+paTiTek killed Munchkin  in round 17
+RieNs killed Meteor   in round 17
+Karon killed RieNs  in round 17
+benjyfishy killed Karon  in round 17
+benjyfishy killed t3xture  in round 17
+Round 17 ended with elimination. The winning team is Team Heretics.
+The current score is Team Heretics 5 - 12 Gen.G Esports.
+paTiTek killed Lakia  in round 18
+Karon killed paTiTek  in round 18
+Wo0t killed Munchkin  in round 18
+RieNs killed t3xture  in round 18
+Wo0t killed Karon  in round 18
+benjyfishy killed Meteor   in round 18
+Round 18 ended with elimination. The winning team is Team Heretics.
+The current score is Team Heretics 6 - 12 Gen.G Esports.
+Meteor  killed Wo0t  in round 19
+t3xture killed paTiTek  in round 19
+Meteor  killed RieNs  in round 19
+Boo killed t3xture  in round 19
+Boo killed Meteor   in round 19
+benjyfishy killed Munchkin  in round 19
+Karon killed benjyfishy  in round 19
+Lakia killed Boo  in round 19
+Round 19 ended with elimination. The winning team is Gen.G Esports.
+The current score is Team Heretics 6 - 13 Gen.G Esports.
+Game ended with winning team: Gen.G Esports at 2024-06-09T09:07:39Z
+
+--- Player Stats ---
+t3xture: Team=Gen.G Esports, Kills=16, Deaths=10, Assists=2, KDA=1.8, First Kills=2, First Deaths=2
+Lakia: Team=Gen.G Esports, Kills=12, Deaths=8, Assists=9, KDA=2.62, First Kills=3, First Deaths=2
+Munchkin: Team=Gen.G Esports, Kills=9, Deaths=13, Assists=5, KDA=1.08, First Kills=1, First Deaths=4
+Meteor : Team=Gen.G Esports, Kills=23, Deaths=11, Assists=3, KDA=2.36, First Kills=2, First Deaths=1
+Karon: Team=Gen.G Esports, Kills=14, Deaths=8, Assists=7, KDA=2.62, First Kills=2, First Deaths=0
+paTiTek: Team=Team Heretics, Kills=9, Deaths=15, Assists=8, KDA=1.13, First Kills=3, First Deaths=2
+RieNs: Team=Team Heretics, Kills=13, Deaths=15, Assists=5, KDA=1.2, First Kills=2, First Deaths=0
+Boo: Team=Team Heretics, Kills=8, Deaths=16, Assists=5, KDA=0.81, First Kills=0, First Deaths=1
+benjyfishy: Team=Team Heretics, Kills=11, Deaths=13, Assists=1, KDA=0.92, First Kills=2, First Deaths=3
+Wo0t: Team=Team Heretics, Kills=9, Deaths=15, Assists=4, KDA=0.87, First Kills=2, First Deaths=4

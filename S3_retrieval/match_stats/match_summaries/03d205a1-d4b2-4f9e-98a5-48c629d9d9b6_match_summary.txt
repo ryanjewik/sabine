@@ -1,0 +1,242 @@
+Team 1: Team Secret
+Team 2: Talon Esports
+Participating Players:
+Player 1: Governor
+Player 2: ban
+Player 3: Crws
+Player 4: Surf
+Player 5: JitBoyS
+Player 6: BORKUM
+Player 7: Jremy
+Player 8: JessieVash
+Player 9: invy
+Player 10: NDG
+Winning Team: Talon Esports
+Score: Team Secret 10 - 13 Talon Esports
+Tournament Name: vct pacific stage 1 2024
+Game Start Time: 2024-04-28T13:24:01Z
+Game End Time: 2024-04-28T14:16:39Z
+Rounds ended by ELIMINATION count: 12
+Rounds ended by DEFUSE count: 6
+Rounds ended by DETONATE count: 5
+SPIKE PLANTED count: 11
+platformGameId: val:03d205a1-d4b2-4f9e-98a5-48c629d9d9b6
+
+--- Events ---
+Game started at 2024-04-28T13:24:01Z
+JessieVash killed Crws  in round 1
+ban killed JessieVash  in round 1
+Governor killed Jremy  in round 1
+invy killed Governor  in round 1
+JitBoyS killed invy  in round 1
+ban killed BORKUM  in round 1
+ban killed NDG  in round 1
+Round 1 ended with elimination. The winning team is Talon Esports.
+The current score is Team Secret 0 - 1 Talon Esports.
+Jremy killed ban  in round 2
+invy killed Surf  in round 2
+JitBoyS killed invy  in round 2
+NDG killed JitBoyS  in round 2
+Crws killed JessieVash  in round 2
+Governor killed BORKUM  in round 2
+Crws killed NDG  in round 2
+Jremy killed Governor  in round 2
+Jremy killed Crws  in round 2
+Round 2 ended with elimination. The winning team is Team Secret.
+The current score is Team Secret 1 - 1 Talon Esports.
+Jremy killed Jremy  in round 3
+invy killed Governor  in round 3
+Jremy killed JitBoyS  in round 3
+ban killed Jremy  in round 3
+BORKUM killed Crws  in round 3
+BORKUM killed ban  in round 3
+NDG killed Surf  in round 3
+Round 3 ended with elimination. The winning team is Team Secret.
+The current score is Team Secret 2 - 1 Talon Esports.
+BORKUM killed Governor  in round 4
+Jremy killed JitBoyS  in round 4
+invy killed Crws  in round 4
+ban killed invy  in round 4
+Round 4 ended with detonate. The winning team is Team Secret.
+The current score is Team Secret 3 - 1 Talon Esports.
+Surf killed Jremy  in round 5
+Surf killed invy  in round 5
+Surf killed BORKUM  in round 5
+NDG killed Surf  in round 5
+ban killed JessieVash  in round 5
+NDG killed ban  in round 5
+NDG killed Governor  in round 5
+NDG killed Crws  in round 5
+JitBoyS killed NDG  in round 5
+Round 5 ended with spike_defuse. The winning team is Talon Esports.
+The current score is Team Secret 3 - 2 Talon Esports.
+JessieVash killed ban  in round 6
+JessieVash killed Surf  in round 6
+Round 6 ended with detonate. The winning team is Team Secret.
+The current score is Team Secret 4 - 2 Talon Esports.
+Jremy killed ban  in round 7
+Jremy killed Surf  in round 7
+JessieVash killed Crws  in round 7
+Governor killed BORKUM  in round 7
+Jremy killed Governor  in round 7
+Round 7 ended with detonate. The winning team is Team Secret.
+The current score is Team Secret 5 - 2 Talon Esports.
+Surf killed Jremy  in round 8
+Governor killed BORKUM  in round 8
+invy killed Governor  in round 8
+JessieVash killed JitBoyS  in round 8
+Surf killed JessieVash  in round 8
+ban killed NDG  in round 8
+ban killed invy  in round 8
+Round 8 ended with spike_defuse. The winning team is Talon Esports.
+The current score is Team Secret 5 - 3 Talon Esports.
+ban killed Jremy  in round 9
+NDG killed Surf  in round 9
+BORKUM killed Crws  in round 9
+JitBoyS killed NDG  in round 9
+JessieVash killed JitBoyS  in round 9
+Governor killed JessieVash  in round 9
+Governor killed invy  in round 9
+BORKUM killed ban  in round 9
+BORKUM killed Governor  in round 9
+Round 9 ended with elimination. The winning team is Team Secret.
+The current score is Team Secret 6 - 3 Talon Esports.
+Governor killed Jremy  in round 10
+invy killed Governor  in round 10
+Crws killed NDG  in round 10
+ban killed BORKUM  in round 10
+invy killed JitBoyS  in round 10
+JessieVash killed ban  in round 10
+invy killed Surf  in round 10
+invy killed Crws  in round 10
+Round 10 ended with elimination. The winning team is Team Secret.
+The current score is Team Secret 7 - 3 Talon Esports.
+ban killed invy  in round 11
+BORKUM killed ban  in round 11
+Governor killed Jremy  in round 11
+Governor killed JessieVash  in round 11
+BORKUM killed Governor  in round 11
+Crws killed BORKUM  in round 11
+JitBoyS killed NDG  in round 11
+Round 11 ended with spike_defuse. The winning team is Talon Esports.
+The current score is Team Secret 7 - 4 Talon Esports.
+Governor killed BORKUM  in round 12
+invy killed Surf  in round 12
+Jremy killed ban  in round 12
+Crws killed NDG  in round 12
+invy killed Governor  in round 12
+JitBoyS killed Jremy  in round 12
+Crws killed invy  in round 12
+JitBoyS killed JessieVash  in round 12
+Round 12 ended with spike_defuse. The winning team is Talon Esports.
+The current score is Team Secret 7 - 5 Talon Esports.
+Crws killed Jremy  in round 13
+Governor killed invy  in round 13
+JitBoyS killed JessieVash  in round 13
+BORKUM killed Governor  in round 13
+BORKUM killed Crws  in round 13
+JitBoyS killed BORKUM  in round 13
+ban killed NDG  in round 13
+Round 13 ended with elimination. The winning team is Talon Esports.
+The current score is Team Secret 7 - 6 Talon Esports.
+JitBoyS killed invy  in round 14
+ban killed BORKUM  in round 14
+Jremy killed ban  in round 14
+Crws killed NDG  in round 14
+Governor killed JessieVash  in round 14
+Surf killed Jremy  in round 14
+Round 14 ended with elimination. The winning team is Talon Esports.
+The current score is Team Secret 7 - 7 Talon Esports.
+ban killed invy  in round 15
+ban killed BORKUM  in round 15
+Surf killed JessieVash  in round 15
+Jremy killed Crws  in round 15
+JitBoyS killed Jremy  in round 15
+Round 15 ended with detonate. The winning team is Talon Esports.
+The current score is Team Secret 7 - 8 Talon Esports.
+Jremy killed Crws  in round 16
+invy killed Surf  in round 16
+BORKUM killed ban  in round 16
+JitBoyS killed BORKUM  in round 16
+JessieVash killed JitBoyS  in round 16
+NDG killed Governor  in round 16
+Round 16 ended with spike_defuse. The winning team is Team Secret.
+The current score is Team Secret 8 - 8 Talon Esports.
+Jremy killed Governor  in round 17
+BORKUM killed Crws  in round 17
+JitBoyS killed invy  in round 17
+JitBoyS killed BORKUM  in round 17
+JessieVash killed Surf  in round 17
+ban killed JessieVash  in round 17
+ban killed NDG  in round 17
+Jremy killed ban  in round 17
+JitBoyS killed Jremy  in round 17
+Round 17 ended with elimination. The winning team is Talon Esports.
+The current score is Team Secret 8 - 9 Talon Esports.
+NDG killed Surf  in round 18
+NDG killed ban  in round 18
+Governor killed NDG  in round 18
+Governor killed Jremy  in round 18
+JitBoyS killed BORKUM  in round 18
+invy killed Governor  in round 18
+Crws killed invy  in round 18
+JessieVash killed JitBoyS  in round 18
+JessieVash killed Crws  in round 18
+Round 18 ended with spike_defuse. The winning team is Team Secret.
+The current score is Team Secret 9 - 9 Talon Esports.
+Governor killed Jremy  in round 19
+JessieVash killed ban  in round 19
+JessieVash killed JitBoyS  in round 19
+NDG killed Governor  in round 19
+JessieVash killed Crws  in round 19
+Surf killed NDG  in round 19
+invy killed Surf  in round 19
+Round 19 ended with elimination. The winning team is Team Secret.
+The current score is Team Secret 10 - 9 Talon Esports.
+NDG killed Surf  in round 20
+ban killed invy  in round 20
+Crws killed NDG  in round 20
+Governor killed JessieVash  in round 20
+ban killed Jremy  in round 20
+ban killed BORKUM  in round 20
+Round 20 ended with elimination. The winning team is Talon Esports.
+The current score is Team Secret 10 - 10 Talon Esports.
+ban killed invy  in round 21
+Governor killed BORKUM  in round 21
+Governor killed Jremy  in round 21
+JessieVash killed JitBoyS  in round 21
+Governor killed JessieVash  in round 21
+Crws killed NDG  in round 21
+Round 21 ended with elimination. The winning team is Talon Esports.
+The current score is Team Secret 10 - 11 Talon Esports.
+ban killed JessieVash  in round 22
+Governor killed BORKUM  in round 22
+Governor killed invy  in round 22
+JitBoyS killed NDG  in round 22
+Jremy killed JitBoyS  in round 22
+Jremy killed ban  in round 22
+Round 22 ended with detonate. The winning team is Talon Esports.
+The current score is Team Secret 10 - 12 Talon Esports.
+Jremy killed Governor  in round 23
+Jremy killed Governor  in round 23
+ban killed invy  in round 23
+ban killed JessieVash  in round 23
+ban killed Jremy  in round 23
+ban killed BORKUM  in round 23
+NDG killed ban  in round 23
+Surf killed NDG  in round 23
+Round 23 ended with elimination. The winning team is Talon Esports.
+The current score is Team Secret 10 - 13 Talon Esports.
+Game ended with winning team: Talon Esports at 2024-04-28T14:16:39Z
+
+--- Player Stats ---
+Governor: Team=Talon Esports, Kills=21, Deaths=18, Assists=4, KDA=1.39, First Kills=3, First Deaths=3
+ban: Team=Talon Esports, Kills=26, Deaths=16, Assists=6, KDA=2.0, First Kills=5, First Deaths=3
+Crws: Team=Talon Esports, Kills=11, Deaths=14, Assists=3, KDA=1.0, First Kills=1, First Deaths=2
+Surf: Team=Talon Esports, Kills=9, Deaths=13, Assists=3, KDA=0.92, First Kills=2, First Deaths=2
+JitBoyS: Team=Talon Esports, Kills=17, Deaths=11, Assists=13, KDA=2.73, First Kills=1, First Deaths=0
+BORKUM: Team=Team Secret, Kills=12, Deaths=18, Assists=8, KDA=1.11, First Kills=1, First Deaths=1
+Jremy: Team=Team Secret, Kills=19, Deaths=18, Assists=5, KDA=1.33, First Kills=6, First Deaths=7
+JessieVash: Team=Team Secret, Kills=15, Deaths=15, Assists=5, KDA=1.33, First Kills=2, First Deaths=1
+invy: Team=Team Secret, Kills=14, Deaths=17, Assists=8, KDA=1.29, First Kills=0, First Deaths=4
+NDG: Team=Team Secret, Kills=13, Deaths=17, Assists=3, KDA=0.94, First Kills=2, First Deaths=0

@@ -1,0 +1,236 @@
+Team 1: FunPlus Phoenix
+Team 2: T1
+Participating Players:
+Player 1: carpe
+Player 2: Sayaplayer
+Player 3: xeta
+Player 4: ban 
+Player 5: Munchkin
+Player 6: nizhaoTZH
+Player 7: BerLIN
+Player 8: Yuicaw
+Player 9: Lysoar
+Player 10: AAAAY
+Winning Team: T1
+Score: FunPlus Phoenix 10 - 13 T1
+Tournament Name: vct champions 2023
+Game Start Time: 2023-08-10T21:19:48Z
+Game End Time: 2023-08-10T22:22:41Z
+Rounds ended by ELIMINATION count: 13
+Rounds ended by DEFUSE count: 5
+Rounds ended by DETONATE count: 5
+SPIKE PLANTED count: 10
+platformGameId: val:ade2d3a5-7661-4842-b454-bdb3194dc6e1
+
+--- Events ---
+Game started at 2023-08-10T21:19:48Z
+Munchkin killed Lysoar  in round 1
+Yuicaw killed xeta  in round 1
+Munchkin killed Yuicaw  in round 1
+BerLIN killed Sayaplayer  in round 1
+carpe killed nizhaoTZH  in round 1
+Munchkin killed BerLIN  in round 1
+ban  killed AAAAY  in round 1
+Round 1 ended with elimination. The winning team is T1.
+The current score is FunPlus Phoenix 0 - 1 T1.
+Munchkin killed BerLIN  in round 2
+xeta killed AAAAY  in round 2
+Lysoar killed xeta  in round 2
+Yuicaw killed Sayaplayer  in round 2
+Lysoar killed carpe  in round 2
+Munchkin killed Lysoar  in round 2
+ban  killed nizhaoTZH  in round 2
+ban  killed Yuicaw  in round 2
+Round 2 ended with elimination. The winning team is T1.
+The current score is FunPlus Phoenix 0 - 2 T1.
+Sayaplayer killed Lysoar  in round 3
+Yuicaw killed Sayaplayer  in round 3
+BerLIN killed Munchkin  in round 3
+BerLIN killed xeta  in round 3
+Yuicaw killed carpe  in round 3
+nizhaoTZH killed ban   in round 3
+Round 3 ended with elimination. The winning team is FunPlus Phoenix.
+The current score is FunPlus Phoenix 1 - 2 T1.
+BerLIN killed carpe  in round 4
+Munchkin killed BerLIN  in round 4
+Lysoar killed Munchkin  in round 4
+AAAAY killed xeta  in round 4
+Sayaplayer killed Yuicaw  in round 4
+AAAAY killed Sayaplayer  in round 4
+ban  killed Lysoar  in round 4
+nizhaoTZH killed ban   in round 4
+Round 4 ended with elimination. The winning team is FunPlus Phoenix.
+The current score is FunPlus Phoenix 2 - 2 T1.
+Yuicaw killed xeta  in round 5
+Lysoar killed carpe  in round 5
+Yuicaw killed Sayaplayer  in round 5
+nizhaoTZH killed Munchkin  in round 5
+BerLIN killed ban   in round 5
+Round 5 ended with elimination. The winning team is FunPlus Phoenix.
+The current score is FunPlus Phoenix 3 - 2 T1.
+Sayaplayer killed BerLIN  in round 6
+Munchkin killed Lysoar  in round 6
+Munchkin killed nizhaoTZH  in round 6
+Munchkin killed Yuicaw  in round 6
+AAAAY killed Munchkin  in round 6
+xeta killed AAAAY  in round 6
+Round 6 ended with spike_defuse. The winning team is T1.
+The current score is FunPlus Phoenix 3 - 3 T1.
+Lysoar killed Sayaplayer  in round 7
+ban  killed Lysoar  in round 7
+xeta killed nizhaoTZH  in round 7
+xeta killed Yuicaw  in round 7
+AAAAY killed carpe  in round 7
+ban  killed BerLIN  in round 7
+AAAAY killed Munchkin  in round 7
+xeta killed AAAAY  in round 7
+Round 7 ended with spike_defuse. The winning team is T1.
+The current score is FunPlus Phoenix 3 - 4 T1.
+Yuicaw killed Sayaplayer  in round 8
+ban  killed BerLIN  in round 8
+Yuicaw killed ban   in round 8
+nizhaoTZH killed carpe  in round 8
+AAAAY killed xeta  in round 8
+Round 8 ended with detonate. The winning team is FunPlus Phoenix.
+The current score is FunPlus Phoenix 4 - 4 T1.
+nizhaoTZH killed carpe  in round 9
+ban  killed nizhaoTZH  in round 9
+AAAAY killed ban   in round 9
+BerLIN killed xeta  in round 9
+Yuicaw killed Munchkin  in round 9
+Sayaplayer killed BerLIN  in round 9
+Round 9 ended with detonate. The winning team is FunPlus Phoenix.
+The current score is FunPlus Phoenix 5 - 4 T1.
+ban  killed Yuicaw  in round 10
+BerLIN killed ban   in round 10
+AAAAY killed carpe  in round 10
+AAAAY killed xeta  in round 10
+AAAAY killed Munchkin  in round 10
+Round 10 ended with detonate. The winning team is FunPlus Phoenix.
+The current score is FunPlus Phoenix 6 - 4 T1.
+Yuicaw killed carpe  in round 11
+xeta killed Yuicaw  in round 11
+AAAAY killed Munchkin  in round 11
+AAAAY killed ban   in round 11
+BerLIN killed Sayaplayer  in round 11
+Round 11 ended with detonate. The winning team is FunPlus Phoenix.
+The current score is FunPlus Phoenix 7 - 4 T1.
+nizhaoTZH killed carpe  in round 12
+Sayaplayer killed nizhaoTZH  in round 12
+Yuicaw killed ban   in round 12
+Sayaplayer killed AAAAY  in round 12
+Lysoar killed xeta  in round 12
+Munchkin killed Lysoar  in round 12
+Munchkin killed Yuicaw  in round 12
+Sayaplayer killed BerLIN  in round 12
+Round 12 ended with spike_defuse. The winning team is T1.
+The current score is FunPlus Phoenix 7 - 5 T1.
+BerLIN killed Munchkin  in round 13
+Lysoar killed Sayaplayer  in round 13
+Lysoar killed carpe  in round 13
+Lysoar killed ban   in round 13
+xeta killed nizhaoTZH  in round 13
+Lysoar killed xeta  in round 13
+Round 13 ended with elimination. The winning team is FunPlus Phoenix.
+The current score is FunPlus Phoenix 8 - 5 T1.
+nizhaoTZH killed Munchkin  in round 14
+xeta killed nizhaoTZH  in round 14
+Lysoar killed xeta  in round 14
+Lysoar killed carpe  in round 14
+ban  killed Lysoar  in round 14
+BerLIN killed Sayaplayer  in round 14
+ban  killed AAAAY  in round 14
+BerLIN killed ban   in round 14
+Round 14 ended with spike_defuse. The winning team is FunPlus Phoenix.
+The current score is FunPlus Phoenix 9 - 5 T1.
+Munchkin killed Lysoar  in round 15
+Sayaplayer killed nizhaoTZH  in round 15
+carpe killed AAAAY  in round 15
+Sayaplayer killed Yuicaw  in round 15
+carpe killed BerLIN  in round 15
+Round 15 ended with elimination. The winning team is T1.
+The current score is FunPlus Phoenix 9 - 6 T1.
+ban  killed ban   in round 16
+Sayaplayer killed nizhaoTZH  in round 16
+Sayaplayer killed Lysoar  in round 16
+Round 16 ended with detonate. The winning team is T1.
+The current score is FunPlus Phoenix 9 - 7 T1.
+Sayaplayer killed AAAAY  in round 17
+Sayaplayer killed BerLIN  in round 17
+Yuicaw killed carpe  in round 17
+Yuicaw killed Munchkin  in round 17
+Yuicaw killed ban   in round 17
+Sayaplayer killed Lysoar  in round 17
+Yuicaw killed Sayaplayer  in round 17
+xeta killed Yuicaw  in round 17
+xeta killed nizhaoTZH  in round 17
+Round 17 ended with elimination. The winning team is T1.
+The current score is FunPlus Phoenix 9 - 8 T1.
+xeta killed BerLIN  in round 18
+xeta killed Lysoar  in round 18
+Yuicaw killed ban   in round 18
+AAAAY killed Sayaplayer  in round 18
+xeta killed AAAAY  in round 18
+carpe killed Yuicaw  in round 18
+Munchkin killed nizhaoTZH  in round 18
+Round 18 ended with elimination. The winning team is T1.
+The current score is FunPlus Phoenix 9 - 9 T1.
+ban  killed BerLIN  in round 19
+ban  killed Lysoar  in round 19
+Munchkin killed Yuicaw  in round 19
+Sayaplayer killed nizhaoTZH  in round 19
+AAAAY killed Sayaplayer  in round 19
+AAAAY killed ban   in round 19
+Munchkin killed AAAAY  in round 19
+Round 19 ended with elimination. The winning team is T1.
+The current score is FunPlus Phoenix 9 - 10 T1.
+ban  killed Yuicaw  in round 20
+Lysoar killed ban   in round 20
+Sayaplayer killed Lysoar  in round 20
+nizhaoTZH killed Sayaplayer  in round 20
+nizhaoTZH killed Munchkin  in round 20
+xeta killed nizhaoTZH  in round 20
+carpe killed AAAAY  in round 20
+xeta killed BerLIN  in round 20
+Round 20 ended with elimination. The winning team is T1.
+The current score is FunPlus Phoenix 9 - 11 T1.
+xeta killed Lysoar  in round 21
+nizhaoTZH killed xeta  in round 21
+Sayaplayer killed nizhaoTZH  in round 21
+ban  killed BerLIN  in round 21
+Sayaplayer killed Yuicaw  in round 21
+AAAAY killed Munchkin  in round 21
+AAAAY killed ban   in round 21
+carpe killed AAAAY  in round 21
+Round 21 ended with elimination. The winning team is T1.
+The current score is FunPlus Phoenix 9 - 12 T1.
+Munchkin killed AAAAY  in round 22
+BerLIN killed Munchkin  in round 22
+Yuicaw killed xeta  in round 22
+Lysoar killed carpe  in round 22
+BerLIN killed ban   in round 22
+Sayaplayer killed BerLIN  in round 22
+Yuicaw killed Sayaplayer  in round 22
+Round 22 ended with spike_defuse. The winning team is FunPlus Phoenix.
+The current score is FunPlus Phoenix 10 - 12 T1.
+carpe killed Yuicaw  in round 23
+Sayaplayer killed AAAAY  in round 23
+xeta killed BerLIN  in round 23
+Sayaplayer killed Lysoar  in round 23
+nizhaoTZH killed Sayaplayer  in round 23
+carpe killed nizhaoTZH  in round 23
+Round 23 ended with elimination. The winning team is T1.
+The current score is FunPlus Phoenix 10 - 13 T1.
+Game ended with winning team: T1 at 2023-08-10T22:22:41Z
+
+--- Player Stats ---
+carpe: Team=T1, Kills=8, Deaths=14, Assists=6, KDA=1.0, First Kills=1, First Deaths=4
+Sayaplayer: Team=T1, Kills=21, Deaths=16, Assists=3, KDA=1.5, First Kills=3, First Deaths=2
+xeta: Team=T1, Kills=17, Deaths=13, Assists=6, KDA=1.77, First Kills=2, First Deaths=1
+ban : Team=T1, Kills=16, Deaths=17, Assists=4, KDA=1.18, First Kills=4, First Deaths=1
+Munchkin: Team=T1, Kills=16, Deaths=14, Assists=3, KDA=1.36, First Kills=4, First Deaths=2
+nizhaoTZH: Team=FunPlus Phoenix, Kills=11, Deaths=16, Assists=7, KDA=1.12, First Kills=3, First Deaths=0
+BerLIN: Team=FunPlus Phoenix, Kills=13, Deaths=16, Assists=7, KDA=1.25, First Kills=2, First Deaths=4
+Yuicaw: Team=FunPlus Phoenix, Kills=18, Deaths=15, Assists=2, KDA=1.33, First Kills=3, First Deaths=3
+Lysoar: Team=FunPlus Phoenix, Kills=14, Deaths=16, Assists=4, KDA=1.12, First Kills=1, First Deaths=4
+AAAAY: Team=FunPlus Phoenix, Kills=17, Deaths=14, Assists=1, KDA=1.29, First Kills=0, First Deaths=2

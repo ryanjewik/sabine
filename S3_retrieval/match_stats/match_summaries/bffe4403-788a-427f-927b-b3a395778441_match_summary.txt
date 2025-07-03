@@ -1,0 +1,222 @@
+Team 1: FNATIC
+Team 2: Team Heretics
+Participating Players:
+Player 1: MiniBoo
+Player 2: RieNs
+Player 3: Boo
+Player 4: benjyfishy
+Player 5: Wo0t
+Player 6: Chronicle
+Player 7: Derke
+Player 8: Boaster
+Player 9: Leo 
+Player 10: Alfajer
+Winning Team: Team Heretics
+Score: FNATIC 7 - 13 Team Heretics
+Tournament Name: vct emea stage 1 2024
+Game Start Time: 2024-05-12T14:46:23Z
+Game End Time: 2024-05-12T15:50:13Z
+Rounds ended by ELIMINATION count: 12
+Rounds ended by DEFUSE count: 4
+Rounds ended by DETONATE count: 2
+SPIKE PLANTED count: 6
+platformGameId: val:bffe4403-788a-427f-927b-b3a395778441
+
+--- Events ---
+Game started at 2024-05-12T14:46:23Z
+Wo0t killed Derke  in round 1
+Boaster killed MiniBoo  in round 1
+benjyfishy killed Chronicle  in round 1
+Wo0t killed Boaster  in round 1
+benjyfishy killed Leo   in round 1
+Boo killed Alfajer  in round 1
+Round 1 ended with spike_defuse. The winning team is Team Heretics.
+The current score is FNATIC 0 - 1 Team Heretics.
+Wo0t killed Alfajer  in round 2
+Wo0t killed Derke  in round 2
+MiniBoo killed Chronicle  in round 2
+Leo  killed RieNs  in round 2
+Leo  killed Wo0t  in round 2
+Leo  killed MiniBoo  in round 2
+Boo killed Leo   in round 2
+Boo killed Boaster  in round 2
+Round 2 ended with elimination. The winning team is Team Heretics.
+The current score is FNATIC 0 - 2 Team Heretics.
+Boo killed Chronicle  in round 3
+Wo0t killed Leo   in round 3
+Derke killed benjyfishy  in round 3
+Derke killed RieNs  in round 3
+MiniBoo killed Boaster  in round 3
+Alfajer killed Boo  in round 3
+Derke killed MiniBoo  in round 3
+Derke killed Wo0t  in round 3
+Round 3 ended with elimination. The winning team is FNATIC.
+The current score is FNATIC 1 - 2 Team Heretics.
+Wo0t killed Derke  in round 4
+RieNs killed Alfajer  in round 4
+MiniBoo killed Boaster  in round 4
+Leo  killed MiniBoo  in round 4
+Wo0t killed Leo   in round 4
+benjyfishy killed Chronicle  in round 4
+Round 4 ended with elimination. The winning team is Team Heretics.
+The current score is FNATIC 1 - 3 Team Heretics.
+Wo0t killed Alfajer  in round 5
+RieNs killed Chronicle  in round 5
+MiniBoo killed Derke  in round 5
+Leo  killed RieNs  in round 5
+benjyfishy killed Boaster  in round 5
+MiniBoo killed Leo   in round 5
+Round 5 ended with spike_defuse. The winning team is Team Heretics.
+The current score is FNATIC 1 - 4 Team Heretics.
+Boaster killed MiniBoo  in round 6
+Chronicle killed RieNs  in round 6
+Derke killed Wo0t  in round 6
+benjyfishy killed Derke  in round 6
+Round 6 ended with detonate. The winning team is FNATIC.
+The current score is FNATIC 2 - 4 Team Heretics.
+RieNs killed Chronicle  in round 7
+Alfajer killed RieNs  in round 7
+MiniBoo killed Alfajer  in round 7
+benjyfishy killed Derke  in round 7
+Leo  killed benjyfishy  in round 7
+Boaster killed Boo  in round 7
+MiniBoo killed Leo   in round 7
+Round 7 ended with spike_defuse. The winning team is Team Heretics.
+The current score is FNATIC 2 - 5 Team Heretics.
+Wo0t killed Boaster  in round 8
+Boo killed Derke  in round 8
+MiniBoo killed Alfajer  in round 8
+RieNs killed Boaster  in round 8
+RieNs killed Chronicle  in round 8
+RieNs killed Leo   in round 8
+Round 8 ended with elimination. The winning team is Team Heretics.
+The current score is FNATIC 2 - 6 Team Heretics.
+MiniBoo killed Derke  in round 9
+Boaster killed MiniBoo  in round 9
+Boo killed Alfajer  in round 9
+Boo killed Chronicle  in round 9
+Boaster killed Wo0t  in round 9
+Leo  killed Boo  in round 9
+Boaster killed RieNs  in round 9
+benjyfishy killed Leo   in round 9
+benjyfishy killed Boaster  in round 9
+Round 9 ended with spike_defuse. The winning team is Team Heretics.
+The current score is FNATIC 2 - 7 Team Heretics.
+Alfajer killed Wo0t  in round 10
+MiniBoo killed Derke  in round 10
+Alfajer killed MiniBoo  in round 10
+Alfajer killed benjyfishy  in round 10
+Chronicle killed Boo  in round 10
+RieNs killed Alfajer  in round 10
+Round 10 ended with detonate. The winning team is FNATIC.
+The current score is FNATIC 3 - 7 Team Heretics.
+RieNs killed Derke  in round 11
+MiniBoo killed Boaster  in round 11
+benjyfishy killed Alfajer  in round 11
+Round 11 ended with time_expired. The winning team is Team Heretics.
+The current score is FNATIC 3 - 8 Team Heretics.
+Leo  killed benjyfishy  in round 12
+Chronicle killed MiniBoo  in round 12
+Derke killed MiniBoo  in round 12
+Derke killed Boo  in round 12
+Alfajer killed Wo0t  in round 12
+benjyfishy killed Derke  in round 12
+Alfajer killed RieNs  in round 12
+benjyfishy killed Chronicle  in round 12
+benjyfishy killed Alfajer  in round 12
+Boaster killed benjyfishy  in round 12
+Round 12 ended with elimination. The winning team is FNATIC.
+The current score is FNATIC 4 - 8 Team Heretics.
+Leo  killed Leo   in round 13
+Boaster killed Boaster  in round 13
+RieNs killed Boaster  in round 13
+Alfajer killed benjyfishy  in round 13
+Alfajer killed MiniBoo  in round 13
+RieNs killed Alfajer  in round 13
+RieNs killed Chronicle  in round 13
+Derke killed RieNs  in round 13
+Wo0t killed Leo   in round 13
+Derke killed Wo0t  in round 13
+Boo killed Derke  in round 13
+Round 13 ended with elimination. The winning team is Team Heretics.
+The current score is FNATIC 4 - 9 Team Heretics.
+Boo killed Chronicle  in round 14
+Alfajer killed benjyfishy  in round 14
+Alfajer killed Wo0t  in round 14
+Boo killed Alfajer  in round 14
+RieNs killed Leo   in round 14
+Boaster killed Boo  in round 14
+RieNs killed Boaster  in round 14
+Derke killed RieNs  in round 14
+MiniBoo killed Derke  in round 14
+Round 14 ended with elimination. The winning team is Team Heretics.
+The current score is FNATIC 4 - 10 Team Heretics.
+Alfajer killed RieNs  in round 15
+Chronicle killed Wo0t  in round 15
+Boo killed Alfajer  in round 15
+MiniBoo killed Chronicle  in round 15
+Leo  killed MiniBoo  in round 15
+Leo  killed Boo  in round 15
+Boaster killed benjyfishy  in round 15
+Round 15 ended with elimination. The winning team is FNATIC.
+The current score is FNATIC 5 - 10 Team Heretics.
+benjyfishy killed Boaster  in round 16
+Derke killed MiniBoo  in round 16
+Boo killed Leo   in round 16
+Alfajer killed Boo  in round 16
+benjyfishy killed Alfajer  in round 16
+Derke killed Wo0t  in round 16
+Chronicle killed RieNs  in round 16
+benjyfishy killed Chronicle  in round 16
+benjyfishy killed Derke  in round 16
+Round 16 ended with elimination. The winning team is Team Heretics.
+The current score is FNATIC 5 - 11 Team Heretics.
+Derke killed Boo  in round 17
+MiniBoo killed Derke  in round 17
+Leo  killed MiniBoo  in round 17
+Boaster killed Wo0t  in round 17
+Alfajer killed benjyfishy  in round 17
+Round 17 ended with time_expired. The winning team is FNATIC.
+The current score is FNATIC 6 - 11 Team Heretics.
+Derke killed RieNs  in round 18
+Wo0t killed Derke  in round 18
+Boaster killed benjyfishy  in round 18
+Alfajer killed MiniBoo  in round 18
+Alfajer killed Boo  in round 18
+Chronicle killed Wo0t  in round 18
+Round 18 ended with elimination. The winning team is FNATIC.
+The current score is FNATIC 7 - 11 Team Heretics.
+Wo0t killed Boaster  in round 19
+Wo0t killed Derke  in round 19
+Alfajer killed benjyfishy  in round 19
+Boo killed Alfajer  in round 19
+Leo  killed MiniBoo  in round 19
+Leo  killed Boo  in round 19
+Wo0t killed Leo   in round 19
+Chronicle killed RieNs  in round 19
+Wo0t killed Chronicle  in round 19
+Round 19 ended with elimination. The winning team is Team Heretics.
+The current score is FNATIC 7 - 12 Team Heretics.
+benjyfishy killed Alfajer  in round 20
+Chronicle killed Wo0t  in round 20
+Chronicle killed MiniBoo  in round 20
+Boaster killed benjyfishy  in round 20
+Boo killed Chronicle  in round 20
+RieNs killed Derke  in round 20
+RieNs killed Leo   in round 20
+Boo killed Boaster  in round 20
+Round 20 ended with elimination. The winning team is Team Heretics.
+The current score is FNATIC 7 - 13 Team Heretics.
+Game ended with winning team: Team Heretics at 2024-05-12T15:50:13Z
+
+--- Player Stats ---
+MiniBoo: Team=Team Heretics, Kills=14, Deaths=16, Assists=7, KDA=1.31, First Kills=1, First Deaths=1
+RieNs: Team=Team Heretics, Kills=15, Deaths=13, Assists=14, KDA=2.23, First Kills=2, First Deaths=2
+Boo: Team=Team Heretics, Kills=15, Deaths=11, Assists=11, KDA=2.36, First Kills=2, First Deaths=1
+benjyfishy: Team=Team Heretics, Kills=17, Deaths=12, Assists=2, KDA=1.58, First Kills=2, First Deaths=1
+Wo0t: Team=Team Heretics, Kills=15, Deaths=13, Assists=11, KDA=2.0, First Kills=6, First Deaths=1
+Chronicle: Team=FNATIC, Kills=9, Deaths=15, Assists=7, KDA=1.07, First Kills=0, First Deaths=3
+Derke: Team=FNATIC, Kills=14, Deaths=18, Assists=4, KDA=1.0, First Kills=2, First Deaths=4
+Boaster: Team=FNATIC, Kills=13, Deaths=15, Assists=2, KDA=1.0, First Kills=1, First Deaths=3
+Leo : Team=FNATIC, Kills=14, Deaths=14, Assists=12, KDA=1.86, First Kills=2, First Deaths=1
+Alfajer: Team=FNATIC, Kills=17, Deaths=16, Assists=5, KDA=1.38, First Kills=2, First Deaths=3

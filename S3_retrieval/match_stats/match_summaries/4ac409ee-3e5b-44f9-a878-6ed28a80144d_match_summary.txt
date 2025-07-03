@@ -1,0 +1,182 @@
+Team 1: G2 Esports
+Team 2: MIBR
+Participating Players:
+Player 1: rglmeister
+Player 2: frz
+Player 3: mazin
+Player 4: jzz
+Player 5: artzin
+Player 6: icy
+Player 7: Leaf
+Player 8: valyn
+Player 9: trent
+Player 10: JonahP
+Winning Team: G2 Esports
+Score: G2 Esports 13 - 3 MIBR
+Tournament Name: vct americas stage 1 2024
+Game Start Time: 2024-04-27T22:07:24Z
+Game End Time: 2024-04-27T22:43:29Z
+Rounds ended by ELIMINATION count: 8
+Rounds ended by DEFUSE count: 2
+Rounds ended by DETONATE count: 6
+SPIKE PLANTED count: 8
+platformGameId: val:4ac409ee-3e5b-44f9-a878-6ed28a80144d
+
+--- Events ---
+Game started at 2024-04-27T22:07:24Z
+trent killed artzin  in round 1
+Leaf killed frz  in round 1
+artzin killed icy  in round 1
+jzz killed Leaf  in round 1
+valyn killed jzz  in round 1
+rglmeister killed JonahP  in round 1
+rglmeister killed valyn  in round 1
+trent killed mazin  in round 1
+trent killed rglmeister  in round 1
+Round 1 ended with elimination. The winning team is G2 Esports.
+The current score is G2 Esports 1 - 0 MIBR.
+jzz killed trent  in round 2
+icy killed frz  in round 2
+rglmeister killed icy  in round 2
+jzz killed valyn  in round 2
+artzin killed JonahP  in round 2
+Leaf killed rglmeister  in round 2
+mazin killed Leaf  in round 2
+artzin killed artzin  in round 2
+Round 2 ended with detonate. The winning team is G2 Esports.
+The current score is G2 Esports 2 - 0 MIBR.
+mazin killed mazin  in round 3
+artzin killed icy  in round 3
+trent killed artzin  in round 3
+Leaf killed jzz  in round 3
+Leaf killed mazin  in round 3
+JonahP killed rglmeister  in round 3
+Round 3 ended with detonate. The winning team is G2 Esports.
+The current score is G2 Esports 3 - 0 MIBR.
+frz killed icy  in round 4
+frz killed Leaf  in round 4
+valyn killed rglmeister  in round 4
+valyn killed frz  in round 4
+trent killed mazin  in round 4
+jzz killed valyn  in round 4
+JonahP killed artzin  in round 4
+trent killed jzz  in round 4
+Round 4 ended with elimination. The winning team is G2 Esports.
+The current score is G2 Esports 4 - 0 MIBR.
+Leaf killed jzz  in round 5
+rglmeister killed valyn  in round 5
+trent killed frz  in round 5
+Round 5 ended with detonate. The winning team is G2 Esports.
+The current score is G2 Esports 5 - 0 MIBR.
+Leaf killed Leaf  in round 6
+icy killed rglmeister  in round 6
+icy killed mazin  in round 6
+valyn killed artzin  in round 6
+icy killed frz  in round 6
+valyn killed jzz  in round 6
+Round 6 ended with elimination. The winning team is G2 Esports.
+The current score is G2 Esports 6 - 0 MIBR.
+icy killed jzz  in round 7
+valyn killed artzin  in round 7
+mazin killed valyn  in round 7
+icy killed frz  in round 7
+icy killed rglmeister  in round 7
+JonahP killed mazin  in round 7
+Round 7 ended with elimination. The winning team is G2 Esports.
+The current score is G2 Esports 7 - 0 MIBR.
+icy killed mazin  in round 8
+icy killed rglmeister  in round 8
+Leaf killed artzin  in round 8
+jzz killed JonahP  in round 8
+Leaf killed jzz  in round 8
+Round 8 ended with detonate. The winning team is G2 Esports.
+The current score is G2 Esports 8 - 0 MIBR.
+artzin killed icy  in round 9
+rglmeister killed Leaf  in round 9
+valyn killed rglmeister  in round 9
+valyn killed artzin  in round 9
+jzz killed valyn  in round 9
+JonahP killed jzz  in round 9
+mazin killed JonahP  in round 9
+trent killed frz  in round 9
+trent killed mazin  in round 9
+Round 9 ended with elimination. The winning team is G2 Esports.
+The current score is G2 Esports 9 - 0 MIBR.
+trent killed trent  in round 10
+artzin killed valyn  in round 10
+Leaf killed rglmeister  in round 10
+jzz killed trent  in round 10
+icy killed jzz  in round 10
+mazin killed JonahP  in round 10
+icy killed mazin  in round 10
+Leaf killed artzin  in round 10
+frz killed Leaf  in round 10
+frz killed icy  in round 10
+Round 10 ended with spike_defuse. The winning team is MIBR.
+The current score is G2 Esports 9 - 1 MIBR.
+valyn killed frz  in round 11
+jzz killed icy  in round 11
+JonahP killed jzz  in round 11
+Leaf killed rglmeister  in round 11
+mazin killed valyn  in round 11
+JonahP killed mazin  in round 11
+Round 11 ended with detonate. The winning team is G2 Esports.
+The current score is G2 Esports 10 - 1 MIBR.
+valyn killed artzin  in round 12
+mazin killed Leaf  in round 12
+JonahP killed mazin  in round 12
+JonahP killed rglmeister  in round 12
+valyn killed frz  in round 12
+jzz killed JonahP  in round 12
+jzz killed icy  in round 12
+valyn killed jzz  in round 12
+Round 12 ended with elimination. The winning team is G2 Esports.
+The current score is G2 Esports 11 - 1 MIBR.
+artzin killed Leaf  in round 13
+frz killed icy  in round 13
+artzin killed valyn  in round 13
+JonahP killed mazin  in round 13
+jzz killed trent  in round 13
+rglmeister killed JonahP  in round 13
+Round 13 ended with elimination. The winning team is MIBR.
+The current score is G2 Esports 11 - 2 MIBR.
+frz killed trent  in round 14
+Leaf killed frz  in round 14
+valyn killed mazin  in round 14
+jzz killed valyn  in round 14
+icy killed jzz  in round 14
+artzin killed icy  in round 14
+artzin killed JonahP  in round 14
+Round 14 ended with detonate. The winning team is MIBR.
+The current score is G2 Esports 11 - 3 MIBR.
+Leaf killed Leaf  in round 15
+trent killed frz  in round 15
+valyn killed jzz  in round 15
+valyn killed mazin  in round 15
+artzin killed valyn  in round 15
+icy killed artzin  in round 15
+rglmeister killed trent  in round 15
+rglmeister killed JonahP  in round 15
+icy killed rglmeister  in round 15
+Round 15 ended with elimination. The winning team is G2 Esports.
+The current score is G2 Esports 12 - 3 MIBR.
+JonahP killed jzz  in round 16
+valyn killed artzin  in round 16
+valyn killed rglmeister  in round 16
+valyn killed frz  in round 16
+Leaf killed mazin  in round 16
+Round 16 ended with spike_defuse. The winning team is G2 Esports.
+The current score is G2 Esports 13 - 3 MIBR.
+Game ended with winning team: G2 Esports at 2024-04-27T22:43:29Z
+
+--- Player Stats ---
+rglmeister: Team=MIBR, Kills=8, Deaths=13, Assists=2, KDA=0.77, First Kills=0, First Deaths=0
+frz: Team=MIBR, Kills=6, Deaths=12, Assists=8, KDA=1.17, First Kills=2, First Deaths=1
+mazin: Team=MIBR, Kills=7, Deaths=15, Assists=4, KDA=0.73, First Kills=1, First Deaths=2
+jzz: Team=MIBR, Kills=12, Deaths=14, Assists=1, KDA=0.93, First Kills=1, First Deaths=3
+artzin: Team=MIBR, Kills=11, Deaths=12, Assists=4, KDA=1.25, First Kills=2, First Deaths=2
+icy: Team=G2 Esports, Kills=14, Deaths=10, Assists=4, KDA=1.8, First Kills=2, First Deaths=2
+Leaf: Team=G2 Esports, Kills=14, Deaths=9, Assists=4, KDA=2.0, First Kills=3, First Deaths=3
+valyn: Team=G2 Esports, Kills=18, Deaths=11, Assists=6, KDA=2.18, First Kills=2, First Deaths=0
+trent: Team=G2 Esports, Kills=11, Deaths=6, Assists=5, KDA=2.67, First Kills=2, First Deaths=3
+JonahP: Team=G2 Esports, Kills=10, Deaths=9, Assists=6, KDA=1.78, First Kills=1, First Deaths=0

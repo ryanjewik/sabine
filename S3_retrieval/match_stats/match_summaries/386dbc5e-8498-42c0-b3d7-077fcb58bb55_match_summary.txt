@@ -1,0 +1,217 @@
+Team 1: Team Liquid
+Team 2: Team Heretics
+Participating Players:
+Player 1: MiniBoo
+Player 2: RieNs
+Player 3: Boo
+Player 4: benjyfishy
+Player 5: Wo0t
+Player 6: Mistic
+Player 7: nAts
+Player 8: Enzo 
+Player 9: Keiko
+Player 10: Jamppi
+Winning Team: Team Heretics
+Score: Team Liquid 7 - 13 Team Heretics
+Tournament Name: vct emea stage 1 2024
+Game Start Time: 2024-04-24T15:44:40Z
+Game End Time: 2024-04-24T16:31:03Z
+Rounds ended by ELIMINATION count: 13
+Rounds ended by DEFUSE count: 4
+Rounds ended by DETONATE count: 2
+SPIKE PLANTED count: 6
+platformGameId: val:386dbc5e-8498-42c0-b3d7-077fcb58bb55
+
+--- Events ---
+Game started at 2024-04-24T15:44:40Z
+Wo0t killed Enzo   in round 1
+Wo0t killed Jamppi  in round 1
+Boo killed Keiko  in round 1
+nAts killed MiniBoo  in round 1
+benjyfishy killed nAts  in round 1
+Round 1 ended with time_expired. The winning team is Team Heretics.
+The current score is Team Liquid 0 - 1 Team Heretics.
+Wo0t killed Mistic  in round 2
+MiniBoo killed nAts  in round 2
+benjyfishy killed Jamppi  in round 2
+RieNs killed Keiko  in round 2
+MiniBoo killed Enzo   in round 2
+Mistic killed MiniBoo  in round 2
+Mistic killed benjyfishy  in round 2
+Boo killed Mistic  in round 2
+Round 2 ended with elimination. The winning team is Team Heretics.
+The current score is Team Liquid 0 - 2 Team Heretics.
+Boo killed Keiko  in round 3
+MiniBoo killed Enzo   in round 3
+Mistic killed MiniBoo  in round 3
+nAts killed benjyfishy  in round 3
+Mistic killed RieNs  in round 3
+Jamppi killed Wo0t  in round 3
+Jamppi killed Boo  in round 3
+Round 3 ended with elimination. The winning team is Team Liquid.
+The current score is Team Liquid 1 - 2 Team Heretics.
+MiniBoo killed Keiko  in round 4
+benjyfishy killed Jamppi  in round 4
+Mistic killed benjyfishy  in round 4
+Mistic killed MiniBoo  in round 4
+Wo0t killed Mistic  in round 4
+Wo0t killed Enzo   in round 4
+nAts killed Boo  in round 4
+Round 4 ended with spike_defuse. The winning team is Team Heretics.
+The current score is Team Liquid 1 - 3 Team Heretics.
+nAts killed RieNs  in round 5
+nAts killed Wo0t  in round 5
+benjyfishy killed Jamppi  in round 5
+Keiko killed benjyfishy  in round 5
+Wo0t killed Keiko  in round 5
+Wo0t killed Enzo   in round 5
+Wo0t killed nAts  in round 5
+Wo0t killed Mistic  in round 5
+Round 5 ended with elimination. The winning team is Team Heretics.
+The current score is Team Liquid 1 - 4 Team Heretics.
+benjyfishy killed nAts  in round 6
+benjyfishy killed Keiko  in round 6
+benjyfishy killed Jamppi  in round 6
+benjyfishy killed Mistic  in round 6
+RieNs killed Enzo   in round 6
+Round 6 ended with elimination. The winning team is Team Heretics.
+The current score is Team Liquid 1 - 5 Team Heretics.
+MiniBoo killed Jamppi  in round 7
+Keiko killed Boo  in round 7
+nAts killed RieNs  in round 7
+benjyfishy killed Enzo   in round 7
+nAts killed benjyfishy  in round 7
+Wo0t killed Keiko  in round 7
+Wo0t killed Mistic  in round 7
+Wo0t killed nAts  in round 7
+Round 7 ended with spike_defuse. The winning team is Team Heretics.
+The current score is Team Liquid 1 - 6 Team Heretics.
+Keiko killed MiniBoo  in round 8
+Mistic killed RieNs  in round 8
+benjyfishy killed Keiko  in round 8
+Jamppi killed benjyfishy  in round 8
+Wo0t killed Mistic  in round 8
+nAts killed Wo0t  in round 8
+Enzo  killed Boo  in round 8
+Round 8 ended with elimination. The winning team is Team Liquid.
+The current score is Team Liquid 2 - 6 Team Heretics.
+nAts killed MiniBoo  in round 9
+Keiko killed Wo0t  in round 9
+Round 9 ended with detonate. The winning team is Team Liquid.
+The current score is Team Liquid 3 - 6 Team Heretics.
+RieNs killed Jamppi  in round 10
+RieNs killed Enzo   in round 10
+benjyfishy killed nAts  in round 10
+Wo0t killed Keiko  in round 10
+Jamppi killed Wo0t  in round 10
+Boo killed Jamppi  in round 10
+Mistic killed MiniBoo  in round 10
+Boo killed Mistic  in round 10
+Round 10 ended with spike_defuse. The winning team is Team Heretics.
+The current score is Team Liquid 3 - 7 Team Heretics.
+RieNs killed Enzo   in round 11
+Keiko killed benjyfishy  in round 11
+Keiko killed RieNs  in round 11
+MiniBoo killed Jamppi  in round 11
+Mistic killed MiniBoo  in round 11
+Wo0t killed Mistic  in round 11
+nAts killed Wo0t  in round 11
+nAts killed Boo  in round 11
+Round 11 ended with elimination. The winning team is Team Liquid.
+The current score is Team Liquid 4 - 7 Team Heretics.
+Keiko killed RieNs  in round 12
+Keiko killed benjyfishy  in round 12
+Jamppi killed Boo  in round 12
+Wo0t killed Keiko  in round 12
+Enzo  killed Wo0t  in round 12
+MiniBoo killed Mistic  in round 12
+nAts killed MiniBoo  in round 12
+Round 12 ended with elimination. The winning team is Team Liquid.
+The current score is Team Liquid 5 - 7 Team Heretics.
+Keiko killed Wo0t  in round 13
+MiniBoo killed Keiko  in round 13
+nAts killed MiniBoo  in round 13
+benjyfishy killed nAts  in round 13
+Jamppi killed benjyfishy  in round 13
+Boo killed Jamppi  in round 13
+Enzo  killed RieNs  in round 13
+Enzo  killed Boo  in round 13
+Round 13 ended with spike_defuse. The winning team is Team Liquid.
+The current score is Team Liquid 6 - 7 Team Heretics.
+Keiko killed RieNs  in round 14
+MiniBoo killed Enzo   in round 14
+Keiko killed Boo  in round 14
+Keiko killed benjyfishy  in round 14
+MiniBoo killed Keiko  in round 14
+nAts killed MiniBoo  in round 14
+nAts killed Wo0t  in round 14
+Round 14 ended with elimination. The winning team is Team Liquid.
+The current score is Team Liquid 7 - 7 Team Heretics.
+nAts killed Wo0t  in round 15
+MiniBoo killed nAts  in round 15
+benjyfishy killed Enzo   in round 15
+benjyfishy killed Keiko  in round 15
+MiniBoo killed Jamppi  in round 15
+Mistic killed MiniBoo  in round 15
+RieNs killed Mistic  in round 15
+Round 15 ended with elimination. The winning team is Team Heretics.
+The current score is Team Liquid 7 - 8 Team Heretics.
+Wo0t killed Jamppi  in round 16
+Keiko killed benjyfishy  in round 16
+MiniBoo killed Mistic  in round 16
+nAts killed RieNs  in round 16
+MiniBoo killed nAts  in round 16
+Enzo  killed MiniBoo  in round 16
+Keiko killed Wo0t  in round 16
+Boo killed Keiko  in round 16
+Boo killed Enzo   in round 16
+Round 16 ended with elimination. The winning team is Team Heretics.
+The current score is Team Liquid 7 - 9 Team Heretics.
+Wo0t killed Enzo   in round 17
+benjyfishy killed nAts  in round 17
+Jamppi killed Wo0t  in round 17
+Round 17 ended with detonate. The winning team is Team Heretics.
+The current score is Team Liquid 7 - 10 Team Heretics.
+Jamppi killed Jamppi  in round 18
+Keiko killed Keiko  in round 18
+Mistic killed Mistic  in round 18
+benjyfishy killed Mistic  in round 18
+MiniBoo killed Jamppi  in round 18
+Keiko killed MiniBoo  in round 18
+Keiko killed benjyfishy  in round 18
+nAts killed RieNs  in round 18
+Boo killed nAts  in round 18
+Wo0t killed Enzo   in round 18
+Wo0t killed Keiko  in round 18
+Round 18 ended with elimination. The winning team is Team Heretics.
+The current score is Team Liquid 7 - 11 Team Heretics.
+Keiko killed RieNs  in round 19
+MiniBoo killed Jamppi  in round 19
+MiniBoo killed Enzo   in round 19
+Keiko killed Boo  in round 19
+benjyfishy killed Keiko  in round 19
+MiniBoo killed nAts  in round 19
+Wo0t killed Mistic  in round 19
+Round 19 ended with elimination. The winning team is Team Heretics.
+The current score is Team Liquid 7 - 12 Team Heretics.
+MiniBoo killed Enzo   in round 20
+RieNs killed Keiko  in round 20
+Mistic killed RieNs  in round 20
+Wo0t killed Jamppi  in round 20
+Wo0t killed nAts  in round 20
+benjyfishy killed Mistic  in round 20
+Round 20 ended with elimination. The winning team is Team Heretics.
+The current score is Team Liquid 7 - 13 Team Heretics.
+Game ended with winning team: Team Heretics at 2024-04-24T16:31:03Z
+
+--- Player Stats ---
+MiniBoo: Team=Team Heretics, Kills=19, Deaths=14, Assists=6, KDA=1.79, First Kills=3, First Deaths=2
+RieNs: Team=Team Heretics, Kills=7, Deaths=12, Assists=11, KDA=1.5, First Kills=2, First Deaths=4
+Boo: Team=Team Heretics, Kills=9, Deaths=9, Assists=10, KDA=2.11, First Kills=1, First Deaths=0
+benjyfishy: Team=Team Heretics, Kills=18, Deaths=12, Assists=6, KDA=2.0, First Kills=1, First Deaths=0
+Wo0t: Team=Team Heretics, Kills=23, Deaths=12, Assists=5, KDA=2.33, First Kills=4, First Deaths=2
+Mistic: Team=Team Liquid, Kills=12, Deaths=16, Assists=10, KDA=1.38, First Kills=0, First Deaths=1
+nAts: Team=Team Liquid, Kills=18, Deaths=13, Assists=4, KDA=1.69, First Kills=3, First Deaths=1
+Enzo : Team=Team Liquid, Kills=5, Deaths=16, Assists=4, KDA=0.56, First Kills=0, First Deaths=4
+Keiko: Team=Team Liquid, Kills=19, Deaths=18, Assists=5, KDA=1.33, First Kills=5, First Deaths=2
+Jamppi: Team=Team Liquid, Kills=8, Deaths=16, Assists=9, KDA=1.06, First Kills=1, First Deaths=4

@@ -1,0 +1,245 @@
+Team 1: G2 Esports
+Team 2: PAPER REX
+Participating Players:
+Player 1: f0rsakeN
+Player 2: mindfreak
+Player 3: d4v41
+Player 4: something
+Player 5: Jinggg
+Player 6: icy
+Player 7: Leaf
+Player 8: valyn
+Player 9: trent
+Player 10: JonahP
+Winning Team: G2 Esports
+Score: G2 Esports 13 - 10 PAPER REX
+Tournament Name: vct masters shanghai 2024
+Game Start Time: 2024-05-31T09:02:00Z
+Game End Time: 2024-05-31T09:50:42Z
+Rounds ended by ELIMINATION count: 11
+Rounds ended by DEFUSE count: 9
+Rounds ended by DETONATE count: 2
+SPIKE PLANTED count: 11
+platformGameId: val:0fb066fa-133a-459f-bb84-e6a417055080
+
+--- Events ---
+Game started at 2024-05-31T09:02:00Z
+JonahP killed something  in round 1
+Leaf killed f0rsakeN  in round 1
+d4v41 killed Leaf  in round 1
+JonahP killed Jinggg  in round 1
+mindfreak killed JonahP  in round 1
+trent killed d4v41  in round 1
+mindfreak killed trent  in round 1
+icy killed mindfreak  in round 1
+Round 1 ended with elimination. The winning team is G2 Esports.
+The current score is G2 Esports 1 - 0 PAPER REX.
+icy killed d4v41  in round 2
+icy killed mindfreak  in round 2
+trent killed Jinggg  in round 2
+JonahP killed f0rsakeN  in round 2
+something killed JonahP  in round 2
+something killed Leaf  in round 2
+icy killed something  in round 2
+Round 2 ended with elimination. The winning team is G2 Esports.
+The current score is G2 Esports 2 - 0 PAPER REX.
+Leaf killed something  in round 3
+icy killed mindfreak  in round 3
+d4v41 killed icy  in round 3
+trent killed d4v41  in round 3
+Round 3 ended with detonate. The winning team is G2 Esports.
+The current score is G2 Esports 3 - 0 PAPER REX.
+mindfreak killed JonahP  in round 4
+trent killed mindfreak  in round 4
+icy killed trent  in round 4
+d4v41 killed icy  in round 4
+d4v41 killed valyn  in round 4
+Leaf killed Jinggg  in round 4
+d4v41 killed Leaf  in round 4
+Round 4 ended with elimination. The winning team is PAPER REX.
+The current score is G2 Esports 3 - 1 PAPER REX.
+d4v41 killed valyn  in round 5
+Jinggg killed Leaf  in round 5
+Jinggg killed JonahP  in round 5
+trent killed Jinggg  in round 5
+icy killed d4v41  in round 5
+trent killed f0rsakeN  in round 5
+mindfreak killed trent  in round 5
+icy killed mindfreak  in round 5
+something killed icy  in round 5
+Round 5 ended with spike_defuse. The winning team is PAPER REX.
+The current score is G2 Esports 3 - 2 PAPER REX.
+f0rsakeN killed Leaf  in round 6
+something killed icy  in round 6
+d4v41 killed JonahP  in round 6
+d4v41 killed trent  in round 6
+Round 6 ended with time_expired. The winning team is PAPER REX.
+The current score is G2 Esports 3 - 3 PAPER REX.
+mindfreak killed JonahP  in round 7
+icy killed mindfreak  in round 7
+trent killed f0rsakeN  in round 7
+d4v41 killed icy  in round 7
+trent killed d4v41  in round 7
+trent killed Jinggg  in round 7
+something killed valyn  in round 7
+something killed Leaf  in round 7
+something killed trent  in round 7
+Round 7 ended with spike_defuse. The winning team is PAPER REX.
+The current score is G2 Esports 3 - 4 PAPER REX.
+d4v41 killed Leaf  in round 8
+f0rsakeN killed trent  in round 8
+Jinggg killed valyn  in round 8
+Jinggg killed icy  in round 8
+Jinggg killed JonahP  in round 8
+Round 8 ended with spike_defuse. The winning team is PAPER REX.
+The current score is G2 Esports 3 - 5 PAPER REX.
+Leaf killed f0rsakeN  in round 9
+something killed Leaf  in round 9
+d4v41 killed valyn  in round 9
+trent killed something  in round 9
+Jinggg killed trent  in round 9
+icy killed Jinggg  in round 9
+d4v41 killed icy  in round 9
+JonahP killed d4v41  in round 9
+mindfreak killed JonahP  in round 9
+Round 9 ended with spike_defuse. The winning team is PAPER REX.
+The current score is G2 Esports 3 - 6 PAPER REX.
+valyn killed Jinggg  in round 10
+valyn killed mindfreak  in round 10
+Leaf killed d4v41  in round 10
+something killed icy  in round 10
+Leaf killed f0rsakeN  in round 10
+JonahP killed something  in round 10
+Round 10 ended with elimination. The winning team is G2 Esports.
+The current score is G2 Esports 4 - 6 PAPER REX.
+JonahP killed something  in round 11
+JonahP killed f0rsakeN  in round 11
+Jinggg killed JonahP  in round 11
+icy killed Jinggg  in round 11
+d4v41 killed icy  in round 11
+Leaf killed d4v41  in round 11
+mindfreak killed trent  in round 11
+mindfreak killed Leaf  in round 11
+valyn killed mindfreak  in round 11
+Round 11 ended with elimination. The winning team is G2 Esports.
+The current score is G2 Esports 5 - 6 PAPER REX.
+icy killed Jinggg  in round 12
+icy killed f0rsakeN  in round 12
+d4v41 killed icy  in round 12
+icy killed d4v41  in round 12
+JonahP killed something  in round 12
+Leaf killed mindfreak  in round 12
+Round 12 ended with elimination. The winning team is G2 Esports.
+The current score is G2 Esports 6 - 6 PAPER REX.
+valyn killed something  in round 13
+valyn killed mindfreak  in round 13
+valyn killed d4v41  in round 13
+trent killed Jinggg  in round 13
+valyn killed f0rsakeN  in round 13
+Round 13 ended with spike_defuse. The winning team is G2 Esports.
+The current score is G2 Esports 7 - 6 PAPER REX.
+Leaf killed something  in round 14
+Jinggg killed Leaf  in round 14
+valyn killed Jinggg  in round 14
+icy killed d4v41  in round 14
+valyn killed mindfreak  in round 14
+icy killed f0rsakeN  in round 14
+Round 14 ended with spike_defuse. The winning team is G2 Esports.
+The current score is G2 Esports 8 - 6 PAPER REX.
+Leaf killed d4v41  in round 15
+trent killed something  in round 15
+mindfreak killed Leaf  in round 15
+trent killed mindfreak  in round 15
+f0rsakeN killed JonahP  in round 15
+icy killed f0rsakeN  in round 15
+Jinggg killed icy  in round 15
+valyn killed Jinggg  in round 15
+Round 15 ended with spike_defuse. The winning team is G2 Esports.
+The current score is G2 Esports 9 - 6 PAPER REX.
+valyn killed d4v41  in round 16
+valyn killed mindfreak  in round 16
+something killed valyn  in round 16
+something killed JonahP  in round 16
+Leaf killed f0rsakeN  in round 16
+trent killed something  in round 16
+trent killed Jinggg  in round 16
+Round 16 ended with elimination. The winning team is G2 Esports.
+The current score is G2 Esports 10 - 6 PAPER REX.
+JonahP killed something  in round 17
+mindfreak killed JonahP  in round 17
+d4v41 killed Leaf  in round 17
+Jinggg killed valyn  in round 17
+mindfreak killed trent  in round 17
+d4v41 killed icy  in round 17
+Round 17 ended with elimination. The winning team is PAPER REX.
+The current score is G2 Esports 10 - 7 PAPER REX.
+JonahP killed something  in round 18
+mindfreak killed JonahP  in round 18
+valyn killed f0rsakeN  in round 18
+trent killed mindfreak  in round 18
+valyn killed d4v41  in round 18
+icy killed Jinggg  in round 18
+Round 18 ended with elimination. The winning team is G2 Esports.
+The current score is G2 Esports 11 - 7 PAPER REX.
+JonahP killed mindfreak  in round 19
+JonahP killed something  in round 19
+icy killed Jinggg  in round 19
+valyn killed f0rsakeN  in round 19
+d4v41 killed valyn  in round 19
+icy killed d4v41  in round 19
+Round 19 ended with spike_defuse. The winning team is G2 Esports.
+The current score is G2 Esports 12 - 7 PAPER REX.
+JonahP killed d4v41  in round 20
+f0rsakeN killed valyn  in round 20
+JonahP killed f0rsakeN  in round 20
+JonahP killed Jinggg  in round 20
+Leaf killed mindfreak  in round 20
+something killed trent  in round 20
+something killed icy  in round 20
+something killed JonahP  in round 20
+Leaf killed something  in round 20
+Round 20 ended with detonate. The winning team is PAPER REX.
+The current score is G2 Esports 12 - 8 PAPER REX.
+Leaf killed f0rsakeN  in round 21
+Leaf killed something  in round 21
+mindfreak killed valyn  in round 21
+d4v41 killed JonahP  in round 21
+icy killed mindfreak  in round 21
+d4v41 killed trent  in round 21
+Leaf killed d4v41  in round 21
+Jinggg killed icy  in round 21
+Jinggg killed Leaf  in round 21
+Round 21 ended with elimination. The winning team is PAPER REX.
+The current score is G2 Esports 12 - 9 PAPER REX.
+Jinggg killed Leaf  in round 22
+valyn killed f0rsakeN  in round 22
+mindfreak killed trent  in round 22
+something killed valyn  in round 22
+JonahP killed something  in round 22
+JonahP killed mindfreak  in round 22
+Jinggg killed JonahP  in round 22
+Jinggg killed icy  in round 22
+Round 22 ended with elimination. The winning team is PAPER REX.
+The current score is G2 Esports 12 - 10 PAPER REX.
+Jinggg killed JonahP  in round 23
+icy killed d4v41  in round 23
+Jinggg killed trent  in round 23
+Leaf killed Jinggg  in round 23
+Leaf killed something  in round 23
+icy killed f0rsakeN  in round 23
+Leaf killed mindfreak  in round 23
+Round 23 ended with spike_defuse. The winning team is G2 Esports.
+The current score is G2 Esports 13 - 10 PAPER REX.
+Game ended with winning team: G2 Esports at 2024-05-31T09:50:42Z
+
+--- Player Stats ---
+f0rsakeN: Team=PAPER REX, Kills=4, Deaths=18, Assists=12, KDA=0.89, First Kills=1, First Deaths=2
+mindfreak: Team=PAPER REX, Kills=14, Deaths=19, Assists=5, KDA=1.0, First Kills=2, First Deaths=1
+d4v41: Team=PAPER REX, Kills=19, Deaths=18, Assists=7, KDA=1.44, First Kills=2, First Deaths=4
+something: Team=PAPER REX, Kills=15, Deaths=18, Assists=4, KDA=1.06, First Kills=0, First Deaths=7
+Jinggg: Team=PAPER REX, Kills=17, Deaths=17, Assists=5, KDA=1.29, First Kills=2, First Deaths=2
+icy: Team=G2 Esports, Kills=23, Deaths=15, Assists=5, KDA=1.87, First Kills=2, First Deaths=0
+Leaf: Team=G2 Esports, Kills=19, Deaths=14, Assists=3, KDA=1.57, First Kills=5, First Deaths=3
+valyn: Team=G2 Esports, Kills=16, Deaths=11, Assists=11, KDA=2.45, First Kills=3, First Deaths=1
+trent: Team=G2 Esports, Kills=16, Deaths=13, Assists=7, KDA=1.77, First Kills=0, First Deaths=0
+JonahP: Team=G2 Esports, Kills=17, Deaths=17, Assists=7, KDA=1.41, First Kills=6, First Deaths=3

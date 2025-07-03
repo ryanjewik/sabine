@@ -1,0 +1,205 @@
+Team 1: None
+Team 2: LOUD
+Participating Players:
+Player 1: aspas
+Player 2: Sacy
+Player 3: Saadhak
+Player 4: Less
+Player 5: pANcada
+Player 6: crashies
+Player 7: Victor
+Player 8: FNS
+Player 9: Marved
+Player 10: yay
+Winning Team: None
+Score: None 13 - 6 LOUD
+Tournament Name: champions 2022
+Game Start Time: 2022-09-18T15:29:45Z
+Game End Time: 2022-09-18T16:25:52Z
+Rounds ended by ELIMINATION count: 10
+Rounds ended by DEFUSE count: 3
+Rounds ended by DETONATE count: 5
+SPIKE PLANTED count: 8
+platformGameId: val:31b1483b-749d-420d-a9ce-130d6c1bf701
+
+--- Events ---
+Game started at 2022-09-18T15:29:45Z
+crashies killed Less  in round 1
+Sacy killed Victor  in round 1
+pANcada killed crashies  in round 1
+yay killed pANcada  in round 1
+aspas killed FNS  in round 1
+Sacy killed yay  in round 1
+Marved killed Saadhak  in round 1
+Marved killed aspas  in round 1
+Marved killed Sacy  in round 1
+Round 1 ended with elimination. The winning team is None.
+The current score is None 1 - 0 LOUD.
+Sacy killed yay  in round 2
+aspas killed FNS  in round 2
+Victor killed aspas  in round 2
+Saadhak killed Victor  in round 2
+Marved killed Saadhak  in round 2
+Marved killed Less  in round 2
+Sacy killed Marved  in round 2
+crashies killed Sacy  in round 2
+crashies killed pANcada  in round 2
+Round 2 ended with elimination. The winning team is None.
+The current score is None 2 - 0 LOUD.
+FNS killed Saadhak  in round 3
+Less killed FNS  in round 3
+aspas killed Victor  in round 3
+crashies killed aspas  in round 3
+Less killed Marved  in round 3
+yay killed Less  in round 3
+pANcada killed crashies  in round 3
+yay killed Sacy  in round 3
+Round 3 ended with detonate. The winning team is None.
+The current score is None 3 - 0 LOUD.
+Saadhak killed Victor  in round 4
+Marved killed Sacy  in round 4
+crashies killed Less  in round 4
+Marved killed pANcada  in round 4
+yay killed aspas  in round 4
+yay killed Saadhak  in round 4
+Round 4 ended with elimination. The winning team is None.
+The current score is None 4 - 0 LOUD.
+aspas killed crashies  in round 5
+pANcada killed Victor  in round 5
+Marved killed Sacy  in round 5
+pANcada killed Marved  in round 5
+yay killed pANcada  in round 5
+FNS killed aspas  in round 5
+Saadhak killed FNS  in round 5
+Saadhak killed yay  in round 5
+Round 5 ended with spike_defuse. The winning team is LOUD.
+The current score is None 4 - 1 LOUD.
+pANcada killed Victor  in round 6
+aspas killed yay  in round 6
+FNS killed aspas  in round 6
+pANcada killed FNS  in round 6
+Marved killed pANcada  in round 6
+Sacy killed Marved  in round 6
+Less killed crashies  in round 6
+Round 6 ended with elimination. The winning team is LOUD.
+The current score is None 4 - 2 LOUD.
+Marved killed Sacy  in round 7
+yay killed Less  in round 7
+Victor killed Saadhak  in round 7
+crashies killed pANcada  in round 7
+Round 7 ended with detonate. The winning team is None.
+The current score is None 5 - 2 LOUD.
+Victor killed Saadhak  in round 8
+yay killed aspas  in round 8
+Sacy killed yay  in round 8
+Marved killed Less  in round 8
+Round 8 ended with detonate. The winning team is None.
+The current score is None 6 - 2 LOUD.
+Sacy killed Marved  in round 9
+yay killed Sacy  in round 9
+FNS killed Saadhak  in round 9
+Victor killed pANcada  in round 9
+Less killed Victor  in round 9
+yay killed aspas  in round 9
+yay killed Less  in round 9
+Round 9 ended with elimination. The winning team is None.
+The current score is None 7 - 2 LOUD.
+yay killed aspas  in round 10
+Saadhak killed Marved  in round 10
+crashies killed Saadhak  in round 10
+FNS killed Less  in round 10
+yay killed pANcada  in round 10
+crashies killed Sacy  in round 10
+Round 10 ended with elimination. The winning team is None.
+The current score is None 8 - 2 LOUD.
+Marved killed Saadhak  in round 11
+FNS killed Less  in round 11
+FNS killed pANcada  in round 11
+Marved killed Sacy  in round 11
+aspas killed Marved  in round 11
+yay killed aspas  in round 11
+Round 11 ended with elimination. The winning team is None.
+The current score is None 9 - 2 LOUD.
+Sacy killed crashies  in round 12
+Victor killed Sacy  in round 12
+Marved killed pANcada  in round 12
+Less killed Marved  in round 12
+Victor killed Saadhak  in round 12
+FNS killed Less  in round 12
+Victor killed aspas  in round 12
+Round 12 ended with elimination. The winning team is None.
+The current score is None 10 - 2 LOUD.
+yay killed Less  in round 13
+Saadhak killed FNS  in round 13
+pANcada killed Victor  in round 13
+crashies killed pANcada  in round 13
+Saadhak killed crashies  in round 13
+Saadhak killed yay  in round 13
+Sacy killed Marved  in round 13
+Round 13 ended with elimination. The winning team is LOUD.
+The current score is None 10 - 3 LOUD.
+Round 14 ended with detonate. The winning team is LOUD.
+The current score is None 10 - 4 LOUD.
+Victor killed Victor  in round 15
+crashies killed crashies  in round 15
+Marved killed Marved  in round 15
+FNS killed FNS  in round 15
+Less killed yay  in round 15
+yay killed Less  in round 15
+Saadhak killed yay  in round 15
+Saadhak killed crashies  in round 15
+pANcada killed FNS  in round 15
+Round 15 ended with detonate. The winning team is LOUD.
+The current score is None 10 - 5 LOUD.
+Victor killed Saadhak  in round 16
+Victor killed Sacy  in round 16
+FNS killed pANcada  in round 16
+aspas killed yay  in round 16
+Less killed crashies  in round 16
+Victor killed Less  in round 16
+aspas killed FNS  in round 16
+aspas killed Marved  in round 16
+aspas killed Victor  in round 16
+Round 16 ended with elimination. The winning team is LOUD.
+The current score is None 10 - 6 LOUD.
+yay killed Sacy  in round 17
+Less killed yay  in round 17
+crashies killed Saadhak  in round 17
+Less killed FNS  in round 17
+crashies killed Less  in round 17
+Marved killed aspas  in round 17
+pANcada killed crashies  in round 17
+Victor killed pANcada  in round 17
+Round 17 ended with spike_defuse. The winning team is None.
+The current score is None 11 - 6 LOUD.
+crashies killed Saadhak  in round 18
+FNS killed aspas  in round 18
+Less killed FNS  in round 18
+Victor killed Less  in round 18
+yay killed Sacy  in round 18
+pANcada killed yay  in round 18
+Round 18 ended with time_expired. The winning team is None.
+The current score is None 12 - 6 LOUD.
+aspas killed yay  in round 19
+Marved killed Sacy  in round 19
+pANcada killed Victor  in round 19
+Marved killed pANcada  in round 19
+Saadhak killed crashies  in round 19
+FNS killed aspas  in round 19
+Marved killed Saadhak  in round 19
+FNS killed Less  in round 19
+Round 19 ended with spike_defuse. The winning team is None.
+The current score is None 13 - 6 LOUD.
+Game ended with winning team: None at 2022-09-18T16:25:52Z
+
+--- Player Stats ---
+aspas: Team=LOUD, Kills=11, Deaths=14, Assists=1, KDA=0.86, First Kills=2, First Deaths=1
+Sacy: Team=LOUD, Kills=9, Deaths=14, Assists=6, KDA=1.07, First Kills=3, First Deaths=2
+Saadhak: Team=LOUD, Kills=11, Deaths=14, Assists=5, KDA=1.14, First Kills=1, First Deaths=5
+Less: Team=LOUD, Kills=10, Deaths=16, Assists=4, KDA=0.88, First Kills=0, First Deaths=2
+pANcada: Team=LOUD, Kills=11, Deaths=14, Assists=3, KDA=1.0, First Kills=1, First Deaths=0
+crashies: Team=None, Kills=13, Deaths=11, Assists=6, KDA=1.73, First Kills=2, First Deaths=2
+Victor: Team=None, Kills=13, Deaths=11, Assists=3, KDA=1.45, First Kills=3, First Deaths=3
+FNS: Team=None, Kills=13, Deaths=11, Assists=5, KDA=1.64, First Kills=1, First Deaths=0
+Marved: Team=None, Kills=19, Deaths=11, Assists=6, KDA=2.27, First Kills=2, First Deaths=1
+yay: Team=None, Kills=18, Deaths=12, Assists=2, KDA=1.67, First Kills=3, First Deaths=2

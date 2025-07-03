@@ -1,0 +1,257 @@
+Team 1: Evil Geniuses
+Team 2: FNATIC
+Participating Players:
+Player 1: Chronicle
+Player 2: Derke
+Player 3: Boaster
+Player 4: Alfajer
+Player 5: Leo 
+Player 6: Demon1
+Player 7: Ethan
+Player 8: JAWGEMO
+Player 9: C0M
+Player 10: Boostio
+Winning Team: FNATIC
+Score: Evil Geniuses 11 - 13 FNATIC
+Tournament Name: vct masters 2023 playoffs
+Game Start Time: 2023-06-21T04:54:14Z
+Game End Time: 2023-06-21T05:52:02Z
+Rounds ended by ELIMINATION count: 13
+Rounds ended by DEFUSE count: 6
+Rounds ended by DETONATE count: 4
+SPIKE PLANTED count: 10
+platformGameId: val:19e84c11-bea9-4104-8345-d5bfd90c9913
+
+--- Events ---
+Game started at 2023-06-21T04:54:14Z
+Derke killed Ethan  in round 1
+C0M killed Chronicle  in round 1
+Boostio killed Leo   in round 1
+C0M killed Derke  in round 1
+Boaster killed C0M  in round 1
+Demon1 killed Boaster  in round 1
+Demon1 killed Alfajer  in round 1
+Round 1 ended with elimination. The winning team is Evil Geniuses.
+The current score is Evil Geniuses 1 - 0 FNATIC.
+Ethan killed Derke  in round 2
+JAWGEMO killed Chronicle  in round 2
+Ethan killed Boaster  in round 2
+JAWGEMO killed Leo   in round 2
+Alfajer killed Demon1  in round 2
+Alfajer killed Boostio  in round 2
+JAWGEMO killed Alfajer  in round 2
+Round 2 ended with elimination. The winning team is Evil Geniuses.
+The current score is Evil Geniuses 2 - 0 FNATIC.
+Alfajer killed C0M  in round 3
+Leo  killed Ethan  in round 3
+Alfajer killed JAWGEMO  in round 3
+Demon1 killed Derke  in round 3
+Leo  killed Demon1  in round 3
+Leo  killed Boostio  in round 3
+Round 3 ended with elimination. The winning team is FNATIC.
+The current score is Evil Geniuses 2 - 1 FNATIC.
+JAWGEMO killed Boaster  in round 4
+Chronicle killed JAWGEMO  in round 4
+Chronicle killed Demon1  in round 4
+C0M killed Derke  in round 4
+Leo  killed Boostio  in round 4
+Alfajer killed Ethan  in round 4
+Leo  killed C0M  in round 4
+Round 4 ended with spike_defuse. The winning team is FNATIC.
+The current score is Evil Geniuses 2 - 2 FNATIC.
+Boostio killed Derke  in round 5
+Demon1 killed Boaster  in round 5
+Alfajer killed Demon1  in round 5
+JAWGEMO killed Alfajer  in round 5
+Chronicle killed JAWGEMO  in round 5
+JAWGEMO killed Chronicle  in round 5
+Boostio killed Leo   in round 5
+Round 5 ended with elimination. The winning team is Evil Geniuses.
+The current score is Evil Geniuses 3 - 2 FNATIC.
+C0M killed Chronicle  in round 6
+Ethan killed Derke  in round 6
+Leo  killed Boostio  in round 6
+Leo  killed Demon1  in round 6
+JAWGEMO killed Leo   in round 6
+JAWGEMO killed Boaster  in round 6
+Alfajer killed JAWGEMO  in round 6
+C0M killed Alfajer  in round 6
+Round 6 ended with elimination. The winning team is Evil Geniuses.
+The current score is Evil Geniuses 4 - 2 FNATIC.
+Ethan killed Derke  in round 7
+Chronicle killed JAWGEMO  in round 7
+Boostio killed Boaster  in round 7
+Leo  killed Demon1  in round 7
+Boostio killed Leo   in round 7
+Chronicle killed Boostio  in round 7
+Ethan killed Chronicle  in round 7
+Ethan killed Alfajer  in round 7
+Round 7 ended with elimination. The winning team is Evil Geniuses.
+The current score is Evil Geniuses 5 - 2 FNATIC.
+Boaster killed JAWGEMO  in round 8
+Demon1 killed Alfajer  in round 8
+Boaster killed Ethan  in round 8
+Chronicle killed Demon1  in round 8
+C0M killed Chronicle  in round 8
+Derke killed C0M  in round 8
+Boostio killed Derke  in round 8
+Boaster killed Boostio  in round 8
+Round 8 ended with elimination. The winning team is FNATIC.
+The current score is Evil Geniuses 5 - 3 FNATIC.
+Leo  killed Ethan  in round 9
+C0M killed Derke  in round 9
+Boaster killed JAWGEMO  in round 9
+Alfajer killed Demon1  in round 9
+C0M killed Alfajer  in round 9
+Chronicle killed C0M  in round 9
+Chronicle killed Boostio  in round 9
+Round 9 ended with spike_defuse. The winning team is FNATIC.
+The current score is Evil Geniuses 5 - 4 FNATIC.
+Chronicle killed JAWGEMO  in round 10
+Ethan killed Chronicle  in round 10
+Ethan killed Derke  in round 10
+Leo  killed Demon1  in round 10
+C0M killed Alfajer  in round 10
+Leo  killed Ethan  in round 10
+Leo  killed Boostio  in round 10
+C0M killed Leo   in round 10
+Round 10 ended with spike_defuse. The winning team is FNATIC.
+The current score is Evil Geniuses 5 - 5 FNATIC.
+Boaster killed C0M  in round 11
+Boaster killed JAWGEMO  in round 11
+Ethan killed Chronicle  in round 11
+Boaster killed Ethan  in round 11
+Alfajer killed C0M  in round 11
+Demon1 killed Derke  in round 11
+Alfajer killed Demon1  in round 11
+Leo  killed Boostio  in round 11
+Round 11 ended with detonate. The winning team is Evil Geniuses.
+The current score is Evil Geniuses 6 - 5 FNATIC.
+Alfajer killed Alfajer  in round 12
+Derke killed JAWGEMO  in round 12
+Boostio killed Derke  in round 12
+Leo  killed Boostio  in round 12
+Ethan killed Chronicle  in round 12
+Boaster killed Ethan  in round 12
+Demon1 killed Boaster  in round 12
+Alfajer killed C0M  in round 12
+Demon1 killed Alfajer  in round 12
+Leo  killed Demon1  in round 12
+Round 12 ended with spike_defuse. The winning team is FNATIC.
+The current score is Evil Geniuses 6 - 6 FNATIC.
+Demon1 killed Derke  in round 13
+Alfajer killed JAWGEMO  in round 13
+Ethan killed Boaster  in round 13
+Alfajer killed Ethan  in round 13
+Chronicle killed Boostio  in round 13
+Alfajer killed Demon1  in round 13
+Chronicle killed C0M  in round 13
+Round 13 ended with elimination. The winning team is FNATIC.
+The current score is Evil Geniuses 6 - 7 FNATIC.
+Derke killed C0M  in round 14
+Derke killed Boostio  in round 14
+Demon1 killed Derke  in round 14
+Alfajer killed JAWGEMO  in round 14
+Leo  killed Ethan  in round 14
+Chronicle killed Demon1  in round 14
+Round 14 ended with elimination. The winning team is FNATIC.
+The current score is Evil Geniuses 6 - 8 FNATIC.
+Derke killed C0M  in round 15
+Boostio killed Boaster  in round 15
+Derke killed Boostio  in round 15
+Chronicle killed JAWGEMO  in round 15
+Round 15 ended with detonate. The winning team is FNATIC.
+The current score is Evil Geniuses 6 - 9 FNATIC.
+JAWGEMO killed Chronicle  in round 16
+Ethan killed Alfajer  in round 16
+JAWGEMO killed Leo   in round 16
+C0M killed Derke  in round 16
+Demon1 killed Boaster  in round 16
+Round 16 ended with spike_defuse. The winning team is Evil Geniuses.
+The current score is Evil Geniuses 7 - 9 FNATIC.
+Alfajer killed Demon1  in round 17
+Derke killed C0M  in round 17
+Boostio killed Derke  in round 17
+Boaster killed Ethan  in round 17
+Chronicle killed Boostio  in round 17
+JAWGEMO killed Alfajer  in round 17
+Chronicle killed JAWGEMO  in round 17
+Round 17 ended with elimination. The winning team is FNATIC.
+The current score is Evil Geniuses 7 - 10 FNATIC.
+Boostio killed Chronicle  in round 18
+Boostio killed Boaster  in round 18
+Boostio killed Derke  in round 18
+Alfajer killed Demon1  in round 18
+Leo  killed Boostio  in round 18
+Leo  killed C0M  in round 18
+Alfajer killed JAWGEMO  in round 18
+Round 18 ended with time_expired. The winning team is Evil Geniuses.
+The current score is Evil Geniuses 8 - 10 FNATIC.
+Derke killed Boostio  in round 19
+Demon1 killed Derke  in round 19
+Demon1 killed Boaster  in round 19
+Chronicle killed Demon1  in round 19
+JAWGEMO killed Chronicle  in round 19
+Ethan killed Leo   in round 19
+JAWGEMO killed Alfajer  in round 19
+Round 19 ended with elimination. The winning team is Evil Geniuses.
+The current score is Evil Geniuses 9 - 10 FNATIC.
+Leo  killed Boostio  in round 20
+Demon1 killed Derke  in round 20
+Chronicle killed Demon1  in round 20
+Boaster killed JAWGEMO  in round 20
+Round 20 ended with detonate. The winning team is FNATIC.
+The current score is Evil Geniuses 9 - 11 FNATIC.
+Leo  killed JAWGEMO  in round 21
+Ethan killed Derke  in round 21
+C0M killed Alfajer  in round 21
+Ethan killed Chronicle  in round 21
+Boaster killed Demon1  in round 21
+Leo  killed Ethan  in round 21
+C0M killed Boaster  in round 21
+Leo  killed Boostio  in round 21
+C0M killed Leo   in round 21
+Round 21 ended with spike_defuse. The winning team is Evil Geniuses.
+The current score is Evil Geniuses 10 - 11 FNATIC.
+Boaster killed C0M  in round 22
+Derke killed JAWGEMO  in round 22
+Chronicle killed Ethan  in round 22
+Boaster killed Boostio  in round 22
+Demon1 killed Leo   in round 22
+Demon1 killed Chronicle  in round 22
+Round 22 ended with detonate. The winning team is FNATIC.
+The current score is Evil Geniuses 10 - 12 FNATIC.
+Derke killed Boostio  in round 23
+C0M killed Derke  in round 23
+Leo  killed C0M  in round 23
+Ethan killed Leo   in round 23
+Chronicle killed Ethan  in round 23
+Demon1 killed Boaster  in round 23
+Demon1 killed Chronicle  in round 23
+Demon1 killed Alfajer  in round 23
+Round 23 ended with elimination. The winning team is Evil Geniuses.
+The current score is Evil Geniuses 11 - 12 FNATIC.
+Ethan killed Derke  in round 24
+Ethan killed Alfajer  in round 24
+Chronicle killed Boostio  in round 24
+Leo  killed C0M  in round 24
+Chronicle killed Demon1  in round 24
+JAWGEMO killed Chronicle  in round 24
+Leo  killed JAWGEMO  in round 24
+Ethan killed Boaster  in round 24
+Leo  killed Ethan  in round 24
+Round 24 ended with elimination. The winning team is FNATIC.
+The current score is Evil Geniuses 11 - 13 FNATIC.
+Game ended with winning team: FNATIC at 2023-06-21T05:52:02Z
+
+--- Player Stats ---
+Chronicle: Team=FNATIC, Kills=21, Deaths=16, Assists=10, KDA=1.94, First Kills=1, First Deaths=3
+Derke: Team=FNATIC, Kills=11, Deaths=22, Assists=3, KDA=0.64, First Kills=5, First Deaths=5
+Boaster: Team=FNATIC, Kills=14, Deaths=15, Assists=15, KDA=1.93, First Kills=3, First Deaths=1
+Alfajer: Team=FNATIC, Kills=19, Deaths=16, Assists=3, KDA=1.38, First Kills=3, First Deaths=1
+Leo : Team=FNATIC, Kills=26, Deaths=11, Assists=11, KDA=3.36, First Kills=3, First Deaths=0
+Demon1: Team=Evil Geniuses, Kills=19, Deaths=19, Assists=6, KDA=1.32, First Kills=1, First Deaths=1
+Ethan: Team=Evil Geniuses, Kills=19, Deaths=15, Assists=10, KDA=1.93, First Kills=3, First Deaths=2
+JAWGEMO: Team=Evil Geniuses, Kills=14, Deaths=19, Assists=6, KDA=1.05, First Kills=2, First Deaths=3
+C0M: Team=Evil Geniuses, Kills=15, Deaths=16, Assists=9, KDA=1.5, First Kills=1, First Deaths=5
+Boostio: Team=Evil Geniuses, Kills=12, Deaths=21, Assists=10, KDA=1.05, First Kills=2, First Deaths=3

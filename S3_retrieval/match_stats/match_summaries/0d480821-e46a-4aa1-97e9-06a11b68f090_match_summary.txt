@@ -1,0 +1,281 @@
+Team 1: Talon Esports
+Team 2: GLOBAL ESPORTS
+Participating Players:
+Player 1: blaZek1ngg
+Player 2: Benkai
+Player 3: Russ
+Player 4: polvi
+Player 5: Lightningfa
+Player 6: Governor
+Player 7: ban
+Player 8: Crws
+Player 9: Surf
+Player 10: JitBoyS
+Winning Team: Talon Esports
+Score: Talon Esports 14 - 12 GLOBAL ESPORTS
+Tournament Name: vct pacific stage 1 2024
+Game Start Time: 2024-04-15T11:05:26Z
+Game End Time: 2024-04-15T12:06:30Z
+Rounds ended by ELIMINATION count: 17
+Rounds ended by DEFUSE count: 4
+Rounds ended by DETONATE count: 5
+SPIKE PLANTED count: 9
+platformGameId: val:0d480821-e46a-4aa1-97e9-06a11b68f090
+
+--- Events ---
+Game started at 2024-04-15T11:05:26Z
+JitBoyS killed polvi  in round 1
+blaZek1ngg killed JitBoyS  in round 1
+ban killed Benkai  in round 1
+ban killed Lightningfa  in round 1
+Governor killed Russ  in round 1
+blaZek1ngg killed ban  in round 1
+Governor killed blaZek1ngg  in round 1
+Round 1 ended with elimination. The winning team is Talon Esports.
+The current score is Talon Esports 1 - 0 GLOBAL ESPORTS.
+polvi killed ban  in round 2
+Surf killed Benkai  in round 2
+Governor killed polvi  in round 2
+Lightningfa killed Governor  in round 2
+Surf killed Russ  in round 2
+JitBoyS killed blaZek1ngg  in round 2
+JitBoyS killed Lightningfa  in round 2
+Round 2 ended with elimination. The winning team is Talon Esports.
+The current score is Talon Esports 2 - 0 GLOBAL ESPORTS.
+polvi killed ban  in round 3
+Governor killed polvi  in round 3
+Russ killed JitBoyS  in round 3
+Benkai killed Surf  in round 3
+Lightningfa killed Crws  in round 3
+Benkai killed Governor  in round 3
+Round 3 ended with elimination. The winning team is GLOBAL ESPORTS.
+The current score is Talon Esports 2 - 1 GLOBAL ESPORTS.
+JitBoyS killed polvi  in round 4
+JitBoyS killed blaZek1ngg  in round 4
+ban killed Lightningfa  in round 4
+Round 4 ended with detonate. The winning team is Talon Esports.
+The current score is Talon Esports 3 - 1 GLOBAL ESPORTS.
+Governor killed polvi  in round 5
+Benkai killed ban  in round 5
+Governor killed blaZek1ngg  in round 5
+JitBoyS killed Lightningfa  in round 5
+Round 5 ended with detonate. The winning team is Talon Esports.
+The current score is Talon Esports 4 - 1 GLOBAL ESPORTS.
+ban killed polvi  in round 6
+blaZek1ngg killed ban  in round 6
+Lightningfa killed Surf  in round 6
+Lightningfa killed Crws  in round 6
+JitBoyS killed Lightningfa  in round 6
+JitBoyS killed Benkai  in round 6
+blaZek1ngg killed Governor  in round 6
+JitBoyS killed blaZek1ngg  in round 6
+JitBoyS killed Russ  in round 6
+Round 6 ended with elimination. The winning team is Talon Esports.
+The current score is Talon Esports 5 - 1 GLOBAL ESPORTS.
+polvi killed Crws  in round 7
+Governor killed polvi  in round 7
+Russ killed Governor  in round 7
+Surf killed Lightningfa  in round 7
+Russ killed ban  in round 7
+blaZek1ngg killed Surf  in round 7
+JitBoyS killed Benkai  in round 7
+JitBoyS killed blaZek1ngg  in round 7
+Russ killed JitBoyS  in round 7
+Round 7 ended with spike_defuse. The winning team is GLOBAL ESPORTS.
+The current score is Talon Esports 5 - 2 GLOBAL ESPORTS.
+polvi killed ban  in round 8
+Lightningfa killed JitBoyS  in round 8
+Russ killed Governor  in round 8
+Surf killed blaZek1ngg  in round 8
+Benkai killed Surf  in round 8
+Crws killed polvi  in round 8
+Benkai killed Crws  in round 8
+Round 8 ended with elimination. The winning team is GLOBAL ESPORTS.
+The current score is Talon Esports 5 - 3 GLOBAL ESPORTS.
+blaZek1ngg killed Governor  in round 9
+Russ killed ban  in round 9
+JitBoyS killed Lightningfa  in round 9
+Crws killed Russ  in round 9
+JitBoyS killed polvi  in round 9
+Benkai killed Crws  in round 9
+blaZek1ngg killed Surf  in round 9
+JitBoyS killed Benkai  in round 9
+blaZek1ngg killed JitBoyS  in round 9
+Round 9 ended with spike_defuse. The winning team is GLOBAL ESPORTS.
+The current score is Talon Esports 5 - 4 GLOBAL ESPORTS.
+Governor killed polvi  in round 10
+Russ killed ban  in round 10
+Russ killed Crws  in round 10
+Governor killed Russ  in round 10
+Benkai killed JitBoyS  in round 10
+Benkai killed Governor  in round 10
+blaZek1ngg killed Surf  in round 10
+Round 10 ended with elimination. The winning team is GLOBAL ESPORTS.
+The current score is Talon Esports 5 - 5 GLOBAL ESPORTS.
+polvi killed Crws  in round 11
+blaZek1ngg killed Governor  in round 11
+ban killed Lightningfa  in round 11
+JitBoyS killed blaZek1ngg  in round 11
+polvi killed ban  in round 11
+Surf killed polvi  in round 11
+Surf killed Russ  in round 11
+Benkai killed Surf  in round 11
+JitBoyS killed Benkai  in round 11
+Round 11 ended with elimination. The winning team is Talon Esports.
+The current score is Talon Esports 6 - 5 GLOBAL ESPORTS.
+blaZek1ngg killed Governor  in round 12
+JitBoyS killed blaZek1ngg  in round 12
+Crws killed Russ  in round 12
+Benkai killed ban  in round 12
+Lightningfa killed JitBoyS  in round 12
+Surf killed Benkai  in round 12
+Crws killed polvi  in round 12
+Lightningfa killed Surf  in round 12
+Lightningfa killed Crws  in round 12
+Round 12 ended with elimination. The winning team is GLOBAL ESPORTS.
+The current score is Talon Esports 6 - 6 GLOBAL ESPORTS.
+ban killed blaZek1ngg  in round 13
+polvi killed ban  in round 13
+Russ killed Surf  in round 13
+JitBoyS killed Lightningfa  in round 13
+Russ killed JitBoyS  in round 13
+Russ killed Governor  in round 13
+Crws killed Russ  in round 13
+Crws killed polvi  in round 13
+Round 13 ended with spike_defuse. The winning team is Talon Esports.
+The current score is Talon Esports 7 - 6 GLOBAL ESPORTS.
+Benkai killed Crws  in round 14
+polvi killed Crws  in round 14
+JitBoyS killed Russ  in round 14
+Lightningfa killed JitBoyS  in round 14
+blaZek1ngg killed ban  in round 14
+Lightningfa killed Surf  in round 14
+Governor killed blaZek1ngg  in round 14
+Governor killed polvi  in round 14
+Governor killed Benkai  in round 14
+Round 14 ended with detonate. The winning team is GLOBAL ESPORTS.
+The current score is Talon Esports 7 - 7 GLOBAL ESPORTS.
+Lightningfa killed Crws  in round 15
+Lightningfa killed JitBoyS  in round 15
+Lightningfa killed Governor  in round 15
+Surf killed Lightningfa  in round 15
+polvi killed ban  in round 15
+Round 15 ended with detonate. The winning team is GLOBAL ESPORTS.
+The current score is Talon Esports 7 - 8 GLOBAL ESPORTS.
+Surf killed Surf  in round 16
+polvi killed ban  in round 16
+JitBoyS killed blaZek1ngg  in round 16
+JitBoyS killed polvi  in round 16
+Russ killed JitBoyS  in round 16
+Governor killed Benkai  in round 16
+Russ killed Governor  in round 16
+Crws killed Lightningfa  in round 16
+Russ killed Surf  in round 16
+Russ killed Crws  in round 16
+Round 16 ended with elimination. The winning team is GLOBAL ESPORTS.
+The current score is Talon Esports 7 - 9 GLOBAL ESPORTS.
+Russ killed Russ  in round 17
+Lightningfa killed Governor  in round 17
+ban killed polvi  in round 17
+ban killed Russ  in round 17
+Lightningfa killed ban  in round 17
+Crws killed blaZek1ngg  in round 17
+Crws killed Benkai  in round 17
+Crws killed Lightningfa  in round 17
+Round 17 ended with elimination. The winning team is Talon Esports.
+The current score is Talon Esports 8 - 9 GLOBAL ESPORTS.
+ban killed polvi  in round 18
+Benkai killed ban  in round 18
+Crws killed Benkai  in round 18
+Lightningfa killed JitBoyS  in round 18
+Governor killed Lightningfa  in round 18
+Governor killed blaZek1ngg  in round 18
+Russ killed Crws  in round 18
+Governor killed Russ  in round 18
+Round 18 ended with spike_defuse. The winning team is Talon Esports.
+The current score is Talon Esports 9 - 9 GLOBAL ESPORTS.
+JitBoyS killed Russ  in round 19
+JitBoyS killed Lightningfa  in round 19
+polvi killed ban  in round 19
+Crws killed blaZek1ngg  in round 19
+Governor killed polvi  in round 19
+Governor killed Benkai  in round 19
+Round 19 ended with elimination. The winning team is Talon Esports.
+The current score is Talon Esports 10 - 9 GLOBAL ESPORTS.
+polvi killed Governor  in round 20
+ban killed Russ  in round 20
+Benkai killed Surf  in round 20
+ban killed polvi  in round 20
+Lightningfa killed Crws  in round 20
+Benkai killed ban  in round 20
+Benkai killed JitBoyS  in round 20
+Round 20 ended with elimination. The winning team is GLOBAL ESPORTS.
+The current score is Talon Esports 10 - 10 GLOBAL ESPORTS.
+ban killed Benkai  in round 21
+Lightningfa killed Crws  in round 21
+polvi killed ban  in round 21
+Surf killed Lightningfa  in round 21
+Russ killed Surf  in round 21
+Russ killed JitBoyS  in round 21
+Round 21 ended with detonate. The winning team is GLOBAL ESPORTS.
+The current score is Talon Esports 10 - 11 GLOBAL ESPORTS.
+ban killed polvi  in round 22
+ban killed Russ  in round 22
+Lightningfa killed JitBoyS  in round 22
+ban killed blaZek1ngg  in round 22
+Governor killed Lightningfa  in round 22
+Governor killed Benkai  in round 22
+Round 22 ended with elimination. The winning team is Talon Esports.
+The current score is Talon Esports 11 - 11 GLOBAL ESPORTS.
+ban killed Benkai  in round 23
+ban killed Russ  in round 23
+Surf killed blaZek1ngg  in round 23
+Lightningfa killed JitBoyS  in round 23
+polvi killed Governor  in round 23
+Lightningfa killed Surf  in round 23
+Lightningfa killed Crws  in round 23
+polvi killed ban  in round 23
+Round 23 ended with elimination. The winning team is GLOBAL ESPORTS.
+The current score is Talon Esports 11 - 12 GLOBAL ESPORTS.
+Governor killed polvi  in round 24
+Russ killed Governor  in round 24
+Crws killed Russ  in round 24
+Surf killed blaZek1ngg  in round 24
+Benkai killed JitBoyS  in round 24
+ban killed Lightningfa  in round 24
+ban killed Benkai  in round 24
+Round 24 ended with elimination. The winning team is Talon Esports.
+The current score is Talon Esports 12 - 12 GLOBAL ESPORTS.
+blaZek1ngg killed ban  in round 25
+Governor killed blaZek1ngg  in round 25
+Benkai killed Governor  in round 25
+JitBoyS killed Benkai  in round 25
+Surf killed Russ  in round 25
+Surf killed Lightningfa  in round 25
+Surf killed polvi  in round 25
+Round 25 ended with elimination. The winning team is Talon Esports.
+The current score is Talon Esports 13 - 12 GLOBAL ESPORTS.
+Russ killed Governor  in round 26
+polvi killed Crws  in round 26
+Surf killed polvi  in round 26
+Russ killed Surf  in round 26
+JitBoyS killed Russ  in round 26
+JitBoyS killed Lightningfa  in round 26
+JitBoyS killed blaZek1ngg  in round 26
+Benkai killed ban  in round 26
+JitBoyS killed Benkai  in round 26
+Round 26 ended with elimination. The winning team is Talon Esports.
+The current score is Talon Esports 14 - 12 GLOBAL ESPORTS.
+Game ended with winning team: Talon Esports at 2024-04-15T12:06:30Z
+
+--- Player Stats ---
+blaZek1ngg: Team=GLOBAL ESPORTS, Kills=13, Deaths=20, Assists=4, KDA=0.85, First Kills=3, First Deaths=1
+Benkai: Team=GLOBAL ESPORTS, Kills=18, Deaths=18, Assists=5, KDA=1.28, First Kills=1, First Deaths=2
+Russ: Team=GLOBAL ESPORTS, Kills=22, Deaths=19, Assists=12, KDA=1.79, First Kills=2, First Deaths=2
+polvi: Team=GLOBAL ESPORTS, Kills=16, Deaths=23, Assists=6, KDA=0.96, First Kills=6, First Deaths=8
+Lightningfa: Team=GLOBAL ESPORTS, Kills=22, Deaths=19, Assists=11, KDA=1.74, First Kills=1, First Deaths=0
+Governor: Team=Talon Esports, Kills=22, Deaths=18, Assists=4, KDA=1.44, First Kills=3, First Deaths=4
+ban: Team=Talon Esports, Kills=19, Deaths=23, Assists=3, KDA=0.96, First Kills=6, First Deaths=4
+Crws: Team=Talon Esports, Kills=13, Deaths=17, Assists=6, KDA=1.12, First Kills=0, First Deaths=4
+Surf: Team=Talon Esports, Kills=16, Deaths=16, Assists=5, KDA=1.31, First Kills=1, First Deaths=1
+JitBoyS: Team=Talon Esports, Kills=29, Deaths=17, Assists=7, KDA=2.12, First Kills=3, First Deaths=0

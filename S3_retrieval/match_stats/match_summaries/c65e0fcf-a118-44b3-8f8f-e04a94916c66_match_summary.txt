@@ -1,0 +1,189 @@
+Team 1: NRG
+Team 2: Leviatán Esports
+Participating Players:
+Player 1: aspas
+Player 2: tex
+Player 3: kiNgg
+Player 4: C0M
+Player 5: Mazino
+Player 6: Demon1
+Player 7: Marved
+Player 8: Ethan
+Player 9: crashies
+Player 10: Victor
+Winning Team: Leviatán Esports
+Score: NRG 4 - 13 Leviatán Esports
+Tournament Name: vct americas stage 1 2024
+Game Start Time: 2024-04-22T00:02:28Z
+Game End Time: 2024-04-22T00:40:51Z
+Rounds ended by ELIMINATION count: 11
+Rounds ended by DEFUSE count: 5
+Rounds ended by DETONATE count: 1
+SPIKE PLANTED count: 6
+platformGameId: val:c65e0fcf-a118-44b3-8f8f-e04a94916c66
+
+--- Events ---
+Game started at 2024-04-22T00:02:28Z
+tex killed Demon1  in round 1
+Ethan killed tex  in round 1
+Ethan killed aspas  in round 1
+Mazino killed Victor  in round 1
+Mazino killed Ethan  in round 1
+C0M killed Marved  in round 1
+crashies killed Mazino  in round 1
+crashies killed kiNgg  in round 1
+C0M killed crashies  in round 1
+Round 1 ended with spike_defuse. The winning team is Leviatán Esports.
+The current score is NRG 0 - 1 Leviatán Esports.
+tex killed Marved  in round 2
+aspas killed Demon1  in round 2
+aspas killed Victor  in round 2
+tex killed Ethan  in round 2
+Mazino killed crashies  in round 2
+Round 2 ended with elimination. The winning team is Leviatán Esports.
+The current score is NRG 0 - 2 Leviatán Esports.
+aspas killed Demon1  in round 3
+Mazino killed Ethan  in round 3
+Victor killed Mazino  in round 3
+aspas killed crashies  in round 3
+Marved killed tex  in round 3
+kiNgg killed Marved  in round 3
+kiNgg killed Victor  in round 3
+Round 3 ended with elimination. The winning team is Leviatán Esports.
+The current score is NRG 0 - 3 Leviatán Esports.
+kiNgg killed crashies  in round 4
+kiNgg killed Ethan  in round 4
+C0M killed Victor  in round 4
+Demon1 killed kiNgg  in round 4
+Marved killed C0M  in round 4
+Demon1 killed tex  in round 4
+Marved killed aspas  in round 4
+Mazino killed Marved  in round 4
+Mazino killed Demon1  in round 4
+Round 4 ended with elimination. The winning team is Leviatán Esports.
+The current score is NRG 0 - 4 Leviatán Esports.
+Demon1 killed Mazino  in round 5
+Marved killed C0M  in round 5
+aspas killed Demon1  in round 5
+tex killed Marved  in round 5
+tex killed Victor  in round 5
+aspas killed Ethan  in round 5
+kiNgg killed crashies  in round 5
+Round 5 ended with spike_defuse. The winning team is Leviatán Esports.
+The current score is NRG 0 - 5 Leviatán Esports.
+Mazino killed Demon1  in round 6
+Marved killed aspas  in round 6
+tex killed Marved  in round 6
+C0M killed Victor  in round 6
+kiNgg killed crashies  in round 6
+kiNgg killed Ethan  in round 6
+Round 6 ended with elimination. The winning team is Leviatán Esports.
+The current score is NRG 0 - 6 Leviatán Esports.
+Marved killed tex  in round 7
+Marved killed C0M  in round 7
+Mazino killed Victor  in round 7
+kiNgg killed Marved  in round 7
+kiNgg killed Ethan  in round 7
+Mazino killed crashies  in round 7
+kiNgg killed Demon1  in round 7
+Round 7 ended with elimination. The winning team is Leviatán Esports.
+The current score is NRG 0 - 7 Leviatán Esports.
+Mazino killed Demon1  in round 8
+Marved killed tex  in round 8
+Mazino killed Ethan  in round 8
+Victor killed Victor  in round 8
+Mazino killed crashies  in round 8
+kiNgg killed Marved  in round 8
+Round 8 ended with elimination. The winning team is Leviatán Esports.
+The current score is NRG 0 - 8 Leviatán Esports.
+C0M killed Demon1  in round 9
+C0M killed Ethan  in round 9
+Mazino killed crashies  in round 9
+Victor killed kiNgg  in round 9
+Mazino killed Marved  in round 9
+aspas killed Victor  in round 9
+Round 9 ended with spike_defuse. The winning team is Leviatán Esports.
+The current score is NRG 0 - 9 Leviatán Esports.
+Mazino killed Demon1  in round 10
+Victor killed C0M  in round 10
+Mazino killed Victor  in round 10
+Ethan killed Mazino  in round 10
+aspas killed crashies  in round 10
+Marved killed tex  in round 10
+aspas killed Ethan  in round 10
+aspas killed Marved  in round 10
+Round 10 ended with spike_defuse. The winning team is Leviatán Esports.
+The current score is NRG 0 - 10 Leviatán Esports.
+tex killed Marved  in round 11
+tex killed Victor  in round 11
+kiNgg killed crashies  in round 11
+aspas killed Ethan  in round 11
+Demon1 killed Mazino  in round 11
+aspas killed Demon1  in round 11
+Round 11 ended with elimination. The winning team is Leviatán Esports.
+The current score is NRG 0 - 11 Leviatán Esports.
+aspas killed Victor  in round 12
+Ethan killed Mazino  in round 12
+kiNgg killed Demon1  in round 12
+Ethan killed kiNgg  in round 12
+aspas killed crashies  in round 12
+Ethan killed aspas  in round 12
+C0M killed Ethan  in round 12
+tex killed Marved  in round 12
+Round 12 ended with detonate. The winning team is NRG.
+The current score is NRG 1 - 11 Leviatán Esports.
+tex killed tex  in round 13
+Victor killed C0M  in round 13
+aspas killed Demon1  in round 13
+Victor killed Mazino  in round 13
+kiNgg killed Victor  in round 13
+crashies killed aspas  in round 13
+Ethan killed tex  in round 13
+Marved killed kiNgg  in round 13
+Round 13 ended with spike_defuse. The winning team is NRG.
+The current score is NRG 2 - 11 Leviatán Esports.
+Marved killed aspas  in round 14
+crashies killed C0M  in round 14
+Marved killed kiNgg  in round 14
+Marved killed Mazino  in round 14
+Marved killed tex  in round 14
+Round 14 ended with elimination. The winning team is NRG.
+The current score is NRG 3 - 11 Leviatán Esports.
+Victor killed kiNgg  in round 15
+Victor killed Mazino  in round 15
+aspas killed Victor  in round 15
+tex killed crashies  in round 15
+tex killed Demon1  in round 15
+aspas killed Marved  in round 15
+C0M killed Ethan  in round 15
+Round 15 ended with elimination. The winning team is Leviatán Esports.
+The current score is NRG 3 - 12 Leviatán Esports.
+Demon1 killed Mazino  in round 16
+crashies killed C0M  in round 16
+Demon1 killed aspas  in round 16
+Demon1 killed tex  in round 16
+crashies killed kiNgg  in round 16
+Round 16 ended with elimination. The winning team is NRG.
+The current score is NRG 4 - 12 Leviatán Esports.
+aspas killed crashies  in round 17
+kiNgg killed Demon1  in round 17
+kiNgg killed Ethan  in round 17
+aspas killed Victor  in round 17
+Marved killed C0M  in round 17
+Marved killed aspas  in round 17
+Mazino killed Marved  in round 17
+Round 17 ended with elimination. The winning team is Leviatán Esports.
+The current score is NRG 4 - 13 Leviatán Esports.
+Game ended with winning team: Leviatán Esports at 2024-04-22T00:40:51Z
+
+--- Player Stats ---
+aspas: Team=Leviatán Esports, Kills=19, Deaths=8, Assists=4, KDA=2.88, First Kills=3, First Deaths=1
+tex: Team=Leviatán Esports, Kills=12, Deaths=10, Assists=4, KDA=1.6, First Kills=4, First Deaths=2
+kiNgg: Team=Leviatán Esports, Kills=16, Deaths=8, Assists=10, KDA=3.25, First Kills=1, First Deaths=1
+C0M: Team=Leviatán Esports, Kills=8, Deaths=8, Assists=8, KDA=2.0, First Kills=1, First Deaths=0
+Mazino: Team=Leviatán Esports, Kills=17, Deaths=10, Assists=8, KDA=2.5, First Kills=3, First Deaths=2
+Demon1: Team=NRG, Kills=7, Deaths=15, Assists=3, KDA=0.67, First Kills=2, First Deaths=6
+Marved: Team=NRG, Kills=16, Deaths=14, Assists=1, KDA=1.21, First Kills=2, First Deaths=2
+Ethan: Team=NRG, Kills=7, Deaths=14, Assists=6, KDA=0.93, First Kills=0, First Deaths=0
+crashies: Team=NRG, Kills=6, Deaths=14, Assists=1, KDA=0.5, First Kills=0, First Deaths=2
+Victor: Team=NRG, Kills=8, Deaths=15, Assists=6, KDA=0.93, First Kills=1, First Deaths=1

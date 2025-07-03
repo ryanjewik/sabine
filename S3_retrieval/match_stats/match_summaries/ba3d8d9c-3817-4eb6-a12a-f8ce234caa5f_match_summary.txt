@@ -1,0 +1,204 @@
+Team 1: Futbolist
+Team 2: BBL Esports
+Participating Players:
+Player 1: Brave
+Player 2: QutionerX
+Player 3: SouhcNi
+Player 4: AsLanMshadW
+Player 5: Turko
+Player 6: ATA KAPTAN
+Player 7: mojj
+Player 8: MrFaliN
+Player 9: qw1
+Player 10: qRaxs
+Winning Team: Futbolist
+Score: Futbolist 13 - 5 BBL Esports
+Tournament Name: vct emea 2023
+Game Start Time: 2023-05-19T20:18:16Z
+Game End Time: 2023-05-19T21:21:18Z
+Rounds ended by ELIMINATION count: 9
+Rounds ended by DEFUSE count: 6
+Rounds ended by DETONATE count: 3
+SPIKE PLANTED count: 9
+platformGameId: val:ba3d8d9c-3817-4eb6-a12a-f8ce234caa5f
+
+--- Events ---
+Game started at 2023-05-19T20:18:16Z
+Turko killed mojj  in round 1
+qw1 killed SouhcNi  in round 1
+QutionerX killed ATA KAPTAN  in round 1
+MrFaliN killed QutionerX  in round 1
+Brave killed qRaxs  in round 1
+qw1 killed Turko  in round 1
+AsLanMshadW killed MrFaliN  in round 1
+qw1 killed AsLanMshadW  in round 1
+Brave killed qw1  in round 1
+Round 1 ended with spike_defuse. The winning team is BBL Esports.
+The current score is Futbolist 0 - 1 BBL Esports.
+MrFaliN killed QutionerX  in round 2
+ATA KAPTAN killed qw1  in round 2
+SouhcNi killed MrFaliN  in round 2
+SouhcNi killed ATA KAPTAN  in round 2
+qRaxs killed SouhcNi  in round 2
+AsLanMshadW killed qRaxs  in round 2
+mojj killed AsLanMshadW  in round 2
+Turko killed mojj  in round 2
+Round 2 ended with elimination. The winning team is BBL Esports.
+The current score is Futbolist 0 - 2 BBL Esports.
+ATA KAPTAN killed QutionerX  in round 3
+mojj killed Brave  in round 3
+mojj killed AsLanMshadW  in round 3
+qw1 killed SouhcNi  in round 3
+Turko killed mojj  in round 3
+Round 3 ended with detonate. The winning team is Futbolist.
+The current score is Futbolist 1 - 2 BBL Esports.
+AsLanMshadW killed qw1  in round 4
+MrFaliN killed AsLanMshadW  in round 4
+Turko killed MrFaliN  in round 4
+qRaxs killed Brave  in round 4
+Turko killed mojj  in round 4
+Turko killed qRaxs  in round 4
+SouhcNi killed ATA KAPTAN  in round 4
+Round 4 ended with elimination. The winning team is BBL Esports.
+The current score is Futbolist 1 - 3 BBL Esports.
+QutionerX killed MrFaliN  in round 5
+QutionerX killed qRaxs  in round 5
+ATA KAPTAN killed QutionerX  in round 5
+qw1 killed AsLanMshadW  in round 5
+ATA KAPTAN killed Turko  in round 5
+Brave killed ATA KAPTAN  in round 5
+mojj killed SouhcNi  in round 5
+qw1 killed Brave  in round 5
+Round 5 ended with elimination. The winning team is Futbolist.
+The current score is Futbolist 2 - 3 BBL Esports.
+Brave killed qw1  in round 6
+ATA KAPTAN killed Brave  in round 6
+Turko killed ATA KAPTAN  in round 6
+Turko killed mojj  in round 6
+QutionerX killed MrFaliN  in round 6
+qRaxs killed Turko  in round 6
+qRaxs killed AsLanMshadW  in round 6
+Round 6 ended with spike_defuse. The winning team is BBL Esports.
+The current score is Futbolist 2 - 4 BBL Esports.
+QutionerX killed ATA KAPTAN  in round 7
+QutionerX killed mojj  in round 7
+Brave killed qw1  in round 7
+Turko killed qRaxs  in round 7
+QutionerX killed MrFaliN  in round 7
+Round 7 ended with elimination. The winning team is BBL Esports.
+The current score is Futbolist 2 - 5 BBL Esports.
+mojj killed QutionerX  in round 8
+Brave killed MrFaliN  in round 8
+qRaxs killed Turko  in round 8
+AsLanMshadW killed qw1  in round 8
+SouhcNi killed qRaxs  in round 8
+mojj killed SouhcNi  in round 8
+mojj killed Brave  in round 8
+AsLanMshadW killed ATA KAPTAN  in round 8
+mojj killed AsLanMshadW  in round 8
+Round 8 ended with elimination. The winning team is Futbolist.
+The current score is Futbolist 3 - 5 BBL Esports.
+Brave killed qRaxs  in round 9
+MrFaliN killed Brave  in round 9
+qw1 killed AsLanMshadW  in round 9
+MrFaliN killed SouhcNi  in round 9
+qw1 killed QutionerX  in round 9
+Round 9 ended with detonate. The winning team is Futbolist.
+The current score is Futbolist 4 - 5 BBL Esports.
+mojj killed SouhcNi  in round 10
+MrFaliN killed AsLanMshadW  in round 10
+ATA KAPTAN killed Brave  in round 10
+Round 10 ended with detonate. The winning team is Futbolist.
+The current score is Futbolist 5 - 5 BBL Esports.
+MrFaliN killed Turko  in round 11
+AsLanMshadW killed MrFaliN  in round 11
+QutionerX killed qRaxs  in round 11
+qw1 killed AsLanMshadW  in round 11
+ATA KAPTAN killed SouhcNi  in round 11
+ATA KAPTAN killed Brave  in round 11
+QutionerX killed mojj  in round 11
+QutionerX killed qw1  in round 11
+ATA KAPTAN killed QutionerX  in round 11
+Round 11 ended with elimination. The winning team is Futbolist.
+The current score is Futbolist 6 - 5 BBL Esports.
+Brave killed ATA KAPTAN  in round 12
+qw1 killed Brave  in round 12
+qw1 killed SouhcNi  in round 12
+qw1 killed Turko  in round 12
+QutionerX killed qw1  in round 12
+mojj killed QutionerX  in round 12
+AsLanMshadW killed qRaxs  in round 12
+MrFaliN killed AsLanMshadW  in round 12
+Round 12 ended with elimination. The winning team is Futbolist.
+The current score is Futbolist 7 - 5 BBL Esports.
+qRaxs killed AsLanMshadW  in round 13
+QutionerX killed ATA KAPTAN  in round 13
+QutionerX killed qw1  in round 13
+mojj killed Brave  in round 13
+MrFaliN killed QutionerX  in round 13
+qRaxs killed SouhcNi  in round 13
+Turko killed qRaxs  in round 13
+mojj killed Turko  in round 13
+Round 13 ended with spike_defuse. The winning team is Futbolist.
+The current score is Futbolist 8 - 5 BBL Esports.
+AsLanMshadW killed mojj  in round 14
+ATA KAPTAN killed Turko  in round 14
+Brave killed MrFaliN  in round 14
+AsLanMshadW killed qRaxs  in round 14
+ATA KAPTAN killed AsLanMshadW  in round 14
+qw1 killed Brave  in round 14
+qw1 killed SouhcNi  in round 14
+ATA KAPTAN killed QutionerX  in round 14
+Round 14 ended with spike_defuse. The winning team is Futbolist.
+The current score is Futbolist 9 - 5 BBL Esports.
+qw1 killed SouhcNi  in round 15
+Brave killed qw1  in round 15
+ATA KAPTAN killed Turko  in round 15
+ATA KAPTAN killed Brave  in round 15
+AsLanMshadW killed ATA KAPTAN  in round 15
+mojj killed AsLanMshadW  in round 15
+qRaxs killed QutionerX  in round 15
+Round 15 ended with spike_defuse. The winning team is Futbolist.
+The current score is Futbolist 10 - 5 BBL Esports.
+qw1 killed QutionerX  in round 16
+AsLanMshadW killed qRaxs  in round 16
+MrFaliN killed SouhcNi  in round 16
+AsLanMshadW killed qw1  in round 16
+Brave killed MrFaliN  in round 16
+mojj killed Turko  in round 16
+mojj killed Brave  in round 16
+AsLanMshadW killed mojj  in round 16
+ATA KAPTAN killed AsLanMshadW  in round 16
+Round 16 ended with elimination. The winning team is Futbolist.
+The current score is Futbolist 11 - 5 BBL Esports.
+qw1 killed QutionerX  in round 17
+qRaxs killed Turko  in round 17
+Brave killed qRaxs  in round 17
+qw1 killed Brave  in round 17
+qw1 killed AsLanMshadW  in round 17
+MrFaliN killed SouhcNi  in round 17
+Round 17 ended with spike_defuse. The winning team is Futbolist.
+The current score is Futbolist 12 - 5 BBL Esports.
+MrFaliN killed QutionerX  in round 18
+mojj killed Brave  in round 18
+SouhcNi killed mojj  in round 18
+ATA KAPTAN killed AsLanMshadW  in round 18
+qw1 killed SouhcNi  in round 18
+Turko killed qRaxs  in round 18
+Turko killed ATA KAPTAN  in round 18
+qw1 killed Turko  in round 18
+Round 18 ended with elimination. The winning team is Futbolist.
+The current score is Futbolist 13 - 5 BBL Esports.
+Game ended with winning team: Futbolist at 2023-05-19T21:21:18Z
+
+--- Player Stats ---
+Brave: Team=BBL Esports, Kills=12, Deaths=15, Assists=7, KDA=1.27, First Kills=3, First Deaths=0
+QutionerX: Team=BBL Esports, Kills=13, Deaths=14, Assists=2, KDA=1.07, First Kills=2, First Deaths=6
+SouhcNi: Team=BBL Esports, Kills=5, Deaths=15, Assists=7, KDA=0.8, First Kills=0, First Deaths=2
+AsLanMshadW: Team=BBL Esports, Kills=13, Deaths=17, Assists=2, KDA=0.88, First Kills=2, First Deaths=1
+Turko: Team=BBL Esports, Kills=12, Deaths=12, Assists=5, KDA=1.42, First Kills=1, First Deaths=1
+ATA KAPTAN: Team=Futbolist, Kills=16, Deaths=11, Assists=3, KDA=1.73, First Kills=1, First Deaths=2
+mojj: Team=Futbolist, Kills=16, Deaths=10, Assists=3, KDA=1.9, First Kills=2, First Deaths=2
+MrFaliN: Team=Futbolist, Kills=12, Deaths=10, Assists=9, KDA=2.1, First Kills=3, First Deaths=1
+qw1: Team=Futbolist, Kills=21, Deaths=11, Assists=5, KDA=2.36, First Kills=3, First Deaths=2
+qRaxs: Team=Futbolist, Kills=9, Deaths=14, Assists=10, KDA=1.36, First Kills=1, First Deaths=1

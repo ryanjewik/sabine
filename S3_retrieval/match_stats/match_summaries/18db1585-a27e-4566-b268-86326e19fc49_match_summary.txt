@@ -1,0 +1,192 @@
+Team 1: DRX
+Team 2: ZETA DIVISION
+Participating Players:
+Player 1: Dep
+Player 2: Yuran
+Player 3: SugarZ3ro
+Player 4: hiroronn
+Player 5: Laz
+Player 6: MaKo
+Player 7: Foxy9
+Player 8: Flashback
+Player 9: BeYN
+Player 10: BuZz
+Winning Team: DRX
+Score: DRX 13 - 4 ZETA DIVISION
+Tournament Name: vct pacific stage 2 2024
+Game Start Time: 2024-06-15T09:38:54Z
+Game End Time: 2024-06-15T10:16:55Z
+Rounds ended by ELIMINATION count: 11
+Rounds ended by DEFUSE count: 1
+Rounds ended by DETONATE count: 4
+SPIKE PLANTED count: 5
+platformGameId: val:18db1585-a27e-4566-b268-86326e19fc49
+
+--- Events ---
+Game started at 2024-06-15T09:38:54Z
+MaKo killed Yuran  in round 1
+SugarZ3ro killed MaKo  in round 1
+BuZz killed hiroronn  in round 1
+Foxy9 killed Laz  in round 1
+Flashback killed SugarZ3ro  in round 1
+Flashback killed Dep  in round 1
+Round 1 ended with elimination. The winning team is DRX.
+The current score is DRX 1 - 0 ZETA DIVISION.
+Foxy9 killed Laz  in round 2
+Foxy9 killed SugarZ3ro  in round 2
+Foxy9 killed hiroronn  in round 2
+Foxy9 killed Yuran  in round 2
+Dep killed Foxy9  in round 2
+BuZz killed Dep  in round 2
+Round 2 ended with elimination. The winning team is DRX.
+The current score is DRX 2 - 0 ZETA DIVISION.
+Flashback killed Yuran  in round 3
+SugarZ3ro killed BeYN  in round 3
+SugarZ3ro killed MaKo  in round 3
+BuZz killed SugarZ3ro  in round 3
+Foxy9 killed Laz  in round 3
+Dep killed BuZz  in round 3
+Flashback killed hiroronn  in round 3
+Foxy9 killed Dep  in round 3
+Round 3 ended with elimination. The winning team is DRX.
+The current score is DRX 3 - 0 ZETA DIVISION.
+SugarZ3ro killed Foxy9  in round 4
+SugarZ3ro killed BeYN  in round 4
+SugarZ3ro killed Flashback  in round 4
+SugarZ3ro killed MaKo  in round 4
+BuZz killed Yuran  in round 4
+BuZz killed SugarZ3ro  in round 4
+hiroronn killed BuZz  in round 4
+Round 4 ended with spike_defuse. The winning team is ZETA DIVISION.
+The current score is DRX 3 - 1 ZETA DIVISION.
+Yuran killed BuZz  in round 5
+Foxy9 killed Dep  in round 5
+Yuran killed Foxy9  in round 5
+BeYN killed Yuran  in round 5
+MaKo killed hiroronn  in round 5
+Flashback killed SugarZ3ro  in round 5
+Laz killed MaKo  in round 5
+Flashback killed Laz  in round 5
+Round 5 ended with elimination. The winning team is DRX.
+The current score is DRX 4 - 1 ZETA DIVISION.
+BuZz killed SugarZ3ro  in round 6
+MaKo killed Dep  in round 6
+Flashback killed Yuran  in round 6
+Laz killed BeYN  in round 6
+BuZz killed Laz  in round 6
+BuZz killed hiroronn  in round 6
+Round 6 ended with elimination. The winning team is DRX.
+The current score is DRX 5 - 1 ZETA DIVISION.
+BuZz killed SugarZ3ro  in round 7
+Laz killed Foxy9  in round 7
+Flashback killed Laz  in round 7
+MaKo killed hiroronn  in round 7
+MaKo killed Yuran  in round 7
+Round 7 ended with detonate. The winning team is DRX.
+The current score is DRX 6 - 1 ZETA DIVISION.
+BeYN killed Dep  in round 8
+BuZz killed Yuran  in round 8
+SugarZ3ro killed Flashback  in round 8
+Foxy9 killed hiroronn  in round 8
+MaKo killed Laz  in round 8
+Round 8 ended with detonate. The winning team is DRX.
+The current score is DRX 7 - 1 ZETA DIVISION.
+hiroronn killed BeYN  in round 9
+Foxy9 killed hiroronn  in round 9
+Foxy9 killed Yuran  in round 9
+Flashback killed Dep  in round 9
+Flashback killed Laz  in round 9
+SugarZ3ro killed MaKo  in round 9
+BuZz killed SugarZ3ro  in round 9
+Round 9 ended with elimination. The winning team is DRX.
+The current score is DRX 8 - 1 ZETA DIVISION.
+MaKo killed hiroronn  in round 10
+SugarZ3ro killed MaKo  in round 10
+BuZz killed Dep  in round 10
+Laz killed BuZz  in round 10
+SugarZ3ro killed Foxy9  in round 10
+Yuran killed Flashback  in round 10
+BeYN killed Yuran  in round 10
+Round 10 ended with time_expired. The winning team is ZETA DIVISION.
+The current score is DRX 8 - 2 ZETA DIVISION.
+Laz killed BeYN  in round 11
+Dep killed MaKo  in round 11
+BeYN killed Dep  in round 11
+Foxy9 killed Laz  in round 11
+hiroronn killed Foxy9  in round 11
+Flashback killed SugarZ3ro  in round 11
+Yuran killed BeYN  in round 11
+BuZz killed hiroronn  in round 11
+Yuran killed BuZz  in round 11
+Flashback killed Yuran  in round 11
+Round 11 ended with elimination. The winning team is DRX.
+The current score is DRX 9 - 2 ZETA DIVISION.
+Dep killed BuZz  in round 12
+SugarZ3ro killed MaKo  in round 12
+Flashback killed Yuran  in round 12
+Dep killed Flashback  in round 12
+BeYN killed hiroronn  in round 12
+Foxy9 killed Dep  in round 12
+SugarZ3ro killed Foxy9  in round 12
+SugarZ3ro killed BeYN  in round 12
+Laz killed Laz  in round 12
+Round 12 ended with detonate. The winning team is DRX.
+The current score is DRX 10 - 2 ZETA DIVISION.
+SugarZ3ro killed SugarZ3ro  in round 13
+Dep killed BuZz  in round 13
+BeYN killed Yuran  in round 13
+hiroronn killed BeYN  in round 13
+MaKo killed hiroronn  in round 13
+Laz killed Flashback  in round 13
+MaKo killed SugarZ3ro  in round 13
+Laz killed MaKo  in round 13
+Foxy9 killed Dep  in round 13
+Laz killed Foxy9  in round 13
+Round 13 ended with elimination. The winning team is ZETA DIVISION.
+The current score is DRX 10 - 3 ZETA DIVISION.
+Yuran killed MaKo  in round 14
+Laz killed Foxy9  in round 14
+SugarZ3ro killed BeYN  in round 14
+SugarZ3ro killed Flashback  in round 14
+Round 14 ended with detonate. The winning team is ZETA DIVISION.
+The current score is DRX 10 - 4 ZETA DIVISION.
+BuZz killed BuZz  in round 15
+BuZz killed hiroronn  in round 15
+Flashback killed Yuran  in round 15
+Laz killed BuZz  in round 15
+Flashback killed Laz  in round 15
+BeYN killed SugarZ3ro  in round 15
+Dep killed Flashback  in round 15
+BeYN killed Dep  in round 15
+Round 15 ended with elimination. The winning team is DRX.
+The current score is DRX 11 - 4 ZETA DIVISION.
+BeYN killed Yuran  in round 16
+hiroronn killed BuZz  in round 16
+Flashback killed Dep  in round 16
+Flashback killed hiroronn  in round 16
+Laz killed BeYN  in round 16
+Foxy9 killed Laz  in round 16
+Foxy9 killed SugarZ3ro  in round 16
+Round 16 ended with elimination. The winning team is DRX.
+The current score is DRX 12 - 4 ZETA DIVISION.
+MaKo killed Dep  in round 17
+BeYN killed Yuran  in round 17
+MaKo killed hiroronn  in round 17
+Foxy9 killed Laz  in round 17
+SugarZ3ro killed Foxy9  in round 17
+BuZz killed SugarZ3ro  in round 17
+Round 17 ended with elimination. The winning team is DRX.
+The current score is DRX 13 - 4 ZETA DIVISION.
+Game ended with winning team: DRX at 2024-06-15T10:16:55Z
+
+--- Player Stats ---
+Dep: Team=ZETA DIVISION, Kills=7, Deaths=14, Assists=4, KDA=0.79, First Kills=1, First Deaths=2
+Yuran: Team=ZETA DIVISION, Kills=6, Deaths=16, Assists=11, KDA=1.06, First Kills=2, First Deaths=3
+SugarZ3ro: Team=ZETA DIVISION, Kills=18, Deaths=14, Assists=5, KDA=1.64, First Kills=2, First Deaths=3
+hiroronn: Team=ZETA DIVISION, Kills=5, Deaths=15, Assists=6, KDA=0.73, First Kills=1, First Deaths=1
+Laz: Team=ZETA DIVISION, Kills=12, Deaths=13, Assists=5, KDA=1.31, First Kills=1, First Deaths=1
+MaKo: Team=DRX, Kills=11, Deaths=10, Assists=7, KDA=1.8, First Kills=3, First Deaths=1
+Foxy9: Team=DRX, Kills=17, Deaths=10, Assists=2, KDA=1.9, First Kills=1, First Deaths=1
+Flashback: Team=DRX, Kills=17, Deaths=7, Assists=2, KDA=2.71, First Kills=1, First Deaths=0
+BeYN: Team=DRX, Kills=10, Deaths=10, Assists=4, KDA=1.4, First Kills=2, First Deaths=2
+BuZz: Team=DRX, Kills=16, Deaths=10, Assists=2, KDA=1.8, First Kills=3, First Deaths=3

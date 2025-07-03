@@ -1,0 +1,238 @@
+Team 1: Cloud9 Blue
+Team 2: NRG
+Participating Players:
+Player 1: crashies
+Player 2: Victor
+Player 3: FNS
+Player 4: s0m
+Player 5: ardiis
+Player 6: Leaf
+Player 7: xeppaa
+Player 8: runi
+Player 9: Zellsis
+Player 10: jakee
+Winning Team: Cloud9 Blue
+Score: Cloud9 Blue 13 - 10 NRG
+Tournament Name: vct americas 2023
+Game Start Time: 2023-05-26T23:09:39Z
+Game End Time: 2023-05-27T00:12:48Z
+Rounds ended by ELIMINATION count: 13
+Rounds ended by DEFUSE count: 5
+Rounds ended by DETONATE count: 3
+SPIKE PLANTED count: 8
+platformGameId: val:6fc55580-a2af-421a-a569-2e4414a3df4c
+
+--- Events ---
+Game started at 2023-05-26T23:09:39Z
+ardiis killed xeppaa  in round 1
+ardiis killed Leaf  in round 1
+crashies killed Zellsis  in round 1
+ardiis killed runi  in round 1
+jakee killed Victor  in round 1
+s0m killed jakee  in round 1
+Round 1 ended with elimination. The winning team is NRG.
+The current score is Cloud9 Blue 0 - 1 NRG.
+ardiis killed xeppaa  in round 2
+Victor killed jakee  in round 2
+FNS killed Leaf  in round 2
+runi killed Victor  in round 2
+FNS killed Zellsis  in round 2
+FNS killed runi  in round 2
+Round 2 ended with elimination. The winning team is NRG.
+The current score is Cloud9 Blue 0 - 2 NRG.
+Victor killed Leaf  in round 3
+Zellsis killed FNS  in round 3
+xeppaa killed Victor  in round 3
+xeppaa killed ardiis  in round 3
+jakee killed s0m  in round 3
+crashies killed xeppaa  in round 3
+Zellsis killed crashies  in round 3
+Round 3 ended with elimination. The winning team is Cloud9 Blue.
+The current score is Cloud9 Blue 1 - 2 NRG.
+Victor killed Leaf  in round 4
+s0m killed xeppaa  in round 4
+s0m killed Zellsis  in round 4
+runi killed crashies  in round 4
+s0m killed runi  in round 4
+jakee killed Victor  in round 4
+jakee killed FNS  in round 4
+Round 4 ended with time_expired. The winning team is NRG.
+The current score is Cloud9 Blue 1 - 3 NRG.
+s0m killed Leaf  in round 5
+xeppaa killed Victor  in round 5
+jakee killed FNS  in round 5
+xeppaa killed crashies  in round 5
+ardiis killed runi  in round 5
+s0m killed xeppaa  in round 5
+jakee killed s0m  in round 5
+Round 5 ended with detonate. The winning team is Cloud9 Blue.
+The current score is Cloud9 Blue 2 - 3 NRG.
+Leaf killed s0m  in round 6
+ardiis killed Leaf  in round 6
+crashies killed jakee  in round 6
+crashies killed runi  in round 6
+crashies killed xeppaa  in round 6
+crashies killed Zellsis  in round 6
+Round 6 ended with elimination. The winning team is NRG.
+The current score is Cloud9 Blue 2 - 4 NRG.
+Leaf killed Victor  in round 7
+s0m killed runi  in round 7
+s0m killed xeppaa  in round 7
+Leaf killed s0m  in round 7
+Leaf killed FNS  in round 7
+crashies killed Zellsis  in round 7
+crashies killed Leaf  in round 7
+crashies killed jakee  in round 7
+Round 7 ended with spike_defuse. The winning team is NRG.
+The current score is Cloud9 Blue 2 - 5 NRG.
+jakee killed FNS  in round 8
+jakee killed Victor  in round 8
+Leaf killed crashies  in round 8
+Round 8 ended with detonate. The winning team is Cloud9 Blue.
+The current score is Cloud9 Blue 3 - 5 NRG.
+ardiis killed xeppaa  in round 9
+runi killed s0m  in round 9
+Victor killed jakee  in round 9
+FNS killed Leaf  in round 9
+runi killed Victor  in round 9
+ardiis killed Zellsis  in round 9
+ardiis killed runi  in round 9
+FNS killed xeppaa  in round 9
+Round 9 ended with spike_defuse. The winning team is NRG.
+The current score is Cloud9 Blue 3 - 6 NRG.
+Leaf killed ardiis  in round 10
+xeppaa killed Victor  in round 10
+crashies killed runi  in round 10
+Leaf killed s0m  in round 10
+FNS killed Leaf  in round 10
+Zellsis killed FNS  in round 10
+Zellsis killed crashies  in round 10
+Round 10 ended with elimination. The winning team is Cloud9 Blue.
+The current score is Cloud9 Blue 4 - 6 NRG.
+ardiis killed jakee  in round 11
+s0m killed Leaf  in round 11
+crashies killed xeppaa  in round 11
+crashies killed Zellsis  in round 11
+s0m killed runi  in round 11
+Round 11 ended with elimination. The winning team is NRG.
+The current score is Cloud9 Blue 4 - 7 NRG.
+ardiis killed xeppaa  in round 12
+Leaf killed ardiis  in round 12
+Leaf killed crashies  in round 12
+Leaf killed s0m  in round 12
+FNS killed runi  in round 12
+jakee killed Victor  in round 12
+FNS killed jakee  in round 12
+Leaf killed FNS  in round 12
+Round 12 ended with elimination. The winning team is Cloud9 Blue.
+The current score is Cloud9 Blue 5 - 7 NRG.
+Victor killed Leaf  in round 13
+xeppaa killed Victor  in round 13
+s0m killed runi  in round 13
+jakee killed FNS  in round 13
+xeppaa killed ardiis  in round 13
+jakee killed crashies  in round 13
+s0m killed Zellsis  in round 13
+xeppaa killed s0m  in round 13
+Round 13 ended with spike_defuse. The winning team is Cloud9 Blue.
+The current score is Cloud9 Blue 6 - 7 NRG.
+Zellsis killed crashies  in round 14
+runi killed ardiis  in round 14
+Zellsis killed s0m  in round 14
+xeppaa killed Victor  in round 14
+runi killed FNS  in round 14
+Round 14 ended with elimination. The winning team is Cloud9 Blue.
+The current score is Cloud9 Blue 7 - 7 NRG.
+Victor killed Leaf  in round 15
+Victor killed jakee  in round 15
+crashies killed runi  in round 15
+xeppaa killed crashies  in round 15
+FNS killed Zellsis  in round 15
+s0m killed xeppaa  in round 15
+Round 15 ended with elimination. The winning team is NRG.
+The current score is Cloud9 Blue 7 - 8 NRG.
+jakee killed ardiis  in round 16
+xeppaa killed crashies  in round 16
+runi killed Victor  in round 16
+s0m killed xeppaa  in round 16
+runi killed FNS  in round 16
+Zellsis killed s0m  in round 16
+Round 16 ended with elimination. The winning team is Cloud9 Blue.
+The current score is Cloud9 Blue 8 - 8 NRG.
+runi killed s0m  in round 17
+ardiis killed runi  in round 17
+jakee killed crashies  in round 17
+ardiis killed jakee  in round 17
+xeppaa killed ardiis  in round 17
+Victor killed xeppaa  in round 17
+Leaf killed Victor  in round 17
+FNS killed Leaf  in round 17
+Zellsis killed FNS  in round 17
+Round 17 ended with spike_defuse. The winning team is Cloud9 Blue.
+The current score is Cloud9 Blue 9 - 8 NRG.
+xeppaa killed ardiis  in round 18
+jakee killed s0m  in round 18
+FNS killed jakee  in round 18
+xeppaa killed FNS  in round 18
+Zellsis killed Victor  in round 18
+Zellsis killed crashies  in round 18
+Round 18 ended with elimination. The winning team is Cloud9 Blue.
+The current score is Cloud9 Blue 10 - 8 NRG.
+jakee killed s0m  in round 19
+Zellsis killed ardiis  in round 19
+jakee killed Victor  in round 19
+crashies killed Zellsis  in round 19
+FNS killed jakee  in round 19
+runi killed crashies  in round 19
+Round 19 ended with time_expired. The winning team is Cloud9 Blue.
+The current score is Cloud9 Blue 11 - 8 NRG.
+FNS killed runi  in round 20
+runi killed ardiis  in round 20
+crashies killed runi  in round 20
+Victor killed jakee  in round 20
+Leaf killed Victor  in round 20
+Zellsis killed FNS  in round 20
+crashies killed Leaf  in round 20
+xeppaa killed s0m  in round 20
+crashies killed xeppaa  in round 20
+crashies killed Zellsis  in round 20
+Round 20 ended with elimination. The winning team is NRG.
+The current score is Cloud9 Blue 11 - 9 NRG.
+ardiis killed runi  in round 21
+xeppaa killed ardiis  in round 21
+crashies killed Leaf  in round 21
+crashies killed xeppaa  in round 21
+Round 21 ended with detonate. The winning team is NRG.
+The current score is Cloud9 Blue 11 - 10 NRG.
+FNS killed FNS  in round 22
+ardiis killed Leaf  in round 22
+xeppaa killed crashies  in round 22
+FNS killed xeppaa  in round 22
+jakee killed ardiis  in round 22
+runi killed s0m  in round 22
+runi killed Victor  in round 22
+jakee killed FNS  in round 22
+Round 22 ended with spike_defuse. The winning team is Cloud9 Blue.
+The current score is Cloud9 Blue 12 - 10 NRG.
+runi killed ardiis  in round 23
+Leaf killed Victor  in round 23
+Zellsis killed s0m  in round 23
+crashies killed Leaf  in round 23
+xeppaa killed crashies  in round 23
+FNS killed Zellsis  in round 23
+xeppaa killed FNS  in round 23
+Round 23 ended with elimination. The winning team is Cloud9 Blue.
+The current score is Cloud9 Blue 13 - 10 NRG.
+Game ended with winning team: Cloud9 Blue at 2023-05-27T00:12:48Z
+
+--- Player Stats ---
+crashies: Team=NRG, Kills=21, Deaths=15, Assists=7, KDA=1.87, First Kills=0, First Deaths=1
+Victor: Team=NRG, Kills=9, Deaths=19, Assists=5, KDA=0.74, First Kills=4, First Deaths=1
+FNS: Team=NRG, Kills=16, Deaths=16, Assists=1, KDA=1.06, First Kills=2, First Deaths=2
+s0m: Team=NRG, Kills=14, Deaths=16, Assists=8, KDA=1.38, First Kills=1, First Deaths=3
+ardiis: Team=NRG, Kills=15, Deaths=13, Assists=6, KDA=1.62, First Kills=6, First Deaths=4
+Leaf: Team=Cloud9 Blue, Kills=14, Deaths=17, Assists=1, KDA=0.88, First Kills=3, First Deaths=5
+xeppaa: Team=Cloud9 Blue, Kills=19, Deaths=17, Assists=8, KDA=1.59, First Kills=1, First Deaths=4
+runi: Team=Cloud9 Blue, Kills=14, Deaths=16, Assists=8, KDA=1.38, First Kills=2, First Deaths=2
+Zellsis: Team=Cloud9 Blue, Kills=13, Deaths=12, Assists=6, KDA=1.58, First Kills=1, First Deaths=0
+jakee: Team=Cloud9 Blue, Kills=18, Deaths=12, Assists=6, KDA=2.0, First Kills=3, First Deaths=1

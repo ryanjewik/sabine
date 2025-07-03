@@ -1,0 +1,251 @@
+Team 1: FURIA
+Team 2: KRÜ Esports
+Participating Players:
+Player 1: KeznitdeuS
+Player 2: Shyy
+Player 3: Klaus
+Player 4: Melser
+Player 5: heat
+Player 6: kon4n
+Player 7: mwzera
+Player 8: Nozwer
+Player 9: havoc
+Player 10: Khalil
+Winning Team: FURIA
+Score: FURIA 13 - 11 KRÜ Esports
+Tournament Name: vct americas stage 1 2024
+Game Start Time: 2024-04-08T22:06:02Z
+Game End Time: 2024-04-08T23:03:20Z
+Rounds ended by ELIMINATION count: 14
+Rounds ended by DEFUSE count: 8
+Rounds ended by DETONATE count: 2
+SPIKE PLANTED count: 10
+platformGameId: val:b256ea8f-37c9-405f-b809-a20b890b29d6
+
+--- Events ---
+Game started at 2024-04-08T22:06:02Z
+havoc killed Klaus  in round 1
+mwzera killed Shyy  in round 1
+Khalil killed KeznitdeuS  in round 1
+havoc killed heat  in round 1
+kon4n killed Melser  in round 1
+Round 1 ended with elimination. The winning team is FURIA.
+The current score is FURIA 1 - 0 KRÜ Esports.
+mwzera killed Klaus  in round 2
+mwzera killed KeznitdeuS  in round 2
+Khalil killed Melser  in round 2
+havoc killed heat  in round 2
+Shyy killed Khalil  in round 2
+Round 2 ended with detonate. The winning team is FURIA.
+The current score is FURIA 2 - 0 KRÜ Esports.
+Shyy killed Shyy  in round 3
+Melser killed mwzera  in round 3
+havoc killed Melser  in round 3
+havoc killed KeznitdeuS  in round 3
+heat killed havoc  in round 3
+Klaus killed kon4n  in round 3
+heat killed Khalil  in round 3
+Nozwer killed Klaus  in round 3
+heat killed Nozwer  in round 3
+Round 3 ended with spike_defuse. The winning team is KRÜ Esports.
+The current score is FURIA 2 - 1 KRÜ Esports.
+Shyy killed kon4n  in round 4
+Khalil killed Shyy  in round 4
+Nozwer killed heat  in round 4
+mwzera killed KeznitdeuS  in round 4
+Melser killed Khalil  in round 4
+mwzera killed Klaus  in round 4
+mwzera killed Melser  in round 4
+Round 4 ended with elimination. The winning team is FURIA.
+The current score is FURIA 3 - 1 KRÜ Esports.
+KeznitdeuS killed Khalil  in round 5
+mwzera killed KeznitdeuS  in round 5
+mwzera killed Klaus  in round 5
+Shyy killed mwzera  in round 5
+heat killed havoc  in round 5
+kon4n killed Shyy  in round 5
+heat killed kon4n  in round 5
+heat killed Nozwer  in round 5
+Round 5 ended with spike_defuse. The winning team is KRÜ Esports.
+The current score is FURIA 3 - 2 KRÜ Esports.
+mwzera killed Melser  in round 6
+mwzera killed Klaus  in round 6
+KeznitdeuS killed mwzera  in round 6
+KeznitdeuS killed havoc  in round 6
+kon4n killed Shyy  in round 6
+heat killed Nozwer  in round 6
+heat killed kon4n  in round 6
+Khalil killed heat  in round 6
+Khalil killed KeznitdeuS  in round 6
+Round 6 ended with elimination. The winning team is FURIA.
+The current score is FURIA 4 - 2 KRÜ Esports.
+mwzera killed heat  in round 7
+mwzera killed KeznitdeuS  in round 7
+Klaus killed mwzera  in round 7
+kon4n killed Klaus  in round 7
+Round 7 ended with detonate. The winning team is FURIA.
+The current score is FURIA 5 - 2 KRÜ Esports.
+Klaus killed havoc  in round 8
+Khalil killed Melser  in round 8
+KeznitdeuS killed kon4n  in round 8
+heat killed Khalil  in round 8
+KeznitdeuS killed Nozwer  in round 8
+Klaus killed mwzera  in round 8
+Round 8 ended with spike_defuse. The winning team is KRÜ Esports.
+The current score is FURIA 5 - 3 KRÜ Esports.
+kon4n killed Klaus  in round 9
+KeznitdeuS killed havoc  in round 9
+Melser killed kon4n  in round 9
+KeznitdeuS killed Nozwer  in round 9
+Shyy killed mwzera  in round 9
+Khalil killed Shyy  in round 9
+Melser killed Khalil  in round 9
+Round 9 ended with elimination. The winning team is KRÜ Esports.
+The current score is FURIA 5 - 4 KRÜ Esports.
+kon4n killed KeznitdeuS  in round 10
+heat killed mwzera  in round 10
+havoc killed Klaus  in round 10
+Melser killed kon4n  in round 10
+Shyy killed havoc  in round 10
+Khalil killed Melser  in round 10
+Khalil killed Shyy  in round 10
+heat killed Nozwer  in round 10
+Khalil killed heat  in round 10
+Round 10 ended with elimination. The winning team is FURIA.
+The current score is FURIA 6 - 4 KRÜ Esports.
+havoc killed KeznitdeuS  in round 11
+kon4n killed Klaus  in round 11
+havoc killed Melser  in round 11
+Shyy killed kon4n  in round 11
+mwzera killed heat  in round 11
+Khalil killed Shyy  in round 11
+Round 11 ended with elimination. The winning team is FURIA.
+The current score is FURIA 7 - 4 KRÜ Esports.
+Melser killed havoc  in round 12
+Nozwer killed KeznitdeuS  in round 12
+Khalil killed Klaus  in round 12
+heat killed mwzera  in round 12
+Nozwer killed Shyy  in round 12
+kon4n killed Melser  in round 12
+kon4n killed heat  in round 12
+Round 12 ended with elimination. The winning team is FURIA.
+The current score is FURIA 8 - 4 KRÜ Esports.
+Shyy killed Khalil  in round 13
+KeznitdeuS killed mwzera  in round 13
+Melser killed kon4n  in round 13
+KeznitdeuS killed havoc  in round 13
+Nozwer killed KeznitdeuS  in round 13
+Melser killed Nozwer  in round 13
+Round 13 ended with elimination. The winning team is KRÜ Esports.
+The current score is FURIA 8 - 5 KRÜ Esports.
+mwzera killed heat  in round 14
+havoc killed Shyy  in round 14
+KeznitdeuS killed kon4n  in round 14
+KeznitdeuS killed mwzera  in round 14
+KeznitdeuS killed Nozwer  in round 14
+Round 14 ended with spike_defuse. The winning team is FURIA.
+The current score is FURIA 9 - 5 KRÜ Esports.
+KeznitdeuS killed havoc  in round 15
+KeznitdeuS killed Nozwer  in round 15
+KeznitdeuS killed Khalil  in round 15
+havoc killed Klaus  in round 15
+havoc killed KeznitdeuS  in round 15
+heat killed havoc  in round 15
+kon4n killed Melser  in round 15
+mwzera killed Shyy  in round 15
+heat killed mwzera  in round 15
+heat killed kon4n  in round 15
+Round 15 ended with elimination. The winning team is KRÜ Esports.
+The current score is FURIA 9 - 6 KRÜ Esports.
+heat killed mwzera  in round 16
+havoc killed Klaus  in round 16
+KeznitdeuS killed havoc  in round 16
+KeznitdeuS killed Nozwer  in round 16
+heat killed Khalil  in round 16
+Shyy killed kon4n  in round 16
+Round 16 ended with elimination. The winning team is KRÜ Esports.
+The current score is FURIA 9 - 7 KRÜ Esports.
+kon4n killed KeznitdeuS  in round 17
+mwzera killed Melser  in round 17
+Shyy killed havoc  in round 17
+heat killed mwzera  in round 17
+Nozwer killed heat  in round 17
+Shyy killed kon4n  in round 17
+Klaus killed Nozwer  in round 17
+Klaus killed Khalil  in round 17
+Round 17 ended with elimination. The winning team is KRÜ Esports.
+The current score is FURIA 9 - 8 KRÜ Esports.
+KeznitdeuS killed mwzera  in round 18
+Klaus killed Nozwer  in round 18
+heat killed havoc  in round 18
+KeznitdeuS killed kon4n  in round 18
+Khalil killed Melser  in round 18
+heat killed Khalil  in round 18
+Round 18 ended with elimination. The winning team is KRÜ Esports.
+The current score is FURIA 9 - 9 KRÜ Esports.
+KeznitdeuS killed havoc  in round 19
+heat killed Khalil  in round 19
+KeznitdeuS killed Nozwer  in round 19
+mwzera killed Shyy  in round 19
+KeznitdeuS killed kon4n  in round 19
+KeznitdeuS killed mwzera  in round 19
+Round 19 ended with elimination. The winning team is KRÜ Esports.
+The current score is FURIA 9 - 10 KRÜ Esports.
+mwzera killed Shyy  in round 20
+heat killed mwzera  in round 20
+heat killed Nozwer  in round 20
+Khalil killed KeznitdeuS  in round 20
+kon4n killed Klaus  in round 20
+kon4n killed Melser  in round 20
+heat killed kon4n  in round 20
+havoc killed heat  in round 20
+Round 20 ended with spike_defuse. The winning team is FURIA.
+The current score is FURIA 10 - 10 KRÜ Esports.
+mwzera killed KeznitdeuS  in round 21
+havoc killed Klaus  in round 21
+Melser killed havoc  in round 21
+Nozwer killed heat  in round 21
+mwzera killed Shyy  in round 21
+Melser killed mwzera  in round 21
+Nozwer killed Melser  in round 21
+Round 21 ended with spike_defuse. The winning team is FURIA.
+The current score is FURIA 11 - 10 KRÜ Esports.
+havoc killed heat  in round 22
+Melser killed havoc  in round 22
+Shyy killed mwzera  in round 22
+Melser killed kon4n  in round 22
+Shyy killed Nozwer  in round 22
+Melser killed Khalil  in round 22
+Round 22 ended with elimination. The winning team is KRÜ Esports.
+The current score is FURIA 11 - 11 KRÜ Esports.
+Nozwer killed Klaus  in round 23
+KeznitdeuS killed Nozwer  in round 23
+heat killed Khalil  in round 23
+havoc killed KeznitdeuS  in round 23
+heat killed havoc  in round 23
+mwzera killed heat  in round 23
+kon4n killed Melser  in round 23
+mwzera killed Shyy  in round 23
+Round 23 ended with spike_defuse. The winning team is FURIA.
+The current score is FURIA 12 - 11 KRÜ Esports.
+Nozwer killed Melser  in round 24
+mwzera killed KeznitdeuS  in round 24
+havoc killed heat  in round 24
+havoc killed Shyy  in round 24
+Klaus killed havoc  in round 24
+Nozwer killed Klaus  in round 24
+Round 24 ended with spike_defuse. The winning team is FURIA.
+The current score is FURIA 13 - 11 KRÜ Esports.
+Game ended with winning team: FURIA at 2024-04-08T23:03:20Z
+
+--- Player Stats ---
+KeznitdeuS: Team=KRÜ Esports, Kills=24, Deaths=17, Assists=5, KDA=1.71, First Kills=4, First Deaths=4
+Shyy: Team=KRÜ Esports, Kills=13, Deaths=16, Assists=6, KDA=1.19, First Kills=3, First Deaths=2
+Klaus: Team=KRÜ Esports, Kills=8, Deaths=17, Assists=5, KDA=0.76, First Kills=1, First Deaths=4
+Melser: Team=KRÜ Esports, Kills=13, Deaths=16, Assists=9, KDA=1.38, First Kills=1, First Deaths=2
+heat: Team=KRÜ Esports, Kills=26, Deaths=15, Assists=17, KDA=2.87, First Kills=1, First Deaths=3
+kon4n: Team=FURIA, Kills=14, Deaths=17, Assists=6, KDA=1.18, First Kills=3, First Deaths=1
+mwzera: Team=FURIA, Kills=23, Deaths=18, Assists=3, KDA=1.44, First Kills=6, First Deaths=2
+Nozwer: Team=FURIA, Kills=11, Deaths=16, Assists=6, KDA=1.06, First Kills=2, First Deaths=0
+havoc: Team=FURIA, Kills=18, Deaths=18, Assists=2, KDA=1.11, First Kills=3, First Deaths=4
+Khalil: Team=FURIA, Kills=14, Deaths=14, Assists=4, KDA=1.29, First Kills=0, First Deaths=2

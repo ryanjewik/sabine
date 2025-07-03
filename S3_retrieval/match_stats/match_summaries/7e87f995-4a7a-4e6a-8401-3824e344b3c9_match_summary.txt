@@ -1,0 +1,187 @@
+Team 1: DRX
+Team 2: Cloud9 Blue
+Participating Players:
+Player 1: Leaf
+Player 2: xeppaa
+Player 3: vanity
+Player 4: Zellsis
+Player 5: yay
+Player 6: ZestKR
+Player 7: BuZz
+Player 8: stax
+Player 9: MaKo
+Player 10: Rb
+Winning Team: Cloud9 Blue
+Score: DRX 3 - 13 Cloud9 Blue
+Tournament Name: lock in brazil 2023
+Game Start Time: 2023-02-18T16:54:21Z
+Game End Time: 2023-02-18T17:44:12Z
+Rounds ended by ELIMINATION count: 7
+Rounds ended by DEFUSE count: 6
+Rounds ended by DETONATE count: 2
+SPIKE PLANTED count: 8
+platformGameId: val:7e87f995-4a7a-4e6a-8401-3824e344b3c9
+
+--- Events ---
+Game started at 2023-02-18T16:54:21Z
+BuZz killed vanity  in round 1
+yay killed BuZz  in round 1
+yay killed MaKo  in round 1
+xeppaa killed stax  in round 1
+ZestKR killed yay  in round 1
+Leaf killed ZestKR  in round 1
+Rb killed xeppaa  in round 1
+Leaf killed Rb  in round 1
+Round 1 ended with spike_defuse. The winning team is Cloud9 Blue.
+The current score is DRX 0 - 1 Cloud9 Blue.
+Leaf killed stax  in round 2
+vanity killed ZestKR  in round 2
+Leaf killed MaKo  in round 2
+yay killed Rb  in round 2
+yay killed BuZz  in round 2
+Round 2 ended with elimination. The winning team is Cloud9 Blue.
+The current score is DRX 0 - 2 Cloud9 Blue.
+vanity killed BuZz  in round 3
+Leaf killed ZestKR  in round 3
+xeppaa killed stax  in round 3
+MaKo killed xeppaa  in round 3
+MaKo killed yay  in round 3
+Rb killed Leaf  in round 3
+Zellsis killed MaKo  in round 3
+Rb killed vanity  in round 3
+Zellsis killed Rb  in round 3
+Round 3 ended with spike_defuse. The winning team is Cloud9 Blue.
+The current score is DRX 0 - 3 Cloud9 Blue.
+ZestKR killed xeppaa  in round 4
+Leaf killed stax  in round 4
+Zellsis killed ZestKR  in round 4
+Zellsis killed MaKo  in round 4
+vanity killed BuZz  in round 4
+Zellsis killed Rb  in round 4
+Round 4 ended with spike_defuse. The winning team is Cloud9 Blue.
+The current score is DRX 0 - 4 Cloud9 Blue.
+MaKo killed Zellsis  in round 5
+MaKo killed yay  in round 5
+vanity killed BuZz  in round 5
+stax killed vanity  in round 5
+MaKo killed xeppaa  in round 5
+stax killed Leaf  in round 5
+Round 5 ended with elimination. The winning team is DRX.
+The current score is DRX 1 - 4 Cloud9 Blue.
+MaKo killed vanity  in round 6
+Leaf killed MaKo  in round 6
+ZestKR killed Leaf  in round 6
+xeppaa killed stax  in round 6
+Zellsis killed ZestKR  in round 6
+BuZz killed Zellsis  in round 6
+yay killed BuZz  in round 6
+xeppaa killed Rb  in round 6
+Round 6 ended with spike_defuse. The winning team is Cloud9 Blue.
+The current score is DRX 1 - 5 Cloud9 Blue.
+BuZz killed vanity  in round 7
+ZestKR killed xeppaa  in round 7
+BuZz killed Zellsis  in round 7
+Leaf killed BuZz  in round 7
+Leaf killed stax  in round 7
+Rb killed Leaf  in round 7
+Round 7 ended with detonate. The winning team is DRX.
+The current score is DRX 2 - 5 Cloud9 Blue.
+BuZz killed vanity  in round 8
+ZestKR killed xeppaa  in round 8
+Leaf killed BuZz  in round 8
+stax killed yay  in round 8
+Zellsis killed ZestKR  in round 8
+Zellsis killed stax  in round 8
+Leaf killed MaKo  in round 8
+Zellsis killed Rb  in round 8
+Round 8 ended with spike_defuse. The winning team is Cloud9 Blue.
+The current score is DRX 2 - 6 Cloud9 Blue.
+stax killed yay  in round 9
+Zellsis killed stax  in round 9
+Rb killed Zellsis  in round 9
+xeppaa killed BuZz  in round 9
+xeppaa killed Rb  in round 9
+MaKo killed xeppaa  in round 9
+Leaf killed ZestKR  in round 9
+MaKo killed Leaf  in round 9
+Round 9 ended with time_expired. The winning team is Cloud9 Blue.
+The current score is DRX 2 - 7 Cloud9 Blue.
+vanity killed MaKo  in round 10
+yay killed stax  in round 10
+BuZz killed Zellsis  in round 10
+Leaf killed BuZz  in round 10
+vanity killed ZestKR  in round 10
+Round 10 ended with spike_defuse. The winning team is Cloud9 Blue.
+The current score is DRX 2 - 8 Cloud9 Blue.
+yay killed Rb  in round 11
+xeppaa killed MaKo  in round 11
+stax killed Leaf  in round 11
+ZestKR killed vanity  in round 11
+xeppaa killed stax  in round 11
+xeppaa killed ZestKR  in round 11
+xeppaa killed BuZz  in round 11
+Rb killed xeppaa  in round 11
+Rb killed Zellsis  in round 11
+yay killed Rb  in round 11
+Round 11 ended with detonate. The winning team is DRX.
+The current score is DRX 3 - 8 Cloud9 Blue.
+Zellsis killed BuZz  in round 12
+Zellsis killed Rb  in round 12
+xeppaa killed ZestKR  in round 12
+xeppaa killed stax  in round 12
+MaKo killed Zellsis  in round 12
+xeppaa killed MaKo  in round 12
+Round 12 ended with elimination. The winning team is Cloud9 Blue.
+The current score is DRX 3 - 9 Cloud9 Blue.
+MaKo killed yay  in round 13
+BuZz killed Zellsis  in round 13
+xeppaa killed Rb  in round 13
+xeppaa killed stax  in round 13
+Leaf killed BuZz  in round 13
+ZestKR killed Leaf  in round 13
+xeppaa killed ZestKR  in round 13
+MaKo killed vanity  in round 13
+xeppaa killed MaKo  in round 13
+Round 13 ended with elimination. The winning team is Cloud9 Blue.
+The current score is DRX 3 - 10 Cloud9 Blue.
+xeppaa killed xeppaa  in round 14
+MaKo killed xeppaa  in round 14
+vanity killed Rb  in round 14
+vanity killed stax  in round 14
+Leaf killed ZestKR  in round 14
+MaKo killed Leaf  in round 14
+vanity killed BuZz  in round 14
+vanity killed MaKo  in round 14
+Round 14 ended with elimination. The winning team is Cloud9 Blue.
+The current score is DRX 3 - 11 Cloud9 Blue.
+vanity killed Rb  in round 15
+stax killed xeppaa  in round 15
+MaKo killed vanity  in round 15
+yay killed stax  in round 15
+Zellsis killed ZestKR  in round 15
+Leaf killed MaKo  in round 15
+yay killed BuZz  in round 15
+Round 15 ended with elimination. The winning team is Cloud9 Blue.
+The current score is DRX 3 - 12 Cloud9 Blue.
+BuZz killed xeppaa  in round 16
+vanity killed MaKo  in round 16
+BuZz killed yay  in round 16
+Leaf killed ZestKR  in round 16
+Leaf killed BuZz  in round 16
+Leaf killed stax  in round 16
+Zellsis killed Rb  in round 16
+Round 16 ended with elimination. The winning team is Cloud9 Blue.
+The current score is DRX 3 - 13 Cloud9 Blue.
+Game ended with winning team: Cloud9 Blue at 2023-02-18T17:44:12Z
+
+--- Player Stats ---
+Leaf: Team=Cloud9 Blue, Kills=19, Deaths=8, Assists=6, KDA=3.12, First Kills=1, First Deaths=0
+xeppaa: Team=Cloud9 Blue, Kills=18, Deaths=12, Assists=6, KDA=2.0, First Kills=1, First Deaths=3
+vanity: Team=Cloud9 Blue, Kills=12, Deaths=9, Assists=12, KDA=2.67, First Kills=3, First Deaths=4
+Zellsis: Team=Cloud9 Blue, Kills=14, Deaths=8, Assists=10, KDA=3.0, First Kills=1, First Deaths=1
+yay: Team=Cloud9 Blue, Kills=10, Deaths=7, Assists=3, KDA=1.86, First Kills=1, First Deaths=2
+ZestKR: Team=DRX, Kills=7, Deaths=14, Assists=5, KDA=0.86, First Kills=1, First Deaths=0
+BuZz: Team=DRX, Kills=9, Deaths=16, Assists=1, KDA=0.62, First Kills=4, First Deaths=2
+stax: Team=DRX, Kills=6, Deaths=15, Assists=9, KDA=1.0, First Kills=1, First Deaths=1
+MaKo: Team=DRX, Kills=14, Deaths=13, Assists=2, KDA=1.23, First Kills=3, First Deaths=1
+Rb: Team=DRX, Kills=7, Deaths=14, Assists=5, KDA=0.86, First Kills=0, First Deaths=2

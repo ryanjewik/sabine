@@ -1,0 +1,269 @@
+Team 1: ZETA DIVISION
+Team 2: T1
+Participating Players:
+Player 1: carpe
+Player 2: Sayaplayer
+Player 3: xeta
+Player 4: ban 
+Player 5: Munchkin
+Player 6: Dep
+Player 7: crow 
+Player 8: SugarZ3ro
+Player 9: TENNN
+Player 10: Laz
+Winning Team: ZETA DIVISION
+Score: ZETA DIVISION 14 - 12 T1
+Tournament Name: vct pacific 2023
+Game Start Time: 2023-05-21T12:55:25Z
+Game End Time: 2023-05-21T13:55:04Z
+Rounds ended by ELIMINATION count: 17
+Rounds ended by DEFUSE count: 6
+Rounds ended by DETONATE count: 3
+SPIKE PLANTED count: 9
+platformGameId: val:62c51bdb-a84d-4e83-8b2f-fc4f8228d352
+
+--- Events ---
+Game started at 2023-05-21T12:55:25Z
+Dep killed Sayaplayer  in round 1
+carpe killed Dep  in round 1
+TENNN killed carpe  in round 1
+ban  killed TENNN  in round 1
+SugarZ3ro killed Munchkin  in round 1
+Laz killed xeta  in round 1
+crow  killed ban   in round 1
+Round 1 ended with elimination. The winning team is ZETA DIVISION.
+The current score is ZETA DIVISION 1 - 0 T1.
+TENNN killed Sayaplayer  in round 2
+Dep killed Munchkin  in round 2
+SugarZ3ro killed xeta  in round 2
+Dep killed carpe  in round 2
+ban  killed TENNN  in round 2
+Dep killed ban   in round 2
+Round 2 ended with elimination. The winning team is ZETA DIVISION.
+The current score is ZETA DIVISION 2 - 0 T1.
+xeta killed Dep  in round 3
+TENNN killed ban   in round 3
+Munchkin killed TENNN  in round 3
+Laz killed Sayaplayer  in round 3
+xeta killed crow   in round 3
+SugarZ3ro killed xeta  in round 3
+Munchkin killed SugarZ3ro  in round 3
+Laz killed Munchkin  in round 3
+carpe killed Laz  in round 3
+Round 3 ended with spike_defuse. The winning team is T1.
+The current score is ZETA DIVISION 2 - 1 T1.
+TENNN killed carpe  in round 4
+Munchkin killed TENNN  in round 4
+Dep killed Sayaplayer  in round 4
+Dep killed Munchkin  in round 4
+Round 4 ended with detonate. The winning team is ZETA DIVISION.
+The current score is ZETA DIVISION 3 - 1 T1.
+Munchkin killed TENNN  in round 5
+Dep killed Munchkin  in round 5
+Sayaplayer killed Dep  in round 5
+SugarZ3ro killed ban   in round 5
+Sayaplayer killed SugarZ3ro  in round 5
+Laz killed carpe  in round 5
+xeta killed Laz  in round 5
+crow  killed Sayaplayer  in round 5
+xeta killed crow   in round 5
+Round 5 ended with spike_defuse. The winning team is T1.
+The current score is ZETA DIVISION 3 - 2 T1.
+xeta killed Dep  in round 6
+Munchkin killed TENNN  in round 6
+Munchkin killed SugarZ3ro  in round 6
+xeta killed Laz  in round 6
+Sayaplayer killed crow   in round 6
+Round 6 ended with elimination. The winning team is T1.
+The current score is ZETA DIVISION 3 - 3 T1.
+xeta killed TENNN  in round 7
+Sayaplayer killed Dep  in round 7
+Munchkin killed SugarZ3ro  in round 7
+Laz killed Munchkin  in round 7
+Laz killed carpe  in round 7
+xeta killed Laz  in round 7
+xeta killed crow   in round 7
+Round 7 ended with elimination. The winning team is T1.
+The current score is ZETA DIVISION 3 - 4 T1.
+Dep killed Sayaplayer  in round 8
+ban  killed Dep  in round 8
+SugarZ3ro killed xeta  in round 8
+Laz killed ban   in round 8
+TENNN killed carpe  in round 8
+TENNN killed Munchkin  in round 8
+Round 8 ended with elimination. The winning team is ZETA DIVISION.
+The current score is ZETA DIVISION 4 - 4 T1.
+TENNN killed ban   in round 9
+Dep killed Sayaplayer  in round 9
+SugarZ3ro killed Munchkin  in round 9
+carpe killed TENNN  in round 9
+Round 9 ended with detonate. The winning team is ZETA DIVISION.
+The current score is ZETA DIVISION 5 - 4 T1.
+Dep killed Munchkin  in round 10
+Dep killed ban   in round 10
+carpe killed Dep  in round 10
+xeta killed TENNN  in round 10
+xeta killed crow   in round 10
+Round 10 ended with detonate. The winning team is ZETA DIVISION.
+The current score is ZETA DIVISION 6 - 4 T1.
+SugarZ3ro killed xeta  in round 11
+Laz killed Sayaplayer  in round 11
+carpe killed Laz  in round 11
+ban  killed TENNN  in round 11
+crow  killed ban   in round 11
+SugarZ3ro killed carpe  in round 11
+Dep killed xeta  in round 11
+Dep killed Munchkin  in round 11
+Round 11 ended with elimination. The winning team is ZETA DIVISION.
+The current score is ZETA DIVISION 7 - 4 T1.
+Laz killed Sayaplayer  in round 12
+Munchkin killed Laz  in round 12
+ban  killed SugarZ3ro  in round 12
+ban  killed Dep  in round 12
+Munchkin killed TENNN  in round 12
+crow  killed Munchkin  in round 12
+ban  killed crow   in round 12
+Round 12 ended with elimination. The winning team is T1.
+The current score is ZETA DIVISION 7 - 5 T1.
+Laz killed xeta  in round 13
+Sayaplayer killed TENNN  in round 13
+crow  killed Sayaplayer  in round 13
+Munchkin killed Dep  in round 13
+Round 13 ended with spike_defuse. The winning team is ZETA DIVISION.
+The current score is ZETA DIVISION 8 - 5 T1.
+carpe killed crow   in round 14
+Munchkin killed Laz  in round 14
+SugarZ3ro killed carpe  in round 14
+SugarZ3ro killed ban   in round 14
+Munchkin killed SugarZ3ro  in round 14
+crow  killed Sayaplayer  in round 14
+crow  killed carpe  in round 14
+crow  killed ban   in round 14
+Munchkin killed Laz  in round 14
+TENNN killed xeta  in round 14
+TENNN killed Munchkin  in round 14
+Round 14 ended with elimination. The winning team is ZETA DIVISION.
+The current score is ZETA DIVISION 9 - 5 T1.
+carpe killed Dep  in round 15
+TENNN killed carpe  in round 15
+Sayaplayer killed SugarZ3ro  in round 15
+TENNN killed xeta  in round 15
+ban  killed TENNN  in round 15
+ban  killed Laz  in round 15
+crow  killed ban   in round 15
+Sayaplayer killed crow   in round 15
+Round 15 ended with elimination. The winning team is T1.
+The current score is ZETA DIVISION 9 - 6 T1.
+Dep killed Munchkin  in round 16
+Laz killed carpe  in round 16
+Sayaplayer killed SugarZ3ro  in round 16
+Sayaplayer killed Laz  in round 16
+ban  killed Dep  in round 16
+TENNN killed ban   in round 16
+Sayaplayer killed crow   in round 16
+Sayaplayer killed TENNN  in round 16
+Round 16 ended with elimination. The winning team is T1.
+The current score is ZETA DIVISION 9 - 7 T1.
+Sayaplayer killed TENNN  in round 17
+Sayaplayer killed Laz  in round 17
+Dep killed Sayaplayer  in round 17
+SugarZ3ro killed ban   in round 17
+xeta killed SugarZ3ro  in round 17
+xeta killed Dep  in round 17
+Munchkin killed crow   in round 17
+Round 17 ended with elimination. The winning team is T1.
+The current score is ZETA DIVISION 9 - 8 T1.
+xeta killed Laz  in round 18
+SugarZ3ro killed carpe  in round 18
+SugarZ3ro killed Sayaplayer  in round 18
+Munchkin killed Dep  in round 18
+Munchkin killed crow   in round 18
+SugarZ3ro killed ban   in round 18
+SugarZ3ro killed xeta  in round 18
+SugarZ3ro killed Munchkin  in round 18
+Round 18 ended with spike_defuse. The winning team is ZETA DIVISION.
+The current score is ZETA DIVISION 10 - 8 T1.
+Dep killed Munchkin  in round 19
+ban  killed Dep  in round 19
+TENNN killed carpe  in round 19
+crow  killed xeta  in round 19
+Sayaplayer killed Laz  in round 19
+crow  killed ban   in round 19
+TENNN killed Sayaplayer  in round 19
+Round 19 ended with spike_defuse. The winning team is ZETA DIVISION.
+The current score is ZETA DIVISION 11 - 8 T1.
+SugarZ3ro killed Sayaplayer  in round 20
+crow  killed xeta  in round 20
+ban  killed crow   in round 20
+TENNN killed ban   in round 20
+Dep killed carpe  in round 20
+Laz killed Munchkin  in round 20
+Round 20 ended with elimination. The winning team is ZETA DIVISION.
+The current score is ZETA DIVISION 12 - 8 T1.
+Sayaplayer killed TENNN  in round 21
+SugarZ3ro killed Munchkin  in round 21
+Laz killed Sayaplayer  in round 21
+Dep killed ban   in round 21
+carpe killed Dep  in round 21
+xeta killed SugarZ3ro  in round 21
+xeta killed Laz  in round 21
+carpe killed crow   in round 21
+Round 21 ended with elimination. The winning team is T1.
+The current score is ZETA DIVISION 12 - 9 T1.
+xeta killed Laz  in round 22
+xeta killed TENNN  in round 22
+Sayaplayer killed SugarZ3ro  in round 22
+Sayaplayer killed crow   in round 22
+Sayaplayer killed Dep  in round 22
+Round 22 ended with elimination. The winning team is T1.
+The current score is ZETA DIVISION 12 - 10 T1.
+Dep killed xeta  in round 23
+Munchkin killed TENNN  in round 23
+Sayaplayer killed Laz  in round 23
+Sayaplayer killed crow   in round 23
+Dep killed carpe  in round 23
+Munchkin killed Dep  in round 23
+SugarZ3ro killed Sayaplayer  in round 23
+Munchkin killed SugarZ3ro  in round 23
+Round 23 ended with elimination. The winning team is T1.
+The current score is ZETA DIVISION 12 - 11 T1.
+Sayaplayer killed TENNN  in round 24
+Dep killed carpe  in round 24
+Munchkin killed Dep  in round 24
+Sayaplayer killed SugarZ3ro  in round 24
+Munchkin killed Laz  in round 24
+xeta killed crow   in round 24
+Round 24 ended with elimination. The winning team is T1.
+The current score is ZETA DIVISION 12 - 12 T1.
+ban  killed Dep  in round 25
+SugarZ3ro killed ban   in round 25
+carpe killed SugarZ3ro  in round 25
+crow  killed Sayaplayer  in round 25
+TENNN killed Munchkin  in round 25
+TENNN killed xeta  in round 25
+carpe killed crow   in round 25
+TENNN killed carpe  in round 25
+Round 25 ended with elimination. The winning team is ZETA DIVISION.
+The current score is ZETA DIVISION 13 - 12 T1.
+TENNN killed carpe  in round 26
+xeta killed Dep  in round 26
+xeta killed TENNN  in round 26
+Laz killed ban   in round 26
+Laz killed Munchkin  in round 26
+SugarZ3ro killed xeta  in round 26
+crow  killed Sayaplayer  in round 26
+Round 26 ended with spike_defuse. The winning team is ZETA DIVISION.
+The current score is ZETA DIVISION 14 - 12 T1.
+Game ended with winning team: ZETA DIVISION at 2023-05-21T13:55:04Z
+
+--- Player Stats ---
+carpe: Team=T1, Kills=11, Deaths=18, Assists=3, KDA=0.78, First Kills=2, First Deaths=2
+Sayaplayer: Team=T1, Kills=22, Deaths=19, Assists=2, KDA=1.26, First Kills=3, First Deaths=5
+xeta: Team=T1, Kills=21, Deaths=15, Assists=9, KDA=2.0, First Kills=5, First Deaths=3
+ban : Team=T1, Kills=13, Deaths=19, Assists=8, KDA=1.11, First Kills=1, First Deaths=1
+Munchkin: Team=T1, Kills=21, Deaths=19, Assists=11, KDA=1.68, First Kills=1, First Deaths=3
+Dep: Team=ZETA DIVISION, Kills=21, Deaths=20, Assists=2, KDA=1.15, First Kills=6, First Deaths=4
+crow : Team=ZETA DIVISION, Kills=14, Deaths=17, Assists=16, KDA=1.76, First Kills=0, First Deaths=1
+SugarZ3ro: Team=ZETA DIVISION, Kills=21, Deaths=14, Assists=14, KDA=2.5, First Kills=2, First Deaths=0
+TENNN: Team=ZETA DIVISION, Kills=19, Deaths=20, Assists=7, KDA=1.3, First Kills=4, First Deaths=5
+Laz: Team=ZETA DIVISION, Kills=15, Deaths=17, Assists=7, KDA=1.29, First Kills=2, First Deaths=2

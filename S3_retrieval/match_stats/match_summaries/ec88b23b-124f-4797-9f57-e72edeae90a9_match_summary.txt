@@ -1,0 +1,199 @@
+Team 1: DRX
+Team 2: Leviatán Esports
+Participating Players:
+Player 1: Melser
+Player 2: Shyy
+Player 3: kiNgg
+Player 4: adverso
+Player 5: Tacolilla
+Player 6: BuZz
+Player 7: stax
+Player 8: MaKo
+Player 9: ZestKR
+Player 10: Rb
+Winning Team: DRX
+Score: DRX 13 - 5 Leviatán Esports
+Tournament Name: masters 2 2022 stage 2
+Game Start Time: 2022-07-15T16:10:59Z
+Game End Time: 2022-07-15T16:52:27Z
+Rounds ended by ELIMINATION count: 13
+Rounds ended by DEFUSE count: 2
+Rounds ended by DETONATE count: 2
+SPIKE PLANTED count: 4
+platformGameId: val:ec88b23b-124f-4797-9f57-e72edeae90a9
+
+--- Events ---
+Game started at 2022-07-15T16:10:59Z
+ZestKR killed Shyy  in round 1
+ZestKR killed kiNgg  in round 1
+MaKo killed Tacolilla  in round 1
+Melser killed ZestKR  in round 1
+adverso killed Rb  in round 1
+BuZz killed Melser  in round 1
+stax killed adverso  in round 1
+Round 1 ended with elimination. The winning team is DRX.
+The current score is DRX 1 - 0 Leviatán Esports.
+stax killed stax  in round 2
+MaKo killed Melser  in round 2
+Tacolilla killed ZestKR  in round 2
+MaKo killed kiNgg  in round 2
+Shyy killed stax  in round 2
+BuZz killed Shyy  in round 2
+BuZz killed adverso  in round 2
+Rb killed Tacolilla  in round 2
+Round 2 ended with elimination. The winning team is DRX.
+The current score is DRX 2 - 0 Leviatán Esports.
+Rb killed Tacolilla  in round 3
+Rb killed Shyy  in round 3
+adverso killed stax  in round 3
+Rb killed adverso  in round 3
+Rb killed kiNgg  in round 3
+MaKo killed Melser  in round 3
+Round 3 ended with elimination. The winning team is DRX.
+The current score is DRX 3 - 0 Leviatán Esports.
+kiNgg killed Rb  in round 4
+stax killed kiNgg  in round 4
+MaKo killed Melser  in round 4
+adverso killed ZestKR  in round 4
+Shyy killed stax  in round 4
+BuZz killed Tacolilla  in round 4
+BuZz killed Shyy  in round 4
+BuZz killed adverso  in round 4
+Round 4 ended with elimination. The winning team is DRX.
+The current score is DRX 4 - 0 Leviatán Esports.
+Shyy killed stax  in round 5
+ZestKR killed kiNgg  in round 5
+Tacolilla killed ZestKR  in round 5
+Rb killed Melser  in round 5
+adverso killed Rb  in round 5
+BuZz killed adverso  in round 5
+Shyy killed BuZz  in round 5
+MaKo killed Tacolilla  in round 5
+Shyy killed MaKo  in round 5
+Round 5 ended with detonate. The winning team is DRX.
+The current score is DRX 5 - 0 Leviatán Esports.
+Rb killed Shyy  in round 6
+adverso killed ZestKR  in round 6
+Rb killed Tacolilla  in round 6
+BuZz killed adverso  in round 6
+BuZz killed Melser  in round 6
+Rb killed kiNgg  in round 6
+Round 6 ended with elimination. The winning team is DRX.
+The current score is DRX 6 - 0 Leviatán Esports.
+adverso killed BuZz  in round 7
+Tacolilla killed Rb  in round 7
+Tacolilla killed ZestKR  in round 7
+Shyy killed stax  in round 7
+MaKo killed Tacolilla  in round 7
+Shyy killed MaKo  in round 7
+Round 7 ended with elimination. The winning team is Leviatán Esports.
+The current score is DRX 6 - 1 Leviatán Esports.
+adverso killed Rb  in round 8
+ZestKR killed kiNgg  in round 8
+ZestKR killed adverso  in round 8
+BuZz killed Melser  in round 8
+stax killed Shyy  in round 8
+Round 8 ended with detonate. The winning team is DRX.
+The current score is DRX 7 - 1 Leviatán Esports.
+stax killed Tacolilla  in round 9
+adverso killed stax  in round 9
+Melser killed Rb  in round 9
+Melser killed BuZz  in round 9
+ZestKR killed Melser  in round 9
+stax killed kiNgg  in round 9
+adverso killed MaKo  in round 9
+ZestKR killed adverso  in round 9
+ZestKR killed Tacolilla  in round 9
+Shyy killed ZestKR  in round 9
+Round 9 ended with elimination. The winning team is Leviatán Esports.
+The current score is DRX 7 - 2 Leviatán Esports.
+stax killed Melser  in round 10
+MaKo killed kiNgg  in round 10
+Rb killed adverso  in round 10
+BuZz killed Tacolilla  in round 10
+ZestKR killed Shyy  in round 10
+Round 10 ended with elimination. The winning team is DRX.
+The current score is DRX 8 - 2 Leviatán Esports.
+Tacolilla killed Rb  in round 11
+MaKo killed Shyy  in round 11
+stax killed kiNgg  in round 11
+adverso killed ZestKR  in round 11
+Melser killed BuZz  in round 11
+adverso killed MaKo  in round 11
+Tacolilla killed stax  in round 11
+Round 11 ended with spike_defuse. The winning team is Leviatán Esports.
+The current score is DRX 8 - 3 Leviatán Esports.
+Shyy killed Rb  in round 12
+stax killed Shyy  in round 12
+Tacolilla killed ZestKR  in round 12
+stax killed Tacolilla  in round 12
+kiNgg killed stax  in round 12
+MaKo killed Melser  in round 12
+adverso killed BuZz  in round 12
+adverso killed MaKo  in round 12
+Round 12 ended with spike_defuse. The winning team is Leviatán Esports.
+The current score is DRX 8 - 4 Leviatán Esports.
+Rb killed kiNgg  in round 13
+stax killed Shyy  in round 13
+Rb killed Melser  in round 13
+stax killed adverso  in round 13
+Rb killed Tacolilla  in round 13
+Round 13 ended with elimination. The winning team is DRX.
+The current score is DRX 9 - 4 Leviatán Esports.
+Tacolilla killed Rb  in round 14
+MaKo killed kiNgg  in round 14
+ZestKR killed Shyy  in round 14
+Tacolilla killed ZestKR  in round 14
+adverso killed MaKo  in round 14
+stax killed adverso  in round 14
+stax killed Tacolilla  in round 14
+BuZz killed Melser  in round 14
+Round 14 ended with elimination. The winning team is DRX.
+The current score is DRX 10 - 4 Leviatán Esports.
+adverso killed Rb  in round 15
+ZestKR killed kiNgg  in round 15
+Shyy killed ZestKR  in round 15
+MaKo killed Shyy  in round 15
+MaKo killed adverso  in round 15
+Melser killed MaKo  in round 15
+BuZz killed Melser  in round 15
+Round 15 ended with time_expired. The winning team is DRX.
+The current score is DRX 11 - 4 Leviatán Esports.
+stax killed kiNgg  in round 16
+stax killed Melser  in round 16
+ZestKR killed Tacolilla  in round 16
+stax killed adverso  in round 16
+Shyy killed stax  in round 16
+Rb killed Shyy  in round 16
+Round 16 ended with elimination. The winning team is DRX.
+The current score is DRX 12 - 4 Leviatán Esports.
+Melser killed Rb  in round 17
+ZestKR killed kiNgg  in round 17
+Shyy killed MaKo  in round 17
+Melser killed stax  in round 17
+Shyy killed BuZz  in round 17
+ZestKR killed Shyy  in round 17
+Tacolilla killed ZestKR  in round 17
+Round 17 ended with elimination. The winning team is Leviatán Esports.
+The current score is DRX 12 - 5 Leviatán Esports.
+Rb killed kiNgg  in round 18
+Rb killed adverso  in round 18
+ZestKR killed Shyy  in round 18
+Melser killed Rb  in round 18
+ZestKR killed Melser  in round 18
+BuZz killed Tacolilla  in round 18
+Round 18 ended with elimination. The winning team is DRX.
+The current score is DRX 13 - 5 Leviatán Esports.
+Game ended with winning team: DRX at 2022-07-15T16:52:27Z
+
+--- Player Stats ---
+Melser: Team=Leviatán Esports, Kills=8, Deaths=15, Assists=2, KDA=0.67, First Kills=1, First Deaths=1
+Shyy: Team=Leviatán Esports, Kills=13, Deaths=15, Assists=4, KDA=1.13, First Kills=2, First Deaths=2
+kiNgg: Team=Leviatán Esports, Kills=2, Deaths=16, Assists=7, KDA=0.56, First Kills=1, First Deaths=3
+adverso: Team=Leviatán Esports, Kills=15, Deaths=14, Assists=5, KDA=1.43, First Kills=3, First Deaths=0
+Tacolilla: Team=Leviatán Esports, Kills=10, Deaths=15, Assists=3, KDA=0.87, First Kills=2, First Deaths=2
+BuZz: Team=DRX, Kills=14, Deaths=6, Assists=4, KDA=3.0, First Kills=0, First Deaths=1
+stax: Team=DRX, Kills=17, Deaths=11, Assists=5, KDA=2.0, First Kills=4, First Deaths=2
+MaKo: Team=DRX, Kills=13, Deaths=8, Assists=24, KDA=4.62, First Kills=0, First Deaths=0
+ZestKR: Team=DRX, Kills=16, Deaths=12, Assists=3, KDA=1.58, First Kills=1, First Deaths=0
+Rb: Team=DRX, Kills=16, Deaths=12, Assists=6, KDA=1.83, First Kills=4, First Deaths=7

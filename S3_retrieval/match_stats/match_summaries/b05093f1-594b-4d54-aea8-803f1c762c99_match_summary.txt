@@ -1,0 +1,184 @@
+Team 1: ALL GAMERS
+Team 2: JDG ESPORTS
+Participating Players:
+Player 1: stew
+Player 2: Viva
+Player 3: YHchen
+Player 4: jkuro
+Player 5: Z1Yan
+Player 6: Spitfires
+Player 7: Bunt
+Player 8: sword9
+Player 9: deLb
+Player 10: monk2
+Winning Team: JDG ESPORTS
+Score: ALL GAMERS 3 - 13 JDG ESPORTS
+Tournament Name: vct cn stage 2 2024
+Game Start Time: 2024-07-07T10:05:07Z
+Game End Time: 2024-07-07T10:42:40Z
+Rounds ended by ELIMINATION count: 10
+Rounds ended by DEFUSE count: 4
+Rounds ended by DETONATE count: 2
+SPIKE PLANTED count: 6
+platformGameId: val:b05093f1-594b-4d54-aea8-803f1c762c99
+
+--- Events ---
+Game started at 2024-07-07T10:05:07Z
+jkuro killed Spitfires  in round 1
+Viva killed sword9  in round 1
+monk2 killed jkuro  in round 1
+stew killed monk2  in round 1
+Z1Yan killed Bunt  in round 1
+Viva killed deLb  in round 1
+Round 1 ended with elimination. The winning team is JDG ESPORTS.
+The current score is ALL GAMERS 0 - 1 JDG ESPORTS.
+jkuro killed Bunt  in round 2
+YHchen killed sword9  in round 2
+Z1Yan killed Spitfires  in round 2
+Z1Yan killed deLb  in round 2
+YHchen killed monk2  in round 2
+Round 2 ended with elimination. The winning team is JDG ESPORTS.
+The current score is ALL GAMERS 0 - 2 JDG ESPORTS.
+Spitfires killed jkuro  in round 3
+Z1Yan killed Spitfires  in round 3
+YHchen killed deLb  in round 3
+monk2 killed stew  in round 3
+monk2 killed YHchen  in round 3
+monk2 killed Z1Yan  in round 3
+Round 3 ended with detonate. The winning team is ALL GAMERS.
+The current score is ALL GAMERS 1 - 2 JDG ESPORTS.
+Spitfires killed Z1Yan  in round 4
+YHchen killed sword9  in round 4
+Spitfires killed Viva  in round 4
+jkuro killed Spitfires  in round 4
+jkuro killed monk2  in round 4
+YHchen killed Bunt  in round 4
+deLb killed YHchen  in round 4
+jkuro killed deLb  in round 4
+Round 4 ended with spike_defuse. The winning team is JDG ESPORTS.
+The current score is ALL GAMERS 1 - 3 JDG ESPORTS.
+YHchen killed monk2  in round 5
+Bunt killed Z1Yan  in round 5
+YHchen killed Spitfires  in round 5
+YHchen killed Bunt  in round 5
+YHchen killed deLb  in round 5
+sword9 killed YHchen  in round 5
+jkuro killed sword9  in round 5
+Round 5 ended with elimination. The winning team is JDG ESPORTS.
+The current score is ALL GAMERS 1 - 4 JDG ESPORTS.
+stew killed Spitfires  in round 6
+monk2 killed YHchen  in round 6
+Z1Yan killed deLb  in round 6
+stew killed monk2  in round 6
+Bunt killed stew  in round 6
+Z1Yan killed Bunt  in round 6
+sword9 killed Viva  in round 6
+Z1Yan killed sword9  in round 6
+Round 6 ended with spike_defuse. The winning team is JDG ESPORTS.
+The current score is ALL GAMERS 1 - 5 JDG ESPORTS.
+Viva killed Spitfires  in round 7
+Viva killed Bunt  in round 7
+jkuro killed deLb  in round 7
+monk2 killed YHchen  in round 7
+Viva killed monk2  in round 7
+Z1Yan killed sword9  in round 7
+Round 7 ended with elimination. The winning team is JDG ESPORTS.
+The current score is ALL GAMERS 1 - 6 JDG ESPORTS.
+stew killed sword9  in round 8
+stew killed Spitfires  in round 8
+deLb killed YHchen  in round 8
+monk2 killed stew  in round 8
+Bunt killed Z1Yan  in round 8
+monk2 killed jkuro  in round 8
+Viva killed Bunt  in round 8
+Viva killed monk2  in round 8
+Round 8 ended with spike_defuse. The winning team is JDG ESPORTS.
+The current score is ALL GAMERS 1 - 7 JDG ESPORTS.
+stew killed monk2  in round 9
+Z1Yan killed sword9  in round 9
+Spitfires killed Z1Yan  in round 9
+Spitfires killed jkuro  in round 9
+Viva killed Spitfires  in round 9
+Bunt killed stew  in round 9
+deLb killed Viva  in round 9
+YHchen killed Bunt  in round 9
+deLb killed YHchen  in round 9
+Round 9 ended with elimination. The winning team is ALL GAMERS.
+The current score is ALL GAMERS 2 - 7 JDG ESPORTS.
+Viva killed Spitfires  in round 10
+Viva killed monk2  in round 10
+deLb killed Viva  in round 10
+Z1Yan killed Bunt  in round 10
+stew killed sword9  in round 10
+Z1Yan killed deLb  in round 10
+Round 10 ended with elimination. The winning team is JDG ESPORTS.
+The current score is ALL GAMERS 2 - 8 JDG ESPORTS.
+Viva killed Spitfires  in round 11
+sword9 killed Z1Yan  in round 11
+Viva killed sword9  in round 11
+jkuro killed monk2  in round 11
+Bunt killed jkuro  in round 11
+Viva killed Bunt  in round 11
+deLb killed Viva  in round 11
+YHchen killed deLb  in round 11
+Round 11 ended with elimination. The winning team is JDG ESPORTS.
+The current score is ALL GAMERS 2 - 9 JDG ESPORTS.
+stew killed Spitfires  in round 12
+jkuro killed deLb  in round 12
+Z1Yan killed monk2  in round 12
+stew killed sword9  in round 12
+Viva killed Bunt  in round 12
+Round 12 ended with elimination. The winning team is JDG ESPORTS.
+The current score is ALL GAMERS 2 - 10 JDG ESPORTS.
+Viva killed sword9  in round 13
+YHchen killed Spitfires  in round 13
+monk2 killed stew  in round 13
+jkuro killed monk2  in round 13
+Bunt killed Z1Yan  in round 13
+Viva killed deLb  in round 13
+Bunt killed YHchen  in round 13
+Bunt killed Viva  in round 13
+Bunt killed jkuro  in round 13
+Round 13 ended with detonate. The winning team is JDG ESPORTS.
+The current score is ALL GAMERS 2 - 11 JDG ESPORTS.
+Bunt killed Bunt  in round 14
+Viva killed deLb  in round 14
+Bunt killed Z1Yan  in round 14
+jkuro killed Bunt  in round 14
+YHchen killed Spitfires  in round 14
+jkuro killed monk2  in round 14
+Viva killed sword9  in round 14
+Round 14 ended with elimination. The winning team is JDG ESPORTS.
+The current score is ALL GAMERS 2 - 12 JDG ESPORTS.
+deLb killed YHchen  in round 15
+stew killed deLb  in round 15
+monk2 killed stew  in round 15
+Viva killed sword9  in round 15
+jkuro killed monk2  in round 15
+Spitfires killed Z1Yan  in round 15
+Spitfires killed jkuro  in round 15
+Spitfires killed Viva  in round 15
+Round 15 ended with spike_defuse. The winning team is ALL GAMERS.
+The current score is ALL GAMERS 3 - 12 JDG ESPORTS.
+Spitfires killed Z1Yan  in round 16
+jkuro killed monk2  in round 16
+sword9 killed YHchen  in round 16
+jkuro killed sword9  in round 16
+stew killed Spitfires  in round 16
+stew killed deLb  in round 16
+Viva killed Bunt  in round 16
+Round 16 ended with elimination. The winning team is JDG ESPORTS.
+The current score is ALL GAMERS 3 - 13 JDG ESPORTS.
+Game ended with winning team: JDG ESPORTS at 2024-07-07T10:42:40Z
+
+--- Player Stats ---
+stew: Team=JDG ESPORTS, Kills=12, Deaths=6, Assists=2, KDA=2.33, First Kills=4, First Deaths=0
+Viva: Team=JDG ESPORTS, Kills=20, Deaths=7, Assists=7, KDA=3.86, First Kills=4, First Deaths=0
+YHchen: Team=JDG ESPORTS, Kills=13, Deaths=10, Assists=6, KDA=1.9, First Kills=1, First Deaths=1
+jkuro: Team=JDG ESPORTS, Kills=15, Deaths=7, Assists=6, KDA=3.0, First Kills=2, First Deaths=1
+Z1Yan: Team=JDG ESPORTS, Kills=12, Deaths=10, Assists=15, KDA=2.7, First Kills=0, First Deaths=2
+Spitfires: Team=ALL GAMERS, Kills=9, Deaths=15, Assists=2, KDA=0.73, First Kills=3, First Deaths=6
+Bunt: Team=ALL GAMERS, Kills=11, Deaths=14, Assists=4, KDA=1.07, First Kills=1, First Deaths=2
+sword9: Team=ALL GAMERS, Kills=4, Deaths=15, Assists=1, KDA=0.33, First Kills=0, First Deaths=2
+deLb: Team=ALL GAMERS, Kills=7, Deaths=14, Assists=1, KDA=0.57, First Kills=1, First Deaths=0
+monk2: Team=ALL GAMERS, Kills=10, Deaths=15, Assists=6, KDA=1.07, First Kills=0, First Deaths=2

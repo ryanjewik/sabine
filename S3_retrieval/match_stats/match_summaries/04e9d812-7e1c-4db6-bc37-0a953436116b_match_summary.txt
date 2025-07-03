@@ -1,0 +1,208 @@
+Team 1: Team Vitality
+Team 2: KOI
+Participating Players:
+Player 1: Sheydos
+Player 2: kamo
+Player 3: Shadow 
+Player 4: starxo
+Player 5: GRUBINHO
+Player 6: Sayf
+Player 7: runneR
+Player 8: ceNder
+Player 9: Kicks
+Player 10: Destrian
+Winning Team: Team Vitality
+Score: Team Vitality 13 - 6 KOI
+Tournament Name: vct emea kickoff 2024
+Game Start Time: 2024-02-26T16:41:22Z
+Game End Time: 2024-02-26T17:23:16Z
+Rounds ended by ELIMINATION count: 12
+Rounds ended by DEFUSE count: 6
+Rounds ended by DETONATE count: 1
+SPIKE PLANTED count: 7
+platformGameId: val:04e9d812-7e1c-4db6-bc37-0a953436116b
+
+--- Events ---
+Game started at 2024-02-26T16:41:22Z
+Shadow  killed runneR  in round 1
+Destrian killed starxo  in round 1
+Kicks killed kamo  in round 1
+Shadow  killed Kicks  in round 1
+Destrian killed Sheydos  in round 1
+Sayf killed Shadow   in round 1
+Destrian killed GRUBINHO  in round 1
+Round 1 ended with elimination. The winning team is Team Vitality.
+The current score is Team Vitality 1 - 0 KOI.
+runneR killed kamo  in round 2
+Sheydos killed runneR  in round 2
+Kicks killed Sheydos  in round 2
+GRUBINHO killed ceNder  in round 2
+Shadow  killed Sayf  in round 2
+Shadow  killed Kicks  in round 2
+starxo killed Destrian  in round 2
+Round 2 ended with elimination. The winning team is KOI.
+The current score is Team Vitality 1 - 1 KOI.
+runneR killed kamo  in round 3
+Shadow  killed runneR  in round 3
+Kicks killed starxo  in round 3
+Sheydos killed Destrian  in round 3
+Shadow  killed Kicks  in round 3
+ceNder killed Shadow   in round 3
+Sheydos killed ceNder  in round 3
+GRUBINHO killed Sayf  in round 3
+Round 3 ended with spike_defuse. The winning team is KOI.
+The current score is Team Vitality 1 - 2 KOI.
+kamo killed Kicks  in round 4
+Shadow  killed runneR  in round 4
+Destrian killed Shadow   in round 4
+Destrian killed kamo  in round 4
+Sheydos killed Destrian  in round 4
+GRUBINHO killed Sayf  in round 4
+ceNder killed starxo  in round 4
+ceNder killed Sheydos  in round 4
+ceNder killed GRUBINHO  in round 4
+Round 4 ended with elimination. The winning team is Team Vitality.
+The current score is Team Vitality 2 - 2 KOI.
+Sayf killed kamo  in round 5
+Sayf killed Shadow   in round 5
+Destrian killed starxo  in round 5
+ceNder killed GRUBINHO  in round 5
+Round 5 ended with detonate. The winning team is Team Vitality.
+The current score is Team Vitality 3 - 2 KOI.
+Sheydos killed Sheydos  in round 6
+kamo killed Sayf  in round 6
+kamo killed Kicks  in round 6
+GRUBINHO killed runneR  in round 6
+starxo killed ceNder  in round 6
+Sheydos killed Destrian  in round 6
+Round 6 ended with elimination. The winning team is KOI.
+The current score is Team Vitality 3 - 3 KOI.
+starxo killed runneR  in round 7
+Destrian killed Shadow   in round 7
+GRUBINHO killed ceNder  in round 7
+kamo killed Kicks  in round 7
+Destrian killed starxo  in round 7
+Sheydos killed Destrian  in round 7
+GRUBINHO killed Sayf  in round 7
+Round 7 ended with spike_defuse. The winning team is KOI.
+The current score is Team Vitality 3 - 4 KOI.
+kamo killed ceNder  in round 8
+Sheydos killed Sayf  in round 8
+Kicks killed Sheydos  in round 8
+GRUBINHO killed Destrian  in round 8
+Destrian killed starxo  in round 8
+kamo killed Kicks  in round 8
+GRUBINHO killed runneR  in round 8
+Round 8 ended with spike_defuse. The winning team is KOI.
+The current score is Team Vitality 3 - 5 KOI.
+starxo killed ceNder  in round 9
+Sheydos killed Sayf  in round 9
+Sheydos killed Destrian  in round 9
+runneR killed kamo  in round 9
+Shadow  killed runneR  in round 9
+Kicks killed starxo  in round 9
+GRUBINHO killed Kicks  in round 9
+Round 9 ended with spike_defuse. The winning team is KOI.
+The current score is Team Vitality 3 - 6 KOI.
+ceNder killed starxo  in round 10
+runneR killed Shadow   in round 10
+Kicks killed kamo  in round 10
+Destrian killed GRUBINHO  in round 10
+Destrian killed Sheydos  in round 10
+Round 10 ended with elimination. The winning team is Team Vitality.
+The current score is Team Vitality 4 - 6 KOI.
+Sayf killed kamo  in round 11
+starxo killed Sayf  in round 11
+Shadow  killed runneR  in round 11
+Kicks killed Sheydos  in round 11
+ceNder killed GRUBINHO  in round 11
+Kicks killed Shadow   in round 11
+ceNder killed starxo  in round 11
+Round 11 ended with elimination. The winning team is Team Vitality.
+The current score is Team Vitality 5 - 6 KOI.
+runneR killed Sheydos  in round 12
+Shadow  killed runneR  in round 12
+Kicks killed Shadow   in round 12
+Destrian killed kamo  in round 12
+Kicks killed GRUBINHO  in round 12
+ceNder killed starxo  in round 12
+Round 12 ended with elimination. The winning team is Team Vitality.
+The current score is Team Vitality 6 - 6 KOI.
+Sayf killed Shadow   in round 13
+Kicks killed kamo  in round 13
+runneR killed starxo  in round 13
+GRUBINHO killed ceNder  in round 13
+GRUBINHO killed Kicks  in round 13
+GRUBINHO killed runneR  in round 13
+Sayf killed GRUBINHO  in round 13
+Destrian killed Sheydos  in round 13
+Round 13 ended with spike_defuse. The winning team is Team Vitality.
+The current score is Team Vitality 7 - 6 KOI.
+Destrian killed kamo  in round 14
+Kicks killed starxo  in round 14
+runneR killed GRUBINHO  in round 14
+runneR killed Shadow   in round 14
+Sheydos killed Kicks  in round 14
+runneR killed Sheydos  in round 14
+Round 14 ended with elimination. The winning team is Team Vitality.
+The current score is Team Vitality 8 - 6 KOI.
+runneR killed starxo  in round 15
+Sheydos killed ceNder  in round 15
+runneR killed kamo  in round 15
+Sayf killed GRUBINHO  in round 15
+Sayf killed Sheydos  in round 15
+Shadow  killed Sayf  in round 15
+Shadow  killed runneR  in round 15
+Round 15 ended with spike_defuse. The winning team is Team Vitality.
+The current score is Team Vitality 9 - 6 KOI.
+Shadow  killed Kicks  in round 16
+kamo killed Kicks  in round 16
+Destrian killed kamo  in round 16
+starxo killed Destrian  in round 16
+runneR killed starxo  in round 16
+ceNder killed Sheydos  in round 16
+Shadow  killed runneR  in round 16
+ceNder killed GRUBINHO  in round 16
+Shadow  killed ceNder  in round 16
+Sayf killed Shadow   in round 16
+Round 16 ended with elimination. The winning team is Team Vitality.
+The current score is Team Vitality 10 - 6 KOI.
+Shadow  killed Destrian  in round 17
+Kicks killed GRUBINHO  in round 17
+Shadow  killed Kicks  in round 17
+Sayf killed kamo  in round 17
+Sayf killed Shadow   in round 17
+Sayf killed starxo  in round 17
+ceNder killed Sheydos  in round 17
+Round 17 ended with elimination. The winning team is Team Vitality.
+The current score is Team Vitality 11 - 6 KOI.
+Sayf killed GRUBINHO  in round 18
+Destrian killed starxo  in round 18
+Kicks killed kamo  in round 18
+Sheydos killed Kicks  in round 18
+Shadow  killed runneR  in round 18
+ceNder killed Sheydos  in round 18
+ceNder killed Shadow   in round 18
+Round 18 ended with elimination. The winning team is Team Vitality.
+The current score is Team Vitality 12 - 6 KOI.
+runneR killed kamo  in round 19
+Sayf killed starxo  in round 19
+Destrian killed Sheydos  in round 19
+Destrian killed Shadow   in round 19
+GRUBINHO killed Destrian  in round 19
+Sayf killed GRUBINHO  in round 19
+Round 19 ended with elimination. The winning team is Team Vitality.
+The current score is Team Vitality 13 - 6 KOI.
+Game ended with winning team: Team Vitality at 2024-02-26T17:23:16Z
+
+--- Player Stats ---
+Sheydos: Team=KOI, Kills=13, Deaths=15, Assists=3, KDA=1.07, First Kills=1, First Deaths=2
+kamo: Team=KOI, Kills=7, Deaths=16, Assists=3, KDA=0.62, First Kills=2, First Deaths=6
+Shadow : Team=KOI, Kills=18, Deaths=14, Assists=1, KDA=1.36, First Kills=3, First Deaths=1
+starxo: Team=KOI, Kills=6, Deaths=17, Assists=8, KDA=0.82, First Kills=2, First Deaths=2
+GRUBINHO: Team=KOI, Kills=13, Deaths=13, Assists=3, KDA=1.23, First Kills=0, First Deaths=1
+Sayf: Team=Team Vitality, Kills=15, Deaths=9, Assists=4, KDA=2.11, First Kills=4, First Deaths=0
+runneR: Team=Team Vitality, Kills=13, Deaths=14, Assists=3, KDA=1.14, First Kills=5, First Deaths=2
+ceNder: Team=Team Vitality, Kills=14, Deaths=9, Assists=2, KDA=1.78, First Kills=1, First Deaths=2
+Kicks: Team=Team Vitality, Kills=14, Deaths=14, Assists=8, KDA=1.57, First Kills=0, First Deaths=2
+Destrian: Team=Team Vitality, Kills=18, Deaths=10, Assists=9, KDA=2.7, First Kills=1, First Deaths=1

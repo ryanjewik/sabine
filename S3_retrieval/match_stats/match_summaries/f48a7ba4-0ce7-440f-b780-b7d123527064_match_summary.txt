@@ -1,0 +1,197 @@
+Team 1: FNATIC
+Team 2: ZETA DIVISION
+Participating Players:
+Player 1: Dep
+Player 2: crow 
+Player 3: SugarZ3ro
+Player 4: TENNN
+Player 5: Laz
+Player 6: Chronicle
+Player 7: Derke
+Player 8: Boaster
+Player 9: Alfajer
+Player 10: Leo 
+Winning Team: FNATIC
+Score: FNATIC 13 - 5 ZETA DIVISION
+Tournament Name: vct champions 2023
+Game Start Time: 2023-08-08T21:30:28Z
+Game End Time: 2023-08-08T22:20:26Z
+Rounds ended by ELIMINATION count: 9
+Rounds ended by DEFUSE count: 5
+Rounds ended by DETONATE count: 2
+SPIKE PLANTED count: 7
+platformGameId: val:f48a7ba4-0ce7-440f-b780-b7d123527064
+
+--- Events ---
+Game started at 2023-08-08T21:30:28Z
+Alfajer killed SugarZ3ro  in round 1
+TENNN killed Alfajer  in round 1
+Boaster killed crow   in round 1
+Chronicle killed TENNN  in round 1
+Derke killed Dep  in round 1
+Laz killed Chronicle  in round 1
+Leo  killed Laz  in round 1
+Round 1 ended with elimination. The winning team is FNATIC.
+The current score is FNATIC 1 - 0 ZETA DIVISION.
+Boaster killed TENNN  in round 2
+Boaster killed Laz  in round 2
+Boaster killed SugarZ3ro  in round 2
+Boaster killed crow   in round 2
+Dep killed Boaster  in round 2
+Dep killed Chronicle  in round 2
+Derke killed Dep  in round 2
+Round 2 ended with elimination. The winning team is FNATIC.
+The current score is FNATIC 2 - 0 ZETA DIVISION.
+Chronicle killed Laz  in round 3
+TENNN killed Boaster  in round 3
+Derke killed crow   in round 3
+Derke killed SugarZ3ro  in round 3
+TENNN killed Derke  in round 3
+Alfajer killed Dep  in round 3
+Leo  killed TENNN  in round 3
+Round 3 ended with elimination. The winning team is FNATIC.
+The current score is FNATIC 3 - 0 ZETA DIVISION.
+Derke killed SugarZ3ro  in round 4
+Dep killed Derke  in round 4
+Leo  killed Dep  in round 4
+TENNN killed Leo   in round 4
+crow  killed Boaster  in round 4
+Chronicle killed Laz  in round 4
+Chronicle killed crow   in round 4
+Alfajer killed TENNN  in round 4
+Round 4 ended with elimination. The winning team is FNATIC.
+The current score is FNATIC 4 - 0 ZETA DIVISION.
+Derke killed TENNN  in round 5
+Derke killed Dep  in round 5
+Alfajer killed SugarZ3ro  in round 5
+Laz killed Chronicle  in round 5
+Alfajer killed crow   in round 5
+Derke killed Laz  in round 5
+Round 5 ended with elimination. The winning team is FNATIC.
+The current score is FNATIC 5 - 0 ZETA DIVISION.
+Boaster killed TENNN  in round 6
+Dep killed Boaster  in round 6
+Leo  killed Dep  in round 6
+Derke killed SugarZ3ro  in round 6
+Laz killed Derke  in round 6
+Alfajer killed crow   in round 6
+Chronicle killed Laz  in round 6
+Round 6 ended with elimination. The winning team is FNATIC.
+The current score is FNATIC 6 - 0 ZETA DIVISION.
+Boaster killed Laz  in round 7
+Dep killed Boaster  in round 7
+Derke killed Dep  in round 7
+TENNN killed Derke  in round 7
+SugarZ3ro killed Chronicle  in round 7
+Alfajer killed SugarZ3ro  in round 7
+crow  killed Leo   in round 7
+crow  killed Alfajer  in round 7
+Round 7 ended with spike_defuse. The winning team is ZETA DIVISION.
+The current score is FNATIC 6 - 1 ZETA DIVISION.
+Dep killed Derke  in round 8
+Boaster killed Dep  in round 8
+TENNN killed Chronicle  in round 8
+crow  killed Boaster  in round 8
+TENNN killed Alfajer  in round 8
+TENNN killed Leo   in round 8
+Round 8 ended with spike_defuse. The winning team is ZETA DIVISION.
+The current score is FNATIC 6 - 2 ZETA DIVISION.
+Laz killed Derke  in round 9
+Dep killed Chronicle  in round 9
+crow  killed Leo   in round 9
+TENNN killed Boaster  in round 9
+Alfajer killed crow   in round 9
+Round 9 ended with time_expired. The winning team is ZETA DIVISION.
+The current score is FNATIC 6 - 3 ZETA DIVISION.
+Alfajer killed Laz  in round 10
+Alfajer killed Dep  in round 10
+Boaster killed Laz  in round 10
+Leo  killed crow   in round 10
+Derke killed TENNN  in round 10
+Dep killed Derke  in round 10
+SugarZ3ro killed Chronicle  in round 10
+Leo  killed SugarZ3ro  in round 10
+Round 10 ended with detonate. The winning team is FNATIC.
+The current score is FNATIC 7 - 3 ZETA DIVISION.
+Laz killed Derke  in round 11
+Laz killed Boaster  in round 11
+Laz killed Alfajer  in round 11
+Leo  killed Dep  in round 11
+Round 11 ended with time_expired. The winning team is ZETA DIVISION.
+The current score is FNATIC 7 - 4 ZETA DIVISION.
+Laz killed Chronicle  in round 12
+Derke killed TENNN  in round 12
+Derke killed Laz  in round 12
+Alfajer killed Dep  in round 12
+Chronicle killed SugarZ3ro  in round 12
+crow  killed Chronicle  in round 12
+Alfajer killed crow   in round 12
+Round 12 ended with elimination. The winning team is FNATIC.
+The current score is FNATIC 8 - 4 ZETA DIVISION.
+Derke killed Laz  in round 13
+Leo  killed Dep  in round 13
+SugarZ3ro killed Leo   in round 13
+SugarZ3ro killed Boaster  in round 13
+Alfajer killed SugarZ3ro  in round 13
+TENNN killed Alfajer  in round 13
+Chronicle killed crow   in round 13
+Chronicle killed TENNN  in round 13
+Round 13 ended with spike_defuse. The winning team is FNATIC.
+The current score is FNATIC 9 - 4 ZETA DIVISION.
+Leo  killed TENNN  in round 14
+SugarZ3ro killed Leo   in round 14
+Boaster killed Dep  in round 14
+SugarZ3ro killed Boaster  in round 14
+Alfajer killed crow   in round 14
+Alfajer killed SugarZ3ro  in round 14
+Laz killed Derke  in round 14
+Chronicle killed Laz  in round 14
+Round 14 ended with elimination. The winning team is FNATIC.
+The current score is FNATIC 10 - 4 ZETA DIVISION.
+Alfajer killed Dep  in round 15
+SugarZ3ro killed Derke  in round 15
+Boaster killed crow   in round 15
+Leo  killed Laz  in round 15
+SugarZ3ro killed Boaster  in round 15
+TENNN killed Alfajer  in round 15
+TENNN killed Chronicle  in round 15
+Round 15 ended with detonate. The winning team is ZETA DIVISION.
+The current score is FNATIC 10 - 5 ZETA DIVISION.
+Alfajer killed TENNN  in round 16
+Alfajer killed crow   in round 16
+Laz killed Leo   in round 16
+Laz killed Alfajer  in round 16
+Derke killed Laz  in round 16
+Derke killed SugarZ3ro  in round 16
+Derke killed Dep  in round 16
+Round 16 ended with spike_defuse. The winning team is FNATIC.
+The current score is FNATIC 11 - 5 ZETA DIVISION.
+Alfajer killed Dep  in round 17
+Derke killed SugarZ3ro  in round 17
+Leo  killed Laz  in round 17
+Alfajer killed crow   in round 17
+Alfajer killed TENNN  in round 17
+Round 17 ended with spike_defuse. The winning team is FNATIC.
+The current score is FNATIC 12 - 5 ZETA DIVISION.
+Leo  killed Laz  in round 18
+Derke killed crow   in round 18
+Alfajer killed TENNN  in round 18
+Alfajer killed SugarZ3ro  in round 18
+Dep killed Derke  in round 18
+Dep killed Chronicle  in round 18
+Boaster killed Dep  in round 18
+Round 18 ended with elimination. The winning team is FNATIC.
+The current score is FNATIC 13 - 5 ZETA DIVISION.
+Game ended with winning team: FNATIC at 2023-08-08T22:20:26Z
+
+--- Player Stats ---
+Dep: Team=ZETA DIVISION, Kills=10, Deaths=17, Assists=0, KDA=0.59, First Kills=1, First Deaths=2
+crow : Team=ZETA DIVISION, Kills=6, Deaths=15, Assists=3, KDA=0.6, First Kills=0, First Deaths=0
+SugarZ3ro: Team=ZETA DIVISION, Kills=8, Deaths=14, Assists=7, KDA=1.07, First Kills=0, First Deaths=2
+TENNN: Team=ZETA DIVISION, Kills=12, Deaths=13, Assists=2, KDA=1.08, First Kills=0, First Deaths=5
+Laz: Team=ZETA DIVISION, Kills=11, Deaths=16, Assists=1, KDA=0.75, First Kills=3, First Deaths=5
+Chronicle: Team=FNATIC, Kills=9, Deaths=11, Assists=10, KDA=1.73, First Kills=1, First Deaths=1
+Derke: Team=FNATIC, Kills=19, Deaths=11, Assists=2, KDA=1.91, First Kills=3, First Deaths=3
+Boaster: Team=FNATIC, Kills=12, Deaths=11, Assists=8, KDA=1.82, First Kills=3, First Deaths=0
+Alfajer: Team=FNATIC, Kills=23, Deaths=7, Assists=5, KDA=4.0, First Kills=5, First Deaths=0
+Leo : Team=FNATIC, Kills=12, Deaths=7, Assists=5, KDA=2.43, First Kills=2, First Deaths=0

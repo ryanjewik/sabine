@@ -1,0 +1,176 @@
+Team 1: Team Liquid
+Team 2: Karmine Corp
+Participating Players:
+Player 1: Shin 
+Player 2: Tomaszy
+Player 3: MAGNUM
+Player 4: marteen
+Player 5: N4RRATE
+Player 6: Mistic
+Player 7: nAts
+Player 8: Enzo 
+Player 9: Keiko
+Player 10: Jamppi
+Winning Team: Team Liquid
+Score: Team Liquid 13 - 2 Karmine Corp
+Tournament Name: vct emea stage 2 2024
+Game Start Time: 2024-07-04T19:12:56Z
+Game End Time: 2024-07-04T19:43:48Z
+Rounds ended by ELIMINATION count: 14
+Rounds ended by DEFUSE count: 1
+Rounds ended by DETONATE count: 0
+SPIKE PLANTED count: 1
+platformGameId: val:9be0c21d-8084-4f47-85ad-672848c8f0bb
+
+--- Events ---
+Game started at 2024-07-04T19:12:56Z
+N4RRATE killed nAts  in round 1
+Enzo  killed N4RRATE  in round 1
+marteen killed Keiko  in round 1
+Enzo  killed marteen  in round 1
+Jamppi killed MAGNUM  in round 1
+Jamppi killed Tomaszy  in round 1
+Enzo  killed Shin   in round 1
+Round 1 ended with elimination. The winning team is Team Liquid.
+The current score is Team Liquid 1 - 0 Karmine Corp.
+nAts killed MAGNUM  in round 2
+Keiko killed Tomaszy  in round 2
+Keiko killed marteen  in round 2
+nAts killed N4RRATE  in round 2
+Enzo  killed Shin   in round 2
+Round 2 ended with elimination. The winning team is Team Liquid.
+The current score is Team Liquid 2 - 0 Karmine Corp.
+nAts killed MAGNUM  in round 3
+Tomaszy killed Enzo   in round 3
+Mistic killed Tomaszy  in round 3
+N4RRATE killed nAts  in round 3
+Keiko killed marteen  in round 3
+Jamppi killed N4RRATE  in round 3
+Keiko killed Shin   in round 3
+Round 3 ended with elimination. The winning team is Team Liquid.
+The current score is Team Liquid 3 - 0 Karmine Corp.
+Enzo  killed N4RRATE  in round 4
+Jamppi killed marteen  in round 4
+Keiko killed MAGNUM  in round 4
+Tomaszy killed Jamppi  in round 4
+Enzo  killed Shin   in round 4
+Mistic killed Tomaszy  in round 4
+Round 4 ended with elimination. The winning team is Team Liquid.
+The current score is Team Liquid 4 - 0 Karmine Corp.
+nAts killed marteen  in round 5
+Enzo  killed MAGNUM  in round 5
+Tomaszy killed Keiko  in round 5
+Mistic killed N4RRATE  in round 5
+nAts killed Tomaszy  in round 5
+Shin  killed Mistic  in round 5
+Enzo  killed Shin   in round 5
+Round 5 ended with elimination. The winning team is Team Liquid.
+The current score is Team Liquid 5 - 0 Karmine Corp.
+MAGNUM killed nAts  in round 6
+Enzo  killed Shin   in round 6
+Mistic killed marteen  in round 6
+Jamppi killed MAGNUM  in round 6
+N4RRATE killed Mistic  in round 6
+Enzo  killed Tomaszy  in round 6
+N4RRATE killed Jamppi  in round 6
+N4RRATE killed nAts  in round 6
+Keiko killed N4RRATE  in round 6
+Round 6 ended with elimination. The winning team is Team Liquid.
+The current score is Team Liquid 6 - 0 Karmine Corp.
+Keiko killed Keiko  in round 7
+Enzo  killed Enzo   in round 7
+marteen killed Jamppi  in round 7
+N4RRATE killed Mistic  in round 7
+N4RRATE killed Enzo   in round 7
+MAGNUM killed Keiko  in round 7
+Shin  killed nAts  in round 7
+Round 7 ended with elimination. The winning team is Karmine Corp.
+The current score is Team Liquid 6 - 1 Karmine Corp.
+Jamppi killed Tomaszy  in round 8
+nAts killed marteen  in round 8
+Shin  killed Keiko  in round 8
+Shin  killed Enzo   in round 8
+Mistic killed N4RRATE  in round 8
+Jamppi killed MAGNUM  in round 8
+nAts killed Shin   in round 8
+Round 8 ended with elimination. The winning team is Team Liquid.
+The current score is Team Liquid 7 - 1 Karmine Corp.
+marteen killed nAts  in round 9
+Enzo  killed N4RRATE  in round 9
+MAGNUM killed Keiko  in round 9
+MAGNUM killed Mistic  in round 9
+Jamppi killed Shin   in round 9
+Enzo  killed MAGNUM  in round 9
+Jamppi killed Tomaszy  in round 9
+Enzo  killed marteen  in round 9
+Round 9 ended with elimination. The winning team is Team Liquid.
+The current score is Team Liquid 8 - 1 Karmine Corp.
+MAGNUM killed nAts  in round 10
+MAGNUM killed Keiko  in round 10
+Enzo  killed MAGNUM  in round 10
+N4RRATE killed Jamppi  in round 10
+Keiko killed N4RRATE  in round 10
+Keiko killed Shin   in round 10
+Mistic killed marteen  in round 10
+Enzo  killed Tomaszy  in round 10
+Round 10 ended with elimination. The winning team is Team Liquid.
+The current score is Team Liquid 9 - 1 Karmine Corp.
+nAts killed Tomaszy  in round 11
+nAts killed Shin   in round 11
+nAts killed N4RRATE  in round 11
+MAGNUM killed Jamppi  in round 11
+Mistic killed MAGNUM  in round 11
+Enzo  killed marteen  in round 11
+Round 11 ended with elimination. The winning team is Team Liquid.
+The current score is Team Liquid 10 - 1 Karmine Corp.
+nAts killed Shin   in round 12
+Tomaszy killed Enzo   in round 12
+N4RRATE killed nAts  in round 12
+Keiko killed N4RRATE  in round 12
+Keiko killed Tomaszy  in round 12
+MAGNUM killed Jamppi  in round 12
+marteen killed Keiko  in round 12
+Mistic killed MAGNUM  in round 12
+marteen killed Mistic  in round 12
+Round 12 ended with elimination. The winning team is Karmine Corp.
+The current score is Team Liquid 10 - 2 Karmine Corp.
+nAts killed MAGNUM  in round 13
+N4RRATE killed Enzo   in round 13
+Tomaszy killed nAts  in round 13
+Jamppi killed N4RRATE  in round 13
+Mistic killed Shin   in round 13
+Tomaszy killed Keiko  in round 13
+Mistic killed Tomaszy  in round 13
+marteen killed Mistic  in round 13
+Round 13 ended with spike_defuse. The winning team is Team Liquid.
+The current score is Team Liquid 11 - 2 Karmine Corp.
+Enzo  killed N4RRATE  in round 14
+Enzo  killed Shin   in round 14
+Tomaszy killed Enzo   in round 14
+Jamppi killed Tomaszy  in round 14
+nAts killed marteen  in round 14
+Jamppi killed MAGNUM  in round 14
+Round 14 ended with elimination. The winning team is Team Liquid.
+The current score is Team Liquid 12 - 2 Karmine Corp.
+Mistic killed N4RRATE  in round 15
+Shin  killed Mistic  in round 15
+MAGNUM killed Keiko  in round 15
+Enzo  killed marteen  in round 15
+Enzo  killed Shin   in round 15
+nAts killed MAGNUM  in round 15
+Enzo  killed Tomaszy  in round 15
+Round 15 ended with elimination. The winning team is Team Liquid.
+The current score is Team Liquid 13 - 2 Karmine Corp.
+Game ended with winning team: Team Liquid at 2024-07-04T19:43:48Z
+
+--- Player Stats ---
+Shin : Team=Karmine Corp, Kills=5, Deaths=14, Assists=4, KDA=0.64, First Kills=0, First Deaths=1
+Tomaszy: Team=Karmine Corp, Kills=7, Deaths=14, Assists=1, KDA=0.57, First Kills=0, First Deaths=2
+MAGNUM: Team=Karmine Corp, Kills=9, Deaths=14, Assists=3, KDA=0.86, First Kills=2, First Deaths=3
+marteen: Team=Karmine Corp, Kills=6, Deaths=12, Assists=3, KDA=0.75, First Kills=1, First Deaths=1
+N4RRATE: Team=Karmine Corp, Kills=10, Deaths=14, Assists=3, KDA=0.93, First Kills=1, First Deaths=3
+Mistic: Team=Team Liquid, Kills=11, Deaths=7, Assists=12, KDA=3.29, First Kills=1, First Deaths=0
+nAts: Team=Team Liquid, Kills=14, Deaths=9, Assists=3, KDA=1.89, First Kills=6, First Deaths=4
+Enzo : Team=Team Liquid, Kills=22, Deaths=7, Assists=9, KDA=4.43, First Kills=2, First Deaths=0
+Keiko: Team=Team Liquid, Kills=11, Deaths=10, Assists=2, KDA=1.3, First Kills=1, First Deaths=1
+Jamppi: Team=Team Liquid, Kills=12, Deaths=6, Assists=5, KDA=2.83, First Kills=1, First Deaths=0

@@ -1,0 +1,230 @@
+Team 1: FURIA
+Team 2: NRG
+Participating Players:
+Player 1: Demon1
+Player 2: Marved
+Player 3: Ethan
+Player 4: crashies
+Player 5: Victor
+Player 6: kon4n
+Player 7: mwzera
+Player 8: Nozwer
+Player 9: havoc
+Player 10: Khalil
+Winning Team: NRG
+Score: FURIA 8 - 13 NRG
+Tournament Name: vct americas stage 1 2024
+Game Start Time: 2024-04-15T00:03:13Z
+Game End Time: 2024-04-15T00:52:24Z
+Rounds ended by ELIMINATION count: 14
+Rounds ended by DEFUSE count: 4
+Rounds ended by DETONATE count: 3
+SPIKE PLANTED count: 7
+platformGameId: val:0c24d67b-84d9-4518-a715-257535e7209d
+
+--- Events ---
+Game started at 2024-04-15T00:03:13Z
+havoc killed Marved  in round 1
+mwzera killed Ethan  in round 1
+Demon1 killed mwzera  in round 1
+Nozwer killed Victor  in round 1
+crashies killed havoc  in round 1
+Khalil killed crashies  in round 1
+kon4n killed Demon1  in round 1
+Round 1 ended with elimination. The winning team is FURIA.
+The current score is FURIA 1 - 0 NRG.
+havoc killed Ethan  in round 2
+crashies killed havoc  in round 2
+kon4n killed crashies  in round 2
+kon4n killed Victor  in round 2
+mwzera killed Marved  in round 2
+Round 2 ended with detonate. The winning team is FURIA.
+The current score is FURIA 2 - 0 NRG.
+Demon1 killed Demon1  in round 3
+kon4n killed Victor  in round 3
+havoc killed crashies  in round 3
+Marved killed kon4n  in round 3
+Khalil killed Marved  in round 3
+Demon1 killed mwzera  in round 3
+Khalil killed Demon1  in round 3
+Ethan killed Nozwer  in round 3
+Khalil killed Ethan  in round 3
+Round 3 ended with elimination. The winning team is FURIA.
+The current score is FURIA 3 - 0 NRG.
+Demon1 killed havoc  in round 4
+mwzera killed Demon1  in round 4
+mwzera killed Marved  in round 4
+Nozwer killed Ethan  in round 4
+Nozwer killed Victor  in round 4
+crashies killed kon4n  in round 4
+crashies killed Khalil  in round 4
+Nozwer killed crashies  in round 4
+Round 4 ended with elimination. The winning team is FURIA.
+The current score is FURIA 4 - 0 NRG.
+Ethan killed havoc  in round 5
+mwzera killed Demon1  in round 5
+Marved killed Khalil  in round 5
+Victor killed mwzera  in round 5
+Nozwer killed crashies  in round 5
+Victor killed kon4n  in round 5
+Nozwer killed Victor  in round 5
+Marved killed Nozwer  in round 5
+Round 5 ended with elimination. The winning team is NRG.
+The current score is FURIA 4 - 1 NRG.
+Demon1 killed kon4n  in round 6
+Victor killed mwzera  in round 6
+Victor killed Nozwer  in round 6
+Khalil killed Victor  in round 6
+crashies killed Khalil  in round 6
+Demon1 killed havoc  in round 6
+Round 6 ended with elimination. The winning team is NRG.
+The current score is FURIA 4 - 2 NRG.
+Ethan killed havoc  in round 7
+mwzera killed crashies  in round 7
+mwzera killed Demon1  in round 7
+Marved killed mwzera  in round 7
+Victor killed Khalil  in round 7
+Marved killed kon4n  in round 7
+Victor killed Nozwer  in round 7
+Round 7 ended with spike_defuse. The winning team is NRG.
+The current score is FURIA 4 - 3 NRG.
+kon4n killed Demon1  in round 8
+Marved killed havoc  in round 8
+crashies killed kon4n  in round 8
+Nozwer killed crashies  in round 8
+Victor killed Khalil  in round 8
+mwzera killed Victor  in round 8
+mwzera killed Marved  in round 8
+mwzera killed Ethan  in round 8
+Round 8 ended with elimination. The winning team is FURIA.
+The current score is FURIA 5 - 3 NRG.
+Victor killed mwzera  in round 9
+Victor killed Khalil  in round 9
+havoc killed Marved  in round 9
+Demon1 killed havoc  in round 9
+Victor killed kon4n  in round 9
+crashies killed Nozwer  in round 9
+Round 9 ended with elimination. The winning team is NRG.
+The current score is FURIA 5 - 4 NRG.
+havoc killed Demon1  in round 10
+Ethan killed mwzera  in round 10
+Nozwer killed Ethan  in round 10
+Nozwer killed crashies  in round 10
+Marved killed kon4n  in round 10
+Victor killed Nozwer  in round 10
+Victor killed Khalil  in round 10
+havoc killed Victor  in round 10
+Marved killed havoc  in round 10
+Round 10 ended with spike_defuse. The winning team is NRG.
+The current score is FURIA 5 - 5 NRG.
+havoc killed crashies  in round 11
+Demon1 killed havoc  in round 11
+Ethan killed mwzera  in round 11
+Demon1 killed kon4n  in round 11
+Khalil killed Ethan  in round 11
+Nozwer killed Marved  in round 11
+Khalil killed Demon1  in round 11
+Nozwer killed Victor  in round 11
+Round 11 ended with elimination. The winning team is FURIA.
+The current score is FURIA 6 - 5 NRG.
+Demon1 killed havoc  in round 12
+Nozwer killed Demon1  in round 12
+kon4n killed Marved  in round 12
+crashies killed kon4n  in round 12
+Victor killed mwzera  in round 12
+Victor killed Khalil  in round 12
+Ethan killed Nozwer  in round 12
+Round 12 ended with elimination. The winning team is NRG.
+The current score is FURIA 6 - 6 NRG.
+Khalil killed Ethan  in round 13
+mwzera killed Demon1  in round 13
+Victor killed mwzera  in round 13
+Nozwer killed Victor  in round 13
+kon4n killed Marved  in round 13
+kon4n killed crashies  in round 13
+Round 13 ended with spike_defuse. The winning team is FURIA.
+The current score is FURIA 7 - 6 NRG.
+mwzera killed Demon1  in round 14
+Khalil killed Ethan  in round 14
+havoc killed Victor  in round 14
+mwzera killed crashies  in round 14
+Marved killed mwzera  in round 14
+kon4n killed Marved  in round 14
+Round 14 ended with spike_defuse. The winning team is FURIA.
+The current score is FURIA 8 - 6 NRG.
+Victor killed havoc  in round 15
+Demon1 killed Nozwer  in round 15
+Demon1 killed mwzera  in round 15
+Demon1 killed kon4n  in round 15
+Victor killed Khalil  in round 15
+Round 15 ended with elimination. The winning team is NRG.
+The current score is FURIA 8 - 7 NRG.
+Demon1 killed kon4n  in round 16
+havoc killed crashies  in round 16
+Victor killed mwzera  in round 16
+Marved killed Khalil  in round 16
+Nozwer killed Marved  in round 16
+havoc killed Demon1  in round 16
+Victor killed havoc  in round 16
+Ethan killed Nozwer  in round 16
+Round 16 ended with elimination. The winning team is NRG.
+The current score is FURIA 8 - 8 NRG.
+Ethan killed Ethan  in round 17
+havoc killed Ethan  in round 17
+Victor killed havoc  in round 17
+Demon1 killed mwzera  in round 17
+Demon1 killed kon4n  in round 17
+crashies killed Nozwer  in round 17
+Khalil killed Demon1  in round 17
+Victor killed Khalil  in round 17
+Round 17 ended with elimination. The winning team is NRG.
+The current score is FURIA 8 - 9 NRG.
+Demon1 killed mwzera  in round 18
+Demon1 killed havoc  in round 18
+Nozwer killed Demon1  in round 18
+Ethan killed Nozwer  in round 18
+Victor killed Khalil  in round 18
+kon4n killed Victor  in round 18
+Round 18 ended with detonate. The winning team is NRG.
+The current score is FURIA 8 - 10 NRG.
+Victor killed havoc  in round 19
+Demon1 killed Nozwer  in round 19
+Ethan killed Khalil  in round 19
+kon4n killed Demon1  in round 19
+mwzera killed crashies  in round 19
+mwzera killed Victor  in round 19
+mwzera killed Ethan  in round 19
+Round 19 ended with detonate. The winning team is NRG.
+The current score is FURIA 8 - 11 NRG.
+Demon1 killed havoc  in round 20
+kon4n killed Demon1  in round 20
+kon4n killed crashies  in round 20
+Khalil killed Victor  in round 20
+Ethan killed Khalil  in round 20
+Ethan killed kon4n  in round 20
+Marved killed mwzera  in round 20
+Ethan killed Nozwer  in round 20
+Round 20 ended with elimination. The winning team is NRG.
+The current score is FURIA 8 - 12 NRG.
+kon4n killed Marved  in round 21
+Victor killed kon4n  in round 21
+crashies killed havoc  in round 21
+mwzera killed crashies  in round 21
+Demon1 killed mwzera  in round 21
+Ethan killed Nozwer  in round 21
+Demon1 killed Khalil  in round 21
+Round 21 ended with elimination. The winning team is NRG.
+The current score is FURIA 8 - 13 NRG.
+Game ended with winning team: NRG at 2024-04-15T00:52:24Z
+
+--- Player Stats ---
+Demon1: Team=NRG, Kills=22, Deaths=17, Assists=1, KDA=1.35, First Kills=7, First Deaths=4
+Marved: Team=NRG, Kills=11, Deaths=12, Assists=9, KDA=1.67, First Kills=0, First Deaths=2
+Ethan: Team=NRG, Kills=14, Deaths=12, Assists=6, KDA=1.67, First Kills=3, First Deaths=3
+crashies: Team=NRG, Kills=10, Deaths=15, Assists=7, KDA=1.13, First Kills=0, First Deaths=1
+Victor: Team=NRG, Kills=24, Deaths=14, Assists=2, KDA=1.86, First Kills=3, First Deaths=0
+kon4n: Team=FURIA, Kills=14, Deaths=15, Assists=8, KDA=1.47, First Kills=2, First Deaths=2
+mwzera: Team=FURIA, Kills=17, Deaths=17, Assists=7, KDA=1.41, First Kills=1, First Deaths=2
+Nozwer: Team=FURIA, Kills=15, Deaths=14, Assists=6, KDA=1.5, First Kills=0, First Deaths=0
+havoc: Team=FURIA, Kills=11, Deaths=18, Assists=1, KDA=0.67, First Kills=4, First Deaths=7
+Khalil: Team=FURIA, Kills=11, Deaths=15, Assists=4, KDA=1.0, First Kills=1, First Deaths=0

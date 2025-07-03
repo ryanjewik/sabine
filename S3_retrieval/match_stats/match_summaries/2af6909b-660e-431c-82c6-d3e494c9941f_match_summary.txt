@@ -1,0 +1,216 @@
+Team 1: Sentinels
+Team 2: Karmine Corp
+Participating Players:
+Player 1: Shin 
+Player 2: Tomaszy
+Player 3: MAGNUM
+Player 4: marteen
+Player 5: N4RRATE
+Player 6: TenZ
+Player 7: Zellsis
+Player 8: johnqt
+Player 9: zekken
+Player 10: Sacy
+Winning Team: Sentinels
+Score: Sentinels 13 - 8 Karmine Corp
+Tournament Name: vct masters madrid 2024
+Game Start Time: 2024-03-16T14:57:53Z
+Game End Time: 2024-03-16T15:54:46Z
+Rounds ended by ELIMINATION count: 9
+Rounds ended by DEFUSE count: 6
+Rounds ended by DETONATE count: 5
+SPIKE PLANTED count: 11
+platformGameId: val:2af6909b-660e-431c-82c6-d3e494c9941f
+
+--- Events ---
+Game started at 2024-03-16T14:57:53Z
+MAGNUM killed Zellsis  in round 1
+zekken killed N4RRATE  in round 1
+TenZ killed Tomaszy  in round 1
+TenZ killed MAGNUM  in round 1
+Sacy killed marteen  in round 1
+Shin  killed johnqt  in round 1
+zekken killed Shin   in round 1
+Round 1 ended with elimination. The winning team is Sentinels.
+The current score is Sentinels 1 - 0 Karmine Corp.
+TenZ killed N4RRATE  in round 2
+zekken killed MAGNUM  in round 2
+TenZ killed Tomaszy  in round 2
+zekken killed marteen  in round 2
+Round 2 ended with detonate. The winning team is Sentinels.
+The current score is Sentinels 2 - 0 Karmine Corp.
+Shin  killed Shin   in round 3
+zekken killed MAGNUM  in round 3
+Tomaszy killed TenZ  in round 3
+Zellsis killed Tomaszy  in round 3
+johnqt killed marteen  in round 3
+N4RRATE killed johnqt  in round 3
+N4RRATE killed zekken  in round 3
+Zellsis killed N4RRATE  in round 3
+Shin  killed Zellsis  in round 3
+Shin  killed Sacy  in round 3
+Round 3 ended with spike_defuse. The winning team is Karmine Corp.
+The current score is Sentinels 2 - 1 Karmine Corp.
+zekken killed N4RRATE  in round 4
+zekken killed MAGNUM  in round 4
+Round 4 ended with detonate. The winning team is Sentinels.
+The current score is Sentinels 3 - 1 Karmine Corp.
+zekken killed marteen  in round 5
+Zellsis killed N4RRATE  in round 5
+zekken killed MAGNUM  in round 5
+zekken killed Tomaszy  in round 5
+Round 5 ended with detonate. The winning team is Sentinels.
+The current score is Sentinels 4 - 1 Karmine Corp.
+marteen killed zekken  in round 6
+Zellsis killed marteen  in round 6
+TenZ killed N4RRATE  in round 6
+Shin  killed Sacy  in round 6
+TenZ killed Shin   in round 6
+Zellsis killed MAGNUM  in round 6
+Tomaszy killed Zellsis  in round 6
+TenZ killed Tomaszy  in round 6
+Round 6 ended with elimination. The winning team is Sentinels.
+The current score is Sentinels 5 - 1 Karmine Corp.
+marteen killed Sacy  in round 7
+zekken killed Shin   in round 7
+zekken killed MAGNUM  in round 7
+N4RRATE killed Zellsis  in round 7
+N4RRATE killed TenZ  in round 7
+marteen killed johnqt  in round 7
+zekken killed N4RRATE  in round 7
+marteen killed zekken  in round 7
+Round 7 ended with elimination. The winning team is Karmine Corp.
+The current score is Sentinels 5 - 2 Karmine Corp.
+marteen killed Zellsis  in round 8
+Tomaszy killed Sacy  in round 8
+N4RRATE killed johnqt  in round 8
+TenZ killed Tomaszy  in round 8
+N4RRATE killed TenZ  in round 8
+marteen killed zekken  in round 8
+Round 8 ended with elimination. The winning team is Karmine Corp.
+The current score is Sentinels 5 - 3 Karmine Corp.
+N4RRATE killed zekken  in round 9
+TenZ killed N4RRATE  in round 9
+Zellsis killed Tomaszy  in round 9
+MAGNUM killed johnqt  in round 9
+Zellsis killed MAGNUM  in round 9
+marteen killed Zellsis  in round 9
+TenZ killed marteen  in round 9
+Shin  killed Sacy  in round 9
+Shin  killed TenZ  in round 9
+Round 9 ended with elimination. The winning team is Karmine Corp.
+The current score is Sentinels 5 - 4 Karmine Corp.
+johnqt killed marteen  in round 10
+TenZ killed Tomaszy  in round 10
+N4RRATE killed zekken  in round 10
+MAGNUM killed TenZ  in round 10
+Sacy killed MAGNUM  in round 10
+Zellsis killed N4RRATE  in round 10
+Round 10 ended with detonate. The winning team is Sentinels.
+The current score is Sentinels 6 - 4 Karmine Corp.
+marteen killed zekken  in round 11
+N4RRATE killed Sacy  in round 11
+johnqt killed MAGNUM  in round 11
+marteen killed johnqt  in round 11
+TenZ killed N4RRATE  in round 11
+Shin  killed Zellsis  in round 11
+TenZ killed Tomaszy  in round 11
+Shin  killed TenZ  in round 11
+Round 11 ended with spike_defuse. The winning team is Karmine Corp.
+The current score is Sentinels 6 - 5 Karmine Corp.
+johnqt killed marteen  in round 12
+Shin  killed johnqt  in round 12
+Shin  killed zekken  in round 12
+Shin  killed Sacy  in round 12
+N4RRATE killed Zellsis  in round 12
+TenZ killed Shin   in round 12
+Tomaszy killed TenZ  in round 12
+Round 12 ended with elimination. The winning team is Karmine Corp.
+The current score is Sentinels 6 - 6 Karmine Corp.
+Tomaszy killed Sacy  in round 13
+MAGNUM killed Zellsis  in round 13
+zekken killed MAGNUM  in round 13
+zekken killed Tomaszy  in round 13
+johnqt killed Shin   in round 13
+marteen killed zekken  in round 13
+N4RRATE killed TenZ  in round 13
+N4RRATE killed johnqt  in round 13
+Round 13 ended with elimination. The winning team is Karmine Corp.
+The current score is Sentinels 6 - 7 Karmine Corp.
+N4RRATE killed Zellsis  in round 14
+johnqt killed N4RRATE  in round 14
+Round 14 ended with detonate. The winning team is Karmine Corp.
+The current score is Sentinels 6 - 8 Karmine Corp.
+marteen killed zekken  in round 15
+TenZ killed TenZ  in round 15
+Sacy killed Sacy  in round 15
+johnqt killed johnqt  in round 15
+marteen killed TenZ  in round 15
+Zellsis killed Shin   in round 15
+johnqt killed N4RRATE  in round 15
+johnqt killed marteen  in round 15
+MAGNUM killed Zellsis  in round 15
+MAGNUM killed johnqt  in round 15
+zekken killed Tomaszy  in round 15
+zekken killed MAGNUM  in round 15
+Round 15 ended with spike_defuse. The winning team is Sentinels.
+The current score is Sentinels 7 - 8 Karmine Corp.
+N4RRATE killed Sacy  in round 16
+johnqt killed N4RRATE  in round 16
+TenZ killed Tomaszy  in round 16
+Shin  killed Zellsis  in round 16
+johnqt killed Shin   in round 16
+TenZ killed marteen  in round 16
+zekken killed MAGNUM  in round 16
+Round 16 ended with spike_defuse. The winning team is Sentinels.
+The current score is Sentinels 8 - 8 Karmine Corp.
+zekken killed Tomaszy  in round 17
+Sacy killed marteen  in round 17
+Shin  killed Zellsis  in round 17
+TenZ killed MAGNUM  in round 17
+TenZ killed Shin   in round 17
+johnqt killed N4RRATE  in round 17
+Round 17 ended with elimination. The winning team is Sentinels.
+The current score is Sentinels 9 - 8 Karmine Corp.
+Zellsis killed N4RRATE  in round 18
+Zellsis killed Shin   in round 18
+zekken killed MAGNUM  in round 18
+TenZ killed Tomaszy  in round 18
+Round 18 ended with time_expired. The winning team is Sentinels.
+The current score is Sentinels 10 - 8 Karmine Corp.
+zekken killed N4RRATE  in round 19
+zekken killed marteen  in round 19
+zekken killed MAGNUM  in round 19
+Tomaszy killed zekken  in round 19
+johnqt killed Tomaszy  in round 19
+Zellsis killed Shin   in round 19
+Round 19 ended with spike_defuse. The winning team is Sentinels.
+The current score is Sentinels 11 - 8 Karmine Corp.
+Sacy killed MAGNUM  in round 20
+Sacy killed N4RRATE  in round 20
+zekken killed marteen  in round 20
+Zellsis killed Tomaszy  in round 20
+Round 20 ended with spike_defuse. The winning team is Sentinels.
+The current score is Sentinels 12 - 8 Karmine Corp.
+zekken killed N4RRATE  in round 21
+zekken killed MAGNUM  in round 21
+marteen killed zekken  in round 21
+Sacy killed marteen  in round 21
+Sacy killed Tomaszy  in round 21
+Shin  killed Zellsis  in round 21
+TenZ killed Shin   in round 21
+Round 21 ended with elimination. The winning team is Sentinels.
+The current score is Sentinels 13 - 8 Karmine Corp.
+Game ended with winning team: Sentinels at 2024-03-16T15:54:46Z
+
+--- Player Stats ---
+Shin : Team=Karmine Corp, Kills=15, Deaths=12, Assists=4, KDA=1.58, First Kills=1, First Deaths=1
+Tomaszy: Team=Karmine Corp, Kills=6, Deaths=17, Assists=5, KDA=0.65, First Kills=1, First Deaths=1
+MAGNUM: Team=Karmine Corp, Kills=6, Deaths=18, Assists=8, KDA=0.78, First Kills=1, First Deaths=1
+marteen: Team=Karmine Corp, Kills=13, Deaths=14, Assists=3, KDA=1.14, First Kills=5, First Deaths=3
+N4RRATE: Team=Karmine Corp, Kills=14, Deaths=18, Assists=4, KDA=1.0, First Kills=3, First Deaths=5
+TenZ: Team=Sentinels, Kills=21, Deaths=10, Assists=15, KDA=3.6, First Kills=1, First Deaths=0
+Zellsis: Team=Sentinels, Kills=13, Deaths=14, Assists=5, KDA=1.29, First Kills=1, First Deaths=3
+johnqt: Team=Sentinels, Kills=13, Deaths=10, Assists=5, KDA=1.8, First Kills=2, First Deaths=0
+zekken: Team=Sentinels, Kills=26, Deaths=12, Assists=3, KDA=2.42, First Kills=5, First Deaths=4
+Sacy: Team=Sentinels, Kills=8, Deaths=10, Assists=17, KDA=2.5, First Kills=1, First Deaths=3

@@ -1,0 +1,131 @@
+Team 1: KOI
+Team 2: Futbolist
+Participating Players:
+Player 1: ATA KAPTAN
+Player 2: mojj
+Player 3: MrFaliN
+Player 4: qw1
+Player 5: qRaxs
+Player 6: Trexx
+Player 7: starxo
+Player 8: koldamenta
+Player 9: Sheydos
+Player 10: Wolfen
+Winning Team: Futbolist
+Score: KOI 5 - 14 Futbolist
+Tournament Name: vct emea 2023
+Game Start Time: 2023-04-13T16:39:04Z
+Game End Time: 2023-04-13T17:04:21Z
+Rounds ended by ELIMINATION count: 9
+Rounds ended by DEFUSE count: 4
+Rounds ended by DETONATE count: 1
+SPIKE PLANTED count: 5
+platformGameId: val:601ae6aa-8ce2-44d3-9d50-afac6b272e88
+
+--- Events ---
+Game started at 2023-04-13T16:39:04Z
+Round 1 ended with elimination. The winning team is KOI.
+The current score is KOI 1 - 0 Futbolist.
+Round 2 ended with elimination. The winning team is KOI.
+The current score is KOI 2 - 0 Futbolist.
+Round 3 ended with detonate. The winning team is KOI.
+The current score is KOI 3 - 0 Futbolist.
+Round 4 ended with time_expired. The winning team is Futbolist.
+The current score is KOI 3 - 1 Futbolist.
+Round 5 ended with time_expired. The winning team is Futbolist.
+The current score is KOI 3 - 2 Futbolist.
+Round 6 ended with spike_defuse. The winning team is Futbolist.
+The current score is KOI 3 - 3 Futbolist.
+Round 7 ended with time_expired. The winning team is Futbolist.
+The current score is KOI 3 - 4 Futbolist.
+Round 8 ended with time_expired. The winning team is Futbolist.
+The current score is KOI 3 - 5 Futbolist.
+Round 9 ended with spike_defuse. The winning team is Futbolist.
+The current score is KOI 3 - 6 Futbolist.
+Round 10 ended with elimination. The winning team is KOI.
+The current score is KOI 4 - 6 Futbolist.
+Round 11 ended with spike_defuse. The winning team is Futbolist.
+The current score is KOI 4 - 7 Futbolist.
+Round 12 ended with spike_defuse. The winning team is Futbolist.
+The current score is KOI 4 - 8 Futbolist.
+mojj killed Trexx  in round 13
+Wolfen killed mojj  in round 13
+MrFaliN killed Wolfen  in round 13
+starxo killed qRaxs  in round 13
+MrFaliN killed starxo  in round 13
+koldamenta killed MrFaliN  in round 13
+qw1 killed koldamenta  in round 13
+qw1 killed Sheydos  in round 13
+Round 13 ended with elimination. The winning team is Futbolist.
+The current score is KOI 4 - 9 Futbolist.
+mojj killed Sheydos  in round 14
+koldamenta killed ATA KAPTAN  in round 14
+MrFaliN killed starxo  in round 14
+qw1 killed koldamenta  in round 14
+qw1 killed Wolfen  in round 14
+MrFaliN killed Trexx  in round 14
+Round 14 ended with elimination. The winning team is Futbolist.
+The current score is KOI 4 - 10 Futbolist.
+starxo killed mojj  in round 15
+qw1 killed starxo  in round 15
+Wolfen killed qRaxs  in round 15
+qw1 killed Trexx  in round 15
+ATA KAPTAN killed Wolfen  in round 15
+qw1 killed koldamenta  in round 15
+Sheydos killed MrFaliN  in round 15
+qw1 killed Sheydos  in round 15
+Round 15 ended with elimination. The winning team is Futbolist.
+The current score is KOI 4 - 11 Futbolist.
+mojj killed koldamenta  in round 16
+Sheydos killed ATA KAPTAN  in round 16
+Trexx killed MrFaliN  in round 16
+Trexx killed qRaxs  in round 16
+mojj killed Wolfen  in round 16
+Sheydos killed mojj  in round 16
+Round 16 ended with time_expired. The winning team is KOI.
+The current score is KOI 5 - 11 Futbolist.
+Trexx killed ATA KAPTAN  in round 17
+qRaxs killed Trexx  in round 17
+qw1 killed Wolfen  in round 17
+koldamenta killed MrFaliN  in round 17
+qw1 killed koldamenta  in round 17
+starxo killed qw1  in round 17
+qRaxs killed Sheydos  in round 17
+starxo killed qRaxs  in round 17
+mojj killed starxo  in round 17
+Round 17 ended with elimination. The winning team is Futbolist.
+The current score is KOI 5 - 12 Futbolist.
+Wolfen killed ATA KAPTAN  in round 18
+qRaxs killed Sheydos  in round 18
+qRaxs killed Wolfen  in round 18
+koldamenta killed qRaxs  in round 18
+qw1 killed koldamenta  in round 18
+qw1 killed starxo  in round 18
+Trexx killed qw1  in round 18
+mojj killed Trexx  in round 18
+Round 18 ended with elimination. The winning team is Futbolist.
+The current score is KOI 5 - 13 Futbolist.
+mojj killed mojj  in round 19
+mojj killed koldamenta  in round 19
+Wolfen killed mojj  in round 19
+Wolfen killed ATA KAPTAN  in round 19
+qRaxs killed Wolfen  in round 19
+MrFaliN killed Sheydos  in round 19
+qw1 killed Trexx  in round 19
+starxo killed qw1  in round 19
+qRaxs killed starxo  in round 19
+Round 19 ended with elimination. The winning team is Futbolist.
+The current score is KOI 5 - 14 Futbolist.
+Game ended with winning team: Futbolist at 2023-04-13T17:04:21Z
+
+--- Player Stats ---
+ATA KAPTAN: Team=Futbolist, Kills=1, Deaths=5, Assists=3, KDA=0.8, First Kills=0, First Deaths=2
+mojj: Team=Futbolist, Kills=8, Deaths=5, Assists=0, KDA=1.6, First Kills=4, First Deaths=2
+MrFaliN: Team=Futbolist, Kills=5, Deaths=4, Assists=4, KDA=2.25, First Kills=0, First Deaths=0
+qw1: Team=Futbolist, Kills=13, Deaths=3, Assists=2, KDA=5.0, First Kills=0, First Deaths=0
+qRaxs: Team=Futbolist, Kills=6, Deaths=5, Assists=3, KDA=1.8, First Kills=0, First Deaths=0
+Trexx: Team=KOI, Kills=4, Deaths=6, Assists=6, KDA=1.67, First Kills=1, First Deaths=1
+starxo: Team=KOI, Kills=5, Deaths=6, Assists=0, KDA=0.83, First Kills=1, First Deaths=0
+koldamenta: Team=KOI, Kills=4, Deaths=7, Assists=2, KDA=0.86, First Kills=0, First Deaths=1
+Sheydos: Team=KOI, Kills=3, Deaths=6, Assists=1, KDA=0.67, First Kills=0, First Deaths=1
+Wolfen: Team=KOI, Kills=5, Deaths=7, Assists=4, KDA=1.29, First Kills=1, First Deaths=0

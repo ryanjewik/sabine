@@ -1,0 +1,246 @@
+Team 1: Talon Esports
+Team 2: T1
+Participating Players:
+Player 1: Xccurate
+Player 2: Rossy
+Player 3: carpe
+Player 4: iZu
+Player 5: Sayaplayer
+Player 6: Governor
+Player 7: ban
+Player 8: Crws
+Player 9: lenne
+Player 10: JitBoyS
+Winning Team: Talon Esports
+Score: Talon Esports 13 - 11 T1
+Tournament Name: vct pacific stage 1 2024
+Game Start Time: 2024-04-22T07:51:59Z
+Game End Time: 2024-04-22T08:56:41Z
+Rounds ended by ELIMINATION count: 10
+Rounds ended by DEFUSE count: 7
+Rounds ended by DETONATE count: 7
+SPIKE PLANTED count: 14
+platformGameId: val:4cbcc7a4-821a-4772-8b22-8af4855108d5
+
+--- Events ---
+Game started at 2024-04-22T07:51:59Z
+Crws killed Rossy  in round 1
+carpe killed Crws  in round 1
+carpe killed JitBoyS  in round 1
+Sayaplayer killed ban  in round 1
+Governor killed carpe  in round 1
+Xccurate killed lenne  in round 1
+Governor killed Xccurate  in round 1
+Sayaplayer killed Governor  in round 1
+Round 1 ended with elimination. The winning team is T1.
+The current score is Talon Esports 0 - 1 T1.
+Xccurate killed Crws  in round 2
+Xccurate killed JitBoyS  in round 2
+Xccurate killed ban  in round 2
+Rossy killed Governor  in round 2
+Xccurate killed lenne  in round 2
+Round 2 ended with elimination. The winning team is T1.
+The current score is Talon Esports 0 - 2 T1.
+Rossy killed Governor  in round 3
+Crws killed Rossy  in round 3
+Crws killed iZu  in round 3
+Crws killed Sayaplayer  in round 3
+JitBoyS killed carpe  in round 3
+Round 3 ended with detonate. The winning team is Talon Esports.
+The current score is Talon Esports 1 - 2 T1.
+Sayaplayer killed Governor  in round 4
+lenne killed Sayaplayer  in round 4
+carpe killed Crws  in round 4
+carpe killed JitBoyS  in round 4
+Rossy killed ban  in round 4
+Rossy killed lenne  in round 4
+Round 4 ended with spike_defuse. The winning team is T1.
+The current score is Talon Esports 1 - 3 T1.
+carpe killed lenne  in round 5
+JitBoyS killed carpe  in round 5
+JitBoyS killed iZu  in round 5
+JitBoyS killed Sayaplayer  in round 5
+Rossy killed JitBoyS  in round 5
+ban killed Rossy  in round 5
+Round 5 ended with detonate. The winning team is Talon Esports.
+The current score is Talon Esports 2 - 3 T1.
+Rossy killed Governor  in round 6
+Xccurate killed JitBoyS  in round 6
+Crws killed Sayaplayer  in round 6
+Xccurate killed ban  in round 6
+lenne killed carpe  in round 6
+iZu killed Crws  in round 6
+Rossy killed lenne  in round 6
+Round 6 ended with spike_defuse. The winning team is T1.
+The current score is Talon Esports 2 - 4 T1.
+lenne killed carpe  in round 7
+Governor killed Xccurate  in round 7
+ban killed Sayaplayer  in round 7
+Crws killed Rossy  in round 7
+Round 7 ended with detonate. The winning team is Talon Esports.
+The current score is Talon Esports 3 - 4 T1.
+Xccurate killed Crws  in round 8
+Governor killed Xccurate  in round 8
+JitBoyS killed carpe  in round 8
+lenne killed Rossy  in round 8
+Governor killed iZu  in round 8
+Governor killed Sayaplayer  in round 8
+Round 8 ended with elimination. The winning team is Talon Esports.
+The current score is Talon Esports 4 - 4 T1.
+Crws killed carpe  in round 9
+iZu killed Crws  in round 9
+Governor killed Sayaplayer  in round 9
+JitBoyS killed Xccurate  in round 9
+Governor killed Rossy  in round 9
+iZu killed Governor  in round 9
+JitBoyS killed iZu  in round 9
+Round 9 ended with elimination. The winning team is Talon Esports.
+The current score is Talon Esports 5 - 4 T1.
+Rossy killed Governor  in round 10
+Rossy killed lenne  in round 10
+JitBoyS killed Rossy  in round 10
+JitBoyS killed iZu  in round 10
+ban killed Sayaplayer  in round 10
+carpe killed ban  in round 10
+Crws killed carpe  in round 10
+JitBoyS killed Xccurate  in round 10
+Round 10 ended with elimination. The winning team is Talon Esports.
+The current score is Talon Esports 6 - 4 T1.
+Crws killed Rossy  in round 11
+Sayaplayer killed Crws  in round 11
+Sayaplayer killed ban  in round 11
+JitBoyS killed Sayaplayer  in round 11
+carpe killed JitBoyS  in round 11
+lenne killed carpe  in round 11
+lenne killed iZu  in round 11
+Xccurate killed lenne  in round 11
+Governor killed Xccurate  in round 11
+Round 11 ended with elimination. The winning team is Talon Esports.
+The current score is Talon Esports 7 - 4 T1.
+Xccurate killed ban  in round 12
+carpe killed Crws  in round 12
+lenne killed Xccurate  in round 12
+iZu killed lenne  in round 12
+carpe killed Governor  in round 12
+JitBoyS killed Sayaplayer  in round 12
+Rossy killed JitBoyS  in round 12
+Round 12 ended with spike_defuse. The winning team is T1.
+The current score is Talon Esports 7 - 5 T1.
+ban killed Xccurate  in round 13
+JitBoyS killed iZu  in round 13
+carpe killed JitBoyS  in round 13
+carpe killed Crws  in round 13
+Rossy killed lenne  in round 13
+ban killed Sayaplayer  in round 13
+Rossy killed ban  in round 13
+Governor killed carpe  in round 13
+Governor killed Rossy  in round 13
+Round 13 ended with spike_defuse. The winning team is Talon Esports.
+The current score is Talon Esports 8 - 5 T1.
+Governor killed Sayaplayer  in round 14
+Xccurate killed Crws  in round 14
+ban killed Xccurate  in round 14
+iZu killed ban  in round 14
+Governor killed iZu  in round 14
+carpe killed Governor  in round 14
+Rossy killed lenne  in round 14
+JitBoyS killed Rossy  in round 14
+JitBoyS killed carpe  in round 14
+Round 14 ended with spike_defuse. The winning team is Talon Esports.
+The current score is Talon Esports 9 - 5 T1.
+Sayaplayer killed Governor  in round 15
+Xccurate killed JitBoyS  in round 15
+Sayaplayer killed lenne  in round 15
+Xccurate killed ban  in round 15
+Crws killed Xccurate  in round 15
+Crws killed Rossy  in round 15
+Sayaplayer killed Crws  in round 15
+Round 15 ended with elimination. The winning team is T1.
+The current score is Talon Esports 9 - 6 T1.
+Sayaplayer killed Crws  in round 16
+ban killed Sayaplayer  in round 16
+ban killed carpe  in round 16
+iZu killed ban  in round 16
+JitBoyS killed Rossy  in round 16
+JitBoyS killed Xccurate  in round 16
+Governor killed iZu  in round 16
+Round 16 ended with spike_defuse. The winning team is Talon Esports.
+The current score is Talon Esports 10 - 6 T1.
+iZu killed Governor  in round 17
+JitBoyS killed iZu  in round 17
+Sayaplayer killed lenne  in round 17
+Sayaplayer killed Crws  in round 17
+carpe killed ban  in round 17
+Round 17 ended with detonate. The winning team is T1.
+The current score is Talon Esports 10 - 7 T1.
+Sayaplayer killed lenne  in round 18
+lenne killed Xccurate  in round 18
+iZu killed ban  in round 18
+Sayaplayer killed Governor  in round 18
+Round 18 ended with detonate. The winning team is T1.
+The current score is Talon Esports 10 - 8 T1.
+Crws killed Sayaplayer  in round 19
+Crws killed carpe  in round 19
+carpe killed Governor  in round 19
+iZu killed Crws  in round 19
+Rossy killed ban  in round 19
+Xccurate killed JitBoyS  in round 19
+Sayaplayer killed lenne  in round 19
+Round 19 ended with elimination. The winning team is T1.
+The current score is Talon Esports 10 - 9 T1.
+Crws killed Sayaplayer  in round 20
+carpe killed Crws  in round 20
+iZu killed ban  in round 20
+Xccurate killed Governor  in round 20
+iZu killed lenne  in round 20
+JitBoyS killed Xccurate  in round 20
+Round 20 ended with detonate. The winning team is T1.
+The current score is Talon Esports 10 - 10 T1.
+Sayaplayer killed Governor  in round 21
+lenne killed iZu  in round 21
+JitBoyS killed carpe  in round 21
+Sayaplayer killed lenne  in round 21
+JitBoyS killed Rossy  in round 21
+JitBoyS killed Sayaplayer  in round 21
+Xccurate killed JitBoyS  in round 21
+ban killed Xccurate  in round 21
+Round 21 ended with elimination. The winning team is Talon Esports.
+The current score is Talon Esports 11 - 10 T1.
+iZu killed Crws  in round 22
+carpe killed ban  in round 22
+Sayaplayer killed JitBoyS  in round 22
+Governor killed Sayaplayer  in round 22
+Governor killed iZu  in round 22
+carpe killed Governor  in round 22
+Round 22 ended with detonate. The winning team is T1.
+The current score is Talon Esports 11 - 11 T1.
+JitBoyS killed Sayaplayer  in round 23
+JitBoyS killed carpe  in round 23
+Crws killed Xccurate  in round 23
+iZu killed Crws  in round 23
+iZu killed Governor  in round 23
+lenne killed iZu  in round 23
+Rossy killed ban  in round 23
+lenne killed Rossy  in round 23
+Round 23 ended with spike_defuse. The winning team is Talon Esports.
+The current score is Talon Esports 12 - 11 T1.
+ban killed Xccurate  in round 24
+ban killed Rossy  in round 24
+Governor killed carpe  in round 24
+ban killed iZu  in round 24
+Crws killed Sayaplayer  in round 24
+Round 24 ended with elimination. The winning team is Talon Esports.
+The current score is Talon Esports 13 - 11 T1.
+Game ended with winning team: Talon Esports at 2024-04-22T08:56:41Z
+
+--- Player Stats ---
+Xccurate: Team=T1, Kills=16, Deaths=16, Assists=1, KDA=1.06, First Kills=3, First Deaths=2
+Rossy: Team=T1, Kills=15, Deaths=15, Assists=9, KDA=1.6, First Kills=3, First Deaths=2
+carpe: Team=T1, Kills=17, Deaths=16, Assists=9, KDA=1.62, First Kills=1, First Deaths=2
+iZu: Team=T1, Kills=14, Deaths=14, Assists=10, KDA=1.71, First Kills=2, First Deaths=0
+Sayaplayer: Team=T1, Kills=17, Deaths=19, Assists=1, KDA=0.95, First Kills=5, First Deaths=4
+Governor: Team=Talon Esports, Kills=17, Deaths=17, Assists=3, KDA=1.18, First Kills=1, First Deaths=7
+ban: Team=Talon Esports, Kills=12, Deaths=17, Assists=2, KDA=0.82, First Kills=2, First Deaths=1
+Crws: Team=Talon Esports, Kills=16, Deaths=17, Assists=3, KDA=1.12, First Kills=5, First Deaths=4
+lenne: Team=Talon Esports, Kills=11, Deaths=16, Assists=14, KDA=1.56, First Kills=1, First Deaths=2
+JitBoyS: Team=Talon Esports, Kills=24, Deaths=12, Assists=9, KDA=2.75, First Kills=1, First Deaths=0

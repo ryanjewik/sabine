@@ -1,0 +1,223 @@
+Team 1: Bleed Esports
+Team 2: ZETA DIVISION
+Participating Players:
+Player 1: Dep
+Player 2: Yuran
+Player 3: SugarZ3ro
+Player 4: hiroronn
+Player 5: Laz
+Player 6: ZestKR
+Player 7: yay
+Player 8: sScary
+Player 9: Deryeon
+Player 10: Retla
+Winning Team: ZETA DIVISION
+Score: Bleed Esports 8 - 13 ZETA DIVISION
+Tournament Name: vct pacific stage 1 2024
+Game Start Time: 2024-04-16T12:04:50Z
+Game End Time: 2024-04-16T12:52:20Z
+Rounds ended by ELIMINATION count: 11
+Rounds ended by DEFUSE count: 6
+Rounds ended by DETONATE count: 2
+SPIKE PLANTED count: 8
+platformGameId: val:61ac052d-1756-454b-912a-c6ea72904cca
+
+--- Events ---
+Game started at 2024-04-16T12:04:50Z
+Yuran killed yay  in round 1
+Yuran killed Retla  in round 1
+ZestKR killed Laz  in round 1
+Deryeon killed Yuran  in round 1
+Dep killed ZestKR  in round 1
+Dep killed sScary  in round 1
+SugarZ3ro killed Deryeon  in round 1
+Round 1 ended with elimination. The winning team is ZETA DIVISION.
+The current score is Bleed Esports 0 - 1 ZETA DIVISION.
+Yuran killed yay  in round 2
+Yuran killed Deryeon  in round 2
+hiroronn killed ZestKR  in round 2
+Retla killed Dep  in round 2
+Yuran killed Retla  in round 2
+SugarZ3ro killed sScary  in round 2
+Round 2 ended with elimination. The winning team is ZETA DIVISION.
+The current score is Bleed Esports 0 - 2 ZETA DIVISION.
+Laz killed yay  in round 3
+sScary killed Yuran  in round 3
+Deryeon killed hiroronn  in round 3
+SugarZ3ro killed sScary  in round 3
+ZestKR killed Dep  in round 3
+Deryeon killed Laz  in round 3
+Round 3 ended with detonate. The winning team is Bleed Esports.
+The current score is Bleed Esports 1 - 2 ZETA DIVISION.
+SugarZ3ro killed SugarZ3ro  in round 4
+ZestKR killed ZestKR  in round 4
+Laz killed sScary  in round 4
+hiroronn killed Retla  in round 4
+hiroronn killed Deryeon  in round 4
+Dep killed yay  in round 4
+Round 4 ended with time_expired. The winning team is ZETA DIVISION.
+The current score is Bleed Esports 1 - 3 ZETA DIVISION.
+Laz killed yay  in round 5
+Laz killed Retla  in round 5
+hiroronn killed Deryeon  in round 5
+sScary killed hiroronn  in round 5
+Round 5 ended with spike_defuse. The winning team is ZETA DIVISION.
+The current score is Bleed Esports 1 - 4 ZETA DIVISION.
+sScary killed Dep  in round 6
+SugarZ3ro killed sScary  in round 6
+yay killed SugarZ3ro  in round 6
+Dep killed yay  in round 6
+Deryeon killed Dep  in round 6
+Yuran killed Retla  in round 6
+ZestKR killed hiroronn  in round 6
+Laz killed sScary  in round 6
+ZestKR killed Yuran  in round 6
+Laz killed ZestKR  in round 6
+Laz killed Deryeon  in round 6
+Round 6 ended with spike_defuse. The winning team is ZETA DIVISION.
+The current score is Bleed Esports 1 - 5 ZETA DIVISION.
+Dep killed Deryeon  in round 7
+Dep killed yay  in round 7
+ZestKR killed Dep  in round 7
+Laz killed ZestKR  in round 7
+Yuran killed Retla  in round 7
+sScary killed Yuran  in round 7
+SugarZ3ro killed sScary  in round 7
+Round 7 ended with spike_defuse. The winning team is ZETA DIVISION.
+The current score is Bleed Esports 1 - 6 ZETA DIVISION.
+SugarZ3ro killed Retla  in round 8
+yay killed SugarZ3ro  in round 8
+Laz killed Deryeon  in round 8
+hiroronn killed yay  in round 8
+sScary killed hiroronn  in round 8
+Yuran killed sScary  in round 8
+Laz killed ZestKR  in round 8
+Round 8 ended with spike_defuse. The winning team is ZETA DIVISION.
+The current score is Bleed Esports 1 - 7 ZETA DIVISION.
+yay killed Dep  in round 9
+sScary killed SugarZ3ro  in round 9
+hiroronn killed yay  in round 9
+hiroronn killed ZestKR  in round 9
+Retla killed Yuran  in round 9
+sScary killed hiroronn  in round 9
+Deryeon killed Laz  in round 9
+Round 9 ended with elimination. The winning team is Bleed Esports.
+The current score is Bleed Esports 2 - 7 ZETA DIVISION.
+Dep killed sScary  in round 10
+Dep killed ZestKR  in round 10
+Retla killed Dep  in round 10
+SugarZ3ro killed Retla  in round 10
+Yuran killed Deryeon  in round 10
+Yuran killed yay  in round 10
+Round 10 ended with elimination. The winning team is ZETA DIVISION.
+The current score is Bleed Esports 2 - 8 ZETA DIVISION.
+yay killed hiroronn  in round 11
+Dep killed yay  in round 11
+Retla killed Dep  in round 11
+Retla killed Yuran  in round 11
+ZestKR killed SugarZ3ro  in round 11
+ZestKR killed Laz  in round 11
+Round 11 ended with elimination. The winning team is Bleed Esports.
+The current score is Bleed Esports 3 - 8 ZETA DIVISION.
+Yuran killed yay  in round 12
+Yuran killed ZestKR  in round 12
+sScary killed Yuran  in round 12
+hiroronn killed sScary  in round 12
+Retla killed hiroronn  in round 12
+Retla killed SugarZ3ro  in round 12
+Laz killed Retla  in round 12
+Laz killed Deryeon  in round 12
+Round 12 ended with elimination. The winning team is ZETA DIVISION.
+The current score is Bleed Esports 3 - 9 ZETA DIVISION.
+Laz killed yay  in round 13
+sScary killed Laz  in round 13
+Dep killed Retla  in round 13
+ZestKR killed Dep  in round 13
+hiroronn killed Deryeon  in round 13
+ZestKR killed Yuran  in round 13
+SugarZ3ro killed ZestKR  in round 13
+sScary killed SugarZ3ro  in round 13
+hiroronn killed sScary  in round 13
+Round 13 ended with elimination. The winning team is ZETA DIVISION.
+The current score is Bleed Esports 3 - 10 ZETA DIVISION.
+hiroronn killed yay  in round 14
+Deryeon killed SugarZ3ro  in round 14
+Deryeon killed Dep  in round 14
+Yuran killed Deryeon  in round 14
+Yuran killed sScary  in round 14
+Retla killed hiroronn  in round 14
+Laz killed Retla  in round 14
+Laz killed ZestKR  in round 14
+Round 14 ended with elimination. The winning team is ZETA DIVISION.
+The current score is Bleed Esports 3 - 11 ZETA DIVISION.
+Deryeon killed Dep  in round 15
+Yuran killed Retla  in round 15
+yay killed hiroronn  in round 15
+Deryeon killed Laz  in round 15
+Deryeon killed SugarZ3ro  in round 15
+Deryeon killed Yuran  in round 15
+Round 15 ended with elimination. The winning team is Bleed Esports.
+The current score is Bleed Esports 4 - 11 ZETA DIVISION.
+Yuran killed yay  in round 16
+sScary killed Yuran  in round 16
+sScary killed Dep  in round 16
+SugarZ3ro killed sScary  in round 16
+ZestKR killed Laz  in round 16
+Deryeon killed SugarZ3ro  in round 16
+hiroronn killed Deryeon  in round 16
+ZestKR killed hiroronn  in round 16
+Round 16 ended with spike_defuse. The winning team is Bleed Esports.
+The current score is Bleed Esports 5 - 11 ZETA DIVISION.
+sScary killed Dep  in round 17
+sScary killed Yuran  in round 17
+SugarZ3ro killed ZestKR  in round 17
+hiroronn killed sScary  in round 17
+hiroronn killed Deryeon  in round 17
+yay killed hiroronn  in round 17
+Retla killed SugarZ3ro  in round 17
+Retla killed Laz  in round 17
+Round 17 ended with spike_defuse. The winning team is Bleed Esports.
+The current score is Bleed Esports 6 - 11 ZETA DIVISION.
+yay killed Laz  in round 18
+yay killed Dep  in round 18
+Round 18 ended with time_expired. The winning team is Bleed Esports.
+The current score is Bleed Esports 7 - 11 ZETA DIVISION.
+Laz killed Deryeon  in round 19
+sScary killed Dep  in round 19
+ZestKR killed hiroronn  in round 19
+SugarZ3ro killed yay  in round 19
+SugarZ3ro killed Retla  in round 19
+sScary killed Laz  in round 19
+Round 19 ended with detonate. The winning team is ZETA DIVISION.
+The current score is Bleed Esports 7 - 12 ZETA DIVISION.
+Laz killed Deryeon  in round 20
+Retla killed Dep  in round 20
+Retla killed Laz  in round 20
+SugarZ3ro killed sScary  in round 20
+ZestKR killed Yuran  in round 20
+yay killed SugarZ3ro  in round 20
+Retla killed hiroronn  in round 20
+Round 20 ended with elimination. The winning team is Bleed Esports.
+The current score is Bleed Esports 8 - 12 ZETA DIVISION.
+Dep killed Retla  in round 21
+Dep killed yay  in round 21
+Dep killed sScary  in round 21
+Deryeon killed SugarZ3ro  in round 21
+Laz killed ZestKR  in round 21
+Deryeon killed Yuran  in round 21
+Dep killed Deryeon  in round 21
+Round 21 ended with elimination. The winning team is ZETA DIVISION.
+The current score is Bleed Esports 8 - 13 ZETA DIVISION.
+Game ended with winning team: ZETA DIVISION at 2024-04-16T12:52:20Z
+
+--- Player Stats ---
+Dep: Team=ZETA DIVISION, Kills=14, Deaths=16, Assists=7, KDA=1.31, First Kills=3, First Deaths=4
+Yuran: Team=ZETA DIVISION, Kills=16, Deaths=13, Assists=8, KDA=1.85, First Kills=4, First Deaths=0
+SugarZ3ro: Team=ZETA DIVISION, Kills=14, Deaths=13, Assists=11, KDA=1.92, First Kills=2, First Deaths=1
+hiroronn: Team=ZETA DIVISION, Kills=14, Deaths=13, Assists=7, KDA=1.62, First Kills=1, First Deaths=1
+Laz: Team=ZETA DIVISION, Kills=18, Deaths=11, Assists=2, KDA=1.82, First Kills=5, First Deaths=1
+ZestKR: Team=Bleed Esports, Kills=14, Deaths=13, Assists=6, KDA=1.54, First Kills=0, First Deaths=0
+yay: Team=Bleed Esports, Kills=9, Deaths=17, Assists=7, KDA=0.94, First Kills=3, First Deaths=8
+sScary: Team=Bleed Esports, Kills=16, Deaths=16, Assists=13, KDA=1.81, First Kills=2, First Deaths=1
+Deryeon: Team=Bleed Esports, Kills=14, Deaths=16, Assists=1, KDA=0.94, First Kills=1, First Deaths=3
+Retla: Team=Bleed Esports, Kills=13, Deaths=14, Assists=7, KDA=1.43, First Kills=0, First Deaths=2

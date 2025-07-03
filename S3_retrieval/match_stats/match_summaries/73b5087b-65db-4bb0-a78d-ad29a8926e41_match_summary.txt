@@ -1,0 +1,213 @@
+Team 1: Gentle Mates
+Team 2: Karmine Corp
+Participating Players:
+Player 1: Shin 
+Player 2: Tomaszy
+Player 3: MAGNUM
+Player 4: marteen
+Player 5: N4RRATE
+Player 6: Wailers
+Player 7: nataNk
+Player 8: beyAz
+Player 9: logaN
+Player 10: TakaS
+Winning Team: Karmine Corp
+Score: Gentle Mates 6 - 13 Karmine Corp
+Tournament Name: vct emea stage 1 2024
+Game Start Time: 2024-04-12T18:45:56Z
+Game End Time: 2024-04-12T19:31:01Z
+Rounds ended by ELIMINATION count: 7
+Rounds ended by DEFUSE count: 10
+Rounds ended by DETONATE count: 1
+SPIKE PLANTED count: 11
+platformGameId: val:73b5087b-65db-4bb0-a78d-ad29a8926e41
+
+--- Events ---
+Game started at 2024-04-12T18:45:56Z
+N4RRATE killed TakaS  in round 1
+N4RRATE killed Wailers  in round 1
+Shin  killed logaN  in round 1
+Tomaszy killed nataNk  in round 1
+marteen killed beyAz  in round 1
+Round 1 ended with spike_defuse. The winning team is Karmine Corp.
+The current score is Gentle Mates 0 - 1 Karmine Corp.
+TakaS killed Tomaszy  in round 2
+logaN killed Shin   in round 2
+marteen killed logaN  in round 2
+N4RRATE killed nataNk  in round 2
+Wailers killed MAGNUM  in round 2
+N4RRATE killed Wailers  in round 2
+Round 2 ended with spike_defuse. The winning team is Karmine Corp.
+The current score is Gentle Mates 0 - 2 Karmine Corp.
+beyAz killed marteen  in round 3
+N4RRATE killed TakaS  in round 3
+N4RRATE killed beyAz  in round 3
+MAGNUM killed beyAz  in round 3
+MAGNUM killed TakaS  in round 3
+nataNk killed N4RRATE  in round 3
+nataNk killed marteen  in round 3
+logaN killed MAGNUM  in round 3
+logaN killed Shin   in round 3
+logaN killed Tomaszy  in round 3
+Round 3 ended with elimination. The winning team is Gentle Mates.
+The current score is Gentle Mates 1 - 2 Karmine Corp.
+Tomaszy killed TakaS  in round 4
+Shin  killed beyAz  in round 4
+logaN killed MAGNUM  in round 4
+Tomaszy killed nataNk  in round 4
+logaN killed Shin   in round 4
+N4RRATE killed logaN  in round 4
+Tomaszy killed Wailers  in round 4
+Round 4 ended with elimination. The winning team is Karmine Corp.
+The current score is Gentle Mates 1 - 3 Karmine Corp.
+marteen killed TakaS  in round 5
+marteen killed nataNk  in round 5
+marteen killed Wailers  in round 5
+logaN killed marteen  in round 5
+MAGNUM killed logaN  in round 5
+Tomaszy killed beyAz  in round 5
+Round 5 ended with elimination. The winning team is Karmine Corp.
+The current score is Gentle Mates 1 - 4 Karmine Corp.
+TakaS killed marteen  in round 6
+Wailers killed Tomaszy  in round 6
+MAGNUM killed beyAz  in round 6
+Shin  killed Wailers  in round 6
+logaN killed MAGNUM  in round 6
+TakaS killed Shin   in round 6
+N4RRATE killed nataNk  in round 6
+Round 6 ended with detonate. The winning team is Gentle Mates.
+The current score is Gentle Mates 2 - 4 Karmine Corp.
+logaN killed N4RRATE  in round 7
+N4RRATE killed TakaS  in round 7
+MAGNUM killed beyAz  in round 7
+MAGNUM killed Wailers  in round 7
+logaN killed MAGNUM  in round 7
+marteen killed nataNk  in round 7
+Tomaszy killed beyAz  in round 7
+Round 7 ended with time_expired. The winning team is Karmine Corp.
+The current score is Gentle Mates 2 - 5 Karmine Corp.
+N4RRATE killed beyAz  in round 8
+logaN killed N4RRATE  in round 8
+nataNk killed marteen  in round 8
+Shin  killed nataNk  in round 8
+Shin  killed Wailers  in round 8
+MAGNUM killed logaN  in round 8
+TakaS killed Shin   in round 8
+Tomaszy killed TakaS  in round 8
+Round 8 ended with spike_defuse. The winning team is Karmine Corp.
+The current score is Gentle Mates 2 - 6 Karmine Corp.
+N4RRATE killed Wailers  in round 9
+N4RRATE killed logaN  in round 9
+N4RRATE killed TakaS  in round 9
+beyAz killed MAGNUM  in round 9
+Tomaszy killed beyAz  in round 9
+N4RRATE killed nataNk  in round 9
+Round 9 ended with spike_defuse. The winning team is Karmine Corp.
+The current score is Gentle Mates 2 - 7 Karmine Corp.
+Wailers killed Shin   in round 10
+Tomaszy killed nataNk  in round 10
+TakaS killed MAGNUM  in round 10
+marteen killed Wailers  in round 10
+marteen killed TakaS  in round 10
+marteen killed logaN  in round 10
+Tomaszy killed beyAz  in round 10
+Round 10 ended with spike_defuse. The winning team is Karmine Corp.
+The current score is Gentle Mates 2 - 8 Karmine Corp.
+beyAz killed N4RRATE  in round 11
+Shin  killed TakaS  in round 11
+MAGNUM killed beyAz  in round 11
+Shin  killed Wailers  in round 11
+Shin  killed nataNk  in round 11
+Shin  killed beyAz  in round 11
+logaN killed Shin   in round 11
+MAGNUM killed logaN  in round 11
+Round 11 ended with spike_defuse. The winning team is Karmine Corp.
+The current score is Gentle Mates 2 - 9 Karmine Corp.
+marteen killed TakaS  in round 12
+nataNk killed marteen  in round 12
+nataNk killed N4RRATE  in round 12
+Tomaszy killed beyAz  in round 12
+Shin  killed nataNk  in round 12
+MAGNUM killed logaN  in round 12
+marteen killed Wailers  in round 12
+Round 12 ended with spike_defuse. The winning team is Karmine Corp.
+The current score is Gentle Mates 2 - 10 Karmine Corp.
+TakaS killed MAGNUM  in round 13
+Shin  killed TakaS  in round 13
+marteen killed beyAz  in round 13
+Wailers killed Shin   in round 13
+logaN killed marteen  in round 13
+logaN killed Tomaszy  in round 13
+Wailers killed N4RRATE  in round 13
+Round 13 ended with spike_defuse. The winning team is Gentle Mates.
+The current score is Gentle Mates 3 - 10 Karmine Corp.
+nataNk killed N4RRATE  in round 14
+Wailers killed Shin   in round 14
+MAGNUM killed beyAz  in round 14
+logaN killed MAGNUM  in round 14
+marteen killed Wailers  in round 14
+nataNk killed marteen  in round 14
+nataNk killed Tomaszy  in round 14
+Round 14 ended with elimination. The winning team is Gentle Mates.
+The current score is Gentle Mates 4 - 10 Karmine Corp.
+nataNk killed marteen  in round 15
+nataNk killed Shin   in round 15
+nataNk killed MAGNUM  in round 15
+N4RRATE killed logaN  in round 15
+Wailers killed N4RRATE  in round 15
+Tomaszy killed beyAz  in round 15
+TakaS killed Tomaszy  in round 15
+Round 15 ended with spike_defuse. The winning team is Gentle Mates.
+The current score is Gentle Mates 5 - 10 Karmine Corp.
+nataNk killed marteen  in round 16
+TakaS killed Shin   in round 16
+Tomaszy killed TakaS  in round 16
+Tomaszy killed Wailers  in round 16
+N4RRATE killed nataNk  in round 16
+MAGNUM killed beyAz  in round 16
+N4RRATE killed logaN  in round 16
+Round 16 ended with elimination. The winning team is Karmine Corp.
+The current score is Gentle Mates 5 - 11 Karmine Corp.
+Wailers killed N4RRATE  in round 17
+marteen killed beyAz  in round 17
+logaN killed Shin   in round 17
+TakaS killed marteen  in round 17
+Wailers killed Tomaszy  in round 17
+MAGNUM killed Wailers  in round 17
+TakaS killed MAGNUM  in round 17
+Round 17 ended with spike_defuse. The winning team is Gentle Mates.
+The current score is Gentle Mates 6 - 11 Karmine Corp.
+nataNk killed marteen  in round 18
+N4RRATE killed TakaS  in round 18
+nataNk killed Tomaszy  in round 18
+MAGNUM killed nataNk  in round 18
+N4RRATE killed logaN  in round 18
+MAGNUM killed Wailers  in round 18
+MAGNUM killed beyAz  in round 18
+Round 18 ended with elimination. The winning team is Karmine Corp.
+The current score is Gentle Mates 6 - 12 Karmine Corp.
+nataNk killed N4RRATE  in round 19
+MAGNUM killed nataNk  in round 19
+MAGNUM killed Wailers  in round 19
+logaN killed MAGNUM  in round 19
+Shin  killed beyAz  in round 19
+Tomaszy killed TakaS  in round 19
+logaN killed marteen  in round 19
+logaN killed Shin   in round 19
+Tomaszy killed logaN  in round 19
+Round 19 ended with elimination. The winning team is Karmine Corp.
+The current score is Gentle Mates 6 - 13 Karmine Corp.
+Game ended with winning team: Karmine Corp at 2024-04-12T19:31:01Z
+Tomaszy killed Tomaszy  in round 20
+
+--- Player Stats ---
+Shin : Team=Karmine Corp, Kills=12, Deaths=13, Assists=4, KDA=1.23, First Kills=0, First Deaths=1
+Tomaszy: Team=Karmine Corp, Kills=17, Deaths=9, Assists=6, KDA=2.56, First Kills=2, First Deaths=2
+MAGNUM: Team=Karmine Corp, Kills=18, Deaths=12, Assists=2, KDA=1.67, First Kills=0, First Deaths=1
+marteen: Team=Karmine Corp, Kills=14, Deaths=13, Assists=3, KDA=1.31, First Kills=2, First Deaths=5
+N4RRATE: Team=Karmine Corp, Kills=19, Deaths=10, Assists=7, KDA=2.6, First Kills=3, First Deaths=5
+Wailers: Team=Gentle Mates, Kills=9, Deaths=16, Assists=7, KDA=1.0, First Kills=2, First Deaths=1
+nataNk: Team=Gentle Mates, Kills=15, Deaths=14, Assists=5, KDA=1.43, First Kills=5, First Deaths=0
+beyAz: Team=Gentle Mates, Kills=3, Deaths=21, Assists=4, KDA=0.33, First Kills=2, First Deaths=1
+logaN: Team=Gentle Mates, Kills=19, Deaths=13, Assists=2, KDA=1.62, First Kills=1, First Deaths=0
+TakaS: Team=Gentle Mates, Kills=10, Deaths=15, Assists=5, KDA=1.0, First Kills=3, First Deaths=4

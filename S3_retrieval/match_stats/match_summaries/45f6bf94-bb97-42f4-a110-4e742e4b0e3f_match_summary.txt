@@ -1,0 +1,238 @@
+Team 1: G2 Esports
+Team 2: EDWARD Gaming
+Participating Players:
+Player 1: CHICHOO
+Player 2: ZmjjKK
+Player 3: S1Mon
+Player 4: nobody 
+Player 5: Smoggy
+Player 6: Leaf
+Player 7: icy
+Player 8: valyn
+Player 9: trent
+Player 10: JonahP
+Winning Team: G2 Esports
+Score: G2 Esports 13 - 11 EDWARD Gaming
+Tournament Name: vct champions 2024
+Game Start Time: 2024-08-07T12:15:21Z
+Game End Time: 2024-08-07T13:10:27Z
+Rounds ended by ELIMINATION count: 16
+Rounds ended by DEFUSE count: 4
+Rounds ended by DETONATE count: 3
+SPIKE PLANTED count: 7
+platformGameId: val:45f6bf94-bb97-42f4-a110-4e742e4b0e3f
+
+--- Events ---
+Game started at 2024-08-07T12:15:21Z
+CHICHOO killed Leaf  in round 1
+trent killed ZmjjKK  in round 1
+icy killed nobody   in round 1
+Smoggy killed icy  in round 1
+S1Mon killed trent  in round 1
+CHICHOO killed valyn  in round 1
+S1Mon killed JonahP  in round 1
+Round 1 ended with spike_defuse. The winning team is EDWARD Gaming.
+The current score is G2 Esports 0 - 1 EDWARD Gaming.
+CHICHOO killed JonahP  in round 2
+Leaf killed CHICHOO  in round 2
+S1Mon killed Leaf  in round 2
+Smoggy killed icy  in round 2
+ZmjjKK killed trent  in round 2
+valyn killed S1Mon  in round 2
+ZmjjKK killed valyn  in round 2
+Round 2 ended with elimination. The winning team is EDWARD Gaming.
+The current score is G2 Esports 0 - 2 EDWARD Gaming.
+JonahP killed S1Mon  in round 3
+Leaf killed ZmjjKK  in round 3
+CHICHOO killed Leaf  in round 3
+icy killed Smoggy  in round 3
+nobody  killed icy  in round 3
+trent killed nobody   in round 3
+CHICHOO killed trent  in round 3
+JonahP killed CHICHOO  in round 3
+Round 3 ended with elimination. The winning team is G2 Esports.
+The current score is G2 Esports 1 - 2 EDWARD Gaming.
+Leaf killed CHICHOO  in round 4
+Leaf killed nobody   in round 4
+trent killed ZmjjKK  in round 4
+JonahP killed S1Mon  in round 4
+Round 4 ended with detonate. The winning team is G2 Esports.
+The current score is G2 Esports 2 - 2 EDWARD Gaming.
+valyn killed nobody   in round 5
+icy killed CHICHOO  in round 5
+icy killed Smoggy  in round 5
+ZmjjKK killed icy  in round 5
+valyn killed S1Mon  in round 5
+Leaf killed ZmjjKK  in round 5
+Round 5 ended with elimination. The winning team is G2 Esports.
+The current score is G2 Esports 3 - 2 EDWARD Gaming.
+Leaf killed CHICHOO  in round 6
+Leaf killed Smoggy  in round 6
+valyn killed ZmjjKK  in round 6
+S1Mon killed valyn  in round 6
+icy killed nobody   in round 6
+Leaf killed S1Mon  in round 6
+Round 6 ended with elimination. The winning team is G2 Esports.
+The current score is G2 Esports 4 - 2 EDWARD Gaming.
+ZmjjKK killed icy  in round 7
+nobody  killed JonahP  in round 7
+ZmjjKK killed Leaf  in round 7
+ZmjjKK killed valyn  in round 7
+trent killed S1Mon  in round 7
+trent killed ZmjjKK  in round 7
+nobody  killed trent  in round 7
+Round 7 ended with elimination. The winning team is EDWARD Gaming.
+The current score is G2 Esports 4 - 3 EDWARD Gaming.
+Leaf killed ZmjjKK  in round 8
+trent killed nobody   in round 8
+CHICHOO killed Leaf  in round 8
+JonahP killed CHICHOO  in round 8
+valyn killed S1Mon  in round 8
+Smoggy killed trent  in round 8
+valyn killed Smoggy  in round 8
+Round 8 ended with elimination. The winning team is G2 Esports.
+The current score is G2 Esports 5 - 3 EDWARD Gaming.
+Leaf killed Smoggy  in round 9
+ZmjjKK killed trent  in round 9
+nobody  killed valyn  in round 9
+ZmjjKK killed JonahP  in round 9
+ZmjjKK killed Leaf  in round 9
+CHICHOO killed icy  in round 9
+Round 9 ended with elimination. The winning team is EDWARD Gaming.
+The current score is G2 Esports 5 - 4 EDWARD Gaming.
+Smoggy killed trent  in round 10
+Smoggy killed Leaf  in round 10
+nobody  killed JonahP  in round 10
+valyn killed ZmjjKK  in round 10
+S1Mon killed valyn  in round 10
+S1Mon killed icy  in round 10
+Round 10 ended with elimination. The winning team is EDWARD Gaming.
+The current score is G2 Esports 5 - 5 EDWARD Gaming.
+trent killed ZmjjKK  in round 11
+Smoggy killed icy  in round 11
+valyn killed Smoggy  in round 11
+S1Mon killed trent  in round 11
+CHICHOO killed Leaf  in round 11
+valyn killed nobody   in round 11
+S1Mon killed valyn  in round 11
+S1Mon killed JonahP  in round 11
+Round 11 ended with detonate. The winning team is G2 Esports.
+The current score is G2 Esports 6 - 5 EDWARD Gaming.
+CHICHOO killed CHICHOO  in round 12
+Smoggy killed icy  in round 12
+valyn killed Smoggy  in round 12
+ZmjjKK killed trent  in round 12
+ZmjjKK killed Leaf  in round 12
+nobody  killed JonahP  in round 12
+valyn killed ZmjjKK  in round 12
+nobody  killed valyn  in round 12
+Round 12 ended with elimination. The winning team is EDWARD Gaming.
+The current score is G2 Esports 6 - 6 EDWARD Gaming.
+trent killed ZmjjKK  in round 13
+icy killed Smoggy  in round 13
+trent killed S1Mon  in round 13
+CHICHOO killed icy  in round 13
+trent killed nobody   in round 13
+trent killed CHICHOO  in round 13
+Round 13 ended with elimination. The winning team is G2 Esports.
+The current score is G2 Esports 7 - 6 EDWARD Gaming.
+Leaf killed ZmjjKK  in round 14
+valyn killed Smoggy  in round 14
+JonahP killed S1Mon  in round 14
+JonahP killed CHICHOO  in round 14
+JonahP killed nobody   in round 14
+Round 14 ended with elimination. The winning team is G2 Esports.
+The current score is G2 Esports 8 - 6 EDWARD Gaming.
+ZmjjKK killed icy  in round 15
+trent killed ZmjjKK  in round 15
+nobody  killed trent  in round 15
+nobody  killed JonahP  in round 15
+Smoggy killed Leaf  in round 15
+valyn killed CHICHOO  in round 15
+valyn killed S1Mon  in round 15
+Smoggy killed valyn  in round 15
+Round 15 ended with elimination. The winning team is EDWARD Gaming.
+The current score is G2 Esports 8 - 7 EDWARD Gaming.
+ZmjjKK killed icy  in round 16
+nobody  killed JonahP  in round 16
+valyn killed Smoggy  in round 16
+ZmjjKK killed Leaf  in round 16
+Round 16 ended with detonate. The winning team is EDWARD Gaming.
+The current score is G2 Esports 8 - 8 EDWARD Gaming.
+CHICHOO killed trent  in round 17
+ZmjjKK killed JonahP  in round 17
+Smoggy killed Leaf  in round 17
+ZmjjKK killed icy  in round 17
+ZmjjKK killed valyn  in round 17
+Round 17 ended with elimination. The winning team is EDWARD Gaming.
+The current score is G2 Esports 8 - 9 EDWARD Gaming.
+Leaf killed S1Mon  in round 18
+ZmjjKK killed JonahP  in round 18
+nobody  killed Leaf  in round 18
+icy killed Smoggy  in round 18
+trent killed CHICHOO  in round 18
+ZmjjKK killed valyn  in round 18
+ZmjjKK killed icy  in round 18
+trent killed ZmjjKK  in round 18
+trent killed nobody   in round 18
+Round 18 ended with spike_defuse. The winning team is G2 Esports.
+The current score is G2 Esports 9 - 9 EDWARD Gaming.
+ZmjjKK killed trent  in round 19
+Leaf killed Smoggy  in round 19
+S1Mon killed icy  in round 19
+valyn killed CHICHOO  in round 19
+JonahP killed nobody   in round 19
+ZmjjKK killed Leaf  in round 19
+S1Mon killed JonahP  in round 19
+S1Mon killed valyn  in round 19
+Round 19 ended with elimination. The winning team is EDWARD Gaming.
+The current score is G2 Esports 9 - 10 EDWARD Gaming.
+ZmjjKK killed JonahP  in round 20
+trent killed ZmjjKK  in round 20
+nobody  killed valyn  in round 20
+S1Mon killed icy  in round 20
+nobody  killed trent  in round 20
+Leaf killed S1Mon  in round 20
+Smoggy killed Leaf  in round 20
+Round 20 ended with elimination. The winning team is EDWARD Gaming.
+The current score is G2 Esports 9 - 11 EDWARD Gaming.
+Leaf killed ZmjjKK  in round 21
+icy killed S1Mon  in round 21
+Leaf killed CHICHOO  in round 21
+valyn killed nobody   in round 21
+Leaf killed Smoggy  in round 21
+Round 21 ended with elimination. The winning team is G2 Esports.
+The current score is G2 Esports 10 - 11 EDWARD Gaming.
+icy killed nobody   in round 22
+Leaf killed ZmjjKK  in round 22
+icy killed Smoggy  in round 22
+icy killed CHICHOO  in round 22
+S1Mon killed Leaf  in round 22
+S1Mon killed JonahP  in round 22
+valyn killed S1Mon  in round 22
+Round 22 ended with spike_defuse. The winning team is G2 Esports.
+The current score is G2 Esports 11 - 11 EDWARD Gaming.
+valyn killed nobody   in round 23
+trent killed ZmjjKK  in round 23
+Smoggy killed JonahP  in round 23
+trent killed Smoggy  in round 23
+trent killed S1Mon  in round 23
+Round 23 ended with time_expired. The winning team is G2 Esports.
+The current score is G2 Esports 12 - 11 EDWARD Gaming.
+icy killed S1Mon  in round 24
+Round 24 ended with spike_defuse. The winning team is G2 Esports.
+The current score is G2 Esports 13 - 11 EDWARD Gaming.
+Smoggy killed trent  in round 25
+Game ended with winning team: G2 Esports at 2024-08-07T13:10:27Z
+
+--- Player Stats ---
+CHICHOO: Team=EDWARD Gaming, Kills=11, Deaths=14, Assists=4, KDA=1.07, First Kills=4, First Deaths=3
+ZmjjKK: Team=EDWARD Gaming, Kills=23, Deaths=18, Assists=1, KDA=1.33, First Kills=5, First Deaths=5
+S1Mon: Team=EDWARD Gaming, Kills=15, Deaths=16, Assists=8, KDA=1.44, First Kills=0, First Deaths=3
+nobody : Team=EDWARD Gaming, Kills=13, Deaths=14, Assists=5, KDA=1.29, First Kills=0, First Deaths=3
+Smoggy: Team=EDWARD Gaming, Kills=13, Deaths=15, Assists=6, KDA=1.27, First Kills=2, First Deaths=1
+Leaf: Team=G2 Esports, Kills=18, Deaths=16, Assists=2, KDA=1.25, First Kills=7, First Deaths=1
+icy: Team=G2 Esports, Kills=12, Deaths=16, Assists=2, KDA=0.88, First Kills=2, First Deaths=3
+valyn: Team=G2 Esports, Kills=19, Deaths=13, Assists=7, KDA=2.0, First Kills=2, First Deaths=0
+trent: Team=G2 Esports, Kills=19, Deaths=14, Assists=5, KDA=1.71, First Kills=2, First Deaths=4
+JonahP: Team=G2 Esports, Kills=8, Deaths=15, Assists=11, KDA=1.27, First Kills=1, First Deaths=2

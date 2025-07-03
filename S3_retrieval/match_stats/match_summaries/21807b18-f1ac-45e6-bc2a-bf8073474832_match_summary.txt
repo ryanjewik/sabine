@@ -1,0 +1,183 @@
+Team 1: NRG
+Team 2: 100 Thieves
+Participating Players:
+Player 1: Asuna
+Player 2: Cryo
+Player 3: stellar
+Player 4: Derrek
+Player 5: bangNA
+Player 6: crashies
+Player 7: Victor
+Player 8: FNS
+Player 9: s0m
+Player 10: ardiis
+Winning Team: NRG
+Score: NRG 13 - 3 100 Thieves
+Tournament Name: vct americas 2023
+Game Start Time: 2023-04-29T20:06:22Z
+Game End Time: 2023-04-29T20:43:16Z
+Rounds ended by ELIMINATION count: 13
+Rounds ended by DEFUSE count: 1
+Rounds ended by DETONATE count: 2
+SPIKE PLANTED count: 3
+platformGameId: val:21807b18-f1ac-45e6-bc2a-bf8073474832
+
+--- Events ---
+Game started at 2023-04-29T20:06:22Z
+crashies killed Cryo  in round 1
+Derrek killed FNS  in round 1
+ardiis killed bangNA  in round 1
+s0m killed Asuna  in round 1
+crashies killed stellar  in round 1
+crashies killed Derrek  in round 1
+Round 1 ended with elimination. The winning team is NRG.
+The current score is NRG 1 - 0 100 Thieves.
+Victor killed Cryo  in round 2
+stellar killed ardiis  in round 2
+Victor killed stellar  in round 2
+s0m killed Derrek  in round 2
+Asuna killed s0m  in round 2
+Round 2 ended with detonate. The winning team is NRG.
+The current score is NRG 2 - 0 100 Thieves.
+Asuna killed Asuna  in round 3
+bangNA killed bangNA  in round 3
+Cryo killed Victor  in round 3
+bangNA killed crashies  in round 3
+Derrek killed s0m  in round 3
+ardiis killed bangNA  in round 3
+Derrek killed ardiis  in round 3
+Derrek killed FNS  in round 3
+Round 3 ended with elimination. The winning team is 100 Thieves.
+The current score is NRG 2 - 1 100 Thieves.
+stellar killed s0m  in round 4
+Cryo killed ardiis  in round 4
+bangNA killed FNS  in round 4
+crashies killed stellar  in round 4
+crashies killed bangNA  in round 4
+Victor killed Asuna  in round 4
+crashies killed Derrek  in round 4
+crashies killed Cryo  in round 4
+Round 4 ended with elimination. The winning team is NRG.
+The current score is NRG 3 - 1 100 Thieves.
+s0m killed Cryo  in round 5
+s0m killed Derrek  in round 5
+bangNA killed ardiis  in round 5
+crashies killed bangNA  in round 5
+FNS killed stellar  in round 5
+s0m killed Asuna  in round 5
+Round 5 ended with elimination. The winning team is NRG.
+The current score is NRG 4 - 1 100 Thieves.
+ardiis killed Derrek  in round 6
+FNS killed stellar  in round 6
+ardiis killed bangNA  in round 6
+Asuna killed FNS  in round 6
+ardiis killed Cryo  in round 6
+Victor killed Asuna  in round 6
+Round 6 ended with elimination. The winning team is NRG.
+The current score is NRG 5 - 1 100 Thieves.
+ardiis killed bangNA  in round 7
+FNS killed Cryo  in round 7
+Asuna killed FNS  in round 7
+Victor killed Asuna  in round 7
+Round 7 ended with detonate. The winning team is NRG.
+The current score is NRG 6 - 1 100 Thieves.
+Derrek killed Victor  in round 8
+stellar killed ardiis  in round 8
+s0m killed stellar  in round 8
+bangNA killed Victor  in round 8
+crashies killed bangNA  in round 8
+crashies killed Asuna  in round 8
+Cryo killed FNS  in round 8
+s0m killed Cryo  in round 8
+s0m killed Derrek  in round 8
+Round 8 ended with elimination. The winning team is NRG.
+The current score is NRG 7 - 1 100 Thieves.
+Derrek killed crashies  in round 9
+FNS killed Derrek  in round 9
+ardiis killed stellar  in round 9
+ardiis killed bangNA  in round 9
+Cryo killed ardiis  in round 9
+s0m killed Asuna  in round 9
+FNS killed Cryo  in round 9
+Round 9 ended with elimination. The winning team is NRG.
+The current score is NRG 8 - 1 100 Thieves.
+stellar killed FNS  in round 10
+s0m killed stellar  in round 10
+s0m killed Cryo  in round 10
+Derrek killed s0m  in round 10
+crashies killed bangNA  in round 10
+Asuna killed ardiis  in round 10
+Asuna killed Victor  in round 10
+crashies killed Asuna  in round 10
+crashies killed Derrek  in round 10
+Round 10 ended with elimination. The winning team is NRG.
+The current score is NRG 9 - 1 100 Thieves.
+bangNA killed ardiis  in round 11
+Derrek killed crashies  in round 11
+Derrek killed FNS  in round 11
+Victor killed Asuna  in round 11
+Victor killed Cryo  in round 11
+s0m killed Derrek  in round 11
+Victor killed bangNA  in round 11
+Victor killed stellar  in round 11
+Round 11 ended with elimination. The winning team is NRG.
+The current score is NRG 10 - 1 100 Thieves.
+ardiis killed Asuna  in round 12
+Cryo killed crashies  in round 12
+Cryo killed ardiis  in round 12
+s0m killed stellar  in round 12
+s0m killed bangNA  in round 12
+Cryo killed s0m  in round 12
+Victor killed Derrek  in round 12
+FNS killed Cryo  in round 12
+Round 12 ended with elimination. The winning team is NRG.
+The current score is NRG 11 - 1 100 Thieves.
+FNS killed FNS  in round 13
+Victor killed Victor  in round 13
+Victor killed Cryo  in round 13
+FNS killed bangNA  in round 13
+Asuna killed FNS  in round 13
+Asuna killed Victor  in round 13
+ardiis killed Derrek  in round 13
+stellar killed ardiis  in round 13
+crashies killed stellar  in round 13
+crashies killed Asuna  in round 13
+Round 13 ended with spike_defuse. The winning team is NRG.
+The current score is NRG 12 - 1 100 Thieves.
+Cryo killed ardiis  in round 14
+bangNA killed Victor  in round 14
+s0m killed Derrek  in round 14
+bangNA killed s0m  in round 14
+FNS killed bangNA  in round 14
+Asuna killed FNS  in round 14
+Cryo killed crashies  in round 14
+Round 14 ended with elimination. The winning team is 100 Thieves.
+The current score is NRG 12 - 2 100 Thieves.
+Derrek killed crashies  in round 15
+Derrek killed s0m  in round 15
+stellar killed ardiis  in round 15
+Cryo killed Victor  in round 15
+Cryo killed FNS  in round 15
+Round 15 ended with elimination. The winning team is 100 Thieves.
+The current score is NRG 12 - 3 100 Thieves.
+Cryo killed s0m  in round 16
+crashies killed Cryo  in round 16
+FNS killed Asuna  in round 16
+FNS killed Derrek  in round 16
+crashies killed bangNA  in round 16
+FNS killed stellar  in round 16
+Round 16 ended with elimination. The winning team is NRG.
+The current score is NRG 13 - 3 100 Thieves.
+Game ended with winning team: NRG at 2023-04-29T20:43:16Z
+
+--- Player Stats ---
+Asuna: Team=100 Thieves, Kills=9, Deaths=13, Assists=3, KDA=0.92, First Kills=1, First Deaths=2
+Cryo: Team=100 Thieves, Kills=12, Deaths=13, Assists=3, KDA=1.15, First Kills=2, First Deaths=3
+stellar: Team=100 Thieves, Kills=6, Deaths=12, Assists=2, KDA=0.67, First Kills=2, First Deaths=0
+Derrek: Team=100 Thieves, Kills=11, Deaths=13, Assists=9, KDA=1.54, First Kills=3, First Deaths=1
+bangNA: Team=100 Thieves, Kills=8, Deaths=15, Assists=6, KDA=0.93, First Kills=1, First Deaths=1
+crashies: Team=NRG, Kills=17, Deaths=6, Assists=6, KDA=3.83, First Kills=1, First Deaths=2
+Victor: Team=NRG, Kills=12, Deaths=8, Assists=2, KDA=1.75, First Kills=1, First Deaths=1
+FNS: Team=NRG, Kills=12, Deaths=12, Assists=10, KDA=1.83, First Kills=1, First Deaths=2
+s0m: Team=NRG, Kills=15, Deaths=8, Assists=12, KDA=3.38, First Kills=1, First Deaths=2
+ardiis: Team=NRG, Kills=10, Deaths=12, Assists=1, KDA=0.92, First Kills=3, First Deaths=2

@@ -1,0 +1,294 @@
+Team 1: Trace Esports
+Team 2: FunPlus Phoenix
+Participating Players:
+Player 1: AAAAY
+Player 2: Lysoar
+Player 3: autumn 
+Player 4: BerLIN
+Player 5: Life2
+Player 6: FengF
+Player 7: Kai 
+Player 8: heybay
+Player 9: Biank
+Player 10: LuoK1ng
+Winning Team: Trace Esports
+Score: Trace Esports 15 - 13 FunPlus Phoenix
+Tournament Name: vct cn stage 2 2024
+Game Start Time: 2024-06-21T13:12:33Z
+Game End Time: 2024-06-21T14:16:31Z
+Rounds ended by ELIMINATION count: 19
+Rounds ended by DEFUSE count: 8
+Rounds ended by DETONATE count: 1
+SPIKE PLANTED count: 9
+platformGameId: val:d7b0587b-2c8e-4eba-9d93-138abc5dbde4
+
+--- Events ---
+Game started at 2024-06-21T13:12:33Z
+Kai  killed autumn   in round 1
+Kai  killed Life2  in round 1
+FengF killed AAAAY  in round 1
+BerLIN killed heybay  in round 1
+Kai  killed BerLIN  in round 1
+Lysoar killed Biank  in round 1
+Lysoar killed LuoK1ng  in round 1
+Kai  killed Lysoar  in round 1
+Round 1 ended with elimination. The winning team is Trace Esports.
+The current score is Trace Esports 1 - 0 FunPlus Phoenix.
+Life2 killed Kai   in round 2
+LuoK1ng killed BerLIN  in round 2
+LuoK1ng killed Life2  in round 2
+Lysoar killed LuoK1ng  in round 2
+autumn  killed Biank  in round 2
+FengF killed Lysoar  in round 2
+autumn  killed FengF  in round 2
+heybay killed autumn   in round 2
+heybay killed AAAAY  in round 2
+Round 2 ended with elimination. The winning team is Trace Esports.
+The current score is Trace Esports 2 - 0 FunPlus Phoenix.
+Life2 killed LuoK1ng  in round 3
+FengF killed Life2  in round 3
+Lysoar killed FengF  in round 3
+FengF killed AAAAY  in round 3
+autumn  killed Biank  in round 3
+autumn  killed Kai   in round 3
+heybay killed BerLIN  in round 3
+autumn  killed heybay  in round 3
+Round 3 ended with elimination. The winning team is FunPlus Phoenix.
+The current score is Trace Esports 2 - 1 FunPlus Phoenix.
+BerLIN killed Kai   in round 4
+BerLIN killed heybay  in round 4
+autumn  killed FengF  in round 4
+Biank killed autumn   in round 4
+Life2 killed Biank  in round 4
+Life2 killed LuoK1ng  in round 4
+Round 4 ended with elimination. The winning team is FunPlus Phoenix.
+The current score is Trace Esports 2 - 2 FunPlus Phoenix.
+Life2 killed Biank  in round 5
+Life2 killed Life2  in round 5
+Lysoar killed heybay  in round 5
+FengF killed AAAAY  in round 5
+Lysoar killed FengF  in round 5
+Kai  killed BerLIN  in round 5
+autumn  killed Kai   in round 5
+autumn  killed LuoK1ng  in round 5
+Round 5 ended with spike_defuse. The winning team is FunPlus Phoenix.
+The current score is Trace Esports 2 - 3 FunPlus Phoenix.
+AAAAY killed Kai   in round 6
+FengF killed BerLIN  in round 6
+autumn  killed Biank  in round 6
+autumn  killed heybay  in round 6
+LuoK1ng killed autumn   in round 6
+AAAAY killed FengF  in round 6
+LuoK1ng killed AAAAY  in round 6
+Lysoar killed LuoK1ng  in round 6
+Round 6 ended with spike_defuse. The winning team is FunPlus Phoenix.
+The current score is Trace Esports 2 - 4 FunPlus Phoenix.
+Life2 killed Kai   in round 7
+BerLIN killed FengF  in round 7
+Biank killed Life2  in round 7
+autumn  killed LuoK1ng  in round 7
+autumn  killed Biank  in round 7
+Lysoar killed heybay  in round 7
+Round 7 ended with elimination. The winning team is FunPlus Phoenix.
+The current score is Trace Esports 2 - 5 FunPlus Phoenix.
+Life2 killed Biank  in round 8
+Life2 killed heybay  in round 8
+LuoK1ng killed Life2  in round 8
+AAAAY killed FengF  in round 8
+AAAAY killed LuoK1ng  in round 8
+autumn  killed Kai   in round 8
+Round 8 ended with elimination. The winning team is FunPlus Phoenix.
+The current score is Trace Esports 2 - 6 FunPlus Phoenix.
+heybay killed Life2  in round 9
+heybay killed BerLIN  in round 9
+FengF killed Lysoar  in round 9
+FengF killed autumn   in round 9
+FengF killed AAAAY  in round 9
+Round 9 ended with elimination. The winning team is Trace Esports.
+The current score is Trace Esports 3 - 6 FunPlus Phoenix.
+Lysoar killed FengF  in round 10
+autumn  killed Kai   in round 10
+Biank killed AAAAY  in round 10
+autumn  killed heybay  in round 10
+autumn  killed Biank  in round 10
+LuoK1ng killed autumn   in round 10
+Life2 killed LuoK1ng  in round 10
+Round 10 ended with elimination. The winning team is FunPlus Phoenix.
+The current score is Trace Esports 3 - 7 FunPlus Phoenix.
+Life2 killed Biank  in round 11
+Life2 killed LuoK1ng  in round 11
+FengF killed BerLIN  in round 11
+Kai  killed autumn   in round 11
+AAAAY killed Kai   in round 11
+Life2 killed FengF  in round 11
+heybay killed Lysoar  in round 11
+heybay killed AAAAY  in round 11
+Life2 killed heybay  in round 11
+Round 11 ended with spike_defuse. The winning team is FunPlus Phoenix.
+The current score is Trace Esports 3 - 8 FunPlus Phoenix.
+BerLIN killed FengF  in round 12
+autumn  killed LuoK1ng  in round 12
+BerLIN killed Biank  in round 12
+autumn  killed heybay  in round 12
+BerLIN killed Kai   in round 12
+Round 12 ended with elimination. The winning team is FunPlus Phoenix.
+The current score is Trace Esports 3 - 9 FunPlus Phoenix.
+Biank killed Life2  in round 13
+Biank killed autumn   in round 13
+Kai  killed Lysoar  in round 13
+AAAAY killed Kai   in round 13
+LuoK1ng killed AAAAY  in round 13
+LuoK1ng killed BerLIN  in round 13
+Round 13 ended with elimination. The winning team is Trace Esports.
+The current score is Trace Esports 4 - 9 FunPlus Phoenix.
+FengF killed Life2  in round 14
+LuoK1ng killed AAAAY  in round 14
+Kai  killed BerLIN  in round 14
+heybay killed Lysoar  in round 14
+FengF killed autumn   in round 14
+Round 14 ended with elimination. The winning team is Trace Esports.
+The current score is Trace Esports 5 - 9 FunPlus Phoenix.
+LuoK1ng killed Lysoar  in round 15
+Biank killed Life2  in round 15
+FengF killed BerLIN  in round 15
+autumn  killed FengF  in round 15
+LuoK1ng killed autumn   in round 15
+AAAAY killed LuoK1ng  in round 15
+Kai  killed AAAAY  in round 15
+Round 15 ended with elimination. The winning team is Trace Esports.
+The current score is Trace Esports 6 - 9 FunPlus Phoenix.
+autumn  killed FengF  in round 16
+LuoK1ng killed BerLIN  in round 16
+Biank killed Life2  in round 16
+Biank killed Lysoar  in round 16
+Biank killed AAAAY  in round 16
+autumn  killed heybay  in round 16
+LuoK1ng killed autumn   in round 16
+Round 16 ended with elimination. The winning team is Trace Esports.
+The current score is Trace Esports 7 - 9 FunPlus Phoenix.
+autumn  killed FengF  in round 17
+autumn  killed Kai   in round 17
+Biank killed autumn   in round 17
+Life2 killed heybay  in round 17
+Lysoar killed LuoK1ng  in round 17
+BerLIN killed Biank  in round 17
+Round 17 ended with elimination. The winning team is FunPlus Phoenix.
+The current score is Trace Esports 7 - 10 FunPlus Phoenix.
+FengF killed Life2  in round 18
+FengF killed Lysoar  in round 18
+FengF killed AAAAY  in round 18
+Biank killed BerLIN  in round 18
+heybay killed autumn   in round 18
+Round 18 ended with elimination. The winning team is Trace Esports.
+The current score is Trace Esports 8 - 10 FunPlus Phoenix.
+Life2 killed Kai   in round 19
+Biank killed Life2  in round 19
+heybay killed AAAAY  in round 19
+heybay killed autumn   in round 19
+Biank killed BerLIN  in round 19
+FengF killed Lysoar  in round 19
+Round 19 ended with elimination. The winning team is Trace Esports.
+The current score is Trace Esports 9 - 10 FunPlus Phoenix.
+FengF killed Life2  in round 20
+autumn  killed Biank  in round 20
+Kai  killed autumn   in round 20
+Kai  killed AAAAY  in round 20
+heybay killed BerLIN  in round 20
+Lysoar killed LuoK1ng  in round 20
+FengF killed Lysoar  in round 20
+Round 20 ended with spike_defuse. The winning team is Trace Esports.
+The current score is Trace Esports 10 - 10 FunPlus Phoenix.
+heybay killed Life2  in round 21
+BerLIN killed heybay  in round 21
+Lysoar killed Biank  in round 21
+FengF killed Lysoar  in round 21
+Kai  killed autumn   in round 21
+LuoK1ng killed AAAAY  in round 21
+Kai  killed BerLIN  in round 21
+Round 21 ended with spike_defuse. The winning team is Trace Esports.
+The current score is Trace Esports 11 - 10 FunPlus Phoenix.
+Life2 killed FengF  in round 22
+LuoK1ng killed AAAAY  in round 22
+Lysoar killed LuoK1ng  in round 22
+Biank killed Lysoar  in round 22
+Kai  killed autumn   in round 22
+Life2 killed Kai   in round 22
+Life2 killed Biank  in round 22
+heybay killed Life2  in round 22
+heybay killed BerLIN  in round 22
+Round 22 ended with detonate. The winning team is FunPlus Phoenix.
+The current score is Trace Esports 11 - 11 FunPlus Phoenix.
+heybay killed heybay  in round 23
+FengF killed autumn   in round 23
+Life2 killed LuoK1ng  in round 23
+Life2 killed FengF  in round 23
+Biank killed AAAAY  in round 23
+BerLIN killed heybay  in round 23
+BerLIN killed Kai   in round 23
+Biank killed Life2  in round 23
+Lysoar killed Biank  in round 23
+Round 23 ended with elimination. The winning team is FunPlus Phoenix.
+The current score is Trace Esports 11 - 12 FunPlus Phoenix.
+FengF killed Life2  in round 24
+autumn  killed FengF  in round 24
+BerLIN killed heybay  in round 24
+Kai  killed AAAAY  in round 24
+autumn  killed Kai   in round 24
+Biank killed Lysoar  in round 24
+Biank killed BerLIN  in round 24
+Biank killed autumn   in round 24
+Round 24 ended with spike_defuse. The winning team is Trace Esports.
+The current score is Trace Esports 12 - 12 FunPlus Phoenix.
+Life2 killed Kai   in round 25
+Life2 killed Biank  in round 25
+Life2 killed heybay  in round 25
+Life2 killed LuoK1ng  in round 25
+FengF killed Life2  in round 25
+FengF killed AAAAY  in round 25
+FengF killed autumn   in round 25
+FengF killed BerLIN  in round 25
+Lysoar killed FengF  in round 25
+Round 25 ended with spike_defuse. The winning team is FunPlus Phoenix.
+The current score is Trace Esports 12 - 13 FunPlus Phoenix.
+Kai  killed Life2  in round 26
+heybay killed Lysoar  in round 26
+BerLIN killed Biank  in round 26
+FengF killed autumn   in round 26
+AAAAY killed FengF  in round 26
+LuoK1ng killed AAAAY  in round 26
+heybay killed BerLIN  in round 26
+Round 26 ended with elimination. The winning team is Trace Esports.
+The current score is Trace Esports 13 - 13 FunPlus Phoenix.
+FengF killed AAAAY  in round 27
+Kai  killed BerLIN  in round 27
+Life2 killed Kai   in round 27
+LuoK1ng killed Life2  in round 27
+autumn  killed LuoK1ng  in round 27
+autumn  killed Biank  in round 27
+FengF killed autumn   in round 27
+heybay killed Lysoar  in round 27
+Round 27 ended with elimination. The winning team is Trace Esports.
+The current score is Trace Esports 14 - 13 FunPlus Phoenix.
+Kai  killed BerLIN  in round 28
+Biank killed Life2  in round 28
+Lysoar killed Biank  in round 28
+FengF killed AAAAY  in round 28
+Lysoar killed FengF  in round 28
+heybay killed autumn   in round 28
+Lysoar killed heybay  in round 28
+Kai  killed Lysoar  in round 28
+Round 28 ended with spike_defuse. The winning team is Trace Esports.
+The current score is Trace Esports 15 - 13 FunPlus Phoenix.
+Game ended with winning team: Trace Esports at 2024-06-21T14:16:31Z
+
+--- Player Stats ---
+AAAAY: Team=FunPlus Phoenix, Kills=8, Deaths=23, Assists=7, KDA=0.65, First Kills=1, First Deaths=1
+Lysoar: Team=FunPlus Phoenix, Kills=18, Deaths=17, Assists=10, KDA=1.65, First Kills=1, First Deaths=1
+autumn : Team=FunPlus Phoenix, Kills=28, Deaths=23, Assists=1, KDA=1.26, First Kills=2, First Deaths=1
+BerLIN: Team=FunPlus Phoenix, Kills=13, Deaths=21, Assists=16, KDA=1.38, First Kills=2, First Deaths=1
+Life2: Team=FunPlus Phoenix, Kills=26, Deaths=22, Assists=4, KDA=1.36, First Kills=9, First Deaths=8
+FengF: Team=Trace Esports, Kills=30, Deaths=19, Assists=5, KDA=1.84, First Kills=5, First Deaths=5
+Kai : Team=Trace Esports, Kills=19, Deaths=18, Assists=4, KDA=1.28, First Kills=3, First Deaths=6
+heybay: Team=Trace Esports, Kills=20, Deaths=18, Assists=12, KDA=1.78, First Kills=3, First Deaths=1
+Biank: Team=Trace Esports, Kills=20, Deaths=20, Assists=13, KDA=1.65, First Kills=1, First Deaths=3
+LuoK1ng: Team=Trace Esports, Kills=17, Deaths=18, Assists=17, KDA=1.89, First Kills=1, First Deaths=1

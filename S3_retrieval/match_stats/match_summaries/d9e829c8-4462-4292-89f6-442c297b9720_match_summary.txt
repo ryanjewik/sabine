@@ -1,0 +1,237 @@
+Team 1: Gen.G Esports
+Team 2: T1
+Participating Players:
+Player 1: stax
+Player 2: Rossy
+Player 3: Xccurate
+Player 4: iZu
+Player 5: Sayaplayer
+Player 6: t3xture
+Player 7: Lakia
+Player 8: Munchkin
+Player 9: Meteor 
+Player 10: Karon
+Winning Team: Gen.G Esports
+Score: Gen.G Esports 13 - 9 T1
+Tournament Name: vct pacific stage 2 2024
+Game Start Time: 2024-06-16T10:10:38Z
+Game End Time: 2024-06-16T11:00:44Z
+Rounds ended by ELIMINATION count: 12
+Rounds ended by DEFUSE count: 4
+Rounds ended by DETONATE count: 5
+SPIKE PLANTED count: 9
+platformGameId: val:d9e829c8-4462-4292-89f6-442c297b9720
+
+--- Events ---
+Game started at 2024-06-16T10:10:38Z
+Munchkin killed Xccurate  in round 1
+t3xture killed Sayaplayer  in round 1
+t3xture killed stax  in round 1
+iZu killed t3xture  in round 1
+Meteor  killed iZu  in round 1
+Rossy killed Lakia  in round 1
+Rossy killed Meteor   in round 1
+Rossy killed Karon  in round 1
+Munchkin killed Rossy  in round 1
+Round 1 ended with elimination. The winning team is Gen.G Esports.
+The current score is Gen.G Esports 1 - 0 T1.
+Meteor  killed stax  in round 2
+Meteor  killed iZu  in round 2
+Xccurate killed Meteor   in round 2
+Karon killed Rossy  in round 2
+Round 2 ended with detonate. The winning team is Gen.G Esports.
+The current score is Gen.G Esports 2 - 0 T1.
+Sayaplayer killed Sayaplayer  in round 3
+Xccurate killed Xccurate  in round 3
+iZu killed t3xture  in round 3
+Lakia killed iZu  in round 3
+stax killed Lakia  in round 3
+stax killed Meteor   in round 3
+Sayaplayer killed Munchkin  in round 3
+Sayaplayer killed Karon  in round 3
+Round 3 ended with elimination. The winning team is T1.
+The current score is Gen.G Esports 2 - 1 T1.
+Meteor  killed stax  in round 4
+iZu killed t3xture  in round 4
+Karon killed iZu  in round 4
+Lakia killed Rossy  in round 4
+Karon killed Xccurate  in round 4
+Meteor  killed Sayaplayer  in round 4
+Round 4 ended with elimination. The winning team is Gen.G Esports.
+The current score is Gen.G Esports 3 - 1 T1.
+Xccurate killed t3xture  in round 5
+Lakia killed Xccurate  in round 5
+iZu killed Lakia  in round 5
+iZu killed Meteor   in round 5
+Sayaplayer killed Karon  in round 5
+iZu killed Munchkin  in round 5
+Round 5 ended with spike_defuse. The winning team is T1.
+The current score is Gen.G Esports 3 - 2 T1.
+iZu killed Lakia  in round 6
+Karon killed iZu  in round 6
+Meteor  killed Xccurate  in round 6
+t3xture killed Rossy  in round 6
+Sayaplayer killed Munchkin  in round 6
+Karon killed stax  in round 6
+Sayaplayer killed t3xture  in round 6
+Round 6 ended with detonate. The winning team is Gen.G Esports.
+The current score is Gen.G Esports 4 - 2 T1.
+t3xture killed iZu  in round 7
+stax killed Munchkin  in round 7
+Karon killed stax  in round 7
+Meteor  killed Sayaplayer  in round 7
+Xccurate killed Karon  in round 7
+Rossy killed t3xture  in round 7
+Round 7 ended with detonate. The winning team is Gen.G Esports.
+The current score is Gen.G Esports 5 - 2 T1.
+Sayaplayer killed t3xture  in round 8
+Lakia killed Sayaplayer  in round 8
+Munchkin killed stax  in round 8
+Rossy killed Munchkin  in round 8
+Lakia killed Rossy  in round 8
+Meteor  killed Xccurate  in round 8
+Karon killed iZu  in round 8
+Round 8 ended with elimination. The winning team is Gen.G Esports.
+The current score is Gen.G Esports 6 - 2 T1.
+iZu killed Lakia  in round 9
+stax killed t3xture  in round 9
+Rossy killed Munchkin  in round 9
+stax killed Meteor   in round 9
+stax killed Karon  in round 9
+Round 9 ended with elimination. The winning team is T1.
+The current score is Gen.G Esports 6 - 3 T1.
+iZu killed t3xture  in round 10
+iZu killed Meteor   in round 10
+Karon killed iZu  in round 10
+Karon killed Rossy  in round 10
+stax killed Karon  in round 10
+Lakia killed stax  in round 10
+Sayaplayer killed Lakia  in round 10
+Round 10 ended with time_expired. The winning team is T1.
+The current score is Gen.G Esports 6 - 4 T1.
+iZu killed Munchkin  in round 11
+Meteor  killed iZu  in round 11
+Xccurate killed Meteor   in round 11
+Karon killed Xccurate  in round 11
+Karon killed Sayaplayer  in round 11
+Karon killed stax  in round 11
+Lakia killed Rossy  in round 11
+Round 11 ended with elimination. The winning team is Gen.G Esports.
+The current score is Gen.G Esports 7 - 4 T1.
+t3xture killed iZu  in round 12
+stax killed Munchkin  in round 12
+stax killed t3xture  in round 12
+stax killed Karon  in round 12
+Meteor  killed Rossy  in round 12
+stax killed Lakia  in round 12
+stax killed Meteor   in round 12
+Round 12 ended with elimination. The winning team is T1.
+The current score is Gen.G Esports 7 - 5 T1.
+iZu killed Munchkin  in round 13
+Rossy killed Lakia  in round 13
+t3xture killed stax  in round 13
+Karon killed Xccurate  in round 13
+Sayaplayer killed Karon  in round 13
+Meteor  killed iZu  in round 13
+Meteor  killed Rossy  in round 13
+Sayaplayer killed Meteor   in round 13
+t3xture killed Sayaplayer  in round 13
+Round 13 ended with spike_defuse. The winning team is Gen.G Esports.
+The current score is Gen.G Esports 8 - 5 T1.
+t3xture killed Sayaplayer  in round 14
+Karon killed Xccurate  in round 14
+Lakia killed iZu  in round 14
+iZu killed Rossy  in round 14
+stax killed Meteor   in round 14
+Karon killed stax  in round 14
+Round 14 ended with elimination. The winning team is Gen.G Esports.
+The current score is Gen.G Esports 9 - 5 T1.
+iZu killed Munchkin  in round 15
+t3xture killed stax  in round 15
+Rossy killed Meteor   in round 15
+Lakia killed iZu  in round 15
+Xccurate killed t3xture  in round 15
+Karon killed Sayaplayer  in round 15
+Lakia killed Xccurate  in round 15
+Rossy killed Lakia  in round 15
+Rossy killed Karon  in round 15
+Round 15 ended with elimination. The winning team is T1.
+The current score is Gen.G Esports 9 - 6 T1.
+Karon killed iZu  in round 16
+Rossy killed Karon  in round 16
+t3xture killed Sayaplayer  in round 16
+Xccurate killed Lakia  in round 16
+Xccurate killed t3xture  in round 16
+Xccurate killed Munchkin  in round 16
+Xccurate killed Meteor   in round 16
+Round 16 ended with elimination. The winning team is T1.
+The current score is Gen.G Esports 9 - 7 T1.
+Rossy killed Meteor   in round 17
+Karon killed iZu  in round 17
+Karon killed Rossy  in round 17
+Sayaplayer killed t3xture  in round 17
+Karon killed Sayaplayer  in round 17
+stax killed Munchkin  in round 17
+Karon killed Xccurate  in round 17
+Karon killed stax  in round 17
+Round 17 ended with spike_defuse. The winning team is Gen.G Esports.
+The current score is Gen.G Esports 10 - 7 T1.
+t3xture killed iZu  in round 18
+Munchkin killed Xccurate  in round 18
+Munchkin killed Sayaplayer  in round 18
+Rossy killed Munchkin  in round 18
+Karon killed Rossy  in round 18
+stax killed Karon  in round 18
+t3xture killed stax  in round 18
+Round 18 ended with elimination. The winning team is Gen.G Esports.
+The current score is Gen.G Esports 11 - 7 T1.
+iZu killed t3xture  in round 19
+iZu killed Meteor   in round 19
+iZu killed Munchkin  in round 19
+Karon killed iZu  in round 19
+Lakia killed stax  in round 19
+Rossy killed Lakia  in round 19
+Round 19 ended with detonate. The winning team is T1.
+The current score is Gen.G Esports 11 - 8 T1.
+Meteor  killed Rossy  in round 20
+Meteor  killed Xccurate  in round 20
+stax killed Meteor   in round 20
+stax killed Lakia  in round 20
+iZu killed t3xture  in round 20
+Sayaplayer killed Karon  in round 20
+Round 20 ended with detonate. The winning team is T1.
+The current score is Gen.G Esports 11 - 9 T1.
+Karon killed Xccurate  in round 21
+Munchkin killed Sayaplayer  in round 21
+Rossy killed Karon  in round 21
+iZu killed Munchkin  in round 21
+Meteor  killed Rossy  in round 21
+stax killed Meteor   in round 21
+t3xture killed iZu  in round 21
+t3xture killed stax  in round 21
+Round 21 ended with elimination. The winning team is Gen.G Esports.
+The current score is Gen.G Esports 12 - 9 T1.
+Sayaplayer killed Meteor   in round 22
+Xccurate killed Munchkin  in round 22
+Sayaplayer killed Lakia  in round 22
+Karon killed Rossy  in round 22
+Karon killed Xccurate  in round 22
+Karon killed stax  in round 22
+Sayaplayer killed Karon  in round 22
+t3xture killed iZu  in round 22
+t3xture killed Sayaplayer  in round 22
+Round 22 ended with spike_defuse. The winning team is Gen.G Esports.
+The current score is Gen.G Esports 13 - 9 T1.
+Game ended with winning team: Gen.G Esports at 2024-06-16T11:00:44Z
+
+--- Player Stats ---
+stax: Team=T1, Kills=18, Deaths=16, Assists=11, KDA=1.81, First Kills=0, First Deaths=2
+Rossy: Team=T1, Kills=15, Deaths=15, Assists=4, KDA=1.27, First Kills=1, First Deaths=1
+Xccurate: Team=T1, Kills=11, Deaths=15, Assists=7, KDA=1.2, First Kills=1, First Deaths=2
+iZu: Team=T1, Kills=19, Deaths=19, Assists=7, KDA=1.37, First Kills=7, First Deaths=4
+Sayaplayer: Team=T1, Kills=15, Deaths=14, Assists=5, KDA=1.43, First Kills=3, First Deaths=2
+t3xture: Team=Gen.G Esports, Kills=16, Deaths=15, Assists=2, KDA=1.2, First Kills=4, First Deaths=4
+Lakia: Team=Gen.G Esports, Kills=11, Deaths=13, Assists=4, KDA=1.15, First Kills=0, First Deaths=2
+Munchkin: Team=Gen.G Esports, Kills=6, Deaths=16, Assists=16, KDA=1.38, First Kills=1, First Deaths=3
+Meteor : Team=Gen.G Esports, Kills=15, Deaths=17, Assists=10, KDA=1.47, First Kills=3, First Deaths=2
+Karon: Team=Gen.G Esports, Kills=28, Deaths=14, Assists=7, KDA=2.5, First Kills=2, First Deaths=0

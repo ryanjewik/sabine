@@ -1,0 +1,296 @@
+Team 1: KOI
+Team 2: Team Vitality
+Participating Players:
+Player 1: Destrian
+Player 2: Twisten
+Player 3: BONECOLD
+Player 4: MOLSI
+Player 5: ceNder
+Player 6: Trexx
+Player 7: starxo
+Player 8: koldamenta
+Player 9: Sheydos
+Player 10: Wolfen
+Winning Team: Team Vitality
+Score: KOI 13 - 15 Team Vitality
+Tournament Name: vct emea 2023
+Game Start Time: 2023-03-30T20:44:37Z
+Game End Time: 2023-03-30T21:45:25Z
+Rounds ended by ELIMINATION count: 17
+Rounds ended by DEFUSE count: 10
+Rounds ended by DETONATE count: 1
+SPIKE PLANTED count: 11
+platformGameId: val:9558bd03-dc14-494c-9c1f-7ea3c846fe64
+
+--- Events ---
+Game started at 2023-03-30T20:44:37Z
+MOLSI killed Trexx  in round 1
+Sheydos killed MOLSI  in round 1
+Twisten killed Sheydos  in round 1
+ceNder killed koldamenta  in round 1
+starxo killed ceNder  in round 1
+BONECOLD killed starxo  in round 1
+Twisten killed Wolfen  in round 1
+Round 1 ended with elimination. The winning team is Team Vitality.
+The current score is KOI 0 - 1 Team Vitality.
+Wolfen killed BONECOLD  in round 2
+koldamenta killed Destrian  in round 2
+starxo killed ceNder  in round 2
+Twisten killed starxo  in round 2
+koldamenta killed MOLSI  in round 2
+Twisten killed koldamenta  in round 2
+Round 2 ended with detonate. The winning team is KOI.
+The current score is KOI 1 - 1 Team Vitality.
+Trexx killed Twisten  in round 3
+Destrian killed Trexx  in round 3
+MOLSI killed starxo  in round 3
+koldamenta killed MOLSI  in round 3
+Destrian killed Sheydos  in round 3
+Wolfen killed Destrian  in round 3
+koldamenta killed ceNder  in round 3
+Wolfen killed BONECOLD  in round 3
+Round 3 ended with elimination. The winning team is KOI.
+The current score is KOI 2 - 1 Team Vitality.
+Trexx killed ceNder  in round 4
+MOLSI killed Trexx  in round 4
+starxo killed Twisten  in round 4
+Wolfen killed BONECOLD  in round 4
+Wolfen killed Destrian  in round 4
+MOLSI killed starxo  in round 4
+Wolfen killed MOLSI  in round 4
+Round 4 ended with elimination. The winning team is KOI.
+The current score is KOI 3 - 1 Team Vitality.
+Twisten killed Wolfen  in round 5
+BONECOLD killed starxo  in round 5
+Trexx killed ceNder  in round 5
+koldamenta killed BONECOLD  in round 5
+MOLSI killed koldamenta  in round 5
+Destrian killed Sheydos  in round 5
+Round 5 ended with spike_defuse. The winning team is Team Vitality.
+The current score is KOI 3 - 2 Team Vitality.
+BONECOLD killed Wolfen  in round 6
+Twisten killed starxo  in round 6
+BONECOLD killed Trexx  in round 6
+koldamenta killed ceNder  in round 6
+BONECOLD killed koldamenta  in round 6
+Sheydos killed MOLSI  in round 6
+Round 6 ended with spike_defuse. The winning team is Team Vitality.
+The current score is KOI 3 - 3 Team Vitality.
+starxo killed Twisten  in round 7
+ceNder killed Wolfen  in round 7
+ceNder killed starxo  in round 7
+Trexx killed ceNder  in round 7
+MOLSI killed Sheydos  in round 7
+Trexx killed Destrian  in round 7
+Trexx killed MOLSI  in round 7
+Trexx killed BONECOLD  in round 7
+Round 7 ended with elimination. The winning team is KOI.
+The current score is KOI 4 - 3 Team Vitality.
+Twisten killed Wolfen  in round 8
+Destrian killed koldamenta  in round 8
+Trexx killed MOLSI  in round 8
+Trexx killed Twisten  in round 8
+Sheydos killed Destrian  in round 8
+ceNder killed Trexx  in round 8
+BONECOLD killed starxo  in round 8
+ceNder killed Sheydos  in round 8
+Round 8 ended with spike_defuse. The winning team is Team Vitality.
+The current score is KOI 4 - 4 Team Vitality.
+ceNder killed Trexx  in round 9
+ceNder killed Wolfen  in round 9
+MOLSI killed koldamenta  in round 9
+Sheydos killed Destrian  in round 9
+starxo killed BONECOLD  in round 9
+ceNder killed starxo  in round 9
+ceNder killed Sheydos  in round 9
+Round 9 ended with elimination. The winning team is Team Vitality.
+The current score is KOI 4 - 5 Team Vitality.
+Twisten killed Wolfen  in round 10
+Twisten killed koldamenta  in round 10
+Destrian killed Sheydos  in round 10
+MOLSI killed Trexx  in round 10
+starxo killed Destrian  in round 10
+Twisten killed starxo  in round 10
+Round 10 ended with elimination. The winning team is Team Vitality.
+The current score is KOI 4 - 6 Team Vitality.
+ceNder killed koldamenta  in round 11
+Wolfen killed ceNder  in round 11
+Trexx killed BONECOLD  in round 11
+MOLSI killed Sheydos  in round 11
+MOLSI killed Trexx  in round 11
+Wolfen killed Destrian  in round 11
+MOLSI killed Wolfen  in round 11
+Twisten killed starxo  in round 11
+Round 11 ended with spike_defuse. The winning team is Team Vitality.
+The current score is KOI 4 - 7 Team Vitality.
+Trexx killed Destrian  in round 12
+MOLSI killed Wolfen  in round 12
+MOLSI killed Trexx  in round 12
+Sheydos killed MOLSI  in round 12
+BONECOLD killed Sheydos  in round 12
+ceNder killed starxo  in round 12
+koldamenta killed BONECOLD  in round 12
+Twisten killed koldamenta  in round 12
+Round 12 ended with elimination. The winning team is Team Vitality.
+The current score is KOI 4 - 8 Team Vitality.
+BONECOLD killed Wolfen  in round 13
+koldamenta killed ceNder  in round 13
+Trexx killed Twisten  in round 13
+Sheydos killed BONECOLD  in round 13
+Destrian killed starxo  in round 13
+Round 13 ended with spike_defuse. The winning team is KOI.
+The current score is KOI 5 - 8 Team Vitality.
+Trexx killed MOLSI  in round 14
+Destrian killed koldamenta  in round 14
+Trexx killed BONECOLD  in round 14
+Wolfen killed Destrian  in round 14
+Sheydos killed ceNder  in round 14
+Round 14 ended with spike_defuse. The winning team is KOI.
+The current score is KOI 6 - 8 Team Vitality.
+starxo killed Twisten  in round 15
+MOLSI killed starxo  in round 15
+Wolfen killed Twisten  in round 15
+Trexx killed Destrian  in round 15
+ceNder killed Sheydos  in round 15
+Trexx killed BONECOLD  in round 15
+MOLSI killed Trexx  in round 15
+koldamenta killed MOLSI  in round 15
+koldamenta killed ceNder  in round 15
+Round 15 ended with elimination. The winning team is KOI.
+The current score is KOI 7 - 8 Team Vitality.
+starxo killed Destrian  in round 16
+Trexx killed BONECOLD  in round 16
+Wolfen killed ceNder  in round 16
+Wolfen killed MOLSI  in round 16
+Wolfen killed Twisten  in round 16
+Round 16 ended with elimination. The winning team is KOI.
+The current score is KOI 8 - 8 Team Vitality.
+MOLSI killed Trexx  in round 17
+Sheydos killed BONECOLD  in round 17
+starxo killed MOLSI  in round 17
+Wolfen killed Destrian  in round 17
+ceNder killed starxo  in round 17
+Sheydos killed ceNder  in round 17
+Twisten killed Sheydos  in round 17
+Wolfen killed Twisten  in round 17
+Round 17 ended with spike_defuse. The winning team is KOI.
+The current score is KOI 9 - 8 Team Vitality.
+MOLSI killed Sheydos  in round 18
+Wolfen killed ceNder  in round 18
+MOLSI killed Trexx  in round 18
+Trexx killed MOLSI  in round 18
+Twisten killed Wolfen  in round 18
+starxo killed Twisten  in round 18
+BONECOLD killed koldamenta  in round 18
+Destrian killed starxo  in round 18
+Round 18 ended with elimination. The winning team is Team Vitality.
+The current score is KOI 9 - 9 Team Vitality.
+BONECOLD killed BONECOLD  in round 19
+Destrian killed Destrian  in round 19
+Wolfen killed Twisten  in round 19
+MOLSI killed koldamenta  in round 19
+Sheydos killed MOLSI  in round 19
+Destrian killed Trexx  in round 19
+BONECOLD killed starxo  in round 19
+Sheydos killed BONECOLD  in round 19
+Wolfen killed Destrian  in round 19
+ceNder killed Wolfen  in round 19
+ceNder killed Sheydos  in round 19
+Round 19 ended with elimination. The winning team is Team Vitality.
+The current score is KOI 9 - 10 Team Vitality.
+Twisten killed Trexx  in round 20
+Sheydos killed Twisten  in round 20
+koldamenta killed ceNder  in round 20
+BONECOLD killed koldamenta  in round 20
+starxo killed BONECOLD  in round 20
+Sheydos killed Destrian  in round 20
+Wolfen killed MOLSI  in round 20
+Round 20 ended with spike_defuse. The winning team is KOI.
+The current score is KOI 10 - 10 Team Vitality.
+starxo killed ceNder  in round 21
+Destrian killed Wolfen  in round 21
+Sheydos killed Destrian  in round 21
+Trexx killed BONECOLD  in round 21
+Twisten killed Sheydos  in round 21
+Trexx killed Twisten  in round 21
+starxo killed MOLSI  in round 21
+Round 21 ended with spike_defuse. The winning team is KOI.
+The current score is KOI 11 - 10 Team Vitality.
+Twisten killed starxo  in round 22
+BONECOLD killed koldamenta  in round 22
+Trexx killed Twisten  in round 22
+Sheydos killed MOLSI  in round 22
+BONECOLD killed Sheydos  in round 22
+Wolfen killed Destrian  in round 22
+Wolfen killed BONECOLD  in round 22
+Wolfen killed ceNder  in round 22
+Round 22 ended with spike_defuse. The winning team is KOI.
+The current score is KOI 12 - 10 Team Vitality.
+MOLSI killed Wolfen  in round 23
+Trexx killed Destrian  in round 23
+starxo killed BONECOLD  in round 23
+MOLSI killed Trexx  in round 23
+MOLSI killed starxo  in round 23
+Twisten killed koldamenta  in round 23
+ceNder killed Sheydos  in round 23
+Round 23 ended with elimination. The winning team is Team Vitality.
+The current score is KOI 12 - 11 Team Vitality.
+starxo killed MOLSI  in round 24
+Twisten killed Trexx  in round 24
+ceNder killed Sheydos  in round 24
+BONECOLD killed starxo  in round 24
+BONECOLD killed koldamenta  in round 24
+Wolfen killed Twisten  in round 24
+ceNder killed Wolfen  in round 24
+Round 24 ended with elimination. The winning team is Team Vitality.
+The current score is KOI 12 - 12 Team Vitality.
+Trexx killed MOLSI  in round 25
+Destrian killed Trexx  in round 25
+Sheydos killed Destrian  in round 25
+koldamenta killed Twisten  in round 25
+starxo killed ceNder  in round 25
+koldamenta killed BONECOLD  in round 25
+Round 25 ended with elimination. The winning team is KOI.
+The current score is KOI 13 - 12 Team Vitality.
+Twisten killed Trexx  in round 26
+Twisten killed starxo  in round 26
+koldamenta killed BONECOLD  in round 26
+Destrian killed koldamenta  in round 26
+Wolfen killed Destrian  in round 26
+Sheydos killed ceNder  in round 26
+Sheydos killed MOLSI  in round 26
+Twisten killed Wolfen  in round 26
+Twisten killed Sheydos  in round 26
+Round 26 ended with elimination. The winning team is Team Vitality.
+The current score is KOI 13 - 13 Team Vitality.
+ceNder killed Sheydos  in round 27
+ceNder killed Trexx  in round 27
+starxo killed BONECOLD  in round 27
+starxo killed ceNder  in round 27
+MOLSI killed koldamenta  in round 27
+Wolfen killed Destrian  in round 27
+Twisten killed starxo  in round 27
+Twisten killed Wolfen  in round 27
+Round 27 ended with elimination. The winning team is Team Vitality.
+The current score is KOI 13 - 14 Team Vitality.
+BONECOLD killed starxo  in round 28
+ceNder killed Trexx  in round 28
+Twisten killed koldamenta  in round 28
+Sheydos killed MOLSI  in round 28
+BONECOLD killed Sheydos  in round 28
+Twisten killed Wolfen  in round 28
+Round 28 ended with elimination. The winning team is Team Vitality.
+The current score is KOI 13 - 15 Team Vitality.
+Game ended with winning team: Team Vitality at 2023-03-30T21:45:25Z
+
+--- Player Stats ---
+Destrian: Team=Team Vitality, Kills=13, Deaths=22, Assists=14, KDA=1.23, First Kills=0, First Deaths=2
+Twisten: Team=Team Vitality, Kills=27, Deaths=16, Assists=4, KDA=1.94, First Kills=6, First Deaths=3
+BONECOLD: Team=Team Vitality, Kills=18, Deaths=22, Assists=17, KDA=1.59, First Kills=4, First Deaths=2
+MOLSI: Team=Team Vitality, Kills=23, Deaths=21, Assists=9, KDA=1.52, First Kills=4, First Deaths=3
+ceNder: Team=Team Vitality, Kills=21, Deaths=20, Assists=6, KDA=1.35, First Kills=3, First Deaths=2
+Trexx: Team=KOI, Kills=23, Deaths=20, Assists=3, KDA=1.3, First Kills=5, First Deaths=5
+starxo: Team=KOI, Kills=18, Deaths=23, Assists=12, KDA=1.3, First Kills=5, First Deaths=2
+koldamenta: Team=KOI, Kills=14, Deaths=19, Assists=11, KDA=1.32, First Kills=0, First Deaths=1
+Sheydos: Team=KOI, Kills=19, Deaths=20, Assists=10, KDA=1.45, First Kills=0, First Deaths=2
+Wolfen: Team=KOI, Kills=25, Deaths=18, Assists=4, KDA=1.61, First Kills=1, First Deaths=6

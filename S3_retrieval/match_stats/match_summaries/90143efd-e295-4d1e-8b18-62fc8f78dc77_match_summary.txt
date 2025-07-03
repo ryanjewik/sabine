@@ -1,0 +1,252 @@
+Team 1: JDG ESPORTS
+Team 2: TITAN ESPORTS CLUB
+Participating Players:
+Player 1: kawaii
+Player 2: None
+Player 3: Abo
+Player 4: AC
+Player 5: Rb
+Player 6: stew
+Player 7: Viva
+Player 8: YHchen
+Player 9: jkuro
+Player 10: Z1Yan
+Winning Team: JDG ESPORTS
+Score: JDG ESPORTS 13 - 11 TITAN ESPORTS CLUB
+Tournament Name: vct cn stage 2 2024
+Game Start Time: 2024-06-15T12:31:13Z
+Game End Time: 2024-06-15T13:27:32Z
+Rounds ended by ELIMINATION count: 15
+Rounds ended by DEFUSE count: 6
+Rounds ended by DETONATE count: 3
+SPIKE PLANTED count: 9
+platformGameId: val:90143efd-e295-4d1e-8b18-62fc8f78dc77
+
+--- Events ---
+Game started at 2024-06-15T12:31:13Z
+kawaii killed jkuro  in round 1
+stew killed kawaii  in round 1
+Abo killed Viva  in round 1
+YHchen killed Rb  in round 1
+Z1Yan killed None  in round 1
+Abo killed YHchen  in round 1
+stew killed Abo  in round 1
+AC killed Z1Yan  in round 1
+stew killed AC  in round 1
+Round 1 ended with elimination. The winning team is JDG ESPORTS.
+The current score is JDG ESPORTS 1 - 0 TITAN ESPORTS CLUB.
+Z1Yan killed Rb  in round 2
+AC killed stew  in round 2
+Viva killed Abo  in round 2
+Z1Yan killed kawaii  in round 2
+Z1Yan killed AC  in round 2
+None killed Z1Yan  in round 2
+YHchen killed None  in round 2
+Round 2 ended with elimination. The winning team is JDG ESPORTS.
+The current score is JDG ESPORTS 2 - 0 TITAN ESPORTS CLUB.
+None killed Z1Yan  in round 3
+YHchen killed None  in round 3
+Abo killed YHchen  in round 3
+Viva killed Abo  in round 3
+stew killed kawaii  in round 3
+stew killed AC  in round 3
+jkuro killed Rb  in round 3
+Round 3 ended with elimination. The winning team is JDG ESPORTS.
+The current score is JDG ESPORTS 3 - 0 TITAN ESPORTS CLUB.
+Rb killed jkuro  in round 4
+stew killed None  in round 4
+Rb killed Z1Yan  in round 4
+AC killed stew  in round 4
+Viva killed Rb  in round 4
+Viva killed AC  in round 4
+Viva killed Abo  in round 4
+kawaii killed Viva  in round 4
+Round 4 ended with detonate. The winning team is JDG ESPORTS.
+The current score is JDG ESPORTS 4 - 0 TITAN ESPORTS CLUB.
+stew killed kawaii  in round 5
+Abo killed stew  in round 5
+Viva killed Abo  in round 5
+AC killed jkuro  in round 5
+AC killed Viva  in round 5
+Rb killed Z1Yan  in round 5
+YHchen killed None  in round 5
+AC killed YHchen  in round 5
+Round 5 ended with spike_defuse. The winning team is TITAN ESPORTS CLUB.
+The current score is JDG ESPORTS 4 - 1 TITAN ESPORTS CLUB.
+Z1Yan killed AC  in round 6
+stew killed Rb  in round 6
+stew killed Abo  in round 6
+kawaii killed stew  in round 6
+Viva killed None  in round 6
+kawaii killed Z1Yan  in round 6
+kawaii killed Viva  in round 6
+YHchen killed kawaii  in round 6
+Round 6 ended with elimination. The winning team is JDG ESPORTS.
+The current score is JDG ESPORTS 5 - 1 TITAN ESPORTS CLUB.
+jkuro killed jkuro  in round 7
+AC killed Viva  in round 7
+jkuro killed AC  in round 7
+YHchen killed None  in round 7
+YHchen killed Abo  in round 7
+Rb killed jkuro  in round 7
+Rb killed Z1Yan  in round 7
+YHchen killed kawaii  in round 7
+stew killed Rb  in round 7
+Round 7 ended with elimination. The winning team is JDG ESPORTS.
+The current score is JDG ESPORTS 6 - 1 TITAN ESPORTS CLUB.
+Rb killed stew  in round 8
+YHchen killed Rb  in round 8
+jkuro killed kawaii  in round 8
+Abo killed jkuro  in round 8
+Round 8 ended with detonate. The winning team is JDG ESPORTS.
+The current score is JDG ESPORTS 7 - 1 TITAN ESPORTS CLUB.
+jkuro killed kawaii  in round 9
+Abo killed YHchen  in round 9
+Abo killed jkuro  in round 9
+stew killed Abo  in round 9
+None killed Viva  in round 9
+stew killed AC  in round 9
+Rb killed stew  in round 9
+Rb killed Z1Yan  in round 9
+Round 9 ended with spike_defuse. The winning team is TITAN ESPORTS CLUB.
+The current score is JDG ESPORTS 7 - 2 TITAN ESPORTS CLUB.
+stew killed Rb  in round 10
+Viva killed kawaii  in round 10
+AC killed YHchen  in round 10
+stew killed Abo  in round 10
+stew killed None  in round 10
+jkuro killed AC  in round 10
+Round 10 ended with elimination. The winning team is JDG ESPORTS.
+The current score is JDG ESPORTS 8 - 2 TITAN ESPORTS CLUB.
+stew killed Rb  in round 11
+jkuro killed kawaii  in round 11
+None killed jkuro  in round 11
+Z1Yan killed None  in round 11
+AC killed stew  in round 11
+Viva killed AC  in round 11
+Round 11 ended with detonate. The winning team is JDG ESPORTS.
+The current score is JDG ESPORTS 9 - 2 TITAN ESPORTS CLUB.
+Abo killed Abo  in round 12
+kawaii killed stew  in round 12
+Rb killed Viva  in round 12
+Z1Yan killed kawaii  in round 12
+AC killed Z1Yan  in round 12
+Abo killed jkuro  in round 12
+Abo killed YHchen  in round 12
+Round 12 ended with elimination. The winning team is TITAN ESPORTS CLUB.
+The current score is JDG ESPORTS 9 - 3 TITAN ESPORTS CLUB.
+Abo killed stew  in round 13
+jkuro killed None  in round 13
+YHchen killed Rb  in round 13
+Z1Yan killed Abo  in round 13
+AC killed jkuro  in round 13
+kawaii killed YHchen  in round 13
+Z1Yan killed kawaii  in round 13
+AC killed Viva  in round 13
+AC killed Z1Yan  in round 13
+Round 13 ended with elimination. The winning team is TITAN ESPORTS CLUB.
+The current score is JDG ESPORTS 9 - 4 TITAN ESPORTS CLUB.
+Abo killed Viva  in round 14
+kawaii killed YHchen  in round 14
+Abo killed Z1Yan  in round 14
+AC killed jkuro  in round 14
+Rb killed stew  in round 14
+Round 14 ended with elimination. The winning team is TITAN ESPORTS CLUB.
+The current score is JDG ESPORTS 9 - 5 TITAN ESPORTS CLUB.
+Viva killed Abo  in round 15
+jkuro killed AC  in round 15
+YHchen killed Rb  in round 15
+Z1Yan killed None  in round 15
+YHchen killed kawaii  in round 15
+Round 15 ended with spike_defuse. The winning team is JDG ESPORTS.
+The current score is JDG ESPORTS 10 - 5 TITAN ESPORTS CLUB.
+Z1Yan killed None  in round 16
+AC killed YHchen  in round 16
+jkuro killed AC  in round 16
+Z1Yan killed Abo  in round 16
+stew killed Rb  in round 16
+kawaii killed stew  in round 16
+Viva killed kawaii  in round 16
+Round 16 ended with spike_defuse. The winning team is JDG ESPORTS.
+The current score is JDG ESPORTS 11 - 5 TITAN ESPORTS CLUB.
+stew killed Rb  in round 17
+AC killed stew  in round 17
+YHchen killed None  in round 17
+AC killed YHchen  in round 17
+kawaii killed Viva  in round 17
+Z1Yan killed AC  in round 17
+kawaii killed jkuro  in round 17
+Rb killed Z1Yan  in round 17
+Round 17 ended with elimination. The winning team is TITAN ESPORTS CLUB.
+The current score is JDG ESPORTS 11 - 6 TITAN ESPORTS CLUB.
+stew killed AC  in round 18
+stew killed None  in round 18
+jkuro killed Rb  in round 18
+jkuro killed kawaii  in round 18
+Round 18 ended with spike_defuse. The winning team is JDG ESPORTS.
+The current score is JDG ESPORTS 12 - 6 TITAN ESPORTS CLUB.
+stew killed Abo  in round 19
+Z1Yan killed kawaii  in round 19
+Abo killed Z1Yan  in round 19
+jkuro killed AC  in round 19
+Rb killed jkuro  in round 19
+YHchen killed None  in round 19
+Rb killed YHchen  in round 19
+stew killed Rb  in round 19
+Abo killed stew  in round 19
+Abo killed Viva  in round 19
+Round 19 ended with elimination. The winning team is TITAN ESPORTS CLUB.
+The current score is JDG ESPORTS 12 - 7 TITAN ESPORTS CLUB.
+Rb killed stew  in round 20
+Rb killed Z1Yan  in round 20
+Rb killed YHchen  in round 20
+Rb killed Viva  in round 20
+Rb killed jkuro  in round 20
+Round 20 ended with elimination. The winning team is TITAN ESPORTS CLUB.
+The current score is JDG ESPORTS 12 - 8 TITAN ESPORTS CLUB.
+Abo killed jkuro  in round 21
+Abo killed YHchen  in round 21
+kawaii killed stew  in round 21
+Abo killed Z1Yan  in round 21
+Abo killed Viva  in round 21
+Round 21 ended with elimination. The winning team is TITAN ESPORTS CLUB.
+The current score is JDG ESPORTS 12 - 9 TITAN ESPORTS CLUB.
+Rb killed jkuro  in round 22
+None killed YHchen  in round 22
+Rb killed Z1Yan  in round 22
+Abo killed stew  in round 22
+kawaii killed Viva  in round 22
+Round 22 ended with elimination. The winning team is TITAN ESPORTS CLUB.
+The current score is JDG ESPORTS 12 - 10 TITAN ESPORTS CLUB.
+jkuro killed AC  in round 23
+None killed jkuro  in round 23
+YHchen killed kawaii  in round 23
+None killed YHchen  in round 23
+Abo killed stew  in round 23
+Rb killed Z1Yan  in round 23
+None killed Viva  in round 23
+Round 23 ended with elimination. The winning team is TITAN ESPORTS CLUB.
+The current score is JDG ESPORTS 12 - 11 TITAN ESPORTS CLUB.
+YHchen killed AC  in round 24
+Z1Yan killed Rb  in round 24
+kawaii killed Z1Yan  in round 24
+jkuro killed Abo  in round 24
+Viva killed None  in round 24
+kawaii killed jkuro  in round 24
+kawaii killed YHchen  in round 24
+Viva killed kawaii  in round 24
+Round 24 ended with spike_defuse. The winning team is JDG ESPORTS.
+The current score is JDG ESPORTS 13 - 11 TITAN ESPORTS CLUB.
+Game ended with winning team: JDG ESPORTS at 2024-06-15T13:27:32Z
+
+--- Player Stats ---
+kawaii: Team=TITAN ESPORTS CLUB, Kills=16, Deaths=18, Assists=5, KDA=1.17, First Kills=1, First Deaths=2
+None: Team=TITAN ESPORTS CLUB, Kills=8, Deaths=16, Assists=7, KDA=0.94, First Kills=1, First Deaths=1
+Abo: Team=TITAN ESPORTS CLUB, Kills=22, Deaths=15, Assists=5, KDA=1.8, First Kills=4, First Deaths=3
+AC: Team=TITAN ESPORTS CLUB, Kills=17, Deaths=16, Assists=5, KDA=1.38, First Kills=0, First Deaths=4
+Rb: Team=TITAN ESPORTS CLUB, Kills=21, Deaths=16, Assists=3, KDA=1.5, First Kills=4, First Deaths=4
+stew: Team=JDG ESPORTS, Kills=22, Deaths=17, Assists=3, KDA=1.47, First Kills=6, First Deaths=3
+Viva: Team=JDG ESPORTS, Kills=13, Deaths=15, Assists=4, KDA=1.13, First Kills=1, First Deaths=1
+YHchen: Team=JDG ESPORTS, Kills=16, Deaths=16, Assists=6, KDA=1.38, First Kills=1, First Deaths=0
+jkuro: Team=JDG ESPORTS, Kills=15, Deaths=18, Assists=8, KDA=1.28, First Kills=3, First Deaths=5
+Z1Yan: Team=JDG ESPORTS, Kills=15, Deaths=18, Assists=10, KDA=1.39, First Kills=3, First Deaths=1

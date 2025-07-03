@@ -1,0 +1,200 @@
+Team 1: KOI
+Team 2: Karmine Corp
+Participating Players:
+Player 1: Shin 
+Player 2: Tomaszy
+Player 3: MAGNUM
+Player 4: marteen
+Player 5: N4RRATE
+Player 6: Sheydos
+Player 7: kamo
+Player 8: Shadow 
+Player 9: starxo
+Player 10: GRUBINHO
+Winning Team: Karmine Corp
+Score: KOI 4 - 13 Karmine Corp
+Tournament Name: vct emea kickoff 2024
+Game Start Time: 2024-02-26T17:41:27Z
+Game End Time: 2024-02-26T18:32:19Z
+Rounds ended by ELIMINATION count: 8
+Rounds ended by DEFUSE count: 7
+Rounds ended by DETONATE count: 2
+SPIKE PLANTED count: 9
+platformGameId: val:0ae1f862-e029-4163-89b9-706b95aebe29
+
+--- Events ---
+Game started at 2024-02-26T17:41:27Z
+Shadow  killed Tomaszy  in round 1
+MAGNUM killed GRUBINHO  in round 1
+Sheydos killed marteen  in round 1
+N4RRATE killed kamo  in round 1
+N4RRATE killed Shadow   in round 1
+N4RRATE killed Sheydos  in round 1
+starxo killed Shin   in round 1
+N4RRATE killed starxo  in round 1
+Round 1 ended with spike_defuse. The winning team is Karmine Corp.
+The current score is KOI 0 - 1 Karmine Corp.
+marteen killed kamo  in round 2
+marteen killed starxo  in round 2
+Tomaszy killed Shadow   in round 2
+N4RRATE killed GRUBINHO  in round 2
+Tomaszy killed Sheydos  in round 2
+Round 2 ended with spike_defuse. The winning team is Karmine Corp.
+The current score is KOI 0 - 2 Karmine Corp.
+Shin  killed GRUBINHO  in round 3
+starxo killed MAGNUM  in round 3
+marteen killed kamo  in round 3
+starxo killed marteen  in round 3
+Shin  killed Shadow   in round 3
+N4RRATE killed Sheydos  in round 3
+Round 3 ended with spike_defuse. The winning team is Karmine Corp.
+The current score is KOI 0 - 3 Karmine Corp.
+starxo killed N4RRATE  in round 4
+Shin  killed starxo  in round 4
+marteen killed kamo  in round 4
+MAGNUM killed GRUBINHO  in round 4
+Shadow  killed Tomaszy  in round 4
+MAGNUM killed starxo  in round 4
+MAGNUM killed Sheydos  in round 4
+N4RRATE killed Shadow   in round 4
+Round 4 ended with spike_defuse. The winning team is Karmine Corp.
+The current score is KOI 0 - 4 Karmine Corp.
+Shin  killed kamo  in round 5
+marteen killed starxo  in round 5
+marteen killed marteen  in round 5
+Shadow  killed N4RRATE  in round 5
+Shin  killed GRUBINHO  in round 5
+MAGNUM killed Shadow   in round 5
+Sheydos killed Shin   in round 5
+Sheydos killed MAGNUM  in round 5
+Tomaszy killed Sheydos  in round 5
+Round 5 ended with spike_defuse. The winning team is Karmine Corp.
+The current score is KOI 0 - 5 Karmine Corp.
+GRUBINHO killed N4RRATE  in round 6
+MAGNUM killed GRUBINHO  in round 6
+kamo killed MAGNUM  in round 6
+Tomaszy killed Shadow   in round 6
+kamo killed Tomaszy  in round 6
+Shin  killed Sheydos  in round 6
+kamo killed marteen  in round 6
+Shin  killed kamo  in round 6
+starxo killed Shin   in round 6
+Round 6 ended with elimination. The winning team is KOI.
+The current score is KOI 1 - 5 Karmine Corp.
+kamo killed Tomaszy  in round 7
+N4RRATE killed kamo  in round 7
+marteen killed starxo  in round 7
+MAGNUM killed Shadow   in round 7
+GRUBINHO killed Shin   in round 7
+N4RRATE killed Sheydos  in round 7
+GRUBINHO killed marteen  in round 7
+MAGNUM killed GRUBINHO  in round 7
+Round 7 ended with spike_defuse. The winning team is Karmine Corp.
+The current score is KOI 1 - 6 Karmine Corp.
+kamo killed marteen  in round 8
+MAGNUM killed starxo  in round 8
+MAGNUM killed Shadow   in round 8
+kamo killed MAGNUM  in round 8
+N4RRATE killed kamo  in round 8
+GRUBINHO killed N4RRATE  in round 8
+GRUBINHO killed Shin   in round 8
+GRUBINHO killed Tomaszy  in round 8
+Round 8 ended with elimination. The winning team is KOI.
+The current score is KOI 2 - 6 Karmine Corp.
+N4RRATE killed Shadow   in round 9
+starxo killed MAGNUM  in round 9
+GRUBINHO killed Tomaszy  in round 9
+Shin  killed GRUBINHO  in round 9
+Sheydos killed Shin   in round 9
+N4RRATE killed Sheydos  in round 9
+kamo killed N4RRATE  in round 9
+marteen killed kamo  in round 9
+marteen killed starxo  in round 9
+Round 9 ended with detonate. The winning team is KOI.
+The current score is KOI 3 - 6 Karmine Corp.
+Tomaszy killed GRUBINHO  in round 10
+Shin  killed starxo  in round 10
+kamo killed Tomaszy  in round 10
+N4RRATE killed Shadow   in round 10
+Sheydos killed N4RRATE  in round 10
+Shin  killed kamo  in round 10
+MAGNUM killed Sheydos  in round 10
+Round 10 ended with spike_defuse. The winning team is Karmine Corp.
+The current score is KOI 3 - 7 Karmine Corp.
+MAGNUM killed kamo  in round 11
+starxo killed MAGNUM  in round 11
+N4RRATE killed Sheydos  in round 11
+N4RRATE killed starxo  in round 11
+Tomaszy killed GRUBINHO  in round 11
+Tomaszy killed Shadow   in round 11
+Round 11 ended with elimination. The winning team is Karmine Corp.
+The current score is KOI 3 - 8 Karmine Corp.
+kamo killed Shin   in round 12
+kamo killed Tomaszy  in round 12
+marteen killed Shadow   in round 12
+marteen killed kamo  in round 12
+starxo killed marteen  in round 12
+MAGNUM killed Sheydos  in round 12
+GRUBINHO killed MAGNUM  in round 12
+GRUBINHO killed N4RRATE  in round 12
+Round 12 ended with elimination. The winning team is KOI.
+The current score is KOI 4 - 8 Karmine Corp.
+N4RRATE killed kamo  in round 13
+N4RRATE killed Shadow   in round 13
+Shin  killed Sheydos  in round 13
+GRUBINHO killed Tomaszy  in round 13
+Shin  killed starxo  in round 13
+N4RRATE killed GRUBINHO  in round 13
+Round 13 ended with elimination. The winning team is Karmine Corp.
+The current score is KOI 4 - 9 Karmine Corp.
+Tomaszy killed starxo  in round 14
+N4RRATE killed kamo  in round 14
+N4RRATE killed GRUBINHO  in round 14
+Sheydos killed N4RRATE  in round 14
+Round 14 ended with detonate. The winning team is Karmine Corp.
+The current score is KOI 4 - 10 Karmine Corp.
+Shadow  killed Shadow   in round 15
+Sheydos killed Sheydos  in round 15
+Tomaszy killed kamo  in round 15
+Shin  killed GRUBINHO  in round 15
+Sheydos killed marteen  in round 15
+Shadow  killed Tomaszy  in round 15
+N4RRATE killed Sheydos  in round 15
+Shadow  killed N4RRATE  in round 15
+Shin  killed Shadow   in round 15
+starxo killed Shin   in round 15
+MAGNUM killed starxo  in round 15
+Round 15 ended with elimination. The winning team is Karmine Corp.
+The current score is KOI 4 - 11 Karmine Corp.
+starxo killed MAGNUM  in round 16
+GRUBINHO killed Tomaszy  in round 16
+marteen killed kamo  in round 16
+marteen killed Sheydos  in round 16
+Shin  killed Shadow   in round 16
+GRUBINHO killed Shin   in round 16
+GRUBINHO killed marteen  in round 16
+N4RRATE killed GRUBINHO  in round 16
+N4RRATE killed starxo  in round 16
+Round 16 ended with elimination. The winning team is Karmine Corp.
+The current score is KOI 4 - 12 Karmine Corp.
+MAGNUM killed kamo  in round 17
+N4RRATE killed starxo  in round 17
+GRUBINHO killed Shin   in round 17
+N4RRATE killed GRUBINHO  in round 17
+marteen killed Shadow   in round 17
+marteen killed Sheydos  in round 17
+Round 17 ended with elimination. The winning team is Karmine Corp.
+The current score is KOI 4 - 13 Karmine Corp.
+Game ended with winning team: Karmine Corp at 2024-02-26T18:32:19Z
+
+--- Player Stats ---
+Shin : Team=Karmine Corp, Kills=15, Deaths=10, Assists=4, KDA=1.9, First Kills=2, First Deaths=1
+Tomaszy: Team=Karmine Corp, Kills=9, Deaths=11, Assists=6, KDA=1.36, First Kills=2, First Deaths=2
+MAGNUM: Team=Karmine Corp, Kills=15, Deaths=8, Assists=5, KDA=2.5, First Kills=2, First Deaths=1
+marteen: Team=Karmine Corp, Kills=15, Deaths=9, Assists=11, KDA=2.89, First Kills=1, First Deaths=1
+N4RRATE: Team=Karmine Corp, Kills=25, Deaths=9, Assists=5, KDA=3.33, First Kills=2, First Deaths=2
+Sheydos: Team=KOI, Kills=8, Deaths=16, Assists=4, KDA=0.75, First Kills=0, First Deaths=0
+kamo: Team=KOI, Kills=10, Deaths=17, Assists=2, KDA=0.71, First Kills=3, First Deaths=5
+Shadow : Team=KOI, Kills=6, Deaths=17, Assists=3, KDA=0.53, First Kills=2, First Deaths=2
+starxo: Team=KOI, Kills=10, Deaths=15, Assists=6, KDA=1.07, First Kills=2, First Deaths=1
+GRUBINHO: Team=KOI, Kills=14, Deaths=15, Assists=4, KDA=1.2, First Kills=1, First Deaths=2

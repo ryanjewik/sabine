@@ -1,0 +1,177 @@
+Team 1: NRG
+Team 2: Cloud9 Blue
+Participating Players:
+Player 1: moose
+Player 2: vanity
+Player 3: Oxy
+Player 4: runi
+Player 5: xeppaa
+Player 6: Ethan
+Player 7: s0m
+Player 8: FNS
+Player 9: crashies
+Player 10: Victor
+Winning Team: NRG
+Score: NRG 13 - 3 Cloud9 Blue
+Tournament Name: vct americas stage 2 2024
+Game Start Time: 2024-07-07T23:03:50Z
+Game End Time: 2024-07-07T23:47:26Z
+Rounds ended by ELIMINATION count: 9
+Rounds ended by DEFUSE count: 3
+Rounds ended by DETONATE count: 4
+SPIKE PLANTED count: 7
+platformGameId: val:6c964c58-82b2-4002-9ec8-cea2882aaba7
+
+--- Events ---
+Game started at 2024-07-07T23:03:50Z
+moose killed Victor  in round 1
+Ethan killed moose  in round 1
+s0m killed xeppaa  in round 1
+vanity killed FNS  in round 1
+s0m killed Oxy  in round 1
+Ethan killed vanity  in round 1
+s0m killed runi  in round 1
+Round 1 ended with elimination. The winning team is NRG.
+The current score is NRG 1 - 0 Cloud9 Blue.
+Oxy killed crashies  in round 2
+FNS killed Oxy  in round 2
+FNS killed vanity  in round 2
+runi killed FNS  in round 2
+s0m killed xeppaa  in round 2
+Ethan killed runi  in round 2
+Round 2 ended with detonate. The winning team is NRG.
+The current score is NRG 2 - 0 Cloud9 Blue.
+moose killed moose  in round 3
+Victor killed vanity  in round 3
+xeppaa killed s0m  in round 3
+FNS killed moose  in round 3
+FNS killed runi  in round 3
+Ethan killed Oxy  in round 3
+Victor killed xeppaa  in round 3
+Round 3 ended with elimination. The winning team is NRG.
+The current score is NRG 3 - 0 Cloud9 Blue.
+s0m killed vanity  in round 4
+Oxy killed crashies  in round 4
+s0m killed moose  in round 4
+xeppaa killed Ethan  in round 4
+s0m killed Oxy  in round 4
+Victor killed xeppaa  in round 4
+s0m killed runi  in round 4
+Round 4 ended with elimination. The winning team is NRG.
+The current score is NRG 4 - 0 Cloud9 Blue.
+vanity killed Victor  in round 5
+s0m killed Oxy  in round 5
+crashies killed vanity  in round 5
+Round 5 ended with detonate. The winning team is NRG.
+The current score is NRG 5 - 0 Cloud9 Blue.
+xeppaa killed Victor  in round 6
+crashies killed xeppaa  in round 6
+Oxy killed s0m  in round 6
+Oxy killed Ethan  in round 6
+crashies killed Oxy  in round 6
+vanity killed crashies  in round 6
+FNS killed vanity  in round 6
+runi killed FNS  in round 6
+Round 6 ended with elimination. The winning team is Cloud9 Blue.
+The current score is NRG 5 - 1 Cloud9 Blue.
+Victor killed Oxy  in round 7
+crashies killed moose  in round 7
+runi killed s0m  in round 7
+xeppaa killed FNS  in round 7
+Victor killed runi  in round 7
+vanity killed crashies  in round 7
+Ethan killed xeppaa  in round 7
+Ethan killed vanity  in round 7
+Round 7 ended with elimination. The winning team is NRG.
+The current score is NRG 6 - 1 Cloud9 Blue.
+FNS killed xeppaa  in round 8
+Oxy killed FNS  in round 8
+moose killed Ethan  in round 8
+runi killed crashies  in round 8
+vanity killed Victor  in round 8
+Oxy killed s0m  in round 8
+Round 8 ended with spike_defuse. The winning team is Cloud9 Blue.
+The current score is NRG 6 - 2 Cloud9 Blue.
+vanity killed Ethan  in round 9
+Victor killed vanity  in round 9
+Victor killed xeppaa  in round 9
+FNS killed Oxy  in round 9
+runi killed FNS  in round 9
+Round 9 ended with detonate. The winning team is NRG.
+The current score is NRG 7 - 2 Cloud9 Blue.
+s0m killed Oxy  in round 10
+Ethan killed xeppaa  in round 10
+Victor killed runi  in round 10
+moose killed FNS  in round 10
+Round 10 ended with detonate. The winning team is NRG.
+The current score is NRG 8 - 2 Cloud9 Blue.
+moose killed Victor  in round 11
+s0m killed moose  in round 11
+vanity killed FNS  in round 11
+xeppaa killed crashies  in round 11
+vanity killed Ethan  in round 11
+s0m killed vanity  in round 11
+s0m killed Oxy  in round 11
+xeppaa killed s0m  in round 11
+Round 11 ended with elimination. The winning team is Cloud9 Blue.
+The current score is NRG 8 - 3 Cloud9 Blue.
+Victor killed vanity  in round 12
+xeppaa killed crashies  in round 12
+Ethan killed xeppaa  in round 12
+Ethan killed runi  in round 12
+Ethan killed Oxy  in round 12
+moose killed Victor  in round 12
+Ethan killed moose  in round 12
+Round 12 ended with elimination. The winning team is NRG.
+The current score is NRG 9 - 3 Cloud9 Blue.
+FNS killed Oxy  in round 13
+crashies killed vanity  in round 13
+runi killed FNS  in round 13
+crashies killed moose  in round 13
+runi killed crashies  in round 13
+Ethan killed xeppaa  in round 13
+runi killed Victor  in round 13
+Ethan killed runi  in round 13
+Round 13 ended with elimination. The winning team is NRG.
+The current score is NRG 10 - 3 Cloud9 Blue.
+Oxy killed s0m  in round 14
+Ethan killed Oxy  in round 14
+Ethan killed runi  in round 14
+xeppaa killed Victor  in round 14
+vanity killed Ethan  in round 14
+FNS killed vanity  in round 14
+FNS killed xeppaa  in round 14
+FNS killed moose  in round 14
+Round 14 ended with spike_defuse. The winning team is NRG.
+The current score is NRG 11 - 3 Cloud9 Blue.
+crashies killed Oxy  in round 15
+Victor killed runi  in round 15
+xeppaa killed FNS  in round 15
+s0m killed vanity  in round 15
+moose killed s0m  in round 15
+Victor killed xeppaa  in round 15
+Victor killed moose  in round 15
+Round 15 ended with elimination. The winning team is NRG.
+The current score is NRG 12 - 3 Cloud9 Blue.
+crashies killed runi  in round 16
+vanity killed crashies  in round 16
+Victor killed moose  in round 16
+Oxy killed Ethan  in round 16
+FNS killed Oxy  in round 16
+FNS killed xeppaa  in round 16
+Victor killed vanity  in round 16
+Round 16 ended with spike_defuse. The winning team is NRG.
+The current score is NRG 13 - 3 Cloud9 Blue.
+Game ended with winning team: NRG at 2024-07-07T23:47:26Z
+
+--- Player Stats ---
+moose: Team=Cloud9 Blue, Kills=7, Deaths=11, Assists=1, KDA=0.73, First Kills=3, First Deaths=1
+vanity: Team=Cloud9 Blue, Kills=10, Deaths=14, Assists=3, KDA=0.93, First Kills=2, First Deaths=2
+Oxy: Team=Cloud9 Blue, Kills=8, Deaths=15, Assists=3, KDA=0.73, First Kills=2, First Deaths=4
+runi: Team=Cloud9 Blue, Kills=8, Deaths=11, Assists=1, KDA=0.82, First Kills=0, First Deaths=1
+xeppaa: Team=Cloud9 Blue, Kills=9, Deaths=14, Assists=8, KDA=1.21, First Kills=1, First Deaths=1
+Ethan: Team=NRG, Kills=15, Deaths=7, Assists=10, KDA=3.57, First Kills=0, First Deaths=1
+s0m: Team=NRG, Kills=14, Deaths=7, Assists=7, KDA=3.0, First Kills=2, First Deaths=1
+FNS: Team=NRG, Kills=13, Deaths=10, Assists=4, KDA=1.7, First Kills=2, First Deaths=0
+crashies: Team=NRG, Kills=8, Deaths=9, Assists=4, KDA=1.33, First Kills=2, First Deaths=1
+Victor: Team=NRG, Kills=14, Deaths=8, Assists=2, KDA=2.0, First Kills=2, First Deaths=4

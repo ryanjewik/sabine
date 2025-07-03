@@ -1,0 +1,254 @@
+Team 1: Team Vitality
+Team 2: Giants
+Participating Players:
+Player 1: Fit1nho
+Player 2: nukkye
+Player 3: rhyme
+Player 4: Cloud
+Player 5: hoody
+Player 6: Destrian
+Player 7: Twisten
+Player 8: BONECOLD
+Player 9: MOLSI
+Player 10: ceNder
+Winning Team: Team Vitality
+Score: Team Vitality 13 - 10 Giants
+Tournament Name: vct emea 2023
+Game Start Time: 2023-05-10T20:13:50Z
+Game End Time: 2023-05-10T21:08:40Z
+Rounds ended by ELIMINATION count: 17
+Rounds ended by DEFUSE count: 4
+Rounds ended by DETONATE count: 1
+SPIKE PLANTED count: 5
+platformGameId: val:f4eb4903-f273-4943-aed6-02c50200e94e
+
+--- Events ---
+Game started at 2023-05-10T20:13:50Z
+Twisten killed hoody  in round 1
+MOLSI killed rhyme  in round 1
+ceNder killed nukkye  in round 1
+Cloud killed Twisten  in round 1
+BONECOLD killed Cloud  in round 1
+Fit1nho killed ceNder  in round 1
+MOLSI killed Fit1nho  in round 1
+Round 1 ended with elimination. The winning team is Team Vitality.
+The current score is Team Vitality 1 - 0 Giants.
+Twisten killed rhyme  in round 2
+BONECOLD killed nukkye  in round 2
+ceNder killed Fit1nho  in round 2
+Cloud killed ceNder  in round 2
+Destrian killed Cloud  in round 2
+hoody killed Destrian  in round 2
+MOLSI killed hoody  in round 2
+Round 2 ended with elimination. The winning team is Team Vitality.
+The current score is Team Vitality 2 - 0 Giants.
+MOLSI killed rhyme  in round 3
+nukkye killed ceNder  in round 3
+Fit1nho killed Destrian  in round 3
+MOLSI killed Fit1nho  in round 3
+Twisten killed Cloud  in round 3
+nukkye killed Twisten  in round 3
+MOLSI killed nukkye  in round 3
+BONECOLD killed hoody  in round 3
+Round 3 ended with elimination. The winning team is Team Vitality.
+The current score is Team Vitality 3 - 0 Giants.
+MOLSI killed Cloud  in round 4
+Twisten killed Fit1nho  in round 4
+ceNder killed hoody  in round 4
+ceNder killed nukkye  in round 4
+MOLSI killed rhyme  in round 4
+Round 4 ended with elimination. The winning team is Team Vitality.
+The current score is Team Vitality 4 - 0 Giants.
+ceNder killed Fit1nho  in round 5
+hoody killed MOLSI  in round 5
+nukkye killed ceNder  in round 5
+rhyme killed BONECOLD  in round 5
+hoody killed Destrian  in round 5
+Twisten killed Cloud  in round 5
+nukkye killed Twisten  in round 5
+Round 5 ended with elimination. The winning team is Giants.
+The current score is Team Vitality 4 - 1 Giants.
+nukkye killed Twisten  in round 6
+rhyme killed ceNder  in round 6
+BONECOLD killed hoody  in round 6
+nukkye killed BONECOLD  in round 6
+rhyme killed MOLSI  in round 6
+Fit1nho killed Destrian  in round 6
+Round 6 ended with elimination. The winning team is Giants.
+The current score is Team Vitality 4 - 2 Giants.
+Cloud killed Twisten  in round 7
+hoody killed Destrian  in round 7
+BONECOLD killed Fit1nho  in round 7
+nukkye killed ceNder  in round 7
+BONECOLD killed Cloud  in round 7
+nukkye killed BONECOLD  in round 7
+Destrian killed nukkye  in round 7
+hoody killed Destrian  in round 7
+hoody killed MOLSI  in round 7
+Round 7 ended with elimination. The winning team is Giants.
+The current score is Team Vitality 4 - 3 Giants.
+hoody killed Twisten  in round 8
+MOLSI killed rhyme  in round 8
+BONECOLD killed hoody  in round 8
+MOLSI killed Cloud  in round 8
+Fit1nho killed MOLSI  in round 8
+ceNder killed nukkye  in round 8
+Destrian killed Fit1nho  in round 8
+Round 8 ended with elimination. The winning team is Team Vitality.
+The current score is Team Vitality 5 - 3 Giants.
+Twisten killed hoody  in round 9
+Destrian killed nukkye  in round 9
+rhyme killed BONECOLD  in round 9
+rhyme killed MOLSI  in round 9
+Destrian killed rhyme  in round 9
+Destrian killed Fit1nho  in round 9
+ceNder killed Cloud  in round 9
+Round 9 ended with elimination. The winning team is Team Vitality.
+The current score is Team Vitality 6 - 3 Giants.
+rhyme killed BONECOLD  in round 10
+nukkye killed Twisten  in round 10
+hoody killed MOLSI  in round 10
+ceNder killed rhyme  in round 10
+Destrian killed hoody  in round 10
+Destrian killed nukkye  in round 10
+Cloud killed Destrian  in round 10
+ceNder killed Fit1nho  in round 10
+Cloud killed ceNder  in round 10
+Round 10 ended with spike_defuse. The winning team is Giants.
+The current score is Team Vitality 6 - 4 Giants.
+Twisten killed nukkye  in round 11
+hoody killed ceNder  in round 11
+Twisten killed rhyme  in round 11
+Fit1nho killed Twisten  in round 11
+BONECOLD killed hoody  in round 11
+Cloud killed BONECOLD  in round 11
+MOLSI killed Fit1nho  in round 11
+Cloud killed MOLSI  in round 11
+Destrian killed Cloud  in round 11
+Round 11 ended with elimination. The winning team is Team Vitality.
+The current score is Team Vitality 7 - 4 Giants.
+Fit1nho killed Twisten  in round 12
+rhyme killed BONECOLD  in round 12
+Cloud killed Destrian  in round 12
+Fit1nho killed MOLSI  in round 12
+ceNder killed hoody  in round 12
+Cloud killed ceNder  in round 12
+Round 12 ended with elimination. The winning team is Giants.
+The current score is Team Vitality 7 - 5 Giants.
+BONECOLD killed nukkye  in round 13
+hoody killed Destrian  in round 13
+rhyme killed MOLSI  in round 13
+hoody killed ceNder  in round 13
+BONECOLD killed Cloud  in round 13
+hoody killed Twisten  in round 13
+BONECOLD killed Fit1nho  in round 13
+rhyme killed BONECOLD  in round 13
+Round 13 ended with elimination. The winning team is Giants.
+The current score is Team Vitality 7 - 6 Giants.
+Cloud killed Twisten  in round 14
+BONECOLD killed Fit1nho  in round 14
+Cloud killed BONECOLD  in round 14
+hoody killed Destrian  in round 14
+ceNder killed nukkye  in round 14
+hoody killed ceNder  in round 14
+rhyme killed MOLSI  in round 14
+Round 14 ended with elimination. The winning team is Giants.
+The current score is Team Vitality 7 - 7 Giants.
+MOLSI killed rhyme  in round 15
+Cloud killed Twisten  in round 15
+hoody killed BONECOLD  in round 15
+Fit1nho killed ceNder  in round 15
+nukkye killed MOLSI  in round 15
+Round 15 ended with detonate. The winning team is Giants.
+The current score is Team Vitality 7 - 8 Giants.
+MOLSI killed Cloud  in round 16
+rhyme killed MOLSI  in round 16
+Twisten killed rhyme  in round 16
+nukkye killed Twisten  in round 16
+ceNder killed nukkye  in round 16
+hoody killed BONECOLD  in round 16
+hoody killed ceNder  in round 16
+Fit1nho killed Destrian  in round 16
+Round 16 ended with elimination. The winning team is Giants.
+The current score is Team Vitality 7 - 9 Giants.
+ceNder killed Cloud  in round 17
+ceNder killed Fit1nho  in round 17
+nukkye killed ceNder  in round 17
+Twisten killed rhyme  in round 17
+Destrian killed nukkye  in round 17
+MOLSI killed hoody  in round 17
+Round 17 ended with elimination. The winning team is Team Vitality.
+The current score is Team Vitality 8 - 9 Giants.
+BONECOLD killed hoody  in round 18
+BONECOLD killed Cloud  in round 18
+MOLSI killed Fit1nho  in round 18
+Destrian killed nukkye  in round 18
+rhyme killed BONECOLD  in round 18
+Round 18 ended with time_expired. The winning team is Team Vitality.
+The current score is Team Vitality 9 - 9 Giants.
+MOLSI killed rhyme  in round 19
+BONECOLD killed Fit1nho  in round 19
+Destrian killed Cloud  in round 19
+nukkye killed MOLSI  in round 19
+Destrian killed nukkye  in round 19
+rhyme killed BONECOLD  in round 19
+MOLSI killed hoody  in round 19
+rhyme killed ceNder  in round 19
+rhyme killed Twisten  in round 19
+rhyme killed Destrian  in round 19
+MOLSI killed rhyme  in round 19
+Round 19 ended with spike_defuse. The winning team is Team Vitality.
+The current score is Team Vitality 10 - 9 Giants.
+ceNder killed Fit1nho  in round 20
+Cloud killed ceNder  in round 20
+MOLSI killed Cloud  in round 20
+rhyme killed Destrian  in round 20
+nukkye killed MOLSI  in round 20
+nukkye killed BONECOLD  in round 20
+nukkye killed Twisten  in round 20
+Round 20 ended with elimination. The winning team is Giants.
+The current score is Team Vitality 10 - 10 Giants.
+Twisten killed rhyme  in round 21
+Twisten killed nukkye  in round 21
+hoody killed Twisten  in round 21
+MOLSI killed Fit1nho  in round 21
+hoody killed ceNder  in round 21
+MOLSI killed hoody  in round 21
+Destrian killed Cloud  in round 21
+Round 21 ended with elimination. The winning team is Team Vitality.
+The current score is Team Vitality 11 - 10 Giants.
+hoody killed ceNder  in round 22
+Destrian killed hoody  in round 22
+BONECOLD killed Cloud  in round 22
+BONECOLD killed rhyme  in round 22
+nukkye killed BONECOLD  in round 22
+nukkye killed Twisten  in round 22
+Fit1nho killed MOLSI  in round 22
+Destrian killed nukkye  in round 22
+Destrian killed Fit1nho  in round 22
+Round 22 ended with spike_defuse. The winning team is Team Vitality.
+The current score is Team Vitality 12 - 10 Giants.
+Twisten killed Cloud  in round 23
+Destrian killed nukkye  in round 23
+MOLSI killed hoody  in round 23
+Fit1nho killed MOLSI  in round 23
+rhyme killed BONECOLD  in round 23
+Destrian killed Fit1nho  in round 23
+rhyme killed Destrian  in round 23
+rhyme killed Twisten  in round 23
+ceNder killed rhyme  in round 23
+Round 23 ended with spike_defuse. The winning team is Team Vitality.
+The current score is Team Vitality 13 - 10 Giants.
+Game ended with winning team: Team Vitality at 2023-05-10T21:08:40Z
+
+--- Player Stats ---
+Fit1nho: Team=Giants, Kills=11, Deaths=19, Assists=11, KDA=1.16, First Kills=1, First Deaths=2
+nukkye: Team=Giants, Kills=18, Deaths=18, Assists=6, KDA=1.33, First Kills=1, First Deaths=2
+rhyme: Team=Giants, Kills=20, Deaths=16, Assists=8, KDA=1.75, First Kills=1, First Deaths=5
+Cloud: Team=Giants, Kills=13, Deaths=18, Assists=4, KDA=0.94, First Kills=2, First Deaths=4
+hoody: Team=Giants, Kills=20, Deaths=16, Assists=10, KDA=1.88, First Kills=2, First Deaths=3
+Destrian: Team=Team Vitality, Kills=19, Deaths=14, Assists=14, KDA=2.36, First Kills=0, First Deaths=0
+Twisten: Team=Team Vitality, Kills=13, Deaths=18, Assists=2, KDA=0.83, First Kills=6, First Deaths=5
+BONECOLD: Team=Team Vitality, Kills=17, Deaths=16, Assists=10, KDA=1.69, First Kills=2, First Deaths=1
+MOLSI: Team=Team Vitality, Kills=22, Deaths=16, Assists=8, KDA=1.88, First Kills=5, First Deaths=0
+ceNder: Team=Team Vitality, Kills=16, Deaths=18, Assists=4, KDA=1.11, First Kills=3, First Deaths=1

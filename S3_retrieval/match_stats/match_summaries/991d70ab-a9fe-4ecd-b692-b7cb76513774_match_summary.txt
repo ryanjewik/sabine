@@ -1,0 +1,176 @@
+Team 1: MIBR
+Team 2: Evil Geniuses
+Participating Players:
+Player 1: JAWGEMO
+Player 2: Derrek
+Player 3: NaturE
+Player 4: Apoth
+Player 5: supamen
+Player 6: Palla
+Player 7: Rich 
+Player 8: mazin
+Player 9: artzin
+Player 10: liazzi
+Winning Team: MIBR
+Score: MIBR 13 - 2 Evil Geniuses
+Tournament Name: vct americas stage 2 2024
+Game Start Time: 2024-07-13T22:09:26Z
+Game End Time: 2024-07-13T22:45:00Z
+Rounds ended by ELIMINATION count: 10
+Rounds ended by DEFUSE count: 4
+Rounds ended by DETONATE count: 1
+SPIKE PLANTED count: 5
+platformGameId: val:991d70ab-a9fe-4ecd-b692-b7cb76513774
+
+--- Events ---
+Game started at 2024-07-13T22:09:26Z
+mazin killed supamen  in round 1
+Palla killed JAWGEMO  in round 1
+Palla killed NaturE  in round 1
+Rich  killed Derrek  in round 1
+liazzi killed Apoth  in round 1
+Round 1 ended with elimination. The winning team is MIBR.
+The current score is MIBR 1 - 0 Evil Geniuses.
+Palla killed Derrek  in round 2
+supamen killed Palla  in round 2
+mazin killed JAWGEMO  in round 2
+mazin killed NaturE  in round 2
+Rich  killed supamen  in round 2
+Rich  killed Apoth  in round 2
+Round 2 ended with elimination. The winning team is MIBR.
+The current score is MIBR 2 - 0 Evil Geniuses.
+mazin killed Apoth  in round 3
+Rich  killed NaturE  in round 3
+Palla killed supamen  in round 3
+liazzi killed JAWGEMO  in round 3
+Palla killed Derrek  in round 3
+Round 3 ended with elimination. The winning team is MIBR.
+The current score is MIBR 3 - 0 Evil Geniuses.
+Palla killed Apoth  in round 4
+JAWGEMO killed Palla  in round 4
+Rich  killed JAWGEMO  in round 4
+Derrek killed mazin  in round 4
+artzin killed NaturE  in round 4
+liazzi killed Derrek  in round 4
+supamen killed Rich   in round 4
+liazzi killed supamen  in round 4
+Round 4 ended with elimination. The winning team is MIBR.
+The current score is MIBR 4 - 0 Evil Geniuses.
+liazzi killed JAWGEMO  in round 5
+mazin killed Apoth  in round 5
+Derrek killed Rich   in round 5
+Palla killed Derrek  in round 5
+artzin killed NaturE  in round 5
+supamen killed Palla  in round 5
+mazin killed supamen  in round 5
+Round 5 ended with elimination. The winning team is MIBR.
+The current score is MIBR 5 - 0 Evil Geniuses.
+artzin killed supamen  in round 6
+JAWGEMO killed artzin  in round 6
+Palla killed JAWGEMO  in round 6
+liazzi killed Derrek  in round 6
+mazin killed NaturE  in round 6
+Palla killed Apoth  in round 6
+Round 6 ended with elimination. The winning team is MIBR.
+The current score is MIBR 6 - 0 Evil Geniuses.
+JAWGEMO killed liazzi  in round 7
+Palla killed Apoth  in round 7
+JAWGEMO killed artzin  in round 7
+JAWGEMO killed Palla  in round 7
+Rich  killed JAWGEMO  in round 7
+Derrek killed Rich   in round 7
+mazin killed Derrek  in round 7
+supamen killed mazin  in round 7
+Round 7 ended with spike_defuse. The winning team is Evil Geniuses.
+The current score is MIBR 6 - 1 Evil Geniuses.
+Palla killed JAWGEMO  in round 8
+mazin killed Apoth  in round 8
+NaturE killed Rich   in round 8
+Derrek killed Palla  in round 8
+Derrek killed liazzi  in round 8
+artzin killed Derrek  in round 8
+artzin killed NaturE  in round 8
+supamen killed artzin  in round 8
+supamen killed mazin  in round 8
+Round 8 ended with detonate. The winning team is MIBR.
+The current score is MIBR 7 - 1 Evil Geniuses.
+Palla killed Apoth  in round 9
+supamen killed mazin  in round 9
+Palla killed supamen  in round 9
+artzin killed JAWGEMO  in round 9
+Derrek killed Palla  in round 9
+Rich  killed Derrek  in round 9
+artzin killed NaturE  in round 9
+Round 9 ended with elimination. The winning team is MIBR.
+The current score is MIBR 8 - 1 Evil Geniuses.
+Derrek killed Palla  in round 10
+liazzi killed Derrek  in round 10
+artzin killed JAWGEMO  in round 10
+mazin killed NaturE  in round 10
+mazin killed Apoth  in round 10
+mazin killed supamen  in round 10
+Round 10 ended with elimination. The winning team is MIBR.
+The current score is MIBR 9 - 1 Evil Geniuses.
+mazin killed JAWGEMO  in round 11
+mazin killed supamen  in round 11
+Palla killed Derrek  in round 11
+NaturE killed artzin  in round 11
+NaturE killed Palla  in round 11
+Rich  killed NaturE  in round 11
+Rich  killed Apoth  in round 11
+Round 11 ended with elimination. The winning team is MIBR.
+The current score is MIBR 10 - 1 Evil Geniuses.
+Palla killed supamen  in round 12
+JAWGEMO killed mazin  in round 12
+Palla killed JAWGEMO  in round 12
+Apoth killed Palla  in round 12
+artzin killed Derrek  in round 12
+NaturE killed liazzi  in round 12
+Apoth killed Rich   in round 12
+artzin killed Apoth  in round 12
+NaturE killed artzin  in round 12
+Round 12 ended with spike_defuse. The winning team is Evil Geniuses.
+The current score is MIBR 10 - 2 Evil Geniuses.
+mazin killed Apoth  in round 13
+liazzi killed supamen  in round 13
+NaturE killed mazin  in round 13
+liazzi killed Derrek  in round 13
+JAWGEMO killed liazzi  in round 13
+artzin killed NaturE  in round 13
+Rich  killed JAWGEMO  in round 13
+Round 13 ended with elimination. The winning team is MIBR.
+The current score is MIBR 11 - 2 Evil Geniuses.
+liazzi killed JAWGEMO  in round 14
+NaturE killed artzin  in round 14
+Rich  killed Apoth  in round 14
+Derrek killed Rich   in round 14
+liazzi killed NaturE  in round 14
+Derrek killed liazzi  in round 14
+supamen killed mazin  in round 14
+Palla killed Derrek  in round 14
+Palla killed supamen  in round 14
+Round 14 ended with spike_defuse. The winning team is MIBR.
+The current score is MIBR 12 - 2 Evil Geniuses.
+supamen killed Palla  in round 15
+artzin killed supamen  in round 15
+artzin killed Apoth  in round 15
+JAWGEMO killed mazin  in round 15
+artzin killed Derrek  in round 15
+NaturE killed liazzi  in round 15
+Rich  killed NaturE  in round 15
+Rich  killed JAWGEMO  in round 15
+Round 15 ended with spike_defuse. The winning team is MIBR.
+The current score is MIBR 13 - 2 Evil Geniuses.
+Game ended with winning team: MIBR at 2024-07-13T22:45:00Z
+
+--- Player Stats ---
+JAWGEMO: Team=Evil Geniuses, Kills=8, Deaths=15, Assists=2, KDA=0.67, First Kills=1, First Deaths=4
+Derrek: Team=Evil Geniuses, Kills=9, Deaths=15, Assists=2, KDA=0.73, First Kills=1, First Deaths=1
+NaturE: Team=Evil Geniuses, Kills=8, Deaths=13, Assists=3, KDA=0.85, First Kills=0, First Deaths=0
+Apoth: Team=Evil Geniuses, Kills=2, Deaths=15, Assists=1, KDA=0.2, First Kills=0, First Deaths=4
+supamen: Team=Evil Geniuses, Kills=9, Deaths=13, Assists=1, KDA=0.77, First Kills=1, First Deaths=3
+Palla: Team=MIBR, Kills=18, Deaths=10, Assists=3, KDA=2.1, First Kills=5, First Deaths=2
+Rich : Team=MIBR, Kills=13, Deaths=6, Assists=7, KDA=3.33, First Kills=0, First Deaths=0
+mazin: Team=MIBR, Kills=15, Deaths=8, Assists=7, KDA=2.75, First Kills=4, First Deaths=0
+artzin: Team=MIBR, Kills=14, Deaths=6, Assists=7, KDA=3.5, First Kills=1, First Deaths=0
+liazzi: Team=MIBR, Kills=11, Deaths=6, Assists=1, KDA=2.0, First Kills=2, First Deaths=1

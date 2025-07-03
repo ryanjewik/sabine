@@ -1,0 +1,243 @@
+Team 1: DetonatioN FocusMe
+Team 2: T1
+Participating Players:
+Player 1: Xccurate
+Player 2: Rossy
+Player 3: carpe
+Player 4: iZu
+Player 5: Sayaplayer
+Player 6: SSeeS
+Player 7: Meiy
+Player 8: Anthem
+Player 9: Medusa
+Player 10: neth
+Winning Team: DetonatioN FocusMe
+Score: DetonatioN FocusMe 13 - 10 T1
+Tournament Name: vct pacific stage 1 2024
+Game Start Time: 2024-04-09T10:20:14Z
+Game End Time: 2024-04-09T11:21:39Z
+Rounds ended by ELIMINATION count: 14
+Rounds ended by DEFUSE count: 3
+Rounds ended by DETONATE count: 1
+SPIKE PLANTED count: 4
+platformGameId: val:af152cc6-bd7b-4338-96e1-69eeb0057741
+
+--- Events ---
+Game started at 2024-04-09T10:20:14Z
+Sayaplayer killed neth  in round 1
+Meiy killed iZu  in round 1
+Medusa killed carpe  in round 1
+Xccurate killed Meiy  in round 1
+Anthem killed Xccurate  in round 1
+Medusa killed Sayaplayer  in round 1
+Rossy killed Anthem  in round 1
+Medusa killed Rossy  in round 1
+Round 1 ended with elimination. The winning team is DetonatioN FocusMe.
+The current score is DetonatioN FocusMe 1 - 0 T1.
+Sayaplayer killed Medusa  in round 2
+Meiy killed Sayaplayer  in round 2
+Meiy killed Xccurate  in round 2
+Anthem killed iZu  in round 2
+SSeeS killed Rossy  in round 2
+carpe killed Meiy  in round 2
+carpe killed Anthem  in round 2
+SSeeS killed carpe  in round 2
+Round 2 ended with elimination. The winning team is DetonatioN FocusMe.
+The current score is DetonatioN FocusMe 2 - 0 T1.
+Meiy killed Rossy  in round 3
+iZu killed neth  in round 3
+iZu killed Anthem  in round 3
+Meiy killed iZu  in round 3
+Sayaplayer killed SSeeS  in round 3
+Meiy killed Sayaplayer  in round 3
+Xccurate killed Meiy  in round 3
+carpe killed Medusa  in round 3
+Round 3 ended with elimination. The winning team is T1.
+The current score is DetonatioN FocusMe 2 - 1 T1.
+iZu killed SSeeS  in round 4
+neth killed iZu  in round 4
+Xccurate killed neth  in round 4
+Meiy killed Rossy  in round 4
+Xccurate killed Medusa  in round 4
+Meiy killed Xccurate  in round 4
+carpe killed Meiy  in round 4
+Anthem killed carpe  in round 4
+Round 4 ended with time_expired. The winning team is T1.
+The current score is DetonatioN FocusMe 2 - 2 T1.
+Sayaplayer killed Anthem  in round 5
+Rossy killed neth  in round 5
+Rossy killed Meiy  in round 5
+Round 5 ended with time_expired. The winning team is T1.
+The current score is DetonatioN FocusMe 2 - 3 T1.
+SSeeS killed Rossy  in round 6
+SSeeS killed iZu  in round 6
+Sayaplayer killed neth  in round 6
+Anthem killed Sayaplayer  in round 6
+Anthem killed iZu  in round 6
+Xccurate killed Medusa  in round 6
+Xccurate killed Anthem  in round 6
+Meiy killed Xccurate  in round 6
+carpe killed Meiy  in round 6
+carpe killed SSeeS  in round 6
+Round 6 ended with elimination. The winning team is T1.
+The current score is DetonatioN FocusMe 2 - 4 T1.
+Rossy killed Medusa  in round 7
+Meiy killed iZu  in round 7
+carpe killed Meiy  in round 7
+Sayaplayer killed Anthem  in round 7
+Rossy killed neth  in round 7
+Sayaplayer killed SSeeS  in round 7
+Round 7 ended with elimination. The winning team is T1.
+The current score is DetonatioN FocusMe 2 - 5 T1.
+Medusa killed Xccurate  in round 8
+Sayaplayer killed Meiy  in round 8
+Sayaplayer killed Medusa  in round 8
+iZu killed Anthem  in round 8
+carpe killed neth  in round 8
+SSeeS killed carpe  in round 8
+Sayaplayer killed SSeeS  in round 8
+Round 8 ended with elimination. The winning team is T1.
+The current score is DetonatioN FocusMe 2 - 6 T1.
+Medusa killed Sayaplayer  in round 9
+Meiy killed Xccurate  in round 9
+SSeeS killed iZu  in round 9
+Rossy killed SSeeS  in round 9
+Medusa killed Rossy  in round 9
+Meiy killed carpe  in round 9
+Round 9 ended with elimination. The winning team is DetonatioN FocusMe.
+The current score is DetonatioN FocusMe 3 - 6 T1.
+Meiy killed Sayaplayer  in round 10
+Medusa killed Xccurate  in round 10
+Meiy killed carpe  in round 10
+iZu killed Meiy  in round 10
+SSeeS killed iZu  in round 10
+Round 10 ended with detonate. The winning team is DetonatioN FocusMe.
+The current score is DetonatioN FocusMe 4 - 6 T1.
+Medusa killed Rossy  in round 11
+Medusa killed Medusa  in round 11
+Anthem killed Anthem  in round 11
+Anthem killed Rossy  in round 11
+iZu killed SSeeS  in round 11
+Meiy killed iZu  in round 11
+carpe killed neth  in round 11
+carpe killed Anthem  in round 11
+Medusa killed carpe  in round 11
+Sayaplayer killed Medusa  in round 11
+Sayaplayer killed Meiy  in round 11
+Round 11 ended with spike_defuse. The winning team is T1.
+The current score is DetonatioN FocusMe 4 - 7 T1.
+neth killed Sayaplayer  in round 12
+neth killed Rossy  in round 12
+iZu killed SSeeS  in round 12
+iZu killed neth  in round 12
+Meiy killed Xccurate  in round 12
+Medusa killed carpe  in round 12
+Anthem killed iZu  in round 12
+Round 12 ended with elimination. The winning team is DetonatioN FocusMe.
+The current score is DetonatioN FocusMe 5 - 7 T1.
+iZu killed Meiy  in round 13
+iZu killed neth  in round 13
+Xccurate killed SSeeS  in round 13
+Anthem killed iZu  in round 13
+carpe killed Anthem  in round 13
+Rossy killed Medusa  in round 13
+Round 13 ended with elimination. The winning team is T1.
+The current score is DetonatioN FocusMe 5 - 8 T1.
+iZu killed Meiy  in round 14
+iZu killed SSeeS  in round 14
+neth killed iZu  in round 14
+Sayaplayer killed neth  in round 14
+Rossy killed Anthem  in round 14
+Sayaplayer killed Medusa  in round 14
+Round 14 ended with elimination. The winning team is T1.
+The current score is DetonatioN FocusMe 5 - 9 T1.
+SSeeS killed iZu  in round 15
+Meiy killed Sayaplayer  in round 15
+Medusa killed carpe  in round 15
+neth killed Xccurate  in round 15
+Round 15 ended with time_expired. The winning team is DetonatioN FocusMe.
+The current score is DetonatioN FocusMe 6 - 9 T1.
+Sayaplayer killed Medusa  in round 16
+Meiy killed Rossy  in round 16
+Meiy killed iZu  in round 16
+Meiy killed Xccurate  in round 16
+Meiy killed carpe  in round 16
+Sayaplayer killed Meiy  in round 16
+Anthem killed Sayaplayer  in round 16
+Round 16 ended with elimination. The winning team is DetonatioN FocusMe.
+The current score is DetonatioN FocusMe 7 - 9 T1.
+Meiy killed Rossy  in round 17
+Meiy killed iZu  in round 17
+carpe killed Meiy  in round 17
+Anthem killed Xccurate  in round 17
+Medusa killed carpe  in round 17
+Medusa killed Sayaplayer  in round 17
+Round 17 ended with elimination. The winning team is DetonatioN FocusMe.
+The current score is DetonatioN FocusMe 8 - 9 T1.
+SSeeS killed Sayaplayer  in round 18
+neth killed carpe  in round 18
+SSeeS killed iZu  in round 18
+Rossy killed SSeeS  in round 18
+neth killed Rossy  in round 18
+Round 18 ended with time_expired. The winning team is DetonatioN FocusMe.
+The current score is DetonatioN FocusMe 9 - 9 T1.
+Medusa killed iZu  in round 19
+Meiy killed Rossy  in round 19
+Meiy killed carpe  in round 19
+Anthem killed Xccurate  in round 19
+Sayaplayer killed Meiy  in round 19
+Sayaplayer killed Medusa  in round 19
+SSeeS killed Sayaplayer  in round 19
+Round 19 ended with elimination. The winning team is DetonatioN FocusMe.
+The current score is DetonatioN FocusMe 10 - 9 T1.
+SSeeS killed iZu  in round 20
+Meiy killed Rossy  in round 20
+Medusa killed Sayaplayer  in round 20
+Round 20 ended with time_expired. The winning team is DetonatioN FocusMe.
+The current score is DetonatioN FocusMe 11 - 9 T1.
+iZu killed SSeeS  in round 21
+Meiy killed iZu  in round 21
+Xccurate killed neth  in round 21
+Meiy killed carpe  in round 21
+Meiy killed Sayaplayer  in round 21
+Rossy killed Meiy  in round 21
+Rossy killed Anthem  in round 21
+Medusa killed Xccurate  in round 21
+Rossy killed Medusa  in round 21
+Round 21 ended with elimination. The winning team is T1.
+The current score is DetonatioN FocusMe 11 - 10 T1.
+carpe killed Meiy  in round 22
+Medusa killed iZu  in round 22
+Medusa killed carpe  in round 22
+Rossy killed Medusa  in round 22
+Sayaplayer killed Anthem  in round 22
+SSeeS killed Sayaplayer  in round 22
+neth killed Rossy  in round 22
+Xccurate killed SSeeS  in round 22
+neth killed Xccurate  in round 22
+Round 22 ended with spike_defuse. The winning team is DetonatioN FocusMe.
+The current score is DetonatioN FocusMe 12 - 10 T1.
+iZu killed SSeeS  in round 23
+iZu killed Meiy  in round 23
+neth killed iZu  in round 23
+Anthem killed Sayaplayer  in round 23
+carpe killed Anthem  in round 23
+Medusa killed carpe  in round 23
+neth killed Rossy  in round 23
+Xccurate killed Medusa  in round 23
+neth killed Xccurate  in round 23
+Round 23 ended with spike_defuse. The winning team is DetonatioN FocusMe.
+The current score is DetonatioN FocusMe 13 - 10 T1.
+Game ended with winning team: DetonatioN FocusMe at 2024-04-09T11:21:39Z
+
+--- Player Stats ---
+Xccurate: Team=T1, Kills=10, Deaths=15, Assists=1, KDA=0.73, First Kills=0, First Deaths=1
+Rossy: Team=T1, Kills=13, Deaths=16, Assists=16, KDA=1.81, First Kills=1, First Deaths=4
+carpe: Team=T1, Kills=14, Deaths=16, Assists=10, KDA=1.5, First Kills=1, First Deaths=0
+iZu: Team=T1, Kills=15, Deaths=22, Assists=8, KDA=1.05, First Kills=5, First Deaths=3
+Sayaplayer: Team=T1, Kills=19, Deaths=16, Assists=7, KDA=1.62, First Kills=4, First Deaths=4
+SSeeS: Team=DetonatioN FocusMe, Kills=13, Deaths=14, Assists=4, KDA=1.21, First Kills=4, First Deaths=3
+Meiy: Team=DetonatioN FocusMe, Kills=29, Deaths=18, Assists=2, KDA=1.72, First Kills=3, First Deaths=3
+Anthem: Team=DetonatioN FocusMe, Kills=13, Deaths=14, Assists=18, KDA=2.21, First Kills=0, First Deaths=1
+Medusa: Team=DetonatioN FocusMe, Kills=20, Deaths=15, Assists=7, KDA=1.8, First Kills=4, First Deaths=3
+neth: Team=DetonatioN FocusMe, Kills=12, Deaths=12, Assists=5, KDA=1.42, First Kills=1, First Deaths=1

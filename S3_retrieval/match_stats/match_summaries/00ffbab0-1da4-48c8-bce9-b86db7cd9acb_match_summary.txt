@@ -1,0 +1,218 @@
+Team 1: Team Vitality
+Team 2: Giants
+Participating Players:
+Player 1: Fit1nho
+Player 2: purp0
+Player 3: Redgar
+Player 4: Cloud
+Player 5: hoody
+Player 6: Kicks
+Player 7: runneR
+Player 8: ceNder
+Player 9: Sayf
+Player 10: Trexx
+Winning Team: Team Vitality
+Score: Team Vitality 13 - 6 Giants
+Tournament Name: vct emea stage 1 2024
+Game Start Time: 2024-04-26T17:09:45Z
+Game End Time: 2024-04-26T17:50:12Z
+Rounds ended by ELIMINATION count: 14
+Rounds ended by DEFUSE count: 3
+Rounds ended by DETONATE count: 2
+SPIKE PLANTED count: 5
+platformGameId: val:00ffbab0-1da4-48c8-bce9-b86db7cd9acb
+
+--- Events ---
+Game started at 2024-04-26T17:09:45Z
+runneR killed purp0  in round 1
+runneR killed Cloud  in round 1
+Fit1nho killed Trexx  in round 1
+Redgar killed runneR  in round 1
+Sayf killed Fit1nho  in round 1
+Redgar killed Sayf  in round 1
+ceNder killed Redgar  in round 1
+hoody killed Kicks  in round 1
+hoody killed ceNder  in round 1
+Round 1 ended with elimination. The winning team is Giants.
+The current score is Team Vitality 0 - 1 Giants.
+purp0 killed runneR  in round 2
+Fit1nho killed Trexx  in round 2
+Cloud killed ceNder  in round 2
+Redgar killed Sayf  in round 2
+Kicks killed Redgar  in round 2
+Kicks killed purp0  in round 2
+Kicks killed Cloud  in round 2
+Kicks killed Fit1nho  in round 2
+purp0 killed Kicks  in round 2
+Round 2 ended with spike_defuse. The winning team is Giants.
+The current score is Team Vitality 0 - 2 Giants.
+Trexx killed hoody  in round 3
+Fit1nho killed Trexx  in round 3
+Redgar killed Sayf  in round 3
+Kicks killed Fit1nho  in round 3
+runneR killed Cloud  in round 3
+purp0 killed runneR  in round 3
+ceNder killed purp0  in round 3
+Redgar killed Kicks  in round 3
+ceNder killed Redgar  in round 3
+Round 3 ended with elimination. The winning team is Team Vitality.
+The current score is Team Vitality 1 - 2 Giants.
+ceNder killed purp0  in round 4
+ceNder killed hoody  in round 4
+Redgar killed Kicks  in round 4
+runneR killed Cloud  in round 4
+Fit1nho killed runneR  in round 4
+Trexx killed Fit1nho  in round 4
+Round 4 ended with detonate. The winning team is Team Vitality.
+The current score is Team Vitality 2 - 2 Giants.
+Redgar killed Redgar  in round 5
+runneR killed hoody  in round 5
+Trexx killed purp0  in round 5
+runneR killed Cloud  in round 5
+Trexx killed Fit1nho  in round 5
+Round 5 ended with detonate. The winning team is Team Vitality.
+The current score is Team Vitality 3 - 2 Giants.
+Redgar killed ceNder  in round 6
+Sayf killed Fit1nho  in round 6
+Sayf killed Cloud  in round 6
+Sayf killed hoody  in round 6
+runneR killed Redgar  in round 6
+Sayf killed purp0  in round 6
+Round 6 ended with elimination. The winning team is Team Vitality.
+The current score is Team Vitality 4 - 2 Giants.
+Redgar killed Sayf  in round 7
+runneR killed Fit1nho  in round 7
+Redgar killed ceNder  in round 7
+runneR killed Redgar  in round 7
+Cloud killed Trexx  in round 7
+Kicks killed purp0  in round 7
+Kicks killed hoody  in round 7
+Cloud killed Kicks  in round 7
+runneR killed Cloud  in round 7
+Round 7 ended with elimination. The winning team is Team Vitality.
+The current score is Team Vitality 5 - 2 Giants.
+runneR killed Fit1nho  in round 8
+Redgar killed Kicks  in round 8
+Cloud killed ceNder  in round 8
+purp0 killed Trexx  in round 8
+Sayf killed Redgar  in round 8
+Sayf killed hoody  in round 8
+purp0 killed Sayf  in round 8
+Cloud killed runneR  in round 8
+Round 8 ended with elimination. The winning team is Giants.
+The current score is Team Vitality 5 - 3 Giants.
+Cloud killed runneR  in round 9
+Trexx killed Cloud  in round 9
+hoody killed Kicks  in round 9
+Trexx killed hoody  in round 9
+ceNder killed purp0  in round 9
+Trexx killed Fit1nho  in round 9
+ceNder killed Redgar  in round 9
+Round 9 ended with elimination. The winning team is Team Vitality.
+The current score is Team Vitality 6 - 3 Giants.
+runneR killed Redgar  in round 10
+Fit1nho killed runneR  in round 10
+Sayf killed Cloud  in round 10
+Sayf killed Fit1nho  in round 10
+purp0 killed Sayf  in round 10
+Kicks killed hoody  in round 10
+ceNder killed purp0  in round 10
+Round 10 ended with elimination. The winning team is Team Vitality.
+The current score is Team Vitality 7 - 3 Giants.
+purp0 killed Sayf  in round 11
+Fit1nho killed Trexx  in round 11
+Fit1nho killed runneR  in round 11
+Redgar killed ceNder  in round 11
+Kicks killed purp0  in round 11
+Cloud killed Kicks  in round 11
+Round 11 ended with elimination. The winning team is Giants.
+The current score is Team Vitality 7 - 4 Giants.
+Trexx killed hoody  in round 12
+ceNder killed Cloud  in round 12
+Fit1nho killed ceNder  in round 12
+Redgar killed Sayf  in round 12
+purp0 killed runneR  in round 12
+purp0 killed Kicks  in round 12
+Trexx killed purp0  in round 12
+Redgar killed Trexx  in round 12
+Round 12 ended with spike_defuse. The winning team is Giants.
+The current score is Team Vitality 7 - 5 Giants.
+Trexx killed Fit1nho  in round 13
+hoody killed Trexx  in round 13
+hoody killed runneR  in round 13
+Cloud killed Sayf  in round 13
+purp0 killed Kicks  in round 13
+ceNder killed hoody  in round 13
+purp0 killed ceNder  in round 13
+Round 13 ended with elimination. The winning team is Giants.
+The current score is Team Vitality 7 - 6 Giants.
+Kicks killed purp0  in round 14
+ceNder killed Redgar  in round 14
+Cloud killed Trexx  in round 14
+Cloud killed Sayf  in round 14
+ceNder killed Fit1nho  in round 14
+hoody killed ceNder  in round 14
+Cloud killed runneR  in round 14
+Kicks killed hoody  in round 14
+Kicks killed Cloud  in round 14
+Round 14 ended with spike_defuse. The winning team is Team Vitality.
+The current score is Team Vitality 8 - 6 Giants.
+Cloud killed Trexx  in round 15
+runneR killed purp0  in round 15
+runneR killed Cloud  in round 15
+runneR killed Redgar  in round 15
+hoody killed runneR  in round 15
+Kicks killed hoody  in round 15
+Fit1nho killed Kicks  in round 15
+ceNder killed Fit1nho  in round 15
+Round 15 ended with elimination. The winning team is Team Vitality.
+The current score is Team Vitality 9 - 6 Giants.
+runneR killed Fit1nho  in round 16
+Cloud killed runneR  in round 16
+purp0 killed Trexx  in round 16
+Sayf killed hoody  in round 16
+Sayf killed Cloud  in round 16
+Sayf killed Redgar  in round 16
+Kicks killed purp0  in round 16
+Round 16 ended with elimination. The winning team is Team Vitality.
+The current score is Team Vitality 10 - 6 Giants.
+purp0 killed ceNder  in round 17
+runneR killed Redgar  in round 17
+Kicks killed hoody  in round 17
+purp0 killed runneR  in round 17
+Cloud killed Kicks  in round 17
+Trexx killed Fit1nho  in round 17
+Trexx killed Cloud  in round 17
+Trexx killed purp0  in round 17
+Round 17 ended with elimination. The winning team is Team Vitality.
+The current score is Team Vitality 11 - 6 Giants.
+Trexx killed purp0  in round 18
+runneR killed hoody  in round 18
+runneR killed Cloud  in round 18
+Redgar killed Sayf  in round 18
+Trexx killed Redgar  in round 18
+runneR killed Fit1nho  in round 18
+Round 18 ended with elimination. The winning team is Team Vitality.
+The current score is Team Vitality 12 - 6 Giants.
+Fit1nho killed ceNder  in round 19
+Trexx killed purp0  in round 19
+runneR killed Cloud  in round 19
+runneR killed Fit1nho  in round 19
+Trexx killed hoody  in round 19
+Redgar killed runneR  in round 19
+Kicks killed Redgar  in round 19
+Round 19 ended with elimination. The winning team is Team Vitality.
+The current score is Team Vitality 13 - 6 Giants.
+Game ended with winning team: Team Vitality at 2024-04-26T17:50:12Z
+
+--- Player Stats ---
+Fit1nho: Team=Giants, Kills=10, Deaths=17, Assists=5, KDA=0.88, First Kills=1, First Deaths=3
+purp0: Team=Giants, Kills=14, Deaths=17, Assists=5, KDA=1.12, First Kills=3, First Deaths=4
+Redgar: Team=Giants, Kills=16, Deaths=15, Assists=4, KDA=1.33, First Kills=3, First Deaths=2
+Cloud: Team=Giants, Kills=14, Deaths=16, Assists=7, KDA=1.31, First Kills=2, First Deaths=0
+hoody: Team=Giants, Kills=7, Deaths=16, Assists=5, KDA=0.75, First Kills=0, First Deaths=2
+Kicks: Team=Team Vitality, Kills=16, Deaths=12, Assists=3, KDA=1.58, First Kills=1, First Deaths=0
+runneR: Team=Team Vitality, Kills=22, Deaths=15, Assists=8, KDA=2.0, First Kills=4, First Deaths=2
+ceNder: Team=Team Vitality, Kills=13, Deaths=11, Assists=7, KDA=1.82, First Kills=1, First Deaths=3
+Sayf: Team=Team Vitality, Kills=12, Deaths=11, Assists=7, KDA=1.73, First Kills=0, First Deaths=2
+Trexx: Team=Team Vitality, Kills=17, Deaths=11, Assists=11, KDA=2.55, First Kills=4, First Deaths=1

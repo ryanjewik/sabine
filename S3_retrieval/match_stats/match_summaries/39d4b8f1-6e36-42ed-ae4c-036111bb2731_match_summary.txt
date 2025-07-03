@@ -1,0 +1,188 @@
+Team 1: NRG
+Team 2: Sentinels
+Participating Players:
+Player 1: TenZ
+Player 2: Zellsis
+Player 3: johnqt
+Player 4: zekken
+Player 5: Sacy
+Player 6: Demon1
+Player 7: Marved
+Player 8: Ethan
+Player 9: crashies
+Player 10: Victor
+Winning Team: Sentinels
+Score: NRG 3 - 13 Sentinels
+Tournament Name: vct americas kickoff 2024
+Game Start Time: 2024-03-03T03:25:24Z
+Game End Time: 2024-03-03T04:06:09Z
+Rounds ended by ELIMINATION count: 7
+Rounds ended by DEFUSE count: 8
+Rounds ended by DETONATE count: 1
+SPIKE PLANTED count: 9
+platformGameId: val:39d4b8f1-6e36-42ed-ae4c-036111bb2731
+
+--- Events ---
+Game started at 2024-03-03T03:25:24Z
+TenZ killed crashies  in round 1
+Demon1 killed Sacy  in round 1
+Demon1 killed TenZ  in round 1
+zekken killed Ethan  in round 1
+zekken killed Victor  in round 1
+Zellsis killed Marved  in round 1
+Zellsis killed Demon1  in round 1
+Round 1 ended with spike_defuse. The winning team is Sentinels.
+The current score is NRG 0 - 1 Sentinels.
+Zellsis killed Victor  in round 2
+zekken killed Demon1  in round 2
+johnqt killed Ethan  in round 2
+Sacy killed Marved  in round 2
+johnqt killed crashies  in round 2
+Round 2 ended with spike_defuse. The winning team is Sentinels.
+The current score is NRG 0 - 2 Sentinels.
+TenZ killed Victor  in round 3
+TenZ killed Marved  in round 3
+johnqt killed Demon1  in round 3
+Ethan killed TenZ  in round 3
+zekken killed Ethan  in round 3
+crashies killed zekken  in round 3
+johnqt killed crashies  in round 3
+Round 3 ended with elimination. The winning team is Sentinels.
+The current score is NRG 0 - 3 Sentinels.
+zekken killed crashies  in round 4
+Marved killed Zellsis  in round 4
+zekken killed Marved  in round 4
+johnqt killed Ethan  in round 4
+Victor killed zekken  in round 4
+Victor killed johnqt  in round 4
+TenZ killed Victor  in round 4
+Sacy killed Demon1  in round 4
+Round 4 ended with spike_defuse. The winning team is Sentinels.
+The current score is NRG 0 - 4 Sentinels.
+Demon1 killed Sacy  in round 5
+Zellsis killed Demon1  in round 5
+zekken killed Victor  in round 5
+Marved killed zekken  in round 5
+Marved killed johnqt  in round 5
+TenZ killed Ethan  in round 5
+TenZ killed Marved  in round 5
+TenZ killed crashies  in round 5
+Round 5 ended with spike_defuse. The winning team is Sentinels.
+The current score is NRG 0 - 5 Sentinels.
+Zellsis killed Victor  in round 6
+Demon1 killed Sacy  in round 6
+Marved killed Zellsis  in round 6
+johnqt killed Marved  in round 6
+johnqt killed Demon1  in round 6
+Ethan killed TenZ  in round 6
+johnqt killed crashies  in round 6
+Ethan killed zekken  in round 6
+johnqt killed Ethan  in round 6
+Round 6 ended with spike_defuse. The winning team is Sentinels.
+The current score is NRG 0 - 6 Sentinels.
+TenZ killed Victor  in round 7
+crashies killed Sacy  in round 7
+Marved killed zekken  in round 7
+Marved killed Zellsis  in round 7
+TenZ killed crashies  in round 7
+johnqt killed Marved  in round 7
+johnqt killed Ethan  in round 7
+Demon1 killed TenZ  in round 7
+johnqt killed Demon1  in round 7
+Round 7 ended with spike_defuse. The winning team is Sentinels.
+The current score is NRG 0 - 7 Sentinels.
+Demon1 killed zekken  in round 8
+Victor killed johnqt  in round 8
+Victor killed TenZ  in round 8
+Sacy killed Marved  in round 8
+Victor killed Sacy  in round 8
+Round 8 ended with detonate. The winning team is NRG.
+The current score is NRG 1 - 7 Sentinels.
+Zellsis killed Marved  in round 9
+Ethan killed zekken  in round 9
+Victor killed TenZ  in round 9
+Sacy killed Victor  in round 9
+johnqt killed Ethan  in round 9
+crashies killed Sacy  in round 9
+Zellsis killed crashies  in round 9
+johnqt killed Demon1  in round 9
+Round 9 ended with spike_defuse. The winning team is Sentinels.
+The current score is NRG 1 - 8 Sentinels.
+TenZ killed Victor  in round 10
+Ethan killed TenZ  in round 10
+Sacy killed Demon1  in round 10
+Sacy killed Marved  in round 10
+Sacy killed crashies  in round 10
+Ethan killed Sacy  in round 10
+Zellsis killed Ethan  in round 10
+Round 10 ended with elimination. The winning team is Sentinels.
+The current score is NRG 1 - 9 Sentinels.
+zekken killed Victor  in round 11
+Zellsis killed Ethan  in round 11
+Zellsis killed Marved  in round 11
+Zellsis killed crashies  in round 11
+Demon1 killed Zellsis  in round 11
+Demon1 killed zekken  in round 11
+johnqt killed Demon1  in round 11
+Round 11 ended with elimination. The winning team is Sentinels.
+The current score is NRG 1 - 10 Sentinels.
+zekken killed Marved  in round 12
+Victor killed zekken  in round 12
+johnqt killed Ethan  in round 12
+Victor killed Zellsis  in round 12
+johnqt killed Victor  in round 12
+Sacy killed crashies  in round 12
+TenZ killed Demon1  in round 12
+Round 12 ended with elimination. The winning team is Sentinels.
+The current score is NRG 1 - 11 Sentinels.
+TenZ killed Demon1  in round 13
+Marved killed zekken  in round 13
+Marved killed Sacy  in round 13
+Marved killed johnqt  in round 13
+Marved killed TenZ  in round 13
+Zellsis killed Ethan  in round 13
+Marved killed Zellsis  in round 13
+Round 13 ended with spike_defuse. The winning team is NRG.
+The current score is NRG 2 - 11 Sentinels.
+Marved killed zekken  in round 14
+Marved killed TenZ  in round 14
+Zellsis killed Marved  in round 14
+Victor killed Sacy  in round 14
+Demon1 killed johnqt  in round 14
+Demon1 killed Zellsis  in round 14
+Round 14 ended with elimination. The winning team is NRG.
+The current score is NRG 3 - 11 Sentinels.
+Zellsis killed Demon1  in round 15
+Victor killed zekken  in round 15
+Sacy killed Victor  in round 15
+Marved killed TenZ  in round 15
+johnqt killed Marved  in round 15
+Zellsis killed Ethan  in round 15
+crashies killed johnqt  in round 15
+Sacy killed crashies  in round 15
+Round 15 ended with elimination. The winning team is Sentinels.
+The current score is NRG 3 - 12 Sentinels.
+zekken killed Demon1  in round 16
+crashies killed zekken  in round 16
+Sacy killed Marved  in round 16
+TenZ killed Victor  in round 16
+Victor killed johnqt  in round 16
+crashies killed Zellsis  in round 16
+crashies killed TenZ  in round 16
+Sacy killed Ethan  in round 16
+Sacy killed crashies  in round 16
+Round 16 ended with elimination. The winning team is Sentinels.
+The current score is NRG 3 - 13 Sentinels.
+Game ended with winning team: Sentinels at 2024-03-03T04:06:09Z
+
+--- Player Stats ---
+TenZ: Team=Sentinels, Kills=13, Deaths=11, Assists=6, KDA=1.73, First Kills=5, First Deaths=0
+Zellsis: Team=Sentinels, Kills=15, Deaths=8, Assists=7, KDA=2.75, First Kills=4, First Deaths=0
+johnqt: Team=Sentinels, Kills=18, Deaths=7, Assists=5, KDA=3.29, First Kills=0, First Deaths=0
+zekken: Team=Sentinels, Kills=10, Deaths=13, Assists=3, KDA=1.0, First Kills=4, First Deaths=2
+Sacy: Team=Sentinels, Kills=13, Deaths=9, Assists=8, KDA=2.33, First Kills=0, First Deaths=1
+Demon1: Team=NRG, Kills=10, Deaths=14, Assists=6, KDA=1.14, First Kills=2, First Deaths=3
+Marved: Team=NRG, Kills=14, Deaths=15, Assists=4, KDA=1.2, First Kills=1, First Deaths=2
+Ethan: Team=NRG, Kills=6, Deaths=14, Assists=5, KDA=0.79, First Kills=0, First Deaths=0
+crashies: Team=NRG, Kills=7, Deaths=13, Assists=8, KDA=1.15, First Kills=0, First Deaths=2
+Victor: Team=NRG, Kills=11, Deaths=13, Assists=0, KDA=0.85, First Kills=0, First Deaths=6

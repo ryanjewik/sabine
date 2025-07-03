@@ -1,0 +1,211 @@
+Team 1: FURIA
+Team 2: Leviatán Esports
+Participating Players:
+Player 1: aspas
+Player 2: tex
+Player 3: kiNgg
+Player 4: C0M
+Player 5: Mazino
+Player 6: havoc
+Player 7: mwzera
+Player 8: Nozwer
+Player 9: xandeco
+Player 10: Khalil
+Winning Team: Leviatán Esports
+Score: FURIA 6 - 13 Leviatán Esports
+Tournament Name: vct americas stage 2 2024
+Game Start Time: 2024-07-14T00:01:42Z
+Game End Time: 2024-07-14T00:47:51Z
+Rounds ended by ELIMINATION count: 14
+Rounds ended by DEFUSE count: 3
+Rounds ended by DETONATE count: 2
+SPIKE PLANTED count: 5
+platformGameId: val:3713aec2-a72e-4dcf-8038-9c2f2c89dfe4
+
+--- Events ---
+Game started at 2024-07-14T00:01:42Z
+aspas killed mwzera  in round 1
+aspas killed Khalil  in round 1
+xandeco killed kiNgg  in round 1
+tex killed havoc  in round 1
+C0M killed Nozwer  in round 1
+C0M killed xandeco  in round 1
+Round 1 ended with elimination. The winning team is Leviatán Esports.
+The current score is FURIA 0 - 1 Leviatán Esports.
+kiNgg killed xandeco  in round 2
+tex killed Nozwer  in round 2
+mwzera killed tex  in round 2
+Mazino killed Khalil  in round 2
+C0M killed havoc  in round 2
+Mazino killed mwzera  in round 2
+Round 2 ended with spike_defuse. The winning team is Leviatán Esports.
+The current score is FURIA 0 - 2 Leviatán Esports.
+Khalil killed kiNgg  in round 3
+C0M killed Khalil  in round 3
+mwzera killed tex  in round 3
+C0M killed mwzera  in round 3
+Mazino killed xandeco  in round 3
+havoc killed aspas  in round 3
+havoc killed Mazino  in round 3
+C0M killed havoc  in round 3
+Nozwer killed C0M  in round 3
+Round 3 ended with elimination. The winning team is FURIA.
+The current score is FURIA 1 - 2 Leviatán Esports.
+Nozwer killed Nozwer  in round 4
+aspas killed xandeco  in round 4
+tex killed Nozwer  in round 4
+mwzera killed tex  in round 4
+Khalil killed C0M  in round 4
+kiNgg killed Khalil  in round 4
+mwzera killed Mazino  in round 4
+aspas killed mwzera  in round 4
+kiNgg killed havoc  in round 4
+Round 4 ended with elimination. The winning team is Leviatán Esports.
+The current score is FURIA 1 - 3 Leviatán Esports.
+mwzera killed C0M  in round 5
+mwzera killed tex  in round 5
+Mazino killed mwzera  in round 5
+Nozwer killed kiNgg  in round 5
+havoc killed Mazino  in round 5
+Round 5 ended with detonate. The winning team is FURIA.
+The current score is FURIA 2 - 3 Leviatán Esports.
+havoc killed kiNgg  in round 6
+Mazino killed Nozwer  in round 6
+mwzera killed C0M  in round 6
+havoc killed Mazino  in round 6
+tex killed mwzera  in round 6
+xandeco killed tex  in round 6
+havoc killed aspas  in round 6
+Round 6 ended with elimination. The winning team is FURIA.
+The current score is FURIA 3 - 3 Leviatán Esports.
+aspas killed havoc  in round 7
+mwzera killed C0M  in round 7
+Mazino killed mwzera  in round 7
+xandeco killed Mazino  in round 7
+xandeco killed aspas  in round 7
+kiNgg killed havoc  in round 7
+tex killed xandeco  in round 7
+Nozwer killed tex  in round 7
+Khalil killed kiNgg  in round 7
+Round 7 ended with elimination. The winning team is FURIA.
+The current score is FURIA 4 - 3 Leviatán Esports.
+C0M killed xandeco  in round 8
+mwzera killed C0M  in round 8
+havoc killed tex  in round 8
+aspas killed Khalil  in round 8
+Nozwer killed aspas  in round 8
+Mazino killed mwzera  in round 8
+kiNgg killed Nozwer  in round 8
+havoc killed Mazino  in round 8
+kiNgg killed havoc  in round 8
+Round 8 ended with spike_defuse. The winning team is Leviatán Esports.
+The current score is FURIA 4 - 4 Leviatán Esports.
+mwzera killed kiNgg  in round 9
+tex killed mwzera  in round 9
+tex killed Nozwer  in round 9
+tex killed xandeco  in round 9
+Khalil killed tex  in round 9
+havoc killed aspas  in round 9
+Mazino killed havoc  in round 9
+C0M killed Khalil  in round 9
+Round 9 ended with elimination. The winning team is Leviatán Esports.
+The current score is FURIA 4 - 5 Leviatán Esports.
+tex killed mwzera  in round 10
+C0M killed Khalil  in round 10
+tex killed havoc  in round 10
+aspas killed Nozwer  in round 10
+xandeco killed kiNgg  in round 10
+Mazino killed xandeco  in round 10
+Round 10 ended with spike_defuse. The winning team is Leviatán Esports.
+The current score is FURIA 4 - 6 Leviatán Esports.
+havoc killed aspas  in round 11
+mwzera killed Mazino  in round 11
+tex killed mwzera  in round 11
+Round 11 ended with detonate. The winning team is FURIA.
+The current score is FURIA 5 - 6 Leviatán Esports.
+Nozwer killed C0M  in round 12
+havoc killed tex  in round 12
+Mazino killed havoc  in round 12
+Mazino killed Khalil  in round 12
+aspas killed xandeco  in round 12
+C0M killed Nozwer  in round 12
+Mazino killed mwzera  in round 12
+Round 12 ended with elimination. The winning team is Leviatán Esports.
+The current score is FURIA 5 - 7 Leviatán Esports.
+kiNgg killed mwzera  in round 13
+aspas killed havoc  in round 13
+tex killed xandeco  in round 13
+Nozwer killed kiNgg  in round 13
+Nozwer killed C0M  in round 13
+Mazino killed Nozwer  in round 13
+Khalil killed Mazino  in round 13
+tex killed Khalil  in round 13
+Round 13 ended with elimination. The winning team is Leviatán Esports.
+The current score is FURIA 5 - 8 Leviatán Esports.
+tex killed havoc  in round 14
+mwzera killed tex  in round 14
+C0M killed xandeco  in round 14
+C0M killed mwzera  in round 14
+Nozwer killed C0M  in round 14
+Mazino killed Khalil  in round 14
+Mazino killed Nozwer  in round 14
+Round 14 ended with elimination. The winning team is Leviatán Esports.
+The current score is FURIA 5 - 9 Leviatán Esports.
+kiNgg killed mwzera  in round 15
+kiNgg killed havoc  in round 15
+xandeco killed kiNgg  in round 15
+Khalil killed tex  in round 15
+C0M killed Khalil  in round 15
+aspas killed xandeco  in round 15
+Mazino killed Nozwer  in round 15
+Round 15 ended with elimination. The winning team is Leviatán Esports.
+The current score is FURIA 5 - 10 Leviatán Esports.
+aspas killed xandeco  in round 16
+aspas killed havoc  in round 16
+C0M killed Khalil  in round 16
+C0M killed mwzera  in round 16
+Nozwer killed Mazino  in round 16
+C0M killed Nozwer  in round 16
+Round 16 ended with elimination. The winning team is Leviatán Esports.
+The current score is FURIA 5 - 11 Leviatán Esports.
+xandeco killed Mazino  in round 17
+aspas killed xandeco  in round 17
+Nozwer killed aspas  in round 17
+tex killed Nozwer  in round 17
+mwzera killed tex  in round 17
+kiNgg killed mwzera  in round 17
+C0M killed Khalil  in round 17
+C0M killed havoc  in round 17
+Round 17 ended with elimination. The winning team is Leviatán Esports.
+The current score is FURIA 5 - 12 Leviatán Esports.
+C0M killed xandeco  in round 18
+mwzera killed aspas  in round 18
+mwzera killed tex  in round 18
+Nozwer killed Mazino  in round 18
+havoc killed kiNgg  in round 18
+mwzera killed C0M  in round 18
+Round 18 ended with elimination. The winning team is FURIA.
+The current score is FURIA 6 - 12 Leviatán Esports.
+Khalil killed tex  in round 19
+aspas killed mwzera  in round 19
+C0M killed havoc  in round 19
+kiNgg killed Khalil  in round 19
+aspas killed Nozwer  in round 19
+kiNgg killed Khalil  in round 19
+xandeco killed Mazino  in round 19
+kiNgg killed xandeco  in round 19
+Round 19 ended with elimination. The winning team is Leviatán Esports.
+The current score is FURIA 6 - 13 Leviatán Esports.
+Game ended with winning team: Leviatán Esports at 2024-07-14T00:47:51Z
+
+--- Player Stats ---
+aspas: Team=Leviatán Esports, Kills=15, Deaths=8, Assists=4, KDA=2.38, First Kills=3, First Deaths=1
+tex: Team=Leviatán Esports, Kills=15, Deaths=14, Assists=2, KDA=1.21, First Kills=2, First Deaths=1
+kiNgg: Team=Leviatán Esports, Kills=13, Deaths=10, Assists=4, KDA=1.7, First Kills=3, First Deaths=3
+C0M: Team=Leviatán Esports, Kills=20, Deaths=10, Assists=5, KDA=2.5, First Kills=2, First Deaths=2
+Mazino: Team=Leviatán Esports, Kills=16, Deaths=12, Assists=3, KDA=1.58, First Kills=0, First Deaths=1
+havoc: Team=FURIA, Kills=12, Deaths=16, Assists=3, KDA=0.94, First Kills=2, First Deaths=2
+mwzera: Team=FURIA, Kills=16, Deaths=18, Assists=2, KDA=1.0, First Kills=2, First Deaths=4
+Nozwer: Team=FURIA, Kills=12, Deaths=15, Assists=3, KDA=1.0, First Kills=2, First Deaths=1
+xandeco: Team=FURIA, Kills=8, Deaths=16, Assists=3, KDA=0.69, First Kills=1, First Deaths=4
+Khalil: Team=FURIA, Kills=7, Deaths=15, Assists=3, KDA=0.67, First Kills=2, First Deaths=0

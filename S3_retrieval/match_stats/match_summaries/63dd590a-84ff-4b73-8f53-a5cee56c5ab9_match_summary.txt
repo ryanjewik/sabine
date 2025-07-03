@@ -1,0 +1,345 @@
+Team 1: Leviatán Esports
+Team 2: Cloud9 Blue
+Participating Players:
+Player 1: moose
+Player 2: vanity
+Player 3: Oxy
+Player 4: runi
+Player 5: xeppaa
+Player 6: aspas
+Player 7: tex
+Player 8: kiNgg
+Player 9: C0M
+Player 10: Mazino
+Winning Team: Cloud9 Blue
+Score: Leviatán Esports 16 - 18 Cloud9 Blue
+Tournament Name: vct americas stage 1 2024
+Game Start Time: 2024-04-06T23:10:14Z
+Game End Time: 2024-04-07T00:34:51Z
+Rounds ended by ELIMINATION count: 21
+Rounds ended by DEFUSE count: 7
+Rounds ended by DETONATE count: 5
+SPIKE PLANTED count: 12
+platformGameId: val:63dd590a-84ff-4b73-8f53-a5cee56c5ab9
+
+--- Events ---
+Game started at 2024-04-06T23:10:14Z
+xeppaa killed aspas  in round 1
+kiNgg killed xeppaa  in round 1
+Mazino killed vanity  in round 1
+Mazino killed moose  in round 1
+Mazino killed Oxy  in round 1
+runi killed Mazino  in round 1
+kiNgg killed runi  in round 1
+Round 1 ended with elimination. The winning team is Leviatán Esports.
+The current score is Leviatán Esports 1 - 0 Cloud9 Blue.
+aspas killed runi  in round 2
+Oxy killed Mazino  in round 2
+kiNgg killed Oxy  in round 2
+C0M killed moose  in round 2
+kiNgg killed xeppaa  in round 2
+tex killed vanity  in round 2
+Round 2 ended with elimination. The winning team is Leviatán Esports.
+The current score is Leviatán Esports 2 - 0 Cloud9 Blue.
+kiNgg killed Oxy  in round 3
+Mazino killed moose  in round 3
+vanity killed Mazino  in round 3
+Round 3 ended with detonate. The winning team is Leviatán Esports.
+The current score is Leviatán Esports 3 - 0 Cloud9 Blue.
+C0M killed runi  in round 4
+xeppaa killed C0M  in round 4
+Oxy killed aspas  in round 4
+kiNgg killed vanity  in round 4
+xeppaa killed kiNgg  in round 4
+Oxy killed C0M  in round 4
+tex killed Oxy  in round 4
+xeppaa killed tex  in round 4
+Mazino killed xeppaa  in round 4
+Mazino killed runi  in round 4
+moose killed Mazino  in round 4
+Round 4 ended with spike_defuse. The winning team is Cloud9 Blue.
+The current score is Leviatán Esports 3 - 1 Cloud9 Blue.
+aspas killed Oxy  in round 5
+moose killed tex  in round 5
+Mazino killed xeppaa  in round 5
+aspas killed runi  in round 5
+kiNgg killed moose  in round 5
+kiNgg killed vanity  in round 5
+Round 5 ended with elimination. The winning team is Leviatán Esports.
+The current score is Leviatán Esports 4 - 1 Cloud9 Blue.
+kiNgg killed vanity  in round 6
+Mazino killed xeppaa  in round 6
+Oxy killed Mazino  in round 6
+aspas killed moose  in round 6
+Oxy killed tex  in round 6
+Oxy killed aspas  in round 6
+kiNgg killed runi  in round 6
+kiNgg killed Oxy  in round 6
+Round 6 ended with elimination. The winning team is Leviatán Esports.
+The current score is Leviatán Esports 5 - 1 Cloud9 Blue.
+moose killed kiNgg  in round 7
+C0M killed moose  in round 7
+Round 7 ended with detonate. The winning team is Leviatán Esports.
+The current score is Leviatán Esports 6 - 1 Cloud9 Blue.
+Oxy killed tex  in round 8
+Oxy killed C0M  in round 8
+aspas killed Oxy  in round 8
+moose killed aspas  in round 8
+moose killed kiNgg  in round 8
+moose killed Mazino  in round 8
+Round 8 ended with elimination. The winning team is Cloud9 Blue.
+The current score is Leviatán Esports 6 - 2 Cloud9 Blue.
+aspas killed xeppaa  in round 9
+aspas killed runi  in round 9
+aspas killed moose  in round 9
+Oxy killed C0M  in round 9
+vanity killed Mazino  in round 9
+tex killed vanity  in round 9
+Round 9 ended with detonate. The winning team is Leviatán Esports.
+The current score is Leviatán Esports 7 - 2 Cloud9 Blue.
+Oxy killed tex  in round 10
+aspas killed Oxy  in round 10
+Oxy killed Mazino  in round 10
+kiNgg killed vanity  in round 10
+runi killed kiNgg  in round 10
+runi killed tex  in round 10
+moose killed C0M  in round 10
+moose killed aspas  in round 10
+Round 10 ended with elimination. The winning team is Cloud9 Blue.
+The current score is Leviatán Esports 7 - 3 Cloud9 Blue.
+xeppaa killed tex  in round 11
+vanity killed C0M  in round 11
+aspas killed vanity  in round 11
+xeppaa killed Mazino  in round 11
+xeppaa killed aspas  in round 11
+Round 11 ended with time_expired. The winning team is Cloud9 Blue.
+The current score is Leviatán Esports 7 - 4 Cloud9 Blue.
+moose killed kiNgg  in round 12
+runi killed tex  in round 12
+xeppaa killed aspas  in round 12
+Mazino killed runi  in round 12
+Oxy killed Mazino  in round 12
+xeppaa killed kiNgg  in round 12
+xeppaa killed C0M  in round 12
+Round 12 ended with elimination. The winning team is Cloud9 Blue.
+The current score is Leviatán Esports 7 - 5 Cloud9 Blue.
+kiNgg killed Oxy  in round 13
+Mazino killed runi  in round 13
+Mazino killed xeppaa  in round 13
+tex killed moose  in round 13
+kiNgg killed vanity  in round 13
+Round 13 ended with elimination. The winning team is Leviatán Esports.
+The current score is Leviatán Esports 8 - 5 Cloud9 Blue.
+vanity killed aspas  in round 14
+kiNgg killed moose  in round 14
+kiNgg killed xeppaa  in round 14
+Oxy killed C0M  in round 14
+Oxy killed kiNgg  in round 14
+runi killed tex  in round 14
+runi killed Mazino  in round 14
+Round 14 ended with elimination. The winning team is Cloud9 Blue.
+The current score is Leviatán Esports 8 - 6 Cloud9 Blue.
+Mazino killed vanity  in round 15
+Oxy killed C0M  in round 15
+Mazino killed Oxy  in round 15
+tex killed runi  in round 15
+aspas killed moose  in round 15
+xeppaa killed aspas  in round 15
+Round 15 ended with detonate. The winning team is Cloud9 Blue.
+The current score is Leviatán Esports 8 - 7 Cloud9 Blue.
+kiNgg killed kiNgg  in round 16
+tex killed tex  in round 16
+Mazino killed Mazino  in round 16
+xeppaa killed Mazino  in round 16
+kiNgg killed xeppaa  in round 16
+Oxy killed kiNgg  in round 16
+Oxy killed tex  in round 16
+aspas killed Oxy  in round 16
+moose killed C0M  in round 16
+aspas killed moose  in round 16
+Round 16 ended with detonate. The winning team is Cloud9 Blue.
+The current score is Leviatán Esports 8 - 8 Cloud9 Blue.
+C0M killed xeppaa  in round 17
+Oxy killed Mazino  in round 17
+C0M killed moose  in round 17
+runi killed C0M  in round 17
+kiNgg killed runi  in round 17
+vanity killed aspas  in round 17
+vanity killed kiNgg  in round 17
+tex killed vanity  in round 17
+Oxy killed tex  in round 17
+Round 17 ended with elimination. The winning team is Cloud9 Blue.
+The current score is Leviatán Esports 8 - 9 Cloud9 Blue.
+tex killed xeppaa  in round 18
+Oxy killed C0M  in round 18
+Mazino killed Oxy  in round 18
+moose killed aspas  in round 18
+vanity killed kiNgg  in round 18
+runi killed tex  in round 18
+moose killed Mazino  in round 18
+Round 18 ended with elimination. The winning team is Cloud9 Blue.
+The current score is Leviatán Esports 8 - 10 Cloud9 Blue.
+xeppaa killed C0M  in round 19
+vanity killed Mazino  in round 19
+vanity killed tex  in round 19
+kiNgg killed Oxy  in round 19
+kiNgg killed xeppaa  in round 19
+runi killed kiNgg  in round 19
+runi killed aspas  in round 19
+Round 19 ended with elimination. The winning team is Cloud9 Blue.
+The current score is Leviatán Esports 8 - 11 Cloud9 Blue.
+vanity killed tex  in round 20
+aspas killed vanity  in round 20
+kiNgg killed Oxy  in round 20
+xeppaa killed aspas  in round 20
+kiNgg killed xeppaa  in round 20
+C0M killed moose  in round 20
+runi killed Mazino  in round 20
+runi killed C0M  in round 20
+kiNgg killed runi  in round 20
+Round 20 ended with elimination. The winning team is Leviatán Esports.
+The current score is Leviatán Esports 9 - 11 Cloud9 Blue.
+aspas killed vanity  in round 21
+Oxy killed aspas  in round 21
+kiNgg killed Oxy  in round 21
+moose killed kiNgg  in round 21
+tex killed moose  in round 21
+tex killed runi  in round 21
+kiNgg killed xeppaa  in round 21
+Round 21 ended with spike_defuse. The winning team is Leviatán Esports.
+The current score is Leviatán Esports 10 - 11 Cloud9 Blue.
+moose killed Mazino  in round 22
+tex killed vanity  in round 22
+Oxy killed tex  in round 22
+xeppaa killed aspas  in round 22
+kiNgg killed Oxy  in round 22
+kiNgg killed moose  in round 22
+runi killed C0M  in round 22
+kiNgg killed xeppaa  in round 22
+kiNgg killed runi  in round 22
+Round 22 ended with spike_defuse. The winning team is Leviatán Esports.
+The current score is Leviatán Esports 11 - 11 Cloud9 Blue.
+kiNgg killed Oxy  in round 23
+tex killed vanity  in round 23
+xeppaa killed tex  in round 23
+xeppaa killed Mazino  in round 23
+runi killed kiNgg  in round 23
+aspas killed runi  in round 23
+C0M killed moose  in round 23
+xeppaa killed C0M  in round 23
+xeppaa killed aspas  in round 23
+Round 23 ended with elimination. The winning team is Cloud9 Blue.
+The current score is Leviatán Esports 11 - 12 Cloud9 Blue.
+Oxy killed C0M  in round 24
+aspas killed Oxy  in round 24
+Mazino killed runi  in round 24
+Mazino killed vanity  in round 24
+moose killed Mazino  in round 24
+tex killed xeppaa  in round 24
+aspas killed moose  in round 24
+Round 24 ended with elimination. The winning team is Leviatán Esports.
+The current score is Leviatán Esports 12 - 12 Cloud9 Blue.
+aspas killed vanity  in round 25
+aspas killed moose  in round 25
+Oxy killed Mazino  in round 25
+aspas killed xeppaa  in round 25
+aspas killed Oxy  in round 25
+runi killed kiNgg  in round 25
+runi killed aspas  in round 25
+tex killed runi  in round 25
+Round 25 ended with elimination. The winning team is Leviatán Esports.
+The current score is Leviatán Esports 13 - 12 Cloud9 Blue.
+C0M killed xeppaa  in round 26
+Oxy killed C0M  in round 26
+moose killed Mazino  in round 26
+Oxy killed kiNgg  in round 26
+tex killed Oxy  in round 26
+vanity killed tex  in round 26
+moose killed aspas  in round 26
+Round 26 ended with elimination. The winning team is Cloud9 Blue.
+The current score is Leviatán Esports 13 - 13 Cloud9 Blue.
+Oxy killed C0M  in round 27
+Mazino killed moose  in round 27
+runi killed Mazino  in round 27
+vanity killed kiNgg  in round 27
+aspas killed vanity  in round 27
+runi killed tex  in round 27
+aspas killed xeppaa  in round 27
+Oxy killed aspas  in round 27
+Round 27 ended with spike_defuse. The winning team is Cloud9 Blue.
+The current score is Leviatán Esports 13 - 14 Cloud9 Blue.
+tex killed Oxy  in round 28
+aspas killed runi  in round 28
+aspas killed vanity  in round 28
+aspas killed xeppaa  in round 28
+tex killed moose  in round 28
+Round 28 ended with elimination. The winning team is Leviatán Esports.
+The current score is Leviatán Esports 14 - 14 Cloud9 Blue.
+Oxy killed aspas  in round 29
+tex killed moose  in round 29
+tex killed vanity  in round 29
+Oxy killed tex  in round 29
+Oxy killed C0M  in round 29
+xeppaa killed kiNgg  in round 29
+xeppaa killed Mazino  in round 29
+Round 29 ended with spike_defuse. The winning team is Cloud9 Blue.
+The current score is Leviatán Esports 14 - 15 Cloud9 Blue.
+C0M killed runi  in round 30
+C0M killed xeppaa  in round 30
+aspas killed Oxy  in round 30
+vanity killed C0M  in round 30
+Mazino killed vanity  in round 30
+aspas killed moose  in round 30
+Round 30 ended with elimination. The winning team is Leviatán Esports.
+The current score is Leviatán Esports 15 - 15 Cloud9 Blue.
+moose killed tex  in round 31
+vanity killed C0M  in round 31
+xeppaa killed Mazino  in round 31
+aspas killed vanity  in round 31
+runi killed kiNgg  in round 31
+xeppaa killed aspas  in round 31
+Round 31 ended with elimination. The winning team is Cloud9 Blue.
+The current score is Leviatán Esports 15 - 16 Cloud9 Blue.
+tex killed moose  in round 32
+Oxy killed kiNgg  in round 32
+aspas killed Oxy  in round 32
+Mazino killed runi  in round 32
+tex killed vanity  in round 32
+aspas killed xeppaa  in round 32
+Round 32 ended with spike_defuse. The winning team is Leviatán Esports.
+The current score is Leviatán Esports 16 - 16 Cloud9 Blue.
+tex killed vanity  in round 33
+Oxy killed tex  in round 33
+aspas killed Oxy  in round 33
+xeppaa killed Mazino  in round 33
+xeppaa killed kiNgg  in round 33
+aspas killed xeppaa  in round 33
+aspas killed moose  in round 33
+runi killed C0M  in round 33
+runi killed aspas  in round 33
+Round 33 ended with spike_defuse. The winning team is Cloud9 Blue.
+The current score is Leviatán Esports 16 - 17 Cloud9 Blue.
+Oxy killed Mazino  in round 34
+Oxy killed aspas  in round 34
+tex killed runi  in round 34
+xeppaa killed tex  in round 34
+C0M killed xeppaa  in round 34
+C0M killed Oxy  in round 34
+vanity killed kiNgg  in round 34
+C0M killed vanity  in round 34
+moose killed C0M  in round 34
+Round 34 ended with elimination. The winning team is Cloud9 Blue.
+The current score is Leviatán Esports 16 - 18 Cloud9 Blue.
+Game ended with winning team: Cloud9 Blue at 2024-04-07T00:34:51Z
+
+--- Player Stats ---
+moose: Team=Cloud9 Blue, Kills=19, Deaths=24, Assists=9, KDA=1.17, First Kills=4, First Deaths=1
+vanity: Team=Cloud9 Blue, Kills=15, Deaths=25, Assists=9, KDA=0.96, First Kills=2, First Deaths=5
+Oxy: Team=Cloud9 Blue, Kills=35, Deaths=25, Assists=4, KDA=1.56, First Kills=6, First Deaths=5
+runi: Team=Cloud9 Blue, Kills=21, Deaths=21, Assists=13, KDA=1.62, First Kills=0, First Deaths=3
+xeppaa: Team=Cloud9 Blue, Kills=26, Deaths=24, Assists=16, KDA=1.75, First Kills=3, First Deaths=4
+aspas: Team=Leviatán Esports, Kills=35, Deaths=23, Assists=8, KDA=1.87, First Kills=5, First Deaths=3
+tex: Team=Leviatán Esports, Kills=23, Deaths=23, Assists=13, KDA=1.57, First Kills=4, First Deaths=5
+kiNgg: Team=Leviatán Esports, Kills=31, Deaths=22, Assists=22, KDA=2.41, First Kills=5, First Deaths=3
+C0M: Team=Leviatán Esports, Kills=13, Deaths=24, Assists=6, KDA=0.79, First Kills=4, First Deaths=3
+Mazino: Team=Leviatán Esports, Kills=20, Deaths=27, Assists=9, KDA=1.07, First Kills=1, First Deaths=2

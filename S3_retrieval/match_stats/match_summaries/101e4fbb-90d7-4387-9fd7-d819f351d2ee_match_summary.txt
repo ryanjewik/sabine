@@ -1,0 +1,188 @@
+Team 1: LOUD
+Team 2: NRG
+Participating Players:
+Player 1: crashies
+Player 2: Victor
+Player 3: FNS
+Player 4: s0m
+Player 5: ardiis
+Player 6: aspas
+Player 7: cauanzin
+Player 8: Saadhak
+Player 9: Less
+Player 10: tuyz
+Winning Team: LOUD
+Score: LOUD 13 - 3 NRG
+Tournament Name: lock in brazil 2023
+Game Start Time: 2023-02-19T16:54:52Z
+Game End Time: 2023-02-19T17:41:21Z
+Rounds ended by ELIMINATION count: 10
+Rounds ended by DEFUSE count: 4
+Rounds ended by DETONATE count: 1
+SPIKE PLANTED count: 5
+platformGameId: val:101e4fbb-90d7-4387-9fd7-d819f351d2ee
+
+--- Events ---
+Game started at 2023-02-19T16:54:52Z
+ardiis killed aspas  in round 1
+Saadhak killed ardiis  in round 1
+s0m killed Less  in round 1
+Saadhak killed s0m  in round 1
+cauanzin killed crashies  in round 1
+Victor killed cauanzin  in round 1
+tuyz killed Victor  in round 1
+Saadhak killed FNS  in round 1
+Round 1 ended with elimination. The winning team is LOUD.
+The current score is LOUD 1 - 0 NRG.
+aspas killed ardiis  in round 2
+FNS killed aspas  in round 2
+cauanzin killed Victor  in round 2
+Saadhak killed s0m  in round 2
+FNS killed Saadhak  in round 2
+tuyz killed FNS  in round 2
+Round 2 ended with detonate. The winning team is LOUD.
+The current score is LOUD 2 - 0 NRG.
+crashies killed crashies  in round 3
+Victor killed Saadhak  in round 3
+aspas killed Victor  in round 3
+s0m killed cauanzin  in round 3
+tuyz killed s0m  in round 3
+aspas killed ardiis  in round 3
+tuyz killed FNS  in round 3
+crashies killed tuyz  in round 3
+Less killed crashies  in round 3
+Round 3 ended with elimination. The winning team is LOUD.
+The current score is LOUD 3 - 0 NRG.
+cauanzin killed s0m  in round 4
+aspas killed Victor  in round 4
+Saadhak killed FNS  in round 4
+crashies killed aspas  in round 4
+Less killed ardiis  in round 4
+tuyz killed crashies  in round 4
+Round 4 ended with elimination. The winning team is LOUD.
+The current score is LOUD 4 - 0 NRG.
+ardiis killed Saadhak  in round 5
+cauanzin killed crashies  in round 5
+Less killed FNS  in round 5
+Victor killed tuyz  in round 5
+Victor killed Less  in round 5
+cauanzin killed Victor  in round 5
+Victor killed cauanzin  in round 5
+aspas killed ardiis  in round 5
+s0m killed aspas  in round 5
+Round 5 ended with spike_defuse. The winning team is NRG.
+The current score is LOUD 4 - 1 NRG.
+ardiis killed Less  in round 6
+ardiis killed aspas  in round 6
+Saadhak killed Victor  in round 6
+Saadhak killed FNS  in round 6
+ardiis killed Saadhak  in round 6
+s0m killed tuyz  in round 6
+crashies killed cauanzin  in round 6
+Round 6 ended with elimination. The winning team is NRG.
+The current score is LOUD 4 - 2 NRG.
+Victor killed Saadhak  in round 7
+cauanzin killed Victor  in round 7
+aspas killed s0m  in round 7
+aspas killed FNS  in round 7
+cauanzin killed ardiis  in round 7
+crashies killed Less  in round 7
+aspas killed crashies  in round 7
+Round 7 ended with elimination. The winning team is LOUD.
+The current score is LOUD 5 - 2 NRG.
+Less killed crashies  in round 8
+Less killed ardiis  in round 8
+aspas killed Victor  in round 8
+tuyz killed FNS  in round 8
+Less killed s0m  in round 8
+Round 8 ended with elimination. The winning team is LOUD.
+The current score is LOUD 6 - 2 NRG.
+Less killed Victor  in round 9
+s0m killed cauanzin  in round 9
+Saadhak killed ardiis  in round 9
+s0m killed Less  in round 9
+tuyz killed s0m  in round 9
+aspas killed crashies  in round 9
+tuyz killed FNS  in round 9
+Round 9 ended with elimination. The winning team is LOUD.
+The current score is LOUD 7 - 2 NRG.
+s0m killed Less  in round 10
+Saadhak killed FNS  in round 10
+aspas killed s0m  in round 10
+aspas killed ardiis  in round 10
+crashies killed cauanzin  in round 10
+tuyz killed crashies  in round 10
+tuyz killed Victor  in round 10
+Round 10 ended with elimination. The winning team is LOUD.
+The current score is LOUD 8 - 2 NRG.
+FNS killed aspas  in round 11
+Saadhak killed FNS  in round 11
+Saadhak killed crashies  in round 11
+Victor killed Saadhak  in round 11
+tuyz killed s0m  in round 11
+tuyz killed ardiis  in round 11
+tuyz killed Victor  in round 11
+Round 11 ended with elimination. The winning team is LOUD.
+The current score is LOUD 9 - 2 NRG.
+s0m killed Less  in round 12
+crashies killed Saadhak  in round 12
+s0m killed tuyz  in round 12
+cauanzin killed crashies  in round 12
+aspas killed FNS  in round 12
+Victor killed cauanzin  in round 12
+ardiis killed aspas  in round 12
+Round 12 ended with elimination. The winning team is NRG.
+The current score is LOUD 9 - 3 NRG.
+aspas killed Victor  in round 13
+crashies killed cauanzin  in round 13
+Saadhak killed crashies  in round 13
+s0m killed Saadhak  in round 13
+ardiis killed aspas  in round 13
+Less killed ardiis  in round 13
+s0m killed Less  in round 13
+tuyz killed FNS  in round 13
+tuyz killed s0m  in round 13
+Round 13 ended with spike_defuse. The winning team is LOUD.
+The current score is LOUD 10 - 3 NRG.
+Victor killed cauanzin  in round 14
+FNS killed Less  in round 14
+aspas killed FNS  in round 14
+aspas killed crashies  in round 14
+Saadhak killed Victor  in round 14
+tuyz killed s0m  in round 14
+tuyz killed ardiis  in round 14
+Round 14 ended with spike_defuse. The winning team is LOUD.
+The current score is LOUD 11 - 3 NRG.
+aspas killed Victor  in round 15
+aspas killed FNS  in round 15
+crashies killed aspas  in round 15
+ardiis killed tuyz  in round 15
+ardiis killed Saadhak  in round 15
+Less killed ardiis  in round 15
+cauanzin killed s0m  in round 15
+crashies killed cauanzin  in round 15
+Round 15 ended with time_expired. The winning team is LOUD.
+The current score is LOUD 12 - 3 NRG.
+aspas killed ardiis  in round 16
+Saadhak killed Saadhak  in round 16
+Victor killed aspas  in round 16
+tuyz killed Victor  in round 16
+tuyz killed FNS  in round 16
+tuyz killed s0m  in round 16
+crashies killed tuyz  in round 16
+cauanzin killed crashies  in round 16
+Round 16 ended with spike_defuse. The winning team is LOUD.
+The current score is LOUD 13 - 3 NRG.
+Game ended with winning team: LOUD at 2023-02-19T17:41:21Z
+
+--- Player Stats ---
+crashies: Team=NRG, Kills=11, Deaths=14, Assists=0, KDA=0.79, First Kills=1, First Deaths=2
+Victor: Team=NRG, Kills=10, Deaths=15, Assists=1, KDA=0.73, First Kills=2, First Deaths=3
+FNS: Team=NRG, Kills=4, Deaths=16, Assists=8, KDA=0.75, First Kills=1, First Deaths=0
+s0m: Team=NRG, Kills=11, Deaths=13, Assists=5, KDA=1.23, First Kills=2, First Deaths=1
+ardiis: Team=NRG, Kills=9, Deaths=14, Assists=7, KDA=1.14, First Kills=3, First Deaths=2
+aspas: Team=LOUD, Kills=19, Deaths=10, Assists=0, KDA=1.9, First Kills=4, First Deaths=2
+cauanzin: Team=LOUD, Kills=10, Deaths=10, Assists=11, KDA=2.1, First Kills=1, First Deaths=1
+Saadhak: Team=LOUD, Kills=14, Deaths=10, Assists=6, KDA=2.0, First Kills=0, First Deaths=2
+Less: Team=LOUD, Kills=9, Deaths=9, Assists=5, KDA=1.56, First Kills=2, First Deaths=3
+tuyz: Team=LOUD, Kills=20, Deaths=6, Assists=9, KDA=4.83, First Kills=0, First Deaths=0

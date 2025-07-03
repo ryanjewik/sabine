@@ -1,0 +1,210 @@
+Team 1: Team Liquid
+Team 2: BBL Esports
+Participating Players:
+Player 1: Brave
+Player 2: QutionerX
+Player 3: pAura
+Player 4: Reazy
+Player 5: Elite
+Player 6: Mistic
+Player 7: nAts
+Player 8: Enzo 
+Player 9: Keiko
+Player 10: Jamppi
+Winning Team: BBL Esports
+Score: Team Liquid 6 - 13 BBL Esports
+Tournament Name: vct emea stage 2 2024
+Game Start Time: 2024-06-27T15:46:15Z
+Game End Time: 2024-06-27T16:42:09Z
+Rounds ended by ELIMINATION count: 14
+Rounds ended by DEFUSE count: 2
+Rounds ended by DETONATE count: 3
+SPIKE PLANTED count: 5
+platformGameId: val:eef183f5-f6f9-4140-9546-759aef71c3ad
+
+--- Events ---
+Game started at 2024-06-27T15:46:15Z
+Keiko killed QutionerX  in round 1
+Keiko killed Reazy  in round 1
+nAts killed pAura  in round 1
+Mistic killed Elite  in round 1
+Keiko killed Brave  in round 1
+Round 1 ended with elimination. The winning team is Team Liquid.
+The current score is Team Liquid 1 - 0 BBL Esports.
+Keiko killed QutionerX  in round 2
+Enzo  killed Reazy  in round 2
+Enzo  killed Elite  in round 2
+nAts killed Brave  in round 2
+nAts killed pAura  in round 2
+Round 2 ended with elimination. The winning team is Team Liquid.
+The current score is Team Liquid 2 - 0 BBL Esports.
+pAura killed Keiko  in round 3
+QutionerX killed Mistic  in round 3
+Jamppi killed Reazy  in round 3
+Brave killed Jamppi  in round 3
+Brave killed Enzo   in round 3
+nAts killed Brave  in round 3
+Elite killed nAts  in round 3
+Round 3 ended with elimination. The winning team is BBL Esports.
+The current score is Team Liquid 2 - 1 BBL Esports.
+Brave killed Keiko  in round 4
+Reazy killed Enzo   in round 4
+Mistic killed Reazy  in round 4
+nAts killed Brave  in round 4
+Elite killed nAts  in round 4
+Elite killed Mistic  in round 4
+Jamppi killed pAura  in round 4
+Jamppi killed QutionerX  in round 4
+Jamppi killed Elite  in round 4
+Round 4 ended with elimination. The winning team is Team Liquid.
+The current score is Team Liquid 3 - 1 BBL Esports.
+nAts killed Brave  in round 5
+Elite killed Mistic  in round 5
+Keiko killed pAura  in round 5
+Keiko killed Reazy  in round 5
+Keiko killed Elite  in round 5
+QutionerX killed Enzo   in round 5
+nAts killed QutionerX  in round 5
+Round 5 ended with elimination. The winning team is Team Liquid.
+The current score is Team Liquid 4 - 1 BBL Esports.
+Brave killed Mistic  in round 6
+QutionerX killed Enzo   in round 6
+nAts killed pAura  in round 6
+Elite killed Keiko  in round 6
+QutionerX killed Jamppi  in round 6
+nAts killed Reazy  in round 6
+nAts killed QutionerX  in round 6
+Brave killed nAts  in round 6
+Round 6 ended with elimination. The winning team is BBL Esports.
+The current score is Team Liquid 4 - 2 BBL Esports.
+Jamppi killed pAura  in round 7
+Keiko killed Reazy  in round 7
+QutionerX killed Enzo   in round 7
+Keiko killed QutionerX  in round 7
+Elite killed Keiko  in round 7
+Brave killed nAts  in round 7
+Elite killed Mistic  in round 7
+Jamppi killed Elite  in round 7
+Brave killed Jamppi  in round 7
+Round 7 ended with spike_defuse. The winning team is BBL Esports.
+The current score is Team Liquid 4 - 3 BBL Esports.
+Keiko killed Brave  in round 8
+pAura killed Enzo   in round 8
+Reazy killed Mistic  in round 8
+Reazy killed Jamppi  in round 8
+nAts killed Reazy  in round 8
+Elite killed Keiko  in round 8
+Elite killed nAts  in round 8
+Round 8 ended with elimination. The winning team is BBL Esports.
+The current score is Team Liquid 4 - 4 BBL Esports.
+Brave killed Enzo   in round 9
+Jamppi killed Brave  in round 9
+QutionerX killed Mistic  in round 9
+QutionerX killed Keiko  in round 9
+Jamppi killed QutionerX  in round 9
+pAura killed Jamppi  in round 9
+nAts killed pAura  in round 9
+Reazy killed nAts  in round 9
+Round 9 ended with elimination. The winning team is BBL Esports.
+The current score is Team Liquid 4 - 5 BBL Esports.
+Reazy killed Mistic  in round 10
+Reazy killed Enzo   in round 10
+Reazy killed Keiko  in round 10
+Brave killed nAts  in round 10
+Elite killed Jamppi  in round 10
+Round 10 ended with elimination. The winning team is BBL Esports.
+The current score is Team Liquid 4 - 6 BBL Esports.
+Elite killed Keiko  in round 11
+Jamppi killed pAura  in round 11
+Elite killed Enzo   in round 11
+QutionerX killed Mistic  in round 11
+Jamppi killed Brave  in round 11
+Reazy killed nAts  in round 11
+Reazy killed Jamppi  in round 11
+Round 11 ended with elimination. The winning team is BBL Esports.
+The current score is Team Liquid 4 - 7 BBL Esports.
+Jamppi killed Brave  in round 12
+Jamppi killed Elite  in round 12
+Mistic killed QutionerX  in round 12
+Reazy killed Jamppi  in round 12
+Reazy killed nAts  in round 12
+Keiko killed Reazy  in round 12
+Mistic killed pAura  in round 12
+Round 12 ended with elimination. The winning team is Team Liquid.
+The current score is Team Liquid 5 - 7 BBL Esports.
+Keiko killed pAura  in round 13
+Brave killed Keiko  in round 13
+Enzo  killed Brave  in round 13
+Reazy killed Enzo   in round 13
+Reazy killed Jamppi  in round 13
+Reazy killed nAts  in round 13
+Elite killed Mistic  in round 13
+Round 13 ended with elimination. The winning team is BBL Esports.
+The current score is Team Liquid 5 - 8 BBL Esports.
+QutionerX killed Jamppi  in round 14
+nAts killed QutionerX  in round 14
+Keiko killed Reazy  in round 14
+Round 14 ended with detonate. The winning team is BBL Esports.
+The current score is Team Liquid 5 - 9 BBL Esports.
+Mistic killed Mistic  in round 15
+nAts killed nAts  in round 15
+Enzo  killed Enzo   in round 15
+Keiko killed Keiko  in round 15
+QutionerX killed Keiko  in round 15
+Jamppi killed QutionerX  in round 15
+Mistic killed Brave  in round 15
+Enzo  killed Reazy  in round 15
+Elite killed Enzo   in round 15
+Elite killed Jamppi  in round 15
+Mistic killed Elite  in round 15
+pAura killed nAts  in round 15
+Mistic killed pAura  in round 15
+Round 15 ended with spike_defuse. The winning team is Team Liquid.
+The current score is Team Liquid 6 - 9 BBL Esports.
+pAura killed Keiko  in round 16
+pAura killed Jamppi  in round 16
+Mistic killed Elite  in round 16
+pAura killed Mistic  in round 16
+nAts killed QutionerX  in round 16
+Round 16 ended with detonate. The winning team is BBL Esports.
+The current score is Team Liquid 6 - 10 BBL Esports.
+nAts killed nAts  in round 17
+Elite killed Keiko  in round 17
+Brave killed nAts  in round 17
+Brave killed Enzo   in round 17
+QutionerX killed Mistic  in round 17
+QutionerX killed Jamppi  in round 17
+Round 17 ended with elimination. The winning team is BBL Esports.
+The current score is Team Liquid 6 - 11 BBL Esports.
+Brave killed Keiko  in round 18
+pAura killed Jamppi  in round 18
+Brave killed Enzo   in round 18
+Mistic killed pAura  in round 18
+Brave killed Mistic  in round 18
+Round 18 ended with detonate. The winning team is BBL Esports.
+The current score is Team Liquid 6 - 12 BBL Esports.
+nAts killed QutionerX  in round 19
+pAura killed Mistic  in round 19
+nAts killed Brave  in round 19
+Keiko killed Reazy  in round 19
+pAura killed nAts  in round 19
+pAura killed Jamppi  in round 19
+Enzo  killed QutionerX  in round 19
+pAura killed Keiko  in round 19
+Enzo  killed Elite  in round 19
+pAura killed Enzo   in round 19
+Round 19 ended with elimination. The winning team is BBL Esports.
+The current score is Team Liquid 6 - 13 BBL Esports.
+Game ended with winning team: BBL Esports at 2024-06-27T16:42:09Z
+
+--- Player Stats ---
+Brave: Team=BBL Esports, Kills=15, Deaths=12, Assists=2, KDA=1.42, First Kills=4, First Deaths=3
+QutionerX: Team=BBL Esports, Kills=12, Deaths=13, Assists=11, KDA=1.77, First Kills=1, First Deaths=3
+pAura: Team=BBL Esports, Kills=13, Deaths=12, Assists=9, KDA=1.83, First Kills=2, First Deaths=2
+Reazy: Team=BBL Esports, Kills=14, Deaths=12, Assists=5, KDA=1.58, First Kills=1, First Deaths=0
+Elite: Team=BBL Esports, Kills=16, Deaths=9, Assists=7, KDA=2.56, First Kills=1, First Deaths=0
+Mistic: Team=Team Liquid, Kills=10, Deaths=15, Assists=6, KDA=1.07, First Kills=1, First Deaths=3
+nAts: Team=Team Liquid, Kills=18, Deaths=15, Assists=7, KDA=1.67, First Kills=3, First Deaths=1
+Enzo : Team=Team Liquid, Kills=7, Deaths=15, Assists=9, KDA=1.07, First Kills=0, First Deaths=1
+Keiko: Team=Team Liquid, Kills=15, Deaths=15, Assists=2, KDA=1.13, First Kills=4, First Deaths=5
+Jamppi: Team=Team Liquid, Kills=13, Deaths=15, Assists=1, KDA=0.93, First Kills=2, First Deaths=1

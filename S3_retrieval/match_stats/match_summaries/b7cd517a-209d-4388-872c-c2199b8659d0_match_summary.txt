@@ -1,0 +1,232 @@
+Team 1: KOI
+Team 2: Team Liquid
+Participating Players:
+Player 1: Jamppi
+Player 2: Sayf
+Player 3: Redgar
+Player 4: nAts
+Player 5: soulcas
+Player 6: Trexx
+Player 7: starxo
+Player 8: koldamenta
+Player 9: Sheydos
+Player 10: Wolfen
+Winning Team: Team Liquid
+Score: KOI 8 - 13 Team Liquid
+Tournament Name: vct emea 2023
+Game Start Time: 2023-05-19T18:15:13Z
+Game End Time: 2023-05-19T18:59:43Z
+Rounds ended by ELIMINATION count: 18
+Rounds ended by DEFUSE count: 2
+Rounds ended by DETONATE count: 1
+SPIKE PLANTED count: 3
+platformGameId: val:b7cd517a-209d-4388-872c-c2199b8659d0
+
+--- Events ---
+Game started at 2023-05-19T18:15:13Z
+Wolfen killed Redgar  in round 1
+nAts killed Wolfen  in round 1
+Trexx killed nAts  in round 1
+Sheydos killed Jamppi  in round 1
+Trexx killed Sayf  in round 1
+soulcas killed starxo  in round 1
+Trexx killed soulcas  in round 1
+Round 1 ended with elimination. The winning team is KOI.
+The current score is KOI 1 - 0 Team Liquid.
+Trexx killed Jamppi  in round 2
+Trexx killed nAts  in round 2
+starxo killed Sayf  in round 2
+koldamenta killed Redgar  in round 2
+soulcas killed koldamenta  in round 2
+soulcas killed Sheydos  in round 2
+soulcas killed Wolfen  in round 2
+starxo killed soulcas  in round 2
+Round 2 ended with elimination. The winning team is KOI.
+The current score is KOI 2 - 0 Team Liquid.
+starxo killed nAts  in round 3
+starxo killed Sayf  in round 3
+soulcas killed starxo  in round 3
+soulcas killed Trexx  in round 3
+Wolfen killed Jamppi  in round 3
+Sheydos killed Redgar  in round 3
+Round 3 ended with detonate. The winning team is KOI.
+The current score is KOI 3 - 0 Team Liquid.
+Redgar killed starxo  in round 4
+Trexx killed Redgar  in round 4
+Sayf killed Trexx  in round 4
+Jamppi killed koldamenta  in round 4
+Sheydos killed Jamppi  in round 4
+Wolfen killed soulcas  in round 4
+nAts killed Wolfen  in round 4
+Sheydos killed Sayf  in round 4
+nAts killed Sheydos  in round 4
+Round 4 ended with elimination. The winning team is Team Liquid.
+The current score is KOI 3 - 1 Team Liquid.
+Redgar killed Trexx  in round 5
+Redgar killed koldamenta  in round 5
+Jamppi killed starxo  in round 5
+nAts killed Wolfen  in round 5
+Redgar killed Sheydos  in round 5
+Round 5 ended with elimination. The winning team is Team Liquid.
+The current score is KOI 3 - 2 Team Liquid.
+starxo killed nAts  in round 6
+Redgar killed Sheydos  in round 6
+Redgar killed koldamenta  in round 6
+Wolfen killed Sayf  in round 6
+Jamppi killed Wolfen  in round 6
+soulcas killed starxo  in round 6
+Redgar killed Trexx  in round 6
+Round 6 ended with spike_defuse. The winning team is Team Liquid.
+The current score is KOI 3 - 3 Team Liquid.
+Sayf killed Trexx  in round 7
+Sayf killed starxo  in round 7
+Wolfen killed Jamppi  in round 7
+Redgar killed koldamenta  in round 7
+Sheydos killed soulcas  in round 7
+nAts killed Sheydos  in round 7
+nAts killed Wolfen  in round 7
+Round 7 ended with spike_defuse. The winning team is Team Liquid.
+The current score is KOI 3 - 4 Team Liquid.
+Jamppi killed Trexx  in round 8
+Sheydos killed Jamppi  in round 8
+Redgar killed Sheydos  in round 8
+starxo killed Redgar  in round 8
+koldamenta killed soulcas  in round 8
+nAts killed koldamenta  in round 8
+nAts killed Wolfen  in round 8
+starxo killed nAts  in round 8
+Sayf killed starxo  in round 8
+Round 8 ended with elimination. The winning team is Team Liquid.
+The current score is KOI 3 - 5 Team Liquid.
+Jamppi killed Wolfen  in round 9
+nAts killed koldamenta  in round 9
+nAts killed Trexx  in round 9
+nAts killed starxo  in round 9
+Sayf killed Sheydos  in round 9
+Round 9 ended with elimination. The winning team is Team Liquid.
+The current score is KOI 3 - 6 Team Liquid.
+Jamppi killed Trexx  in round 10
+nAts killed Sheydos  in round 10
+nAts killed koldamenta  in round 10
+nAts killed starxo  in round 10
+Jamppi killed Wolfen  in round 10
+Round 10 ended with elimination. The winning team is Team Liquid.
+The current score is KOI 3 - 7 Team Liquid.
+Redgar killed koldamenta  in round 11
+Sayf killed starxo  in round 11
+Wolfen killed nAts  in round 11
+Sheydos killed Redgar  in round 11
+Trexx killed Sayf  in round 11
+Trexx killed Jamppi  in round 11
+Wolfen killed soulcas  in round 11
+Round 11 ended with elimination. The winning team is KOI.
+The current score is KOI 4 - 7 Team Liquid.
+Sayf killed Wolfen  in round 12
+koldamenta killed Sayf  in round 12
+koldamenta killed Redgar  in round 12
+soulcas killed Trexx  in round 12
+Sheydos killed soulcas  in round 12
+Jamppi killed koldamenta  in round 12
+nAts killed starxo  in round 12
+Sheydos killed nAts  in round 12
+Sheydos killed Jamppi  in round 12
+Round 12 ended with elimination. The winning team is KOI.
+The current score is KOI 5 - 7 Team Liquid.
+Jamppi killed starxo  in round 13
+Trexx killed Redgar  in round 13
+soulcas killed Trexx  in round 13
+Jamppi killed Sheydos  in round 13
+koldamenta killed Jamppi  in round 13
+nAts killed Wolfen  in round 13
+Sayf killed koldamenta  in round 13
+Round 13 ended with elimination. The winning team is Team Liquid.
+The current score is KOI 5 - 8 Team Liquid.
+Trexx killed Redgar  in round 14
+Sayf killed Sheydos  in round 14
+Sayf killed koldamenta  in round 14
+Trexx killed Jamppi  in round 14
+starxo killed soulcas  in round 14
+Trexx killed Sayf  in round 14
+nAts killed Wolfen  in round 14
+nAts killed starxo  in round 14
+nAts killed Trexx  in round 14
+Round 14 ended with elimination. The winning team is Team Liquid.
+The current score is KOI 5 - 9 Team Liquid.
+Redgar killed Trexx  in round 15
+starxo killed Redgar  in round 15
+nAts killed starxo  in round 15
+Jamppi killed koldamenta  in round 15
+Wolfen killed soulcas  in round 15
+Jamppi killed Wolfen  in round 15
+Sheydos killed Jamppi  in round 15
+nAts killed Sheydos  in round 15
+Round 15 ended with elimination. The winning team is Team Liquid.
+The current score is KOI 5 - 10 Team Liquid.
+soulcas killed Sheydos  in round 16
+Jamppi killed starxo  in round 16
+Trexx killed Redgar  in round 16
+Jamppi killed Trexx  in round 16
+nAts killed Wolfen  in round 16
+nAts killed koldamenta  in round 16
+Round 16 ended with elimination. The winning team is Team Liquid.
+The current score is KOI 5 - 11 Team Liquid.
+nAts killed koldamenta  in round 17
+Wolfen killed Redgar  in round 17
+starxo killed soulcas  in round 17
+Sayf killed starxo  in round 17
+Trexx killed Jamppi  in round 17
+Sayf killed Wolfen  in round 17
+Trexx killed nAts  in round 17
+Sayf killed Trexx  in round 17
+Sheydos killed Sayf  in round 17
+Round 17 ended with elimination. The winning team is KOI.
+The current score is KOI 6 - 11 Team Liquid.
+Jamppi killed Wolfen  in round 18
+koldamenta killed Redgar  in round 18
+Jamppi killed koldamenta  in round 18
+Jamppi killed Trexx  in round 18
+Sheydos killed nAts  in round 18
+Sheydos killed Jamppi  in round 18
+soulcas killed starxo  in round 18
+soulcas killed Sheydos  in round 18
+Round 18 ended with elimination. The winning team is Team Liquid.
+The current score is KOI 6 - 12 Team Liquid.
+Redgar killed koldamenta  in round 19
+Sheydos killed Redgar  in round 19
+Sheydos killed Sayf  in round 19
+Sheydos killed nAts  in round 19
+soulcas killed starxo  in round 19
+soulcas killed Sheydos  in round 19
+Wolfen killed soulcas  in round 19
+Wolfen killed Jamppi  in round 19
+Round 19 ended with elimination. The winning team is KOI.
+The current score is KOI 7 - 12 Team Liquid.
+starxo killed Jamppi  in round 20
+soulcas killed koldamenta  in round 20
+starxo killed Redgar  in round 20
+Sheydos killed Sayf  in round 20
+nAts killed Sheydos  in round 20
+Wolfen killed nAts  in round 20
+Trexx killed soulcas  in round 20
+Round 20 ended with elimination. The winning team is KOI.
+The current score is KOI 8 - 12 Team Liquid.
+Redgar killed Trexx  in round 21
+Jamppi killed koldamenta  in round 21
+Jamppi killed Wolfen  in round 21
+Jamppi killed starxo  in round 21
+Jamppi killed Sheydos  in round 21
+Round 21 ended with elimination. The winning team is Team Liquid.
+The current score is KOI 8 - 13 Team Liquid.
+Game ended with winning team: Team Liquid at 2023-05-19T18:59:43Z
+
+--- Player Stats ---
+Jamppi: Team=Team Liquid, Kills=21, Deaths=15, Assists=7, KDA=1.87, First Kills=5, First Deaths=2
+Sayf: Team=Team Liquid, Kills=13, Deaths=11, Assists=4, KDA=1.55, First Kills=2, First Deaths=0
+Redgar: Team=Team Liquid, Kills=13, Deaths=15, Assists=6, KDA=1.27, First Kills=6, First Deaths=2
+nAts: Team=Team Liquid, Kills=25, Deaths=11, Assists=6, KDA=2.82, First Kills=1, First Deaths=2
+soulcas: Team=Team Liquid, Kills=15, Deaths=12, Assists=18, KDA=2.75, First Kills=1, First Deaths=0
+Trexx: Team=KOI, Kills=16, Deaths=16, Assists=3, KDA=1.19, First Kills=2, First Deaths=6
+starxo: Team=KOI, Kills=12, Deaths=19, Assists=11, KDA=1.21, First Kills=3, First Deaths=2
+koldamenta: Team=KOI, Kills=6, Deaths=19, Assists=7, KDA=0.68, First Kills=0, First Deaths=3
+Sheydos: Team=KOI, Kills=18, Deaths=16, Assists=5, KDA=1.44, First Kills=0, First Deaths=1
+Wolfen: Team=KOI, Kills=12, Deaths=17, Assists=2, KDA=0.82, First Kills=1, First Deaths=3

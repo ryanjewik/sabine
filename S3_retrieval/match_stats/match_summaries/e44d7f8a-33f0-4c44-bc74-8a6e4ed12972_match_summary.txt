@@ -1,0 +1,256 @@
+Team 1: ALL GAMERS
+Team 2: Trace Esports
+Participating Players:
+Player 1: FengF
+Player 2: Kai 
+Player 3: heybay
+Player 4: Biank
+Player 5: LuoK1ng
+Player 6: Spitfires
+Player 7: Bunt
+Player 8: sword9
+Player 9: deLb
+Player 10: monk2
+Winning Team: Trace Esports
+Score: ALL GAMERS 10 - 13 Trace Esports
+Tournament Name: vct cn stage 2 2024
+Game Start Time: 2024-07-16T09:06:10Z
+Game End Time: 2024-07-16T10:00:05Z
+Rounds ended by ELIMINATION count: 15
+Rounds ended by DEFUSE count: 5
+Rounds ended by DETONATE count: 2
+SPIKE PLANTED count: 7
+platformGameId: val:e44d7f8a-33f0-4c44-bc74-8a6e4ed12972
+
+--- Events ---
+Game started at 2024-07-16T09:06:10Z
+Spitfires killed Kai   in round 1
+Biank killed sword9  in round 1
+heybay killed Bunt  in round 1
+Biank killed Spitfires  in round 1
+deLb killed heybay  in round 1
+deLb killed Biank  in round 1
+Round 1 ended with time_expired. The winning team is Trace Esports.
+The current score is ALL GAMERS 0 - 1 Trace Esports.
+deLb killed FengF  in round 2
+deLb killed LuoK1ng  in round 2
+deLb killed Kai   in round 2
+heybay killed monk2  in round 2
+heybay killed deLb  in round 2
+Biank killed Bunt  in round 2
+Spitfires killed heybay  in round 2
+LuoK1ng killed sword9  in round 2
+Spitfires killed LuoK1ng  in round 2
+Spitfires killed Biank  in round 2
+Round 2 ended with spike_defuse. The winning team is Trace Esports.
+The current score is ALL GAMERS 0 - 2 Trace Esports.
+FengF killed Spitfires  in round 3
+FengF killed sword9  in round 3
+Spitfires killed FengF  in round 3
+deLb killed Kai   in round 3
+LuoK1ng killed monk2  in round 3
+deLb killed LuoK1ng  in round 3
+deLb killed Biank  in round 3
+Bunt killed heybay  in round 3
+Round 3 ended with elimination. The winning team is ALL GAMERS.
+The current score is ALL GAMERS 1 - 2 Trace Esports.
+FengF killed sword9  in round 4
+deLb killed FengF  in round 4
+Bunt killed LuoK1ng  in round 4
+heybay killed deLb  in round 4
+Spitfires killed Kai   in round 4
+Bunt killed Biank  in round 4
+heybay killed monk2  in round 4
+Bunt killed heybay  in round 4
+Round 4 ended with elimination. The winning team is ALL GAMERS.
+The current score is ALL GAMERS 2 - 2 Trace Esports.
+Spitfires killed Kai   in round 5
+Round 5 ended with detonate. The winning team is ALL GAMERS.
+The current score is ALL GAMERS 3 - 2 Trace Esports.
+FengF killed FengF  in round 6
+heybay killed heybay  in round 6
+LuoK1ng killed LuoK1ng  in round 6
+Biank killed Biank  in round 6
+FengF killed sword9  in round 6
+Spitfires killed LuoK1ng  in round 6
+heybay killed Spitfires  in round 6
+Biank killed monk2  in round 6
+deLb killed heybay  in round 6
+FengF killed Bunt  in round 6
+deLb killed FengF  in round 6
+Kai  killed deLb  in round 6
+Round 6 ended with elimination. The winning team is Trace Esports.
+The current score is ALL GAMERS 3 - 3 Trace Esports.
+Biank killed Bunt  in round 7
+Spitfires killed Biank  in round 7
+Spitfires killed Kai   in round 7
+heybay killed Spitfires  in round 7
+monk2 killed heybay  in round 7
+FengF killed monk2  in round 7
+sword9 killed LuoK1ng  in round 7
+deLb killed FengF  in round 7
+Round 7 ended with elimination. The winning team is ALL GAMERS.
+The current score is ALL GAMERS 4 - 3 Trace Esports.
+Spitfires killed heybay  in round 8
+Spitfires killed Kai   in round 8
+monk2 killed FengF  in round 8
+sword9 killed Biank  in round 8
+deLb killed LuoK1ng  in round 8
+Round 8 ended with elimination. The winning team is ALL GAMERS.
+The current score is ALL GAMERS 5 - 3 Trace Esports.
+Bunt killed Biank  in round 9
+Spitfires killed heybay  in round 9
+Kai  killed deLb  in round 9
+Kai  killed Spitfires  in round 9
+FengF killed Bunt  in round 9
+Kai  killed monk2  in round 9
+sword9 killed Kai   in round 9
+LuoK1ng killed sword9  in round 9
+Round 9 ended with spike_defuse. The winning team is Trace Esports.
+The current score is ALL GAMERS 5 - 4 Trace Esports.
+heybay killed monk2  in round 10
+FengF killed deLb  in round 10
+Spitfires killed Biank  in round 10
+Bunt killed heybay  in round 10
+sword9 killed FengF  in round 10
+Kai  killed Bunt  in round 10
+Spitfires killed LuoK1ng  in round 10
+Kai  killed Spitfires  in round 10
+sword9 killed Kai   in round 10
+Round 10 ended with elimination. The winning team is ALL GAMERS.
+The current score is ALL GAMERS 6 - 4 Trace Esports.
+LuoK1ng killed Spitfires  in round 11
+FengF killed sword9  in round 11
+Bunt killed LuoK1ng  in round 11
+heybay killed Bunt  in round 11
+monk2 killed heybay  in round 11
+FengF killed monk2  in round 11
+Biank killed deLb  in round 11
+Round 11 ended with elimination. The winning team is Trace Esports.
+The current score is ALL GAMERS 6 - 5 Trace Esports.
+heybay killed Spitfires  in round 12
+sword9 killed FengF  in round 12
+LuoK1ng killed deLb  in round 12
+Bunt killed Biank  in round 12
+Kai  killed sword9  in round 12
+Bunt killed heybay  in round 12
+monk2 killed LuoK1ng  in round 12
+Bunt killed Kai   in round 12
+Round 12 ended with elimination. The winning team is ALL GAMERS.
+The current score is ALL GAMERS 7 - 5 Trace Esports.
+Kai  killed Spitfires  in round 13
+sword9 killed Kai   in round 13
+monk2 killed FengF  in round 13
+LuoK1ng killed sword9  in round 13
+Biank killed monk2  in round 13
+Bunt killed LuoK1ng  in round 13
+heybay killed deLb  in round 13
+Biank killed Bunt  in round 13
+Round 13 ended with elimination. The winning team is Trace Esports.
+The current score is ALL GAMERS 7 - 6 Trace Esports.
+FengF killed sword9  in round 14
+FengF killed monk2  in round 14
+FengF killed Bunt  in round 14
+deLb killed Kai   in round 14
+FengF killed deLb  in round 14
+LuoK1ng killed Spitfires  in round 14
+Round 14 ended with elimination. The winning team is Trace Esports.
+The current score is ALL GAMERS 7 - 7 Trace Esports.
+Biank killed Spitfires  in round 15
+sword9 killed Biank  in round 15
+heybay killed sword9  in round 15
+FengF killed monk2  in round 15
+Round 15 ended with detonate. The winning team is Trace Esports.
+The current score is ALL GAMERS 7 - 8 Trace Esports.
+Bunt killed LuoK1ng  in round 16
+Bunt killed FengF  in round 16
+sword9 killed Kai   in round 16
+Biank killed deLb  in round 16
+heybay killed sword9  in round 16
+Biank killed Spitfires  in round 16
+monk2 killed Biank  in round 16
+heybay killed Bunt  in round 16
+heybay killed monk2  in round 16
+Round 16 ended with elimination. The winning team is Trace Esports.
+The current score is ALL GAMERS 7 - 9 Trace Esports.
+FengF killed deLb  in round 17
+monk2 killed LuoK1ng  in round 17
+monk2 killed heybay  in round 17
+sword9 killed FengF  in round 17
+Biank killed sword9  in round 17
+Kai  killed monk2  in round 17
+Kai  killed Spitfires  in round 17
+Kai  killed Bunt  in round 17
+Round 17 ended with elimination. The winning team is Trace Esports.
+The current score is ALL GAMERS 7 - 10 Trace Esports.
+Bunt killed FengF  in round 18
+Bunt killed heybay  in round 18
+LuoK1ng killed Bunt  in round 18
+sword9 killed Biank  in round 18
+deLb killed LuoK1ng  in round 18
+deLb killed Kai   in round 18
+Round 18 ended with spike_defuse. The winning team is ALL GAMERS.
+The current score is ALL GAMERS 8 - 10 Trace Esports.
+FengF killed sword9  in round 19
+Spitfires killed heybay  in round 19
+LuoK1ng killed Spitfires  in round 19
+monk2 killed FengF  in round 19
+Kai  killed monk2  in round 19
+Bunt killed Biank  in round 19
+deLb killed Kai   in round 19
+LuoK1ng killed deLb  in round 19
+LuoK1ng killed Bunt  in round 19
+Round 19 ended with elimination. The winning team is Trace Esports.
+The current score is ALL GAMERS 8 - 11 Trace Esports.
+deLb killed FengF  in round 20
+Biank killed deLb  in round 20
+Biank killed sword9  in round 20
+monk2 killed Kai   in round 20
+LuoK1ng killed monk2  in round 20
+heybay killed Bunt  in round 20
+LuoK1ng killed Spitfires  in round 20
+Round 20 ended with elimination. The winning team is Trace Esports.
+The current score is ALL GAMERS 8 - 12 Trace Esports.
+Spitfires killed FengF  in round 21
+Biank killed Spitfires  in round 21
+monk2 killed Kai   in round 21
+Biank killed monk2  in round 21
+Bunt killed Biank  in round 21
+sword9 killed heybay  in round 21
+deLb killed LuoK1ng  in round 21
+Round 21 ended with spike_defuse. The winning team is ALL GAMERS.
+The current score is ALL GAMERS 9 - 12 Trace Esports.
+deLb killed Biank  in round 22
+deLb killed heybay  in round 22
+FengF killed deLb  in round 22
+sword9 killed Kai   in round 22
+FengF killed Bunt  in round 22
+LuoK1ng killed monk2  in round 22
+sword9 killed LuoK1ng  in round 22
+Spitfires killed FengF  in round 22
+Round 22 ended with spike_defuse. The winning team is ALL GAMERS.
+The current score is ALL GAMERS 10 - 12 Trace Esports.
+Biank killed Spitfires  in round 23
+Biank killed sword9  in round 23
+monk2 killed LuoK1ng  in round 23
+monk2 killed FengF  in round 23
+Bunt killed Biank  in round 23
+Kai  killed Bunt  in round 23
+deLb killed Kai   in round 23
+heybay killed monk2  in round 23
+heybay killed deLb  in round 23
+Round 23 ended with elimination. The winning team is Trace Esports.
+The current score is ALL GAMERS 10 - 13 Trace Esports.
+Game ended with winning team: Trace Esports at 2024-07-16T10:00:05Z
+
+--- Player Stats ---
+FengF: Team=Trace Esports, Kills=20, Deaths=18, Assists=4, KDA=1.33, First Kills=6, First Deaths=5
+Kai : Team=Trace Esports, Kills=13, Deaths=19, Assists=5, KDA=0.95, First Kills=1, First Deaths=2
+heybay: Team=Trace Esports, Kills=19, Deaths=17, Assists=13, KDA=1.88, First Kills=2, First Deaths=1
+Biank: Team=Trace Esports, Kills=19, Deaths=17, Assists=9, KDA=1.65, First Kills=3, First Deaths=2
+LuoK1ng: Team=Trace Esports, Kills=15, Deaths=18, Assists=5, KDA=1.11, First Kills=1, First Deaths=1
+Spitfires: Team=ALL GAMERS, Kills=18, Deaths=17, Assists=4, KDA=1.29, First Kills=4, First Deaths=6
+Bunt: Team=ALL GAMERS, Kills=18, Deaths=16, Assists=10, KDA=1.75, First Kills=3, First Deaths=1
+sword9: Team=ALL GAMERS, Kills=14, Deaths=16, Assists=4, KDA=1.12, First Kills=0, First Deaths=3
+deLb: Team=ALL GAMERS, Kills=22, Deaths=15, Assists=2, KDA=1.6, First Kills=3, First Deaths=1
+monk2: Team=ALL GAMERS, Kills=13, Deaths=18, Assists=10, KDA=1.28, First Kills=0, First Deaths=1

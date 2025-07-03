@@ -1,0 +1,188 @@
+Team 1: MIBR
+Team 2: Cloud9 Blue
+Participating Players:
+Player 1: Leaf
+Player 2: xeppaa
+Player 3: runi
+Player 4: Zellsis
+Player 5: jakee
+Player 6: frz
+Player 7: rglmeister
+Player 8: murizzz
+Player 9: heat
+Player 10: jzz
+Winning Team: Cloud9 Blue
+Score: MIBR 4 - 13 Cloud9 Blue
+Tournament Name: vct americas 2023
+Game Start Time: 2023-05-06T22:19:03Z
+Game End Time: 2023-05-06T22:58:29Z
+Rounds ended by ELIMINATION count: 12
+Rounds ended by DEFUSE count: 5
+Rounds ended by DETONATE count: 0
+SPIKE PLANTED count: 5
+platformGameId: val:9dd04b70-9e82-423f-9ea9-0f86d38bd64d
+
+--- Events ---
+Game started at 2023-05-06T22:19:03Z
+Zellsis killed heat  in round 1
+murizzz killed Zellsis  in round 1
+Leaf killed murizzz  in round 1
+rglmeister killed Leaf  in round 1
+frz killed jakee  in round 1
+xeppaa killed frz  in round 1
+xeppaa killed rglmeister  in round 1
+xeppaa killed jzz  in round 1
+Round 1 ended with elimination. The winning team is Cloud9 Blue.
+The current score is MIBR 0 - 1 Cloud9 Blue.
+Leaf killed rglmeister  in round 2
+runi killed frz  in round 2
+Leaf killed murizzz  in round 2
+Zellsis killed jzz  in round 2
+jakee killed heat  in round 2
+Round 2 ended with elimination. The winning team is Cloud9 Blue.
+The current score is MIBR 0 - 2 Cloud9 Blue.
+Leaf killed murizzz  in round 3
+Leaf killed frz  in round 3
+jzz killed jakee  in round 3
+rglmeister killed Leaf  in round 3
+Zellsis killed jzz  in round 3
+xeppaa killed rglmeister  in round 3
+heat killed Zellsis  in round 3
+runi killed heat  in round 3
+Round 3 ended with spike_defuse. The winning team is Cloud9 Blue.
+The current score is MIBR 0 - 3 Cloud9 Blue.
+runi killed frz  in round 4
+runi killed heat  in round 4
+Zellsis killed murizzz  in round 4
+Zellsis killed rglmeister  in round 4
+Zellsis killed jzz  in round 4
+Round 4 ended with elimination. The winning team is Cloud9 Blue.
+The current score is MIBR 0 - 4 Cloud9 Blue.
+heat killed runi  in round 5
+runi killed heat  in round 5
+frz killed Leaf  in round 5
+xeppaa killed frz  in round 5
+jzz killed xeppaa  in round 5
+Zellsis killed rglmeister  in round 5
+jzz killed Zellsis  in round 5
+jzz killed jakee  in round 5
+Round 5 ended with elimination. The winning team is MIBR.
+The current score is MIBR 1 - 4 Cloud9 Blue.
+jzz killed Zellsis  in round 6
+runi killed jzz  in round 6
+rglmeister killed Leaf  in round 6
+xeppaa killed rglmeister  in round 6
+frz killed jakee  in round 6
+frz killed runi  in round 6
+xeppaa killed frz  in round 6
+murizzz killed xeppaa  in round 6
+Round 6 ended with elimination. The winning team is MIBR.
+The current score is MIBR 2 - 4 Cloud9 Blue.
+frz killed Leaf  in round 7
+rglmeister killed jakee  in round 7
+murizzz killed Zellsis  in round 7
+heat killed runi  in round 7
+frz killed xeppaa  in round 7
+Round 7 ended with elimination. The winning team is MIBR.
+The current score is MIBR 3 - 4 Cloud9 Blue.
+Leaf killed heat  in round 8
+runi killed frz  in round 8
+runi killed jzz  in round 8
+rglmeister killed runi  in round 8
+xeppaa killed rglmeister  in round 8
+murizzz killed Zellsis  in round 8
+Leaf killed murizzz  in round 8
+Round 8 ended with spike_defuse. The winning team is Cloud9 Blue.
+The current score is MIBR 3 - 5 Cloud9 Blue.
+heat killed runi  in round 9
+rglmeister killed Leaf  in round 9
+murizzz killed jakee  in round 9
+heat killed xeppaa  in round 9
+heat killed Zellsis  in round 9
+Round 9 ended with elimination. The winning team is MIBR.
+The current score is MIBR 4 - 5 Cloud9 Blue.
+Leaf killed murizzz  in round 10
+frz killed jakee  in round 10
+xeppaa killed frz  in round 10
+xeppaa killed heat  in round 10
+runi killed rglmeister  in round 10
+runi killed jzz  in round 10
+Round 10 ended with spike_defuse. The winning team is Cloud9 Blue.
+The current score is MIBR 4 - 6 Cloud9 Blue.
+runi killed murizzz  in round 11
+runi killed jzz  in round 11
+heat killed runi  in round 11
+Leaf killed heat  in round 11
+frz killed Leaf  in round 11
+Zellsis killed frz  in round 11
+rglmeister killed jakee  in round 11
+rglmeister killed Zellsis  in round 11
+xeppaa killed rglmeister  in round 11
+Round 11 ended with spike_defuse. The winning team is Cloud9 Blue.
+The current score is MIBR 4 - 7 Cloud9 Blue.
+jakee killed murizzz  in round 12
+jzz killed jakee  in round 12
+frz killed runi  in round 12
+Zellsis killed jzz  in round 12
+frz killed Leaf  in round 12
+Zellsis killed frz  in round 12
+Zellsis killed heat  in round 12
+Round 12 ended with spike_defuse. The winning team is Cloud9 Blue.
+The current score is MIBR 4 - 8 Cloud9 Blue.
+Zellsis killed rglmeister  in round 13
+jzz killed xeppaa  in round 13
+Leaf killed jzz  in round 13
+heat killed runi  in round 13
+jakee killed murizzz  in round 13
+Leaf killed rglmeister  in round 13
+Leaf killed frz  in round 13
+jakee killed heat  in round 13
+Round 13 ended with elimination. The winning team is Cloud9 Blue.
+The current score is MIBR 4 - 9 Cloud9 Blue.
+Leaf killed murizzz  in round 14
+frz killed xeppaa  in round 14
+Leaf killed frz  in round 14
+Leaf killed jzz  in round 14
+jakee killed heat  in round 14
+Zellsis killed rglmeister  in round 14
+Round 14 ended with elimination. The winning team is Cloud9 Blue.
+The current score is MIBR 4 - 10 Cloud9 Blue.
+xeppaa killed murizzz  in round 15
+jzz killed xeppaa  in round 15
+frz killed jakee  in round 15
+jzz killed runi  in round 15
+Leaf killed heat  in round 15
+Leaf killed frz  in round 15
+rglmeister killed Leaf  in round 15
+Zellsis killed rglmeister  in round 15
+Zellsis killed jzz  in round 15
+Round 15 ended with elimination. The winning team is Cloud9 Blue.
+The current score is MIBR 4 - 11 Cloud9 Blue.
+runi killed heat  in round 16
+Leaf killed jzz  in round 16
+runi killed murizzz  in round 16
+jakee killed rglmeister  in round 16
+runi killed frz  in round 16
+Round 16 ended with elimination. The winning team is Cloud9 Blue.
+The current score is MIBR 4 - 12 Cloud9 Blue.
+heat killed Zellsis  in round 17
+Leaf killed heat  in round 17
+xeppaa killed rglmeister  in round 17
+jakee killed jzz  in round 17
+jakee killed murizzz  in round 17
+Leaf killed frz  in round 17
+Round 17 ended with elimination. The winning team is Cloud9 Blue.
+The current score is MIBR 4 - 13 Cloud9 Blue.
+Game ended with winning team: Cloud9 Blue at 2023-05-06T22:58:29Z
+
+--- Player Stats ---
+Leaf: Team=Cloud9 Blue, Kills=20, Deaths=9, Assists=4, KDA=2.67, First Kills=5, First Deaths=1
+xeppaa: Team=Cloud9 Blue, Kills=13, Deaths=7, Assists=7, KDA=2.86, First Kills=1, First Deaths=0
+runi: Team=Cloud9 Blue, Kills=15, Deaths=9, Assists=9, KDA=2.67, First Kills=3, First Deaths=2
+Zellsis: Team=Cloud9 Blue, Kills=15, Deaths=9, Assists=2, KDA=1.89, First Kills=2, First Deaths=2
+jakee: Team=Cloud9 Blue, Kills=8, Deaths=10, Assists=11, KDA=1.9, First Kills=1, First Deaths=0
+frz: Team=MIBR, Kills=12, Deaths=15, Assists=2, KDA=0.93, First Kills=1, First Deaths=1
+rglmeister: Team=MIBR, Kills=9, Deaths=15, Assists=6, KDA=1.0, First Kills=0, First Deaths=2
+murizzz: Team=MIBR, Kills=5, Deaths=13, Assists=4, KDA=0.69, First Kills=0, First Deaths=6
+heat: Team=MIBR, Kills=9, Deaths=14, Assists=2, KDA=0.79, First Kills=3, First Deaths=3
+jzz: Team=MIBR, Kills=9, Deaths=14, Assists=7, KDA=1.14, First Kills=1, First Deaths=0

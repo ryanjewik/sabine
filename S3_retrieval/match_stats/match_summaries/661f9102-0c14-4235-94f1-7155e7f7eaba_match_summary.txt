@@ -1,0 +1,207 @@
+Team 1: DRX
+Team 2: FNATIC
+Participating Players:
+Player 1: Chronicle
+Player 2: Derke
+Player 3: Boaster
+Player 4: Alfajer
+Player 5: Hiro  
+Player 6: MaKo
+Player 7: Foxy9
+Player 8: Flashback
+Player 9: BeYN
+Player 10: BuZz
+Winning Team: DRX
+Score: DRX 13 - 6 FNATIC
+Tournament Name: vct champions 2024
+Game Start Time: 2024-08-06T12:44:57Z
+Game End Time: 2024-08-06T13:31:50Z
+Rounds ended by ELIMINATION count: 10
+Rounds ended by DEFUSE count: 3
+Rounds ended by DETONATE count: 5
+SPIKE PLANTED count: 8
+platformGameId: val:661f9102-0c14-4235-94f1-7155e7f7eaba
+
+--- Events ---
+Game started at 2024-08-06T12:44:57Z
+BuZz killed Chronicle  in round 1
+MaKo killed Boaster  in round 1
+Derke killed BuZz  in round 1
+MaKo killed Hiro    in round 1
+Derke killed MaKo  in round 1
+Alfajer killed Flashback  in round 1
+Foxy9 killed Derke  in round 1
+Alfajer killed BeYN  in round 1
+Alfajer killed Foxy9  in round 1
+Round 1 ended with spike_defuse. The winning team is FNATIC.
+The current score is DRX 0 - 1 FNATIC.
+Foxy9 killed Derke  in round 2
+Boaster killed Foxy9  in round 2
+Alfajer killed MaKo  in round 2
+Boaster killed BuZz  in round 2
+Flashback killed Hiro    in round 2
+Flashback killed Boaster  in round 2
+Alfajer killed Flashback  in round 2
+Alfajer killed BeYN  in round 2
+Round 2 ended with spike_defuse. The winning team is FNATIC.
+The current score is DRX 0 - 2 FNATIC.
+Foxy9 killed Derke  in round 3
+MaKo killed Alfajer  in round 3
+Round 3 ended with detonate. The winning team is DRX.
+The current score is DRX 1 - 2 FNATIC.
+BuZz killed Alfajer  in round 4
+Foxy9 killed Chronicle  in round 4
+BuZz killed Hiro    in round 4
+Round 4 ended with detonate. The winning team is DRX.
+The current score is DRX 2 - 2 FNATIC.
+Derke killed Foxy9  in round 5
+BuZz killed Hiro    in round 5
+Chronicle killed BuZz  in round 5
+Alfajer killed Flashback  in round 5
+Foxy9 killed Derke  in round 5
+MaKo killed Boaster  in round 5
+Chronicle killed MaKo  in round 5
+Alfajer killed Foxy9  in round 5
+BeYN killed Chronicle  in round 5
+BeYN killed Alfajer  in round 5
+Round 5 ended with elimination. The winning team is DRX.
+The current score is DRX 3 - 2 FNATIC.
+BuZz killed Chronicle  in round 6
+MaKo killed Hiro    in round 6
+Derke killed Flashback  in round 6
+Boaster killed BuZz  in round 6
+Alfajer killed MaKo  in round 6
+Foxy9 killed Alfajer  in round 6
+Foxy9 killed Derke  in round 6
+Boaster killed Foxy9  in round 6
+Round 6 ended with detonate. The winning team is DRX.
+The current score is DRX 4 - 2 FNATIC.
+BeYN killed BeYN  in round 7
+BuZz killed Chronicle  in round 7
+BeYN killed Boaster  in round 7
+Derke killed Foxy9  in round 7
+Round 7 ended with detonate. The winning team is DRX.
+The current score is DRX 5 - 2 FNATIC.
+Alfajer killed BeYN  in round 8
+Alfajer killed BuZz  in round 8
+Hiro   killed Foxy9  in round 8
+MaKo killed Chronicle  in round 8
+BeYN killed Hiro    in round 8
+BuZz killed Derke  in round 8
+Boaster killed MaKo  in round 8
+Flashback killed Alfajer  in round 8
+Boaster killed BuZz  in round 8
+Round 8 ended with detonate. The winning team is DRX.
+The current score is DRX 6 - 2 FNATIC.
+Derke killed Foxy9  in round 9
+Derke killed Flashback  in round 9
+Derke killed BeYN  in round 9
+Alfajer killed BuZz  in round 9
+Round 9 ended with time_expired. The winning team is FNATIC.
+The current score is DRX 6 - 3 FNATIC.
+MaKo killed Boaster  in round 10
+Alfajer killed Flashback  in round 10
+Derke killed Foxy9  in round 10
+Chronicle killed BeYN  in round 10
+Derke killed BuZz  in round 10
+MaKo killed Chronicle  in round 10
+Hiro   killed MaKo  in round 10
+Round 10 ended with elimination. The winning team is FNATIC.
+The current score is DRX 6 - 4 FNATIC.
+Chronicle killed BeYN  in round 11
+Alfajer killed MaKo  in round 11
+BuZz killed Chronicle  in round 11
+Alfajer killed BuZz  in round 11
+Derke killed Flashback  in round 11
+Derke killed Foxy9  in round 11
+Round 11 ended with elimination. The winning team is FNATIC.
+The current score is DRX 6 - 5 FNATIC.
+BuZz killed Derke  in round 12
+BuZz killed Alfajer  in round 12
+Hiro   killed MaKo  in round 12
+Chronicle killed Foxy9  in round 12
+Chronicle killed BeYN  in round 12
+BuZz killed Chronicle  in round 12
+BuZz killed Boaster  in round 12
+Flashback killed Hiro    in round 12
+Round 12 ended with elimination. The winning team is DRX.
+The current score is DRX 7 - 5 FNATIC.
+BuZz killed Boaster  in round 13
+Alfajer killed BuZz  in round 13
+Hiro   killed BeYN  in round 13
+Flashback killed Hiro    in round 13
+MaKo killed Chronicle  in round 13
+Foxy9 killed Alfajer  in round 13
+Flashback killed Derke  in round 13
+Round 13 ended with elimination. The winning team is DRX.
+The current score is DRX 8 - 5 FNATIC.
+Alfajer killed Foxy9  in round 14
+Flashback killed Derke  in round 14
+Boaster killed Flashback  in round 14
+BuZz killed Hiro    in round 14
+BeYN killed Alfajer  in round 14
+BeYN killed Chronicle  in round 14
+BeYN killed Boaster  in round 14
+Round 14 ended with elimination. The winning team is DRX.
+The current score is DRX 9 - 5 FNATIC.
+Derke killed BuZz  in round 15
+MaKo killed Derke  in round 15
+Chronicle killed Flashback  in round 15
+BeYN killed Boaster  in round 15
+Hiro   killed BeYN  in round 15
+MaKo killed Chronicle  in round 15
+Hiro   killed MaKo  in round 15
+Foxy9 killed Hiro    in round 15
+Alfajer killed Foxy9  in round 15
+Round 15 ended with elimination. The winning team is FNATIC.
+The current score is DRX 9 - 6 FNATIC.
+Alfajer killed Alfajer  in round 16
+Foxy9 killed Derke  in round 16
+Alfajer killed Foxy9  in round 16
+BeYN killed Alfajer  in round 16
+Flashback killed Boaster  in round 16
+MaKo killed Hiro    in round 16
+Chronicle killed MaKo  in round 16
+BuZz killed Chronicle  in round 16
+Round 16 ended with elimination. The winning team is DRX.
+The current score is DRX 10 - 6 FNATIC.
+BuZz killed Boaster  in round 17
+BuZz killed Derke  in round 17
+BuZz killed Hiro    in round 17
+BuZz killed Alfajer  in round 17
+BuZz killed Chronicle  in round 17
+Round 17 ended with elimination. The winning team is DRX.
+The current score is DRX 11 - 6 FNATIC.
+Derke killed Foxy9  in round 18
+BuZz killed Hiro    in round 18
+BuZz killed Derke  in round 18
+Boaster killed Flashback  in round 18
+Boaster killed BuZz  in round 18
+BuZz killed Boaster  in round 18
+MaKo killed Chronicle  in round 18
+Alfajer killed BeYN  in round 18
+MaKo killed Alfajer  in round 18
+Round 18 ended with spike_defuse. The winning team is DRX.
+The current score is DRX 12 - 6 FNATIC.
+Derke killed BuZz  in round 19
+MaKo killed Derke  in round 19
+MaKo killed Hiro    in round 19
+Derke killed MaKo  in round 19
+Flashback killed Alfajer  in round 19
+Foxy9 killed Chronicle  in round 19
+BeYN killed Boaster  in round 19
+Round 19 ended with elimination. The winning team is DRX.
+The current score is DRX 13 - 6 FNATIC.
+Game ended with winning team: DRX at 2024-08-06T13:31:50Z
+
+--- Player Stats ---
+Chronicle: Team=FNATIC, Kills=8, Deaths=16, Assists=4, KDA=0.75, First Kills=1, First Deaths=2
+Derke: Team=FNATIC, Kills=16, Deaths=14, Assists=3, KDA=1.36, First Kills=5, First Deaths=3
+Boaster: Team=FNATIC, Kills=9, Deaths=13, Assists=7, KDA=1.23, First Kills=0, First Deaths=3
+Alfajer: Team=FNATIC, Kills=21, Deaths=13, Assists=2, KDA=1.77, First Kills=3, First Deaths=2
+Hiro  : Team=FNATIC, Kills=6, Deaths=14, Assists=9, KDA=1.07, First Kills=0, First Deaths=0
+MaKo: Team=DRX, Kills=16, Deaths=11, Assists=5, KDA=1.91, First Kills=1, First Deaths=0
+Foxy9: Team=DRX, Kills=11, Deaths=15, Assists=1, KDA=0.8, First Kills=2, First Deaths=4
+Flashback: Team=DRX, Kills=9, Deaths=10, Assists=3, KDA=1.2, First Kills=0, First Deaths=0
+BeYN: Team=DRX, Kills=11, Deaths=11, Assists=4, KDA=1.36, First Kills=1, First Deaths=3
+BuZz: Team=DRX, Kills=23, Deaths=13, Assists=1, KDA=1.85, First Kills=6, First Deaths=2

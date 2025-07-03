@@ -1,0 +1,230 @@
+Team 1: Gen.G Esports
+Team 2: DetonatioN FocusMe
+Participating Players:
+Player 1: takej
+Player 2: Suggest
+Player 3: Reita
+Player 4: Anthem
+Player 5: xnfri
+Player 6: k1NgKR
+Player 7: Sylvan
+Player 8: TS
+Player 9: Meteor 
+Player 10: GodDead
+Winning Team: Gen.G Esports
+Score: Gen.G Esports 13 - 8 DetonatioN FocusMe
+Tournament Name: vct pacific 2023
+Game Start Time: 2023-04-02T12:42:49Z
+Game End Time: 2023-04-02T13:39:56Z
+Rounds ended by ELIMINATION count: 8
+Rounds ended by DEFUSE count: 10
+Rounds ended by DETONATE count: 3
+SPIKE PLANTED count: 13
+platformGameId: val:03a8f956-3b42-4d3e-80f6-6e67a5d9f8e2
+
+--- Events ---
+Game started at 2023-04-02T12:42:49Z
+Meteor  killed xnfri  in round 1
+Suggest killed k1NgKR  in round 1
+Suggest killed Meteor   in round 1
+Suggest killed Sylvan  in round 1
+Suggest killed GodDead  in round 1
+Suggest killed TS  in round 1
+Round 1 ended with elimination. The winning team is DetonatioN FocusMe.
+The current score is Gen.G Esports 0 - 1 DetonatioN FocusMe.
+Anthem killed Meteor   in round 2
+xnfri killed Sylvan  in round 2
+xnfri killed GodDead  in round 2
+TS killed Reita  in round 2
+k1NgKR killed Anthem  in round 2
+k1NgKR killed xnfri  in round 2
+Suggest killed TS  in round 2
+Suggest killed k1NgKR  in round 2
+Round 2 ended with elimination. The winning team is DetonatioN FocusMe.
+The current score is Gen.G Esports 0 - 2 DetonatioN FocusMe.
+Reita killed Sylvan  in round 3
+takej killed k1NgKR  in round 3
+TS killed Reita  in round 3
+TS killed takej  in round 3
+Anthem killed TS  in round 3
+Suggest killed GodDead  in round 3
+Meteor  killed xnfri  in round 3
+Suggest killed Meteor   in round 3
+Round 3 ended with spike_defuse. The winning team is DetonatioN FocusMe.
+The current score is Gen.G Esports 0 - 3 DetonatioN FocusMe.
+k1NgKR killed takej  in round 4
+Sylvan killed Reita  in round 4
+TS killed Suggest  in round 4
+TS killed Anthem  in round 4
+xnfri killed TS  in round 4
+xnfri killed GodDead  in round 4
+Round 4 ended with detonate. The winning team is Gen.G Esports.
+The current score is Gen.G Esports 1 - 3 DetonatioN FocusMe.
+xnfri killed Meteor   in round 5
+Sylvan killed xnfri  in round 5
+Anthem killed TS  in round 5
+Meteor  killed Anthem  in round 5
+GodDead killed xnfri  in round 5
+Suggest killed k1NgKR  in round 5
+Meteor  killed Suggest  in round 5
+Meteor  killed Reita  in round 5
+takej killed Meteor   in round 5
+Sylvan killed takej  in round 5
+Round 5 ended with elimination. The winning team is Gen.G Esports.
+The current score is Gen.G Esports 2 - 3 DetonatioN FocusMe.
+Meteor  killed Reita  in round 6
+xnfri killed Meteor   in round 6
+k1NgKR killed xnfri  in round 6
+Sylvan killed Anthem  in round 6
+takej killed Sylvan  in round 6
+k1NgKR killed Suggest  in round 6
+k1NgKR killed takej  in round 6
+Round 6 ended with elimination. The winning team is Gen.G Esports.
+The current score is Gen.G Esports 3 - 3 DetonatioN FocusMe.
+takej killed Meteor   in round 7
+Reita killed GodDead  in round 7
+takej killed Sylvan  in round 7
+Reita killed TS  in round 7
+Suggest killed k1NgKR  in round 7
+Round 7 ended with elimination. The winning team is DetonatioN FocusMe.
+The current score is Gen.G Esports 3 - 4 DetonatioN FocusMe.
+Sylvan killed Anthem  in round 8
+takej killed Meteor   in round 8
+k1NgKR killed Reita  in round 8
+takej killed k1NgKR  in round 8
+takej killed Sylvan  in round 8
+TS killed xnfri  in round 8
+GodDead killed takej  in round 8
+Suggest killed GodDead  in round 8
+TS killed Suggest  in round 8
+Round 8 ended with elimination. The winning team is Gen.G Esports.
+The current score is Gen.G Esports 4 - 4 DetonatioN FocusMe.
+Reita killed Meteor   in round 9
+k1NgKR killed Reita  in round 9
+TS killed takej  in round 9
+Anthem killed k1NgKR  in round 9
+Suggest killed GodDead  in round 9
+Anthem killed Sylvan  in round 9
+TS killed Anthem  in round 9
+xnfri killed TS  in round 9
+Round 9 ended with spike_defuse. The winning team is DetonatioN FocusMe.
+The current score is Gen.G Esports 4 - 5 DetonatioN FocusMe.
+Suggest killed Meteor   in round 10
+takej killed Sylvan  in round 10
+takej killed GodDead  in round 10
+TS killed takej  in round 10
+Anthem killed k1NgKR  in round 10
+Anthem killed TS  in round 10
+Round 10 ended with spike_defuse. The winning team is DetonatioN FocusMe.
+The current score is Gen.G Esports 4 - 6 DetonatioN FocusMe.
+xnfri killed Meteor   in round 11
+Sylvan killed Anthem  in round 11
+TS killed takej  in round 11
+Sylvan killed Reita  in round 11
+TS killed Suggest  in round 11
+xnfri killed TS  in round 11
+Round 11 ended with detonate. The winning team is Gen.G Esports.
+The current score is Gen.G Esports 5 - 6 DetonatioN FocusMe.
+k1NgKR killed Suggest  in round 12
+xnfri killed k1NgKR  in round 12
+Meteor  killed xnfri  in round 12
+Anthem killed Meteor   in round 12
+takej killed Sylvan  in round 12
+TS killed Anthem  in round 12
+Reita killed TS  in round 12
+Reita killed GodDead  in round 12
+Round 12 ended with spike_defuse. The winning team is DetonatioN FocusMe.
+The current score is Gen.G Esports 5 - 7 DetonatioN FocusMe.
+TS killed takej  in round 13
+Anthem killed TS  in round 13
+Anthem killed Sylvan  in round 13
+Meteor  killed Reita  in round 13
+GodDead killed Suggest  in round 13
+GodDead killed Anthem  in round 13
+xnfri killed GodDead  in round 13
+Meteor  killed xnfri  in round 13
+Round 13 ended with spike_defuse. The winning team is Gen.G Esports.
+The current score is Gen.G Esports 6 - 7 DetonatioN FocusMe.
+Suggest killed Meteor   in round 14
+GodDead killed xnfri  in round 14
+k1NgKR killed Anthem  in round 14
+Sylvan killed takej  in round 14
+TS killed Reita  in round 14
+k1NgKR killed Suggest  in round 14
+Round 14 ended with spike_defuse. The winning team is Gen.G Esports.
+The current score is Gen.G Esports 7 - 7 DetonatioN FocusMe.
+Meteor  killed Anthem  in round 15
+Reita killed k1NgKR  in round 15
+GodDead killed Reita  in round 15
+Suggest killed Meteor   in round 15
+Suggest killed GodDead  in round 15
+Sylvan killed takej  in round 15
+TS killed Suggest  in round 15
+xnfri killed TS  in round 15
+Sylvan killed xnfri  in round 15
+Round 15 ended with spike_defuse. The winning team is Gen.G Esports.
+The current score is Gen.G Esports 8 - 7 DetonatioN FocusMe.
+Suggest killed Sylvan  in round 16
+GodDead killed xnfri  in round 16
+Meteor  killed Reita  in round 16
+GodDead killed Anthem  in round 16
+Meteor  killed Suggest  in round 16
+takej killed GodDead  in round 16
+Meteor  killed takej  in round 16
+Round 16 ended with spike_defuse. The winning team is Gen.G Esports.
+The current score is Gen.G Esports 9 - 7 DetonatioN FocusMe.
+Meteor  killed Anthem  in round 17
+Reita killed Meteor   in round 17
+GodDead killed Reita  in round 17
+Suggest killed TS  in round 17
+takej killed k1NgKR  in round 17
+Sylvan killed Suggest  in round 17
+xnfri killed Sylvan  in round 17
+Round 17 ended with spike_defuse. The winning team is Gen.G Esports.
+The current score is Gen.G Esports 10 - 7 DetonatioN FocusMe.
+takej killed GodDead  in round 18
+Meteor  killed Anthem  in round 18
+Suggest killed Meteor   in round 18
+Suggest killed Sylvan  in round 18
+Suggest killed k1NgKR  in round 18
+Round 18 ended with detonate. The winning team is DetonatioN FocusMe.
+The current score is Gen.G Esports 10 - 8 DetonatioN FocusMe.
+TS killed Suggest  in round 19
+Anthem killed Sylvan  in round 19
+TS killed Reita  in round 19
+takej killed TS  in round 19
+k1NgKR killed takej  in round 19
+k1NgKR killed Anthem  in round 19
+xnfri killed k1NgKR  in round 19
+GodDead killed xnfri  in round 19
+Round 19 ended with elimination. The winning team is Gen.G Esports.
+The current score is Gen.G Esports 11 - 8 DetonatioN FocusMe.
+Meteor  killed Anthem  in round 20
+takej killed Meteor   in round 20
+GodDead killed takej  in round 20
+Sylvan killed xnfri  in round 20
+Sylvan killed Suggest  in round 20
+GodDead killed Reita  in round 20
+Round 20 ended with elimination. The winning team is Gen.G Esports.
+The current score is Gen.G Esports 12 - 8 DetonatioN FocusMe.
+TS killed takej  in round 21
+Anthem killed TS  in round 21
+Sylvan killed Anthem  in round 21
+xnfri killed Sylvan  in round 21
+xnfri killed k1NgKR  in round 21
+Suggest killed GodDead  in round 21
+Round 21 ended with spike_defuse. The winning team is Gen.G Esports.
+The current score is Gen.G Esports 13 - 8 DetonatioN FocusMe.
+Game ended with winning team: Gen.G Esports at 2023-04-02T13:39:56Z
+
+--- Player Stats ---
+takej: Team=DetonatioN FocusMe, Kills=16, Deaths=15, Assists=9, KDA=1.67, First Kills=2, First Deaths=3
+Suggest: Team=DetonatioN FocusMe, Kills=23, Deaths=13, Assists=11, KDA=2.62, First Kills=3, First Deaths=2
+Reita: Team=DetonatioN FocusMe, Kills=8, Deaths=15, Assists=4, KDA=0.8, First Kills=2, First Deaths=1
+Anthem: Team=DetonatioN FocusMe, Kills=12, Deaths=17, Assists=3, KDA=0.88, First Kills=1, First Deaths=4
+xnfri: Team=DetonatioN FocusMe, Kills=16, Deaths=14, Assists=9, KDA=1.79, First Kills=2, First Deaths=1
+k1NgKR: Team=Gen.G Esports, Kills=13, Deaths=14, Assists=8, KDA=1.5, First Kills=2, First Deaths=0
+Sylvan: Team=Gen.G Esports, Kills=14, Deaths=15, Assists=7, KDA=1.4, First Kills=1, First Deaths=2
+TS: Team=Gen.G Esports, Kills=19, Deaths=15, Assists=10, KDA=1.93, First Kills=3, First Deaths=0
+Meteor : Team=Gen.G Esports, Kills=16, Deaths=17, Assists=2, KDA=1.06, First Kills=5, First Deaths=7
+GodDead: Team=Gen.G Esports, Kills=12, Deaths=14, Assists=14, KDA=1.86, First Kills=0, First Deaths=1

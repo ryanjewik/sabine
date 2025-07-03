@@ -1,0 +1,175 @@
+Team 1: MIBR
+Team 2: Evil Geniuses
+Participating Players:
+Player 1: Demon1
+Player 2: Ethan
+Player 3: JAWGEMO
+Player 4: C0M
+Player 5: Boostio
+Player 6: frz
+Player 7: rglmeister
+Player 8: murizzz
+Player 9: TxoziN
+Player 10: jzz
+Winning Team: Evil Geniuses
+Score: MIBR 2 - 13 Evil Geniuses
+Tournament Name: vct americas 2023
+Game Start Time: 2023-05-13T22:25:46Z
+Game End Time: 2023-05-13T23:08:05Z
+Rounds ended by ELIMINATION count: 9
+Rounds ended by DEFUSE count: 5
+Rounds ended by DETONATE count: 1
+SPIKE PLANTED count: 6
+platformGameId: val:56732f65-2e87-4451-8137-9b1f0da9156a
+
+--- Events ---
+Game started at 2023-05-13T22:25:46Z
+Ethan killed jzz  in round 1
+C0M killed frz  in round 1
+TxoziN killed JAWGEMO  in round 1
+Demon1 killed TxoziN  in round 1
+Demon1 killed murizzz  in round 1
+rglmeister killed Boostio  in round 1
+rglmeister killed Ethan  in round 1
+Demon1 killed rglmeister  in round 1
+Round 1 ended with spike_defuse. The winning team is Evil Geniuses.
+The current score is MIBR 0 - 1 Evil Geniuses.
+Demon1 killed murizzz  in round 2
+Demon1 killed TxoziN  in round 2
+jzz killed Ethan  in round 2
+Demon1 killed jzz  in round 2
+frz killed Boostio  in round 2
+JAWGEMO killed rglmeister  in round 2
+JAWGEMO killed frz  in round 2
+Round 2 ended with spike_defuse. The winning team is Evil Geniuses.
+The current score is MIBR 0 - 2 Evil Geniuses.
+TxoziN killed Demon1  in round 3
+JAWGEMO killed TxoziN  in round 3
+JAWGEMO killed jzz  in round 3
+Boostio killed murizzz  in round 3
+C0M killed rglmeister  in round 3
+Round 3 ended with spike_defuse. The winning team is Evil Geniuses.
+The current score is MIBR 0 - 3 Evil Geniuses.
+frz killed C0M  in round 4
+Ethan killed frz  in round 4
+Ethan killed murizzz  in round 4
+jzz killed Ethan  in round 4
+JAWGEMO killed jzz  in round 4
+TxoziN killed C0M  in round 4
+JAWGEMO killed rglmeister  in round 4
+Demon1 killed TxoziN  in round 4
+Round 4 ended with elimination. The winning team is Evil Geniuses.
+The current score is MIBR 0 - 4 Evil Geniuses.
+Ethan killed murizzz  in round 5
+frz killed Ethan  in round 5
+C0M killed frz  in round 5
+jzz killed Demon1  in round 5
+JAWGEMO killed jzz  in round 5
+rglmeister killed JAWGEMO  in round 5
+Boostio killed TxoziN  in round 5
+rglmeister killed C0M  in round 5
+Boostio killed rglmeister  in round 5
+Round 5 ended with spike_defuse. The winning team is Evil Geniuses.
+The current score is MIBR 0 - 5 Evil Geniuses.
+Demon1 killed jzz  in round 6
+Ethan killed rglmeister  in round 6
+frz killed Ethan  in round 6
+C0M killed frz  in round 6
+Demon1 killed TxoziN  in round 6
+murizzz killed JAWGEMO  in round 6
+Boostio killed murizzz  in round 6
+Round 6 ended with elimination. The winning team is Evil Geniuses.
+The current score is MIBR 0 - 6 Evil Geniuses.
+Demon1 killed TxoziN  in round 7
+Demon1 killed murizzz  in round 7
+frz killed JAWGEMO  in round 7
+C0M killed jzz  in round 7
+frz killed Ethan  in round 7
+C0M killed rglmeister  in round 7
+C0M killed frz  in round 7
+Round 7 ended with spike_defuse. The winning team is Evil Geniuses.
+The current score is MIBR 0 - 7 Evil Geniuses.
+JAWGEMO killed jzz  in round 8
+rglmeister killed JAWGEMO  in round 8
+frz killed Boostio  in round 8
+Ethan killed murizzz  in round 8
+C0M killed rglmeister  in round 8
+C0M killed frz  in round 8
+Ethan killed TxoziN  in round 8
+Round 8 ended with detonate. The winning team is MIBR.
+The current score is MIBR 1 - 7 Evil Geniuses.
+Ethan killed Ethan  in round 9
+Demon1 killed jzz  in round 9
+Demon1 killed murizzz  in round 9
+TxoziN killed C0M  in round 9
+Demon1 killed frz  in round 9
+Ethan killed rglmeister  in round 9
+Boostio killed TxoziN  in round 9
+Round 9 ended with elimination. The winning team is Evil Geniuses.
+The current score is MIBR 1 - 8 Evil Geniuses.
+frz killed Demon1  in round 10
+JAWGEMO killed jzz  in round 10
+JAWGEMO killed frz  in round 10
+rglmeister killed JAWGEMO  in round 10
+C0M killed TxoziN  in round 10
+C0M killed murizzz  in round 10
+C0M killed rglmeister  in round 10
+Round 10 ended with elimination. The winning team is Evil Geniuses.
+The current score is MIBR 1 - 9 Evil Geniuses.
+frz killed Boostio  in round 11
+TxoziN killed C0M  in round 11
+Ethan killed rglmeister  in round 11
+frz killed Ethan  in round 11
+Demon1 killed frz  in round 11
+jzz killed Demon1  in round 11
+JAWGEMO killed jzz  in round 11
+murizzz killed JAWGEMO  in round 11
+Round 11 ended with elimination. The winning team is MIBR.
+The current score is MIBR 2 - 9 Evil Geniuses.
+C0M killed jzz  in round 12
+JAWGEMO killed murizzz  in round 12
+TxoziN killed JAWGEMO  in round 12
+Ethan killed frz  in round 12
+Boostio killed TxoziN  in round 12
+Boostio killed rglmeister  in round 12
+Round 12 ended with elimination. The winning team is Evil Geniuses.
+The current score is MIBR 2 - 10 Evil Geniuses.
+jzz killed Ethan  in round 13
+Demon1 killed jzz  in round 13
+murizzz killed JAWGEMO  in round 13
+Boostio killed rglmeister  in round 13
+murizzz killed Boostio  in round 13
+Demon1 killed murizzz  in round 13
+TxoziN killed Demon1  in round 13
+C0M killed frz  in round 13
+C0M killed TxoziN  in round 13
+Round 13 ended with elimination. The winning team is Evil Geniuses.
+The current score is MIBR 2 - 11 Evil Geniuses.
+Ethan killed jzz  in round 14
+Boostio killed rglmeister  in round 14
+Demon1 killed frz  in round 14
+Demon1 killed murizzz  in round 14
+Demon1 killed TxoziN  in round 14
+Round 14 ended with elimination. The winning team is Evil Geniuses.
+The current score is MIBR 2 - 12 Evil Geniuses.
+Demon1 killed murizzz  in round 15
+Demon1 killed TxoziN  in round 15
+rglmeister killed Demon1  in round 15
+JAWGEMO killed frz  in round 15
+Ethan killed jzz  in round 15
+Ethan killed rglmeister  in round 15
+Round 15 ended with elimination. The winning team is Evil Geniuses.
+The current score is MIBR 2 - 13 Evil Geniuses.
+Game ended with winning team: Evil Geniuses at 2023-05-13T23:08:05Z
+
+--- Player Stats ---
+Demon1: Team=Evil Geniuses, Kills=22, Deaths=6, Assists=3, KDA=4.17, First Kills=4, First Deaths=2
+Ethan: Team=Evil Geniuses, Kills=14, Deaths=9, Assists=9, KDA=2.56, First Kills=4, First Deaths=2
+JAWGEMO: Team=Evil Geniuses, Kills=13, Deaths=9, Assists=7, KDA=2.22, First Kills=1, First Deaths=0
+C0M: Team=Evil Geniuses, Kills=15, Deaths=5, Assists=10, KDA=5.0, First Kills=1, First Deaths=1
+Boostio: Team=Evil Geniuses, Kills=9, Deaths=5, Assists=3, KDA=2.4, First Kills=0, First Deaths=1
+frz: Team=MIBR, Kills=10, Deaths=14, Assists=3, KDA=0.93, First Kills=3, First Deaths=0
+rglmeister: Team=MIBR, Kills=7, Deaths=15, Assists=4, KDA=0.73, First Kills=0, First Deaths=0
+murizzz: Team=MIBR, Kills=4, Deaths=14, Assists=3, KDA=0.5, First Kills=0, First Deaths=3
+TxoziN: Team=MIBR, Kills=7, Deaths=14, Assists=0, KDA=0.5, First Kills=1, First Deaths=1
+jzz: Team=MIBR, Kills=5, Deaths=15, Assists=4, KDA=0.6, First Kills=1, First Deaths=5

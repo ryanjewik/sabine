@@ -1,0 +1,211 @@
+Team 1: GLOBAL ESPORTS
+Team 2: Gen.G Esports
+Participating Players:
+Player 1: t3xture
+Player 2: Lakia
+Player 3: Munchkin
+Player 4: Meteor 
+Player 5: Karon
+Player 6: blaZek1ngg
+Player 7: Benkai
+Player 8: Russ
+Player 9: polvi
+Player 10: Lightningfa
+Winning Team: Gen.G Esports
+Score: GLOBAL ESPORTS 6 - 13 Gen.G Esports
+Tournament Name: vct pacific stage 2 2024
+Game Start Time: 2024-07-05T11:40:32Z
+Game End Time: 2024-07-05T12:27:04Z
+Rounds ended by ELIMINATION count: 14
+Rounds ended by DEFUSE count: 3
+Rounds ended by DETONATE count: 1
+SPIKE PLANTED count: 4
+platformGameId: val:09602783-53dc-4405-acfb-6aca23188cbf
+
+--- Events ---
+Game started at 2024-07-05T11:40:32Z
+Karon killed polvi  in round 1
+Lightningfa killed Karon  in round 1
+t3xture killed Russ  in round 1
+Lakia killed Lightningfa  in round 1
+blaZek1ngg killed Lakia  in round 1
+blaZek1ngg killed Munchkin  in round 1
+t3xture killed blaZek1ngg  in round 1
+Meteor  killed Benkai  in round 1
+Round 1 ended with elimination. The winning team is Gen.G Esports.
+The current score is GLOBAL ESPORTS 0 - 1 Gen.G Esports.
+Munchkin killed polvi  in round 2
+t3xture killed blaZek1ngg  in round 2
+Meteor  killed Benkai  in round 2
+Lakia killed Lightningfa  in round 2
+Russ killed Meteor   in round 2
+Lakia killed Russ  in round 2
+Round 2 ended with elimination. The winning team is Gen.G Esports.
+The current score is GLOBAL ESPORTS 0 - 2 Gen.G Esports.
+polvi killed Munchkin  in round 3
+polvi killed t3xture  in round 3
+polvi killed Karon  in round 3
+Meteor  killed Russ  in round 3
+Meteor  killed Benkai  in round 3
+Lakia killed blaZek1ngg  in round 3
+Lightningfa killed Lakia  in round 3
+Meteor  killed Lightningfa  in round 3
+polvi killed Meteor   in round 3
+Round 3 ended with elimination. The winning team is GLOBAL ESPORTS.
+The current score is GLOBAL ESPORTS 1 - 2 Gen.G Esports.
+polvi killed Munchkin  in round 4
+Karon killed Russ  in round 4
+Benkai killed Karon  in round 4
+Meteor  killed blaZek1ngg  in round 4
+polvi killed Meteor   in round 4
+Round 4 ended with detonate. The winning team is GLOBAL ESPORTS.
+The current score is GLOBAL ESPORTS 2 - 2 Gen.G Esports.
+Lightningfa killed Lakia  in round 5
+t3xture killed Benkai  in round 5
+blaZek1ngg killed t3xture  in round 5
+Russ killed Meteor   in round 5
+Munchkin killed Russ  in round 5
+Munchkin killed polvi  in round 5
+Lightningfa killed Munchkin  in round 5
+Karon killed Lightningfa  in round 5
+blaZek1ngg killed Karon  in round 5
+Round 5 ended with elimination. The winning team is GLOBAL ESPORTS.
+The current score is GLOBAL ESPORTS 3 - 2 Gen.G Esports.
+Russ killed Munchkin  in round 6
+Lakia killed polvi  in round 6
+blaZek1ngg killed t3xture  in round 6
+Benkai killed Lakia  in round 6
+Lightningfa killed Karon  in round 6
+blaZek1ngg killed Meteor   in round 6
+Round 6 ended with elimination. The winning team is GLOBAL ESPORTS.
+The current score is GLOBAL ESPORTS 4 - 2 Gen.G Esports.
+blaZek1ngg killed Lakia  in round 7
+Lightningfa killed Meteor   in round 7
+blaZek1ngg killed t3xture  in round 7
+Benkai killed Munchkin  in round 7
+Karon killed Lightningfa  in round 7
+Karon killed blaZek1ngg  in round 7
+polvi killed Karon  in round 7
+Round 7 ended with elimination. The winning team is GLOBAL ESPORTS.
+The current score is GLOBAL ESPORTS 5 - 2 Gen.G Esports.
+Munchkin killed polvi  in round 8
+Lakia killed Lightningfa  in round 8
+Russ killed Meteor   in round 8
+Lakia killed Russ  in round 8
+t3xture killed Benkai  in round 8
+Munchkin killed blaZek1ngg  in round 8
+Round 8 ended with spike_defuse. The winning team is Gen.G Esports.
+The current score is GLOBAL ESPORTS 5 - 3 Gen.G Esports.
+polvi killed t3xture  in round 9
+Lakia killed polvi  in round 9
+Lakia killed Russ  in round 9
+Lightningfa killed Munchkin  in round 9
+Karon killed blaZek1ngg  in round 9
+Lakia killed Lightningfa  in round 9
+Meteor  killed Benkai  in round 9
+Round 9 ended with spike_defuse. The winning team is Gen.G Esports.
+The current score is GLOBAL ESPORTS 5 - 4 Gen.G Esports.
+polvi killed Munchkin  in round 10
+polvi killed t3xture  in round 10
+Meteor  killed blaZek1ngg  in round 10
+Meteor  killed Russ  in round 10
+Benkai killed Meteor   in round 10
+Karon killed Lightningfa  in round 10
+Karon killed polvi  in round 10
+Benkai killed Karon  in round 10
+Round 10 ended with time_expired. The winning team is Gen.G Esports.
+The current score is GLOBAL ESPORTS 5 - 5 Gen.G Esports.
+t3xture killed polvi  in round 11
+t3xture killed blaZek1ngg  in round 11
+Lakia killed Lightningfa  in round 11
+t3xture killed Russ  in round 11
+Munchkin killed Benkai  in round 11
+Round 11 ended with elimination. The winning team is Gen.G Esports.
+The current score is GLOBAL ESPORTS 5 - 6 Gen.G Esports.
+t3xture killed polvi  in round 12
+Meteor  killed Russ  in round 12
+Karon killed Lightningfa  in round 12
+blaZek1ngg killed Meteor   in round 12
+Munchkin killed Benkai  in round 12
+t3xture killed blaZek1ngg  in round 12
+Round 12 ended with elimination. The winning team is Gen.G Esports.
+The current score is GLOBAL ESPORTS 5 - 7 Gen.G Esports.
+t3xture killed Russ  in round 13
+polvi killed t3xture  in round 13
+Benkai killed Meteor   in round 13
+Munchkin killed Lightningfa  in round 13
+Benkai killed Karon  in round 13
+Munchkin killed Benkai  in round 13
+Munchkin killed polvi  in round 13
+blaZek1ngg killed Munchkin  in round 13
+Lakia killed blaZek1ngg  in round 13
+Round 13 ended with elimination. The winning team is Gen.G Esports.
+The current score is GLOBAL ESPORTS 5 - 8 Gen.G Esports.
+polvi killed Lakia  in round 14
+polvi killed Karon  in round 14
+Meteor  killed polvi  in round 14
+Meteor  killed Russ  in round 14
+Meteor  killed Lightningfa  in round 14
+Meteor  killed blaZek1ngg  in round 14
+Meteor  killed Benkai  in round 14
+Round 14 ended with elimination. The winning team is Gen.G Esports.
+The current score is GLOBAL ESPORTS 5 - 9 Gen.G Esports.
+t3xture killed polvi  in round 15
+Russ killed t3xture  in round 15
+Munchkin killed blaZek1ngg  in round 15
+Munchkin killed Benkai  in round 15
+Russ killed Munchkin  in round 15
+Meteor  killed Lightningfa  in round 15
+Meteor  killed Russ  in round 15
+Round 15 ended with elimination. The winning team is Gen.G Esports.
+The current score is GLOBAL ESPORTS 5 - 10 Gen.G Esports.
+polvi killed t3xture  in round 16
+Meteor  killed blaZek1ngg  in round 16
+Benkai killed Meteor   in round 16
+Lightningfa killed Munchkin  in round 16
+Karon killed Lightningfa  in round 16
+Karon killed Russ  in round 16
+Lakia killed polvi  in round 16
+Karon killed Benkai  in round 16
+Round 16 ended with elimination. The winning team is Gen.G Esports.
+The current score is GLOBAL ESPORTS 5 - 11 Gen.G Esports.
+Karon killed polvi  in round 17
+Lightningfa killed Karon  in round 17
+Lightningfa killed t3xture  in round 17
+Lakia killed Lightningfa  in round 17
+Russ killed Lakia  in round 17
+Russ killed Munchkin  in round 17
+Benkai killed Meteor   in round 17
+Round 17 ended with spike_defuse. The winning team is GLOBAL ESPORTS.
+The current score is GLOBAL ESPORTS 6 - 11 Gen.G Esports.
+t3xture killed Lightningfa  in round 18
+polvi killed t3xture  in round 18
+Munchkin killed blaZek1ngg  in round 18
+Benkai killed Meteor   in round 18
+Russ killed Munchkin  in round 18
+Lakia killed Russ  in round 18
+polvi killed Karon  in round 18
+Lakia killed polvi  in round 18
+Lakia killed Benkai  in round 18
+Round 18 ended with elimination. The winning team is Gen.G Esports.
+The current score is GLOBAL ESPORTS 6 - 12 Gen.G Esports.
+Lakia killed Benkai  in round 19
+Lakia killed Lightningfa  in round 19
+Meteor  killed polvi  in round 19
+t3xture killed Russ  in round 19
+Munchkin killed blaZek1ngg  in round 19
+Round 19 ended with elimination. The winning team is Gen.G Esports.
+The current score is GLOBAL ESPORTS 6 - 13 Gen.G Esports.
+Game ended with winning team: Gen.G Esports at 2024-07-05T12:27:04Z
+
+--- Player Stats ---
+t3xture: Team=Gen.G Esports, Kills=14, Deaths=11, Assists=2, KDA=1.45, First Kills=5, First Deaths=2
+Lakia: Team=Gen.G Esports, Kills=19, Deaths=7, Assists=5, KDA=3.43, First Kills=1, First Deaths=3
+Munchkin: Team=Gen.G Esports, Kills=14, Deaths=13, Assists=9, KDA=1.77, First Kills=2, First Deaths=4
+Meteor : Team=Gen.G Esports, Kills=19, Deaths=13, Assists=1, KDA=1.54, First Kills=0, First Deaths=0
+Karon: Team=Gen.G Esports, Kills=13, Deaths=11, Assists=11, KDA=2.18, First Kills=2, First Deaths=0
+blaZek1ngg: Team=GLOBAL ESPORTS, Kills=10, Deaths=16, Assists=2, KDA=0.75, First Kills=1, First Deaths=0
+Benkai: Team=GLOBAL ESPORTS, Kills=10, Deaths=14, Assists=5, KDA=1.07, First Kills=0, First Deaths=1
+Russ: Team=GLOBAL ESPORTS, Kills=9, Deaths=16, Assists=9, KDA=1.12, First Kills=1, First Deaths=1
+polvi: Team=GLOBAL ESPORTS, Kills=16, Deaths=16, Assists=4, KDA=1.25, First Kills=6, First Deaths=7
+Lightningfa: Team=GLOBAL ESPORTS, Kills=10, Deaths=17, Assists=10, KDA=1.18, First Kills=1, First Deaths=1

@@ -1,0 +1,202 @@
+Team 1: DRX
+Team 2: T1
+Participating Players:
+Player 1: carpe
+Player 2: Sayaplayer
+Player 3: xeta
+Player 4: ban 
+Player 5: Munchkin
+Player 6: ZestKR
+Player 7: BuZz
+Player 8: stax
+Player 9: MaKo
+Player 10: Rb
+Winning Team: T1
+Score: DRX 6 - 13 T1
+Tournament Name: vct pacific 2023
+Game Start Time: 2023-05-27T10:56:04Z
+Game End Time: 2023-05-27T11:45:06Z
+Rounds ended by ELIMINATION count: 10
+Rounds ended by DEFUSE count: 5
+Rounds ended by DETONATE count: 3
+SPIKE PLANTED count: 8
+platformGameId: val:52356149-7a01-4281-b66d-3550919bc13d
+
+--- Events ---
+Game started at 2023-05-27T10:56:04Z
+xeta killed BuZz  in round 1
+stax killed xeta  in round 1
+carpe killed stax  in round 1
+MaKo killed Sayaplayer  in round 1
+ZestKR killed carpe  in round 1
+Rb killed ban   in round 1
+Munchkin killed Rb  in round 1
+MaKo killed Munchkin  in round 1
+Round 1 ended with elimination. The winning team is DRX.
+The current score is DRX 1 - 0 T1.
+Munchkin killed stax  in round 2
+MaKo killed Sayaplayer  in round 2
+Rb killed ban   in round 2
+BuZz killed carpe  in round 2
+xeta killed Rb  in round 2
+BuZz killed Munchkin  in round 2
+BuZz killed xeta  in round 2
+Round 2 ended with elimination. The winning team is DRX.
+The current score is DRX 2 - 0 T1.
+Sayaplayer killed ZestKR  in round 3
+Sayaplayer killed MaKo  in round 3
+Sayaplayer killed BuZz  in round 3
+stax killed Munchkin  in round 3
+xeta killed stax  in round 3
+Sayaplayer killed Rb  in round 3
+Round 3 ended with spike_defuse. The winning team is T1.
+The current score is DRX 2 - 1 T1.
+stax killed Sayaplayer  in round 4
+stax killed Munchkin  in round 4
+carpe killed MaKo  in round 4
+Rb killed carpe  in round 4
+Rb killed ban   in round 4
+Round 4 ended with detonate. The winning team is DRX.
+The current score is DRX 3 - 1 T1.
+BuZz killed xeta  in round 5
+carpe killed ZestKR  in round 5
+Sayaplayer killed stax  in round 5
+Sayaplayer killed MaKo  in round 5
+BuZz killed carpe  in round 5
+ban  killed BuZz  in round 5
+ban  killed Rb  in round 5
+Round 5 ended with spike_defuse. The winning team is T1.
+The current score is DRX 3 - 2 T1.
+xeta killed BuZz  in round 6
+MaKo killed Sayaplayer  in round 6
+ZestKR killed Munchkin  in round 6
+carpe killed stax  in round 6
+carpe killed ZestKR  in round 6
+carpe killed Rb  in round 6
+Round 6 ended with time_expired. The winning team is T1.
+The current score is DRX 3 - 3 T1.
+Sayaplayer killed BuZz  in round 7
+carpe killed Rb  in round 7
+ban  killed ZestKR  in round 7
+xeta killed MaKo  in round 7
+carpe killed stax  in round 7
+Round 7 ended with spike_defuse. The winning team is T1.
+The current score is DRX 3 - 4 T1.
+Rb killed Sayaplayer  in round 8
+stax killed Munchkin  in round 8
+BuZz killed ban   in round 8
+Round 8 ended with detonate. The winning team is DRX.
+The current score is DRX 4 - 4 T1.
+Sayaplayer killed Rb  in round 9
+Sayaplayer killed BuZz  in round 9
+Sayaplayer killed stax  in round 9
+Munchkin killed ZestKR  in round 9
+MaKo killed Munchkin  in round 9
+ban  killed MaKo  in round 9
+Round 9 ended with elimination. The winning team is T1.
+The current score is DRX 4 - 5 T1.
+Sayaplayer killed Rb  in round 10
+BuZz killed Sayaplayer  in round 10
+ban  killed BuZz  in round 10
+xeta killed stax  in round 10
+ZestKR killed xeta  in round 10
+ban  killed ZestKR  in round 10
+MaKo killed Munchkin  in round 10
+ban  killed MaKo  in round 10
+Round 10 ended with spike_defuse. The winning team is T1.
+The current score is DRX 4 - 6 T1.
+MaKo killed xeta  in round 11
+carpe killed MaKo  in round 11
+Munchkin killed ZestKR  in round 11
+Sayaplayer killed stax  in round 11
+Sayaplayer killed BuZz  in round 11
+Sayaplayer killed Rb  in round 11
+Round 11 ended with elimination. The winning team is T1.
+The current score is DRX 4 - 7 T1.
+carpe killed Rb  in round 12
+Sayaplayer killed BuZz  in round 12
+BuZz killed Sayaplayer  in round 12
+carpe killed stax  in round 12
+xeta killed MaKo  in round 12
+carpe killed ZestKR  in round 12
+Round 12 ended with elimination. The winning team is T1.
+The current score is DRX 4 - 8 T1.
+MaKo killed xeta  in round 13
+BuZz killed Munchkin  in round 13
+MaKo killed Sayaplayer  in round 13
+ban  killed Rb  in round 13
+carpe killed MaKo  in round 13
+carpe killed ZestKR  in round 13
+ban  killed BuZz  in round 13
+stax killed ban   in round 13
+carpe killed stax  in round 13
+Round 13 ended with elimination. The winning team is T1.
+The current score is DRX 4 - 9 T1.
+xeta killed MaKo  in round 14
+Munchkin killed stax  in round 14
+Sayaplayer killed BuZz  in round 14
+ZestKR killed Sayaplayer  in round 14
+ban  killed ZestKR  in round 14
+xeta killed Rb  in round 14
+Round 14 ended with elimination. The winning team is T1.
+The current score is DRX 4 - 10 T1.
+Sayaplayer killed ZestKR  in round 15
+BuZz killed Munchkin  in round 15
+BuZz killed carpe  in round 15
+BuZz killed Sayaplayer  in round 15
+BuZz killed ban   in round 15
+xeta killed BuZz  in round 15
+xeta killed stax  in round 15
+Rb killed xeta  in round 15
+Round 15 ended with elimination. The winning team is DRX.
+The current score is DRX 5 - 10 T1.
+MaKo killed xeta  in round 16
+Sayaplayer killed MaKo  in round 16
+Rb killed Sayaplayer  in round 16
+carpe killed Rb  in round 16
+ZestKR killed ban   in round 16
+stax killed Munchkin  in round 16
+ZestKR killed carpe  in round 16
+Round 16 ended with spike_defuse. The winning team is DRX.
+The current score is DRX 6 - 10 T1.
+Sayaplayer killed Rb  in round 17
+ZestKR killed Sayaplayer  in round 17
+BuZz killed Munchkin  in round 17
+carpe killed stax  in round 17
+carpe killed BuZz  in round 17
+Round 17 ended with detonate. The winning team is T1.
+The current score is DRX 6 - 11 T1.
+xeta killed MaKo  in round 18
+stax killed carpe  in round 18
+ZestKR killed Sayaplayer  in round 18
+Munchkin killed stax  in round 18
+Rb killed ban   in round 18
+xeta killed Rb  in round 18
+ZestKR killed Munchkin  in round 18
+xeta killed ZestKR  in round 18
+xeta killed BuZz  in round 18
+Round 18 ended with elimination. The winning team is T1.
+The current score is DRX 6 - 12 T1.
+MaKo killed Sayaplayer  in round 19
+Munchkin killed MaKo  in round 19
+Munchkin killed Rb  in round 19
+stax killed ban   in round 19
+stax killed Munchkin  in round 19
+carpe killed ZestKR  in round 19
+xeta killed stax  in round 19
+carpe killed BuZz  in round 19
+Round 19 ended with elimination. The winning team is T1.
+The current score is DRX 6 - 13 T1.
+Game ended with winning team: T1 at 2023-05-27T11:45:06Z
+
+--- Player Stats ---
+carpe: Team=T1, Kills=20, Deaths=7, Assists=2, KDA=3.14, First Kills=1, First Deaths=0
+Sayaplayer: Team=T1, Kills=19, Deaths=14, Assists=4, KDA=1.64, First Kills=6, First Deaths=3
+xeta: Team=T1, Kills=16, Deaths=8, Assists=3, KDA=2.38, First Kills=4, First Deaths=4
+ban : Team=T1, Kills=10, Deaths=9, Assists=6, KDA=1.78, First Kills=0, First Deaths=0
+Munchkin: Team=T1, Kills=8, Deaths=14, Assists=9, KDA=1.21, First Kills=1, First Deaths=0
+ZestKR: Team=DRX, Kills=9, Deaths=13, Assists=6, KDA=1.15, First Kills=0, First Deaths=2
+BuZz: Team=DRX, Kills=14, Deaths=15, Assists=4, KDA=1.2, First Kills=1, First Deaths=3
+stax: Team=DRX, Kills=10, Deaths=16, Assists=8, KDA=1.12, First Kills=1, First Deaths=1
+MaKo: Team=DRX, Kills=11, Deaths=13, Assists=1, KDA=0.92, First Kills=4, First Deaths=2
+Rb: Team=DRX, Kills=8, Deaths=16, Assists=4, KDA=0.75, First Kills=1, First Deaths=4

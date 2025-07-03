@@ -1,0 +1,192 @@
+Team 1: MIBR
+Team 2: LOUD
+Participating Players:
+Player 1: aspas
+Player 2: Cauazin
+Player 3: Saadhak
+Player 4: Less
+Player 5: tuyz
+Player 6: frz
+Player 7: rglmeister
+Player 8: murizzz
+Player 9: heat
+Player 10: jzz
+Winning Team: LOUD
+Score: MIBR 5 - 13 LOUD
+Tournament Name: vct americas 2023
+Game Start Time: 2023-04-02T19:01:41Z
+Game End Time: 2023-04-02T19:55:56Z
+Rounds ended by ELIMINATION count: 11
+Rounds ended by DEFUSE count: 4
+Rounds ended by DETONATE count: 2
+SPIKE PLANTED count: 6
+platformGameId: val:4fb89856-6a1c-4265-bb2d-f1229ef3634c
+
+--- Events ---
+Game started at 2023-04-02T19:01:41Z
+Saadhak killed murizzz  in round 1
+jzz killed Less  in round 1
+tuyz killed jzz  in round 1
+frz killed tuyz  in round 1
+heat killed Cauazin  in round 1
+Saadhak killed rglmeister  in round 1
+aspas killed frz  in round 1
+Saadhak killed heat  in round 1
+Round 1 ended with spike_defuse. The winning team is LOUD.
+The current score is MIBR 0 - 1 LOUD.
+Saadhak killed jzz  in round 2
+heat killed Saadhak  in round 2
+Cauazin killed rglmeister  in round 2
+heat killed Cauazin  in round 2
+aspas killed frz  in round 2
+aspas killed murizzz  in round 2
+Less killed heat  in round 2
+Round 2 ended with elimination. The winning team is LOUD.
+The current score is MIBR 0 - 2 LOUD.
+Saadhak killed frz  in round 3
+Less killed heat  in round 3
+aspas killed jzz  in round 3
+Less killed rglmeister  in round 3
+Round 3 ended with time_expired. The winning team is LOUD.
+The current score is MIBR 0 - 3 LOUD.
+murizzz killed tuyz  in round 4
+Less killed murizzz  in round 4
+heat killed Cauazin  in round 4
+Saadhak killed frz  in round 4
+Saadhak killed jzz  in round 4
+rglmeister killed Saadhak  in round 4
+aspas killed rglmeister  in round 4
+aspas killed heat  in round 4
+Round 4 ended with spike_defuse. The winning team is LOUD.
+The current score is MIBR 0 - 4 LOUD.
+murizzz killed Less  in round 5
+tuyz killed murizzz  in round 5
+Cauazin killed murizzz  in round 5
+heat killed tuyz  in round 5
+jzz killed Cauazin  in round 5
+rglmeister killed Less  in round 5
+jzz killed Saadhak  in round 5
+Round 5 ended with detonate. The winning team is MIBR.
+The current score is MIBR 1 - 4 LOUD.
+Less killed jzz  in round 6
+heat killed aspas  in round 6
+Less killed murizzz  in round 6
+Less killed frz  in round 6
+Cauazin killed rglmeister  in round 6
+heat killed Saadhak  in round 6
+Cauazin killed heat  in round 6
+Round 6 ended with elimination. The winning team is LOUD.
+The current score is MIBR 1 - 5 LOUD.
+aspas killed jzz  in round 7
+aspas killed frz  in round 7
+tuyz killed rglmeister  in round 7
+heat killed aspas  in round 7
+Less killed heat  in round 7
+tuyz killed murizzz  in round 7
+Round 7 ended with spike_defuse. The winning team is LOUD.
+The current score is MIBR 1 - 6 LOUD.
+aspas killed frz  in round 8
+murizzz killed Cauazin  in round 8
+Saadhak killed heat  in round 8
+jzz killed tuyz  in round 8
+rglmeister killed Saadhak  in round 8
+jzz killed Less  in round 8
+jzz killed aspas  in round 8
+Round 8 ended with elimination. The winning team is MIBR.
+The current score is MIBR 2 - 6 LOUD.
+aspas killed heat  in round 9
+Less killed murizzz  in round 9
+Less killed rglmeister  in round 9
+Cauazin killed frz  in round 9
+Less killed jzz  in round 9
+Round 9 ended with spike_defuse. The winning team is LOUD.
+The current score is MIBR 2 - 7 LOUD.
+aspas killed heat  in round 10
+Less killed murizzz  in round 10
+aspas killed frz  in round 10
+Cauazin killed jzz  in round 10
+rglmeister killed Cauazin  in round 10
+Less killed rglmeister  in round 10
+Round 10 ended with elimination. The winning team is LOUD.
+The current score is MIBR 2 - 8 LOUD.
+heat killed tuyz  in round 11
+Saadhak killed frz  in round 11
+heat killed Saadhak  in round 11
+heat killed Less  in round 11
+murizzz killed Cauazin  in round 11
+Round 11 ended with detonate. The winning team is MIBR.
+The current score is MIBR 3 - 8 LOUD.
+tuyz killed heat  in round 12
+Less killed murizzz  in round 12
+jzz killed tuyz  in round 12
+frz killed Saadhak  in round 12
+Cauazin killed frz  in round 12
+rglmeister killed Less  in round 12
+rglmeister killed Cauazin  in round 12
+aspas killed jzz  in round 12
+rglmeister killed aspas  in round 12
+Round 12 ended with elimination. The winning team is MIBR.
+The current score is MIBR 4 - 8 LOUD.
+aspas killed frz  in round 13
+murizzz killed aspas  in round 13
+Cauazin killed heat  in round 13
+Cauazin killed murizzz  in round 13
+Less killed jzz  in round 13
+rglmeister killed Cauazin  in round 13
+rglmeister killed Less  in round 13
+tuyz killed rglmeister  in round 13
+Round 13 ended with elimination. The winning team is LOUD.
+The current score is MIBR 4 - 9 LOUD.
+Saadhak killed frz  in round 14
+Cauazin killed murizzz  in round 14
+Saadhak killed rglmeister  in round 14
+heat killed Saadhak  in round 14
+tuyz killed heat  in round 14
+tuyz killed jzz  in round 14
+Round 14 ended with elimination. The winning team is LOUD.
+The current score is MIBR 4 - 10 LOUD.
+jzz killed Cauazin  in round 15
+jzz killed aspas  in round 15
+Less killed jzz  in round 15
+heat killed Less  in round 15
+murizzz killed tuyz  in round 15
+murizzz killed Saadhak  in round 15
+Round 15 ended with elimination. The winning team is MIBR.
+The current score is MIBR 5 - 10 LOUD.
+aspas killed heat  in round 16
+jzz killed aspas  in round 16
+tuyz killed murizzz  in round 16
+Cauazin killed rglmeister  in round 16
+Less killed frz  in round 16
+jzz killed Saadhak  in round 16
+jzz killed Cauazin  in round 16
+Less killed jzz  in round 16
+Round 16 ended with elimination. The winning team is LOUD.
+The current score is MIBR 5 - 11 LOUD.
+Cauazin killed heat  in round 17
+Cauazin killed rglmeister  in round 17
+Less killed frz  in round 17
+Cauazin killed murizzz  in round 17
+Less killed jzz  in round 17
+Round 17 ended with elimination. The winning team is LOUD.
+The current score is MIBR 5 - 12 LOUD.
+Saadhak killed murizzz  in round 18
+Saadhak killed rglmeister  in round 18
+Saadhak killed heat  in round 18
+aspas killed frz  in round 18
+Saadhak killed jzz  in round 18
+Round 18 ended with elimination. The winning team is LOUD.
+The current score is MIBR 5 - 13 LOUD.
+Game ended with winning team: LOUD at 2023-04-02T19:55:56Z
+
+--- Player Stats ---
+aspas: Team=LOUD, Kills=16, Deaths=7, Assists=5, KDA=3.0, First Kills=6, First Deaths=0
+Cauazin: Team=LOUD, Kills=14, Deaths=11, Assists=7, KDA=1.91, First Kills=1, First Deaths=1
+Saadhak: Team=LOUD, Kills=15, Deaths=10, Assists=9, KDA=2.4, First Kills=5, First Deaths=0
+Less: Team=LOUD, Kills=20, Deaths=8, Assists=4, KDA=3.0, First Kills=1, First Deaths=1
+tuyz: Team=LOUD, Kills=9, Deaths=7, Assists=6, KDA=2.14, First Kills=1, First Deaths=2
+frz: Team=MIBR, Kills=2, Deaths=16, Assists=5, KDA=0.44, First Kills=0, First Deaths=4
+rglmeister: Team=MIBR, Kills=9, Deaths=13, Assists=4, KDA=1.0, First Kills=0, First Deaths=0
+murizzz: Team=MIBR, Kills=7, Deaths=15, Assists=3, KDA=0.67, First Kills=2, First Deaths=2
+heat: Team=MIBR, Kills=13, Deaths=15, Assists=0, KDA=0.87, First Kills=1, First Deaths=5
+jzz: Team=MIBR, Kills=12, Deaths=15, Assists=4, KDA=1.07, First Kills=1, First Deaths=3

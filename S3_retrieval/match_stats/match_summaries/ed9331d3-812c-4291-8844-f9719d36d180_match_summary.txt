@@ -1,0 +1,255 @@
+Team 1: KRÜ Esports
+Team 2: 100 Thieves
+Participating Players:
+Player 1: eeiu
+Player 2: bangNA
+Player 3: Boostio
+Player 4: Cryo
+Player 5: Asuna
+Player 6: KeznitdeuS
+Player 7: Shyy
+Player 8: Melser
+Player 9: mta
+Player 10: heat
+Winning Team: KRÜ Esports
+Score: KRÜ Esports 13 - 11 100 Thieves
+Tournament Name: vct americas stage 2 2024
+Game Start Time: 2024-07-20T01:27:04Z
+Game End Time: 2024-07-20T02:28:37Z
+Rounds ended by ELIMINATION count: 13
+Rounds ended by DEFUSE count: 7
+Rounds ended by DETONATE count: 3
+SPIKE PLANTED count: 10
+platformGameId: val:ed9331d3-812c-4291-8844-f9719d36d180
+
+--- Events ---
+Game started at 2024-07-20T01:27:04Z
+Cryo killed mta  in round 1
+Cryo killed KeznitdeuS  in round 1
+bangNA killed Melser  in round 1
+Shyy killed Asuna  in round 1
+bangNA killed Shyy  in round 1
+Boostio killed heat  in round 1
+Round 1 ended with elimination. The winning team is 100 Thieves.
+The current score is KRÜ Esports 0 - 1 100 Thieves.
+KeznitdeuS killed Cryo  in round 2
+eeiu killed mta  in round 2
+eeiu killed Shyy  in round 2
+heat killed eeiu  in round 2
+Asuna killed Melser  in round 2
+Boostio killed KeznitdeuS  in round 2
+Boostio killed heat  in round 2
+Round 2 ended with elimination. The winning team is 100 Thieves.
+The current score is KRÜ Esports 0 - 2 100 Thieves.
+Cryo killed Shyy  in round 3
+KeznitdeuS killed eeiu  in round 3
+Melser killed Asuna  in round 3
+mta killed Boostio  in round 3
+KeznitdeuS killed Cryo  in round 3
+Round 3 ended with detonate. The winning team is KRÜ Esports.
+The current score is KRÜ Esports 1 - 2 100 Thieves.
+Melser killed Cryo  in round 4
+KeznitdeuS killed eeiu  in round 4
+KeznitdeuS killed Boostio  in round 4
+Asuna killed KeznitdeuS  in round 4
+Asuna killed mta  in round 4
+Shyy killed Asuna  in round 4
+heat killed bangNA  in round 4
+Round 4 ended with elimination. The winning team is KRÜ Esports.
+The current score is KRÜ Esports 2 - 2 100 Thieves.
+Boostio killed KeznitdeuS  in round 5
+mta killed bangNA  in round 5
+Melser killed Boostio  in round 5
+Melser killed eeiu  in round 5
+Shyy killed Cryo  in round 5
+Asuna killed Melser  in round 5
+Asuna killed heat  in round 5
+mta killed Asuna  in round 5
+Round 5 ended with elimination. The winning team is KRÜ Esports.
+The current score is KRÜ Esports 3 - 2 100 Thieves.
+Shyy killed Cryo  in round 6
+Asuna killed mta  in round 6
+heat killed Asuna  in round 6
+KeznitdeuS killed bangNA  in round 6
+Boostio killed KeznitdeuS  in round 6
+eeiu killed Shyy  in round 6
+eeiu killed heat  in round 6
+eeiu killed Melser  in round 6
+Round 6 ended with elimination. The winning team is 100 Thieves.
+The current score is KRÜ Esports 3 - 3 100 Thieves.
+eeiu killed mta  in round 7
+eeiu killed Shyy  in round 7
+Asuna killed Melser  in round 7
+KeznitdeuS killed Asuna  in round 7
+Cryo killed KeznitdeuS  in round 7
+Asuna killed heat  in round 7
+Round 7 ended with elimination. The winning team is 100 Thieves.
+The current score is KRÜ Esports 3 - 4 100 Thieves.
+Boostio killed KeznitdeuS  in round 8
+mta killed Boostio  in round 8
+eeiu killed Shyy  in round 8
+bangNA killed heat  in round 8
+Asuna killed mta  in round 8
+bangNA killed Melser  in round 8
+Round 8 ended with spike_defuse. The winning team is 100 Thieves.
+The current score is KRÜ Esports 3 - 5 100 Thieves.
+KeznitdeuS killed bangNA  in round 9
+Cryo killed KeznitdeuS  in round 9
+Asuna killed Shyy  in round 9
+Melser killed Cryo  in round 9
+Asuna killed mta  in round 9
+Asuna killed Melser  in round 9
+heat killed Asuna  in round 9
+eeiu killed heat  in round 9
+Round 9 ended with spike_defuse. The winning team is 100 Thieves.
+The current score is KRÜ Esports 3 - 6 100 Thieves.
+Cryo killed KeznitdeuS  in round 10
+Cryo killed heat  in round 10
+Boostio killed Melser  in round 10
+eeiu killed Shyy  in round 10
+mta killed Boostio  in round 10
+Cryo killed mta  in round 10
+Round 10 ended with elimination. The winning team is 100 Thieves.
+The current score is KRÜ Esports 3 - 7 100 Thieves.
+Cryo killed mta  in round 11
+bangNA killed KeznitdeuS  in round 11
+Shyy killed bangNA  in round 11
+Melser killed Asuna  in round 11
+heat killed Cryo  in round 11
+eeiu killed heat  in round 11
+Melser killed Boostio  in round 11
+Melser killed eeiu  in round 11
+Round 11 ended with elimination. The winning team is KRÜ Esports.
+The current score is KRÜ Esports 4 - 7 100 Thieves.
+Asuna killed KeznitdeuS  in round 12
+Melser killed Asuna  in round 12
+Cryo killed heat  in round 12
+Melser killed Boostio  in round 12
+bangNA killed Melser  in round 12
+Shyy killed bangNA  in round 12
+mta killed eeiu  in round 12
+Cryo killed mta  in round 12
+Cryo killed Shyy  in round 12
+Round 12 ended with detonate. The winning team is KRÜ Esports.
+The current score is KRÜ Esports 5 - 7 100 Thieves.
+Cryo killed Cryo  in round 13
+KeznitdeuS killed Boostio  in round 13
+bangNA killed mta  in round 13
+Shyy killed Cryo  in round 13
+Melser killed eeiu  in round 13
+bangNA killed KeznitdeuS  in round 13
+heat killed Asuna  in round 13
+Shyy killed bangNA  in round 13
+Round 13 ended with spike_defuse. The winning team is KRÜ Esports.
+The current score is KRÜ Esports 6 - 7 100 Thieves.
+KeznitdeuS killed Boostio  in round 14
+KeznitdeuS killed Cryo  in round 14
+bangNA killed KeznitdeuS  in round 14
+heat killed Asuna  in round 14
+heat killed eeiu  in round 14
+heat killed bangNA  in round 14
+Round 14 ended with elimination. The winning team is KRÜ Esports.
+The current score is KRÜ Esports 7 - 7 100 Thieves.
+KeznitdeuS killed eeiu  in round 15
+heat killed Asuna  in round 15
+bangNA killed mta  in round 15
+Cryo killed Shyy  in round 15
+heat killed Cryo  in round 15
+Boostio killed KeznitdeuS  in round 15
+bangNA killed Melser  in round 15
+Boostio killed heat  in round 15
+Round 15 ended with elimination. The winning team is 100 Thieves.
+The current score is KRÜ Esports 7 - 8 100 Thieves.
+mta killed Cryo  in round 16
+Melser killed bangNA  in round 16
+Asuna killed mta  in round 16
+heat killed Boostio  in round 16
+Asuna killed heat  in round 16
+Shyy killed Asuna  in round 16
+eeiu killed KeznitdeuS  in round 16
+eeiu killed Melser  in round 16
+eeiu killed Shyy  in round 16
+Round 16 ended with elimination. The winning team is 100 Thieves.
+The current score is KRÜ Esports 7 - 9 100 Thieves.
+Cryo killed mta  in round 17
+Shyy killed Cryo  in round 17
+Shyy killed bangNA  in round 17
+eeiu killed KeznitdeuS  in round 17
+Shyy killed eeiu  in round 17
+Asuna killed Shyy  in round 17
+Boostio killed Melser  in round 17
+Boostio killed heat  in round 17
+Round 17 ended with elimination. The winning team is 100 Thieves.
+The current score is KRÜ Esports 7 - 10 100 Thieves.
+Cryo killed Shyy  in round 18
+Cryo killed mta  in round 18
+Melser killed eeiu  in round 18
+Round 18 ended with detonate. The winning team is 100 Thieves.
+The current score is KRÜ Esports 7 - 11 100 Thieves.
+mta killed Cryo  in round 19
+bangNA killed heat  in round 19
+bangNA killed KeznitdeuS  in round 19
+Shyy killed Asuna  in round 19
+bangNA killed Shyy  in round 19
+mta killed Boostio  in round 19
+mta killed bangNA  in round 19
+mta killed eeiu  in round 19
+Round 19 ended with elimination. The winning team is KRÜ Esports.
+The current score is KRÜ Esports 8 - 11 100 Thieves.
+KeznitdeuS killed Boostio  in round 20
+Shyy killed Cryo  in round 20
+Asuna killed Shyy  in round 20
+mta killed eeiu  in round 20
+mta killed Asuna  in round 20
+bangNA killed heat  in round 20
+mta killed bangNA  in round 20
+Round 20 ended with spike_defuse. The winning team is KRÜ Esports.
+The current score is KRÜ Esports 9 - 11 100 Thieves.
+KeznitdeuS killed Cryo  in round 21
+KeznitdeuS killed eeiu  in round 21
+Boostio killed KeznitdeuS  in round 21
+Shyy killed Asuna  in round 21
+bangNA killed Melser  in round 21
+bangNA killed heat  in round 21
+Boostio killed Shyy  in round 21
+mta killed Boostio  in round 21
+mta killed bangNA  in round 21
+Round 21 ended with spike_defuse. The winning team is KRÜ Esports.
+The current score is KRÜ Esports 10 - 11 100 Thieves.
+Melser killed Cryo  in round 22
+Shyy killed bangNA  in round 22
+Melser killed Asuna  in round 22
+Melser killed Boostio  in round 22
+Round 22 ended with time_expired. The winning team is KRÜ Esports.
+The current score is KRÜ Esports 11 - 11 100 Thieves.
+Shyy killed Asuna  in round 23
+Shyy killed bangNA  in round 23
+Cryo killed Shyy  in round 23
+Cryo killed Melser  in round 23
+heat killed Cryo  in round 23
+eeiu killed heat  in round 23
+mta killed Boostio  in round 23
+eeiu killed mta  in round 23
+KeznitdeuS killed eeiu  in round 23
+Round 23 ended with spike_defuse. The winning team is KRÜ Esports.
+The current score is KRÜ Esports 12 - 11 100 Thieves.
+Cryo killed heat  in round 24
+Melser killed Boostio  in round 24
+mta killed bangNA  in round 24
+Cryo killed Melser  in round 24
+mta killed Asuna  in round 24
+Round 24 ended with spike_defuse. The winning team is KRÜ Esports.
+The current score is KRÜ Esports 13 - 11 100 Thieves.
+Game ended with winning team: KRÜ Esports at 2024-07-20T02:28:37Z
+
+--- Player Stats ---
+eeiu: Team=100 Thieves, Kills=17, Deaths=15, Assists=9, KDA=1.73, First Kills=1, First Deaths=1
+bangNA: Team=100 Thieves, Kills=17, Deaths=16, Assists=12, KDA=1.81, First Kills=0, First Deaths=1
+Boostio: Team=100 Thieves, Kills=13, Deaths=16, Assists=2, KDA=0.94, First Kills=2, First Deaths=2
+Cryo: Team=100 Thieves, Kills=21, Deaths=18, Assists=3, KDA=1.33, First Kills=8, First Deaths=8
+Asuna: Team=100 Thieves, Kills=17, Deaths=19, Assists=20, KDA=1.95, First Kills=1, First Deaths=1
+KeznitdeuS: Team=KRÜ Esports, Kills=16, Deaths=18, Assists=4, KDA=1.11, First Kills=6, First Deaths=4
+Shyy: Team=KRÜ Esports, Kills=18, Deaths=17, Assists=5, KDA=1.35, First Kills=2, First Deaths=2
+Melser: Team=KRÜ Esports, Kills=17, Deaths=15, Assists=11, KDA=1.87, First Kills=2, First Deaths=0
+mta: Team=KRÜ Esports, Kills=19, Deaths=16, Assists=7, KDA=1.62, First Kills=2, First Deaths=4
+heat: Team=KRÜ Esports, Kills=13, Deaths=18, Assists=10, KDA=1.28, First Kills=0, First Deaths=1

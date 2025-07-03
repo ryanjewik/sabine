@@ -1,0 +1,217 @@
+Team 1: T1
+Team 2: Leviatán Esports
+Participating Players:
+Player 1: aspas
+Player 2: tex
+Player 3: kiNgg
+Player 4: C0M
+Player 5: Mazino
+Player 6: Sayaplayer
+Player 7: iZu
+Player 8: carpe
+Player 9: Rossy
+Player 10: Xccurate
+Winning Team: Leviatán Esports
+Score: T1 7 - 13 Leviatán Esports
+Tournament Name: vct masters shanghai 2024
+Game Start Time: 2024-05-26T09:06:17Z
+Game End Time: 2024-05-26T09:48:22Z
+Rounds ended by ELIMINATION count: 10
+Rounds ended by DEFUSE count: 8
+Rounds ended by DETONATE count: 1
+SPIKE PLANTED count: 9
+platformGameId: val:3b693019-481a-4105-8497-bea95d5be1c7
+
+--- Events ---
+Game started at 2024-05-26T09:06:17Z
+iZu killed kiNgg  in round 1
+tex killed Sayaplayer  in round 1
+tex killed Rossy  in round 1
+C0M killed iZu  in round 1
+tex killed Xccurate  in round 1
+carpe killed tex  in round 1
+C0M killed carpe  in round 1
+Round 1 ended with spike_defuse. The winning team is Leviatán Esports.
+The current score is T1 0 - 1 Leviatán Esports.
+iZu killed tex  in round 2
+kiNgg killed iZu  in round 2
+kiNgg killed Rossy  in round 2
+aspas killed Sayaplayer  in round 2
+aspas killed carpe  in round 2
+Mazino killed Xccurate  in round 2
+Round 2 ended with elimination. The winning team is Leviatán Esports.
+The current score is T1 0 - 2 Leviatán Esports.
+iZu killed kiNgg  in round 3
+iZu killed tex  in round 3
+iZu killed Mazino  in round 3
+C0M killed iZu  in round 3
+aspas killed Rossy  in round 3
+C0M killed carpe  in round 3
+C0M killed Xccurate  in round 3
+aspas killed Sayaplayer  in round 3
+Round 3 ended with spike_defuse. The winning team is Leviatán Esports.
+The current score is T1 0 - 3 Leviatán Esports.
+iZu killed aspas  in round 4
+Mazino killed iZu  in round 4
+iZu killed Mazino  in round 4
+Xccurate killed tex  in round 4
+kiNgg killed Sayaplayer  in round 4
+Rossy killed kiNgg  in round 4
+carpe killed C0M  in round 4
+Round 4 ended with elimination. The winning team is T1.
+The current score is T1 1 - 3 Leviatán Esports.
+C0M killed iZu  in round 5
+aspas killed Xccurate  in round 5
+aspas killed carpe  in round 5
+aspas killed Sayaplayer  in round 5
+Round 5 ended with spike_defuse. The winning team is Leviatán Esports.
+The current score is T1 1 - 4 Leviatán Esports.
+iZu killed Mazino  in round 6
+aspas killed iZu  in round 6
+Sayaplayer killed tex  in round 6
+C0M killed carpe  in round 6
+C0M killed Sayaplayer  in round 6
+Rossy killed aspas  in round 6
+kiNgg killed Rossy  in round 6
+kiNgg killed Xccurate  in round 6
+Round 6 ended with spike_defuse. The winning team is Leviatán Esports.
+The current score is T1 1 - 5 Leviatán Esports.
+kiNgg killed iZu  in round 7
+tex killed Xccurate  in round 7
+Mazino killed carpe  in round 7
+aspas killed Rossy  in round 7
+Mazino killed Sayaplayer  in round 7
+Round 7 ended with spike_defuse. The winning team is Leviatán Esports.
+The current score is T1 1 - 6 Leviatán Esports.
+kiNgg killed Sayaplayer  in round 8
+carpe killed kiNgg  in round 8
+Rossy killed tex  in round 8
+C0M killed iZu  in round 8
+Xccurate killed aspas  in round 8
+Xccurate killed Mazino  in round 8
+Round 8 ended with detonate. The winning team is T1.
+The current score is T1 2 - 6 Leviatán Esports.
+C0M killed iZu  in round 9
+tex killed Xccurate  in round 9
+C0M killed Sayaplayer  in round 9
+carpe killed C0M  in round 9
+Rossy killed tex  in round 9
+aspas killed carpe  in round 9
+Rossy killed aspas  in round 9
+Rossy killed kiNgg  in round 9
+Mazino killed Rossy  in round 9
+Round 9 ended with spike_defuse. The winning team is Leviatán Esports.
+The current score is T1 2 - 7 Leviatán Esports.
+iZu killed C0M  in round 10
+tex killed iZu  in round 10
+tex killed Xccurate  in round 10
+tex killed carpe  in round 10
+Sayaplayer killed tex  in round 10
+Mazino killed Sayaplayer  in round 10
+aspas killed Rossy  in round 10
+Round 10 ended with elimination. The winning team is Leviatán Esports.
+The current score is T1 2 - 8 Leviatán Esports.
+Mazino killed carpe  in round 11
+Rossy killed Mazino  in round 11
+aspas killed Rossy  in round 11
+iZu killed C0M  in round 11
+kiNgg killed Xccurate  in round 11
+aspas killed iZu  in round 11
+Sayaplayer killed aspas  in round 11
+kiNgg killed Sayaplayer  in round 11
+Round 11 ended with spike_defuse. The winning team is Leviatán Esports.
+The current score is T1 2 - 9 Leviatán Esports.
+aspas killed Xccurate  in round 12
+kiNgg killed Sayaplayer  in round 12
+tex killed carpe  in round 12
+aspas killed iZu  in round 12
+Rossy killed C0M  in round 12
+aspas killed Rossy  in round 12
+Round 12 ended with elimination. The winning team is Leviatán Esports.
+The current score is T1 2 - 10 Leviatán Esports.
+carpe killed aspas  in round 13
+Rossy killed C0M  in round 13
+kiNgg killed Rossy  in round 13
+tex killed Sayaplayer  in round 13
+tex killed Xccurate  in round 13
+carpe killed kiNgg  in round 13
+Mazino killed carpe  in round 13
+iZu killed tex  in round 13
+iZu killed Mazino  in round 13
+Round 13 ended with spike_defuse. The winning team is T1.
+The current score is T1 3 - 10 Leviatán Esports.
+Rossy killed C0M  in round 14
+iZu killed Mazino  in round 14
+Xccurate killed tex  in round 14
+carpe killed kiNgg  in round 14
+Rossy killed aspas  in round 14
+Round 14 ended with elimination. The winning team is T1.
+The current score is T1 4 - 10 Leviatán Esports.
+kiNgg killed Sayaplayer  in round 15
+iZu killed kiNgg  in round 15
+tex killed carpe  in round 15
+iZu killed tex  in round 15
+C0M killed iZu  in round 15
+Xccurate killed C0M  in round 15
+Mazino killed Xccurate  in round 15
+Rossy killed Mazino  in round 15
+aspas killed Rossy  in round 15
+Round 15 ended with elimination. The winning team is Leviatán Esports.
+The current score is T1 4 - 11 Leviatán Esports.
+Sayaplayer killed aspas  in round 16
+tex killed Rossy  in round 16
+kiNgg killed Sayaplayer  in round 16
+Xccurate killed C0M  in round 16
+iZu killed kiNgg  in round 16
+iZu killed Mazino  in round 16
+tex killed Xccurate  in round 16
+Round 16 ended with time_expired. The winning team is T1.
+The current score is T1 5 - 11 Leviatán Esports.
+Xccurate killed kiNgg  in round 17
+aspas killed Xccurate  in round 17
+Sayaplayer killed C0M  in round 17
+Rossy killed Mazino  in round 17
+Rossy killed tex  in round 17
+iZu killed aspas  in round 17
+Round 17 ended with elimination. The winning team is T1.
+The current score is T1 6 - 11 Leviatán Esports.
+C0M killed iZu  in round 18
+aspas killed Rossy  in round 18
+C0M killed Xccurate  in round 18
+aspas killed Sayaplayer  in round 18
+Mazino killed carpe  in round 18
+Round 18 ended with elimination. The winning team is Leviatán Esports.
+The current score is T1 6 - 12 Leviatán Esports.
+aspas killed carpe  in round 19
+aspas killed Sayaplayer  in round 19
+aspas killed iZu  in round 19
+Rossy killed tex  in round 19
+Xccurate killed aspas  in round 19
+C0M killed iZu  in round 19
+Rossy killed Mazino  in round 19
+Xccurate killed C0M  in round 19
+Rossy killed kiNgg  in round 19
+Round 19 ended with elimination. The winning team is T1.
+The current score is T1 7 - 12 Leviatán Esports.
+Rossy killed C0M  in round 20
+iZu killed kiNgg  in round 20
+Mazino killed iZu  in round 20
+Mazino killed carpe  in round 20
+tex killed Xccurate  in round 20
+tex killed Sayaplayer  in round 20
+tex killed Rossy  in round 20
+Round 20 ended with elimination. The winning team is Leviatán Esports.
+The current score is T1 7 - 13 Leviatán Esports.
+Game ended with winning team: Leviatán Esports at 2024-05-26T09:48:22Z
+
+--- Player Stats ---
+aspas: Team=Leviatán Esports, Kills=23, Deaths=10, Assists=6, KDA=2.9, First Kills=2, First Deaths=3
+tex: Team=Leviatán Esports, Kills=17, Deaths=13, Assists=9, KDA=2.0, First Kills=0, First Deaths=1
+kiNgg: Team=Leviatán Esports, Kills=13, Deaths=12, Assists=9, KDA=1.83, First Kills=3, First Deaths=3
+C0M: Team=Leviatán Esports, Kills=15, Deaths=12, Assists=3, KDA=1.5, First Kills=3, First Deaths=3
+Mazino: Team=Leviatán Esports, Kills=12, Deaths=11, Assists=11, KDA=2.09, First Kills=1, First Deaths=1
+Sayaplayer: Team=T1, Kills=5, Deaths=18, Assists=6, KDA=0.61, First Kills=1, First Deaths=2
+iZu: Team=T1, Kills=19, Deaths=17, Assists=1, KDA=1.18, First Kills=6, First Deaths=4
+carpe: Team=T1, Kills=7, Deaths=15, Assists=5, KDA=0.8, First Kills=1, First Deaths=2
+Rossy: Team=T1, Kills=18, Deaths=14, Assists=7, KDA=1.79, First Kills=2, First Deaths=0
+Xccurate: Team=T1, Kills=9, Deaths=16, Assists=2, KDA=0.69, First Kills=1, First Deaths=1

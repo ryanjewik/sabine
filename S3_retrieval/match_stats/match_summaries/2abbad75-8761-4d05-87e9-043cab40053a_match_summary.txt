@@ -1,0 +1,212 @@
+Team 1: Trace Esports
+Team 2: JDG ESPORTS
+Participating Players:
+Player 1: stew
+Player 2: Viva
+Player 3: YHchen
+Player 4: jkuro
+Player 5: Z1Yan
+Player 6: FengF
+Player 7: Kai 
+Player 8: heybay
+Player 9: Biank
+Player 10: LuoK1ng
+Winning Team: JDG ESPORTS
+Score: Trace Esports 6 - 13 JDG ESPORTS
+Tournament Name: vct cn stage 2 2024
+Game Start Time: 2024-06-28T13:30:23Z
+Game End Time: 2024-06-28T14:15:31Z
+Rounds ended by ELIMINATION count: 11
+Rounds ended by DEFUSE count: 5
+Rounds ended by DETONATE count: 3
+SPIKE PLANTED count: 8
+platformGameId: val:2abbad75-8761-4d05-87e9-043cab40053a
+
+--- Events ---
+Game started at 2024-06-28T13:30:23Z
+Biank killed Z1Yan  in round 1
+stew killed Kai   in round 1
+FengF killed stew  in round 1
+FengF killed YHchen  in round 1
+Biank killed jkuro  in round 1
+Viva killed LuoK1ng  in round 1
+Viva killed heybay  in round 1
+FengF killed Viva  in round 1
+Round 1 ended with elimination. The winning team is Trace Esports.
+The current score is Trace Esports 1 - 0 JDG ESPORTS.
+heybay killed stew  in round 2
+Biank killed YHchen  in round 2
+FengF killed jkuro  in round 2
+Z1Yan killed FengF  in round 2
+Kai  killed Z1Yan  in round 2
+Round 2 ended with detonate. The winning team is Trace Esports.
+The current score is Trace Esports 2 - 0 JDG ESPORTS.
+Viva killed Viva  in round 3
+jkuro killed FengF  in round 3
+Viva killed Biank  in round 3
+Viva killed Kai   in round 3
+heybay killed Viva  in round 3
+LuoK1ng killed stew  in round 3
+Z1Yan killed LuoK1ng  in round 3
+jkuro killed heybay  in round 3
+Round 3 ended with spike_defuse. The winning team is JDG ESPORTS.
+The current score is Trace Esports 2 - 1 JDG ESPORTS.
+stew killed LuoK1ng  in round 4
+Viva killed Kai   in round 4
+heybay killed Viva  in round 4
+stew killed FengF  in round 4
+YHchen killed Biank  in round 4
+heybay killed jkuro  in round 4
+YHchen killed heybay  in round 4
+Round 4 ended with elimination. The winning team is JDG ESPORTS.
+The current score is Trace Esports 2 - 2 JDG ESPORTS.
+YHchen killed LuoK1ng  in round 5
+YHchen killed Kai   in round 5
+FengF killed YHchen  in round 5
+stew killed heybay  in round 5
+Z1Yan killed Biank  in round 5
+stew killed FengF  in round 5
+Round 5 ended with elimination. The winning team is JDG ESPORTS.
+The current score is Trace Esports 2 - 3 JDG ESPORTS.
+jkuro killed heybay  in round 6
+Biank killed Z1Yan  in round 6
+Viva killed Biank  in round 6
+Kai  killed YHchen  in round 6
+Viva killed FengF  in round 6
+Kai  killed jkuro  in round 6
+stew killed Kai   in round 6
+Viva killed LuoK1ng  in round 6
+Round 6 ended with spike_defuse. The winning team is JDG ESPORTS.
+The current score is Trace Esports 2 - 4 JDG ESPORTS.
+stew killed Kai   in round 7
+heybay killed Viva  in round 7
+stew killed Biank  in round 7
+LuoK1ng killed stew  in round 7
+heybay killed YHchen  in round 7
+Z1Yan killed FengF  in round 7
+heybay killed Z1Yan  in round 7
+LuoK1ng killed jkuro  in round 7
+Round 7 ended with elimination. The winning team is Trace Esports.
+The current score is Trace Esports 3 - 4 JDG ESPORTS.
+Biank killed Z1Yan  in round 8
+jkuro killed Biank  in round 8
+FengF killed Viva  in round 8
+jkuro killed FengF  in round 8
+LuoK1ng killed jkuro  in round 8
+YHchen killed heybay  in round 8
+LuoK1ng killed YHchen  in round 8
+stew killed LuoK1ng  in round 8
+Round 8 ended with detonate. The winning team is Trace Esports.
+The current score is Trace Esports 4 - 4 JDG ESPORTS.
+FengF killed jkuro  in round 9
+Z1Yan killed heybay  in round 9
+FengF killed Z1Yan  in round 9
+Viva killed Kai   in round 9
+LuoK1ng killed Viva  in round 9
+stew killed LuoK1ng  in round 9
+Biank killed YHchen  in round 9
+Biank killed stew  in round 9
+Round 9 ended with elimination. The winning team is Trace Esports.
+The current score is Trace Esports 5 - 4 JDG ESPORTS.
+jkuro killed Kai   in round 10
+YHchen killed Biank  in round 10
+stew killed LuoK1ng  in round 10
+FengF killed jkuro  in round 10
+Z1Yan killed heybay  in round 10
+FengF killed stew  in round 10
+FengF killed Z1Yan  in round 10
+Viva killed FengF  in round 10
+Round 10 ended with spike_defuse. The winning team is JDG ESPORTS.
+The current score is Trace Esports 5 - 5 JDG ESPORTS.
+Viva killed FengF  in round 11
+Kai  killed Viva  in round 11
+Z1Yan killed LuoK1ng  in round 11
+jkuro killed Kai   in round 11
+heybay killed Z1Yan  in round 11
+jkuro killed heybay  in round 11
+YHchen killed Biank  in round 11
+Round 11 ended with elimination. The winning team is JDG ESPORTS.
+The current score is Trace Esports 5 - 6 JDG ESPORTS.
+Kai  killed stew  in round 12
+Viva killed LuoK1ng  in round 12
+Z1Yan killed FengF  in round 12
+jkuro killed Kai   in round 12
+Biank killed jkuro  in round 12
+YHchen killed Biank  in round 12
+Z1Yan killed heybay  in round 12
+Round 12 ended with spike_defuse. The winning team is JDG ESPORTS.
+The current score is Trace Esports 5 - 7 JDG ESPORTS.
+stew killed Kai   in round 13
+stew killed LuoK1ng  in round 13
+Z1Yan killed Biank  in round 13
+Z1Yan killed heybay  in round 13
+FengF killed Z1Yan  in round 13
+stew killed FengF  in round 13
+Round 13 ended with elimination. The winning team is JDG ESPORTS.
+The current score is Trace Esports 5 - 8 JDG ESPORTS.
+YHchen killed FengF  in round 14
+jkuro killed LuoK1ng  in round 14
+Kai  killed YHchen  in round 14
+stew killed heybay  in round 14
+Biank killed Z1Yan  in round 14
+stew killed Kai   in round 14
+jkuro killed Biank  in round 14
+Round 14 ended with elimination. The winning team is JDG ESPORTS.
+The current score is Trace Esports 5 - 9 JDG ESPORTS.
+Viva killed Kai   in round 15
+FengF killed jkuro  in round 15
+Z1Yan killed LuoK1ng  in round 15
+Z1Yan killed FengF  in round 15
+Round 15 ended with detonate. The winning team is JDG ESPORTS.
+The current score is Trace Esports 5 - 10 JDG ESPORTS.
+Biank killed YHchen  in round 16
+Kai  killed Z1Yan  in round 16
+jkuro killed Biank  in round 16
+LuoK1ng killed jkuro  in round 16
+Viva killed Kai   in round 16
+stew killed heybay  in round 16
+stew killed LuoK1ng  in round 16
+FengF killed stew  in round 16
+Viva killed FengF  in round 16
+Round 16 ended with elimination. The winning team is JDG ESPORTS.
+The current score is Trace Esports 5 - 11 JDG ESPORTS.
+heybay killed jkuro  in round 17
+LuoK1ng killed Z1Yan  in round 17
+Kai  killed stew  in round 17
+Kai  killed Viva  in round 17
+FengF killed YHchen  in round 17
+Round 17 ended with spike_defuse. The winning team is Trace Esports.
+The current score is Trace Esports 6 - 11 JDG ESPORTS.
+Biank killed stew  in round 18
+Z1Yan killed Biank  in round 18
+YHchen killed LuoK1ng  in round 18
+heybay killed jkuro  in round 18
+Z1Yan killed FengF  in round 18
+YHchen killed heybay  in round 18
+Kai  killed Z1Yan  in round 18
+YHchen killed Kai   in round 18
+Round 18 ended with elimination. The winning team is JDG ESPORTS.
+The current score is Trace Esports 6 - 12 JDG ESPORTS.
+stew killed Kai   in round 19
+Biank killed stew  in round 19
+LuoK1ng killed Z1Yan  in round 19
+Viva killed heybay  in round 19
+YHchen killed Biank  in round 19
+YHchen killed FengF  in round 19
+LuoK1ng killed Viva  in round 19
+jkuro killed LuoK1ng  in round 19
+Round 19 ended with elimination. The winning team is JDG ESPORTS.
+The current score is Trace Esports 6 - 13 JDG ESPORTS.
+Game ended with winning team: JDG ESPORTS at 2024-06-28T14:15:31Z
+
+--- Player Stats ---
+stew: Team=JDG ESPORTS, Kills=19, Deaths=11, Assists=1, KDA=1.82, First Kills=4, First Deaths=3
+Viva: Team=JDG ESPORTS, Kills=17, Deaths=10, Assists=3, KDA=2.0, First Kills=3, First Deaths=1
+YHchen: Team=JDG ESPORTS, Kills=14, Deaths=10, Assists=12, KDA=2.6, First Kills=2, First Deaths=1
+jkuro: Team=JDG ESPORTS, Kills=13, Deaths=13, Assists=6, KDA=1.46, First Kills=2, First Deaths=2
+Z1Yan: Team=JDG ESPORTS, Kills=15, Deaths=14, Assists=6, KDA=1.5, First Kills=0, First Deaths=2
+FengF: Team=Trace Esports, Kills=15, Deaths=16, Assists=3, KDA=1.12, First Kills=1, First Deaths=2
+Kai : Team=Trace Esports, Kills=10, Deaths=16, Assists=4, KDA=0.88, First Kills=1, First Deaths=5
+heybay: Team=Trace Esports, Kills=10, Deaths=15, Assists=8, KDA=1.2, First Kills=2, First Deaths=1
+Biank: Team=Trace Esports, Kills=12, Deaths=14, Assists=3, KDA=1.07, First Kills=4, First Deaths=0
+LuoK1ng: Team=Trace Esports, Kills=10, Deaths=16, Assists=6, KDA=1.0, First Kills=0, First Deaths=2
