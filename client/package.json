@@ -2,7 +2,7 @@
   "name": "client",
   "version": "0.1.0",
   "private": true,
-  "proxy": "http://localhost:5000",
+  "proxy": "http://server:5000",
   "homepage": "https://ryanjewik.github.io/homepage/",
   "dependencies": {
     "@emotion/react": "latest",

@@ -1,0 +1,41 @@
+version: '3.9'
+services:
+  server:
+    build: ./flask-server
+    ports: 
+      - "5000:5000"
+    volumes:
+      - ./flask-server:/sabine
+    env_file:
+      - ./flask-server/.env
+    environment:
+      FLASK_ENV: production
+      OPENAI_API_KEY: ${OPENAI_API_KEY}
+      MONGODB_URI: ${MONGODB_URI}
+      DB_PASSWORD: ${DB_PASSWORD}
+      DB_USERNAME: ${DB_USERNAME}
+      DB_NAME: ${DB_NAME}
+      DB_HOST: ${DB_HOST}
+      DB_PORT: ${DB_PORT}
+  web:
+    build: ./client
+    ports:
+      - "3000:3000"
+    volumes:
+      - ./client:/app
+    depends_on:
+      - server
+  db:
+    image: postgres:latest
+    env_file:
+      - ./flask-server/.env
+    environment:
+      POSTGRES_USER: ${DB_USERNAME}
+      POSTGRES_PASSWORD: ${DB_PASSWORD}
+      POSTGRES_DB: ${DB_NAME}
+    ports:
+      - "${DB_PORT}:5432"
+    volumes:
+      - db_data:/var/lib/postgresql/data
+volumes:
+  db_data:

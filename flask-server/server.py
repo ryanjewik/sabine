@@ -45,11 +45,11 @@ inputs = []
 #user database connection
 try:
     conn = psycopg2.connect(
-        database="user accounts",
-        user="postgres",
-        password="Happyrhino8!",
-        host="localhost",
-        port=5432
+        database=os.getenv("DB_NAME"),
+        user=os.getenv("DB_USERNAME"),
+        password=os.getenv("DB_PASSWORD"),
+        host=os.getenv("DB_HOST"),
+        port=os.getenv("DB_PORT")
     )
     cur = conn.cursor()
 except Exception as e:
@@ -75,8 +75,8 @@ from pymongo.server_api import ServerApi
 
 
 #keys
-OPENAI_API_KEY = ""
-MONGODB_URI = ""
+OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
+MONGODB_URI = os.getenv("MONGODB_URI")
 
 client = MongoClient(MONGODB_URI, server_api=ServerApi('1'))
 # Send a ping to confirm a successful connection
@@ -91,34 +91,7 @@ db = client["chat_database"]
 
 
 
-#ingest the documents
-docs = []
-txt_folder = os.path.abspath(os.path.join(os.getcwd(), "../game_information/"))
-txt_files = glob.glob(os.path.join(txt_folder, "*.txt"))
-for file_path in txt_files:
-    with open(file_path, "r", encoding="utf-8") as f:
-        content = f.read()
-    doc = Document(page_content=content, metadata={"source": os.path.basename(file_path)})
-    docs.append(doc)
-print(f"Loaded {len(txt_files)} txt files into docs.")
 
-txt_folder = os.path.abspath(os.path.join(os.getcwd(), "../player_script/player_profiles/"))
-txt_files = glob.glob(os.path.join(txt_folder, "*.txt"))
-for file_path in txt_files:
-    with open(file_path, "r", encoding="utf-8") as f:
-        content = f.read()
-    doc = Document(page_content=content, metadata={"source": os.path.basename(file_path)})
-    docs.append(doc)
-print(f"Loaded {len(txt_files)} txt files into docs.")
-
-txt_folder = os.path.abspath(os.path.join(os.getcwd(), "../S3_retrieval/match_stats/match_summaries/"))
-txt_files = glob.glob(os.path.join(txt_folder, "*.txt"))
-for file_path in txt_files:
-    with open(file_path, "r", encoding="utf-8") as f:
-        content = f.read()
-    doc = Document(page_content=content, metadata={"source": os.path.basename(file_path)})
-    docs.append(doc)
-print(f"Loaded {len(txt_files)} txt files into docs.")
 
 embedding_model = OpenAIEmbeddings(
     model="text-embedding-3-small",
@@ -219,7 +192,7 @@ def get_info_about_vct(user_query: str) -> str:
                 text_key="page_content",
                 search_kwargs={"top_k": top_k},
             ).invoke(user_query)
-            context = "\n\n".join([summarize_for_query(user_query, d.page_content) for d in docs])
+            context = "\n\n".join([d.page_content for d in docs])
             return context
         except openai.RateLimitError as e:
             print(f"OpenAI RateLimitError at top_k={top_k}: {e}")
@@ -684,7 +657,7 @@ def run_sabine_chatbot(question, conversationId):
 
 
 if __name__ == "__main__":
-    app.run(debug=True)
+    app.run(debug=True, host = '0.0.0.0', port = 5000)
 
 
 cur.close()
