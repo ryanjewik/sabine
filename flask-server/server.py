@@ -30,6 +30,8 @@ import getpass
 import os
 from langgraph.checkpoint.mongodb import MongoDBSaver
 import openai
+from dotenv import load_dotenv
+
 
 
 
@@ -41,6 +43,7 @@ CORS(app)
 # Array to store inputs
 inputs = []
 
+load_dotenv()
 
 #user database connection
 try:
