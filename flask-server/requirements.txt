@@ -1,0 +1,49 @@
+# === Core Flask server ===
+Flask
+flask-cors
+
+# === Database ===
+psycopg2-binary  # PostgreSQL
+pymongo  # MongoDB
+
+# === Password hashing ===
+argon2-cffi
+
+# === LangChain, LLMs, and RAG ===
+langchain
+langchain-core
+langchain-mongodb
+langchain-openai
+langchain-text-splitters
+langgraph
+langgraph-checkpoint-mongodb
+openai
+
+# === Data processing and scraping ===
+beautifulsoup4
+requests
+glob2
+
+# === Typing and utilities ===
+typing-extensions
+
+# === For embedding/vector math ===
+numpy
+
+# === Optional: async features ===
+# asyncio  # (part of Python stdlib, do not pip install)
+
+# === Optional: PDF support ===
+# pypdf
+
+# === Optional: Windows console colors ===
+# colorama
+
+# === Optional: .env file support ===
+# python-dotenv
+
+# === Community/compatibility (sometimes needed for langchain) ===
+langchain-community
+
+# === If you use SRV connection for MongoDB ===
+pymongo[srv]
