@@ -1,13 +1,14 @@
 version: '3.9'
 services:
   server:
-    build: ./flask-server
+    build:
+      context: ./flask-server
+      dockerfile: Dockerfile
+    container_name: server
     ports: 
       - "5000:5000"
-    volumes:
-      - ./flask-server:/sabine
     env_file:
-      - ./flask-server/.env
+      - .env
     environment:
       - FLASK_ENV=production
       - OPENAI_API_KEY=${OPENAI_API_KEY}
@@ -17,24 +18,32 @@ services:
       - DB_NAME=${DB_NAME}
       - DB_HOST=${DB_HOST}
       - DB_PORT=${DB_PORT}
+    depends_on:
+      - db
+    restart: unless-stopped
   web:
-    build: ./client
+    build:
+      context: ./client
+      dockerfile: Dockerfile
+      args:
+        - REACT_APP_API_URL=http://localhost:5000
     ports:
-      - "3000:3000"
-    volumes:
-      - ./client:/app
+      - "3000:80"
     depends_on:
       - server
   db:
     image: postgres:latest
     restart: always
     env_file:
-      - ./flask-server/.env
+      - .env
     environment:
       - POSTGRES_USER=${DB_USERNAME}
       - POSTGRES_PASSWORD=${DB_PASSWORD}
       - POSTGRES_DB=${DB_NAME}
+    ports:
+      - "5432:5432"
     volumes:
       - db_data:/var/lib/postgresql/data
+      - ./backup.sql:/docker-entrypoint-initdb.d/backup.sql
 volumes:
   db_data:

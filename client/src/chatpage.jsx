@@ -41,7 +41,7 @@ export const ChatPage = () => {
   // Fetch messages from backend on mount
   const fetchMessages = async () => {
     try {
-      const res = await axios.post('http://localhost:5000/get_messages', { userId: userId });
+      const res = await axios.post(`${process.env.REACT_APP_API_URL}/get_messages`, { userId: userId });
       if (res.data && res.data.messages) {
         setMessages(prev => initialInput ? [
           { sender: "user", text: initialInput, timestamp: new Date().toLocaleString('en-US') },
@@ -62,16 +62,29 @@ export const ChatPage = () => {
       fetchMessages();
     }else{
       if (initialInput) {
-        setMessages([{ sender: "user", text: initialInput, timestamp: new Date().toLocaleString('en-US') }]);
+        // For unauthenticated users with initial input, automatically get chatbot response
+        const handleInitialInput = async () => {
+          const date = new Date();
+          setMessages([{ sender: "user", text: initialInput, timestamp: date.toLocaleString('en-US') }]);
+          
+          try {
+            const response = await axios.post(`${process.env.REACT_APP_API_URL}/chat_unauthenticated`, { input: initialInput });
+            setMessages(prev => [...prev, { sender: "bot", text: response.data.chatbot_response, timestamp: date.toLocaleString('en-US') }]);
+          } catch (error) {
+            console.error("Error getting initial chatbot response:", error);
+          }
+        };
+        
+        handleInitialInput();
       }
       console.log('No userId provided, skipping message fetch');
     }
-  }, [userId]);
+  }, [userId, initialInput]);
 
   // Delete a conversation
   const handleDeleteConversation = async (conversationId) => {
     try {
-      await axios.post('http://localhost:5000/delete_conversation', { userId, conversationId });
+      await axios.post(`${process.env.REACT_APP_API_URL}/delete_conversation`, { userId, conversationId });
       // Remove from local state
       setConversations(prev => prev.filter(conv => conv.conversationId !== conversationId));
       // If the deleted conversation is active, clear messages and convoId
@@ -88,12 +101,12 @@ export const ChatPage = () => {
   const fetchConversations = async () => {
     if (userId && userId !== -1) {
       try {
-        const res = await axios.post('http://localhost:5000/get_conversations', { userId });
+        const res = await axios.post(`${process.env.REACT_APP_API_URL}/get_conversations`, { userId });
         if (res.data && res.data.conversations) {
           setConversations(res.data.conversations);
         }
       } catch (err) {
-        const res = await axios.post('http://localhost:5000/new_conversation', { userId: userId });
+        const res = await axios.post(`${process.env.REACT_APP_API_URL}/new_conversation`, { userId: userId });
         setConvoId(res.data.conversationId);
         fetchConversations(); // Refresh conversations after creating new chat
         fetchMessages(); // Fetch messages for the new conversation
@@ -120,16 +133,29 @@ export const ChatPage = () => {
     try {
       let isFirstMessage = messages.length === 0;
       let response;
+      
       if (userId !== -1) {
-        response = await axios.post('http://localhost:5000/save_input', { input: input, sender: "user", userId: userId, conversationId: convoId, timestamp: date.toLocaleString('en-US') });
+        // Authenticated user - save to database
+        response = await axios.post(`${process.env.REACT_APP_API_URL}/save_input`, { input: input, sender: "user", userId: userId, conversationId: convoId, timestamp: date.toLocaleString('en-US') });
         setConvoId(response.data.convoId);
         // If this is the first message, rename the conversation
         if (isFirstMessage && convoId) {
-          await axios.post('http://localhost:5000/rename_conversation', { userId: userId, conversationId: convoId, title: input });
+          await axios.post(`${process.env.REACT_APP_API_URL}/rename_conversation`, { userId: userId, conversationId: convoId, title: input });
           fetchConversations();
         }
+        setMessages([...messages, { sender: "user", text: input, timestamp: date.toLocaleString('en-US') }, {sender: "bot", text: response.data.chatbot_response, timestamp: date.toLocaleString('en-US') }]);
+      } else {
+        // Unauthenticated user - don't save to database
+        // First add the user message to the UI
+        setMessages(prev => [...prev, { sender: "user", text: input, timestamp: date.toLocaleString('en-US') }]);
+        
+        // Then get chatbot response
+        response = await axios.post(`${process.env.REACT_APP_API_URL}/chat_unauthenticated`, { input: input });
+        
+        // Add the bot response to the UI
+        setMessages(prev => [...prev, { sender: "bot", text: response.data.chatbot_response, timestamp: date.toLocaleString('en-US') }]);
       }
-      setMessages([...messages, { sender: "user", text: input, timestamp: date.toLocaleString('en-US') }, {sender: "bot", text: response.data.chatbot_response, timestamp: date.toLocaleString('en-US') }]);
+      
       setInput("");
     } catch (error) {
       console.error("Error sending message:", error);
@@ -139,7 +165,7 @@ export const ChatPage = () => {
 
     const handleNewChat = async () => {
     try {
-      const res = await axios.post('http://localhost:5000/new_conversation', { userId: userId });
+      const res = await axios.post(`${process.env.REACT_APP_API_URL}/new_conversation`, { userId: userId });
       setConvoId(res.data.conversationId);
       fetchConversations(); // Refresh conversations after creating new chat
       setMessages([]); // Clear messages for new chat
@@ -164,7 +190,7 @@ export const ChatPage = () => {
   const handleSelectConversation = async (conversationId) => {
     setConvoId(conversationId);
     try {
-      const res = await axios.post('http://localhost:5000/get_messages', { userId: userId, conversationId: conversationId });
+      const res = await axios.post(`${process.env.REACT_APP_API_URL}/get_messages`, { userId: userId, conversationId: conversationId });
       if (res.data && res.data.messages) {
         setMessages(res.data.messages);
       }
@@ -182,7 +208,7 @@ export const ChatPage = () => {
     if (event) event.preventDefault();
     try {
       // Call backend to login
-      const response = await axios.post('http://localhost:5000/login', {
+      const response = await axios.post(`${process.env.REACT_APP_API_URL}/login`, {
         username: loginUsername,
         password: loginPassword
       });
@@ -193,14 +219,14 @@ export const ChatPage = () => {
         // If there is a chat in progress (messages), add it as a conversation for this user
         if (messages && messages.length > 0) {
           // Create new conversation for user
-          const convoRes = await axios.post('http://localhost:5000/new_conversation', {
+          const convoRes = await axios.post(`${process.env.REACT_APP_API_URL}/new_conversation`, {
             userId: response.data.userId,
             name: messages[0].text // Use first message as conversation name
           });
           const newConvoId = convoRes.data.conversationId;
           // Add all messages to this conversation
           for (const msg of messages) {
-            await axios.post('http://localhost:5000/save_input', {
+            await axios.post(`${process.env.REACT_APP_API_URL}/save_input`, {
               input: msg.text,
               sender: msg.sender,
               userId: response.data.userId,
@@ -231,7 +257,7 @@ export const ChatPage = () => {
             return;
         }
         try {
-            const response = await axios.post('http://localhost:5000/signup', { username: signupUsername, password: signupPassword });
+            const response = await axios.post(`${process.env.REACT_APP_API_URL}/signup`, { username: signupUsername, password: signupPassword });
             if (response.status === 201) {
                 const userId = response.data.userId
                 console.log('User signed up:', signupUsername);

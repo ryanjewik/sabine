@@ -18,12 +18,9 @@ export default function FullWidthTextField() {
               setError(true);
           } else {
               setError(false);
-              try {
-                await axios.post('http://localhost:5000/save_input', { input: inputValue});
-                navigate("/chatpage", { state: { userId: -1, input: inputValue } });
-              } catch (error) {
-                console.error('Error saving input:', error);
-              }
+              // For unauthenticated users, just navigate to chatpage without saving to database
+              // The initial message will be handled in the chatpage component
+              navigate("/chatpage", { state: { userId: -1, input: inputValue } });
           }
       }
   };

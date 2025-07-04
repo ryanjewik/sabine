@@ -40,7 +40,7 @@ numpy
 # colorama
 
 # === Optional: .env file support ===
-# python-dotenv
+python-dotenv
 
 # === Community/compatibility (sometimes needed for langchain) ===
 langchain-community

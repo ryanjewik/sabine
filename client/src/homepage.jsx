@@ -37,7 +37,7 @@ export const HomePage = () => {
         console.log("past the preventDefault check");
         try {
             console.log("attempting to send username and password to backend");
-            const response = await axios.post('http://localhost:5000/login', {
+            const response = await axios.post(`${process.env.REACT_APP_API_URL}/login`, {
                 username: loginUsername,
                 password: loginPassword
             });
@@ -70,12 +70,13 @@ export const HomePage = () => {
             return;
         }
         try {
-            const response = await axios.post('http://localhost:5000/signup', { username: signupUsername, password: signupPassword });
+            const response = await axios.post(`${process.env.REACT_APP_API_URL}/signup`, { username: signupUsername, password: signupPassword });
             if (response.status === 201) {
                 const userId = response.data.userId
                 console.log('User signed up:', signupUsername);
                 setIsLoggedIn(true);
                 setSignupOpen(false);
+                navigate('/chatpage', { state: { userId: userId } });
             }
         } catch (error) {
             console.error('Error signing up:', error);

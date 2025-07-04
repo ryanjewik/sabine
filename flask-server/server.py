@@ -38,36 +38,71 @@ from dotenv import load_dotenv
 #BACKEND FILE
 
 app = Flask(__name__)
-CORS(app)
+CORS(app, origins=["http://localhost:3000", "http://127.0.0.1:3000"])
 
 # Array to store inputs
 inputs = []
 
-load_dotenv()
+import time
 
-#user database connection
+load_dotenv()  # This will look for .env in current directory or parent directories
+
+#user database connection with retry mechanism
+def connect_to_database(max_retries=30, delay=2):
+    """
+    Attempt to connect to the database with retry logic
+    """
+    for attempt in range(max_retries):
+        try:
+            print(f"Attempting to connect to database (attempt {attempt + 1}/{max_retries}):")
+            print(f"  Host: {os.getenv('DB_HOST')}")
+            print(f"  Database: {os.getenv('DB_NAME')}")
+            print(f"  User: {os.getenv('DB_USERNAME')}")
+            print(f"  Port: {os.getenv('DB_PORT')}")
+            
+            conn = psycopg2.connect(
+                database=os.getenv("DB_NAME"),
+                user=os.getenv("DB_USERNAME"),
+                password=os.getenv("DB_PASSWORD"),
+                host=os.getenv("DB_HOST"),
+                port=os.getenv("DB_PORT")
+            )
+            print("✅ Database connection successful!")
+            return conn
+        except Exception as e:
+            print(f"❌ Error connecting to the database (attempt {attempt + 1}): {e}")
+            if attempt < max_retries - 1:
+                print(f"⏳ Retrying in {delay} seconds...")
+                time.sleep(delay)
+            else:
+                print(f"💀 Failed to connect to database after {max_retries} attempts")
+                raise e
+
 try:
-    conn = psycopg2.connect(
-        database=os.getenv("DB_NAME"),
-        user=os.getenv("DB_USERNAME"),
-        password=os.getenv("DB_PASSWORD"),
-        host=os.getenv("DB_HOST"),
-        port=os.getenv("DB_PORT")
-    )
+    conn = connect_to_database()
     cur = conn.cursor()
 except Exception as e:
-    print("Error connecting to the database:", e)
+    print("❌ Failed to establish database connection:", e)
+    conn = None
+    cur = None
 # Check if the connection was successful 
-if conn:
+if conn and cur:
     print("Connected to the user accounts database successfully!")
-    cur.execute("""
-    CREATE TABLE IF NOT EXISTS user_accounts (
-        id SERIAL PRIMARY KEY,
-        username VARCHAR(100) NOT NULL UNIQUE,
-        password_hash VARCHAR(255) NOT NULL
-    )
-    """)
-    conn.commit()
+    try:
+        cur.execute("""
+        CREATE TABLE IF NOT EXISTS user_accounts (
+            userid SERIAL PRIMARY KEY,
+            username TEXT NOT NULL UNIQUE,
+            password_hash TEXT NOT NULL
+        )
+        """)
+        conn.commit()
+        print("✅ User accounts table is ready.")
+    except Exception as e:
+        print(f"❌ Error creating table: {e}")
+        conn.rollback()
+else:
+    print("⚠️ Database connection not available - some features will be disabled")
 
 
 
@@ -285,7 +320,67 @@ graph.add_conditional_edges(
 
 
 
-#app routing
+# Health check endpoint for testing connectivity
+@app.route("/health", methods=["GET"])
+def health():
+    return jsonify({"status": "ok", "message": "Server is running!"}), 200
+
+@app.route("/debug/db", methods=["GET"])
+def debug_database():
+    """Debug endpoint to inspect database connection and user accounts"""
+    try:
+        # Check if connection is alive
+        if not conn or conn.closed:
+            return jsonify({"error": "Database connection is closed"}), 500
+            
+        # Test the connection
+        cur.execute("SELECT 1")
+        
+        # Get database connection info
+        cur.execute("SELECT current_database(), current_user, version();")
+        db_info = cur.fetchone()
+        
+        # Get all user accounts
+        cur.execute("SELECT userid, username, password_hash FROM user_accounts ORDER BY userid;")
+        users = cur.fetchall()
+        
+        # Get table info
+        cur.execute("SELECT table_name FROM information_schema.tables WHERE table_schema = 'public';")
+        tables = cur.fetchall()
+        
+        debug_info = {
+            "connection_status": "connected",
+            "database_info": {
+                "database": db_info[0],
+                "user": db_info[1],
+                "version": db_info[2]
+            },
+            "environment_variables": {
+                "DB_NAME": os.getenv("DB_NAME"),
+                "DB_USERNAME": os.getenv("DB_USERNAME"),
+                "DB_HOST": os.getenv("DB_HOST"),
+                "DB_PORT": os.getenv("DB_PORT"),
+                "DB_PASSWORD": "***" if os.getenv("DB_PASSWORD") else None
+            },
+            "tables": [table[0] for table in tables],
+            "user_accounts": [
+                {
+                    "id": user[0],
+                    "username": user[1],
+                    "password_hash": user[2][:20] + "..." if user[2] else None
+                } for user in users
+            ],
+            "total_users": len(users)
+        }
+        
+        return jsonify(debug_info), 200
+        
+    except Exception as e:
+        return jsonify({
+            "error": "Database debug failed",
+            "message": str(e),
+            "connection_status": "error"
+        }), 500
 @app.route("/")
 def index():
     # Redirect to the homepage
@@ -525,37 +620,61 @@ def delete_conversation():
 
 @app.route("/login", methods=["POST"])
 def login():
+    print("=== LOGIN ENDPOINT HIT ===")
     print("attempting to login")
+    
+    # Check if database connection is available
+    if not conn or conn.closed:
+        print("❌ Database connection not available")
+        return jsonify({"error": "Database connection unavailable"}), 503
+    
     data = request.get_json()
-    username = data.get("username")
-    password = data.get("password")
-    print("data received!: ", data)
+    print("Raw request data:", data)
+    username = data.get("username") if data else None
+    password = data.get("password") if data else None
+    print("Extracted username:", username, "password length:", len(password) if password else 0)
+    
     if not username or not password:
+        print("Missing username or password")
         return jsonify({"error": "Username and password are required"}), 400
-    #hash the password for security
-    ph = PasswordHasher(
-        time_cost=2,  # Time cost for hashing
-        memory_cost=2**16,  # Memory cost in KB
-        parallelism=1,  # Number of parallel threads
-        hash_len=32,  # Length of the hash
-        salt_len=16  # Length of the salt
-    )
+    
+    try:
+        # Ensure we're in a clean transaction state
+        conn.rollback()
+        
+        #hash the password for security
+        ph = PasswordHasher(
+            time_cost=2,  # Time cost for hashing
+            memory_cost=2**16,  # Memory cost in KB
+            parallelism=1,  # Number of parallel threads
+            hash_len=32,  # Length of the hash
+            salt_len=16  # Length of the salt
+        )
 
-    # Fetch the user from the database
-    cur.execute("SELECT * FROM user_accounts WHERE username = %s", (username,))
-    user = cur.fetchone()
-    print("user fetched: ", user)
-    if user:
-        if ph.verify(user[2], password):
-            
-            print("Login successful")
-            return jsonify({"message": "Login successful", "userId": user[0]}), 200
+        # Fetch the user from the database
+        cur.execute("SELECT userid, username, password_hash FROM user_accounts WHERE username = %s", (username,))
+        user = cur.fetchone()
+        print("user fetched: ", user)
+        
+        if user:
+            user_id, db_username, password_hash = user
+            if ph.verify(password_hash, password):
+                print("Login successful")
+                conn.commit()
+                return jsonify({"message": "Login successful", "userId": user_id}), 200
+            else:
+                print("Invalid password")
+                conn.rollback()
+                return jsonify({"error": "Invalid password"}), 401
         else:
-            print("Invalid password")
-            return jsonify({"error": "Invalid password"}), 401
-    else:
-        print("User not found")
-        return jsonify({"error": "User not found"}), 404
+            print("User not found")
+            conn.rollback()
+            return jsonify({"error": "User not found"}), 401
+            
+    except Exception as e:
+        print(f"Error in login: {e}")
+        conn.rollback()
+        return jsonify({"error": "Database error occurred"}), 500
 
 
 
@@ -565,37 +684,56 @@ def signup():
     username = data.get("username")
     password = data.get("password")
     
-    #hash the password for security
-    ph = PasswordHasher(
-        time_cost=2,  # Time cost for hashing
-        memory_cost=2**16,  # Memory cost in KB
-        parallelism=1,  # Number of parallel threads
-        hash_len=32,  # Length of the hash
-        salt_len=16  # Length of the salt
-    )
-    hashed_password = ph.hash(password)
-
     if not username or not password:
         return jsonify({"error": "Username and password are required"}), 400
+    
+    # Check if database connection is available
+    if not conn or conn.closed:
+        print("❌ Database connection not available")
+        return jsonify({"error": "Database connection unavailable"}), 503
+    
+    try:
+        # Ensure we're in a clean transaction state
+        conn.rollback()
+        
+        #hash the password for security
+        ph = PasswordHasher(
+            time_cost=2,  # Time cost for hashing
+            memory_cost=2**16,  # Memory cost in KB
+            parallelism=1,  # Number of parallel threads
+            hash_len=32,  # Length of the hash
+            salt_len=16  # Length of the salt
+        )
+        hashed_password = ph.hash(password)
 
-    # Check for existing user
-    print("Checking for existing user")
-    cur.execute("SELECT * FROM user_accounts WHERE username = %s", (username,))
-    existing_user = cur.fetchone()
-    if existing_user:
-        print("User already exists")
-        return jsonify({"error": "User already exists", "userId": existing_user[0]}), 400
-    print("No existing user found, creating new user")
-    # Create new user
-    # must get a user ID
-    cur.execute("SELECT userId FROM user_accounts ORDER BY userId DESC LIMIT 1;")
-    userId = cur.fetchone()[0]
-    userId += 1
-    cur.execute("INSERT INTO user_accounts (userId, username, password_hash) VALUES (%s, %s, %s);", (userId, username, hashed_password))
-    conn.commit()
-    print(f"User created with ID: {userId}")
-    login()
-    return jsonify({"message": "User created successfully", "userId": userId}), 201
+        # Check for existing user
+        print("Checking for existing user")
+        cur.execute("SELECT * FROM user_accounts WHERE username = %s", (username,))
+        existing_user = cur.fetchone()
+        if existing_user:
+            print("User already exists")
+            conn.rollback()
+            return jsonify({"error": "User already exists", "userId": existing_user[0]}), 400
+        
+        print("No existing user found, creating new user")
+        # Create new user - let PostgreSQL auto-generate the ID
+        print(f"Inserting user: {username}")
+        cur.execute("INSERT INTO user_accounts (username, password_hash) VALUES (%s, %s) RETURNING userid;", (username, hashed_password))
+        userId = cur.fetchone()[0]
+        conn.commit()
+        print(f"✅ User created successfully with ID: {userId}")
+        
+        # Verify the user was created
+        cur.execute("SELECT COUNT(*) FROM user_accounts WHERE username = %s", (username,))
+        count = cur.fetchone()[0]
+        print(f"✅ Verification: Found {count} user(s) with username '{username}'")
+        
+        return jsonify({"message": "User created successfully", "userId": userId}), 201
+        
+    except Exception as e:
+        print(f"❌ Error creating user: {e}")
+        conn.rollback()
+        return jsonify({"error": "Failed to create user"}), 500
 
 
 
@@ -659,10 +797,38 @@ def run_sabine_chatbot(question, conversationId):
     
 
 
+@app.route("/chat_unauthenticated", methods=["POST"])
+def chat_unauthenticated():
+    """Handle chat requests for unauthenticated users without saving to database"""
+    data = request.get_json()
+    input_value = data.get("input")
+    
+    if not input_value:
+        return jsonify({"error": "Input is required"}), 400
+    
+    try:
+        # Generate chatbot response using a temporary conversation ID
+        # Use a negative conversation ID to indicate it's temporary/unauthenticated
+        temp_conversation_id = -1
+        chatbot_response = run_sabine_chatbot(question=input_value, conversationId=temp_conversation_id)
+        
+        return jsonify({
+            "message": "Response generated successfully",
+            "chatbot_response": chatbot_response
+        }), 200
+        
+    except Exception as e:
+        print(f"Error in chat_unauthenticated: {e}")
+        return jsonify({"error": "Failed to generate response"}), 500
+
 if __name__ == "__main__":
-    app.run(debug=True, host = '0.0.0.0', port = 5000)
-
-
-cur.close()
-conn.close()
-client.close()
+    try:
+        app.run(host='0.0.0.0', port=5000, debug=True)
+    finally:
+        # Close connections when the app shuts down
+        if 'cur' in globals() and cur:
+            cur.close()
+        if 'conn' in globals() and conn:
+            conn.close()
+        if 'client' in globals() and client:
+            client.close()
