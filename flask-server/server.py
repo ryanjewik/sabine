@@ -2,6 +2,8 @@ from flask import Flask, redirect, url_for, request, jsonify
 from flask_cors import CORS
 from datetime import datetime
 import psycopg2
+import time
+import os
 from pymongo import DESCENDING
 from argon2 import PasswordHasher
 from argon2.exceptions import VerifyMismatchError
@@ -27,10 +29,10 @@ from langgraph.graph.message import add_messages
 from langgraph.prebuilt import ToolNode, tools_condition
 from typing_extensions import TypedDict
 import getpass
-import os
 from langgraph.checkpoint.mongodb import MongoDBSaver
 import openai
 from dotenv import load_dotenv
+import traceback
 
 
 
@@ -38,12 +40,15 @@ from dotenv import load_dotenv
 #BACKEND FILE
 
 app = Flask(__name__)
-CORS(app, origins=["http://localhost:3000", "http://127.0.0.1:3000"])
+CORS(app, origins=[
+    "https://sabinechat.com",
+    "https://www.sabinechat.com"
+], supports_credentials=True)
+
 
 # Array to store inputs
 inputs = []
 
-import time
 
 load_dotenv()  # This will look for .env in current directory or parent directories
 
@@ -78,6 +83,28 @@ def connect_to_database(max_retries=30, delay=2):
                 print(f"💀 Failed to connect to database after {max_retries} attempts")
                 raise e
 
+def get_db_connection():
+    """
+    Get a database connection, reconnecting if necessary
+    """
+    global conn, cur
+    try:
+        # Check if connection exists and is working
+        if conn and not conn.closed:
+            cur.execute("SELECT 1")  # Test query
+            return conn, cur
+    except (psycopg2.OperationalError, psycopg2.InterfaceError, AttributeError):
+        print("🔄 Database connection lost, reconnecting...")
+    
+    # Reconnect
+    try:
+        conn = connect_to_database()
+        cur = conn.cursor()
+        return conn, cur
+    except Exception as e:
+        print(f"❌ Failed to reconnect to database: {e}")
+        return None, None
+
 try:
     conn = connect_to_database()
     cur = conn.cursor()
@@ -103,8 +130,6 @@ if conn and cur:
         conn.rollback()
 else:
     print("⚠️ Database connection not available - some features will be disabled")
-
-
 
 
 #messages database connection
@@ -321,32 +346,33 @@ graph.add_conditional_edges(
 
 
 # Health check endpoint for testing connectivity
-@app.route("/health", methods=["GET"])
+@app.route("/api/health", methods=["GET"])
 def health():
     return jsonify({"status": "ok", "message": "Server is running!"}), 200
 
-@app.route("/debug/db", methods=["GET"])
+@app.route("/api/debug/db", methods=["GET"])
 def debug_database():
     """Debug endpoint to inspect database connection and user accounts"""
     try:
-        # Check if connection is alive
-        if not conn or conn.closed:
-            return jsonify({"error": "Database connection is closed"}), 500
+        # Get fresh database connection
+        db_conn, db_cur = get_db_connection()
+        if not db_conn or not db_cur:
+            return jsonify({"error": "Database connection not available"}), 503
             
         # Test the connection
-        cur.execute("SELECT 1")
+        db_cur.execute("SELECT 1")
         
         # Get database connection info
-        cur.execute("SELECT current_database(), current_user, version();")
-        db_info = cur.fetchone()
+        db_cur.execute("SELECT current_database(), current_user, version();")
+        db_info = db_cur.fetchone()
         
         # Get all user accounts
-        cur.execute("SELECT userid, username, password_hash FROM user_accounts ORDER BY userid;")
-        users = cur.fetchall()
+        db_cur.execute("SELECT userid, username, password_hash FROM user_accounts ORDER BY userid;")
+        users = db_cur.fetchall()
         
         # Get table info
-        cur.execute("SELECT table_name FROM information_schema.tables WHERE table_schema = 'public';")
-        tables = cur.fetchall()
+        db_cur.execute("SELECT table_name FROM information_schema.tables WHERE table_schema = 'public';")
+        tables = db_cur.fetchall()
         
         debug_info = {
             "connection_status": "connected",
@@ -397,7 +423,7 @@ def members():
     return {"members": ["Member1", "Member2", "Member3"]}
 
 
-@app.route("/save_input", methods=["POST", "GET"])
+@app.route("/api/save_input", methods=["POST", "GET"])
 def save_input():
     data = request.get_json()
     input_value = data.get("input")
@@ -457,7 +483,7 @@ def save_input():
     return jsonify({"error": "Invalid input"}), 400
 
 
-@app.route("/get_messages", methods=["POST"])
+@app.route("/api/get_messages", methods=["POST"])
 def get_messages():
     print("attempting to retrieve messages")
     data = request.get_json()
@@ -501,7 +527,7 @@ def get_messages():
             })
         return jsonify({"messages": messages, "convoId": convoId}), 200
 
-@app.route("/get_conversations", methods=["POST"])
+@app.route("/api/get_conversations", methods=["POST"])
 def get_conversations():
     print("attempting to retrieve conversations")
     data = request.get_json()
@@ -525,9 +551,9 @@ def get_conversations():
     else:
         return jsonify({"error": "No conversations found for this user"}), 404
     
-    
-    
-@app.route("/new_conversation", methods=["POST"])
+
+
+@app.route("/api/new_conversation", methods=["POST"])
 def new_conversation():
     print("attempting to create a new conversation")
     data = request.get_json()
@@ -563,7 +589,7 @@ def new_conversation():
     return jsonify({"message": "New conversation created successfully", "conversationId": convoId}), 201
 
 
-@app.route("/rename_conversation", methods=["POST"])
+@app.route("/api/rename_conversation", methods=["POST"])
 def rename_conversation():
     print("attempting to rename conversation")
     data = request.get_json()
@@ -588,7 +614,7 @@ def rename_conversation():
         return jsonify({"error": "Failed to rename conversation"}), 400
     
 
-@app.route("/delete_conversation", methods=["POST"])
+@app.route("/api/delete_conversation", methods=["POST"])
 def delete_conversation():
     print("attempting to delete conversation")
     data = request.get_json()
@@ -618,15 +644,10 @@ def delete_conversation():
     
     
 
-@app.route("/login", methods=["POST"])
+@app.route("/api/login", methods=["POST"])
 def login():
     print("=== LOGIN ENDPOINT HIT ===")
     print("attempting to login")
-    
-    # Check if database connection is available
-    if not conn or conn.closed:
-        print("❌ Database connection not available")
-        return jsonify({"error": "Database connection unavailable"}), 503
     
     data = request.get_json()
     print("Raw request data:", data)
@@ -638,9 +659,15 @@ def login():
         print("Missing username or password")
         return jsonify({"error": "Username and password are required"}), 400
     
+    # Get fresh database connection
+    db_conn, db_cur = get_db_connection()
+    if not db_conn or not db_cur:
+        print("❌ Database connection not available")
+        return jsonify({"error": "Database connection unavailable"}), 503
+    
     try:
         # Ensure we're in a clean transaction state
-        conn.rollback()
+        db_conn.rollback()
         
         #hash the password for security
         ph = PasswordHasher(
@@ -652,49 +679,59 @@ def login():
         )
 
         # Fetch the user from the database
-        cur.execute("SELECT userid, username, password_hash FROM user_accounts WHERE username = %s", (username,))
-        user = cur.fetchone()
+        db_cur.execute("SELECT userid, username, password_hash FROM user_accounts WHERE username = %s", (username,))
+        user = db_cur.fetchone()
         print("user fetched: ", user)
         
         if user:
             user_id, db_username, password_hash = user
             if ph.verify(password_hash, password):
                 print("Login successful")
-                conn.commit()
+                db_conn.commit()
                 return jsonify({"message": "Login successful", "userId": user_id}), 200
             else:
                 print("Invalid password")
-                conn.rollback()
+                db_conn.rollback()
                 return jsonify({"error": "Invalid password"}), 401
         else:
             print("User not found")
-            conn.rollback()
+            db_conn.rollback()
             return jsonify({"error": "User not found"}), 401
             
     except Exception as e:
         print(f"Error in login: {e}")
-        conn.rollback()
+        try:
+            db_conn.rollback()
+        except:
+            pass  # Connection might be closed
         return jsonify({"error": "Database error occurred"}), 500
 
 
 
-@app.route("/signup", methods=["POST"])
+@app.route("/api/signup", methods=["POST"])
 def signup():
+    print("=== SIGNUP ENDPOINT HIT ===")
+    print("attempting to signup")
+    
     data = request.get_json()
-    username = data.get("username")
-    password = data.get("password")
+    print("Raw request data:", data)
+    username = data.get("username") if data else None
+    password = data.get("password") if data else None
+    print("Extracted username:", username, "password length:", len(password) if password else 0)
     
     if not username or not password:
+        print("Missing username or password")
         return jsonify({"error": "Username and password are required"}), 400
     
-    # Check if database connection is available
-    if not conn or conn.closed:
+    # Get fresh database connection
+    db_conn, db_cur = get_db_connection()
+    if not db_conn or not db_cur:
         print("❌ Database connection not available")
         return jsonify({"error": "Database connection unavailable"}), 503
     
     try:
         # Ensure we're in a clean transaction state
-        conn.rollback()
+        db_conn.rollback()
         
         #hash the password for security
         ph = PasswordHasher(
@@ -708,31 +745,35 @@ def signup():
 
         # Check for existing user
         print("Checking for existing user")
-        cur.execute("SELECT * FROM user_accounts WHERE username = %s", (username,))
-        existing_user = cur.fetchone()
+        db_cur.execute("SELECT userid FROM user_accounts WHERE username = %s", (username,))
+        existing_user = db_cur.fetchone()
         if existing_user:
             print("User already exists")
-            conn.rollback()
+            db_conn.rollback()
             return jsonify({"error": "User already exists", "userId": existing_user[0]}), 400
         
         print("No existing user found, creating new user")
         # Create new user - let PostgreSQL auto-generate the ID
         print(f"Inserting user: {username}")
-        cur.execute("INSERT INTO user_accounts (username, password_hash) VALUES (%s, %s) RETURNING userid;", (username, hashed_password))
-        userId = cur.fetchone()[0]
-        conn.commit()
+        db_cur.execute("INSERT INTO user_accounts (username, password_hash) VALUES (%s, %s) RETURNING userid;", (username, hashed_password))
+        userId = db_cur.fetchone()[0]
+        db_conn.commit()
         print(f"✅ User created successfully with ID: {userId}")
         
         # Verify the user was created
-        cur.execute("SELECT COUNT(*) FROM user_accounts WHERE username = %s", (username,))
-        count = cur.fetchone()[0]
+        db_cur.execute("SELECT COUNT(*) FROM user_accounts WHERE username = %s", (username,))
+        count = db_cur.fetchone()[0]
         print(f"✅ Verification: Found {count} user(s) with username '{username}'")
         
         return jsonify({"message": "User created successfully", "userId": userId}), 201
         
     except Exception as e:
         print(f"❌ Error creating user: {e}")
-        conn.rollback()
+        traceback.print_exc()  # Print full stack trace for debugging
+        try:
+            db_conn.rollback()
+        except:
+            pass  # Connection might be closed
         return jsonify({"error": "Failed to create user"}), 500
 
 
@@ -797,7 +838,7 @@ def run_sabine_chatbot(question, conversationId):
     
 
 
-@app.route("/chat_unauthenticated", methods=["POST"])
+@app.route("/api/chat_unauthenticated", methods=["POST"])
 def chat_unauthenticated():
     """Handle chat requests for unauthenticated users without saving to database"""
     data = request.get_json()
@@ -820,6 +861,44 @@ def chat_unauthenticated():
     except Exception as e:
         print(f"Error in chat_unauthenticated: {e}")
         return jsonify({"error": "Failed to generate response"}), 500
+
+@app.route("/api/debug/repair-sequence", methods=["POST"])
+def repair_sequence():
+    """Repair the userid sequence to match the actual maximum ID in the table"""
+    try:
+        # Get fresh database connection
+        db_conn, db_cur = get_db_connection()
+        if not db_conn or not db_cur:
+            return jsonify({"error": "Database connection not available"}), 503
+        
+        # Get the current maximum userid
+        db_cur.execute("SELECT MAX(userid) FROM user_accounts;")
+        max_id = db_cur.fetchone()[0]
+        max_id = max_id if max_id is not None else 0
+        
+        # Reset the sequence to the next available ID
+        next_id = max_id + 1
+        db_cur.execute(f"SELECT setval('user_accounts_userid_seq', {next_id});")
+        db_conn.commit()
+        
+        # Verify the sequence
+        db_cur.execute("SELECT last_value FROM user_accounts_userid_seq;")
+        current_seq = db_cur.fetchone()[0]
+        
+        return jsonify({
+            "message": "Sequence repaired successfully",
+            "max_userid": max_id,
+            "sequence_value": current_seq
+        }), 200
+        
+    except Exception as e:
+        print(f"❌ Error repairing sequence: {e}")
+        traceback.print_exc()
+        try:
+            db_conn.rollback()
+        except:
+            pass
+        return jsonify({"error": "Failed to repair sequence", "details": str(e)}), 500
 
 if __name__ == "__main__":
     try:

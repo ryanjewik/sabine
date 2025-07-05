@@ -1,14 +1,20 @@
-version: '3.9'
+version: "3.9"
+
+networks:
+  appnet:               # single private bridge network
+    driver: bridge
+
 services:
+  # ───────────────────────────  Flask API  ────────────────────────────
   server:
     build:
       context: ./flask-server
-      dockerfile: Dockerfile
+      dockerfile: Dockerfile          # expose port 5000 to the host
     container_name: server
-    ports: 
-      - "5000:5000"
+    expose:                     # internal only
+      - "5000"
     env_file:
-      - .env
+      - .env                    # your secrets live here
     environment:
       - FLASK_ENV=production
       - OPENAI_API_KEY=${OPENAI_API_KEY}
@@ -16,34 +22,46 @@ services:
       - DB_PASSWORD=${DB_PASSWORD}
       - DB_USERNAME=${DB_USERNAME}
       - DB_NAME=${DB_NAME}
-      - DB_HOST=${DB_HOST}
-      - DB_PORT=${DB_PORT}
+      - DB_HOST=db              # talks to Postgres over the network
+      - DB_PORT=5432
     depends_on:
       - db
     restart: unless-stopped
+    networks: [appnet]
+
+  # ───────────────────────────  React + Nginx  ────────────────────────
   web:
     build:
       context: ./client
       dockerfile: Dockerfile
       args:
-        - REACT_APP_API_URL=http://localhost:5000
+        - REACT_APP_API_URL=https://sabinechat.com  # still use HTTPS since that's what Cloudflare serves
+    volumes:
+      - /etc/letsencrypt/live/sabinechat.com/fullchain.pem:/etc/nginx/certs/fullchain.pem:ro
+      - /etc/letsencrypt/live/sabinechat.com/privkey.pem:/etc/nginx/certs/privkey.pem:ro
     ports:
-      - "3000:80"
+      - "80:80"  # only expose port 80
+      - "443:443"
     depends_on:
       - server
+    restart: unless-stopped
+    networks: [appnet]
+
+  # ───────────────────────────  PostgreSQL  ───────────────────────────
   db:
     image: postgres:latest
-    restart: always
+    restart: unless-stopped
     env_file:
       - .env
     environment:
       - POSTGRES_USER=${DB_USERNAME}
       - POSTGRES_PASSWORD=${DB_PASSWORD}
       - POSTGRES_DB=${DB_NAME}
-    ports:
-      - "5432:5432"
     volumes:
       - db_data:/var/lib/postgresql/data
-      - ./backup.sql:/docker-entrypoint-initdb.d/backup.sql
+    expose:
+      - "5432"                   # internal only
+    networks: [appnet]
+
 volumes:
   db_data:
